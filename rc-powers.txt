@@ -1,0 +1,81 @@
+Summary of Powers:
+	Regeneration:
+		Heals from minor injuries in minutes and major trauma in hours or days.
+		Extreme, near-fatal trauma triggers an Enhancement Coma, a longer Healing Coma where their body adapts to be more able to resist that damage in future
+			[example - after Connor was mortally wounded by the Judge and lost his lungs and primary heart, grew several tertiary hearts and lungs became modular]
+		Can adapt to specific conditions over time - if they regularly go prolongued periods without oxygen, they will gradually be able to hold their breath for longer - essentially, can train themselves to break beyond even their own biology. There is no theoretical limit to this ability - through sufficient training, their body can defy basic reason.
+		Regerative feats:
+			Recovered from severe smoke inhalation and multiple 3rd-degree burns in the space of 9 hours.
+			Regrew an entire hand in 16 hours.
+			Regrew an entire arm, as well as 60% of its intestinal tract, in 27 hours.
+			Regrew its entire lung lining after a chlorine gas attack in 3 hours. Was observed breathing and speaking normally after only 40 minutes of the attack.
+			Recovered from an attack which led to its lungs, heart, and ribcage being punched out in 3 days. Especially impressive as said attack meant all healing was performed via anaerobic respiration
+
+
+	Biological Enhancements:
+		Circulatory/Respiratory System:
+			Multiple backup hearts and hyperoxygenated blood enhance resilience and physical performance.
+			Capable of breathing toxic air or water temporarily; can survive without oxygen through anaerobic respiration.
+				[side effect - anaerobic respiration will eventually cause cryptobiosis, a coma-state. Cannot use full strength without oxygen either]
+		Digestive/Urological System:
+			Can digest just about any organic matter. Multi-chambered stomach allows ruminant behaviour and easy toxin removal.
+			Liver and kidneys hyper-optimised. As long as healing factor is active, toxins are largely harmless in the bloodstream.
+				Side effect: Physically incabable of getting drunk. As in, can consume straight ethanol without intoxication. Having ethanol literally injected into their veins continously will at most make them feel "buzzed"
+				Anti-intoxication can however be disabled by lemon juice - somehow. Downing a cup of concentrated lemon juice, or eating a whole lemon, can allow them to get tipsy. They can't get past that, though.
+		Metabolism: Efficient energy usage enables prolonged survival in hostile conditions, including starvation.
+			[corollary - going without food restricts power - cannot heal without repurposing existing flesh, and is unable to use super-strength. Toughness remains as-is.]
+			Requires a daily caloric intake of 9,000 calories to operate at peak efficiency. Can operate at near-peak efficiency at 6,000 calories. Can operate at high efficiency at 3,000 calories. Can operate at the same levels as a human at 1,000 calories. Maintains toughness regardless of calorie consumption, unless Ketosis has begun.
+			Metabolism is extremely efficient all things considered. Minimal heat waste means basal body temperatrue is 1C higher than a baseliner.
+		Immune system: Smart immune system can target specific problems. Completely immune to viruses due to unique genetic makeup (no viruses exist that could infect their cells). Bacteria and parastites are systematically targeted by the immune system, as are cancers.
+		Telomerase: Ageless due to persistent telomerase production. Likewise able to recover from DNA damage over time.
+		Evolution: Has a unique organ containing a fetus-like mass. Here, the body experiments with new mutations, seeing which ones would be beneficial to be applied to the whole body. Said 'fetus' has no frontal cortex, and is consumed when food is scarce.
+
+	Physical enhancements:	
+		Tissue Enhancements: Superior strength due to extreme muscle density. Can lift armoured vehicles, deliver punches with the force of a jackhammer, and leap 10 metres vertically. Flesh can receive gunshots from small arms fire and only result in bruising. Armour-piercing rounds like explosive rounds or CNT-tipped bullets can cut through flesh. Like bones, muscles are reinforced with CNT fibres.
+		Bone Enhancements: Bones are increased in density and reinforced with CNT fibres - like rebar in concrete. Breaking these bones requires extreme force - up to 5x that of a regular human. Bones are also optimised to direct impact force to the joints - most 'breaks' are in fact dislocations.
+		Physical feats:
+			With heavy exertion, lifted the front of a BMP-3 over its head, flipping it over after considerable effort. Exertion was equivalent to a human lifting an extreme weight.
+			With moderate exertion, lifting and holding an entire Jeep above its head. Exertion was equivalent to a human lifting a relatively heavy set of weights.
+			Leaping vertically in excess of 10 meters.
+			Delivering 'light jabs' that were able to break apart concrete as though it were a jackhammer. Said feat was performed without 'breaking a sweat' so to speak - exhibiting a similar amount of exertion a baseliner would by using a punching bag.
+			Punching a human opponent with enough force to practically disintegrate them - Forensic Investigators initially assumed the opponent had been killed by high explosives due to the extent of gorification.
+			Dragging several cars out of a fast-running stream from underwater away to safety.
+			Withstand small arms fire with only bruising.
+			Survive armour-piercing rounds with injury comparable to subsonic pistol rounds on a baseliner.
+			Fell from a 13-story drop, dislocating its spine. Upon being laid down flat, regained consciousness and was able to hobble away. In less than 2 hours, was engaging in brutal combat again.
+			Carrying on from above: was shot at with over 150 assault rifle rounds while exhausted and injured from aforementioned fall. Was able to win ensuing melee fight.
+			Has reached terminal velocity during a freefall and survived.
+			Has survived exposure to the vacuum of space with no protective gear
+			Survived a mission in a meltdowning nuclear reactor - was critically weakened by radiation, but recovered in a few days.
+
+	Neurological & Sensory Systems:
+		Enhanced reflexes, acute senses (including low-light vision and thermal detection), and the ability to multitask visually with chameleon-like eyes.
+		Backup neural network in the torso can restore basic function after head trauma - can theoretically survive decapitation.
+		'Paradrenaline' allows bursts of superhuman feats but induces catatonia afterward. Extreme stress can trigger "Berserker Rage", mindless rampages of unstoppable force
+		Nervous system able to communicate with itself to an unprecendented degree in biology - the body has a 'blueprint' that allows it to direct its healing without becoming overly tumour-ridden or creating malformed organs. While in Enhancement, the body can tell based on subconscious thoughts what improvements would be useful.
+		Senses are massively fine-tuned.
+			Can clearly hear frequencies up to 40kHz.
+			Can see small amounts of Infrared and Ultraviolet radiation.
+			Can actively sense electromagnetic effects, including bioelectricity and radiation.
+			Can use echolocation, though this requires concentration due to the frequencies messing with their senses.
+			Inside the eyes, a small bioluminescent organ emits low-frequency lights, which are used like a radar system to assist depth perception and provide night vision.
+				When in Berserker Rage, this organ goes haywire and produces visible red light, resulting in the iconic glowing red eyes.
+
+	Skills and Equipment:
+		Able to telepathically communicate with other superhumans at short range - in practical terms, no language barrier between supers (enabling telepathic communication between Connor and Sparky)
+		In posession of "Morphing Suit" - an organic substance similar to the Venom Symbiote in that they can form clothes, armour, and weapons out of the substance - allowing them to change between costume and civillian clothes easily, and also means they always have a knife handy
+
+	Vulnerabilities:
+		Seizures and migraines are a constant hindrance, exacerbated under stress.
+		Healing is limited by food supply and can be overwhelmed by sustained or multi-faceted damage.
+		Reliant on specialist diet of bodybuilding shakes and high-protein meals. When faced with starvation, loses access to super-strength and healing.
+		Susceptible to chemical, thermal, or radiological attacks if not mitigated
+			[corollary - they are still more resistant to these than humans - they're just more vulnerable to say fire damage than they are other kinds of damage]
+			Exposure to heavy radiation disables the healing factor and slowly saps away at their health. However, can develop rad-resistance with regular exposure. DNA repair mechanisms mean the damage is rarely permanent. Experiences Radiation hormesis much more reliably than baseliners
+			While able to survive and ignore most drugs and toxins, they can still distract the healing factor, leaving them vulnerable to injury
+			Fire and acid do a lot more damage than most attacks - they take longer to heal from burns.
+		Neural overload is a major risk - sonic weapons can be highly disruptive, as can electrical disruptions
+		Overexertion can lead to a breakdown in thermoregulation, causing a "Death Flush" - an episode where their bodies become 
+		Berserker Rage leads to constant violent urges that must be surpressed via self-harm
+		Requires a high caloric intake and may enter a "healing coma" for extreme damage.
+		Extreme healing factor means massive cancer risk - if anti-cancer systems are disabled, will quickly suffer from rapid cancer growth

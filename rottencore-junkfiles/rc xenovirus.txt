@@ -1,0 +1,9 @@
+
+Xenovirus - The Plague
+This virus works thusly:
+	Stage 1: A bioengineered Plasmid is introduced into a strain of bacteria that can infect animals. This is typically done through the application of bacteriophages that transmit the plasmid by force initially.
+	2: The Plasmid is taken in, and integrates itself into the bacterial population. It replicates harmlessly, and is passed from bacterium to bacterium through DNA exchange. The plasmids act as Virulence Plasmids, introducing several traits that will cause even previously harmless bacteria to become deadly pathogens. Said bacteria will cause symptoms similar to TB, Cholera, Bubonic plague, and Anthrax.
+	3: The pathogenic bacteria will cause the host to become unwell.
+	4: Once an immune response is mobilised, some bacteria will 'detonate', undergoing lysis and releasing swathes of viruses. These viruses originate from plasmids, and are re-keyed to target the host species cells, allowing for immediate zoonosis following bacterial infection.
+	5: Said viruses trigger a cytokine storm, severely disrupting the host's immune response.
+	6: Final stages: the viruses have an impact similar to rabies. Severity of symptoms results in spread of bacteria from host to others. Any virions that infect a new host will target bacteria living commensally in the host, repeating stage 1.

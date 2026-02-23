@@ -1,0 +1,359 @@
+Casting any spells requires at least a 5 score in Psionic Affinity.
+Basic Spells - Can be cast without Psychic Discipline skill
+	Psi Blast: Blasts the target with raw psionic energy
+	Psi Vision: Sees psionic energy - can see the specifics of spells cast, and can detect the presence of souls nearby
+	Psi Blade: Generates a psionic lance from the hand, which can be used as a bladed weapon
+	Broadcast: Projects the caster's thoughts into an aura around them, allowing their Will to be used by others
+	Possess: Can possess a vacant or dominated body
+	Void Rift: Lets loose a vortex of psionic energy, damaging enemies and casting random known spells around the caster
+	Sadism: Special talent that grants Focus when dealing damage
+	Masochism: Special talent that grants Focus when receiving damage
+	#Special: Psychic Block: Counters a hostile psychic action. On critical success, damages the hostile caster. Does not require psychic power, instead requires specialist training. Uses Will stat rather than Psi stat
+
+Kinetic Paths
+	Telekinesis - manipulate motion
+		Telekinetic Grip - lifts the chosen object from afar
+		Shove - Sends a bolt of telekinetic energy at the target
+		Compress - Crushes the target into itself
+		Shockwave - blasts out a wave of telekinetic energy
+		Barrier - Creates a shield that absorbs incoming attacks
+		Explode - blow up the target object
+	Cacophony - manipulate noise
+		Sonic Boom - Create a shockwave that harms and disorients targets
+		Scream - Screams at the target, dealing damage and disorienting
+		Vibroblades - Generates blades of pure vibration - orders of magnitude sharper than normal bladed weapons
+		Thunderous Howl - Blast a deep howl, scaring and disorienting enemies
+		Resonance Field - Creates a field of noise in a location, reducing the impact and accuracy of weapons
+		Deconstruct - Causes the target object to start falling apart and disintegrating
+	Translocation - manipulate space
+		Blink - Teleports the caster a short distance
+		Phase Shift - Becomes intangible for a moment, avoiding attacks
+		Portal - Opens a portal to any known location
+		Skip - Teleports the target a short distance
+		Chaos Skip - Teleports multiple targets to random locations nearby - can skip into objects
+		Pocket Dimension - Creates a "bigger on the inside" space that can be used to store stuff, as a base of operations, or a prison for enemies. Can only have one Pocket Dimension active at a time.
+
+Empathic Paths
+	Telepathy - interface with minds
+		Read Mind - Probes the target's mind, reading thoughts and secrets
+		Implant Thought - Projects a thought into the enemy's mind, confusing them, or making them more suggestible
+		Brain Drain - Syphons the target's mental capacity, taking their WIL and INT and adding it to the caster
+		Madness - Severely messes with the target's head. Can cause berserk state, panic, sleep, or disorientation.
+		Mind Merge - Joins minds with the target. 25% of all effects, statuses, or stat drains/regen felt by one is instead felt by the other. All Mental rolls are performed using the one with the highest stat or skill.
+		Dominate - Takes control over the target. Can also brainwash captured targets, making the control permanent. Controlled targets count as Minions for gameplay purposes.
+	Demiurgy - interface with machines
+		Repair - Fixes a target machine
+		Overdrive - Increases the power of a machine, but also damages it
+		Interface - Psychically connects with a machine, allowing the caster to access it without needing a terminal or computer. Also makes it more suggestible, making hacking attempts easier
+		Subversion - Subverts the target machnine, causing it to malfunction
+		Breakdown - Causes the target machine to start breaking down
+		Override - Controls a targeted machine, effectively hacking it
+	Mutarchy - interface with flesh
+		Restoration - Either heals the target, restores their stamina, or removes health conditions
+		Invigorate - Strenghtens and fortifies the target, increasing their physical stats and perception
+		Drain Life - Steals ATP from the target, dealing damage and healing the caster
+		Enfeeble - Weakens the target
+		Plague - Creates a toxic plague, which can be dispersed via different means. Damages and weakens targets
+		Mutate - change the target's biology. Difficult to control, can end up causing changes incompatible with life. Higher experience means more stable mutations
+
+Thaumaturgic Paths
+	Enchantment - control objects
+		Empower - Infuses the object with magic, improving its stats
+		Degrade - Drains the object's psychic imprint, reducing its stats
+		Embed Spell - Embeds a known spell into an object, causing the spell to be cast under certain conditions. The object counts as the caster for mechanical purposes
+		Golem - Animate an object, turning it into a minion
+		Alchemy - Grant new properties to an object, or even transmute it into something else
+		Soulstone - Binds the target's essence into an object. Upon death, the target's consciousness re-awakens inside the Soulstone. Said Stone can always cast Possess even if they are not a Psion.
+
+	Chronomancy - control time
+		Slow Time - Slows down time in a given area. Does not affect the caster
+		Retry - Rerolls a skill or stat roll
+		Stasis Field - creates a bubble of frozen time around the target, immobilising them and making them invulnerable
+		Rapid Aging - speeds up timeflow on a target, aging them prematurely
+		Loop - Creates a Time Loop in a given area. Sapient beings retain memories between loops. The loop must be constantly sustained by the caster
+		Time Shift - Shifts the caster to an alternate timeline of their choosing.
+	Conjuration - control reality
+		Familiar - Summon a minor entity from beyond to assist the caster
+		Phantasmic Structure - Creates basic physical objects like barriers and blades from pure, hardened psychic energy.
+		Simulacrum - Creates a psychic copy of the target that serves the caster
+		Rain of Fire - Conjures a psychic storm in
+		Contract - Summons a major entity from beyond and binds them with a contract
+		Heaven Strike - Conjures a psionic storm in the target location, calling down bolts of energy
+		Fusion - Merges 2 summoned minions together, or merges 1 with the caster
+
+	Divination
+		Forewarning - provides the target with premonitions of danger, increasing their Dodge and Parry chances
+		Second Sight - the target gains extra Perception, and can cast Psi Vision regardless of their current Psy power
+		False Vision - implants false premonitions in the target's mind, reducing their Dodge, Parry, and Perception
+		Change Destiny - raises or lowers the target's Luck stat
+		Show The Way - Upon casting, specify a given event or action. The three most likely outcomes of that event will be made known to the caster.
+		Fated - When targeting allies, their next success is critical, and the next critical success against them becomes normal. On enemies, the effect is reversed
+
+	Sanctification (Only available to religious psions)
+		Aura - Projects a specific Aura around the caster. Different Auras can have different effects, like Strength, Fortitude, Intellect, Terror, Agony, etc.
+		Purge Soul - Damages the target. This damage is increased if the caster's faith considers the target to be a Heretic, Pariah, or Abomination
+		Blessing - Blesses the target, healing them and improving their stats
+		Curse - Curses the target, harming them and reducing their stats
+		Chosen One - The caster's Luck stat is raised significantly
+		Devotion - Etch a special rune dedicated to a god. If successful, a single favour or boon will be granted
+
+
+Energetic Paths
+	Illumination - empower light
+		Flash - Creates light of variable intensity in an area
+		Beam Attack - Fires a laser beam at the target
+		Irradiate - Blasts the target with radiation, causing major damage over time
+		Laser Eyes - Fires a continuous beam from the eyes, damaging targets
+		Hardlight - Creates physical structures out of solid light
+		Gamma Strike - Blasts the target with a laser that also irradiates
+	Conflagration - empower flame
+		Fireball - Launches a ball of fire at the enemy
+		Incinerate - Unleashes a beam of fire at the target
+		Flame Vortex - Surrounds the caster in a fiery tornado
+		Magma Bolt - Melts an object into liquid form and launches it at the target
+		Hellion - Summons a basalt sheathe over the caster's body, then wreathes it in fire, buring anything that gets close while leaving the caster unharmed
+		Inferno - Create a firestorm on a target area, causing explosions of flame periodically
+	Electromagnetism - empower electricity
+		Magnetic Grip - Manipulates electromagnetic fields to perform primitive telekinesis, or create a makeshift Gauss Gun
+		Lightning Bolt - Shocks the enemy with a charge of lightning. Can be set to 'stun' instead
+		Disrupt - induces a seizure in organic targets, and a major electrical interference in machines
+		Static Skin - Shocks all targets in melee range
+		Plasma Bolt - Generates a bolt of plasma and launches it
+		Stormzone - Electrifies a targeted area, shocking anyone who enters
+Antipsionic Paths
+	Cryotics - negate heat
+		Frost Bolt - Cools a sphere of air into extreme cold, and launches it at a target
+		Cool Air - Freeze the water in the air around the caster, making shields or shards
+		Chill Touch - Deals freezing damage to the target in melee range
+		Frost Armour - Covers the caster in frost, making them immune to frost damage, reducing Sharp damage, and causing frost damage to nearby enemies
+		Freeze - Freezes the target, dealing extreme frost damage and paralysing them
+		Blizzard - Freezes an entire area, dealing damage and slowing down targets
+	Entropism - negate magic
+		Entropic Shielding - protects the caster from incoming spells
+		Dispel - Removes magic effects on a target
+		Silent Shell - Stops all casting in a given area
+		Synaptic Feedback - Redirects enemy spells, causing major Psychic damage to enemy spellcasters when they cast against the caster
+		Banish - Destroys a magical construct or being
+		Veil - Absorbs light, making objects and targets invisible. Can also remove radiation in an area and stop energy weapons
+	Necromancy - negate life
+		Soulspeak - Consults with the souls of the dead, allowing new wisdoms to form, holding a seance, or calling forth vengeful spirits
+		Decay - Necrotise the target, causing flesh to rot and metal to rust
+		Animate Dead - Raise a dead body into service, animating it with psychic essence. Animated Dead count as Minions.
+		Sacrifice - Sacrifices a Minion, willing target, or subdued target. Gains lots of focus, removes Synaptic Pressure, and heals and buffs the caster. 
+		Fleshcrafting - Combines dead flesh together to produce Flesh Constructs
+		Lich Lord - The caster becomes an immortal lich, resurrecting when killed
+
+Class Paths (Special paths available to psions who have mastered a baseline class)
+	Destruction - (Heavy Path)
+		Quake - Shakes the ground beneath the target, stunning them and dealing damage
+		Concussive Firebolt - Launches a mix of telekinetic force and flame at the target, dealing blunt and fire damage
+		Detonate - Cause an explosion at the target, dealing damage
+		Psi Volley - Fires a mass volley of Psi Blasts, hitting multiple targets
+		Rain of Fire - Calls down meteors on the target location, dealing massive damage
+	Invasion - (Trooper Path)
+		Thundersprint - Massively improves the speed of the caster
+		Stonewall - Fortifies the caster's body, making them take less damage
+		Rend - Launch a frenzied attack with a Psi Blade
+		Shock and Awe - Every time the caster takes damage, there is a chance that the attacker is hit with a lightning bolt
+		Taunt - Screams a taunt, drawing focus on enemies. Automatically Fortifies the caster.
+	Obscuration - (Covert Path)
+		Confuse - Dazes the enemy momentarily, allowing you to sneak past
+		Vanish - Dazes alert enemies and teleports into cover, evading combat
+		Illusion - Creates a Simulacrum of the caster that cannot attack, but can distract enemies
+		Invisibility - Become completely invisible for a time
+	Protection - (Support Path)
+		Mend - Heals the target
+		Fortify - Fortifies the target's body, making them take less damage
+		Word of Inspiration - Raises the target's Morale
+		Word of Strength - Empowers the target, Fortifying them and increasing their speed
+		Heaven Strike - Conjures an Airstrike in the target location, using Focus instead of Supply
+
+#Special: Blood Magic (only available to Vampires. Uses blood instead of Focus)
+	Coagulate - Block your target’s blood in their veins, making them immobile and defenceless
+	Shadow Veil - Fade into shadows and become invisible to most enemies
+	Glamour - Subtly changes the caster's appearance, scent, and other physical attributes, making them irresistable to the target
+	Hypnotic Glare/Enthrall - Stares into the target's eyes, can either freeze them in place as long as eye contact is unbroken, or cast Implant Thought on them. If this lasts long enough, Enthralls the target, turning them into a Minion of the caster
+	Beast Form - Erupting into a frenzy, the caster teleports to all enemies around them, striking maniacally
+	Blood Boil - Boil the target’s blood, causing it to violently explode, killing the target and anything nearby.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Telekinesis
+		Grip
+		Shove
+		Dash
+		Crush
+		Barrier
+		Shockwave
+		Flight
+		Explode
+		Vortex
+		Mass Manipulation
+	Vibrokinesis
+		Combust
+		Cool
+		Sonic Scream
+		Vibroblades
+		Resonance Field
+	Telepathy
+		Probe Mind
+		Implant Thoughts
+		Brain Drain
+		Madness
+		Mind Merge
+		Dominate
+	Mutarchy
+		Restoration
+		Invigorate
+		Drain Life
+		Enfeeble
+		Tox Cloud
+		Fleshcraft
+	Demiurgy
+		Repair
+		Interface
+		Overdrive
+		Subersion
+		Breakdown
+		Override
+	Pyromancy
+		Fireball
+		Incinerate
+		Flame Vortex
+		Magma Bolt
+		Hellion
+		Inferno
+	Electrokinesis
+		Magnetic Grip
+		Bolt
+		Disruption
+		Static Skin
+		Chain Lightning
+		Plasma Bolt
+		Stormzone
+	Illumination
+		Flash
+		Beam
+		Irradiate
+		Laser Eyes
+		Hardlight
+		Gamma Strike
+	Cryokinesis
+		Frost Bolt
+		Cool Air
+		Chill Touch
+		Frost Armour
+		Freeze
+		Blizzard
+	Animism
+		Igni
+		Lapis
+		Aqua
+		Ventus
+		Tempestas
+		Glacies
+	Arcanokinesis
+		Psi Blast
+		Psi Blade
+		Psi Vision
+		Void Rift
+	Necromancy
+		Seance/Summon Ghost
+		Decay
+		Animate Dead
+		Sacrifice
+		Rigor Mortis
+		Flesh Golem
+		Dominate Soul
+		Lich Lord
+	Enchantment
+		Depower
+		Empower
+		Embed Spell
+		Golem
+		Transmutation
+		Soulstone
+	Chronomancy
+		Slow Time
+		Retry
+		Stasis Field
+		Rapid Aging
+		Loop
+		Time Shift
+	Conjuration
+		Familiar
+		Voidstone
+		Simulacrum
+		Rain of Fire
+		Contract
+		Heaven Strike
+		Fusion
+	Translocation
+		Blink
+		Phase Shift
+		Portal
+		Skip
+		Chaos Skip
+		Pocket Dimension
+	Divination
+		Forewarning
+		Second Sight
+		False Vision
+		Change Destiny
+		Show the Way
+		Fated
+	Sanctification
+		Aura
+		Purge Soul
+		Blessing
+		Curse
+		Chosen One
+		Devotion
+	Entropism
+		Thicken Veil
+		Antimagic Shield
+		Dispel
+		Silent Shell
+		Synaptic Feedback
+		Banish
+	Obscuration
+		Confuse
+		Vanish
+		Illusion
+		Invisibility
+	Blood Magic
+		Coagulate
+		Shadow Veil
+		Glamour
+		Hypnotic Glare
+		Enthrall
+		Beast Form
+		Blood Boil

@@ -1,0 +1,346 @@
+Army:
+	The Army is the main fighting force of the military. While not as well equipped as the Knights or as augmented as the Rangers, they make up for it in good training and numbers.
+	The Army is usually used for occupation, reconstruction, disaster relief, and conventional warfare - though they have the Marines, who use a scaled-down power armour; and the Scouts, lone operatives who specialise in black ops warfare. This allows an Army Group to perform operations usually reserved for Knights and Rangers, in the event that they are indisposed. In fact, both groups often recruit from the army.
+	In peacetime, the army will focus on providing civil service and public works. Indeed, on many worlds, the army is a large employer simply because they're so organised, and after all, your average infantryman can always be put to work in all sorts of places.
+
+	Soldier:
+		1 Private/Soldier
+		Total: 1
+
+	Team:
+		5 Privates/Soldiers, 1 Lance Corporal
+		Total: 6
+
+	Squad:
+		15 Privates/Soldiers, 3 Lance Corporals/Teams, 1 Corporal
+		Total: 19
+
+	Section:
+		45 Privates/Soldiers, 9 Lance Corporals/Teams, 3 Corporals/Squads, 1 Sergeant
+		Total: 58
+
+	Platoon:
+		135 Privates/Soldiers, 27 Lance Corporals/Teams, 9 Corporals/Squads, 3 Sergeants/Sections, 1 Lieutenant
+		Total: 175
+
+	Company:
+		810 Privates/Soldiers, 162 Lance Corporals/Teams, 54 Corporals/Squads, 18 Sergeants/Sections, 6 Lieutenants/Platoons, 1 Captain
+		Total: 1,051
+
+	Battalion:
+		3,240 Privates/Soldiers, 648 Lance Corporals/Teams, 216 Corporals/Squads, 72 Sergeants/Sections, 24 Lieutenants/Platoons, 4 Captains/Companies, 1 Major
+		Total: 4,205
+
+	Regiment:
+		9,720 Privates/Soldiers, 1,944 Lance Corporals/Teams, 648 Corporals/Squads, 216 Sergeants/Sections, 72 Lieutenants/Platoons, 12 Captains/Companies, 3 Majors/Battalions, 1 Colonel
+		Total: 12,616
+
+	Brigade:
+		29,160 Privates/Soldiers, 5,832 Lance Corporals/Teams, 1,944 Corporals/Squads, 648 Sergeants/Sections, 216 Lieutenants/Platoons, 36 Captains/Companies, 12 Majors/Battalions, 3 Colonels/Regiments, 1 Brigadier
+		Total: 37,852
+
+	Division:
+		349,920 Privates/Soldiers, 69,984 Lance Corporals/Teams, 23,328 Corporals/Squads, 7,776 Sergeants/Sections, 2,592 Lieutenants/Platoons, 432 Captains/Companies, 144 Majors/Battalions, 36 Colonels/Regiments, 12 Brigadiers/Brigades, 1 General
+		Total: 453,664
+
+	Corps:
+		1,049,760 Privates/Soldiers, 209,952 Lance Corporals/Teams, 69,984 Corporals/Squads, 23,328 Sergeants/Sections, 7,776 Lieutenants/Platoons, 1,296 Captains/Companies, 432 Majors/Battalions, 108 Colonels/Regiments, 36 Brigadiers/Brigades, 12 Generals/Divisions, 1 Field Marshal
+		Total: 1,363,404
+
+	Army Group:
+		2,099,520 Privates/Soldiers, 419,904 Lance Corporals/Teams, 139,968 Corporals/Squads, 46,656 Sergeants/Sections, 15,552 Lieutenants/Platoons, 2,592 Captains/Companies, 864 Majors/Battalions, 216 Colonels/Regiments, 72 Brigadiers/Brigades, 24 Generals/Divisions, 8 Field Marshals/Corps, 1 Commander
+		Total: 2,740,656
+
+	Army Legion
+		41,990,400 Privates/Soldiers, 8,398,080 Lance Corporals/Teams, 2,799,360 Corporals/Squads, 933,120 Sergeants/Sections, 311,040 Lieutenants/Platoons, 51,840 Captains/Companies, 17,280 Majors/Battalions, 4,320 Colonels/Regiments, 1,140 Brigadiers/Brigades, 480 Generals/Divisions, 160 Field Marshals/Corps, 20 Commanders/Armies, 1 Legion Commander
+		Total: 54,507,241
+
+Navy:
+	If the Army is the military's fist, the Navy is its backbone that allows it to swing. Navy ships range from tiny personal shuttles all the way to million-man Star Castles. The Navy spends its time facilitating trade, handling troop transportation, and providing aerial and astral support.
+	While the Navy has no dedicated combat staff beyond ship security, any given unit typically has combat staff seconded or permanently attached to it. Likewise, rare is the military group that doesn't have a naval unit attached to it. For this reason, the Navy is often seen less as an independent branch of the military, and more a service within the military that all other forces use. That being said, naval Security Staff are often given similar training to the Army, and the Navy enjoys a very close relationship with the Marines, with several Marine units seeing themselves more as Naval than Army personnel.
+	In Peacetime, the Navy focuses on protecting merchant ships from pirates, and often even ferrying strategic goods between systems itself.
+	
+	Sailor:
+		1 Able Rating/Sailor
+		Total: 1
+	
+	Team:
+		5 Able Ratings/Sailors, 1 Lead Rating
+		Total: 6
+	
+	Squad:
+		15 Able Ratings/Sailors, 3 Lead Ratings/Teams, 1 Petty Officer
+		Total: 19
+	
+	Section:
+		45 Able Ratings/Sailors, 9 Lead Ratings/Teams, 3 Petty Officers/Squads, 1 Chief Petty Officer
+		Total: 58
+	
+	Frigate-Class:
+		135 Able Ratings/Sailors, 27 Lead Ratings/Teams, 9 Petty Officers/Squads, 3 Chief Petty Officers/Sections, 1 Warrant Officer
+		Total: 175
+	
+	Destroyer-Class:
+		810 Able Ratings/Sailors, 162 Lead Ratings/Teams, 54 Petty Officers/Squads, 18 Chief Petty Officers/Sections, 6 Warrant Officers/Platoons, 1 Chief Warrant Officer
+		Total: 1,051
+	
+	Capital-Class:
+		3,240 Able Ratings/Sailors, 648 Lead Ratings/Teams, 216 Petty Officers/Squads, 72 Chief Petty Officers/Sections, 24 Warrant Officers/Platoons, 4 Chief Warrant 	Officers/Companies, 1 Capitalier
+		Total: 4,205
+	
+	Capital Group:
+		9,720 Able Ratings/Sailors, 1,944 Lead Ratings/Teams, 648 Petty Officers/Squads, 216 Chief Petty Officers/Sections, 72 Warrant Officers/Platoons, 12 Chief Warrant Officers/Companies, 3 Capitaliers/Capital-Classes, 1 Commodore
+		Total: 12,616
+	
+	Rear Fleet:
+		29,160 Able Ratings/Sailors, 5,832 Lead Ratings/Teams, 1,944 Petty Officers/Squads, 648 Chief Petty Officers/Sections, 216 Warrant Officers/Platoons, 36 Chief 	Warrant Officers/Companies, 12 Capitaliers/Capital-Classes, 3 Rear-Admirals/Capital Groups, 1 Rear-Admiral
+		Total: 37,852
+	
+	Middle Fleet:
+		349,920 Able Ratings/Sailors, 69,984 Lead Ratings/Teams, 23,328 Petty Officers/Squads, 7,776 Chief Petty Officers/Sections, 2,592 Warrant Officers/Platoons, 432 Chief Warrant Officers/Companies, 144 Capitaliers/Capital-Classes, 36 Rear-Admirals/Capital Groups, 12 Commodores/Rear Fleets, 1 Vice-Admiral
+		Total: 453,664
+	
+	Fleet:
+		1,049,760 Able Ratings/Sailors, 209,952 Lead Ratings/Teams, 69,984 Petty Officers/Squads, 23,328 Chief Petty Officers/Sections, 7,776 Warrant Officers Platoons, 1,296 Chief Warrant Officers/Companies, 432 Capitaliers/Capital-Classes, 108 Rear-Admirals/Capital Groups, 36 Commodores/Rear Fleets, 12 	Vice-Admirals/Middle Fleets, 1 Admiral
+		Total: 1,363,404
+	
+	Naval Group:
+		2,099,520 Able Ratings/Sailors, 419,904 Lead Ratings/Teams, 139,968 Petty Officers/Squads, 46,656 Chief Petty Officers/Sections, 15,552 Warrant Officers/Platoons, 2,592 Chief Warrant Officers/Companies, 864 Capitaliers/Capital-Classes, 216 Rear-Admirals/Capital Groups, 72 Commodores/Rear Fleets, 24 Vice-Admirals/Middle Fleets, 8 Admirals/Fleets, 1 Naval Commander
+		Total: 2,740,656
+
+	Naval Legion
+		41,990,400 Able Ratings/Sailors, 8,398,080 Lead Ratings/Teams, 2,799,360 Petty Officers/Squads, 933,120 Chief Petty Officers/Sections, 311,040 Warrant Officers/Platoons, 51,840 Chief Warrant Officers/Companies, 17,280 Capitaliers/Capital-Classes, 4,320 Rear-Admirals/Capital Groups, 1,140 Commodores/Rear Fleets, 480 Vice-Admirals/Middle Fleets, 160 Admirals/Fleets, 20 Naval Commanders/Navies, 1 Legion Commander
+		Total: 54,507,241
+
+Police
+	The civilian police forces, can be drafted into the army in emergency. There is 1 officer for every 400 people
+
+	Police Officer/Detective Officer
+		1 OFI
+		serves 400 people
+	
+	Police Sergeant/Detective Sergeant
+		3 OFIs
+		4 total
+		serves 1600 people
+		1 team
+	
+	Police Lieutenant/Detective Lieutenant
+		2 SGTs, 6 OFIs
+		9 total
+		serves 3600 people
+		1 squad
+	
+	Police Chief Lieutenant/Detective Chief Lieutenant
+		3 LTNs, 6 SGTs, 18 OFIs
+		28 total
+		serves 11200 people
+		1 group
+	
+	Police Superintendant/Detective Superintendant
+		2 C-LTNs, 6 LTNs, 12 SGTs, 36 OFIs
+			57 total
+		serves 22800 people
+		1 department
+	
+	Police Chief Superintendant/Detective Chief Superintendant
+		3 SPIs, 6 C-LTNs, 18 LTNs, 36 SGTs, 108 OFIs
+		172 total
+		serves 68800 people
+		1 branch
+	
+	Police Deputy Captain/Detective Deputy Captain
+		2 C-SPIs, 6 SPIs, 12 C-LTNs, 36 LTNs, 72 SGTs, 216 OFIs
+		345 total
+		serves 138000 people
+		1 station
+	
+	Police Captain/Detective Captain
+		3 D-CPTs, 6 C-SPIs, 18 SPIs, 36 C-LTNs, 108 LTNs, 216 SGTs, 648 OFIs
+		1036 total
+		serves 414400 people
+		1 zone
+	
+	Police Chief Captain/Dectective Chief Captain
+		2 CPTs, 6 D-CPTs, 12 C-SPIs, 36 SPIs, 72 C-LTNs, 216 LTNs, 432 SGTs, 1296 OFIs
+		2073 total
+		serves 829200 people
+		1 constabulary
+	
+	Police National Captain/Detective National Captain
+		100 CPTs
+		207,300 total
+		serves 82,920,000 people
+		1 Regional Force
+
+Knights
+	The Knights are a feudal order. They focus heavily on elite training and augmentation. Knights are usually deployed as Orders, though when engaging in campaigns they will usually submit themselves to Army authority. Their 'Equivalent Ranks' indicate what rank they count as in Army hierarchy, so for instance only a Colonel or above could order a Knight-Militant with authority.
+	Due to their elite status and lower numbers, Knights are typically deployed in assault formations, routing enemy forces to allow the Army to actually hold ground. Knights rarely engage in conventional warfare - though they typically have Levies, Army units subordiante to the Order, as well as Knights-Errant, their version of lone operatives and essentially lesser Rangers. Their Levies tend to have a disproportionate number of Marines - likely as a good recruitment pool.
+	In Peacetime, the Knights typically focus on their training, attempting to recover any losses and expand their numbers. Once they reach a full Legion strength, they will begin recruiting to form a new Legion.
+	Knights usually dedicate themselves to one or more of the High Gods, though the vast majority are devoted to Naraz and Skolazzar; hence their religious iconography and cybernetic augmentation.
+	In terms of battlefield prowess, a freshly qualified Knight-Aspirant is equivalent to 10 normal Army soldiers. A Suborder of Knights could probably beat a Brigade of soldiers. This is partly down to their elite training, partly to their augmentation, and partly to their tactics. A single Knight is typically able to act as a largely independant agent - the reason a squadron leader in the Knights commands 3 times the number of an army Lance Corporal is because the Knight-Militant needs to do less 'commanding'. As such, in an open battle, the Suborder would likely focus on decapitation strikes to break down the enemy's communication, and then mop them up in their confusion.
+
+	Knight-Aspirant:
+	1 Aspirant
+	Equvalent rank: Captain
+	Total: 1
+	
+	Knight-Militant/Militant Division:
+	15 Knights-Aspirant, 1 Knight-Militant
+	Equivalent rank: Major
+	Total: 16
+	
+	Knight-Valiant/Valiant Division:
+	225 Knights-Aspirants, 15 Knights-Militant, 1 Knight-Valiant
+	Equivalent Rank: Colonel
+	Total: 241
+	
+	Knight-Ascendant/Suborder:
+	3,375 Knights-Aspirant, 225 Knights-Militant, 15 Knights-Valiant, 1 Knight-Ascendant
+	Equivalent rank: Brigadier
+	Total: 3,616
+	
+	Knight-Dominant/Order:
+	50,625 Knights-Aspirant, 3,375 Knights-Militant, 225 Knights-Valiant, 15 Knights-Ascendant, 1 Knight-Dominant
+	Equivalent rank: General 
+	Total: 54,241
+
+	Knight-Archdominant/High Order
+	759,375 Knights-Aspirant, 50,625 Knights-Militant, 3,375 Knights-Valiant, 225 Knights-Ascendant, 15 Knights-Dominant, 1 Knight-Archdominant
+	Equivalent rank: Field Marshal
+	Total: 813,616
+
+	Knight-Legate/Legion
+	11,390,625 Knights-Aspirant, 759,375 Knights-Militant, 50,625 Knights-Valiant, 3,375 Knights-Ascendant, 225 Knights-Dominant, 15 Knights-Archdominant, 1 Kight-Legate
+	Equivalent rank: Warmaster
+	Total: 12,204,241
+
+
+
+	Specialist Ranks:
+	
+		Destructor - for Heavies
+			Ballistic
+				for gunners
+			Fusilier
+				for grenadiers
+			Besieger
+				for Sappers
+		Musketeer - for Soldiers
+			Vanguard
+				for assaulters
+			Combatant
+				for infantry
+			Gladiator
+				for skirmishers
+		Outrider - for Coverts
+			Vigilant
+				for sharpshooters
+			Executioner
+				for infiltrators
+			Masquerader
+				for impersonators
+		Custodian - for Support
+			Physician
+				for medics
+			Chaplain
+				for officers
+			Quartermaster
+				for suppliers
+		Technologist - for Technicals
+			Paladin
+				for sentinels
+			Artificer
+				for mechanists
+			Cavalier
+				for operators
+		Magus - for Psions
+			Templar
+				for telekines
+			Cognitive
+				for Empaths
+			Warlock
+				for sorcerers
+			Shaman
+				for elementalists
+			Banisher
+				for antipsions
+		Devourer - for Mutants
+			Predator
+				for berserkers
+			Pestilent
+				for plaguemasters
+			Primal
+				for alphas
+		Knight-Errant
+			for lone operatives
+		Knight-Vanquisher
+			for specialised monster hunters
+		Knight-Revenant
+			for mortally wounded Knights entombed in special power armour
+
+	Famous Legions:
+		Legion of the Flaming Sword - Largest Legion, focuses mainly on offensive campaigns
+		Legion of the Broken Shield - Oldest Legion, focuses mainly on defensive campaigns
+		Legion of the Silver Hand - Most Pious Legion. Often defends Shrine Worlds.
+		Legion of the Serpent's Fang - Secretive, high numbers of Knights-Errant. Close ties to Rangers
+		Legion of the Ashen Blade - Small, elite legion, mainly recruits from seasoned army veterans
+		Legion of the Brazen Fist - Aggressive legion, focuses mainly on shock assaults
+		Legion of the Iron Crucible - Detatched, social-darwinist legion. Very large Levy which is often sent into meatgrinders. Survivors are recruited into the Legion.
+		Legion of the Great Forest - Devoted to Kazarath. High numbers of mutants
+		Legion of the Marching Dead - Devoted to Yothmar. Has a Levy made of zombies
+		Legion of the Holy Light - Devoted to Naraz. Well connected, elitist legion. Mainly fights the Horde.
+		Legion of the Darkened Flame - Devoted to Orynax. Least organised, mainly fights the Empire.
+		Legion of the Blessed Machine - Devoted to Skolazzar. Most cybernetically augmented legion
+		Legion of the Arcane Hammer - Devoted to Eyonara. Highest number of Psions
+
+Warmaster
+	A special rank who is in charge of multiple forces, be they Army Groups, Naval Groups, or Knightly Orders.
+Grand Warmaster
+	An extremely special rank - the Grand Warmaster answers only to the Council. Uniquely, their commands can apply to Rangers.
+
+Ranger ranks:
+	Rangers are highly augmented and experienced lone operatives. They answer to the Rangers General, who in turn answers only to the Galactic Senate. In cases where the Senate authorises the foundation of a Grand Warmaster, they will submit to them, but it is expected that they will maintain operational independence.
+	They typically recruit from Knight-Errants, as they are elite lone operatives. A KE becoming a ranger is a great honour to his Order.
+	Sending a Ranger to deal with a problem is like sending a Brigade. Their elite skills and heavy augmentation allows them to wreak a great deal of havoc, while being lone operatives allows them to stay on the move and pick their battles.
+	Becoming a Ranger has strict requirements. Typically, a Ranger-Initiate must have mastered at least one psychic discipline, and either undergone intense gene therapy or cybernetic enhancement (or for synth Initiates, advanced hardware upgrades). They must also be fully trained in both covert ops and at least one other conventional warfare school.
+	Rangers do not command other units - they are usually outside the typical military structure. If the Army, Navy, and Knights are the Council's Right Hand, the Rangers are its left. That being said, it is unusual for even Initiates to not have Retinues - groups of staff from other units that an individual Ranger has recruited as aides and allies. Likewise, they will typically have Proxies - front-groups that they run from behind the scenes. Also, Rangers may sometimes work together in a Strike Team - gods help you if you've done something to get a Strike Team mobilised against you - the next step up is a full Army Group or Knight Order being deployed.
+	Because of their familiarity working alone, it is rare for Rangers to work like this. A Ranger that has a higher rank than another can issue commands, but rarely will a Ranger actually 'manage' their subordinates. If you need someone to tell you what to do beyond the initial mission brief, you're not Ranger material. 
+	Rangers rarely end up in peacetime scenarios - as long as there's trouble in the galaxy, a Ranger will get deployed. That being said, when not on mission Rangers tend to focus on training and recruitment, much like the Knights.
+	
+	Ranger-Initiate - Operative
+		Equivalent rank: Brigadier
+	
+	Ranger-Acolyte - Cell
+		Equivalent rank: General
+	
+	Ranger-Adept - Guild
+		Equivalent Rank: Field Marshal
+	
+	Ranger-Lord - Temple
+		Equivalent Rank: Commander
+
+	Ranger-Archon - Office of Rangers
+		Equivalent Rank: Warmaster
+
+
+Put it this way:
+	An enemy force has occipied one of our cities. We can liberate it by deploying:
+		37,000 soldiers, using conventional tactics, or
+		3,600 Knights, using Special Assault tactics, or
+		1 ranger and his retinue, infiltrating the AO and wreaking havoc
+		However, an average planet of 4,000,000,000 people has:
+				21,600,000 army personnel
+				16,200,000 naval personnel
+				10,000,000 police personnel
+		         3,200,000 Knights
+		      and only 100 Rangers
+		So most of the time, commanders will send the Brigade, and leave the really hard shit to the Rangers.
+
+
+(40k equivalents: 
+Army - Astra Militarum
+Marines - Tempestus Scions
+Navy - Navis Imperialis
+Knights - Adeptus Astartes
+Rangers - Legio Custodes/Officio Assassinorum/Inquisition)

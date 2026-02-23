@@ -1,0 +1,74 @@
+
+Rotten Core
+	Story:
+		Connor Barrett is a young man from Shatterhill City, England. One day, he is seemingly killed, only to come back with superhuman powers. He investigates and learns of a criminal conspiracy called ODESSA, who plan to mass-produce creatures like him. He finds diverse allies, from a KGB agent called Ivan Sokolov, a sapient wolfdog with his powers called Spartacus, or Sparky for short; and even forms a reluctant alliance with the detective after him. He also has to balance out his superheroics with his personal life, including his growing guilt at hiding his alter-ego from his loved ones. He eventually meets and falls in love with Chloe Derrington, a brilliant biotechnologist who is unwittingly studying his superhero identity. Eventually, a siege of her workplace leads to him being forced to reveal himself, and the two join forces and manage to kill the head of ODESSA - but not before discovering that Connor always had these powers - Connor is part-alien.
+	Gameplay:
+		Action-adventure open-world. Gameplay is very similar to Deus Ex; with non-linear action cut up by conspiratorial intrigue and slice-of-life conversations. Action gameplay is like a mix of Red Dead Redemption and Prototype - brawling, melee-focused, plenty of non-lethal options, but also chaotic superpowers and horrific monsters to fight. Social interactions are handled similarly to Disco Elysium - in other words, a big part of gameplay
+
+Rotten Core: The Agency
+	Story:
+		Set 2 months after the first game, Connor and Chloe become closer, and Connor's best friend Trey discovers his own powers - leading to Connor and his friends discovering the source - in Shatterhill, many babies died at birth, as did many mothers - a phenomenon known as "Shatterhill Baby Syndrome." The babies who were affected but survived were hybridised in-vivo to become these part-aliens. Together, Trey and Connor uncover a new conspiracy that took over the remnants of ODESSA, a group of rich conspirators called the Optimates. They meet with Connor's KGB friends, as well as the former head of MI5 who helped Connor behind the shadows, and found the Riverside Initiative, an international institute dedicated to fighting these cabals and recruiting mutants like Connor and Trey. Eventually, they find a black-site run by CIA-Optimate loyalists, and rescue 2 other Hybrids - Emre Durak and Alex van Statten. They also deal a crushing blow to the Optimates.
+	Gameplay:
+		Same as the last game, but now with party mechanics as Connor can bring fellow superhumans into battle with him. There is also a much more global scope, and many more sidequests, or "Side Ops".
+
+Rotten Core: Monster Ops
+	Story:
+		Riverside is contacted by a secretive international order, the Watchers of the Veil. They explain that they investigate, contain, and terminate anomalous entities, like monsters, demons, and witchcraft. Riverside is bemused, but after investigating a lead, they discover supernatural-seeming entities which they capture and study. Chloe discovers that the monsters, as well as the Riverside Mutants, have some kind of dark energy field imperceptible to anyone, but resonating around them (in truth as an alien ally explains in a future game, this is their latent Psionic energy).
+		Hunting down these monsters, they eventually uncover a conspiracy within the Watchers that connects them to ODESSA's final remnants - this faction is purged, and the Watcher's sacred duty - the monitoring of a mysterious anomalous obelisk called the Keystone - falls to Riverside. They also get a key ally of theirs elected Pope.
+	Gameplay:
+		Same as the last, with even more party options as more Riverside Mutants are discovered. Action is much more like Prototype now, being more high-stakes, high-octane, and fighting more horrifying monsters. Sidequests are much more commonplace, as Riverside's scope broadens. This also means there's more strategy to be had.
+
+Rotten Core: War of the Beast
+	Story:
+		The gang deal with a subversive alien, revealed to be a "Mutarch" - a super-powerful species and heralds of an alien swarm - similar to Genestealers from 40k. The Mutarch begins to mutate local humans and establish its own brood, eventually causing a near-apocalypse. Riveside defends the Earth from the Mutarch and the Cult of the Beast, destroying the monster and exiling the cult into space.
+	Gameplay:
+		Same as the last one, but with more power options as the Riverside Squad gain more mutations from fighting the Mutarch
+
+Rotten Core: Salvation
+	Story:
+		Riverside narrowly thwarts nuclear war, severely damaging the Optimates. A body is recovered from an Optimate compound. An alien called a "Lulamarian" crash-lands on Earth, takes refuge with Riverside, only to be persued by another alien strike force (called "Golgothans") who believe the Lulamarian were kidnapped by Riverside (Golgothans were created by the Lulamarians aeons ago and believe they owe them a blood debt - long story). After this misunderstanding is cleared up, the Lulamarian, calling themself Kri-Lan, volunteers to stay with Riverside. However, the Lulamarian Assembly invades Earth upon learning that Lulamarians are not affected by the Curse (A species-wide sterility similar to the Genophage from Mass Effect)when on Earth, (due to the Keystone absorbing almost all psionic energy) and they wish to conquer and settle the planet in order to save and populate their species. They are repelled, and during their weakness are attacked by the Zotans (a race of genocidal dinosaurs). Riverside agrees to travel with Kri-Lan to save their people from extinction, ending in the killing of the Zotan Commander, and the Treaty of Alpha Centauri, where Earth is recognised as a rising power, its sovereingty over Sol and neighbouring star systems is accepted, and the Lulamarian Assembly pledge to repay mankind one day.
+	Gameplay:
+		Action-gameplay and social gameplay is the same, but the Strategy gameplay is much more like XCOM and Terra Invicta - directing humans to battle against alien invaders, capturing and studying alien tech, colonising the solar system, battling other human factions, and bringing the fight to alien worlds.
+
+Rotten Core: Templar
+	Story:
+		The body found in the Optimate compound awakens, kidnapping Chloe through a portal. Kri-Lan manages to analyse the Keystone and realise it is absorbing psionic energy for a purpose - to sustain an alternate dimension. Kri-Lan opens a portal in the Keystone, leading them to another world, filled with elves, dwarves, magic (in truth, psionics), and weirdly, lost Romans. They find Chloe, who has been turned into a Vampire, until she drinks Connor's blood, making her half-Vampire, half-Mutant, allowing her to survive UV exposure (though it's uncomfortable) and only use blood for powerups - as well as restoring her sanity. The gang defeats the Undying Emperor, a Vampire Lord who sought to conquer the world they were on, but in doing so, the Keystone is damaged, and the population evacuates onto Earth as the world collapses. As well as bringing back fantastical races (and Romans), 1/3 of mankind suddenly developed psychic powers, or 'magic' to the unenlightened. A further 1/4 spontaneosly transformed into fantastical races.
+	Gameplay:
+		More action- and social- focused, with the Strategy gameplay more like the first two games.
+
+Rotten Core: Unity
+	Story:
+		Riverside struggle to come to terms with the results of their decision leading to mass discrimination against non-humans and psionics. Worse, their commanding officer is assasinated. The Agency is disbanded, and Connor, Emre, and Trey are forced to work for the International Anomalous Entity Agency (IAEA (pun intended)); given bomb collars, and Connor is informed that Sparky's location will be held from him unless he cooperates fully. Meanwhile, Chloe, Alex, and Jenny all form the Resistance, a group advocating for the freedom of mutants and revolutionary action against the Optimates. Eventually, the three boys are rescued by the Resistance, Sparky is located and saved, and Riverside is reformed on the side of the Resistance. Initially the group elects Connor as their leader due to being the 'Oldest' (that is, the one whose powers have been active the longest), but Connor does not want to be in charge given his service in the IAEA. Chloe convinces him to take the position, and he agrees as long as she is co-Leader (given that she formed the Resistance in the first place). Eventually, both the IAEA and the Optimates are destroyed. However, Riverside's actions appear to catch the attention of something far greater...
+	Gameplay:
+		Return to the more strategic gameplay. As the characters' arcs are largely complete, social gameplay is more limited to "companion quests" found in more traditional RPGs. As such, the game is largely played as if you're playing Terra Invicta in-between playing Deus Ex.
+
+Rotten Core: Apocalypse
+	Story:
+		A dark prescence in the galaxy, known as "Malkaea", ups his attempts to damage Earth, first by launching Charon at Earth (this is narrowly thwarted by Earth's psions, but results in the moon having an unusual orbit - for 6 months at a time, it comes much closer to earth, making high tide far more dangerous. It also results in earth having saturn-like rings), then by releasing a modified version of the virus from the War of the Beast which kills most people over 25 and turns them into zombies (this is fixed by Riverside developing a vaccine and largely wiping out the zombies), then by blocking out the sun (which causes worldwide catastrophe and is fixed by Connor physically fighting the void entity causing this blockage), and finally by invading. Riverside organises a resistance to him, and they are supported in their hour of need by the Lulamarians.
+	Gameplay:
+		Very similar to the last, although with more mission variety.
+
+Rotten Core: The Repubic of Earth
+	Story:
+		After all the alien invasions, Earth has been unified under Ivan's reformed Soviet Union, ushering in the era of the Republic of Earth. This regime is different to the IAEA regime as it accepts all Terrans, and indeed has good relations with the Lulamarians, but cold relations with the other galactic powers. Riverside act as the Republic's liaison with the Coalition, attempting to improve relations. Eventually, Riverside are dragged into the war against the Malkaean Empire, and manage to kill the Emperor and trigger the Empire's collapse, while also integrating Earth into the galactic community.
+	Gameplay:
+		This time, more like Mass Effect, with multiple planets to explore and investigate. However, there is still a lot of strategising to be done in-between missions, though the strategy is less Terra Invicta and more XCOM: Chimera Squad
+
+Rotten Core: Wrath of the Old Gods
+	Story:
+		Following the events of the last decade, Malkaea manages to build the Dazarec, a horrifyingly powerful psionic device made of the reforged Keystone, which he uses to take control over the Galaxy, and begin sacrificing the peoples of the galaxy. Riverside eventually manage to kill Malkaea by forcing him to possess Connor, who then throws himself into a black hole. Connor is rewarded for his sacrifice by being sent back by Zervlon himself, although unfortunately, he is sent back to 47,000 BCE...
+	Gameplay:
+		A bit more like Mass Effect 3; fitting the vibe of galactic-scale genocide. Travel the galaxy, forge alliances, and make ready for the climactic final battle against the eldritch abomination!
+	
+
+Rotten Core: The Slow Path
+	Story:
+		basically a recount of all Connor's adventures until he is finally reunited with his loved ones. Importantly, Connor being sent back is what establishes the Watchers of the Veil, and also allows him to ensure his own birth, and through that the death of Malkaea. He also influences the timeline in other ways, which reinforces the alternate history that the Rotten Core series is based in. It ends with Connor showing up to the Riverside HQ just as his past self leaves with his friends to kill Malkaea, and he waits there as his friends return, completing the time loop and embracing Chloe.
+	Gameplay:
+		Return to the first game's gameplay, with very little strategy. The game is also more story-focused and linear, as Connor spends much of his time in a coma, waking up for a few years at a time to keep the world running smoothly and witness important historical events. 
+
+Rotten Core: Dominion
+	Story:
+		not a story, but a freeplay RPG & political simulator set in the Obsidian Expanse, a realm of the galaxy
+	Gameplay:
+		Imagine a mix of RimWorld's procedural generation, Terra Invicta's global gameplay, and the Rotten Core series's action and party mechanics

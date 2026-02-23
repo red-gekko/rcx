@@ -1,0 +1,109 @@
+Heavy
+	Gunner
+		Uses LMGs to mow down enemies
+		Main weapon: LMG
+		Abilities: Suppressive Fire (pins an enemy behind cover, can shoot with extra accuracy if they leave cover), Bullet Swarm (Empties magazine on a single target), Shred Armour (Aim for armour)
+		Main Skill: Heavy Guns
+	Grenadier
+		Uses explosives to take down armoured targets
+		Main weapon: Grenade Launcher
+		Abilities: Rocket Launch (fire rocket at target), Grenades (various), Firestarter (Set something on fire)
+		Main Skill: Launchers
+	Sapper
+		Uses mines and fortifications to beseige targets
+		Main weapon: Artillery Emplacements
+		Abilities: Lay Mine (various), Sentry Gun (place turret on area), Bunker (Build fortification/cover)
+		Main Skill: Crafting
+Trooper
+	Assault
+		Rapidly closes the distance and takes down targets
+		Main weapon: Shotgun
+		Abilities: Battle Charge (Sprints at enemy, takes less damage), Run and Gun (Fire while moving), Flush (Force enemy to leave cover)
+		Main Skill: Shotguns
+	Infantry
+		Provide consistent all-round fire
+		Main weapon: Assault Rifle
+		Abilities: Covering Fire (Shoots at anyone attacking target ally, preventing Suppression), Suppressive Fire (pins an enemy behind cover, can shoot with extra accuracy if they leave cover), Flush (Force enemy to leave cover)
+		Main Skill: Rifles
+	Skirmisher
+		Rip and Tear through enemy lines
+		Main weapon: Chainsaw Blades
+		Abilities: Grappling Hook (Ziplines to target location), Execute (instantly kill weak enemy), Battle Charge (Sprints at enemy, takes less damage)
+		Main Skill: Bladed Weapons
+Covert
+	Sharpshooter
+		Eliminate targets from long range
+		Main weapon: Sniper Rifle
+		Abilities: Overwatch (shoot any enemies in specified area, with accuracy bonus), Covering Fire (Shoots at anyone attacking target ally, preventing Suppression), Detonate (Targets an explosive, detonating it. Can also target machinery)
+		Main Skill: Sniping
+	Infiltrator
+		Bypass enemy lines and eliminate key targets
+		Main weapon: Silent Pistol
+		Abilities: Assasinate (kill unaware enemy), Sabotage (damage enemy equipment), Steal (take items from enemies)
+		Main Skill: Stealth
+	Impersonator
+		Dress up as the enemy and sow chaos and confusion
+		Main weapon: Disguise kit
+		Abilities: Impersonate (disguise as an enemy), Scapegoat (accuse enemy of being impostor), Misdirect (Gives counterproductive order to enemies)
+		Main Skill: Deception
+Support
+	Medic
+		Heal injured allies
+		Main weapon: Medkit & Dart Gun
+		Abilities: Stabilise (rescue critically wounded ally), Patch Up (heal injured ally), Combat Drugs (inject ally with drugs that improve stats)
+		Main Skill: Medical
+	Officer
+		Inspire allies and target enemies
+		Main weapon: Bolt Pistol
+		Abilities: Command (Order allies to carry out task), Example (Inspire allies, boosting morale), Mark Enemy (improves squad accuracy against target)
+		Main Skill: Leadership
+	Supplier
+		Keep allies locked & loaded
+		Main weapon: Supply drops & Fire support
+		Abilities: Supply Drop (deploy ammo cache to location), Reinforcements (deploy allied soldiers to location), Airstrike (launch vehicle assault on location)
+		Main Skill: Tactics
+Technical
+		Abilities: See "RC Augments.txt"
+	Sentinel
+		Attack & Protect with cybernetic augmentations, power armour, and mechsuits
+		Main weapon: augments, power armour
+		Abilities: Warden (Stand in place, act as cover for allies), Kinetic Strike (Engage foes in melee using rocket fists), Overcharge (damages power armour, but raises all stats and improves all augments)
+		Main Skill: Blunt Weapons
+	Operator
+		Conquer the battlefield with combat vehicles
+		Main weapon: vehicles
+		Abilities: None (Has improved vehicle stats and can use special vehicles like tanks and jets)
+		Main Skill: Driving
+	Mechanist
+		Deploy robotic assitants to eliminate threats
+		Main weapon: Drones
+		Abilities: Deploy Drone (launches an autonomous drone to perform tasks), Sentry Gun (place turret on area), Deploy Core (deploys a powerful AI Core that can deploy and control its own drones and sentries)
+		Main Skill: Electronics
+Psionic
+	Abilities: See "RC Spellcasting.txt"
+	Telekine
+		Use psionic power to control the material world
+		Main weapon: Psi Blades
+	Empath
+		Use psionic power to dominate enemy minds and conjure apparitions
+		Main weapon: Psi Amp
+	Thaumaturge
+		Use psionic power to perform 'magic'
+		Main weapon: Spellcasting
+	Elementalist
+		Use psionic power to manipulate energy
+		Main weapon: Elements
+	Antipsion
+		Use entropic power to negate psionics
+		Main weapon: Counterspells
+Mutant
+	Abilities: See "RC Mutations.txt"
+	Berserker
+		Claw through enemy lines and heal incoming damage quickly
+		Main weapon: Claws
+	Plaguemaster
+		Spew toxins and diseases upon your foes
+		Main weapon: Tox Gas
+	Alpha
+		Control mutant beasts through pheremones
+		Main weapon: Spawn

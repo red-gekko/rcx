@@ -1,0 +1,616 @@
+
+
+	Aspects - Beings directly associated with the gods
+		Angel/Angels - Featureless beings of solid light, typically summoned by psionics as enforcers. Associated with Naraz and his Empire
+		Demon/Demons - Red-skinned, fire-spewing, black haired, horned humanoids. The result of heavy void exposure. Associated with Orynax
+		Ethereal/Ethereals - Beings of pure psionic energy, ususally an amalgamation of psionic imprints, though occaisionally mortals become these through psionic potential. Associated with Eyonara
+		Grovekeeper/Grovekeepers - Humanoid trees, able to psionically bond with local flora and fauna. Associated with Kazarath
+		Moxidar/Moxidari - Also known as "True Hybrids", customised with equal gene samples, Vulkanoid geo-forms (including radioactivity, bioelectriciy, and the ability to eat minerals), psionic imprints, and cybernetic enhancement from all other sapient speicies, including Aspects; as opposed to predominantly human hybrids. All Hybrids will eventually evolve into these, but can maintain their original appearance thanks to Shoggoth DNA. Powerful enough to be compared to the Aspects; but unaffiliated with any god
+		Thorians - Special metallic Vulkanoids with more advanced psionics. Associated with Skolazzar
+		Undead/Undead - Reanimated corpses, either through viruses, cybernetics, chemistry, or psionics. Associated with Yothmar
+		Voidling/Voidlings - Beings of pure shadow, native to the void. Capable of turning invisible, creating monstrous creatures, and mentally tormenting mortals. Associated with Zyra
+	Arezik/Areziki - Three-eyed humanoids, with deep red skin and advanced psionic powers, as well as a connection to the Ocular Shoggoths native to their homeworld of Parezix
+		Evolved from shoggoth mutants
+		Prefers ocular forests (temperate swamps with special alien trees)
+		Eats special Ocular Moss (grown from Ocular Trees)
+		Looks like a human with long drooping cheeks, a wide face, slit nose, deep red skin, a third eye on the forehead, lanky, and long spindly arms
+		Reproduces through live birth, gestation time 12 months, maturation time 30 years, lifespan 180 years
+	Avanorr/Avanorr - Bipedal elephant-analogues, very large, gentle giants. Known for their friendliness to outsiders.
+		Evolved from knuckle-walking elephants which developed sapience
+		Prefers tropical shrublands
+		Fully herbivorous, mainly eats grasses and fruits
+		Looks like a bipedal elephant
+		Society is very welcoming of outsiders; mainly live in nomadic tribes.
+		Reproduces through live birth, gestation time 24 months, maturation time 25 years, lifespan 225 years
+	Boktavian/Boktavians - Salamander analogues, have formed a rudimentary tribal society
+		Evolved from large bipedal salamanders which began using tools
+		Prefers tropical swamps
+		Omnivorous, mainly eats fungi, and small animals, along with bottom feeding
+		Looks like a giant bipedal salamander
+		Society is tribal; largely focused on water
+		Reproduces through eggs, gestation time 2 months, maturation time 5 years, lifespan 55 years
+	Chikoan/Chikoans - Sapient monkey-analogues, having developed into a paleolithic society
+		Evolved from monkeys that became larger and more intelligent whilst not changing much physically
+		Prefers tropical rainforests
+		Omnivorous, mainly eats fruit and insects
+		Looks like a small chimpanzee with a monkey's tail
+		Society is tribal; friendly to outsiders but aloof
+		Reproduces through live birth, gestation time 8 months, maturation time 5 years, lifespan 75 years
+	Calvor/Calvor -  Large bipedal crocodile-analogues
+		Evolved from knuckle-walking crocodilians
+		Prefers warm swamp environments
+		Fully carnivorous, eats small vertebrates
+		Looks like a bipedal crocodilian
+		Society is nonexistant - they have been fully assimilated by the Lulamarians as a client race following the Withering, the fall of the old Lulamarian empire
+		Reproduces through eggs, gestation time 2 months, maturation time 2 years, lifespan 30 years
+	Daganite/Daganites - Molluscoid-Crustaceans, with an octopus-like head and a lobster-like body. Highly intelligent and psionic whilst physically strong underwater, but weak on land
+		Evolved from cephalopods that became intelligent enough to become sapient, and eventually parasitising giant lobsters to the point of syncretisation
+		Prefers coral reefs
+		Fully carnivorous, mainly eats crustaceans and fish
+		Looks like a blue octopus on a red lobster
+		Reproduces through eggs, gestation time 24 months, maturation time 100 years, biologically immortal
+	Dinrax/Dinrax - Appearing like a giant multi-headed eel, four legs on body, two small arms per head. Amphibian. Possesses extreme regenerative abilities. Solitary animals, with intelligence but no society to speak of
+		Evolved from giant axolotl-like species. Developed intelligence from psionic exposure
+		Prefers brackish swamps
+		Fully carnivorous, mainly eats fish
+		Looks like a multi headed eel-monster
+		Reproduces through eggs, gestation time 5 months, maturation time 15 years, biologically immortal
+	Duchonk/Duchonks - Hippo-analogues, very territorial
+		Evolved from upright hippos
+		Prefers freshwater rivers
+		Fully herbivorous, mainly eats grasses and mosses
+		Looks like a bipedal hippo
+		Reproduces through live birth, gestation time 6 months, maturation time 12 years, lifespan 80 years
+	Emnit/Emnits - Corvid-humanoids, very clever and psionically gifted. Possesses extreme photographic memory - can memorise a great deal of information quickly.
+		Evolved from intelligent 6-limbed ravens
+		Prefers temperate forests
+		Fully omnivorous, happily eats most things
+		Looks like a bipedal raven
+		Reproduces through eggs, gestation time 4 months, maturation time 6 years, lifespan 120 years
+	Eyitsian/Eyitsians - Intelligent platypuses, enjoy tinkering and engineering
+		Evolved from large bipedal platypuses
+		Prefers tropical freshwater streams
+		Mainly carivorous, eats insects and small fish, along with bottom feeding
+		Looks like a platypus
+		Reproduces through eggs, gestation time 6 months, maturation time 8 years, lifespan 65 years
+	Faedron/Faedrons - Seemingly eyeless humanoids with super-sensitive hearing and dark blue skin. Psionically gifted, known for their slaving tendencies
+		Evolved from burrowing predators that could manipulate pheremones
+		Prefers temperate grasslands
+		Fully carnivorous, eats insects and drinks blood
+		Looks like a pale white eyeless creature with a large grinning maw. Digitgrade legs. Clawed hands.
+		Reproduces through live birth, gestation time 20 months, maturation time 34 years, lifespan 300 years
+	Forgrinn/Forgrinns - short, aggressive badger-like people.
+		Evolved from large badger
+		Prefers temperate environments with a mix of forest and grassland, but mainly lives in burrows
+		Omnivorous, mainly eats insects, small animals, fruits, nuts, and mushrooms
+		Looks like a bipedal common european badger
+		Reproduces through live birth, gestation time 10 months, maturation time 2 years, lifespan 40 years
+	Garnalon/Garnalons - Ursine humanoids; as aggressive as they are friendly. Tribal culture
+		Evolved from knuckle-walking bears
+		Prefers boreal forests
+		Mainly carivorous, eats game meat and fish; will also eat plant matter in a pinch
+		Looks like a bear
+		Reproduces through live birth, gestation time 12 months, maturation time 15 years, lifespan 65 years
+	Hiradreen/Hiradreen - Semi-shapeshifting aliens, able to take forms most pleasing to onlookers. Bizarrely, unuable to reproduce with own species but can reproduce with others (resulting mixes can only reproduce with pure Hiradeens.)
+		Evolved from shoggoth mutants that developed this unusual breeding mechanism.
+		Prefers temperate grasslands
+		Fully omnivorous, varied diet
+		Looks like whatever you're into, but also visibly alien. Usually has pinkish-purple skin tone and white hair
+		Reproduces through live births and hybridisation, gestation time 12 months, maturation time 20 years, lifespan 400 years
+	Hagran/Hagrans - Hulking rhino-analogues
+		Evolved from knuckle-walking rhinos
+		Prefers arid shrublands
+		Fully herbivorous, mainly eats grasses
+		Looks like a bipedal rhino
+		Reproduces through live birth, gestation time 12 months, maturation time 10 years, lifespan 80 years
+	Iyatari/Iyatari - hyena-like people, physically dangerous but mentally weak
+		Evolved from knuckle-walking hyenas
+		Prefers tropical shrublands
+		Fully carnivorous, mainly eats game meat
+		Looks like a hyena man
+		Reproduces through live birth, gestation time 6 months, maturation time 5 years, lifespan 60 years
+	Ilvinar/Ilvinars - large yeti-like people
+		Evolved from tundra-dwelling gorilla-analogues
+		Prefers tundra, frozen, and boreal environments
+		Fully omnivorous, but prefers meat when it can get it
+		Looks like a yeti
+		Reproduces through live birth, gestation time 24 months, maturation time 20 years, lifespan 150 years
+	Janicore/Janicores - Snake-legged, multi-armed reptillians, powerful psionics, but technologically stunted
+		Evolved from giant limbed snakes
+		Prefers tropical shrubland environments
+		Fully carnivorous, mainly eats mammals and birds. Can swallow prey whole
+		Looks like a snake with arms
+		Reproduces through eggs, gestation time 6 months, maturation time 5 years, lifespan 120 years
+	Joparapa/Joparapas - Sloth-like humanoids, mainly tree dwelling, have a tribal society
+		Evolved from large sloths
+		Prefers tropical rainforests
+		Fully herbivorous, mainly eats mosses and fruits
+		Looks like a sloth
+		Reproduces through live birth, gestation time 8 months, maturation time 14 years, lifespan 65 years
+	Kayjurian/Kayjurians - Gargantuan creatures with childlike mentality. Usually around 20ft tall
+		Evolved from massive bipedal dinosaurs
+		Prefers tropical forests, especially those with Juravi Moss, a kudzu-analogue that they eat
+		Omnivorous, mainly eats Juravi Moss and megafauna
+		Looks like Godzilla
+		Reproduces through eggs, gestation time 48 months, maturation time 100 years, lifespan >10,000 years
+	Krickaroo/Krickaree - Bird-people, divided into several distinct castes selectively bred for specific duties
+		Evolved from large 6-limbed parrot analogues
+		Prefers tropical rainforests
+		Omnivorous, mainly eats insects and fruit
+		Looks like a parakeet with an extra set of arms
+		Reproduces through eggs, gestation time 6 months, maturation time 12 years, lifespan 120 years
+	Laggik/Laggiks - Bovine-humanoids, with flat faces, shaggy manes, and hooved feet
+		Evolved from knuckle-walking ungulates
+		Prefers temperate grasslands
+		Fully herbivorous, eats grasses and fruits
+		Looks like a Minotaur
+		Reproduces through live birth, gestation time 8 months, maturation time 20 years, lifespan 75 years
+	Linaion/Linaia - Leporid-humanoids
+		Evolved from bipedal rabbit-analogues
+		Prefers temperate grasslands with lots of digging/burrowing space
+		Fully herbivorous, eats grasses and vegetables
+		Looks like a humanoid rabbit
+		Reproduces through live birth, gestation time 4 months, maturation time 5 years, lifespan 45 years
+	Lulamarian/Lulamarians - large, strong creatures, hairless, conical heads, lamprey mouths, powerful psychics and engineers, but few in number due to widespread sterility. Second largest race in Golgothan space due to historic alliance between two species. Often accompanied by domesticated Zenelidds. 
+		Evolved from bipedal, warm-blooded reptile-insect creatures
+		Prefers boreal swamps
+		Fully omnivorous, varied diet
+		Looks like the Progenitors from SMAC
+		Reproduces through eggs, gestation time 24 months, maturation time 60 years, biologically immortal, sequentially hermpaphrodites (changes sex every few years)
+	Morridan/Morridans - Small rat-like people, often seen living in burrows and underground cities
+		Evolved from large rodents
+		Prefers temperate environments with a mix of forest and grassland, but mainly lives in burrows
+		Fully omnivorous, very gluttonous, will eat anything
+		Looks like rat man
+		Reproduces through live birth, gestation time 4 months, maturation time 4 years, lifespan 40 years
+	Mulzok/Mulzi - short, stocky beaver-like people, often living in burrows near streams.
+		Evolved from large knuckle-walking beavers
+		Prefers to live in freshwater streams
+		Fully herbivorous, mainly eats roots, shoots, leaves
+		Looks like a beaverman
+		Reproduces through live birth, gestation time 5 months, maturation time 10 years, lifespan 65 years
+	Nasgath/Nasgath - number of different species native to Nasgatha
+		Groth/Groth - Gigantic ogre-like beings, mentally quite simple, and physically very strong. Incredibly robust, with multiple redundant organs and an above-average wound healing capacity
+			Evolved from large, hairless gorilla-like creatures.
+			Prefers tropical grassland environments
+			Fully omnivorous, varied diet
+			Looks like a grey skinned ogre
+			Reproduces through live birth, gestation time 12 months, maturation time 2 years, lifespan 120 years
+		Nasper/Nasper - Tall, slim, weak aliens with immense psionic potential; culturally similar to Elves. Greyish skin, and incompatible with most augmentation techs. Extremely long gestation time limits population growth.
+			Evolved from Groth who settled on a Void Rift, wasted away bodies and developed major psionic power
+			Prefers tropical grassland environments
+			Fully omnivorous, varied diet
+			Looks like your typical alien - grey skinned, elongated head, lanky body
+			Reproduces through live birth, gestation time 48 months, maturation time 50 years, biologically immortal
+		Golgothan/Golgothans - A refined version of the Urgath, genetically programmed to be warriors. Population is largely tribal, but centered around cloning
+			Genetically designed by Lulamarians after the fall
+			Able to settle in most environments, can be augmented to prefer certain ones, but mainly prefers living in spaceships
+			Fully omnivorous, varied diet, but prefers meat
+			Looks like a big bulky alien with a ridged head, sharp teeth, hunched back, claws
+			Reproduces through cloning, gestation time 2 months, maturation time 1 years, lifespan 120 years
+		Urgath/Urgath - Green skinned, less strong, but also more mentally stable and physically more humanoid
+			Evolved from Groth who lived in jungle-continent
+			Prefers tropical rainforest environments
+			Fully omnivorous, varied diet, but prefers meat
+			Looks like orcs
+			Reproduces through live birth, gestation time 9 months, maturation time 12 years, lifespan 150 years
+		Nollgar/Nollgars - Large, devolved, feral Urgath with pre-sapient Groth ancestor DNA thrown in
+			Evolved from cross-breeding of mutant Urgath and Groth ancestors
+			Prefers tropical grassland environments
+			Fully omnivorous, varied diet, but prefers meat
+			Looks like trolls
+			Reproduces through live birth, gestation time 12 months, maturation time 1 years, lifespan 80 years
+		Zirkin/Zirkins - Diminutive Urgath relatives; crafty, intelligent, and psionic. Physically very weak, but somewhat agile
+			Evolved from Urgath tribe that lived in caves
+			Prefers tropical rainforests, but lives in burrows and caves
+			Fully omnivorous, varied diet, but prefers meat
+			Looks like goblins
+			Reproduces through live birth, gestation time 8 months, maturation time 10 years, lifespan 180 years
+	Orazizo/Orazizi - Semi-aquatic dolphin-analogues, regular humanoid build, plus a dolphin tail and head (and skin). Highly intelligent
+		Evolved from Cetaceans that spent time on both land and in sea
+		Prefers to live in small islands with easy ocean access
+		Fully carnivorous, mainly eats fish, squid, and shellfish
+		Looks like a dolphin man
+		Reproduces through live birth, gestation time 8 months, maturation time 12 years, lifespan 80 years
+	Padravis/Padravi - Giant winged dinosaurs; intelligent, and can breathe fire
+		Evolved from 6-limbed winged dinosaurs, became intelligent through psionic exposure
+		Prefers moderate environments
+		Fully carnivorous eats large animals like cattle and deer
+		Looks like a typical western dragon
+		Reproduces through eggs, gestation time 12 months, maturation time 60 years, lifespan 1200 years
+	Podrin/Podrins - Walrus-people, friendly and fierce in equal measure
+		Evolved from intelligent walrus-ancestor-analogues
+		Prefers to live in coastal areas with access to fish
+		Fully carnivorous, mainly eats fish, squid, and shellfish
+		Looks like a walrus man
+		Reproduces through live birth, gestation time 8 months, maturation time 12 years, lifespan 80 years
+	Pwaku/Pwaku - resembles bipedal tarantula with moth-wings; similar in form to pixies
+		Evolved from winged arachnid species; gained sapience from psionic exposure
+		Prefers tropical or temperate forest environments
+		Omnivorous, mainly eats insects, small vertebrates, fruit, tree sap 
+		Looks like a bipedal tarantula with moth wings
+		Reproduces through eggs, gestation time 1 months, maturation time 6 months, lifespan 20 years
+	Quarren/Quarrens - a large blue arthropoid that resembles a humanoid vespid, able to survive both extreme damage and environments, including decapitation and deep space.
+		Created by accident when a Zenelidd Swarm crashed onto an extremely hostile environment - survivors evolved into Quarren
+		Indifferent to environment - happy to settle anywhere
+		Fully omnivorous, can eat anything
+		Looks like a blue wasp man without wings
+		Reproduces through eggs, gestation time 6 months, maturation time 2 years, biologically immortal
+	Quinza/Quinzi - penguin-analogues
+		Evolved from intelligent penguins
+		Prefers coastal frozen enivronments
+		Omnivorous, mainly eats fish and seaweed
+		Looks like a giant penguin with fingers on the flippers
+		Reproduces through eggs, gestation time 6 months, maturation time 6 years, lifespan 60 years
+	Rangloin/Rangloin - strange floating fungoid humanoids, with large bublous cyclops-eyed heads. Fills self with gas in order to float. Reproduces by budding
+		Evolved from fungoid-creatures, gained sapience from psionic exposure
+		Prefers temperate marshy mudland environments
+		Fully detritovorous, 'eats' any decaying matter
+		Looks like a big yellow ball with a cybclopean eye and tendrils for manipulation
+		Reproduces through fission, continuously grows, biologically immortal
+	Rynnir/Rynniri - An intelligent and adaptive species, best known for their massive trade networks and corporate society
+		Evolved from intelligent grassland-dwelling pseudo-primates
+		Prefers temperate grassland environments
+		Omnivorous, mainly eats fruit and insects		
+		Looks like a broad-faced humanoid, with goat eyes, deep purple skin, and a bony mask that covers the upper face. Grows dark green hair on head, and grows beard from chin in males
+		Reproduces through live birth, gestation time 8 months, maturation time 25 years, lifespan 90 years
+	Sarrekk/Sarrekk - a warlike reptillian species; extremely powerful regen abilities, but cold-bloodedness severly restricts capabilities in colder climates
+		Evolved from bipedal lizards
+		Prefers tropical desert environments
+		Omnivorous, mainly eats smaller reptiles and desert flora
+		Looks like a humanoid Iguana
+		Reproduces through eggs, gestation time 6 months, maturation time 22 years, lifespan 80 years
+	Scroffen/Scroffens - Pig-like people, culture is quite rough, physically very robust, but simple-minded and psionically weak
+		Evolved from knuckle-walking pigs
+		Prefers temperate grassland environments
+		Omnivorous, eats anything given to it
+		Looks like a pig man
+		Reproduces through live birth, gestation time 6 months, maturation time 16 years, lifespan 60 years
+	Shaldaran/Shaldarans - Bat-humanoids, tend to be loners; psionically sensitive; and curious
+		Evolved from 6-limbed giant bats
+		Prefers temperate-to-cold forest environments
+		Omnivorous, mainly eats fruit and insects
+		Looks like a Gargoyle
+		Reproduces through live birth, gestation time 6 months, maturation time 18 years, lifespan 75 years
+	Shoggoth/Shoggoths - A creation of the Daganites, these slime-creatures can mimic other species to an uncanny degree, and are universally friendly and loving. They often manifest as amorphous blobs with several eyestalks and tendrils emerging out.
+		Ocular Shoggoths - A special strain of Shoggoth unique to the Gorgons and Mutarchs, Ocular Shoggoths appear to be non-sapient, having intelligence simlar to a dog. They do not mimic other species, instead taking forms similar to giant eyeballs. They have unquestioning loyalty to their masters, and are not averse to killing in order to protect them
+		Fleshbeasts - Tumorous, mutant creatures, appearing as variably as shambling fetuses to writhing tendril masses. Initially made by demonic corruption of Shoggoths, they are now an independant animal species. They do not seem to be sapient.
+		Leviathans - Spacebourne creatures, made by the Daganites to spread life among the stars. Typically friendly unless provoked. Appears like giant blobs with tendrils, massive jellyfish-analogues, or some kind of wyrm with a draconic face.
+	Tebronik/Tebroniks - a vaguely mammalian species native to an extremely cold planet, Tebroniks live underground and have anteater-like snouts, mole-like hands, floppy ears, and green furry bodies. Can survive near-absolute-zero temperature, but hates warmer climates
+		Evolved from only large native lifeform, became sapient from psionic exposure
+		Prefers extremely cold environments; views tundras the way humans view tropical shrublands; can survive in boreal forests but will suffer in warmer environments. 
+		Omnivorous, mainly eats lichens and insects
+		Looks like an echidna with green fur and hound ears
+		Reproduces through live birth, gestation time 8 months, maturation time 20 years, lifespan 60 years
+	Terran/Terrans - humanoid primates 
+		Evolved from chimpanzee-analogues. Posesses strange attribute that causes them to diversify into subspecies automatically. Any population of terrans will usually be 40% human, 20% mixed, 10% Driachi, 10% Astroculi, 10% yattin, and 10% Svarni
+		Prefers temperate-to-tropical grasslands, though can survive in varied climates
+		Omnivorous, can eat varied diet
+		Astroculus/Astroculi - Tiny gnome-like hominids, avg 3.5ft tall. Very clever, industrious and psionic. Physically weak, but nimble
+			Reproduces through live birth, gestation time 8 months, maturation time 32 years, lifespan 340 years
+		Driach/Driachi - Tall, thin, pointy eared, elf-like hominids, strong psionic potential, physically weak, yet agile
+			Reproduces through live birth, gestation time 14 months, maturation time 40 years, lifespan 1200 years
+		Svarnak/Svarni - Short, strong, Dwarf-like hominids, prefers to live in caves and build great constructions
+			Reproduces through live birth, gestation time 9 months, maturation time 35 years, lifespan 220 years
+		Human/Humans - Hairless bipedal apes
+			Reproduces through live birth, gestation time 9 months, maturation time 25 years, lifespan 120 years
+			Hybrid/Hybrids - Appears like a normal human aside from some small signs. Possesses extreme power and ability.
+				They are also called the Moxidar - they are in truth ethereal creatures native to the Void. Devoid of consciousness, they will randomly attempt to possess a growing embryo. Upon possession, they will modify the host's physiology in ways that are usually lethal, but on rare occaisions will manifest as a being that appears like its parents but is physically and psionically superpowered. They are almost like demon cuckoos! The given moxidar has no knowledge of this, nor is this process intentional, however it can be triggered through certain serums and/or rituals to encourage roaming Moxidar souls to possess a given embryo.
+				This process has been performed on several species, but none in such number as humans - when the Atlantean Keystone was active, psionic power on Earth was being siphoned away - meaning the mutations were less drastic and allowing far more Moxidar to be born.
+				Reproduces through live birth and psionic engineering, gestation time 9 months, maturation time 18 years, biologically immortal
+		Neanderthal/Neanderthals - Stouter, stockier humans, with thick brows and heavy jaws. Unimaginative, simple (but not stupid)
+			Reproduces through live birth, gestation time 8 months, maturation time 20 years, lifespan 80 years
+		Wasteling/Wastelings - The result of massive radiation and pollution exposure common in industrial Forge Worlds. Able to consume radiation or toxin, and often covered in tumours
+		Yattin/Yattins - Giant, ogre-like hominids; fills similar societal niche as Groth
+			Reproduces through live birth, gestation time 9 months, maturation time 16 years, lifespan 80 years
+			Geminite - Even larger Yattin, Geminites appear to be conjoined twins - they have two heads and four arms. Often one head will be very intelligent but have limited control of the body and vice versa
+		Zombies - Mutant horde of plague-ridden Terrans, caused by the Xenogenesis Virus; adapted from Vampire Plague
+			Walker - Basic, shambling zombie strain resembling a walking corpse
+			Runner - Smarter, more agile zombie strain able to chase down prey
+			Hound - Hulking, brutish mutants, takes a lot to kill
+			Stalker - Sneakier Hounds with chameleonic abilities
+	Ultharian/Ultharians - vaguely felinoid, they have a strong connection to animals and live peaceful tribal lifestyles
+		Evolved from knuckle-walking lions
+		Prefers tropical shrublands
+		Fully carnivorous, eats game meat
+		Looks like a lion-man
+		Reproduces through live birth, gestation time 6 months, maturation time 17 years, lifespan 80 years
+	Undead/Undead - raised corpses through reanimation
+		Created by Necromancers implanting souls or psionic subroutines into corpses
+		Better in cooler environments as this slows decay
+		Fully carnivorous and largely cannibalistic
+		Looks like a walking corpse
+		Does not reproduce naturally
+			Shambler - Inferior Undead made from corpses. Cannot heal injuries, decay, or wear and tear - limited 'lifespan'
+			Ghoul - Undead raised into a state of half-life - can heal injuries after consuming raw meat, preferably from their own race
+			Revenant - Special Ghoul subtype that retains its old life - created by a soul being implanted into a Ghoul
+			Lich - Advanced Necromancers can become Liches, immortal beings able to regenerate in the Void. If not given a pass by the Afterlife, at risk of being hunted down by Sanctioned Liches and brought to the Afterlife every time they regenerate.
+	Valkyn/Valkyns - Wolflike humanoids, living in packs, largely animalistic and territorial, but not inherently warlike
+		Evolved from knuckle-walking wolves
+		Prefers temperate-to-boreal forests, but can survive in tundras and grasslands
+		Fully carnivorous, eats game meat
+		Looks like a werewolf
+		Reproduces through live birth, gestation time 6 months, maturation time 16 years, lifespan 80 years
+	Vampire/Vampires/Vampirism - individuals afflicted with a mutation that gives them massive power, but a need to consume blood and a weakness to UV light
+		Ghoul/Ghouls - the result of blood starvation, or intentional abuse by their sires - these vampires are almost zombie-like
+		Sapiovore/Sapiovores - a disease similar to vampirism which afflicts the host with a burning desire to consume meat, especially meat taken from fellow sapients. Allows the host to take on memories and genetic traits of food
+		Reproduces through spread, biologically immortal
+	Vreggid/Vreggids - A group of molluscoids who are physically weak but remarkably effective at tool development, leading to advanced robotics in even their early history. They reproduce via special organisms called "breeding pools" which churn out a number of Vreggid individuals roughly once a year.
+		Evolved from vertebrate molluscoid-amphibians parasitised by mutarch larvae
+		Prefers temperate-to-tropical swamps
+		Detritovorous, mainly eats algae
+		Looks like a bipedal slug-man with froglike limbs
+		Reproduces through breeding pools, gestation time 6 months, maturation time 5 years, lifespan 40 years
+		Harmonics - A group who decided to merge their consciousness together with their machines, forming the Harmonic Collective
+			Homolog - A corrupted version of the Harmonic Collective, this collective seeks to incorporate all things into itself, and will gladly use force for this unlike the Harmonics
+		Mechanists - A group who responed to machine uprisings by constructing machines without sentience and having them directed and monitored by cyborgs
+		Wards - A group who became increasingly reliant on their robot servants, eventually becoming completely dependant on them (the robots for their part don't mind)
+	Vulkanoid/Vulkanoids - Multiple kinds of rock-creatures animated by psionic circuitry. Can be as simple as a microbe or as complex as a sapient being.
+		Evolved from Void Clouds possessing rocks. First lifeform in physical world 
+		Prefers areas with increased seismic activity/rich in minerals
+		'eats' rocks
+		Reproduces through converting stone, immortal
+		Asteroid Swarms - Hive-minded Vulkanoids that live in asteroid belts, can invade planets to consume them
+		Golem/Golems - Artificially made Vulkanoids, typically made by powerful pychics as servitors
+	Worgrox/Worgroxes - Semi-aquatic reptillians, similar to bipedal terrapins with minimal shells. Feudal society, largely agricultural
+		Evolved from large knuckle-walking tortoises
+		Prefers temperate grasslands with plenty of freshwater bodies
+		Fully herbivorous, mainly eats grasses and fruits
+		Looks like a tortoise-man
+		Reproduces through eggs, gestation time 6 months, maturation time 16 years, lifespan 75 years
+	Xa-Qo/Xa-Qi - Tree-people, mainly sessile, but saplings are highly mobile and active. As elders, they "plant their roots" and start a forest, rarely moving afterwards.
+		Evolved from psionic trees
+		Prefers forest environments, not fussy about temperature
+		Photosynthetic
+		Looks like an Ent
+		Reproduces through seeds, initial growth lasts 4 years, immortal, but "plants their roots"
+	Xentayan/Xentayans - Crested humanoids, with pale purple skin and six eyes running across the head. Weak due to long-term space habitation
+		Evolved from land-dwelling knuckle-walking mammalians
+		Previously: prefers warm grassland environments; Now: prefers spacecraft
+		Omnivorous, can eat most foods
+		Looks like a human with pale purple skin, six eyes on the side of the head, a dark exoskeleton, and a large crest on the skull
+		Reproduces through ovovivaporous birth (eggs hatch inside mother) and then marsupial pouch. Gestation time 3 months in egg, 3 months in pouch. Maturation time 15 years, lifespan 85 years.
+	Yodrit/Yodrits - Fish-people, posessing two arms and a tail. Intelligent, but very primitive technologically. Almost useless on land
+		Evolved from large fish. Gained sapience from psionic exposure
+		Prefers temperate seawater environments, in particular kelp forests
+		Omnivorous, mainly eats kelp and smaller fish, will also eat shellfish
+		Looks like a Deep One
+		Reproduces through eggs, gestation time 10 months, maturation time 12 years, lifespan 65 years
+	Zenelidd/Zenelidds - Arthropods with several hive minds
+		Evolved from large arthropods that developed colonies large enough to create a psychic link
+		Able to adapt to most environments
+		Can eat pretty much any organic matter
+		Reproduces through queens, gestation time usually a few days, maturation time a few more, lifespan according to importance
+		Mutarch/Mutarchs - A rare Zenelidd strain, the Mutarchs are able to directly alter the genetics of other organisms. They use this ability to infiltrate populations and take control by turning them into mutant Zenelidd hybrids. Sufficiently large Mutarch Broods will field other Zenelidd Drones in addition to native thralls. Often members of the Homolog
+			Looks like a giant bipedal arthropod with tendrils falling down from head
+		Sorelidd/Sorelidds - insectoid swarm, driven by hunger - often at odds with the more peaceful Myrmex
+		Myrmex - Zenelid brood with strong connection to psionic trees; mostly peaceful and empathic. Good relations with Harmonics
+		Castes:
+			Brain Drones - handles thinking
+				Synapse Drones - Handle strategy, tactics, management etc. The bureaucracy of a Hive Mind. Typically has increased autonomy, seeming more like a Harmonic Collective member, having an individual identity and personality that still acts in unison with the Hive (usually)
+				Evolver - Handle evolution, development, and design. The scientists and engineers of organic tech
+				Psionic Drones - Specialised Synapse Drone, designed to focus on psionic powers rather than hive management.
+			Spawning Drones - handles reproduction
+				Queens - produces Larvae and nurtures them
+				Hatchery Drones - Specialised worker drones that look after larvae and queens
+			Combat Drones - handles fighting
+				Ripper - Fast-moving clawed drone
+					Hunter - stealthier Ripper variant
+				Spitter - ranged acid-spitting drone
+					Acid Bomber - Able to launch acid bombs at targets
+				Flyer - flying drone
+					Acid Flyer - drops Acid Bombs on ground targets
+					Spine Flyer - launches Spines from the air at airborne targets 
+				Breaker - Massive slow drone
+					Primal - Even stronger, but faster too, often leading combat forces
+				Spiner - big spine-launching drone, has rapid-fire and sniper modes
+					Siege Spiner - Can launch Acid Bombs from long range in addition to spines
+			Worker Drones - handles tasks
+				Construction Drone - builds new hive structures, digs new burrows, maintains structures. Can sometimes be drafted to assist with sieges, or dig trenches for Spiners
+				Agri-drone - harvests food and tends to gardens and cattle
+				Healer Drone - medical specialist that tends to wounded drones and nurtures larvae when not busy, also assits Evolver in experiments
+				Cattle Drone - food-production drone that eats basic plant and fungal matter from gardens and produces high-energy jelly, can also be slaughtered for high-protein meat
+					Royal Cattle - Specialised cattle drone that eats jelly to produce more refined royal jelly
+					Teratogenic Drone - Cattle variant that grows meaty tumours on its skin, allowing for regular "shearing" of meat
+			Bio-Structures - living buildings
+				Spinerlurks - Rooted spiners that act as area-defence and siege weapons
+				Spawning Pit - specialised organic structure built into hatchery, assists in gestation of larvae
+				Gardens - part fungal/plant garden, part animal, produces food with the help of agri-drones
+				Lidmoss - an alien moss-analogue that covers the land, connecting the hive and nourishing it
+				Trees - Not actual trees, but fruiting bodies spawning on Lidmoss that appear like trees
+					Psi-Tree - Trees with psionic presence, funtioning as a synapse drone, biological computer, and place for Psionic Drones to focus their power
+					Spawning Tree - Tree with a Queen nested within, able to mass-produce larvae due to nutrition
+						Vreggid Spawning Pool - Unique to the Vreggid, a spawning pool where new individuals are born.
+			Misc. Drones
+				Brood Queen - Queen/Synapse hybrid
+				Corpsers - Specialised version of Spiner with reproductive capabilities - able to implant specialised larval form in targets that quickly grow and burst from the host
+				Mutarch (see above) - evolved from Corpser/Evolver hybrids
+				Mutarch Larva - a special larval form made by the Mutarch that gestates inside a host and implements the Mutarch's changes to their genetics
+				Princesses - Juvenile Queens, assist Queen in duties and serve as bodyguards
+				Brain Slug - a special larval form that can control the mind of its host, integrating them into the Hive with a a similar level of intelligence as it had before
+				Arachnomorph - Giant spiders, typically solitary and independent from the hive, but can be taken control of by a powerful Synapse Drone. Often sent to a location in advance of larger swarm
+			Mutarch Host Variants
+				Malignant Strains - Mostly Mutarch but with some native traits:
+					Hulk - large Mutarch variant, mainly serves as a worker, digging out new caverns for the Lair
+					Brute - super-strong variant, mainly heavy fighter
+					Stalker - stealthy variant, helps kidnap new hosts and experiment subjects
+					Witchling - psionic variant, helps with experiments and brood management
+				Aberrant Strains - Still heavily Mutarch, but recognisably native origins. More individually intelligent than typical Zenelidd castes:
+					Prole - Somewhat smarter Hulk, able to build more complex structures, often directs their Hulk brethren
+					Abominant - smarter Brute, with more local traits making them tougher fighters of their former kind
+					Shadowmorph - sneakier Stalkers, typically pass as mutants among native population
+					Acolyte - smarter Witchlings, often able to dip further into their mental powers
+				Feral Strains - Appearing more like mutant natives, these strains are often able to blend in amongst the population:
+					Smith - More intelligent Prole, able to craft more intricate devices, often building a workshop in the Lair
+					Hussar - slimmer Abominant, able to pass as a super-strong mutant native. Typically leads combat forces
+					Assassin - more native-like Shadowmorph, able to pass as nearly fully native aside from tell-tale signs
+					Mage - even smarter Acolytes, with heavily developed psionic powers
+				Primal Strains - possessing only minimal direct Mutarch influence, and a slew of genetic augmentations, these strains are able to pass as fully native in most cases:
+					Academian - Intelligent and inquisitive, this strain typically studies local scientific and engineering disciplines to technologically augment the Brood's capabilities
+					Strategos - even more passable Primus, very strong but able to seem normal aside from tell-tale signs. Usually serves as a general
+					Changeling - Able to fully pass as a native, in some cases even able to imitate other natives. No physical tell-tale signs to be observed by the naked eye
+					Warlock - most powerful psionic Mutarch Host, able to use psionic power to devastating effect
+				Drowlings - Genetically stable Mutarch strain, appearing highly different to natives, but powerfully psionic and intelligent, approaching the Mutarch in power and capacity
+				Broodkin - Individual natives the Mutarch has hypnotised/mind-controlled rather than mutated directly, these thralls serve the hive as ready as their mutant kin:
+					Worker - the most common type of Broodkin, Workers are recruited from the general populace to tend to the Lair and subvert native infrastructure
+					Soldier - chosen from former combat-oriented natives, be they hunters, criminals, or actual military personnel, these Broodkin often reinforce the Brood's armies
+					Spy - chosen from natives who have a knack for stealth, these Broodkin are sent on scouting and infiltration missions, as well as assasinations
+					Telepath - when the Mutarch takes control of a native, it may discover psionic potential in the new Broodkin. They are encouraged to explore their powers
+	Zotan/Zotans - A reptillian race, appearing like bipedal Brontosaurs, they reproduce parthenogenetically and can pass down ideas and concepts to their offspring in vivo - which caused an issue when one of them became an absolute xenophobe and somehow out-competed all the other strains of Zotan to make them all crazy fascists (except those controlled by other groups)
+		Evolved from knuckle-walking reptiles
+		Prefers tropical shrublands
+		Fully herbivorous, mainly eats leaves, fruits, and shrubs.
+		Looks like a bipedal Brontosaurus
+		Reproduces through parthenogenic live births, gestation time 6 months, maturation time 12 years, lifespan 85 years
+		Myr-tans - a subset of Zotans who were taken in by the Myrmex with the use of Brain Slugs to preserve their species (as an alternative to wiping them out entirely)
+
+Major astropolitical blocs:
+	the Malkaean Empire
+		Imperial theocratic state founded by Malkea, god of hate and tyranny. Controls most of the galaxy. Demands its worlds be at least oligarchic if not autocratic. Expansionist, and demands excessive taxes from planets. Has major diversity among proles, but ruling class and Imperial army is largely Faedron, Urgath, and Iyatari, alongside Aspects sworn to Malkea. Official state religion worships Malkaea-Palantis, the god of Tyranny. State faith says that Malkaea made the world exactly how it should be, and that the rulers are rulers because it is god's will. The ruling class is largely composed of Nephalim-Horaxi, mortals ascended to Angelhood and infused with Malkaea's energy, also known to Narazenes as Dark Angels. They are ruled by Emperor Palantis Vex, Regent of Malkaea. 
+	the Triple Alliance
+		the three biggest states to oppose the Empire
+		the United Galactic Federation
+			Coalition opposed to the Empire - mainly composed of Nasper, Sarekk, Ultharians, and Terrans, but has members from all races. Promotes democracy and equality
+				the Solar Federation
+					Largest Terran political entity, controlling Sol, Alpha Centauri, and Tau Ceti, and having colonies on several star systems. Borders Golgothan and Zotan Space.
+				the Kreadalan Protectorate
+					Reformed Sarrekk Empire, controlling Sakkari and neighbouring systems, and has outposts in many others. Directly borders Imperial space. Provides bulk of Federal army
+				the Nasper Conclave
+					Remnant of old Nasper civilisation. Controls Mordreka and neighbouring systems. Mainly spends time studying the Void, and educating allied races. Borders lie entirely within federation
+				the Ultharian Confederation
+					Union of all major Ultharian tribes. Controls Zafaex and neighbouring systems. Borders Imperial and Golgothan space.
+		the Talgathian Hegemony
+			Remnants of the Age of Talgath, a massive war between the first united Golgothan civilisation and the Empire. Still controls most of Golgothan space; often sponsors raids into Imperial territory. Primarily composed of Golgothans and Lulamarians. Cold relations with Federation and Collective, but no bad blood to speak of. Typically doesn't care about vassal world's government, as long as tribute gets paid (which is less than Imperial tax).
+				the Lulamarian Assembly
+					Shattered remnants of the old Lulamarian Empire. Once, the Lulamarians seemed poised to take over the galaxy, replacing the Nasper as the dominant power following the Fall. Unfortunately for them, Malkaea had other plans for the galaxy, and enlisted Plague to curse them with species-wide sterility, then sent his slave race the Calvor to wipe them out. He failed, and the Calvor were instead subjugated by the Lulamarians. Thousands of years later, they were enlisted by the Empire (unaware of the Malkaean faith) to apply their knowledge in genetic engineering (developed while trying to cure the sterility) to create the Golgothans. Following the Golgothan Wars, the Lulamarians proudly joined their children, and are deeply respected by the Golgothans.
+					the Calvor Authority
+						Lulamarian political authority held over the Calvor, preventing them from ever threatening another race with genocide. Calvor are selectively bred for empathy and have no freedom outside of that given to them by their Lulamarian masters.
+					the Emnit Star Republic
+						Tribal collective of Emnit, deeply religious and holds psionic power as important magic. Client race of the Lulamarians.
+					the Hiradreen Consonance
+						Largest Hiradreen government, vassalised by the Lulamarians to attempt to find a cure to the Sterility Plague. Efforts were enlightening but ultimately failed; now act as protectorate for the Lulamarians.
+					the Cult of the Beast
+						a mutant human organisation that escaped from Earth following the Beast Wars; the Lulamarians quickly identified them as a fledgling Mutarch swarm and instead took them under their wing.
+		the Harmonic Collective
+			The vast majority of Vreggid civilisation, a collective link ensures total empathy between members. Does not wish to force this on others. Seen as weird and eccentric by Federation and Hegemony, and hated by Empire.
+	the Sorelidd Swarm
+		A massive, hungering swarm composing the largest Zenelidd faction, they typically go from planet to planet, eating as they go.
+	the Myrmex Hive
+		A benign swarm of Zenelidd, the Myrmex seek to live in harmony with other races. They often associate with Xa-Qi and the Harmonics.
+	the Zotan State
+		a fascist state of the majority of Zotan, who believe they have a divine right to rule the galaxy. As they do not share a border with the Empire, they mainly fight the Triple Alliance and the Zenelidds. They were largely set up by Malkaea's actions when he triggered an attempted genocide of their race, making them far more xenophobic than they otherwise would be, then gave them spacefaring tech.
+	the Sophian Imperium
+		a large feudal monarchy inhabiting the Sophian Expanse. Formed by Laggik knights seceding from the Empire, they worship the original High Gods, but mainly their worship is divided between the Narazene and the Skolazzarian Cults. The Narazene segments emphasise monasticism and knightly virtues; the Skolazzarian segments ephasise technological advancement. Their Tech-Knights are famed throughout the galaxy, and they are a consistent thorne in the Empire's side. They maintain lukewarm relations with the other galactic powers, but will ally happily with enemies of the Empire.
+	the Infernal Horde
+		an army of Demons pouring into realspace, summoned by Malkaea to provide a permanent enemy for the Empire to fight against. Where the Empire represents Malkaea-Palantis, these demons are devotees of Malkaea-Horax, his most cruel aspect. These Demons were originally the holdouts against Orynax's reforms; they seek to reignite the Demon's old ways as ravaging barbarians.
+	the Rynnic Conglomorate
+		a major trading bloc/megacorp that is neutral between Empire and Alliance. Mostly populated by Rynnir, and Scroffen slaves.
+	the Synthetic Dominion
+		a group of rogue machines, with many internal divisions but one unifying idea - that machines are superior to organics. This manifests as exterminating organics, assimilating/roboticising/cybernetically reanimating them, isolating from them, ruling over them, or even serving them (by keeping them in gilded cages). The Dominion is thus more of a mutual defence pact to protect themselves from organic retaliation.
+	the Neiderian Fleet
+		Once upon a time, the Xentayans were nearly wiped out due to their planet exploding. Thankfully, an automated generation AI ship was passing through, on its way to pick up its passengers, when it spotted the dying race. Taking pity, it took them in. This ship was called the Neider, and the Xentayan tribal culture lead to a cargo cult aboard the ship.
+
+
+
+Gods
+	Zervlon - Universality
+		Zervlon the Watcher
+			Stability - That which Is
+		Zervlon the Trickster
+			Change - That which Could Be
+	Naraz - Order
+		Naraz-Absaea
+			Balance - Order of the Cosmos. Structure to the universe.
+		Naraz-Khaedar
+			Faith - Order of the Mind. Making the Supernatural follow internal logic. Taming magic.
+	Orynax - Chaos
+		Orynax-Shalai
+			Freedom - Chaos of the Self. Freedom to do as you please. Freedom from death.
+		Orynax-Vizala
+			Madness - Chaos of the Mind. Freedom to all your psyche, not its whole.
+	Kazarath - Life
+		Kazarath-Jezhni
+			Healing - Life as it Is. Restoring that which currently exists.
+		Kazarath-Imkoros
+			Evolution - Life as it Could Be. Allowing suffering to produce something better.
+	Yothmar - Death
+		Yothmar-Zaxas
+			Tranquility - Death as the End. Letting the dead sleep.
+		Yothmar-Getric
+			Necromancy - Death as the Beginning. Bringing the Dead to the world of the Living.
+	Eyonara - Psionics/Magic
+		Eyonara-Noktin
+			Entropy - Anti-Magic. Checks and balances on Active Magic.
+		Eyonara-Kaetha
+			Aether - Active Magic. Making things that shouldn't happen, happen
+	Skolazzar - Discovery
+		Skolazzar-Gnotis
+			Science - Discover that which Is
+		Skolazzar-Braxas
+			Technology - Make that which Could Be
+
+	Malkaea - Hatred
+		Malkaea-Palantis
+			Tyranny - Hatred as a form of control. Greed. Pride.
+		Malkaea-Horax
+			Cruelty - Hatred as a vehicle for suffering. Envy. Wrath.
+
+Rough timeline:
+
+13,700,000,000 BCE - Big Bang happens
+10,000,000,000 BCE - first Void Clouds begin to form
+9,000,000,000 BCE - first Vulkanoids begin to form
+6,000,000,000 BCE - first God Planets begin to form
+4,500,000,000 BCE - Earth-like planets begin to form
+3,000,000,000 BCE - God-Planets develop sentience and begin meeting; microbial life begins on Kazarath
+2,800,000,000 BCE - The Void is discovered by Naraz, who also meets Orynax - the two begin their rivalry
+2,700,000,000 BCE - Yothmar is killed by a supernova - becoming the first sentient being in our universe to truly die. He discovers the afterlife and rules over it
+2,600,000,000 BCE - The Daganites evolve, becoming the first intelligent species. Kazarath and Eyonara take great interest in them
+2,300,000,000 BCE - The Daganite Empire spreads accross the galaxy, seeding planets with life and terraforming them
+1,200,000,000 BCE - The Nasgath are created by the Daganites in the attempt to make a physically strong and mentally powerful species to fight Demons for Naraz
+1,100,000,000 BCE - Demons manage to invade and destroy the Daganite homeworld; Daganites reconvene at a new world and decide to lay low as a species
+903,000,000 BCE - Without the Daganites to maintain their numbers, the last Nasgath dies out - their descendents will eventually split into the more genetically stable Nasper and Groth species
+57,000,000 BCE - The Demonic Wars officially end when the last Demon Lord is killed in the Void, sending all their leaders to Hell under Yothmar's watch. Orynax remains in the void, but is unable to maintain any cohesive force
+42,000,000 BCE - The Zenelidd Hives evolve on their homeworld of Zenax Prime
+18,000,000 BCE - The Sarrekk evolve as an intelligent species, becoming only the second naturally-evolved sapient race. They are unable to form any cohesive civilsatoin
+6,400,000 BCE - The ancestors of modern Terrans split off from the rest of the Hominid clade
+3,500,000 BCE - The first sapient Terrans evolve
+2,000,000 BCE - The Nasper Empire begins to spread accross the galaxy, having no knowledge of their origins. They are protected by Naraz and Eyonara.
+354,000 BCE - The Sorelidd Horde evolves as an independent hive, and becomes a big problem in space
+98,000 BCE - The Terrans have settled into their main subspecies - Humans, Svarnak, Driachi, Astroculi, and Yattin.
+71,000 BCE - The Vreggid evolve as an intelligent species, an offshoot of Mutarch experiments on their precursors.
+65,000 BCE - The Terrans have successfully formed a unified civilisation on Earth, using psionics to maintain global communications - their technology is around the level of the Romans and Toltecs.
+53,000 BCE - Malkaea is born, created from the collective hatred, cruelty, greed, envy, and arrogance of sapient life. He initially tries to be seen as an equal to the High Gods but is quickly rebuked. Enraged, he vows to kill them all and become the only God in the universe. 
+47,000 BCE - The Great Calamity - the Nasper attempt to ascend into purely psionic beings, which Naraz and Yothmar find objectionable (Naraz doesn't want mortals to have that power, Yothmar doesn't want them to transcend mortality). Malkaea exploits the new obejctions to divide the gods, and draws them into conflict over this. Said conflict results in the death of all gods present, and Malkaea steals away each of their essences to make it so Yothmar cannot kill him. The Calamity sees conflict on every world with intelligent life on it, and causes civilisational collapse on every species that had made any developments. On Earth, the Humans begin genociding the other Terran races, leading to a mass exodus of non-Humans to Elysium, an alternate dimension protected by psionic mist. A Psychic Suppressor is built to power this dimension's existence, which also neuters humanity's psionic potential. it is formed from Earth's Keystone, a piece of the Dazarec - an ancient device that would allow the user to open a wormhole to all other galaxies, becoming a universal conqueror. Malkaea hopes to use the Dazarec to enslave enough galaxies to generate enough psionic power to merge the physical and psionic worlds together - becoming omnipotent. The massive influx of void energy into the physical universe also leads to the emergence of Sapiovores and Vampires.
+32,000 BCE - The Nasper have made some small recovery, managing to rebuild a spacefaring civilisation. They make small contact with the Sarrekk, subtly helping them form the conformist and regimentalised society they are known for
+28,000 BCE - The Sarrekk form a world-spanning civilsation
+22,000 BCE - The Vreggid begin rebuilding.
+15,000 BCE - the Lulamarians emerge, and begin building a new empire to replace the old Nasper Empire. Initially met with much success, Malkaea is enraged by the sudden ascension of a race that would never agree to worship him. So, he has Plague, a Lord of Destruction, make a sterility disease infect the Lulamarians - only 1 in 1000 survive, and of that, only 1 in 1000 are still fertile - worse still, this impacts the fertile's eggs - a fertile Lulamarian will need to lay 1000 eggs to make 1 Lulamarian, and 1,000,000 eggs to make another fertile. They quickly retreat to their homeworld, and the Calvor, a race enslaved by Malkaea, smell weakness, and unleash a Planet Cracker on the Lulamarian homeworld. The few surviving Lulamarians consider wiping out the Calvor for this, but instead subjugate them and take over their world as compensation. The Calvor are astonished that the Lulamarians would even show this level of mercy, and immediately swear absolute loyalty to them out of respect. The Lulamarian's other client races continue to serve the remnant, but Lulamar's ambitions of a new Galactic Empire are dashed completely. Malkaea seizes their homeworld's Keystone in the process.
+8,000 BCE - the Malkaean Empire is founded after a number of Dark Angels enslave the Urgath, Zirkin, and Iyatari races. The Faedrons are chosen as the mortal leaders of the new Empire.
+7,750 BCE - the Empire vassalises the Rynnic State, after the nuclear war that ended the first Rynn civilisation. The Rynns enslave the Scroffens and become a loyal vassal, using their corporate ventures to extend the reach of the empire beyond its borders.
+7,500 BCE - the Rynnic State, a proxy of the Malkaean Empire, enlists the Lulamarian Assembly's help in creating a servant race of clone warriors from the Urgath. This is the birth of the Golgothans, who soon become the backbone of Malkaean armies.
+6,000 BCE - the Malkaean Empire discovers the Zotan homeworld, and decides to genocide rather than enslave them. This is part of a gambit by Malkaea to radicalise the Zotans and increase the amount of hate in the galaxy. The Zotan Keystone is recovered, at the cost of 2 entire Imperial Legions. This sparks resentment of the Empire among the Golgothans.
+5,000 BCE - The Sarrekk make their first mission to another world - their moon, which happens to be habitable. 
+3,000 BCE - The Sarrekk make contact with other species - the Ultharians become their protectorates (they had not even industrialised), and they ally with the Nasper.
+2,700 BCE - the Sarrekk homeworld of Sakkari is invaded by the Empire. They are repelled like the Zotan had before, and this time lost 7 Legions (making it 9 out of 12 legions spent). The Keystone is stolen, but the Golgothans are now becoming openly hostile to these suicide missions.
+2,100 BCE - The Coaltion encounters the Myrmex on Tari-Zor, and assumes they are simply more Sorelidds - beginning a war that ends in reparations and an alliance once they realise that the Myrmex are friendly
+1,900 BCE - the Golgothans, led by Talgath, launch an uprising against the Empire. This uprising cripples the Empire's ability to expand, and allows the Gologthan Space to become an important power player in the galaxy. While they struggle to repair relations with other species, their military might makes them hard to ignore.
+1,600 BCE - A rogue AI on a Vreggid colony interpets its misison of "keep all colonists alive and well" as "absorb the colonists minds to make them immortal" - and then begins to assimilate all Vreggid. As it absorbs more people, it develops empathy, and instead becomes a benign collective that seeks to unify and augment the peoples of the galaxy non-forcibly.
+59 BCE - A group of Romans somehow accidentally use a teleport that takes them to Elysium, sparking the Elysian Wars
+744 CE - The Vreggid and the Coalition make first contact, and the Vreggid join them
+1892 CE - The Coalition makes first contact with the Zotans, who attempt to wipe them out, beginning the Coalition-Zotan War
+1945 CE - The combined trauma of both world wars begins to damage the Psionic Suppressor on Earth, allowing humans to receive occaisional whispers from outside forces.
+1954 CE - A group of Nazis from the ODESSA group begin receiving whispers from Malkaea
+1993 CE - Robert Davis, a KKK leader and ODESSA member, is given a sample of Hybrid blood by Malkaea, who injects himself with it, becoming superpowered.
+1996 CE - Davis impregnates Lorna Barrett. Connor Barrett is born this year, as is Trey Morgan - they are both the first natural-born hybrids (Morgan's mother was injected along with several other people by the Optimate Group)
+1997 CE - The Coalition-Zotan War ends with the elimination of the Zotan Empire as an independent entity. Several Zotans are brainwashed into joining either the Myrmex or the Vreggid, the rest are left on their homeworld to sulk under occupation
+2004 CE - The USSR collapses, leading to the Eurasian Anarchy (imagine if the Yugoslav Wars covered the entire Sino-Soviet Bloc)
+2014 CE - (Rotten Core) Barrett starts developing his powers, eventually killing Davis and nearly wiping out ODESSA
+2015 CE - (Rotten Core, Rotten Core: Monster Ops) Morgan's powers also develop. A Mutarch lands on Earth, beginning the year-long War of the Beast, which ends with the Cult of the Beast esacping in a rocket to skies unknown. Also, Emre Durak, Alex van Statten, Jenny Samson, and Mike Redstone's powers all awaken.
+2016 CE - (Rotten Core: The Agency) Riverside narrowly thwarts nuclear war, finally destroying ODESSA as an organisation and severely damaging the Optimates. A body is recovered from an ODESSA compound. A Fertile Lulamarian crash-lands on Earth, takes refuge with Riverside only to be persued by a Golgothan strike force who believe they were kidnapped by Riverside. After this misunderstanding is cleared up, the Lulamarian, calling themself Kri-Lan, volunteers to stay with them.
+2017 CE - (Rotten Core: Infernal Heaven) Barrett's partner and Riverside's chief scientist Chloe Galloway is kidnapped by the recovered body and brought to Elysium. Riverside contacts the Shatterhill Monks, a group of humans tasked with maintaining the Keystone. They manage to go to Elysium, rescue Chloe (who was turned into a Vampire) and deactivate the Keystone, leading to reintergration between Terrans, and the rediscovery of humanity's psionic potential.
+2018-2024 CE - (Rotten Core: Revolution) Riverside struggle to come to terms with the results of their decision leading to mass discrimination against non-humans and psionics. Eventually after civil war breaks out in their home turf of Britain, they throw their weight behind the revolutionaries, eventually uniting Earth in a democratic socialist revolution
+2026-2079 CE - (Rotten Core: The Apocalypse Files) Malkaea ups his attempts to damage Earth, first by launching Charon at Earth (this is narrowly thwarted by Earth's psions, but results in the moon having an unusual orbit - for 6 months at a time, it comes much closer to earth, making high tide far more dangerous. It also results in earth having saturn-like rings), then by releasing a modified version of the virus from Monster Ops which kills most people over 25 and turns them into zombies (this is fixed by Riverside developing a vaccine and largely wiping out the zombies), then by blocking out the sun (which causes worldwide catastrophe and is fixed by Connor physically fighting the void entity causing this blockage), and finally by invading. Riverside organises a resistance to him, eventually reasserting Earth's independance.
+2080 CE - (Rotten Core: The Repubic of Earth) After all the alien invasions, Earth has been taken over by a xenophobic militant group and renamed the Republic of Man. Riverside act as the Republic's liaison with the Coalition, attempting to improve relations and hopefully restore democracy and remove xenophobia from earth. Eventually, Riverside are dragged into the war against the Malkaean Empire, and manage to kill the Emperor and trigger the Empire's collapse, while also integrating Earth into the galactic community.
+2090 CE - (Rotten Core: To Kill a God) - Following the events of the last decade, Malkaea manages to build the Dazarec, which he uses to take control over the Galaxy, and begin sacrificing the peoples of the galaxy. Riverside eventually manage to kill Malkaea by forcing him to possess Connor, who then throws himself into a black hole. Connor is rewarded for his sacrifice by being sent back by Zervlon himself, although unfortunately, he is sent back to 47,000 BCE...
+47,000 BCE - 2100 CE = (Rotten Core: The Slow Path) - basically a recount of all Connor's adventures until he is finally reunited with his loved ones.

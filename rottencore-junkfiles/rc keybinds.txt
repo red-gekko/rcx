@@ -1,0 +1,35 @@
+rotten core key bindings
+
+wasd - movement keys
+right click - aim weapon
+left click - fire weapon
+F - melee attack/heavy attack (melee weapon equipped)
+Hold F - Grapple
+G - Block
+H - Holster
+I - Inventory
+M - Map
+Q - Cover
+E - Interact
+R - Reload
+T - Order Squad to Inspect
+Y - Order Squad to Attack
+U - Command Menu
+P - Player Menu
+Space - Jump/Scale
+L Shift - Spring
+L Ctrl - Walk
+C - Crouch
+Hold C - Prone
+V - Change View
+
+Shift + [Num] - Dual Wield (must reload weapons individually)
+0 - Unarmed
+1 - Left Sidearm
+2 - Right Sidearm
+3 - Shoulder Weapon
+4 - Back Weapon
+5 - Hip Weapon
+6 - Throwables (tap to cycle)
+7 - Tools (tap to cycle)
+Tab - Weapon Wheel & Abilities

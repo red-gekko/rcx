@@ -1,0 +1,94 @@
+﻿RCX Story guide
+
+
+CHARACTERS:
+
+
+RCX SQUAD
+
+	Capt. Jeffrey Thompson (DELEGATE)
+		Role: Mentor
+		Age: 82
+		Species: Human
+		Physical description: White male, balding grey hair, usually wears formal clothes, typically a white button up shirt with dark grey trousers, waistcoat and trenchcoat, and red tie. During operations, wears black parade suit with red beret. Average body type. Cloudy eyes. Moderately wrinkled face. Prosthetic left leg. Uses crutch.
+		Unit relations: Has a similar dynamic with SENTINEL as ALPHA does with ZODIAC. Gets on very well with the unit, but due to being so by-the-book, often butts heads with ZODIAC and BREAKOUT. However, beneath it all, they're all close friends as well as colleagues.
+
+	Luke Miller (SENTINEL)
+		Role: Co-mentor/Field Team Commander
+		Age: 52 (visually mid-30s)
+		Species: Hybrid (Mutagen-induced)
+		Physical description: White male, Long, feathered brown-greying hair. Short but full beard. Usually wears casual clothes, typically some variant of polo or tee shirt, jeans, boots, and hooded jacket. During operations, wears black fatigues with red beret. Muscular body type. Eyes possess tell-tale hybrid veins around eyebags. Naturally green eyes, subject to hybrid traits.
+		Unit relations: Adoptive father of LEMUR. Very much the ZODIAC to DELEGATE's ALPHA. No issues with any members.
+
+	Trevor Murdoch (ALPHA)
+		Role: Combat specialist/Squad Leader
+		Age: 21
+		Species: Hybrid (Mutagen-induced)
+		Physical description: Black male. Buzz cut hair, slightly longer on top. Goatee with moustache. Usually wears a tracksuit, sometimes wears acid washed jeans with bomber jacket and trendy shoes with baseball cap. During operations, wears Combat Suit (Kevlar bodysuit designed for close range engagements). Muscular body type. Eyes are hybrid. Naturally brown eyes.
+		Unit relations: Certainly fits the role of leader very well. In a relationship with ATHENA. Very good friends with ZODIAC.
+		Personality: Humorous and extroverted. Optimistic. Charismatic.
+		Background: ALPHA was recruited when ZODIAC sent his "application" (see below), his charismatic personality made him the team leader on paper, but de facto is co-leader with ZODIAC. From a poor family in London, the two met as kids and, despite being foils for one another, they are very close.
+		Skills: Decent all-around combat specialist. Skilled with most guns, as well as advanced H2H combat. Charismatic enough to lead the team well, humble enough to listen and take on board criticism and suggestions. Highly intelligent, though not highly educated.
+		Weaknesses: Not particularly technically literate. Lack of specialisation prevents specific weak spots, but also prevents an area of expertise.
+
+	Connor Barrett (ZODIAC)
+		Role: Lead Infiltration Specialist/Co-leader
+		Age: 21
+		Species: Hybrid (Mutagen-induced)
+		Physical description: White male. Undercut hair, dark blonde. Goatee with moustache. Usually wears a black hoodie with black skinny jeans and trainers. During operations, wears Reactive Suit (Covert suit that hardens when stressed, allowing Combat Suit properties.). Slim body type. Hybrid. Naturally light blue eyes.
+		Unit relations: Very close friends with ALPHA. Often seen joking around and interacting with LEMUR and ENIGMA. Friends with the other members. Occasionally his somewhat unconventional approach can cause tensions, but no major issues.
+		Personality: Abrasive and edgy. Often makes sarcastic or snide remarks. Very much a deadpan snarker. Dark sense of humour. Introverted. Likely on the Autism Spectrum. DOES NOT LIKE TO BE TOUCHED.
+		Background: From a poor family in rural England, ZODIAC has spent years dealing with abusive parents, multiple foster homes, mental health issues. Recruited by RCX after he hacked into our systems and left his CV and cover letter on our central server… along with multiple gigabytes of pornography. A close friend of ALPHA, the two were recruited at the same time. They have since become joint leaders of the squad, often providing opposite perspectives on an issue. A talented fighter and hacker, he made a great fit for Lead Infiltration Specialist.
+		Skills: Hacking and H2H combat. Unparalleled in those fields. Very skilled with the knife. Skilled with pistols. Semi-decent sniper.
+		Weaknesses: Prone to be stressed during firefights due to loud sounds. However, this stress and rage massively increases his paradrenaline exertion, so may not be a weakness after all...
+
+	Emre Durak (LEMUR)
+		Role: Infiltration specialist/Combat medic
+		Age: 20
+		Species: Hybrid (NATURAL BORN)
+		Physical description: Ethnically ambiguous (see other file), male, spiky black hair with dyed white fringe, full short beard. Usually wears a leather jacket and black skinny jeans with a branded tee and boots. During operations, wears Covert Suit (Less padded suit with added thermal regulations and softened footsteps, designed for infiltration and assassinations). Skinny/almost-scrawny body type. Hybrid. Naturally light brown eyes.
+		Unit relations: Very close with SENTINEL. Due to quiet personality, doesn't interact much with other members, but gets on well with everyone. Appears to seem uncomfortable around VEX, possibly shy. Maybe he's attracted to her?
+		Personality: Highly spoken. Averse to conflict and is most likely to retreat into a personal bubble when arguments occur. Introverted. Less likely to speak his mind.
+		Background: From Rojava, Syria. Former child soldier, turned Turkish spy, turned rebel leader at age 15, turned RCX recruit following the Kurdish Revolution of 2017. Recruited and trained personally by SENTINEL during and following revolution. Functions as the squad's infiltration specialist. Fluent to native levels in 20 languages.
+		Skills: Highly skilled in disguise usage. Has a unique mutation that allows him to subtly alter his skin tone and facial features to blend in to foreign areas. Can appear as any ethnic group from European to South Asian (Currently studying East Asian and Sub-Saharan). Moderately skilled hacker. Aforementioned language specialty is due to photographic memory.
+		Weaknesses: Due to previous deprogramming sessions in order to undo child soldier trauma, is practically useless in a straight fight. Also doesn't like killing, which could be an issue when a non-lethal takedown isn't practical for keeping an enemy pacified (during long missions for example). When in situations where he needs to shoot, he'll never aim to kill, only to injure, and then attempt to heal the wound. Maybe he'd be a good medic? UPDATE: Respecialised as a combat medic as well as infiltration specialist. He's doing very well.
+
+	Derrick McKenzie (BREAKOUT)
+		Role: Demolitions expert/Combat engineer
+		Age: 22
+		Species: Hybrid (Mutagen-induced)
+		Physical description: White male, brown hair, normal haircut, cleanly shaven. Usually wears a tracksuit, occasionally wears a cotton shirt with a cardigan and flat cap with trousers on formal events. During operations, wears the Combat Suit. Very muscular. Hybrid. Naturally dark green eyes. 
+		Unit relations: Seems to get on very well with everyone else. Occasionally has issues with ZODIAC over certain tactics, but they agree more than they disagree. Fiercely protective of his sister, ENIGMA.
+		Personality: Not entirely "well spoken". Communicates mostly in slang and is unfamiliar with particularly complex words. Northern accent. Extroverted.
+		Background: From a poor family in Yorkshire, BREAKOUT joined the squad when he was trying out for the marines, when a surveillance tracker noticed his hybrid traits and offered him a position on the team as the point man. He gladly accepted.
+		Skills: Highly capable in H2H combat, likely due to history in boxing and street fighting. Moderately skilled with assault rifles, pistols, and long shotguns. Very skilled with sawn off shotguns (has a personal favourite custom personal model) and explosives, especially Molotov cocktails. Very useful when deployment includes little to no official support, as can easily improvise weapons for the team.
+		Weaknesses: VERY heavy footed, making even the Covert Suit loud. Not particularly good at blending in, either. Not skilled with high-tech stuff, but has demonstrated capacity to learn engineering principles, potentially allowing the role of combat engineer. UPDATE: Now serving as Unit Combat Engineer. Highly promising.
+
+	Sophie Derrington (ATHENA)
+		Role: Sniper
+		Age: 20
+		Species: Hybrid (Mutagen-induced)
+		Physical description: Tanned white female. Light blonde hair (dyed, naturally dirty blonde), usually worn long, in a bun on operations. Blue eyes with Hybrid traits. Usually wears casual joggers with vest and hat. On operations, wears Covert Suit.
+		Unit relations: 
+
+	Alison McKenzie (ENIGMA)
+		Role: Hacker
+		Species: Human
+		Physical description: Pale white female. 
+		Brown ponytail. Green eyes. Light freckles. Glasses. Usually wears grey hoodie and black skinny jeans. On operations, wears black fatigues with red beret.
+
+	Jessica van Straaten (VEX)
+		Role: Combat specialist
+		Species: Hybrid (Mutagen-induced)
+		Physical description: Tanned white female. Transgender (Assigned Male At Birth). Short red hair (dyed, naturally brunette). Brown eyes. Usually wears ripped jeans and hooded jacket. On operations, wears Combat Suit.
+
+
+SPECIAL ASSETS
+
+	Edward Tudor
+		Species: Hybrid?
+		Role: ???
+
+	Imi
+		Species: Gorgon
+		Role: ???

@@ -1,0 +1,193 @@
+RCX FACTIONS
+
+NATIONAL COALITION
+	REACTIONARY
+		Groups:
+			British People's Party (BPP) (LEAD COALITION PARTY)
+				Ideology: Neoconservative, Fascist wing
+				Leader: Chris Whittaker, PM
+				Militant wing: British Armed Forces
+			Royalist Party (RP)
+				Ideology: Royalist, Theocratic
+				Leader: King John II
+				Militant wing: King's Guard
+			English Patriot Party (EPP)
+				Ideology: Fascist
+				Leader: Philip Long
+				Militant wing: English Patriots (modelled after Blackshirts)
+			Scottish Unionist Party (SUP)
+				Ideology: Unionist, Fascist, Puppet party
+				Leader: Michael Andrews
+				Militant wing: Royal Union Forces (BPP militia)
+			Ulster Right (UR)
+				Ideology: Unionist, Fascist, Protestant Theocratic
+				Ideology: Liam Murphy
+				Militant wing: Royal Union Forces (BPP militia)
+			British Wales (BW)
+				Ideology: Unionist, Puppet party
+				Leader: Ken Donovan
+				Militant wing: Royal Union Forces (BPP militia)
+			Christian Democratic Party (CDP) ("Official", fake opposition)
+				Ideology: Market Liberalism, Social Conservatism
+				Leader: Mark Harrow
+				Militant wing: N/A
+
+OPPOSITION
+	SOCIALIST
+		Groups:
+			United Socialist Party (USP) (LEAD OPPOSITION PARTY)
+				Ideology: Social democracy wing, Socialist wing
+				Leader: Connor Barrett
+				Militant wing: Revolutionary Forces
+				Trade wing: British Federation of Workers (Shared with CP-BI and SDP)
+			Éire Saor (Free Ireland)
+				Ideology: Socialist, Republican
+				Militant wing: Republican Irish Volunteers
+	ANARCHIST
+		Group: the Free Councils
+		Leader: N/A
+		Militant wing: the Free Council Militias
+		Trade wing: Syndicalist Confederation
+		Youth wing: Young Anarchists
+		Allied Parties: USP, CP-BI, Free Ireland
+		Hostile Parties: All
+	MARXIST
+		Groups:
+			Communist Party of the British Isles (CP-BI)
+				Bio: Initially a big-tent Communist Party, factionalism and infighting led to the splitting-off of first the RP-BI, and then the ISP. Still the largest Communist Party by far, they maintain close ties with the USP, and are a major part of the United Front strategy. They currently have an uneasy alliance with the anarchists, who have learned from experience not to trust so-called Marxist parties, but they are warming up to them, seeing them as the modern-day CNT/FAI and POUM alliance.
+				Ideology: Left Communism, Trotskyist and Titoist wings
+				Leader: Trevor Murdoch
+				Militant wing: Independant Worker's Militia
+				Trade wing: British Federation of Workers
+				Youth wing: British Democratic Youth
+				Allied Parties: USP, Free Ireland, the Free Councils. Chummy with the London Bratva and the Peckham Boys.
+				Hostile Parties: RP-BI, ISP, National Coalition, Neo-Strasserists, Libertarian Alliance, Unionist Party
+			Revolutionary Party of Britain & Ireland (RP-BI)
+				Bio: Formed from an anti-revisionist split in the CP-BI, this party represents the most authoritarian party in the Marxist branch. Opposed to any deviations to Orthodox Marxism-Leninsm, they oppose both the CP-BI, the USP, the Free Councils, and the ISP. However, they hate the fascist-controlled National Coalition so much that they may be open to forming a United Front with these "revisionist", "counter-revolutionary" parties, but only to further their own plans of subverting the movement to better fit their ideals. Ironically for their nominal opposition to fascism, they are forming closer ties with the Neo-Strasserists, probably due to shared views on Statism and economics.
+				Ideology: Anti-revisionist/Hoxhaist, Stalinist, Maoist & Juche wings
+				Leader: Mark Douglass
+				Militant wing: British Red Army
+				Trade wing: British Worker's Federation
+				Allied Parties: None (Willing to form United Front), warm relations with the London Bratva
+				Hostile Parties: All except Neo-Strasserists
+			International Socialist Party (ISP)
+				Bio:
+				Ideology: Dengism, Titoist and Maoist wings
+				Leader: Fred Wallace
+				Militant wing: International Front
+				Trade wing: N/A
+				Allied Parties: Libertarian Alliance, BLP, Neo-Strasserists, USP. Warm relations with the London Bratva and the London Triad, could be important to settling their feud.
+				Hostile Parties: All except Unionist Party. Can potentially form an alliance with National Coalition if excluded from the Opposition
+	LIBERAL
+		Groups:
+			Social Democratic Party (SDP)
+				Bio:
+				Ideology: Social Democracy, Democratic Socialist wing
+				Leader: David Abrahams
+				Militant wing: People's Freedom Faction
+				Trade wing: British Federation of Workers
+				Allied Parties: USP, BLP, CP-BI
+				Hostile Parties: 
+			British Liberal Party (BLP)
+				Bio: A group of liberal centrists, they think the Opposition should de-radicalise and engage in dialogue with the National Coalition. Naive, but they command a large deal of support in the Mainland - having them in the United Front could help - however it'd probably be better to instead invite the Social Democratic Party (SDP)
+				Ideology: Liberalism, Unionism
+				Leader: John McMannon
+				Militant wing: N/A
+				Trade wing: N/A
+				Allied Parties: Libertarian Alliance, USP, ISP, Unionist Party
+				Hostile Parties: Neo-Strasserists, Free Councils, all Marxist parties, Free Ireland. Can potentially join the National Coalition if excluded from the Opposition
+			Libertarian Alliance
+				Bio:
+				Ideology: Right-Libertarianism, An-Cap wing
+				Leader: Jason Killigan
+				Militant wing: Freeman Militia
+				Trade wing: What do you think? N/A!
+				Allied Parties: BLP, Gangs
+				Hostile Parties: All. Can potentially join the National Coalition if excluded from the Opposition
+	REACTIONARY
+		Groups:
+			Unionist Party
+				Bio: Michael Windsor-Simpson, what a man. The previosly-unknown grandson of King Edward VIII and Wallis Simpson, he claims to be the legitimate heir to the British throne, who believes his father was unfairly robbed of his, quote, "rightful throne". He is a reactionary despot who has built a cult of personality around himself, having extremely loyal followers who will fight and die for him without question. Despite his reactionary tendencies, he is strongly opposed to the current National Coalition and its Monarch, King John II. Because of this, there is evidence that he would be willing to display some pragmatism, and it may be that some realpolitik could get him to send his men to die instead of ours. However, do not expect this alliance to last long.
+				Ideology: Paternalistic Conservatism, Anti-socialism, Unionism, Elitism, Royalism (see bio)
+				Leader: Michael Windsor-Simpson
+				Militant wing: Independant Royal Gendarmie
+				Trade wing: Do strikebusters count? N/A!
+				Allied Parties: BLP, National Opposition, willing to work with others temporarily. Has some business with the Hackney Club, apparently he's offered them a fiefdom.
+				Hostile Parties: Literally EVERYONE. He *WILL* backstab the Opposition the moment he gets the chance, and if he feels at all displeased in their temporary alliance, he will join the National Coalition in exchange for Lordship over Ireland. A very dangerous man. If the Opposition abandons leftism and becomes fascist however, he will probably stick around.
+			Neo-Strasserists
+				Bio: A group of fascists with leftist economic ideas. They're trying to worm their way into subverting the United Front, and although their militarism will no doubt be incredibly useful, a deal with the devil is a deal with them, and the price to pay could be awful. If you don't want to become the villain, but want to take advantage of their strength, it's best to form a truce but don't let them join the United Front, and let them exhaust themselves on the National Coalition during the Fight for Glasgow, before sweeping up both of them.
+				Ideology: Fascism, Corporatism, National-Syndicalism, Third Positionism
+				Leader: Ronald Davies
+				Militant wing: The New Blackshirts (Modelled after SA), Black Front (if the player joins them)
+				Trade wing: British Worker's Union
+				Allied Parties: ISP, National Opposition, potentially RP-BI
+				Hostile Parties: Everyone else
+			National Oppostition
+				Bio: They're literally just neo-nazis who feel disgruntled with how the National Coalition isn't fascist enough for their liking. After the Fight for Glasgow, the National Coaltion will become fully fascist as they radicalise. At this point the National Opposition will definitely join them, probably taking a fair amount of the Neo-Strasserists with them. Best strategy is to kill these people the second you get the chance - their numbers will start small. However, killing them all will radicalise the National Coalition far sooner as their leaders are brothers.
+				Ideology: Neo-Nazism, Fascism, Anti-socialism
+				Leader: John Whittaker
+				Militant wing: National Action Committee
+				Trade wing: They kill trade wings for fun. N/A.
+				Allied Parties: Neo-Strasserists, Unionist Party
+				Hostile Parties: Everyone else. Will rejoin the National Coalition if the BPP becomes fully radicalised. They will NEVER join the United Front but will accept a truce if the Neo-Strasserists are in the United Front.
+	GANGS
+		Groups:
+			Glasgow Grin Boys
+				Bio:
+				Location: Glasgow
+				Leader: Jack "Smiley" Allen
+				Allied Parties: Works with the United Front in exchange for a promise of legitimate business post-war
+				Hostile Parties: They hate fascists due to having a large Traveller minority in the gang (the travellers are a target of the fascist government and parties). They have some beef with the more authoritarian parties, and don't like the liberal party, but consider working with the Libertarian Alliance.
+			London Bratva
+				Bio:
+				Location: London (East End, runs rackets on most places here, runs a large percentage of businesses. Trying to expand to the West End)
+				Leader: Vlad Orlov
+				Allied Parties: Their leader is a die-hard, eccentric USSR fanatic, and genuinely believes in the merits of communism. He's more than happy to work with the United Front, in particular, his opinion of you will soar if you include the RP-BI due to its Stalinist aesthetic, and will likely have an issue with you if you exclude all the communist parties. 
+				Hostile Parties: He doesn't like fascism, and will be far more likely to join you after your first major victory against the National Coalition. He has beef with the London Triads, but can be convinced to put aside their differences.
+			London Triads
+				Bio:
+				Location: London (West End, owning several nightclubs and high-end art galleries for laundering, and run rackets on several small businesses in the area. Trying to expand to the East End)
+				Leader: Liu Cheng
+				Allied Parties: They appreciate the Chinese aesthetic of the ISP, but are otherwise politically neutral. They deal with both the ISP and the Libertarian Alliance in gunrunning and drug smuggling.
+				Hostile Parties: Due to being part of a racial minority, they are opposed to fascism on principle. They have beef with the London Bratva, but will be willing to put aside this beef as part of a United Front
+			London Outfit
+				Bio:
+				Location: London (North, mainly owning nightclubs, running rackets, gambling businesses, and corruption, owns territory in the West End)
+				Leader: Matteo Bruno
+				Allied Parties: They have a particularly close relationship with the New Yiddishers, and have a truce with the London Bratva. They occaisionally do business with the Hackney Club but can be pressured to stop
+				Hostile Parties: They have beef with the Triads but they're not as serious as the Bratva. They're more than willing to work within the United Front framework due to their dislike of the National Coalition
+			Peckham Boys
+				Bio:
+				Location: London (South End, owning multiple front businesses, operating a few brothels, and racketeering on several pubs and clubs, they make most money from drug traficking)
+				Leader: Toby Smith
+				Allied Parties: They like the revolutionary aesthetic of the United Front, and dislike the National Coalition for their, y'know, fascism. They'll likely be the first to join the United Front, and will provide an entry port for revolutionaries once Ireland has been liberated. Whilst the player is busy in Glasgow, they'll carry out attacks on the government in London, helping to spread fear among the populace and make them feel like the war is at their doorstep - increasing the pressure on the National Coalition to enter peace talks.
+				Hostile Parties: Because of their status as racial minorities, and criminals, they're opposed to the National Coalition and any Reactionary parties. They're also not too keen on the RP-BI.
+			New Yiddishers
+				Bio:
+				Location: London (Central, sporadic territory throughout London, own several businesses and run rackets)
+				Leader: Jack Cohen
+				Allied Parties: They maintain a truce with all the other gangs except the Hackney Club, and if all the others join the United Front its likely they'll follow suit - or if they join instead they may pressure the others into joining. They're close with the Glasgow Grin Boys due to a shared Traveller minority
+				Hostile Parties: Being a predominantly Jewish gang with a significant Traveller minority, they're quite reasonably opposed to any and all fascists. They're at war with the Hackney Club, but who isn't?
+			Hackney Club
+				Bio: The Hackney Club is a Cockney gang, basically owning Hackey itself as well as pockets of territory outside. They came to dominance after the National Coalition took over, and they seem to like them. Getting them on your side will be difficult, and probably not even desirable. They only respect shows of force.
+				Location: They practically own Hackney, all the local government is in their pocket. They have some territory outside of Hackney, but concentrate their business their. They are considerably wealthy due to having virtually no competition, and run rackets on almost every business in the area, save for the ones they own directly.
+				Leader: Dave Jones
+				Allied Parties: the National Coalition
+				Hostile Parties: the United front, and all the other gangs, unless a sufficient display of force makes them change sides
+
+MAJOR FIGURES
+	Connor Barret
+	Aliases: ZODIAC
+
+	Trevor Murdoch
+	Aliases: 
+
+	Chris Whittaker
+
+	John Windsor
+
+	Michael Windsor-Simpson
+	Aliases: 
+
+	Edward Tudor
+	Aliases: The Red King, Volkskaiser

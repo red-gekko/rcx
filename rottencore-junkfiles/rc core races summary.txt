@@ -1,0 +1,71 @@
+
+Terrans
+	Humans
+		hairless apes
+	Astroculi
+		gnomes
+	Troggari
+		neanderthals
+	Svarni
+		dwarves
+	Driachi
+		elves
+	Yattin
+		giants
+Lulamarians
+	alien elves
+Ultharians
+	lion men
+Sarrekk
+	lizard men
+Garnalons
+	bear men
+Krickaroo
+	eagle men
+Gathics
+	Nasper
+		warlock-elves
+	Urgathi
+		orcs
+	Nollgar
+		trolls
+	Zirkins
+		goblins
+	Groth
+		ogres
+	Golgothans
+		space orcs
+Scroffen
+	pig men
+Daganites
+	octopus men
+Laggik
+	cow men
+Yodrit
+	fish men
+Xenteyans
+	jackalope men
+Myrmex
+	bugs
+
+
+Lulamarian Conclave/Galactic Alliance
+	Lulamarians
+	Terrans
+	Sarrekk
+	Ultharians
+	Xenteyans
+	Golgothans
+	(later) Vreggid
+
+Zotan Empire
+	Zotan
+
+Malkaean Empire/Rynnic Conglomerate
+	Gathics
+	Garnalons
+	Scroffen
+	Krickaroo
+
+Myrmex Swarm
+	Myrmex

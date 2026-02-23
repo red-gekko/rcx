@@ -1,0 +1,50 @@
+
+Riverside Institute
+
+Planet: New Chiron
+Population: 4,000,000,000
+
+Command Staff
+	Chief Director
+	Overseer Council
+	Ethics Committee
+Combat Divisions
+	Grand Warmaster
+		Combined force:
+			4 Knight Legions
+				Legion of the Serpent's Hand
+				Legion of the Broken Shield
+				Legion of the Silver Flame
+				Legion of the Ashen Blades
+			1 Ranger Office
+			8 Army Groups
+			6 Naval Fleets
+			50 Regional Forces
+
+			Forces (rangers not counted)
+				21,600,000 army personnel - occupation, reconstruction, disaster relief
+				16,200,000 naval personnel - trade facilitation, transportation, aerial and astral support
+				10,000,000 police personnel - civil service, law enforcement
+					78,124 Knights - Rapid assault, deep operations, heavy battle, special ops
+					 1,100 Rangers - infiltration, recon, intel, wetwork, black ops
+			Put it this way:
+				A problem can be solved with:
+					37,000 soldiers, using conventional tactics, or
+					156 Knights, using Special Assault tactics, or
+					1 ranger, infiltrating the AO and wreaking havoc
+
+
+
+Knight Legion Command Structure
+
+1 Knight is considered equivalent to 500 Soldiers in terms of combat value (this is an overestimate, but a Legion of 15k can often outperform an army of 2mil in assault ops)
+
+1 Knight-Legate - Commands the Legion - equal to an Army
+5 Knights-Archdominant - Commands each High Order - equal to a Corps
++1 Ranger-Lord - Commands a Temple of Rangers - cannot be equated to an army strength
+25 Knights-Dominant - Commands each Order - equal to a Division
++1 General - Commands a Division of 453,664 for support duties
+125 Knights-Ascendant - Commands each Suborder - equal to a Brigade
+625 Knights-Valiant - Commands each Maniple - equal to a Regiment
+3,125 Knights-Militant - Commands each Warband - 
+15,625 Knights-Aspirant - Performs combat duties

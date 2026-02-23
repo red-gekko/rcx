@@ -1,0 +1,21 @@
+
+Mythology
+	An interesting side-effect of species origin is the way they write mythology - specifically, monster stories.
+	For example, take the story of the Dragon.
+		For Ultharians and other predator-origins, the dragon is a great beast to be slain for fame and glory. Most dragon slayers are single individuals with supreme talent.
+		For Xentayans and other prey-origins, the dragon is a savage monster come to eat you and your family. Rather than a discrete dragonslayer, the people themselves will band together to kill the stronger foe, using their wits rather than brawn or talent.
+		For Lulamarians, with such a focus on domestication, the dragon is a challenge to be analysed and tamed.
+		Humans, given our more balanced origins, have a mix of these.
+		Orcs, evolving as predators on a very rough world, have a mix of the Ultharian and Xentayan stories - Dragons are monsters who are here to destroy the clan, only for a single hero to defeat them
+
+Artefacts
+	Gapral Device
+		A magitek device that draws energy from a stable internal void rift, producing unlimited free electricity
+	Kasei Dakh Implant
+		An implant that takes a scan of your DNA at time of implantation. It then constantly maintains this DNA no matter what - protecting the wearer from mutation, ageing, radiation damage, and even viral infection.
+
+		Kasei Moro Implant
+			A much more advanced version that also performs DNA repair, de-aging a person into their prime. It also uses smart activation of HOX genes, allowing the wearer to regrow lost limbs and organs.
+
+			Kasei Nerazh Implant
+				The most advanced life-extension tech, ever. A Kasei implant that is also a Gapral device, providing the user with constant healing and using void energy for sustenance and nutrition, making them functionally unkillable as long as the implant remains inside them.

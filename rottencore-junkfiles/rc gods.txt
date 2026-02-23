@@ -1,0 +1,79 @@
+
+
+	Zervlon - Universality
+		Zervlon the Watcher
+			Stability
+				Rhythm, Structure, That Which Is
+		Zervlon the Trickster
+			Change
+				Improvisation, Possibility, That Which Could Be
+	Naraz - Order
+		Naraz-Khaedar
+			Faith
+				Religion, Belief, Seeking Order within the Supernatural
+		Naraz-Absaea
+			Balance
+				Justice, Rhythm, Organisation. Anti-Magic. Applying Order to the Universe
+	Orynax - Chaos
+		Orynax-Shalai
+			Freedom
+				Freedom to act, Freedom to be. Indulgence, Desire, Determination
+		Orynax-Vizala
+			Madness
+				Chaos of the Mind. Thought without Rhythm.
+	Kazarath - Life
+		Kazarath-Jezhni
+			Healing
+				Restoration. Rebirth. Recovery.
+		Kazarath-Imkoros
+			Evolution
+				Dynamism. Necessary Suffering. Optimisation. Spread.
+	Yothmar - Death
+		Yothmar-Zaxas
+			Tranquility
+				Peace. Nullification. The calm of Death.
+		Yothmar-Getric
+			Necromancy
+				Reanimation. Seance. The action of Death.
+	Eyonara - Supernatural
+		Eyonara-Kaetha
+			Psionics
+				Mind. Telepathy. Kinesis.
+		Eyonara-Noktin
+			Magic
+				Sorcery. Thaumaturgy. Elemental power.
+	Skolazzar - Knowledge
+		Skolazzar-Braxas
+			Invention
+				Practicality. Application. Knowledge in Use.
+		Skolazzar-Gnotis
+			Discovery
+				Truth. Enlightenment. Knowledge for itself.
+
+	Malkaea - Hatred
+		Malkaea-Palantis
+			Tyranny
+				Hatred Within. Despotism. Silent Hatred.
+		Malkaea-Horax
+			Cruelty
+				Hatred Without. Wanton cruelty. Active Hatred.
+
+	Areziki Gods - these are minor gods that are worshipped by the Arezik faith. They come from the void.
+		The Flesh Shaper
+			A minor god associated with Mutarchy, it is the patron of Fleshcrafting
+		The Great Devourer
+			A minor god associated with hunger, it is the patron of the Sapiovores
+		The Whisperer
+			A minor god associated with forbidden knowledge, it tempts mortals onto the Dark Path.
+
+Hierarchy of the Divine:
+	Demigods:
+		Mortals that have been elevated, or Aspects of a true God
+	Lesser Gods:
+		Low-tier gods. Bourne of religious veneration.
+	Greater Gods:
+		Mid-range gods. Formed of certain concepts, like Love, Hate, Mutation, Consumption
+	High Gods
+		High-level gods. Formed of cosmic forces: Life/Death, Order/Chaos, Magic/Science
+	Supreme God
+		Zervlon itself. Formed of the universe.

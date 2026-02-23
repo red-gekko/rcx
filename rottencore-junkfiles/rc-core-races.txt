@@ -1,0 +1,109 @@
+core races
+Humans
+	Driachi
+		elven wizards
+	Svarni
+		dwarves
+	Astroculi
+		halflings/gnome elves
+	Yattin
+		giants/ogre men
+Sarrekk
+	lizard men
+Nasper
+	greys/space elves
+Ultharians
+	lion men
+Golgothans
+	space orcs/clone army
+Lulamarians
+	insectoid reptilian wizards, sterile
+Emnits
+	raven men
+Hiradreen
+	xenophilic succubbi
+Calvori
+	crocodile men
+Vreggid
+	slug-frog men
+Myrmex/Zenelidds
+	bugz
+Zotans
+	nazi dinosaurs
+Laggiks
+	cow men
+Faedrons
+	slaving goat men
+Scroffen
+	pig men
+Groth
+	ogre men
+Urgathi
+	propa orcs
+Nollgar
+	trolls
+Zirkins
+	goblins
+Iyatari
+	hyena men
+Angels/Nephalim Horaxi
+	evil angels
+Demons/Horaxi Demons
+	evil demons
+Shoggoths/Fleshbeats
+	shape-changing mutants
+Yodrit
+	fish men
+Robots
+	mechanical life
+Vampires/Sapiovores
+	people-eaters/drinkers
+Daganites
+	octopus men, first sapients, psychic
+Areziki
+	three eyed magic men, worship demon-gods
+Xentayans
+	crested marsupial humanoids living in space
+
+
+governments
+	Solar Union/Terran Federation/Republic of Man
+		Humans, Driachi, Svarni, Astroculi, Yattin
+	Sakkari Union
+		Sarrekk, Groth, Yodrit
+	Ultharian Confederacy
+		Ultharians
+	Talgathian Hegemony
+		Golgothans
+	Lulamarian Assembly
+		Lulamarians, Calvor
+	Emnit Star Republic
+		Emnit
+	Hiradreen Consonance
+		Hiradreen
+	Harmonic Collective
+		Vreggid, Robots, Lulamarians, Golgothans, Myrmex
+	Nasper Conclave
+		Nasper, Groth
+	Cult of the Beast
+		Humans, Mutarchs, Myrmex, Lulamarians
+	Myrmex Hive/Sorelidd Swarm/Zenelidd Swarm
+		Myrmex, Mutarchs, Xa-Qo
+	Zotan State
+		Zotan
+	Sophian Empire
+		Laggik, Robots, Golgothans, Faedron
+	Rynnic Consortium
+		Faedron, Scroffen
+	Palantian Empire
+		Angels, Faedron, Scroffen, Groth, Vampires
+	Horaxian Legion
+		Demons, Urgath, Zirkins, Iyatari, Nollgar, Groth, Vampires
+	Synthetic Dominion
+		Robots
+	Daganite Celestial Pact
+		Daganites, Yodrit
+	Parezikian Accord
+		Areziki, Shoggoths, Vampires
+	Naidarian Fleet
+		Xentayans, Robots

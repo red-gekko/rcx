@@ -1,0 +1,217 @@
+
+This doc was made from a convo with ChatGPT, where I was checking for IP reasons. Below are the summaries of the various supes in Rotten Core:
+
+
+
+Cool, so, first OC is called "the Werewolf" (real name Connor Barrett)
+Role: MC, hero
+Powers: Superhuman physical attributes (can lift in excess of 30 tons, withstand shotgun blasts with minor bruising, can sprint in speeds in excess of 100mph, etc); healing factor (can recover from pretty much any injury that doesn't cause immediate cell death; can be regrown artificially from cell samples); and range of so-called "active powers" (can eject a blood-like substance that can shapeshift into clothes, costume, weaponry, etc; can cover self in super-armour that can withstand direct hits from tank shells; can activate super sense mode with access to echolocation, thermal vision, detect electromagnetic signals and ionizing rads, etc;)
+Other powers include super-grip allowing for wall-running and wall-crawling; can use morphing substance to produce grappling hooks for swinging as well as claws; multiple backup hearts and secondary lizard brain in chest cavity allow for redundant organs; resistant to chemical attacks, etc.
+Minorly resistant to magic due to natural anti-magic field
+
+Weaknesses: Vulnerable to sonic attack, can be incapacitated by it. Electrical attacks can stun and even cause seizures. Overuse of powers can cause severe migraines, aneurysm, and coma. Chemical weapons can distract healing factor. Fire takes longer and more energy to heal, allowing attrition. Presence of severe ionizing radiation disables healing factor and deals damage over time.
+
+Personality: Snarky. Brave. Chronic hero syndrome - intensely empathetic. Has suffered extreme trauma due to secretive experimentation. Introverted. Intelligent, but uneducated. Grew up in poverty. Willing to kill; prefers nonlethal solutions against baseliner humans. Will kill especially evil people; will also use lethal force against threats. Does not like killing things that pose no threat.
+Suffers from "Berserker Rage"/"Frenzy" - during extreme stress, can devolve into a maddened berserker. Power output doubles in this state; but burns through stamina quickly. Struggles to differentiate between friend and foe in this state
+
+Primary villains: Neo-nazi cabal called "ODESSA"/"Paladin Group". Deeply committed to anti-fascist action.
+Archenemies: His father, "The Commandant" and the leader of ODESSA (wasn't around during his childhood). Personally, nemesis to Marcel Vacher, "The Artist" and body horror expert.
+
+Anything else you need to know?
+First, i should know if Connor is problematic from a legal standpoint.
+Next, I wanna know if he's too close or similar to other existing heroes.
+In other words, which existing heroes does Connor/Werewolf most closely resemble?
+
+
+
+
+
+
+Quick check - ODESSA has some codenames for it's projects. Can we double check that they're unique and or generic enough?
+
+First - the "PROGENY" project. This one led to Werewolf's creation, and it essentially involved taking blood samples from an alien supersoldier and injecting them into pregnant women. The blood contained special cells called "reconstructor cells", which would identify fetal tissue and integrate its own DNA into them, resulting in the "Drackhill Mother's Incident", a city-wide mass stillbirthing, with many mothers suffering aneurysms and dying, or otherwise suffering serious injury. Only three children were born alive - and they got the full alien DNA, being the eponymous Werewolves.
+PROGENY also discovered the invention of "Super-Agents" - when the blood is introduced into an adult human, the powers they gain are less impressive, but the subjects are far less likely to die. Essentially, the average ODESSA mook is slightly superhuman in their physical attributes (think somewhere between Captain America and Bane), and posess a watered-down version of Connor's healing factor (think Deathstroke's healing factor compared to Mercer's)
+
+Cool. Next was Project FENRIR, and was essentially Progeny applied to canines. It produced Connor's sidekick Sparky (a diminutive of Spartacus, which he chose as his name following Connor's rescue of him for thematic reasons of independence); it also produced recurring antivillain/antihero "217" (Fenrir Subject 217, she never picked a name due to her hatred of humans and their customs after her mistreatment).
+FENRIR likewise led to the creation of "Super-Dogs", dogs injected with super-serum to act as bioweapons. Sparky and 217, as "Moxidar" (the alien term for any organism who was born alive following serum injection), have human-level intellect, and can communicate - however, only other Moxidar, or attuned telepaths, can hear them. Later on, both undergo telepathy training seperate from ODESSA to be able to communicate with baseliner humans
+
+Cool. Next other project they had was MKULTRA - a continuation of the CIA's original MKULTRA experiments. Here, they discovered a way to activate psionic potential through torturing children (placing them in sensory deprivation chambers, and only letting them out if they figured out the password by reading the researchers' minds)
+ODESSA's MKULTRA was later "bought out" by another shadowy cabal, which continued the programme after ODESSA pivoted over to PROGENY. This cabal (simply called MKULTRA now) produced a number of heroes and sympathetic/tragic villains, before Connor and friends dismantled it violently
+
+
+
+
+Let's move onto other supes - first, the villainous Commandant.
+The Commandant is the leader of ODESSA, as well as the commander of its armed wing, the Paladin Group. His real name is George Davis, and he was formerly a Klansman; he was turned informant by the FBI, then later the CIA turned him as informant against the FBI, and then from there he was recruited into the clandestine ODESSA network by a CIA agent who was part of them. He quickly rose through the ranks, and, while on mission with the Paladin Group as security for [another villain, we'll namedrop him later], he and that villain found the alien Moxidar, who was in stasis in Tunguska following the famous Tunguska event. They both reanimated the alien, and through interrogation learned of the Moxidar serum. Davis froze some sperm samples (as being any sort of Moxidar makes you invariably infertile), and began regularly dosing himelf with serum. Most would've died, but his spiteful nature allowed him to endure the transformation, becoming a Super-Agent so powerful, he outclassed the Moxidar. Later, while on mission with the CIA, he was ordered to infiltrate the Catholic Defence Force, a radical IRA offshoot active in the Troubles. He ingratiated himself within the CDF's leadership, including their founder, the raical phalangist Eamon Barrett. He became infatutaed with Eamon's daughter Laura, and one fateful day defied orders and kidnapped her. She never spoke about what happened, but all anyone knew was she disappeared one night along with Davis, and returned three months later - two months pregnant. Disowned by Eamon, who was forced to resign his post, she travelled to the city of Drackhill to stay with her brother Vince, and eventually died while giving birth to Connor. Neither Connor nor Vince knew of Davis, and indeed Connor only found out when a battle led to Davis's hand being severed - DNA analysis of the hand confirmed Davis's mutations, and worse, the Y chromosome matched Connor, confirming his parentage. Connor never felt any fellow feeling for Davis, and indeed in their climactic final battle, they struggled over an empowering artifact called the Dazarec - legend said it would only grant its strength to one who had "purity of hatred."
+The other villain believed he would be destined to use it, but it rejected his sociopathic contempt as insufficient. Davis believed his own fascist ideology would count, but the Dazarec rejected him too. As it happens, the Dazarec considers "pure hatred" to require empathy for the target - Davis's inability to view his hated as real human beings meant he couldn't hate them the way the Dazarec would answer to.
+Instead, Connor's hate for Davis proved to be sufficiently "pure", and their final battle ended with Davis being torn to shreds. In his last moments, he claimed Connor was his legacy, and that Connor would be corrupted by power eventually (Davis was indeed baffled why Connor would use his powers for good in the first place - Connor theorised that the reason Davsi hated him so much was because Connor proved that no, not everyone would've been as evil as him if they were strong enough), and that "when you do great and terrible things, it will be in my name; in honour of me - your father."
+Connor paused for a moment, before drawing close to Davis's ear.
+"My father?" he whsipered, before scowling, and screaming "YOU'RE NOT MY *FATHER!*" and slaying him.
+
+
+
+
+Cool - yeah okay we'll do the cabals; the one remaining cabal left is "The Optimates" - a global shadow network of capitalists, seeking to maintain their power. They're very similar to Deus Ex's Illuminati/MJ12, Metal Gear's Patriots, Terra Invicta's Initiative, XCOM's EXALT, and Hitman:WoA's Providence; all of this is in terms of vibes. They're essentially a more clandestine, less "herr Doktor", and less overtly racist counterpart to ODESSA. Technically ODESSA is a proxy of theirs, but over time ODESSA and the Commandant break apart and cause enough trouble that the Optimates have to enlist the heroes for help (once the Commandant dies, the Optimate leader becomes the new big bad, and once he's slain, the heroes spend the time in between novels finishing off the Optimates as a whole)
+
+
+
+
+Next, we'll crack on with other supes. First up, we'll deal with the villainous Duke. Real name Gordon de Vere, he's the fictional descendant of the real-life De Vere oxford dukes. He was the one who had Paladin enforcers (including Davis) when he discovered the Moxidar. He is an occultist, and the leader of the Optimates. He discovered a vampire conspiracy (as you can see by now, lots and lots of cabals in this AU!) and worse, found a way to develop psionic powers for himself (long story short, humans are naturally decent psions, but a psionic suppressor located in the mountains of Ethiopia dampens that potential (specifically to prevent demon invasions (this is, incidentally, why vampires are more common on Earth than other worlds - the only way demons can maintain presence in Realspace on Earth is through half-demons such as Vampires (we'll talk about vamps later)))) and he found a way to develop psionic ability (basically magic) by torturing vampires enough to steal their demon-souls, and psychically consume them.
+Gordon's powerset is essentially an uber-mage; he has mastery of basic psionics (telepathy, telekinesis, etc), while also being an absurdly powerful pyrokinetic and demonologist. Basically, he's a very powerful Warlock, and has the advantage of not sharing the same vulnerabilities that vampires do. His ultimate goal is essentially godhood; becoming a full Demon, destroying the Keystone that protects Earth, and lording over it's people. Aside from that, he presents as supporting the Optimate's mission of continued hegemony, while secretly holding them all in as much contempt as he holds everyone else
+
+
+
+
+
+Next, the vampires themselves. In universe, Vampires are mortal-demon hybrids, that is, humans who are animated and empowered by demonic energy. Being part-demon, they defy natural laws in subtle ways; these get worse if they reject morality too. A Vampire who has maintained "integrity" (think a combined morality/sanity meter) may only suffer light discomfort under sunlight (so-called Daywalkers), while one who indulges their monstrous nature (known by the vampire community as Liches) will find themselves quickly degenerating; they may cast no shadow nor reflection, their voice will not echo, their appearance will become horrific (some look like rotting corpses, others develop animal features - the nickname younger vamps use for these is "Orloks"); they may be paralytically afraid of "Symbols of Faith" (that is, an object that represents a human's faith; not just crosses. Particularly degenerate liches will suffer even under objects not weilded by faithful); they may be repelled or harmed by silver, cold iron, or garlic; and many will burn in sunlight.
+Vampires don't have to be evil - many are due to their condition (they must regularly consume blood and expell "Ichor", a black tarry substace that they metabolise blood into), but it's entirely possible for a vampire to feed only on animals or willing mortals; and many become vampire hunters themselves (vampire blood is uniquely satiating to them; but they must be careful not to drink Ichor as well, since it is toxic to them in large amounts)
+Vampires compensate for all this by being extremely powerful psions; their phsyical attributes are also very strong (and can be augmented with magic - for example, using telekinesis to improve their strength and speed (or even fly), using Biomanipulation to look young and healthy, etc); they are immortal unless killed, immune to disease, and need only minor amounts of food, drink, sleep, or even oxygen to survive (one vampiress we'll touch on later fought for multiple hours in the vacuum of space, unprotected - Connor only lasted minutes before having to enter Cryptobiosis, whereas she only needed a quick rest to catch her 'breath').
+Vampire society is extremely hierarchical, and is primarily focused on hiding from humans - in ancient times, vampires ruled openly over humans, but were laid low following man's invention of religion and harnessing of fire; nowadays, they are terrified of being discovered and finished off. Modern Vampire society in fact openly works with the Order of the Ashen Blade (the international vampire hunter conspiracy) to kill any who violate their secrecy - they are deathly (or, undeathly) afraid of being hunted down once more. Eventually, the "Demon War" where de Vere manages to destroy the Lockstone protecting Earth from the predations of the Void also leads to a large number of humans becoming vampires in the ensuing demonic invasion - once it was repelled, many wished to return to their lives, leading to vampires becoming a feared minority on Earth. Most vampires after the war work with international super-agencies, largely just for a better life and steady access to blood (vampires make great super-soldiers after all; and even better spies)
+
+
+
+
+
+Cool. Next is our resident anti-villain/well-intentioned extremist/benevolent dictator... the Mastermind!
+
+Mastermind (real nale Dr. Eugene van Statten) was born in Switzerland to Belgian parents - one Flemish, one Waloonian. He was a genius from a young age, mastering several fields of scientific study. He did a brief stint working on Progeny, but upon realising the potential ramifications, pulled out. Once the children were born, he put them under his protection by stationing allied operatives in Drackhill. Later on, he founded the Institute for Human Advancement; a massive NGO funded by several tech companies he had founded; it was a pioneer in transhuman studies, having developed several cybernetic implants by 2016 (when the story takes place). Statten later turned his attention to the horrible wars ongoing in the collapsed Eastern Bloc (in my AU, the Eastern Bloc fell violently, described as "Anarchy from Warsaw to Seoul"); he developed cyborg warriors from the bodies of fallen Soviet soldiers, and singlehandedly recaptured Volgograd for the USSR, before ending the anarchy in Romania (Romania being hit particularly hard by the Eurasian Wars); he rapidly expanded his control with his cyborg army; every victory meant more bodies, and thus, more soldiers. Despite his seeming pro-Soviet stance and sympathetic goals, he was met with concern by Connor, who feared he was a despot in the making. This fear became true when he seiged the UN headquarters in Geneva, along with couping the Swiss government. He held the entire UN assembly hostage during a major diplomatic summit (when most heads of state were present) and used the ensuing crisis to take over all of mainland Europe in a matter of days. Connor and co. were dispatched to rescue the Assembly and capture Statten, and they managed to do this non-lethally. The authorities wished to execute him, but Connor's intervention had him confined to life imprisonment in a prison facility out in Antarctica. While he remained in custody for a while, some time after the Demon War he was rescued by Cyborg Commandos, and took the new title "Mastermind" - he decided if mankind wouldn't accept him as a democrat, he would rule them as a dictator - for their own good, of course.
+Mastermind became a recurring supervillain, often taking over entire nations before being stopped, going into hiding, only to retake another nation and try again. Eventually, Mastermind stopped his antics during an alien invasion of bug-things called Zennelids threatened all of Earth (an event called the War of the Beast), he joined forces with the heroes, and in the process regained legitimacy in a lot of people's eyes. He handled the reconstruction of America (which had suffered nuclear attacks that led to civil war) as well as allying with the newly refounded and democratised USSR, and largely chilled out after this, becoming an ally and benefactor to the heroes. Unfortunately, their relations soured following the invasion of the Lulamarian Conclave - Mastermind sided with them, becoming governor of a Vichy Earth. While covertly supporting the resistance (and collaborating largely to prevent mass death), he became despised by many anti-alien fighters (including the heroes.)
+Following the revolution, his political capital was still high, so he was permitted to head the reformed Institute, but ordered to stay out of actual politics. He agreed that his mistake had always been thinking he was as good a ruler as a scientist (note he was a very good administrator, but had a tendency to over-micromanage that made him tend towards autocracy). From then on, he remained a permanent ally of the heroes.
+
+Worth noting Mastermind opposes ODDESSA and the Optimates - his totalitarian-utilitarian ideology is inherently opposed to supremacism. One common analogy I use is "If you gave the Commandant, the Duke, and the Mastermind a button that would kill 1000 people and achieve their goals, all 3 would press it instantly. If you gave them a button that would kill them and achieve their goals, only Mastermind would press it, since his goals are not selfish. What's more, he'd chose the suicide button over the 1000 button in a heartbeat"
+
+One funny moment I've thought of is a minion suggesting he call himself "Dr. Mastermind", only for him to dismiss it as too on-the-nose. Another moment could be a minor hero calling him "Professor Mastermind!" only for him to say "*Doctor* Mastermind. I never taught."
+Or the old "Excuse me, I didn't do 3 PhDs and med school just to be called 'Mr.' Mastermind."
+
+
+
+
+
+
+Let's keep going onto other Supes in the 'verse. Next, we have Whisper.
+Whisper (real name Laila Zoubir) was born in Algeria in the mid-90s. Unfortunately for her, she was detected by an MKULTRA "sniffer" (a low-level telepath sent out to detect latent psychics) and kindapped for MKULTRA experiments. She survived, and developed photokinetic powers that allowed her to turn invisible, while using Psi Vision to "see" her surroundings (being invisible, her retinas were obiously blind)
+She performed a number of daring heists for MKULTRA, as well as assassinations. Eventually, she was ordered to infiltrate the heroes and steal several artifacts they had seized. She met hero Trey Morgan (Connor's protege and fellow Moxidar) and quickly developed intensive feelings for him, eventually falling in love. However, she was eventually outed as the thief who was stealing from them, and tearfully confessed before running away. Eventually, the heroes tracked her down, and a heartfelt conversation had her reveal all that MKULTRA put her through; while her connection with Trey meant she felt she couldn't go back; she then allied with the heroes to raid the MKULTRA HQ, recovering the artifacts and rescuing several test subjects, and Whisper bid them farewell. Later, she returned to their sights as a cat burglar, stealing for hire. They encountered her during an investigation into the Optimates, and she agreed to help them out; she was wounded during a battle and had to be saved through an infusion of super-serum, making her even more tough than before. Another heist had her betray Connor and Trey, as the three of them were after a dangerous weapon, she vanished with it after they secured it. Much later, she returned, begging for their help - her parents, who she had been secretly supporting with her ill-gotten gains, were being held hostage by MKULTRA remnants. One daring heist and rescue mission later, and she finally introduced herself to her parents, before joining Team Good Guy full-time, as well as exploring her and Trey's relationship further
+
+
+
+
+
+
+Cool! Alright anyway, we'll move onto other supes. Next is Bug Boy/Myrmex.
+Bug Boy is another MKULTRA horror story. Born in southern Congo, he was pressed into a child soldier outfit, before his entire unit was wiped out except him by Afrikaner PALADIN mercs. He was captured and sold into slavery by them, and purchased by MKULTRA sniffers. Escaping from the labs with limited telepathy (he was scheduled to be a Sniffer, but was horrified at the idea of subjecting more people to his fate), he was eventually kidnapped by villain Marcel Vacher (we'll do him next) and tortured and mutilated even more. He ended up being infested with parasitoid ants, which he through biomanipulation and telepathy turned into a symbiotic hive inside his skin. He now directs the Hive, and uses it as his primary weapon. First he encountered the heroes after being told by Vacher that killing them would restore his normal form; after losing, they caputred him, however following from Mastermind's breakout he also escaped, and when the Zennelid Swarm invaded, he joined with them. Once the War of the Beast was over, he was recaptured, and eventually through therapy was released, becoming the superhero Myrmex. From then on, he was a loyal Riversider, and during the Lulamarian Occupation, was a Resistance member, happily fighting alongside his former enemies. He also helped in the killing of Vacher (long story, as I said we'll do him next)
+
+
+
+
+
+Marcel Vacher - AKA "The Artist" - is one of the most depraved villains in the entire story.
+Vacher is cruelty personified. Already an unscrupulous man (a plastic surgeon working for criminals on the run), he became even more depraved when he got into the sex slavery industry - offering "customisation" for paying "clients" on their "new toys" - as disgusting as it sounds. He was present at an "auction" in Drackhill, which Connor/Werewolf raided, and seeing the horrific sights triggered his Berserker Rage, and he butchered every adult present. Vacher barely survived, being rescued by ODESSA and reanimated as a Super-Agent. His services were employed by ODESSA and the Optimates to produce Frankenstein-esque monstrocities as shock troopers. But his true, newfound passion, was his "art projects" - and they could get as horrific as he wanted. Stuff like making people into siamese twins, or making actual Centaurs - these were all hobbies for Vacher, as he could use Super-Serum to keep his subjects alive through the deepest of depravities. He was eventually killed by Connor, but his legacy remained - several innocent people had been flesh-sculpted into body doubles, with their brains overwritten with a copy of his neural scan (said tech was stolen from Mastermind by Vacher). Now, there are probably thousands of "Vachers" out there, and Connor has sworn to kill every last one. Sadly, nothing remains of his victims who he has stolen and transformed - the best you can do to most of them is give them a swift death.
+Vacher was eventually permanently destroyed during the Lulamarian Occupation; a combination of Myrmex's personal vendetta, as well as several other former Vacher Villains (a group of supervillains created by Vacher to kill Connor - Bug Boy/Myrmex was just one); not to mention Governor Mastermind and the Lulamarians themselves even despising him, meant that by the Earth Revolution and the Zotannic Wars, no more Vachers were seen - but Connor remains vigilant, in case his old foe is still out there somewhere.
+
+
+
+
+Let's move on to some "Vacher Villains" - my term. Vacher calls them his "Broken Ones" - they later form a hero squad/support group called the "Unbroken"
+First, we'll go with the first member - Harpy, AKA Eliza Mercott.
+Eliza was a homeless woman, who used to busk in Drackhill. She knew Connor well, as he would often buy her hot food and have a chat with her on a cold evening; one night, she was kindapped by Vacher's men, and had her bones hollowed and wings grafted onto her back, as well as a dose of super-serum, severe torture, and psychological brainwashing. He said her voice was beautiful as he cut open and surgically enhanced her vocal cords. She was told, like all Broken, that killing Connor would restore her form. She attacked him at his HQ, and her new Sonic Scream abilities were paralyzing to him. Thankfully, the day was saved when Chloe, Connor's girlfiend, and scientific support, managed to fight her off - Chloe is deaf, and so could ignore the Sonic Scream in order to grab a gun and fight Harpy off. After a number of encounters, each ending in Harpy's defeat, she eventually broke free from the conditioning after Connor spared her life. From that, she joined Riverside, and later as more victims were deprogrammed, became the founder of the Unroken squad. It was she who personally helped Bug Boy recover and become Mymex, and she is still the leader and undisputed beating heart of the Unbroken.
+
+
+
+
+
+Nice! Okay, next Broken One - this is Roach (real name unknown.)
+Roach is one of the most visually terrifying Broken. His skin has fully ossified, leaving a bloody exoskeleton covering him. All bones, including the growths on his flesh, are reinforced with CNT fibres, making them nearly unbreakable. As well, he has rendundant organs all over the place - including a backup brain in the torso that means even decaptiation wouldn't kill him - hence the name. Roach is almost invulnerable - and insane due to constant agony. His only weakness is acid (Connor once beat him by ripping out his own stomach and pouring the acids over him, before decapitating him and dismembering him - all of this was to non-lethally capture his torso, mind, showing how tough he is). Even standard Moxidar weaknesses (fire, sonic, electric, radiation) don't affect him.
+Once captured, Roach was doped up on super-painkillers derived from Connor's endorphins. Over time, his mind cleared, though he knew nothing of his past life. Still, he proved to be a gentle soul, and enjoyed spending time relaxing in the gardens of Riverside. Once his stability was assured, he volunteered to join the Unbroken, functioning as their tank.
+
+
+
+
+
+Next Broken One is Twitch - real name Tommy Smith. Twitch has superior speed - able to sprint at nearly 200mph - super-reflexes (needed for such high speeds), and bioelectric powers (special battery-glands allow him to build up an electric reserve that can be discharged in melee. Can recharge off of electicity, but this burns him out).  While his brain is fried, he's hardly any more insane than Vacher's other playthings.
+His first fight played out similar to Bug Boy and Harpy - ambush Connor with the futile hopes of being restored. He was defeated and captured. His therapy went well, but Mastermind's escape led to him taking hostages in a shopping mall - Connor managed to talk him down, but overzealous SWAT officers shot him, nearly killing him. Connor was enraged, as now Twitch would never trust him again. Eventually though, Twitch joined the Unbroken, though he was always the most unhinged of the bunch, and thus was often benched on missions for mandatory therapy sessions
+
+
+
+
+
+Next is a trio, technically part of the Broken but separate to them, called "First Response", a mocking moniker applied by Vacher. Each of the three is a former first responder (Fire, paramedic, cop), only twisted.
+
+First of these we'll look into is "The Warden." Real name, Hank Carter.
+Warden is cybernetically enhanced, as well as fleshcrafted and brainwashed. He took over New York City after America collapsed into civil war following DC being nuked (long story). He has the ability to produce "resocialisation chips" which he first implanted on kidnapped NYPD officers, before his new army was strong enough to take over NYC. Now the warlord of NYC, he began using these chips on criminals - and pretty much any crime, whether mass rape or jaywalking, could land you either in a "Penitentiary" (baically a gulag), or "resocialised".
+He also has cop-themed equipment - stun batons, tear gas, riot shotguns, ballistic shields, et cetera. His costume is also a grimdark-looking riot cop. He's fond of screaming "SUBMIT TO THE LAW!"
+Warden was overthrown by Connor, in tandem with the NYC Resistance. Escaping with his goons, he later provided muscle when Connor faced First Response. He escaped, while the other two were caputed. Connor continued fighting the Warden, and sadly, it seemed no amount of heroics would stop him or deprogramme him, so Connor regretfully killed the Warden, freeing his goons from their control chips.
+
+
+
+
+
+
+
+Next is the Alchemist, a former pharmacist called Polly Allen. Vacher implanted her with a number of glands that could produce pretty much any toxin - pheremones that could induce any desired emotion (panic, rage, love); nerve agents that could even paralyze a Moxidar, acid spit, and even gave her a radium gun that could shut off a Moxidar's healing factor, making them vulnerable to her toxins.
+Her first battle had her facing off against Connor and Trey - she used radium and her toxins to make them fight each other, levelling a parking lot in the process. Later, she was present for Connor vs. First Response, and escaped at the end of that fight. After that, Connor was focused on the Warden, so the Unbroken went after her. Her acid attacks neutralised Roach, and her pheremones made Twitch even more unstable, but Harpy's sonic attacks incapacitated her long enough for Twitch to regain his senses and stun her with his bolts. Captured, she underwent therapy and eventually joined the Unbroken.
+
+
+
+
+
+
+
+Nice! Next up, we have Hellfire, a former fireman. Hellfire (real name Ian Stagg) was a pyromaniac as a kid, but tempered his obsession enough to join the fire service, after an arson event nearly killed his girlfriend. He used his fire service both as atonement and as a way to be near fire without having to start them. Vacher learned of this secret, and gleefully forced him to indulge his past. Now, Hellfire deploys onto the battlefield with a pyromaniac's dream arsenal - flamethrower of course, but also plenty of molotov cocktails, a sawn off shotgun with incendiary bullets, a fire axe for melee...
+Hellfire first met Connor in his fight with all of First Response, and after that he went on an arson spree. Eventually, Connor caught up with him - fire being especially deadly to Moxidars made the fight tough, but eventually Connor won and captured him. After therapy, Hellfire became the Unbroken's demolition expert - and his incendiary arsenal made him very useful in clearing out xenoflora growths during the War of the Beast.
+
+
+
+
+
+Nice! Alright, next supe - this is a superhero called Wraith, and is technically Connor's "son" though it gets complicated.
+Wraith was spawned after a long stretch where Connor's healing factor was turned against him, giving him cancer that sapped away at his powers. Eventually, the cancer developed into its own Moxidar-like entity, and took over his brain. Amnesiac, and only having Connor's subconscious to guide it, as well as weakened by the cancer, "Connor" went by the identity "Ranger" for a while - as Ranger, he was half as tough as before, and began a vigilante crusade. Ranger's equipment included machetes, knives, akimbo pistols, grappling hooks, crossbows - lots of tools for lots of jobs. Eventually though, Ranger was captured by Riverside, who realised what was going on, and Chloe through surgery managed to expunge all the cancers. These cancers then coalesced into a gelatinous form, which expressed a desire to keep superhero-ing, and took the new name Wraith.
+Wraith's powers are mainly shapeshifting. They can squeeze through extremely tight gaps, form weaponry out of their own body, armour up when needed, impersonate others, and more. Wraith is perpetually protean, never keeping a form for longer than needed. They inherited Connor's strong empathy and sense of justice, but aren't sure why their "father" is so uncomfortable around them. Still, Connor accepts Wraith on the team - Wraith often works with Whisper on infiltration missions, performing the Face role while she sneaks inside. Wraith inherited Connor's love for Chloe on a subconscious level, but as a blob of cancer doens't understand romance, and thus merely likes her as a friend
+
+
+
+
+
+Next supe I wanna touch on is Sparky's sister and fellow survivor of Project FENRIR - 217.
+
+217 (she rejects naming) is an intelligent, moxidar wolf. After her rescue from the last FENRIR site, she joined a wolf pack in Siberia - however Connor and Sparky were called out after her pack began harassing the locals. She revealed her deep-seated hatred for humans, and wished to remove them from the lands - to achieve this, she was injecting other wolves with her blood, making super-wolves. After fighting, she ended up in "Riverside South", their prison barge. Following Mastermind's escape, she also went on a rampage, and like Bug Boy (the only human she felt any attatchment to, as both were animalistic and misanthropic) she joined the Beast's forces during the War of the Beast. However, after the war, she began to chill out a bit, and eventually her and her Super-Wolf pack settled in Siberia once more, living alongside friendly humans. From then on, she would occaisionally help out, but typically only when Sparky was involved - still not trusting humans, but no longer openly hating them
+
+
+
+
+
+
+
+We've got The Marshal, real name Frank Ryder. He's a cowboy-themed gunslinger with superb accuracy. His backstory is he was a Lousiana lawyer, (in)famous for prosecuting Klan members and ensuring juries were racially balanced. After being shot in the head by a Klansman, he survived, and was given experimental brain surgery which healed him, but gave him intense mania. He manages this by channeling it into his nightime vigilante persona - the Marshal! A gunslinging, cowboy-themed man, wearing snakeskin boots and packing akimbo six-shooters; nobody gets away with nuthin' in the Marshal's town!
+Marshal is a largely local hero - his gunslinging is genuinely superhuman, and he's been given super-serum that makes him tougher in close-quarters - but he's not as heavy a hitter as Connor or ODESSA, so he sticks local. Still, Connor and him teamed up to take down the Warden, and he's on call for Riverside.
+
+
+
+Next up, is Jinx. Real name Shannon Taylor, she first met Connor when she was sitting on a rooftop ledge, contempleting suicide after her family kicked her out for being trans. Connor offered solidarity and material help, and she quickly repaid him with her advanced technical capabilities leading to her becoming his hacker. The pair went to jail together until Connor got them out, and she served loyally on his team, before growing bored and deciding to take a more active role. Thus, Jinx was born.
+Jinx is a master subverter - if it's digital, she can hack it. If it's analog, she can probably hack it too. Her skills make her excellent on heist missions, and her robotic companions - such as the infiltrating "SPYD3R" bots, or her "Gun-copter" drones - make her very versatile. While not particularly experienced in cqc or gunplay, she deploys in a cybernetic suit that giver her improved performance on the field. Still, she rarely fights directly - instead holing up somewhere, deploying turrets and drones to quickly sieze the target. Jinx rarely attends missions against hard targets, but often goes along with Whisper and Wraith in heists, or going up against low-level threats like the EPL. She fills an important niche in the team, while also covering smaller-scale missions that the heavy hitters would be wasted on
+
+
+
+
+
+Next hero is Blitz.
+Real name Luke Miller, Blitz was a master assassin even before taking Super-Serum. With it, he was a beast. Unfortunately, he was hired to kill someone who Interpol had sent Connor to take alive. In the ensuing fight, Miller's crew was killed and he was presumed dead. Animated by rage and hate, his body was delivered to Mastermind's Institute, where he received a full cybernetic workup. Now the mercernary Blitz, he was initally a threat to Riverside on personal vendetta, however them rescuing him after a job gone wrong earned his respect, and he eventually built up a rapport with their sniper Sokolov (we'll touch on him next.)
+Blitz's powerset is largely tech-based - he has a jetpack, multiple trick grenades, and wrist-mounted guns. His power armour makes him even tougher than normal, and his wrist-guns can also have their ammo swapped on the fly, doing double duty as flamethrowers, stun guns, dart launchers, and more. He's a walking tank, and a flying one at that. He lives up to his name.
+
+
+
+
+
+Next, we have Edge. Pretty straightforward - real name Kenji Yamazaki, son of a billionaire who became a nighttime vigilante, killing corrupt businessmen and protecting the poor. After finding out his father got rich off of slavery, he threatened to out him, but the two fought to the death. Mortally wounded but victorious, he like Blitz was saved by Mastermind, rebuild into the cyborg ninja Edge. Now determined to bring peace and order to the world, he serves as Mastermind's muscle. When Mastermind is a good guy, Edge is a hero too. When Mastermind wants to take over the world, Edge will help him.
+Edge's cybernetic exoskeleton keeps him alive and grants him superhuman physical ability. His katana has been sharpened to a near-monomolecular edge, granting it insane cutting power. He is even more augmented than Blitz, which makes him tougher, but even more vulnerable to EMP and hacking.
+While Edge will always do whatever Mastermind wants thanks to his devotion to the man, he is a pretty friendly guy outside (and even in) combat. When Mastermind is a hero, he often chills with the Riversiders, having pleasant chats on philosophy and ethics.
+
+
+
+
+Next, Sokolov, AKA "Troubleshooter"
+Ivan Sokolov was a former Commissar in the USSR army, before joining the KGB after his heroism in the Battle of Grozny saved thousands of lives. Honed as a sniper, he met Connor first by shooting him due to a misunderstanding - they joined forces, and in the following mission Ivan was mortally wounded, saved by an infusion of super-serum. Now going from "expert marksman" to "the best damn sniper on Earth, period", Ivan became a key ally to Connor, and a founding member of Riverside. After rescuing Blitz, the two went on a duo adventure through the USSR, hoping to end its civil war and return it to glory. Despite seeming like complete opposites (one a cynical soldier-for-hire, the other a committed communist; one who fought with gimmicks, the other a no-nonsence sniper; one who chronically brooded, the other a jovial man), the two got on well, largely due to both being competent soldiers. After their duo arc, they both returned to Riverside.
+
+Ivan isn't, power-scale speaking, very high up - but he punches above his weight. He's a very gregarious, jovial man, full of life and cameradarie. He's a Soviet Loyalist, but not blind to the USSR's faults, and seeks to build a better union from the ashes of the old.
+
+
+

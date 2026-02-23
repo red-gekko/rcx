@@ -1,0 +1,478 @@
+STATS:
+
+	Physicals:
+		AGI: Agility
+			Affects dodge chance, hit chance, stealth skills, movement speed, etc
+		STR: Strength
+			Affects melee damage, lift capacity, intimidation, etc
+		END: Endurance
+			Affects how long a character can act before tiring out, etc
+		TGH: Toughness
+			Affects incoming damage, etc
+		CST: Constitution
+			Affects tox resistance, immunity, health regen, etc
+	Mentals:
+		INT: Logical thinking skills
+			Affects skill learning, deduction, memory, etc
+		SOC: Social skills
+			Affects charm, leadership, group cohesion, etc
+		PSI: Psionic affinity
+			Affects psionic power, Focus generation, psionic experience gain, etc
+		WIL: Willpower
+			Affects morale, psionic resistance, etc
+		PCN: Perception
+			Affects detection, analysis, deduction, etc
+	
+	LCK: Luck
+		Affects chances of success, critical success, and even allows occaisional rerolls
+
+
+core races
+	Humans - Hairless bipedal apes
+		+1 to 5 random stats
+		Special Perk: Human Variance
+			+1 to 3 additional random stats
+		This character will always have the following gene mods:
+			Streamlined Genetics
+			Viviparity
+	Driachi - Tall, thin, pointy eared, elf-like hominids, strong psionic potential, physically weak, yet agile
+		+++PSI, ++SOC, ++AGI, +INT, +PCN, -TGH, -STR, -END, -CST
+		This character will always have the following gene mods:
+			Streamlined Genetics
+			Long Lived
+			Wakeful
+			Viviparity
+	Svarni - Short, strong, Dwarf-like hominids, prefers to live in caves and build great constructions
+		++WIL, ++END, ++TGH, +CST, ++STR, +INT, --AGI, -SOC, --PSI
+		This character will always have the following gene mods:
+			Streamlined Genetics
+			Robust Digestion
+			Hardened Bones
+			Viviparity
+	Astroculi - Tiny gnome-like hominids, avg 3.5ft tall. Very clever, industrious and psionic. Physically weak, but nimble
+		++PSI, ++AGI, ++SOC, ++INT, ++PCN, --STR, --TGH, -WIL
+		This character will always have the following gene mods:
+			Streamlined Genetics
+			Wakeful
+			Twitch Reflex
+			Viviparity
+	Yattin - Giant, ogre-like hominids; fills similar societal niche as Groth
+		+++STR, +++TGH, ++CST, ++WIL, --AGI, -INT, --PSI
+		This character will always have the following gene mods:
+			Streamlined Genetics
+			Hardened Bones
+			Muscle Fibre Density
+			Viviparity
+	Sarrekk - A warlike reptillian species; extremely powerful regen abilities, but cold-bloodedness severly restricts capabilities in colder climates
+		+++WIL, ++AGI, +PCN, +INT, ++TGH, --CST, --SOC
+		This character will always have the following gene mods:
+			Ironskin
+			Superclotting
+			Regeneration
+			Egglaying
+	Nasper - Tall, slim, weak aliens with immense psionic potential; culturally similar to Elves. Greyish skin, and incompatible with most augmentation techs. Extremely long gestation time limits population growth.
+		+++++++PSI, ++INT, ++WIL, --STR, ---TGH, -CST
+		This character will always have the following gene mods:
+			Syanptic Evolution
+			Agelessness
+			Viviparity
+	Ultharians - Lion-men, very agile and stealthy. Tend to live tribal lifestyles
+		++AGI, +++PCN, +STR, +SOC, +WIL, --END, -PSI
+		This character will always have the following gene mods:
+			Twitch Reflex
+			Night Vision
+			Electrosensitive Skin
+			Viviparity
+	Golgothans - A refined version of the Urgath, genetically programmed to be warriors. Population is largely tribal, but centered around cloning
+		++STR, +++WIL, ++END, ++TGH, ++CST, +AGI, --PSI, -----SOC
+		Special Perk: Child of Talgath
+			Homeworld is always Fortress
+			Social Background is always Egalitarian			
+			This character starts off Sterile.
+		Can select 5 gene mods on character creation
+		This character will always have the following gene mods:
+			Vatgrown
+	Lulamarians - Large, strong creatures, hairless, conical heads, lamprey mouths, powerful psychics and engineers, but few in number due to widespread sterility.
+		+AGI, +STR, +++INT, ++++PSI, ++TGH, ++CST, ++WIL, +PCN, ---END, -------SOC
+		Special Perk: Heritage of Lulamar
+			Homeworld is always Hab
+			Social Background is always Egalitarian
+			Every day, there is a flat 10% chance that this character will develop a tumour or medical condition.
+			This character will also suffer from random seizures and heart attacks.
+			This character starts off Sterile.
+		This character will always have the following gene mods:
+			Secondary Heart
+			Electrosensitive Skin
+			Syanptic Evolution
+			Metabolic Unlocking
+			Advanced Organ Signalling
+			Circadian Wakefulness
+			Sensory Enhancement
+			Exoskeleton
+			Agelessness
+			Egglaying
+			Parthenogenesis (unless Sterile)
+			Hermaphroditism
+	Emnits - Corvid-humanoids, very clever and psionically gifted. Possesses extreme photographic memory - can memorise a great deal of information quickly.
+		+AGI, +INT, +++PSI, ++WIL, +PCN, ---TGH
+		This character will always have the following gene mods:
+			Syanptic Evolution
+			Perfect Memory
+			Egglaying
+	Hiradreen - Semi-shapeshifting aliens, able to take forms most pleasing to onlookers.
+		+++++SOC, ++PSI, ++CST, -STR, -TGH, --WIL
+		This character will always have the following gene mods:
+			Shapeshifting
+			Xenophilia
+			Viviparity
+			Hermaphroditism
+	Calvori - Large bipedal crocodile-analogues. Once made war against the Lulamarians, destroying their planet while they were trying to cure their sterility. In revenge, the Lulamarians considered wiping out the Calvor for this, but instead subjugated them and took over their world as compensation. The Calvor were astonished that the Lulamarians would even show this level of mercy (until that point, mercy was a foreign concept to them), and immediately swore absolute loyalty to them out of respect.
+		++++STR, ++END, +++TGH, ++CST, ---SOC, ---PSI
+		This character will always have the following gene mods:
+			Acid Spit
+			Acid Blood
+			Ironskin
+			Hardened Bones
+			Muscle Fibre Density
+			Egglaying
+	Vreggid - Slug-people who are physically weak but remarkably effective at tool development, leading to advanced robotics in even their early history. They reproduce via special organisms called "breeding pools" which churn out a number of Vreggid individuals roughly once a year.
+		+++++INT, ++CST, ++WIL, +SOC, -STR, ----PSI
+		This character will always have the following gene mods:
+			Spawning Pool
+			Electrosensitive Skin
+			Regeneration
+	Mutarch - A rare Zenelidd strain, the Mutarchs are able to directly alter the genetics of other organisms. They use this ability to infiltrate populations and take control by turning them into mutant Zenelidd hybrids. Sufficiently large Mutarch Broods will field other Zenelidd Drones in addition to native thralls.
+		Customisable, but base ++PSI, --INT; has a budget of +10
+		Special Perk: Mutarch Host
+			Almost all NPC factions will be hostile to this character
+			Can select 10 gene mods on character creation
+	Zotans - A reptillian, dinosauroid race, appearing like bipedal Brontosaurs, they reproduce parthenogenetically and can pass down ideas and concepts to their offspring in vivo - which caused an issue when one of them became an absolute xenophobe and somehow out-competed all the other strains of Zotan to make them all crazy fascists (except those controlled by other groups)
+		++++STR, ++++END, ++++TGH, -----SOC, --PSI
+		This character will always have the following gene mods:
+			Hardened Bones
+			Ironskin
+			Muscle Fibre Density
+			Parthenogenesis
+			Egglaying
+	Laggiks - Bovine-humanoids, with flat faces, shaggy manes, and hooved feet
+		++STR, ++END, ++TGH, +CST, --PCN
+		This character will always have the following gene mods:
+			Hardened Bones
+			Viviparity
+	Faedrons - Broad-faced humanoids, with goat eyes, deep purple skin, and a bony mask that covers the upper face. Psionically gifted, known for their slaving tendencies
+		+++PSI, ++++SOC, +CST, --WIL, --TGH
+		This character will always have the following gene mods:
+			Pheromones
+			Night Vision
+			Melanic Skin
+			Syanptic Evolution
+			Viviparity
+	Scroffen - Pig-like people, culture is quite rough, physically very robust, but simple-minded and psionically weak
+		++STR, ++END, ++TGH, +CST, -SOC, -PSI
+		This character will always have the following gene mods:
+			Hardened Bones
+			Robust Digestion
+			Expansive Stomach
+			Viviparity
+	Groth - Gigantic ogre-like beings, mentally quite simple, and physically very strong. Incredibly robust, with multiple redundant organs
+		++++STR, ++++TGH, +++CST, ++WIL, +SOC, ---AGI, ---INT, ---PSI
+		This character will always have the following gene mods:
+			Muscle Fibre Density
+			Hardened Bones
+			Ironskin
+			Viviparity
+	Urgathi - Green skinned, orc-like Groth descendants, less strong, but also more mentally stable and physically more humanoid
+		++WIL, ++END, ++TGH, +CST, +++STR, --SOC, --PSI, -INT
+		This character will always have the following gene mods:
+			Muscle Fibre Density
+			Robust Digestion
+			Viviparity
+	Nollgar - Large, devolved, troll-like feral Urgath with pre-sapient Groth ancestor DNA thrown in
+		++++++STR, ++++++TGH, +++CST, ++WIL, ---AGI, ------INT, ---PSI
+		This character will always have the following gene mods:
+			Muscle Fibre Density
+			Hardened Bones
+			Ironskin
+			Robust Digestion
+			Expansive Stomach
+			Viviparity
+	Zirkins - Diminutive, goblin-like Urgath relatives; crafty, intelligent, and psionic. Physically very weak, but somewhat agile
+		++PSI, ++AGI, ++SOC, ++INT, ++PCN, -STR, -TGH, ---WIL
+		This character will always have the following gene mods:
+			Twitch Reflex
+			Night Vision
+			Robust Digestion
+			Circadian Wakefulness
+			Viviparity
+	Iyatari - Hyena-like people, physically dangerous but mentally weak
+		+++AGI, ++PCN, ++STR, -SOC, -WIL, -END, -PSI
+		This character will always have the following gene mods:
+			Twitch Reflex
+			Night Vision
+			Robust Digestion
+			Viviparity
+	Yodrit - Fish-people, posessing two arms and a tail. Intelligent, but very primitive technologically. Almost useless on land
+		-5 to all stats out of water
+		+3 to all physical stats in water
+		This character will always have the following gene mods:
+			Gills
+			Ironskin
+			Egglaying
+	Synthetics - Synths are the utmost pinnacle in Android engineering - a machine consciousness in a perfect body. They are the most advanced of their brethren - only heavily gene-modded organics can compete.
+		customisable, but base --PSI, ++INT, has a budget of +5
+		Can select 5 augmentations on character creation
+		Special Perk: Robotic Lifeform
+			This character cannot be genetically modified
+			This character is immune to climate and disease
+			This character reproduces by being constructed
+			This character consumes electricity
+			Instead of sleeping, this character will undergo "Defragging", which takes much less time
+			All of this character's organs count as bionic, and they always have Nanoblood
+		This character will always have the following augmentations:
+			Bionic Organ (All)
+			Nanoblood
+			Synthetic Skin
+			Cyberbrain
+	Daganites - Molluscoid-Crustaceans, with an octopus-like head and a lobster-like body. Highly intelligent and psionic whilst physically strong underwater, but weak on land
+		-5 to all stats out of water
+		+3 to all mental stats in water
+		This character will always have the following gene mods:
+			Gills
+			Syanptic Evolution
+			Agelessness
+			Egglaying
+	Areziki - Three-eyed humanoids, with deep red skin and advanced psionic powers, as well as a connection to the Ocular Shoggoths native to their homeworld of Parezix
+		++++PSI, ++++PCN, ++WIL, ---STR, -TGH, -CST
+		This character will always have the following gene mods:
+			Third Eye
+			Independent Eyes
+			Syanptic Evolution
+			Viviparity
+	Xentayans - Crested humanoids, with pale purple skin and six eyes running across the head. Weak due to long-term space habitation
+		+++PSI, +++AGI, +++SOC, ++INT, +PCN, --STR, --TGH, ---CST
+		Special Perk: The Naida
+			Homeworld is always Hab or Tribal
+			Social Background is always Egalitarian
+		This character will always have the following gene mods:
+			Twitch Reflex
+			Viviparity
+	Xa-Qo - Tree-people, mainly sessile, but saplings are highly mobile and active. As elders, they "plant their roots" and start a forest, rarely moving afterwards.
+		++++STR, ++++TGH, +++CST, ++WIL, +++PSI, --------AGI, ---INT
+		This character will always have the following gene mods:
+			Ironskin
+			Photosynthesis
+			Seedling Reproduction
+	Vulkanoid - Rock-creatures animated by psionic circuitry. Can be as simple as a microbe or as complex as a sapient being.
+		+++PSI, +2 to all physical stats except AGI, --------AGI
+		Special Perk: Silicate Lifeform
+			This character cannot be genetically modified
+			This character is immune to climate and disease
+			This character consumes rocks
+			This character can heal by absorbing rocks
+			This character reproduces by casting Golem
+			Upon death, this character is reborn as an Ethereal
+	Ethereal - Beings of pure psionic energy, ususally an amalgamation of psionic imprints.
+		+++++++PSI, +++++INT, +WIL, -2 to all Physical Stats except AGI
+		Special Perk: Semicorporeal
+			This character can always cast Possess
+			This character takes half as much damage from all sources except energy weapons and psychic damage.
+			This character takes twice as much damage from energy weapons and psychic damage
+			This character will always have access to Psychic powers
+			This character cannot be genetically or cybernetically modified
+			This character consumes psychic energy, draining Focus from others or self
+			This character can heal by absorbing psychic energy, draining Focus from others or self
+			This character can reproduce by absorbing psychic energy, draining Focus from others or self
+			Homeworld is always Void
+			Social Background is always Egalitarian
+			Upon death, this character will begin regenerating in the void, and once a cooldown is complete, they can be reborn
+			True Death will instead permanently kill this character
+	Demon - Void-native creatures, who survive by consuming pain and pleasure. They are chaotic and desire freedom.
+		++PSI, ++WIL, ----SOC
+		Upon creation, all physical stats are randomised between -5 and +5
+		Special Perk: Demonic
+			This character can always cast Possess
+			This character can heal by absorbing psychic energy, draining Focus from others or self
+			This character can reproduce by absorbing psychic energy, draining Focus from others or self
+			Homeworld is always Void World
+			Social Background is always Egalitarian
+			Upon death, this character will begin regenerating in the void, and once a cooldown is complete, they can be reborn
+			True Death will instead permanently kill this character
+	Angel - Beings of solid light, initially created by the god of Order, Naraz. They promote order and faith, often inspiring religious movements.
+		+++WIL, +PSI, --INT
+		Upon creation, can customise physical stats, has a budget of +3
+		Special Perk: Angelic
+			This character can always cast Possess
+			This character takes half as much damage from all sources except energy weapons and psychic damage.
+			This character cannot be genetically or cybernetically modified
+			This character consumes psychic energy, draining Focus from others or self
+			This character can heal by absorbing psychic energy, draining Focus from others or self
+			This character can reproduce by absorbing psychic energy, draining Focus from others or self
+			Homeworld is always Void
+			Social Background is always Egalitarian
+			Upon death, this character will begin regenerating in the void, and once a cooldown is complete, they can be reborn
+			True Death will instead permanently kill this character
+
+
+
+Skills: (Skills affected by a given stat will have that character's stat define the baseline. If a stat is less than 1, the skill cap is 1, and all rolls using that skill have their success chance reduced. All skills without stats attached have a default cap of 20, which is the maximum a skill can be.)
+	Melee (STR, AGI) - Determines proficiency in melee combat
+		Blunt Weapons
+		Bladed Weapons
+		Unarmed
+	Ranged (AGI, PCN) - Determines accuracy and reload times with ranged weapons
+		Bows
+		Throwing
+		Handguns
+		Shotguns
+		Rifles
+		Sniping
+		Heavy Guns (STR)
+		Launchers
+		Energy Weapons
+	Logic (INT)
+		Research - Determines rate of research breakthroughs
+		Deduction - Determines ability to solve mysteries
+		Tactics - Determines tactical proficiency and Supply generation
+		Medical - Improves advanced medicine/surgery quality
+	Charm (SOC)
+		Barter - Determines store prices
+		Suggestion - Improves Charm attempts
+		Deception - Improves Lie attempts
+		Leadership - Boosts team morale and improves command ability
+		Intimidation (STR only) - Can use Strength stat to intimidate NPCs instead of Charming them
+	Artistic (SOC, PCN) - Determines Beauty of artwork
+		Sculpting
+		Painting
+		Architecture (PCN only)
+		Music
+	Crafting (INT) - Determines crafting quality
+		Construction - Buildings
+		Engineering - Electrical and mechanical devices
+		Chemistry - Drugs and explosives
+		Computing - Computers and advanced devices
+		Mining (STR only) - improves mining yield
+	Fieldcraft
+		Cooking - Determines quality of food
+		Stealth (AGI, PCN) - Affects detection chances
+		Navigation - Improves travel speed
+		Foraging - Improves food gathering
+		Tracking - Improves hunting performance
+		Camping - Improves life in wilderness
+		First Aid - Improves care quality
+	Farming
+		Botany - improves plant yield
+		Animals - improves taming & training
+	Driving - Improves vehicle handling
+	#Special: Psychic Discipline (PSI)
+		Determines psionic capability. Each point in this category allows an extra spell to be learned. No cap. Must have undergone psychic training to use advanced spells
+
+
+
+Homeworld:
+	Planet Type:
+		Predation World
+			A planet with significantly dangerous local wildlife. Locals had to be strong to survive.
+			+2 to all physical stats. +2 to PCN. +1 to WIL and INT. -4 to SOC. +1 to Fieldcraft, Melee, and Ranged
+		Hab World
+			Not a planet, but an orbital or interstellar habitat. Locals are good with technology, but physically weak.
+			+2 to all mental stats. In addition, +2 to INT and PSI, and +1 to SOC. -1 to all Physical stats. +1 to Charm, Crafting, and Driving
+		City World
+			A planet with near-complete urban coverage, these worlds have populations in the hundreds of billions. Locals are used to managing big groups, and familiar with advanced tech.
+			+5 to SOC. +1 to 5 random stats. +2 to Charm, +1 to Driving
+		Agri-World
+			A planet dedicated almost entirely to food production, almost all citizens of these worlds have at least basic farmhand experience. Outside of farming, technology on these worlds is fairly limited.
+			+3 to SOC. +2 to END. +1 to 5 random stats. +2 to Farming, +1 to Fieldcraft
+		Industrial World
+			A planet dedicated to mining mineral and chemical resources, and/or processing them. All citizens either work in the quarries, refineries, warehouses, or factories. Black smog cloaks the sky.
+			+2 to all Physical stats. In addition, +5 to CST. +2 to Crafting, +1 to Driving
+		Fortress World
+			A planet dedicated to military service and training. All citizens must at least undergo basic military service.
+			+2 to all Physical stats. +1 to all Mental stats. +2 to Ranged, +1 to either Fieldcrafting, Melee, or Driving
+		Dead World
+			A planet that suffered from either major pollution or nuclear war. Toxic waste is everywhere, and locals struggle to survive.
+			+1 to all stats. +5 to CST. -5 to SOC. +3 to Fieldcraft
+		Tribal World
+			A planet at a tribal stage of development. Locals typically live in small communes, or in early settlements. A small Imperial Outpost is maintained in orbit.
+			+1 to all physical stats. +3 to SOC. +1 to 2 random stats. +3 to Fieldcraft
+		Resort World
+			A rich planet, where all necessities are guaranteed and locals are free to engage in pursuits of the mind.
+			+3 to all mental stats. -1 to all physical stats. +1 to Logic, Artistic, and Charm
+		Void World
+			A planet based partially in the void, being saturated with psionic energy.
+			+10 to PSI. -1 to all physical stats. +3 to Psychic Discipline
+
+History:
+	Social Background:
+		Impoverished (Not Resort World)
+			This character was born into extreme squalor. They had to fight for every meal.
+			+1 to 5 random stats.
+		Egalitarian
+			This character was born in an egalitarian society. They had everything they needed, and nothing more.
+			+1 to 3 chosen stats.
+		Working Class
+			This character was born into a relatively low-status family.
+			+1 to 4 random stats. Start with a tiny amount of money
+		Middle Class
+			This character was born into a fairly affluent family.
+			+1 to 3 random stats. Start with a small sum of money
+		Wealthy
+			This character was born into a very affluent family.
+			+1 to 2 random mental stats. Start with a fair sum of money
+		Ruling
+			This character was born into a very affluent and politically influential family. They wanted for nothing growing up.
+			Start with a large sum of money
+	Working Life: (In addition to raising the skill cap in a category, any + in a skill category will also apply to a random skill within that category, unless otherwise specified)
+		Survivalist
+			This character spent their days in the wilderness, surviving by themselves.
+			+3 to Fieldcraft. +1 to a random physical stat. -1 to SOC.
+		Industrial Worker
+			This character spent their days in a factory, toiling away.
+			+2 to Crafting, +1 to Driving
+		Scientist
+			This character spent their days as a researcher for a technological institute
+			+3 to Logic (Research)
+		Enforcer
+			This character spent their days catching criminals
+			+1 to Melee (Blunt Weapons). +2 to Ranged (Handguns, Rifles).
+		Detective
+			This character spent their days investigating crimes
+			+2 to Logic (Deduction), +1 to Charm (Suggestion)
+		Criminal
+			This character spent their days making money via illicit means
+			+1 to Melee (Bladed Weapons). +1 to Ranged (Handguns). +1 to Charm (Intimidation)
+		Soldier
+			This character spent their days in the armed forces.
+			+2 to Ranged, +1 to either Fieldcrafting, Melee, or Driving. All skill bonuses are selected at creation.
+		Officer
+			This character spent their days in a command position in the armed forces
+			+1 to Ranged. +1 to Charm (Leadership), +1 to Logic (Tactics).
+		Naval Officer
+			This character spent their days in the Navy.
+			+2 to Driving. +1 to Crafting. All skill bonuses are selected at creation.
+		Experiment
+			This character was experimented on by illicit organisations
+			-2 to SOC. Gain 2 random Augmentations or Mutations. +1 PSI
+		Teacher
+			This character spent their days instructing future generations
+			+2 to SOC, +1 to either Logic or Charm. All skill bonuses are selected at creation
+		Doctor
+			This character spent their days tending to the sick
+			+3 to either First Aid or Medical (can choose balance). +2 to Logic
+		Preacher
+			This character spent their days in a religious order
+			+3 to Charm (Suggestion, Leadership). Bonus relations with members of this character's religion
+		Brawler
+			This character spent their days fighting in the pits
+			+3 to Melee
+		Engineer
+			This character spent their days designing machines
+			+1 to Logic, +2 to Crafting
+		Drifter
+			This character spent life doing different jobs, never quite settling in
+			+1 to 3 chosen skill categories.
+		Artist
+			This character spent their days making works of art
+			+3 to Artistic
+		Designer
+			This character spent their days designing products
+			+2 to either Artistic or Crafting (can choose balance). +1 to Logic

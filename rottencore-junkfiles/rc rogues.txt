@@ -1,0 +1,125 @@
+
+Rogue's Gallery
+
+	The Werewolf - Connor Barrett, the hero of the story
+	Inspo: Wolverine, Invincible
+	Schtick: Super-everything - strength, toughness, senses, reflexes, etc. Main focus: toughness and healing factor
+
+		Ranger - Trey Morgan
+		Schtick: As above, with more focus on agility and reflexes
+
+		She-Wolf - Anna Zhou
+		Schtick: As above, but more focus on strength. Also uses familiars more frequently
+
+		Sparky - Connor's sidekick, super-wolfdog with telepathic communication
+
+		Volk - Ivan Sokolov, Connor's KGB aide
+		Schtick - less physical power; but expert sniper
+
+	Countess - Chloe Derrington, Connor's soulmate and Vampire Lord
+	Schtick: Vampire, archmage
+
+	The Warden - a cop who was kidnapped and experimented on by Vacher, he lost all sense of his identity beyond the Law.
+	Real name: Hank Carter
+	Inspo: Judge Dredd, Adeptus Arbites, Punisher
+	Schtick: Stun baton, Shotguns, riot shield, brainwashed 'prisoners'
+
+	Harpy - homeless woman and friend of Connor, kidnapped by Vacher
+	Real name: Eliza Mercott
+	Inspo - Black Canary, Hawkgirl, Vulture
+	Schtick - Flight, sonic screaming
+
+	Alchemist - vacher's experiment; capable of brewing toxins that even Connor can't tank
+	Real name: Joel Cameron
+	Inspo - Scarecrow, Scorpion
+	Schtick - Mind-altering substances, deadly gas, sedatives, pheremones, radiation
+
+	Roach - another one of Vacher's 'masterpieces'; nigh-invulnerable
+	Real name: N/A
+	Inspo - Rhino, Wolverine
+	Schtick - nigh-invulnerable, exoskeleton
+
+	Blitz - bounty hunter/merc with powered armour; hired to kill the Werewolf
+	Real name: Luke Miller
+	Inspo - iron man, deathstroke
+	Schtick - power armour, jetpack, dual pistols, drones, grenades - gadgets, basically
+	Story - Originally the leader of a merc band called the Spitfires, his team was killed by super-agents, but he managed to survive. Barely alive, he stole super-serum
+
+	Hellfire - former fireman horribly burned, then 'saved' by Vacher
+	Real name: Ian Stagg
+	Inspo - Pyro, Firefly
+	Schtick - flamethrower, fire axe, sawn-off with explosive rounds, incendiary grenades... you get the gist
+
+	Twitch - another Vacher experiment; this one given superior speed (able to sprint at >100mph), bioelectic powers (special battery-glands allow him to build up an electric reserve that can be discharged in melee. Can recharge off of electicity, but this burns him out), and super-reflexes (needed for awareness while sprinting). While his brain is fried, he's hardly any more insane than Vacher's other playthings
+	Real name: Tommy Smith
+	Inspo - Electro
+	Schtick - electicity, super-speed, agility
+	Story - [first fight to be written] Second fight, in public, he's taken hostages. Connor is negotiating when the police shoot, injuring him. He's taken in by Riverside, but Connor flips out at the police chief, pointing out that they have no hope of building much trust with him now
+
+	Whisper
+	Real name: Layla Khoury
+	Inspo - Black Cat, Catwoman
+	Schtick - former heistwoman, merc and master thief-for-hire
+	Story - Lebanese woman called Layla, she first meets the heroes when she steals a server rack they were after. They track her down and demand it, as it had data on a blacksite they wanted to raid. She cuts them a deal - they serve as muscle in her next heist against an investment firm connected to the conspiracy, and in exchange, she'll personally help them with the blacksite. They agree, and she's critically wounded in the blacksite raid by a super-soldier - Trey gives her his own blood to heal her, and she vanishes. Later on, she does a job with them in Mongolia, but betrays them. Much later, she comes begging for help (the conspiracy has kidnapped her parents), and they help her. They have a much more friendly relationship after that
+
+	Subject 217 - Sparky's "Sister", the only other survivor of the Fenrir project. Driven by intense, fanatical hatred of humans
+	Real name: N/A
+	Inspo - N/A
+	Story - Tortured for far longer than Sparky was, once the boys find her, she's driven by hate towards humans. She's freed by Connor only to try and kill him, but Sparky talks her down. She refuses to live with them, so Connor encourages Sparky to go with her and try and help her. While roaming, she comes across wolf packs in Siberia, whose population has been growing due to the war resulting in desettlement of the region. She decides to live with them.
+	Later, the team receive word that her pack have been terrorising the local humans, so they head to investigate. Sparky is jumped by super-wolves, but 217 intervenes, and chastises them for assaulting a fellow wolf, before asking why he's come. He tells her he's been told she's attacking humans, and she explains that they've been encroaching on her territory. He explains that they're actually refugees who are returning to their homes, but 217 refuses to allow them to remain. Sparky snaps and tells her she has to either live alongside them, or he'll drive the pack away himself. Disgusted, she begins circling him, and they fight for control of the pack. While fighting, they exchange barbs - she accuses him of not being a wolf anymore, but a sellout to the humans, while Sparky counters that hatred of humanity is far from normal wolf behaviour.
+	Schtick - Hates humans, just wants to be left alone - but can't find anywhere humans aren't occupying.
+
+	The Artist 
+	Real name: Marcel Vacher
+	Inspo - Drukhari, Dollmaker
+	Story - Marcel Vacher, former plastic surgeon and con artist; driven by psychotic desire to 'perfect' people into monstrocities, using super-serum to keep them alive as he 'experiments.' Creates supervillains for other criminals, as well as henchmen. Makes use of body doubles using neural grafting to copy his personality to them - a tech he stole from Capulet/Mastermind. Instead of using clones though, he fleshcrafts living people into perfect replicas of himself.
+	Schtick - kidnap folks and fleshcraft them; make body doubles ad nauseum
+
+	The Mastermind Collective/The Masterminds
+	Real name: Angelo Rossi
+	Inspo - Omniscient scientists, the Mauler Twins, Dr. Doom, Tito
+	Story - Dr. Rossi displayed extreme natural intelligence from an early age. Graduated high school at age 8, made headlines for being a child progidy, but dropped off the rader completely at age 9. Reported missing, only to miraculously return 10 years later, refusing to elaborate on what had happened. He founded a neuroimaging laboratory, making several breakthroughs in neuroscience and high-performance computing, including developing a design for a hard drive that could store all the memories of a human brain - the design was theoretical, since it would need a significant amount of power and space to be workable with then-current (2003) technology. Travelled to China to work on its Cybersyn-analogue, and returned to France. Sold his neuroimaging lab, and dropped off the radar again for a couple of years. Then, made headlines once more when he made millions off of stock market fluctuations, which became billions thanks to a series of high-risk, high-reward investments. However, his behaviour and mannerisms became increasingly erratic, and strangely, he appeared to develop interest and even expertise in a wide, wide variety of fields. This was, unbeknownst to the world at large, because he had successfully created clones with his exact brain structure (a highly unusual mutation made him a super-fast learner, but severe memory loss if he wasn't continually studying the subject at hand, which was passed onto his clones). Then, each clone dedicated itself to mastering a particular field. His income came from one clone studying the stock market and, working with another clone that was a genius programmer, developed an A.I. that could predict stock market outcomes with 99% reliability.
+	Schtick - A cyber-collective of clones of the same genius mutant, each one specialising in a given field of science or engineering. Plotting to take over the world and rule it as a benevolent 'Collective autocrat'
+
+	The Marshal
+	Real name: Frank Ryder
+	Inspo - Revolver Ocelot (vibes only)
+	Schtick - cowboy gunslinger
+	Story - [to be written]
+
+	Henri Messier
+	Inspo - Le Chiffre, David Xanatos, campy french villains in general
+	Schtick - bored Magnificent Bastard who wants fame and glory; pulls off heists no-one else could dream of. Whimsical M/O.
+	Story - [to be written]
+
+	The Masters Shao
+	Real names: Shao Feng & Shao Jin
+	Inspo - Jin - every Bruce Lee character. Feng - The Ancient One
+	Schtick - Dynamic Duo - Feng is the Supreme Prince of the Chinese vampires, while Jin is his adopted Dhampir son. Feng uses magic in the battlefield, while Jin is a front-line fighter
+
+	Agent Khan
+	Real name: Theo Khan
+	Inspo - James Bond. Minor inspo from Agent 47 and John Wick, as well as hints of Solid Snake, too.
+	Schtick - Well, see above. Sneaky super-spy. Gin martini - stirred, not shaken.
+
+	SPYD3R/Jinx
+	Real name: Siobhan Taylor
+	Inspo - 
+	Schtick - hacker; recently taken to the field, uses sentry guns, drones, RC crawlers, etc
+
+	Dominus
+	Real name: HRH Gordon Branbury
+	Inspo - 
+	Schtick - compelling voice, mind control
+
+	Edge
+	Real name: Kenji Yamazaki
+	Inspo - Grey Fox, Raiden
+	Schtick - Cyborg Ninja
+
+	Bug Boy
+	Real name: Sipho Chabane
+	Inspo - The Pain, Clancy
+	Schtick - super-hornets that he psychically commands
+
+	

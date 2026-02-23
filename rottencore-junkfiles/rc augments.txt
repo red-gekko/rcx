@@ -1,0 +1,89 @@
+All implants must be manually repaired, unless the Nanorepair Module is installed.
+Bionic Organ
+	Replace a natural organ. Has higher baseline part efficiency, and is immune to infection.
+Nanoblood
+	Replaces the user's blood with a synthetic chemical. This can power and repair implants but must be replaced manually, unless the Nanorepair Module is installed.
+Pleasure Wire
+	A brain implant which causes a permanent mood boost, at the cost of decreased work speed.
+Pain Wire
+	A brain implant which causes permanent pain in the user
+Pain Separator
+	A brain implant which removes the unpleasantness of pain. Users can still feel pain, but they will no longer experience shock
+Infochip Link
+	A brain implant which allows the user to access computer networks, allowing them to interface with them without needing a computer or terminal
+CNT Muscle Fibre
+	Synthetic muscle fibre that makes a user's flesh hardier and stronger
+Reinforced Bones
+	Carbon Nanotubes make bones much stronger than before
+Synthetic Skin
+	Dermal implant that makes the user's skin much harder
+Nanoceramic Blades
+	Blades implanted in the user's limbs, that can be protracted to be used in combat
+Circadian Optimiser
+	Brain implant that prevents the need for sleep
+Auto-Learner
+	A brain implant that improves learning abilities
+Neuro-Lobotomy
+	A brain implant which removes most higher cognitive functions, effectively turning the user into an obedient machine
+Detatchment Implant
+	A brain implant that removes the user's emotional functions, making them a cold logical machine
+Suppression Implant
+	A brain implant that can be remotely activated to disable the user - commonly used on prisoners
+Neurocalculator
+	A brain implant that can perform advanced processing tasks, enabling the user to make logical decisions and deductions at high speed
+Control Link
+	A brain implant that allows the user to command and control subsurvient machines
+Social Analyser
+	A brain implant that analyses a target's emotional state, and suggests appropriate sentences to achieve given goals
+Hackerware
+	A brain implant that improves the user's hacking abilities, and makes their own implants harder to hack
+HUD Implant
+	A brain implant that provides a Heads Up Display in the user's field of vision, displaying relevant information
+Smart Vision
+	An optical implant that allows the user to see different vision modes, such as Heat, Radiation, Electrical, etc.
+Resus System
+	A chest implant which provides defib and revival services to the user
+Diagnostic System
+	A chest implant which ensures that medical information is always up-to-date and accurate
+Nano Immunity
+	Using nanomachines in the blood, can fight off infections and tumours from twice as well to up to 10x as well as a baseliner. Can manually target immune response against specific diseases and tumours.
+Nano Healing
+	Using nanomachines in the blood, bleeding wounds close very quickly,
+Rebreather
+	A lung implant that allows the user to breath in atmospheres which would otherwise contain deadly gases
+Vacuum Lungs
+	A lung implant that allows the user to survive decompression in a vacuum
+Energy Converter
+	An abdominal implant that converts consumed nutrients into energy, powering implants and allowing them to be overcharged
+Reflex Booster
+	A spinal implant that allows the user to react much quicker than a baseliner
+Stun Hands
+	A hand implant that allows the user to stun enemies with punches, incapacitating them quicker
+Glidewings
+	A back implant that deploys gliders when falling, preventing fall damage
+Cloakskin
+	A dermal implant that allows the user to become invisible to the naked eye for a time
+Muffled Feet
+	A foot implant that reduces or eliminates noise from footsteps
+Steroid Booster
+	A chest implant that stimulates muscle growth and aggression
+Clarifier
+	A brain implant that increases Focus generation
+Tox Filter
+	A chest implant that filters toxins out of the bloodstream
+Self Destruct Sequence
+	A chest implant filled with explosives. The user can explode on command
+Stasis System
+	A chest implant that allows the user to suspend their biological functions, entering stasis
+Cortical Module
+	An inbuilt computer that takes a copy of the user's brain - can be transferred to different hardware platforms
+Cyberbrain
+	A supercomputer that can replace a user's brain, typically copying the organic brain's personality. Much faster reaction times and massive boosts to Intellect at the cost of reduced Psychic power.
+Psi Suppressor
+	A brain implant that cuts off the user's psychic abilities, but also improves their resistance to psychic attack.
+Neural Feedback Spiker
+	A brain implant that causes severe damage to hostile telepaths when they attempt to mind read or control. Does not cancel out the attack
+Brain Dampening
+	A brain implant that activates when the user has a mental break or is mind controlled - renders the user unconscious instead
+Nanorepair Module
+	An advanced chest impant that uses nanotechnology to repair augmentations. It is wired to the stomach and can metabolise nutrients to produce more nanites

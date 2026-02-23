@@ -1,0 +1,55 @@
+hybrids - bio analysis
+
+genetics: mix of all known sapient races, plus several new genetics thrown in. Total chromosome count: 1,397 - 408 pairs (816) + 581 unpaired
+
+muscular analysis:
+	extreme muscle density - muscles appear to be reinforced with CNT fibres
+	due to muscle thickness, even without skin (see below), can stop armour-piercing rounds
+	examples of strenth:
+		can deliver 'light punches' with force similar to or greater than an industrial jackhammer - 'jab flurries' can reliably break apart thick concrete
+		hardest punches thrown have managed to completely tear a person apart - the force punched a hole through the target, and sucked them through - ripping them into chunks
+		has been seen lifting heavy armoured vehicles above head
+		can leap incredible heights, well over 30 meters with maximum exertion
+		Can sprint at speeds above 80 mph at maximum exertion
+
+skin analysis:
+	skin is incredibly thick despite appearing like a normal human's. undeneath skin is a thin layer of muscle that can contract in response to incoming force, acting like a bulletproof cover. skin is also latticed with CNT nanofibres. industrial drills or armour-piercing rounds are required to reliably break skin, and even then the muscle density protects them (see above)
+
+bone analysis: 
+	bone is heavily reinforced with CNT fibres, to the point where hybrid bones are blackish in colour due to heavy carbon presence. Diamond-tipped industrial saws are required to reliably cut through bones. Bones are also built to redirect force to the joints, causing dislocations where breaks would otherwise happen
+
+circulatory analysis:
+	in addition to powerful heart due to muscles, they also possess	'backup hearts' - small diminutive hearts located in forearms/calfs, upper arms/thighs, in the neck, in the abdomen, and beside the lungs, which aid the primary heart and can work independently of it, allowing hybrids to survive loss of the primary heart, and for limbs to keep working after being severed.
+	blood is hyperoxygenated, allowing them to engage in extreme levels of physical exertion (and what they consider to be exertion is much higher than a human) without tiring out. their blood can clot extremely quickly, but is thin enough that blockages are rare. has far more and far smaller blood vessels than humans, resulting in much lower blood loss when cut. vessels can close automatically when injured, this is connected to the nervous system's advanced signalling abilities (see below)
+
+respiratory analysis:
+	aside from the above-mentioned hyperoxygenated blood, hybrids are able to perform anaerobic respiration where needed, meaning they can survive without oxygen - though lactic acid buildup will slowly kill them or force them into hibernation (see below). their physical performance without oxygen likewise suffers, though they are still superhumanly strong. their brain also becomes less active during this process, making them more animalistic and feral.
+	they can also breathe water - their lungs are capable of extracting oxygen from fluid with very little strain.
+	they are also able to inhale normally toxic substances with little issue, though this is more related to their tolerance for toxic substances (see below). their lungs can also survive chemical burns, but the damage can incapacitate them
+
+gastrourinary analysis:
+	hybrids are able to digest almost any organic matter. their expansive, snake-like stomachs allow them to gorge themselves when needed, and their livers and kidneys are able to cope with all but the most potent toxins - common drugs like alcohol or morphine have no effect when this system is working at its peak - to be able to use drugs, hybrids must disable this system by ingesting extremely potent toxins like botox or cyanide.
+
+cellular analysis:
+	hybrid cells are extremely metabolically efficient - although hybrid metabolism is far higher than a baseliner (hybrids must consume at least 3x the regular calorie consumption of humans to maintain peak performance), it is also much, much lower than it should be, pointing to metabolic optimisations.
+	hybrids are able to regenerate wounds at a far greater rate than baseliners. this is because their cells can revert to a totipotent state, allowing them to repurpose their flesh where needed. Limbs and complex organs can be regrown in remarkably short time - one Hybrid lost his forearm during an escape attempt and had regrown it in less than a week. Another incident led to a hybrid's entire skin being burned off, and managed to regrow the whole dermis and resume normal hair growth within days.
+	such extreme healing capabilities are of course the perfect ground for cancer - however hybrids are largely safe from cancer development. At any given point, over half of the hybrid's organs will have some form of cancer, but due to severe mutability, intelligently programmed angiogenesis, and smart immune systems, no tumour can get large enough to have any impact before it dies. Most tumours will be devoured by 'hypertumours' or starve when blood is cut off from them.
+	hybrid cells are able to communicate incredibly effectively, and combined with their nervous system (see below), hybrids are able to intuitively understand their own medical condition, manually direct healing and immune response, or enter cryptobiosis (see below)
+	hybrids produce telomerase constantly, making them biologically immortal.
+	hybrids produce antioxidants in response to ionising radiation, allowing them to survive extreme irradiation, though this will render them much weaker for a while afterwards.
+
+nervous/sensory analysis:
+	hybrid neurons posess incredible efficiency, with minimal latency. hybrids are able to react to stimuli up to 10x quicker than an average human, can see far further and in far more detail than humans, can see slightly beyond the normal visual spectrum, can see clearly even in darkness, can point their eyes in different directions like chameleons, can sense extremely minor changes in temperature or electrical fluctuations, and much more. Uniquely, hybrids have a 'backup brain', neural webbing located in upper torso that is used during severe head injuries. they can theoretically survive decapitation
+	hybrids have access to a unique hormone called 'paradrenaline', a mutated variant of adrenaline that in high doses can trigger extreme feats of reflex, sensation, and thought. 'Paradrenaline rushes' can lead to near-instantaneous reactions, complete lack of pain, and even more intense strength. Such rushes are often known as 'Berserker Rages', as they usually are triggered by intense rage or pain, or in response to near-death scenarios. Following a Rage, the hybrid will become catatonic for a time, typically 2-3 times as long as they were in the Rage
+	hybrids can engage in partial sleeping, meaning they need to sleep much less than humans, and in cases of crisis can survive on no sleep when needed.
+	hybrids can also enter a form of hibernation or cryptobiosis during extreme duress; this allows them to survive extremely hostile conditions like asphyxiation, starvation, hard vaccuums, irradiation, and more.
+	when food is scarce, hybrids lose most of their more fantastical powers like limb regeneration and ability to lift tanks, but can retain a superhuman level of performance on very little food - when in this 'starvation mode', they can survive for up to 3 years without eating before entering hibernation.
+	due to their overengineered neurons, hybrids universally suffer from siezures - these can range from petit to grand mal and are typically independent of stimuli. these siezures do not respond to medication, but high releases of Paradrenaline can allow them to retain consciousness despite the siezure - however they will still be inhibited. In combat or survival situations, this manifests as confusion or intense, animalistic rage, or even as a psychotic episode.
+	Hybrids also have severe migraines - these can vary but they will be in near-constant aching throughout their lives.
+
+
+in summary:
+	Hybrids are incredibly powerful beings. There is not much that can hurt them, and that which can, they can heal from. Their physical strength is beyond any known sapient lifeform, able to go toe-to-toe with other superhumans and win. Their sensory capabilities and reflexes make them the perfect soldiers
+	On the downside, they universally suffer from siezures, debilitating migraines, and must consume significantly more food than normal humans to maintain their edge.
+	They are not truly invulnerable - hurting them just takes more effort than most. There are still plenty of credible threats that opponents with sufficient prep-time can utilise.
+	As well, their healing can be overwhelmed if damage is from several sources - standard procedure for 'termination' is application of nerve gas, use of incendiary weapons to neutralise, dismemberment using high-power tools, then sealing the wounded Hybrid in cement and placing said cement in an area of heavy ionising radiation for a period of no less than 25 years. This is overkill though - they can be killed by any of these, but it pays to be thorough.

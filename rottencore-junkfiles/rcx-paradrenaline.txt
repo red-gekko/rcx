@@ -1,0 +1,98 @@
+
+Paradrenaline states:
+	Berserker Rage (Acute Paradrenaline Psychosis)
+		The subject is overcome with intense, vicious wrath. They will fight with unparalleled ferocity, but struggle to differentiate friend from foe.
+	Terror (Acute Paradrenaline Panic Disorder)
+		The subject is overcome with intense fear. They will take extreme measures to escape the triggering situation.
+	Catatonia (Acute Paradrenaline Catatonia)
+		The subject is unable to decide on the best course of action, and so takes none, becoming catatonic.
+	Fawning (Acute Submission)
+		The subject immediately submits to the trigger of the episode, surrendering and making appeasement behaviours
+	Black Hunger (Acute Hyperphagia)
+		The subject is consumed by feral hunger. They will try and eat any available food, not caring from the source.
+	Numbness (Hypoaffective Apathy)
+		The subject's emotions are severely blunted, resulting in minimal emotional reaction.
+	Seizures (Acute Epileptiformia)
+		The subject will experience grand mal seizures with minor warning
+	Nosebleeds (Epistaxis)
+		The subject will suffer regular bleeding from the nose
+	Migraines (Neuralgia)
+		The subject will feel intense pressure pains in their head
+	Strokes (Acute Cerebral haemmorhagia)
+		The subject will experience temporary loss of brain function due to aneurysm
+	Heart attacks (Acute cardiopathy)
+		The subject will experience random cessation of cardiac function
+	Confusion (Acute Delerium)
+		The subject will become disoriented and absentminded
+		Fugues
+			The subject may forget key details or their entire identity for a short period
+	Acute Hallucinations
+		The subject may see or hear things that are not there
+	Flaggelation (Pathological self-injury)
+		The subject will be overcome with a desire to inflict pain on itself
+	Healing Coma
+		The subject will fall into a deep sleep, as their body tries to regenerate
+	Death Flush (Acute thermodysregulation)
+		The subject will experience a positive feedback loop in their thermoregulatory system, rapidly heating to deadly levels
+	Nausea
+		The subject will feel intense nausea, experiencing regular vomiting, including vomiting bile
+	Klazomania
+		The subject will lose the ability to control their volume, constantly shouting at the top of their lungs
+	Hysterical regression
+		The subject will, in situations of extreme stess, regress to childlike behaviour (seeking a 'parental' figure, irrational avoidance of danger, etc)
+	Synesthesia
+		The subject will experience extreme synesthesia (moreso than they normally would), causing sensory overload
+	Acute Mutism
+		The subject becomes unable to speak for the duration of the episode
+	Pathological Impulse Dysregulation
+		The subject loses most of their inhibitions, acting on impusles they would otherwise repress
+	Aphasia
+		Similar to mutism, but affecting the subject's mental dictionary instead of their ability to speak aloud
+	Agnosia
+		The subject loses the ability to process a particular form of sensory input. They still receive the input, but do not consciously process it. Their reflexes can still react, as this happens outside of the CNS.
+	Incontinence
+		The subject becomes unable to reliably control excretory functions
+	Pica
+		The subject absentmindedly begins chewing or attemting to consume inedible objects
+	Pathological Rumination
+		The subject will uncontrollably vomit into their mouths and then swallow again, like a ruminant chewing cud
+	Akinetopsia
+		The subject loses the ability to reliably perceive motion, though other visual aspects are unaffected
+	Acute hypermania
+		The subject experiences a manic episode, displaying hyperarousal, high energy, and disregard for risks.
+	Apraxia
+		The subject will find either gross, fine, or both gross and fine motor activities much more difficult
+	Paralysis
+		The subject becomes completely unable to move the affected area
+	Acute Demotivation
+		The subject experiences severe depression, despair, and demotivation
+	Moroseness
+		The subject experiences a grim, morose state of mind, feeling only sullen anger.
+	Ocular Haemorrhagia
+		Subject experiences bleeding in the eyes, resulting in red irises or sclera, or even 'crying blood'
+	Arthritis
+		The subject experiences severe joint pain
+	Strabismus
+		The subject's eyes fail to orient properly
+	Nystagmus
+		The subject's eyes shake uncontrollably
+	Vertigo
+		The subject experiences feelings of motion not based on reality
+	Hypersalivation
+		Typically connected to the Black Hunger, the subject begins drooling uncontrollably
+	Zealotry (Hyperconviction)
+		The subject becomes deeply convinced of their own moral infallibility, and eschews moral limitation in pursuit of their goal
+	Doubtfullness (Hypoconviction)
+		The subject becomes deeply *unconviced* of their own morality, and constantly agonises over their actions
+	Pathological Skepticism
+		The subject becomes unable to be convinced of any concept. They will, without fail, not believe any information given to them by others. Information received by their own observation will still be absorbed
+	Prosopagnosia
+		Try as they might, the subject cannot reliably tell people apart
+	Grudginess
+		The subject will not tolerate perceived slights, and will take irrationally long times to forgive or forget
+	Hyperforgiveness
+		The subject will unreasonably tolerate wrongs committed against them, refusing to express or even feel any negative reaction to unfair treatment
+	Cytokine Storms
+		The subject will experience sudden onset, severe cytokine storms, resulting in fever, fatigue, vomiting, chills, respiratory distress, or delerium.
+	Maladaptive Daydreaming
+		The subject experiences intense daydreams, being mentally asleep despite physically awake

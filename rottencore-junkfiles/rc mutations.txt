@@ -1,0 +1,131 @@
+Every Gene Mod reduces Metabolic Efficiency, unless otherwise specified
+Reproduction System genes do not affect efficiency unless you have more than 1
+
+Combat Pheromones
+	Increase Adrenaline of host and allies when killing an enemy
+Circulatory Distribution
+	Grows secondary mico-hearts throghout the body, can survive loss of a heart
+Electrosensitive Skin
+	Can sense enemies, even cloaked or invisible ones, by detecting electrical signatures.
+Chameleonic Skin
+	Can change skin colour and properties to blend in
+Shapeshifting
+	Can change physical appearance to resemble specific individuals, or with time, entirely separate species
+Third Eye
+	Special Eye in forehead, improves psychic abilities
+Syanptic Evolution
+	Neural modifications in brain improves psy power, focus generation, synaptic pressure, and learning speed, but reduces social skills
+Advanced Organ Signalling
+	Neural modifications across body means that medical information is always up-to-date and accurate
+Muscle Fibre Density
+	Extra dense muscles make flesh hardier and stronger
+Twitch Reflex
+	Improved reflexes and reaction times
+Regeneration
+	Heals scars, wounds, and even regrows body parts
+Superclotting
+	Bleeding wounds close very quickly
+Wakeful
+	Host needs to sleep half as much as a baseliner
+Circadian Wakefulness
+	Never needs to sleep. Twice as much metabolic efficiency loss as other mods
+Streamlined Genetics
+	Adds extra Metabolic Efficiency
+Supermetabolism
+	Halves all Metabolic Efficiency losses from gene mods
+Metabolic Unlocking
+	Halves all Metabolic Efficiency losses from gene mods (stacks with supermetabolism), but causes at least 1 of the following daily: Migraines, Seizures, Heart attacks, carcinoma. Character is also sterile.
+Robust Digestion
+	Can eat almost anything
+Acid Blood
+	Burns others on contact, also makes host immune to acid
+Acid Spit
+	Spits acid at target
+Ironskin
+	Half of all Sharp damage is converted to Blunt damage
+Hardened Bones
+	Bones are much harder to break
+Sensory Enhancement
+	Sight, Hearing, and Smell are all improved dramatically
+Night Vision
+	Can see clearly even in pitch blackness
+Pheromones
+	Can release Pheromones which induce desired mental states in others
+Adaptable Biology
+	Allows the host to adapt to any biome's conditions
+Neural Chest Cavity
+	Allows the host to survive decapitation
+Independent Eyes
+	Allows the host's eyes to point in different directions
+Expansive Stomach
+	Host can gorge on food and stretch the stomach to fit it in
+Hyperoxygenated Blood
+	Blood carries far more oxygen than usual, allowing host to perform astonishing feats of endurance
+Melanic Skin
+	Skin can turn pitch black to shield host from ionising radiation
+Antioxident Hyperproduction
+	Host is much more resistant to ionising radiation, and also lives longer than baseliners, but has reduced fertility
+Breathable Skin
+	Can breathe through skin - can survive loss of lungs
+Anaerobic Optimisation
+	Can survive off of anaerobic respiration - can live without oxygen, though endurance is reduced when this is active
+Hyper Immunity
+	Can fight off infections and tumours from twice as well to up to 10x as well as a baseliner
+Smart Immunity
+	Can manually target immune response against specific diseases and tumours
+Spare Organ
+	Grows a spare organ. Can be used in case of destruction of original. Does not apply to brain.
+Geminitism
+	Grows a second head. One head controls the body at a time.
+Calcification
+	Flesh slowly becomes calcified, making host much hardier but also slower
+Exoskeleton
+	Skin becomes chitinous, encasing host in armour
+Xenophilia
+	Host can reproduce with alien species
+Venomous Fangs
+	Can bite enemies to inject with venom, dealing tox damage or paralysing them
+Perfect Memory
+	Host almost never forgets a detail - both good and bad
+Agelessness
+	Host does not age past maturity - becoming biologically immortal
+Long Lived
+	Host ages past maturity at half the rate of a baseliner
+Gills
+	Host can breathe underwater
+Chloroplastic Skin
+	Host can perform photosynthesis
+Fissile Reproduction
+	Host can shed spores, which eventually grow into spawn
+Incorporate Genes
+	Host can incorporate the genetics of other creatures
+Spawning Pool
+	Host can interact with Spawning Pools, and can produce spawn from them
+Seedling Reproduction
+	Host can reproduce by producing Seedlings, which are planted into the ground
+Vatgrown
+	Host cannot reproduce normally, but has bonuses to being grown in a vat
+Egglaying
+	Host can reproduce by laying eggs
+Viviparity
+	Host can reproduce via live birth
+Hermaphroditism
+	Host can both fertilise and be fertilised
+Parthenogenesis
+	Host can produce spawn by themselves, without needing to be fertilised. (does not apply to pure fertilisers)
+Rapid Development
+	Host's spawn reach maturity faster than baseliners
+Haplo-Diploidity
+	Hosts that can be fertilised can produce fertiliser offspring parthenogenetically.
+Tox Cloud
+	Host can release toxic gas, poisoning those without immunity
+Virus Maker
+	Host can produce pathogens to infect enemies
+Parasitic Injection
+	Host can inject larval spawn into target. Birthing will kill target
+Web weaver
+	Host can weave webs, to be used for various purposes
+Metamorphosis Cocoon
+	Host can enter a cocoon where they can heal and reconfigure their body
+Cryptobiosis
+	Host can enter a coma where their biology is suspended, allowing them to survive prolonged periods without necessities of life

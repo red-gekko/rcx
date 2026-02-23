@@ -1,0 +1,667 @@
+Glossary:
+	Culture: Determines the cultural vibrancy of your nation. More Culture makes it easier to pass laws and amend the constitution. Less culture will reduce political engagement. Unorthodox religious sects are more likely to form in nations with high Culture.
+	Research: Determines the rate at which new technology can be discovered. Very low Research will result in technologies being lost.
+	Heresy: Non-approved sect. Heretics may not access orthodox religious services, and can be declared Pariahs in Theocracies.
+	Denomination: Approved sect. Shared Head of Faith doctrine.
+	Pariah: Citizen who has some form of illegal identity. Can be imprisoned like regular criminals. Depending on the identity, can have "special procedures" done to remove the Pariah identity.
+	Faction: A given ideology.
+	Party: A political group subscribing to a particular ideology and policy agenda.
+	Class: A group of individuals who occupy the same strata of society and perform similar duties.
+	Ruling Class: In unequal societies, a given class may reach high levels of political power. They have increased control, and can support their given ideological makeup more easily.
+	Ruling Faction: In unequal and authoritarian societies, a given Party can embed itself in the higher levels of government. They can manipulate government ministries and make demands of the Government.
+	Cabal: In particularly unequal and authoritarian societies, a given group of individuals can wield significant levels of control over the state. They are very likely to attempt Coups and Puppet Leader actions.
+	Business: An economic enterprise. Has policies which determine its behaviour. These are set by its Owner.
+	Megacorp: A privately owned Business whose economic activity is more than 20% of the entire economy becomes a Megacorp. Its Board of Directors will attempt to become a Cabal where possible.
+	Influence: How much control a government has over a given faction or class.
+	Support: How much a given faction or class supports the government.
+	Coup d'état: When a Leader has low Influence and Approval over a Ruling Class, Faction, or Cabal, they can launch a Coup d'état as a covert action. If successful, the Leader is deposed and a new one is selected by the given group. Authority will change to the most Authoritarian option that is available. It will at least become Oligarchy.
+	Puppet Leader: When a Leader has low Influence, but high Approval, with a Ruling Class, Faction, or Cabal, they can launch the Puppet Leader action. If successful, the Leader will no longer be able to apply a given policy without the consent of the Puppeteers. The Leader can remove this status by raising their influence with the Puppeteers. The Authority will change to be as close to Oligarchy as possible.
+	Puppet Group: When a Leader has very high Influence with a Ruling Faction or Cabal, they can launch the Puppet Group action. The given group will now support the Leader in all things, and will change their policy platform according to the Leader's specifications.
+	Revolution: When a Leader has very low Support within a given Faction, members of this faction may launch a Revolution. This will launch an event where the Leader can surrender, or begin a Civil War.
+
+
+
+Authority:
+	Anarchy
+		The citizenry holds direct power over society
+		Elections are not held. Instead, citizens can attend parliament freely to vote on legislation. There is no head of state. Government ministry policies are determined by the people.
+	Democracy
+		All citizens are eligible to vote, and the government is accountable to the people.
+		Elections held every 2-6 years. Representatives are elected to the Parliament, and they vote on legislation. The Leader can either be a President, who must personally win an election, or a Prime Minister, who must have the confidence of Parliament. The Leader can veto any law that does not have 66% of votes, at the cost of angering Parliament.
+	Oligarchy
+		Ruling class and political factions dominate this system.
+		Elections held infrequently. Representatives are elected to the Senate. Only government officials, nobility, and specific castes can vote. The Leader must hold the confidence of the Senate. The Leader can veto any law that does not have 66% of votes, at the cost of angering the Senate.
+	#Special: Aristocracy
+		A single ruler dominates this system, with nominally democratic institutions serving as advisory bodies.
+		Elections held infrequently. Representatives are elected to the Senate. Only government officials, nobility (if it exists), and specific castes (if they exist) can vote. The Leader is chosen by the Senate when the office is vacant. They can veto any law passed by the Senate. The Leader can designate a successor, giving them a large boost in the Senate based on the Leader's popularity.
+	Autocracy
+		A single ruler holds power in this system.
+		There is no legislative body. The Leader can change laws at will. Upon the Leader's death, a Senate will form from the ruling classes and elect a new Leader when the office falls vacant.
+	#Special: Hive Mind - Single Mind
+		The Hive Mind holds power over its drones
+		No elections. Policies can be implemented in the same manner as Autocracies. Sapient Drones require more control.
+	#Special: Hive Mind - Collective Link
+		The Hive Mind is merely the collective psyche of all its members.
+		Sapient Drones can freely vote on legislation, just like in Anarchy. They require less upkeep and are less likely to rebel. The Hive Mind can select normal Civics in addition to Hive Mind specific ones.
+
+
+Economics:
+	State-Owned
+		The government manages almost all economic activity.
+		Reduced economic efficiency. Can manually set policies for all businesses. Replace Managers with Bureaucrats.
+	Mixed Economy
+		The government owns certain industries, and regulates others.
+		Slightly reduced efficiency. Can purchase and privatise companies. Can manually set policies for owned businesses. Can set guidelines for all other businesses through Finance Ministry.
+	Regulated
+		The government does not own any parts of the economy, instead controlling it indirectly through regulation.
+		Slightly increased efficiency. Can set guidelines for businesses through finance ministry.
+	Free Market
+		The government is not involved in the economy beside light regulation and taxation.
+		Increased efficiency. Reduced tax income. Can only set guidelines for businesses through legislation.
+	#Special: Corporatocracy
+		The economy is largely dominated by a few megacorps, acting like feudal guilds.
+		Creates the Megacorp institution. Economic changes must be approved by the Megacorps. Megacorps can grant favours. They can be nationalised, though this will provoke them and potentially trigger a coup. In pre-Industrial societies, the Megacorp institution is replaced with the Guilds institution, though it functions largely the same.
+	#Special: Hive Mind
+		The Hive Mind manages the economy.
+		No internal economy. All resources available for use.
+
+Centralisation: (Only valid for Independent states and Dominions).
+	Sovereign Union
+		The Government only exercises sovereign authority over the capital region - other regions are free to do as they please.
+		Cannot hold territory beyond capital region. Instead of annexing or founding regions, puppet states with the Dominion authority are set up to govern them. 
+	Confederation
+		The nation is composed of several member states with significant internal authority.
+		Cannot hold territory beyond the capital region. Instead of annexing or founding regions, puppet states with the Vassal authority are set up to govern them.
+	Federal State
+		The nation is composed of several member states with some internal authority.
+		All regions outside of the capital have Governors who manage the region autonomously. They can be overruled, but this will increase resentment in the region.
+	Unitary State
+		The nation is composed of itself alone - it is one.
+		The state has full authority over all regions, and must set governing policies manually. Governors can be assigned through the Devolve State legislative act.
+	#Special: Hive Mind
+		The Mind controls all its territory
+		Mostly the same as Federal State. Governors are replaced with Synapse Drones, and these can be overruled without penalty.
+
+Autonomy: (Set by overlord, only applies to puppet states)
+	Independent State
+		This nation is a sovereign state, able to set its own laws free of outside interference.
+		Stops being a puppet, if it is one. If this was applied by the Declare Independence action, Overlord gains the Rebellious Puppet casus belli.
+	Dominion
+		This nation is a largely independent state, swearing fealty to its overlord largely in name only.
+		Can set own laws without Overlord approval, but must remain in Overlord's Bloc, and Trade, Foreign Policy, and Migration Laws are still set by Overlord.
+	Protectorate
+		This nation is largely subsidised by another, and is unable to set its own laws fully.
+		Can set own laws, but the Overlord can overrule them freely. Must remain in Overlord's Bloc. Cannot refuse Overlord's Demands as long as Overlord Control is higher than national support for Independence.
+	Vassal
+		This nation exists as a subset of another.
+		Cannot set own laws. Cannot refuse Overlord's Demands. Must remain in Overlord's Bloc. Must either be granted more independence by Overlord, or Secede (can only be done with an active independence movement taking control).
+
+Stratification:
+	Egalitarian
+		Regardless of the circumstances of a citizen's birth, they are all equal under the law.
+		Citizens are all legally equal.
+	Earned Franchise
+		Citizenship is a reward for passing some goal.
+		Can set a requirement for full citizenship (military service, civic education, wealth, elder status, land ownership, etc). Only Full Citizens can engage in politics.
+	Nobility
+		All are equal before the law, but some are more equal than others.
+		Particularly wealthy families can be established as nobility, granting them extra privileges and increasing their support.
+	Caste System
+		The circumstances of one's birth will determine their place in the world.
+		Can establish Castes and assign families to them. Members of a Caste can only work certain jobs, and can have their money manually distributed. Certain groups can be selected for automatic caste assignment. Can ban inter-caste marriage. If a caste is left alone for long enough and is not interbreeding, a new mutant species has a chance to form in this Caste.
+	#Special: Hive Mind - Drone Castes
+		The Mind specialises its Drones for certain tasks.
+		Different Drone templates are selected for different Castes, i.e. Worker, Soldier, etc. Sapient Drones are unaffected.
+
+
+Welfare:
+	Equal Society
+		The government seeks to ensure equal living standards across society.
+		Money is automatically distributed equally among citizens. Through the Finance Ministry, can institute a Universal Income which is taken from the treasury and divided equally among citizens.
+	Universal Income
+		The government supplies all people with a wage
+		Citizens will automatically have their money kept above subsistence levels, when possible. Through the Finance Ministry, can institute a Universal Income which is taken from the treasury and divided equally among citizens.
+	Welfare State
+		The government seeks to support its poorest citizens.
+		Citizens will automatically have their money kept above subsistence levels, when possible.
+	Social Darwinism
+		The government takes no interest in helping the poor.
+		Citizens must provide for their own upkeep, or die. Poorhouses can be constructed.
+	#Special: Hive Mind
+		All drones live and die in service to the Mind.
+		Drones access upkeep resources according to their priority. Sapient Drones get first dibs regardless.
+
+Religion:
+	State Atheism
+		The government has banned all religion.
+		Disables all religious buildings. Clergy automatically become Pariahs. Pariah Clergy can be forcibly "re-educated", making them Atheist. Non-atheists can be declared Pariah in non-Democracies. Civic Faiths can be permitted or promoted by the government, and freely edited regardless of Head of Faith doctrine, creating new Sects. Certainty in promoted Civic Faiths is reduced.
+	Secularism
+		The government enforces separation of church and state.
+		No effect. A civic faith can be adopted as a State Religion, but Heretics cannot be discriminated against.
+	Moralism
+		The government has an official state religion, but does not discriminate against most faiths.
+		Upon enactment, select a specific religion to adopt. Can declare Heretical sects as "Subversive", making members Pariahs
+	Theocracy
+		The government promotes a specific religion as the truth.
+		Research rate halved. Culture income halved. Upon enactment, select a specific religion to adopt. Can declare Heretics to be Pariah. Pariah Heretics can be forcibly converted.
+	#Special: Hive Mind
+		The Hive Mind is everything to its drones.
+		Drones do not follow a religion.
+
+Religious tenets:
+	Changes must be approved by Head of Faith, where present.
+	Theism:
+		Civic Faith
+			This faith does not worship the supernatural, but instead venerates social and philosophical ideals.
+			Members of this faith are far less likely to become rebels or criminals
+		Pantheistic
+			This faith worships a universal force, rather than personal gods.
+			Reduces the penalty to scientific and cultural development.
+		Polytheistic
+			This faith worships several gods.
+			Can devote clergy, sermons, and buildings to particular gods for bonuses
+		#Special: Monolatric
+			This faith acknowledges several gods, but only worships one.
+			Special doctrine for Monotheistic Denominations of Polytheistic faiths. A god from the parent faith's pantheon is selected.
+		#Special: Henotheistic
+			This faith only acknowledges one god, but venerates several divine subordinates.
+			Special doctrine for Polytheistic Denominations of Monotheistic faiths. The parent faith's god is selected as this faith's High God
+		Monotheistic
+			This faith worships a singular god.
+			Reduces chances of new sects forming.
+		#Special: Atheist - None
+			This philosophy rejects the existence of the Divine.
+			No effect
+		#Special: Truth of the High Gods
+			This faith has made contact with the High Gods and learned the truth.
+			Pantheon is set to match the High Gods. Prayers are more effective. Reduced penalty to research and culture.
+	Afterlife: (note: Seances are Psions who can communicate with the dead.)
+		None
+			This faith believes that when an individual dies, their conscious experience ends.
+			Disables Seances. Significantly reduces the cost of funerals.
+		Reincarnation
+			This faith believes that the souls of the dead return in new forms.
+			When a character dies, Seances can seek out their new form. If sapient, they will gain some of their previous life's skills.
+		Eternal Life
+			This faith believes that the souls of the dead pass on to another world.
+			Seances can contact specific dead people for certain bonuses. Necromancers can summon ghosts back from the dead.
+		Communion
+			This faith believes that the souls of the dead join with each other.
+			Seances can contact the One Soul for certain bonuses. These bonuses improve as more members of this faith die.
+		#Special: Yothmar's Domain
+			This faith knows the truth of the Afterlife.
+			Seances can perform all 3 above rituals.
+	Nature:
+		Worship
+			This faith believes that the natural world is divine, and sapient mortals should protect it.
+			Members of this faith are significantly more likely to join the Environmentalist faction. They produce far less pollution day-to-day, and require less upkeep.
+		Harmony
+			This faith seeks to live in balance with the natural world.
+			Members of this faith are slightly more likely to join the Environmentalist faction.
+		Indifference
+			This faith takes no postiion on the natural world.
+			No effect.
+		Dominion
+			This faith sees sapient life as having dominion over the natural world.
+			Members of this faith are significantly more likely to join the Industrialist faction. They have greater industrial output.
+	Meaning of Life:
+		Happiness
+			The meaning of Life is to be happy.
+			Members of this faith are 1.5x as happy as they would usually be. They will visit entertainment buildings more often.
+		Enlightenment
+			The meaning of life is to achieve deep understanding.
+			Members of this faith have much greater research and culture output.
+		Duty
+			The meaning of life is to perform the duties you have been given without complaint.
+			Members of this faith are less likely to become rebels or criminals. Their job performance is increased slightly.
+		Submission
+			The meaning of life is to submit to and serve the Divine.
+			Members of this faith have massively increased Certainty in it, making them far less likely to join heretical sects. They will join Missionary Orders whenever able to. If Clergy exist, members of this faith have massively increased opinion of them.
+		#Special: Atheist - None
+			Life has no inherent meaning beyond that which we assign it.
+			No effect.
+	Sapient Morality:
+		Divine Spark
+			All people have a piece of the Divine in them, and are inherently divine themselves.
+			Members of this faith have a slightly increased Luck attribute.
+		Inherently Good
+			Whle some people are evil, all people have an inherently decent nature that must be corrupted to produce true evil.
+			Members of this faith are somewhat happier. They engage in social interaction more freely. 
+		Neutral
+			People are shaped by their nurture - no one is born good or evil.
+			No effect.
+		Inherently Sinful
+			All people have an inherently sinful nature that can only be escaped through rigourous devotion.
+			A member of this faith's likelihood of becoming a criminal is tied to their Certainty. Their opinion of those with lower devotion in the faith is reduced.
+	Indulgence: (These effects do not apply to slaves)
+		Ascetism
+			This faith believes simple living is the key to divinity.
+			Members of this faith will consume fewer resources. Their opinion of wealthy people is reduced.
+		Natural
+			This faith has no opinion on social consumption.
+			No effect.
+		Extravegance
+			This faith believes that indulging in consumption is natural and normal.
+			Members of this faith will visit entertainment buildings more often. Their consumption is increased. Their happiness is increased.
+		Opulence
+			This faith believes that people should not reject their desires.
+			Members of this faith will visit entertainment buildings as much as possible. They will have a significant happiness bonus when unemployed. Their consumption is significantly increased. Their happiness is doubled.
+	Tolerance:
+		Pluralist
+			This faith accepts other religions as equally valid.
+			Other faiths are automatically accepted as valid Denominations. Reduces the penalty to scientific and cultural development. Increases the chance of new sects forming.
+		Ecumenical
+			This faith accepts most deviations as acceptable.
+			Other faiths are automatically accepted as valid Denominations, but the Head of Faith can declare a given faith heretical. Slightly inreases the chance of new sects forming.
+		Denominational
+			This faith has a mainstream orthodoxy, but accepts some sects as valid.
+			Other faiths are automatically declared Heresies, but the Head of Faith can accept a given faith as a valid Denomination. Slightly reduces the chance of new sects forming.
+		Fundamentalist
+			This faith does not accept any deviations as valid.
+			Significantly reduces the chances of new sects forming. All sects are automatically Heresies.
+	Head of Faith:
+		None
+			This faith does not have any leading figure to define doctrine.
+			Significantly increases the chances of new sects forming. Creates the Divine Assembly institution. Members of this faith can freely vote on doctrinal changes. Must have Clergy: None.
+		Popular
+			This faith's doctrine is determined by its believers.
+			Creates the Divine Conclave institution for this faith. The Divine Conclave is identical to the Parliament institution in function and election, and votes on Doctrinal changes.
+		Conclave
+			This faith has a group of senior clergy to define doctrine.
+			Creates the Conclave institution for this faith. The Conclave is identical to the Senate in form and election. Its members are voted on by the faith's Clergy. The Conclave votes on doctrinal changes. Can influence members similarly to legislatures.
+		#Special: Collegiate
+			This faith has a single High Priest to define doctrine, with group of senior clergy serving as advisors.
+			Creates the Conclave institution for this faith. The Conclave is identical to the Senate in form and election. Its members are voted on by the faith's Clergy. Creates the High Priest position for this faith. The Conclave decides doctrinal changes. The High Priest can veto any law passed by the Conclave. When the High Priest position is vacant, the Conclave will elect one of their own as High Priest.
+		Papacy
+			This faith has a single High Priest to define doctrine.
+			Creates the High Priest position for this faith. The High Priest decides doctrinal changes. If the High Priest is ruler of an independent state, the title passes down according to that realm's Authority laws. Otherwise, the title passes down to a designated successor, like in Autocracies.
+	Missions: (local chapters can change without approval) (Note: Missionary Orders can be formed on points other than the selected, but they will have only 50% efficiency.)
+		Almsgiving
+			This faith's missionaries will try to help the needy and destitute.
+			Missionary Orders will support citizen's upkeep needs, starting with the worst-off first. Will not attend to Heretics.
+		Affirmation
+			This faith's missionaries will try to reinforce the faith of their fellows.
+			Missionary Orders will increase the faith of existing members, while reducing their Unhappiness
+		Evangelism
+			This faith's missionaries will try to spread the Good Word.
+			Missionary Orders will try to convert Heretics where possible
+		Conquest
+			This faith's missionaries will spread the faith by the sword.
+			Missionary Orders will form and join Militant Orders. Theocracies can recruit Crusaders from them. They will target Heretics and kill them. In Theocracies, they will also target Pariahs and Criminals.
+	Clergy: (Note: Lay Clergy are 50% less effective than ordained clergy)
+		None
+			This faith believes in a universal priesthood, and therefore eschews the need for clergy.
+			No clergy present. Must have Head of Faith: None or Popular.
+		Lay Clergy
+			This faith sees great piety in the common man, and allows those of exceptional faith to lead their siblings.
+			Members of this faith will become clergy automatically based on their devotion to the faith.
+		Mixed
+			This faith sees great piety in the common man, but also believes that rigorous theological study is needed for the higher-ups.
+			Lay Clergy can be recruited by Ordained Clergy. Lay Clergy only have 25% less effectiveness.
+		Ordained Clergy
+			This faith believes that only through rigorous theological education can the clergy be founded.
+			Clergy must be ordained by Seminary Schools. Seminaries and Monasteries have increased efficiency to compensate.
+	Idolatry and Church:
+		None
+			This faith believes that the Divine can be found anywhere, and sees idols and churches as blasphemous.
+			No religious buildings allowed. Cannot commission Icons.
+		Iconoclasm
+			This faith sees religious icons as blasphemous.
+			Cannot commission Icons.
+		Dedication
+			This faith sees the creation of Icons as holy work.
+			Can commission Icons.
+		Grandeur
+			This faith sees magnificent churches as divine places.
+			Increases both the cost and effectiveness of religious buildings.
+	Temporal Authority:
+		Temporal Supremacy
+			This faith believes that obeying the laws of the government is very important.
+			Members of this faith are less likely to become rebels or criminals. The higher their Certainty in this faith, the less likely.
+		Non-Overlapping Magisteria
+			This faith believes that the secular and spiritual are separate.
+			No effect.
+		Religious Politics
+			This faith has a vision of the ideal government.
+			The faith now has doctrine options for all constitutional topics. Believers will support the implementation of these laws. 
+		Spiritual Supremacy
+			This faith demands that Temporal authority submit to the Divine.
+			In addition to the above, this faith must support Theocracy. If this faith is not the state religion, believers will become angry and more likely to rebel. If the government is a Theocracy with this faith or a valid denomination as the state religion, members of this faith will be massively less likely to rebel, and will provide major approval gains. Rebel groups of this Faith will have majorly improved relations with Theocracies of this faith, allowing Theocracies to Puppet these groups much more easily. 
+
+
+
+Culture:
+	Revolutionary
+		The government seeks a radical change in society
+		Significantly increases research rate and culture income. Citizens are more likely to join Progressive factions. Unhappy citizens are more likely to become rebels.
+	Progressive
+		The government promotes a futurist movement.
+		Increases research rate and culture income. Citizens are more likely to join the Secularist, Reformist, Socialist, Augmentationist, Mutationist, Mechanist, Pro-Psychist, Globalist, Pacifist, Environmentalist, and Xenoist factions.
+	Uninvolved
+		The government does not seek to actively shape culture.
+		No effect.
+	Reactionary
+		The government promotes a reactionary return to the past.
+		Reduces research rate and culture income. Citizens are more likely to join the Religious, Authoritarian, Capitalist, Purist, Naturalist, Organicist, Anti-Psychist, Nationalist, Militarist, Industrialist, and Xenophobic factions.
+	#Special: Hive Mind
+		The Mind shapes itself.
+		Factions do not exist within the Mind. Sapient Drones are highly unlikely to rebel. Loyal drones to not commit crime. Rebel drones leave the Mind, becoming Pariahs.
+
+Warfare:
+	Pacifist
+		The government renounces war as a means of conducting itself.
+		Cannot declare wars. Improves relations with neighbours and major powers.
+	Defensive
+		The government invests in the military for defence.
+		Can only declare wars against Warmonger countries or Convention Breachers.
+	Interventionist
+		The government views war as a legitimate tool of international relations.
+		Can declare wars against Warmongers, Convention Breachers, and Rivals.
+	Belligerent
+		The government regularly looks for opportunities to declare war.
+		No restrictions on war declarations. Harms relations with neighbours and majors.
+
+Army:
+	Disarmed
+		The government does not maintain any armed forces
+		Does not have an army. Can still raise defensive forces if "Militarised Police" or "National Militia" laws are passed, but cannot deploy outside of borders.
+	Professional
+		The government maintains a force of voluntary soldiers.
+		Enables the "soldier" job at military buildings. Vacancies are filled based on individual's Militarist sympathies. Improves Soldier Morale.
+	Conscription
+		The government will draft citizens in times of war.
+		When at war, vacancies in the military will be filled by citizens automatically. Can mark some jobs as "essential", which will prevent citizens from leaving them to join the military.
+	Militarised Society
+		The government considers armed service to be a duty of all citizens.
+		All citizens must undergo basic training in the army. Military vacancies will be filled, even when not at war.
+	#Special: Hive Mind
+		Specialised combat drones are deployed in battle.
+		A drone caste must be selected for combat duty. They will only perform combat duties. Non-combat drones can be drafted, but will suffer penalties when deploying outside of borders. Sapient Drones can be drafted without penalty.
+	#Special: Caste System
+		Our warrior people will lead us to victory.
+		A social caste must be selected for combat duty. They will only perform combat duties. Non-warrior citizens can be drafted, but will suffer penalties when deploying outside of borders.
+
+Trade:
+	Free Trade
+		The government seeks to increase its trade volume.
+		Trade happens automatically.
+	Regulated
+		The government seeks to keep control over its trade volume
+		Can impose tariffs on different goods.
+	Protectionist
+		The government seeks to avoid reliance on trade.
+		Trade deals must be manually assigned.
+	Closed
+		The government does not trade with foreign nations.
+		No trades, except for ones guaranteed by treaty.
+
+
+Foreign Policy:
+	Collaborative
+		The government eagerly seeks partnerships with other countries.
+		Improves relations with neighbours and major powers. Reduces requirements to join or form blocs. Increased immigration rate.
+	Pragmatic
+		The government sees diplomacy as a means to an end.
+		-33% Foreign Ministry upkeep
+	Selfish
+		The government seeks to further its own interests above all others.
+		Harms relations with neighbours and majors. Cannot join pre-existing blocs. Reduced cost to influence minor nations. Reduced immigration rate.
+	Isolationist
+		The government does not seek relationships with other countries.
+		Cannot have Free Trade. Increased cost to influence other nations. Much harder for foreign spies to infiltrate. Reduced immigration rate. Cannot join or form blocs.
+
+Migration:
+	Open Borders
+		The government does not distinguish between peoples of different nations.
+		All non-Pariah immigrants automatically become Citizens. Undocumented immigration is not a crime. Immigration rate is significantly increased. Immigrants are far more likely to support the government. Refugees are far more likely to settle here.
+	Freedom of Movement
+		The government promotes free travel between itself and friendly states.
+		Migration is only restrictable for Rival and Warmonger states, or against Pariahs. People from nations we share a bloc with will become citizens. Other foreigners can become citizens through specific policies set by the Foreign Ministry.
+	Regulated
+		The government views migration as something to be controlled carefully.
+		Can restrict immigration from specific countries, which harms relations. Can ban certain groups from entry. Refugees are far less likely to settle here. Immigration rate is reduced. Citizenship policy is set by the Foreign Ministry.
+	Closed
+		The government does not permit the movement of people accross its border.
+		All immigration banned. All entrants are illegal immigrants. Can declare people from foreign nations to be Pariahs. Foreigners cannot obtain citizenship.
+
+
+
+(Note: "Pariah" is an individual whose existence is illegal. They can be "Normalised" in certain cases.)
+
+Psionics:
+	Supreme
+		The government views psionic power as a prerequisite for sapience.
+		All non-psions become Pariahs. Non-psions can be "Uplifted" (makes them psionic).
+	Exalted
+		The government views psions as possessing amazing power.
+		No restrictions on use of psionics.
+	Regulated
+		The government views psionics as both useful and dangerous.
+		Untrained psions automatically become Pariahs. Pariah psions can either be "nullified" (removes their psionic power) or "sanctioned" (trains and indoctrinates them). Psionic academies gain double efficiency.
+	Despised
+		The government views psionics as dangerous enemies.
+		All psions automatically become Pariahs.
+	#Special: Hive Mind - Synapses
+		The Mind is guided by its Synapse Drones
+		In Minds with Psionic links, Drones with Psionic power increase the population control limit.
+	#Special: Hive Mind - Antipathy
+		The Mind does not permit the practice of Psionics.
+		In Minds without Psionic links, all Psions become Pariahs.
+
+Gene-mods:
+	Supreme
+		The government views those with genetic enhancements as supreme beings.
+		All organic citizens without gene-mods become Pariahs. Non-gene-mods can be "Uplifted" (adds random gene-mods). Some mods can be marked as mandatory.
+	Exalted
+		The government views genetic modification as the next step in evolution.
+		No restrictions on use of gene-mods.
+	Regulated
+		The government views genetic modification as both useful and dangerous.
+		Specific gene-mods can be banned, making all users Pariahs. Pariah gene-mods can be "de-powered" (removes illegal mods)
+	Despised
+		The government views genetic modification as unnatural and immoral.
+		All gene-mods automatically become Pariahs. Genetically modified animals and crops must be approved via legislation.
+	#Special: Hive Mind
+		The Mind controls the development of its Drones
+		Organic drones can be freely modified
+
+Mutants: ("baseliners" are majority population. "mutants" are subspecies thereof)
+	Celebrated
+		The government sees mutants as bringing great diversity.
+		Reduces tension between mutants and baseliners (baseliners less likely to join Purist and Xenophobic factions). Mutants are more likely to support the government. Slightly increases chance of new mutant breeds developing.
+	Accepted
+		The government sees mutants as equal to everyone else.
+		No restrictions on mutants.
+	Suspicious
+		The government sees mutants as a potential threat.
+		Specific mutant breeds can be banned, making all members Pariahs.
+	Outcast
+		The government sees mutants as disgusting.
+		All mutants automatically become Pariahs. 
+	#Special: Hive Mind
+		The Mind develops castes as it pleases.
+		Organic Drones do not mutate randomly, instead they are modified via gene-mods into new castes.
+
+Aliens: ("natives" are the majority/plurality population. "aliens" are minority populations.)
+	Celebrated
+		The government sees aliens as honoured guests.
+		Reduces tension between aliens and natives. Aliens are more likely to support the government. Improves relations with Alien nations. Increases Alien immigration.
+	Welcomed
+		The government sees aliens as equal to everyone else.
+		Alien species are treated like everyone else.
+	Feared
+		The government sees aliens as a potential threat.
+		Individual alien species can have different rights, set by legislation. Unapproved aliens automatically become Pariahs.
+	Inferior
+		The government sees aliens as unworthy of rights.
+		All aliens automatically become Pariahs.
+	#Special: Hive Mind
+		Those outside of our Mind cannot be trusted.
+		Non-drones automatically become Pariahs. They can be "Sublimated" (turns them into drones).
+
+
+Cyborgs:
+	Supreme
+		The government sees cybernetic augmentation as a necessary upgrade.
+		All organic citizens without cybernetics become Pariahs. Non-cyborgs can be "Uplifted" (adds random augmentations). Some mods can be marked as mandatory.
+	Favoured
+		The government sees cybernetic augmentation as the next step in evolution.
+		No restrictions on cybernetics.
+	Permitted
+		The government sees cybernetics as a tool that must be controlled.
+		Specific cybernetics can be banned, making all users Pariahs. Pariah Cyborgs can be "de-powered" (removes illegal mods)
+	Outlawed
+		The government sees cybernetic augmentation as immoral.
+		All cybernetic techs are banned. All cyborgs automatically become Pariahs.
+	#Special: Hive Mind - Fusion
+		Resistance is Futile.
+		Robotic Hive Minds can perform Sublimation on Organics. Organic Hive Minds can perform Sublimation on Robots. Organic drones can be freely modified.
+	#Special: Hive Mind - Flesh Alone
+		The Mind does not abide in silicon.
+		Cyborgs are automatically hunted down and destroyed (only available to organic Minds)
+	#Special: Hive Mind - Steel Alone
+		The Mind does not abide in flesh.
+		Cyborgs are automatically hunted down and destroyed (only available to robotic Minds)
+
+Robots: (only available to Organic main species)
+	Citizenship
+		The government views sapient AI as legal persons with civil rights.
+		Intelligent robots become citizens.
+	Servitude
+		The government views robots as tools, regardless of how intelligent they may be.
+		Intelligent robots are automatically enslaved, regardless of Slavery law.
+	Nonsapient
+		The government views sapient AI as an existential threat.
+		Intelligent robots may not be constructed. All intelligent robots become Pariahs. Pariah robots can be "Reprogrammed", removing their intelligence.
+	Banned
+		The government views robots as dangerous.
+		Robots, intelligent or not, may not be constructed. All intelligent robots become Pariahs. If Cyborg law is Supreme, Favoured, or Permitted, can build Servitors.
+	#Special: Hive Mind - Cybernetic
+		The Mind accepts machine into itself.
+		Robots can be sublimated.
+	#Special: Hive Mind - Flesh Alone
+		The Mind does not abide in silicon.
+		Robots are automatically hunted down and destroyed.
+
+Organics: (only available to Robotic main species)
+	Citizenship
+		The government views organic beings as legal persons with civil rights.
+		Intelligent organics become citizens.
+	Servitude
+		The government views organic beings as tools, regardless of how intelligent they may be.
+		Intelligent organics are automatically enslaved, regardless of Slavery law.
+	Nonsapient
+		The government views sapient organics as an existential threat.
+		All intelligent organics become Pariahs. Pariah organics can be "lobotomised", removing their intelligence.
+	Banned
+		The government views organic life as dangerous.
+		Organic life, intelligent or not, is automatically terminated. All intelligent organics become Pariahs. If Cyborg law is Supreme, Favoured, or Permitted, can build Servitors.
+	#Special: Hive Mind - Cybernetic
+		Organics will join with the Mind.
+		Organics can be sublimated.
+	#Special: Hive Mind - Steel Alone
+		The Mind does not abide in flesh.
+		Organics are automatically hunted down and destroyed.
+	(note: if this law is set to Citizenship and Cyborg law is Supreme, then unaugmented organics are still classed as Pariahs)
+
+
+Pariahs: (Can be set for each Pariah category)
+	Assimilation
+		Pariahs should be integrated into society.
+		Pariahs must report for Normalisation wherever possible.
+	Underclass
+		Pariahs are relegated to the bottom of society
+		All Pariahs lose citizenship automatically.
+	Segregation
+		Pariahs are dangerous, and must be kept separate from us
+		In addition to the above, Pariahs must live in special districts assigned to them, and may not leave.
+	Purging
+		Pariahs are not people, and do not deserve rights.
+		In addition to the above, and regardless of any other laws, Pariahs can be imprisoned, enslaved, deported, or executed freely. Crimes committed against Pariahs are not prosecuted.
+	#Special: Hive Mind - Coexistence
+		Non-drones can exist with us so long as they are not a threat.
+		Pariahs that have not committed any crimes are permitted to live among us.
+	#Special: Hive Mind - Absorption
+		All must join with the Mind.
+		Pariahs must report for Sublimation wherever possible. They will become Sapient Drones.
+	#Special: Hive Mind - Destruction
+		Those outside of the Mind must be destroyed.
+		All Pariahs are automatically hunted down and killed.
+
+
+Imprisonment:
+	Rehabilitation
+		The government does not imprison subversives, instead sending them through rehabilitative schools.
+		Cannot construct prisons. Criminals are housed in Rehab Centres instead.
+	Major Penal
+		The government views imprisonment as an acceptable punishment for major crimes.
+		Major criminals can be imprisoned
+	Penal
+		The government views imprisonment as an acceptable form of punishment.
+		Can imprison criminals. Criminals are freed at the end of their sentence.
+	Allowed
+		The government views imprisonment as a sovereign right of the state.
+		Can imprison any non-citizen, criminal, or Pariah. Can target entire groups for automatic imprisonment.
+	#Special: Hive Mind
+		The Mind does not need to detain.
+		Cannot construct prisons, as no criminals exist.
+
+
+Citizenship Revocation
+	Outlawed
+		Citizenship is a right that cannot be revoked.
+		No citizen can lose their citizenship.
+	Major Penal
+		Citizenship is a right that is only invalidated by horrific crimes.
+		Can revoke the citizenship of major criminals.
+	Penal
+		Citizenship is a right that is attached to responsible law-abiding behaviour.
+		Can revoke the citizenship of criminals.
+	Allowed
+		Citizenship is bestowed by the state, and the state has the right to revoke it.
+		Citizens can have their citizenship taken away without restriction. Can target entire groups for automatic revocation.
+	#Special: Hive Mind
+		The Mind accepts all within, and none without.
+		Citizenship is replaced with Drone status.
+
+Slavery:
+	Outlawed
+		The government views slavery as deeply immoral.
+		Cannot enslave anyone.
+	Penal
+		The government views slavery as an acceptable form of punishment.
+		Can enslave criminals. Slaves are freed at the end of their sentence.
+	Indenture
+		The government views slavery as a means to pay off debt.
+		Can enslave criminals and poor people. Slaves are freed once they pay off their debts (calculated by their current financial situation).
+	Allowed
+		The government views slavery as a fact of life.
+		Can enslave any non-citizen, criminal, or Pariah. Can construct Slave Markets. Can target entire groups for automatic slavery. Individuals lose their citizenship upon enslavement, regardless of Revocation law.
+
+Deportation:
+	Outlawed
+		The government sees deportation as wrong.
+		Cannot deport anyone.
+	Major Penal
+		The government sees deportation as an acceptable form of punishment for major crimes.
+		Can deport major criminals. Individuals lose their citizenship upon deportation, regardless of Revocation law.
+	Penal
+		The government sees deportation as an acceptable form of punishment.
+		Can deport criminals. Individuals lose their citizenship upon deportation, regardless of Revocation law.
+	Allowed
+		The government sees deportation as a sovereign right of the state.
+		Can deport any non-citizen, criminal, or Pariah. Can target entire groups for automatic deportation. Individuals lose their citizenship upon deportation, regardless of Revocation law.
+
+Executions:
+	Outlawed
+		The government sees execution as barbaric.
+		Cannot execute anyone.
+	Major Penal
+		The government sees execution as an acceptable form of punishment for the most despicable crimes.
+		Can execute major criminals.
+	Penal
+		The government sees execution as an acceptable form of punishment.
+		Can execute criminals.
+	Allowed
+		The government sees execution as a sovereign right of the state.
+		Can execute any non-citizen, criminal, or Pariah. Can target entire groups for automatic execution. 

@@ -45,13 +45,13 @@ CHAPTER
 
 ______________________________
 SCENE
-	The room was dark. An older man, with grey hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore from his eyesockets down his cheeks, like running mascara. His irises were a pale grey.
-	"Gentlemen." he began. His accent was from Georgia - the state, not the nation - and at once sounded like honey and sulphur. "Thank you for taking the time to attend this meeting."
+	The room was dark. An older man, with grey hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore down his cheeks, like running mascara. His irises were a pale grey.
+	"Gentlemen." he began. He spoke with a Virginian accent - and at once sounded like honey and sulphur. "Thank you for taking the time to attend this meeting."
 	"Commandant." an implacable voice growled from the speakers. "You have a lot of nerve."
 	"Enough. What's done is done." cut in a second voice. An older, upper-class accent was palpable, even through the modulation. "I have spoken with our friends in Geneva - no further action will be taken."
 	"The operation was a success." the Commandant protested.
 	"Oh it was, was it?" the first voice scowled.
-	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Switzerland's long tradition of direct democracy has always limited our influence. By provoking public fear, we can herd the sheep into our pens."
+	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Federal Police will butt heads with UN Security, and Interpol will be completely ineffective. Switzerland's tradition of direct democracy has always limited our influence... By provoking public fear, we can herd the sheep into our pens."
 	"And the WHO?"
 	"Placated. We've pinned the attack on Romand separatists." he answered. "What matters now is reminding Dr. Zhou of his... obligations."
 	"Oh, he will be reminded alright... I can *assure* you of that, sir." the Commandant scowled.
@@ -60,7 +60,7 @@ SCENE
 	"Excellent." the first voice audibly grinned. "Our associates in America should be pleased. Gordon, how fare our proxies in the third world?"
 	"Quite well, quite well." the aristocrat replied. "Western backing of the Somali coup has opened up the nation's oil reserves to our backers, and by extension, us."
 	"And how about your group, Commandant?"
-	"We work ever closer to the Final Victory, sir." the Commandant said, almost defiantly.
+	"We work ever closer to the Final Victory, sir."
 	"Indeed, indeed." the first voice replied dismissively.
 	"Don't forget who pays your wages, Commandant." the aristocrat added hastily. "Your... 'ideological inflexibilities' had better not impair our operations."
 	"Of course not, sir." the Commandant nodded, his lip curling silently.
@@ -84,7 +84,7 @@ SCENE
 	"Morland - you have your orders," he continued. "Damn the board to hell, Progeny will be mine. And soon, you shall have more supply than you can dream of."
 	"Excellent, sir." Morland gleefully replied. "Hail Victory."
 	"Hail Victory, sir." Randall added.
-	"Hail Victory." the Commandant nodded. He cut off the call, and lit a cigar. He took a long drag, and smiled devilishly.
+	"Hail Victory." the Commandant nodded. He switched off his computer, and lit a cigar. He took a long drag, and smiled devilishly.
 
 Conspiracy prologue
 ______________________________
@@ -116,7 +116,7 @@ Connor intro
 ______________________________
 SCENE
 	It was a normal day for A&O Repairs. The scent of oil and old coffee hung in the air. A car with a broken radio was positioned in the repair bay, the news broadcast being spat out in garbled syllables.
-	"--paratist forces--eiged the capital--housands wounded--"
+	"--paratist forces--eiged the capital--eaving thousands woun--"
 	Connor climbed into the car and gave the radio a whack. A whirring noise came over the speaker. He opened the glovebox, and plugged in a small device. The tone shifted from high, to low, to higher, to lower. Then, a click. Another click.
 	"Connor? You got it yet?" Trey called out, peeking his head from the open bonnet. He was a lean, muscular guy with dark skin, brown eyes, and a chinstrap beard framing his grin. His dreads were tied up in a high ponytail, the fade at the sides catching the light when he moved. A couple of locks were too short to be tied up, and instead dangled freely at his temples. He was wearing mechanic's overalls, which were almost spotless. His voice was the platonic ideal of a working-class English boy - he had strong Cockney and Estuary influences, but with enough Devon elements to make it his own.
 	"Nearly." Connor replied. He fiddled with his device, and then - a loud beep.
@@ -3941,6 +3941,36 @@ CHAPTER
 
 ______________________________
 SCENE
+	Autumnal evenings in Drackhill were often grim, and tonight's, it seemed, would be no different.
+	The sky gods had clearly decided to add some variety to the valley's night - you could almost feel their laughter as hail crashed down from the heavens.
+	Despite this, the city still needed its monstrous heroes. No rest for the virtuous, it seemed.
+
+	"*DIE!*" Connor screamed, delivering his blade right into a battered Super-Agent's heart. At the same time, Sparky's jaws tore the head off another, while a satisfying *KK-BOOM!* noise punctuated Ivan's sniper fire.
+	"Command, this is Zulu 7! We're pinned down here! Need reinforcements!" one Agent barked into his radio, just before the twin Werewolves pounced on him. In moments, they reduced him to paste.
+
+	Just outside the city, in an armoured van, sat a radio operator, hearing the screams of his field agents. The black veins around his eyes darkened with mutant adrenaline.
+	"HQ, this is Command Post 8-4. Request deployment of Crusader unit."
+	"HQ copies. Crusader unit en-route."
+
+	The bullet slammed right into Connor's head, making his ears ring as he stumbled backwards.
+	The shooter grinned, but not for long - Ivan's return fire made his head pop like a grape.
+	"Connor! Are you okay?" Sparky asked, rushing over.
+	"I'm fine, buddy." Connor smiled, forcing himself to rise. "Looks like that's all of them."
+	"Nice work, tovarishchi." Ivan praised over the radio.
+	The hail came down heavier, now, as the ruins of the field post fell eerily quiet.
+	"Come on, let's see what they've got." Connor beckoned, as the trio advanced into the site. Upon entering, they saw a host of crates.
+	The two Werewolves sniffed the air, and nodded.
+	"Serum." Connor noted. "Shitloads, too."
+	"Enough to build an army." Ivan said grimly, stroking his beard. "I'd love to know where they get it from."
+	"It's our blood." Connor shrugged. "Or at least, it smells like it. There are certain scents that normal blood doesn't have. The Agents have the same smells, just in a smaller amount. God knows where they're getting our blood from, though."
+	"Fascinating..." Ivan cocked an eyebrow, before cracking a crate open. "But even aside from that... where are they getting the soldiers from? It's not like we're fighting Afrikaners - these aren't Paladin mercs, they're locals."
+	"Two options, I guess." Connoe began. "Either they're skinheads, or former soldiers themselves."
+	"God knows." Ivan sighed, before placing down some C4 charges. The trio cleared the room, and Ivan pulled his detonator.
+	Immediately, the post went up in smoke, before the flames died down. The smell of burning mutant blood filled the air, and the two Werewolves grimaced.
+	"Good work tonight, you two." Ivan smiled. "We'd better scram, before the police show--"
+	Before he could finish, a motorcycle ripped into the site. Its rider - a Super-Agent encased in a metallic exoskeleton - hopped off.
+	The three immediately re-assumed their fighting stances.
+	"Who the hell are you?!"
 
 Project Crusader
 ______________________________
@@ -7746,7 +7776,7 @@ FLASHBACK
 Chloe meets Sveta
 ______________________________
 SCENE
-	It was the morning after the awful noise. Back in Amy's flat, Connor and Sparky watched the TV. Connor was sat at the table, shirtless. Amy had her tattoo kit out, and was straining against his toughened skin.
+	As the afternoon sun lazily hung above the valley, the Werewolves had decided to spend their rare moment of peace at Amy's flat. While Sparky sprawled on the sofa watching the TV, Connor was sat at the table, shirtless. Amy had her tattoo kit out, and was straining against his toughened skin.
 	The newsreader was talking.
 	"And in political news, the government has passed the controversial Terrorism Act, which gives police forces the authority to arrest and detain anyone suspected of terrorism offences for up to 60 days, as well as expanding the use of the Diplock Court system to apply to such cases in mainland Britain. Critics argue that the bill is a glorified method of detaining citizens without trial or probable cause..." it continued.
 	"Fuckin' idiots." Connor muttered. "Diplock Courts? This isn't Belfast, and it's not the bloody 90's."
@@ -8193,7 +8223,9 @@ FLASHBACK
 Connor catches Yaz
 ______________________________
 SCENE
-	Christmas day, 2015. Connor, Amy, and Sparky stood outside the prison. A buzzer went off, and Vince came out. 
+	The sky seemed almost determined to make this morning as miserable as possible. Slushy, cold sleet pelted down into the valley. Despite this, it failed to ruin the Barrett's morning.
+	After all, it was Christmas.
+	Connor, Amy, and Sparky stood outside the prison. A buzzer went off, and Vince came out. 
 	Amy ran over to embrace him.
 	"Vince! Oh, I've missed you..." she said.
 	"Oh, I have missed you so much, sweetheart." Vince replied, returning the embrace. He released her, and pulled Connor in for a bear hug.
@@ -8870,7 +8902,7 @@ FLASHBACK
 Killing Laverty
 ______________________________
 SCENE
-	1st of January, 2016.
+	1st of January, 2016. The air was cold, but at least it wasn't pissing it down with rain as per usual.
 	Connor stood at a motorway service station, with Sparky going toilet on the grass. He picked up Sparky's poop, and binned it.
 	"Connor?" Sparky asked, tilting his head. "Why is it that when we're in the forest, if I poop, you won't pick it up - but when we're out here, or in the dog park, you do?"
 	"Ah. Well, truth be told, I'm supposed to pick up your poop in the woods, too - but the way I see it, if deer and cows and foxes already poop there, it's no harm done for you to do so, as well. But in public, it would be wrong - because someone could step on your poop without realising. In the forest, you're going to walk on poop - it's just a fact. But out here, that's not fair, because the people here didn't agree to step in poop... Why am I giving such a long-winded explanation about this in public?" Connor caught himself, and waved awkwardly at an older couple who were looking at him funnily. 
@@ -9520,7 +9552,7 @@ FLASHBACK
 Vince meets Johnny
 ______________________________
 SCENE
-	It was cold now, with icy rain pattering on the ground. About an hour had passed since the purge of Redbridge, and a big, bulky transport vehicle pulled up outside HMP Wickermast. Prison guards stood by, as the back doors of the van opened up. The captured Syndicate members were shoved out of the vehicle by officers.
+	It was cold now, with icy rain pattering on the ground - as though the heavens had decided the valley wasn't miserable enough. About an hour had passed since the purge of Redbridge, and a big, bulky transport vehicle pulled up outside HMP Wickermast. Prison guards stood by, as the back doors of the van opened up. The captured Syndicate members were shoved out of the vehicle by officers.
 	Connor's face creased in rage.
 	"Kill them. Kill them. Kill them." the voice in his head goaded. He suppressed it with all his willpower, and rose to his feet. Despite being cuffed, he helped Trey stand.
 	With that, they looked up at the prison complex. Connor had been here to visit Vince before, but the place never looked so... imposing. Tall wire-fence walls with barbed wire at the top. A guard tower overlooking the complex from across the car park.
@@ -9952,7 +9984,8 @@ CHAPTER
 
 ______________________________
 SCENE
-	It was late-evening in Belson, and a young man was dragged into an alleyway by a mugger.
+	It was your average evening in Belson.
+	That is, the weather was grim, the mood was grimmer, and a young man was dragged into an alleyway by a mugger.
 	"You know how this goes! Give me your fucking money!" he snapped.
 	The young man trembled, and put his hands together. "I-I don't have any money! I swear!"
 	The mugger laughed, and drew a switchblade. "You sure about that?"

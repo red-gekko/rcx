@@ -1583,7 +1583,7 @@ SCENE
 	"Small town, more like." Trey grinned.
 
 	With that, the group shuffled so they could sit closer.
-	"So... um, icebreaker. how did you guys meet?" Amy asked.
+	"So... um, icebreaker. How did you guys meet?" Amy asked.
 	"Our dads know each other." Bea began. "They're both old-money stockbrokers. But we became friends on the first day of secondary school."
 	Chloe smiled fondly. "That's not the full story. Our class was an odd number, so we'd been put in a trio. The other girl we'd been assigned was a raging cow. Bea ended up making her cry."
 	Bea chuckled at the memory. "Well, 'raging cow' is underselling it. She was a bitch."
@@ -3239,8 +3239,18 @@ SCENE
 	Preparing for siege, Connor morphed up his armour once more, and barged in.
 
 	Immediately, gunmen opened fire. Connor rushed in, unfazed, and slammed into the enemy group, launching men into the air.
-	Chaos erupted. Sparky dropped down from the ceiling, and frantically swiped and clawed at soldiers, blinding one and scarring the rest. A spinning kick exploded from Connor, sending an officer flying backwards.
-	Then, he spotted Hattab, who was trying to run away. He pounced upon him, and dragged him in front of the cameras. He forced him to his knees, stole his sidearm, and held it to his temple.
+	Chaos erupted. Sparky dropped down from the ceiling, and frantically swiped and clawed at soldiers. A spinning kick exploded from Connor, sending an officer flying backwards.
+	Before he could press his attack though, he saw a soldier drop his gun, and raise his fists. Bemused, he sent a punch flying his way.
+	The soldier caught Connor's fist, and squeezed, before stabbing him in the gut with a super-sharp blade. His balaclava came loose - loose enough to reveal his black-veined eyesockets.
+	"Dis hy! Die verraaier!" he roared, as other soldiers likewise drew their blades.
+	Connor morphed a knife from his hand and slashed out, taking his stabber's throat.
+	"Rattler, this is Werewolf! A bunch of Super-Agents are here!"
+	"What?! That's not possible, they... oh, God."
+	"Sparky! Start killing!"
+	"FINALLY!" Sparky roared, biting a soldier's head.
+	The pandemonium only intensified. In such a cramped space, the melee was brutal. One Agent stabbed Connor right in the side, cutting into his kidneys. Another buried his knife into his back. Connor responded with a spinning, slashing motion - hard enough to take off a head.
+	At last, the Agents were dead. Connor panted, as Hattab, until now frozen in fear, tried to run.
+	He pounced upon him, and dragged him in front of the cameras. He forced him to his knees, stole his sidearm, and held it to his temple.
 	"[People of Algeria!]" Connor boomed into the camera, remembering the translation Rattler had provided. "[Tyrant Hattab has failed! Do not submit to his cronies!]"
 	"[Go to hell!]" Hattab snarled in an almost admirable defiance.
 	Connor smirked beneath his mask, pushed Hattab's head away from the camera, and pulled the trigger.
@@ -3257,7 +3267,15 @@ SCENE
 	"Career?"
 	"Of course. You think Hattab is the only one people'll pay to kill?"
 	"I'm not here to kill on behalf of the rich." Connor scowled.
-	"Yeah, I know. Hence why your KGB buddy asked us to not send you any contracts you'd find objectionable." the handler shrugged. "Now come on - if we leave now, we can be back in England before midnight."
+	"Yeah, I know. Hence why your KGB buddy asked us to not send you any contracts you'd find objectionable." the handler shrugged.
+	Connor sighed. "Those Agents... what were they doing here?"
+	"Intel suggests they're mercenaries. We've had suspicions about this one South African PMC - PaladinCorp."
+	"Oh, of course. They couldn't have picked a less ominous name?" Connor grinned.
+	"Apparently not. PaladinCorp is connected to the South African government - specifically, its leadership are members of the ruling National Party. They got their start putting down anti-Apartheid riots."
+	"Evil cunts..." Connor spat.
+	"Indeed. And now they're fielding Super-Agents... this could be very bad."
+	"No shit. I'd better tell Ivan..."
+	"You'd better. Now come on - if we leave now, we can be back in England before midnight."
 	"Not yet. Gotta sort something first." Connor shook his head, as his stomach rumbled.
 	"Fine. Just be back at the airfield before sunset." the handler grinned.
 	"Oh, and... I need a downpayment on my cheque." Connor began. "Can you spot me £20?"
@@ -3867,28 +3885,62 @@ SCENE
 	The following evening, Connor was working on his laptop - researching what he could about the recent spike in Patriot activity. His phone started to ring.
 	"Connor - need you." Johnny began.
 	"What's wrong?" Connor asked, leaping to his feet.
-	"Heard on the news - train derailment in Belson station. Lots of people could be hurt. Can you help out?"
+	"Heard on the news - flyover collapse in Belson. Multiple cars involved. Looks bad. Can you help out?"
 	"On my way."
 
-	He arrived at the scene - two passenger trains crashed into one another. Firemen were struggling to cut into the cabins to get people out. A news reporter was talking to a camera.
-	As Connor scanned the wreckage, his mind raced. Could this be linked to the Patriots? He shook his head. Too many coincidences. But for now, the priority was getting people out alive.
-	"As you can see, Liz, the trains crashed right into each other, derailing at the same time. Currently, there's no indication of sabotage, but it does seem suspicious that both trains would derail simultaneously. The fire and rescue service are... oh my god!" the reporter gasped, upon seeing Connor pry open a door with his bare hands.
-	"A masked man - the same one from the Mason Court fire, by the looks of it - is entering the carriage, and--"
-	Connor hauled out several injured people, before diving back in for more.
-	"Yes, it seems he's helping the firemen to get the injured to safety." the reporter continued.
-	Connor dismounted the carriage, only for one currently suspended in the air to begin to fall. Connor dived in, shoving the fireman underneath out of the way, and caught the falling carriage. It took all his strength, but he managed to lower it gently, before prying its doors open and saving the occupants.
-	Connor's muscles burned as he continued. Sweat beaded on his forehead, and for a moment, his vision blurred. He took a deep breath, forcing himself to focus.
-	"Yes, it's been confirmed, he's saving the injured people here. Liz, I don't know about you, but this is two acts of heroism now." the reporter said, awestruck.
-	As Connor saved the last few people, the reporter rushed to him.
-	"Hi, hi there... Zack Powell, Channel One News - do you have a moment?"
-	Connor paused, freezing still.
+	He arrived at the scene - a section of the A38 had partially collapsed, one side of the carriageway sheared and slanted several feet lower than the other. Several cars had crumpled into one another. A white delivery van hung half over the broken edge, its rear wheels spinning uselessly in the air. Firemen were working frantically beneath the fractured concrete, trying to stabilise the structure while paramedics treated the injured. Down below, a news reporter was talking to a cameraman.
+	As Connor scanned the wreckage, his mind raced. The break looked violent - concrete torn open, steel rebar jutting out like exposed bone. Could this be linked to the Patriots? He studied the fractured supports for a moment longer, searching for signs of an explosive force. He shook his head. Too many coincidences. And right now, speculation didn't matter. People were still trapped.
+	"As you can see, Liz, a section of the Belson flyover has partially collapsed during the evening rush hour. Emergency services are attempting to reach several motorists believed to be trapped beneath the fallen carriageway. At present, there's no official explanation for what caused the failur--oh my god!" the reporter gasped, as Connor vaulted over the cordon.
+	"Hey, wait! You can't--" a fireman meekly protested, before going pale as Connor gripped the twisted frame of a crushed hatchback. With a sharp pull, metal screamed in protest. The door tore free in his hands.
+	"Oh my God, thank you!" the man in the driver's seat exclaimed.
+	"No worries." Connor nodded, smirking beneath his mask.
+	"A masked man - the same one seen at the Mason Court fire, by the looks of it - is assisting rescue efforts..."
+	As he spoke into the camera, Connor moved over to a second vehicle. The driver had managed to crawl free, but the passenger was stuck. A worrying trail of blood had run down from her hairline to her temple, but mercifully, her chest still heaved. Connor grabbed the door and ripped it off with his hand, before a morphed knife cut through the seatbelt, and he hoisted her free, handing her over to the paramedic team.
+	"Mum! Please, someone help me!" a child's voice cried out. Connor pounced forward.
+	There, a group of firemen struggled with a slab of fallen concrete pinning down a woman, who sobbed in pain. Her son pawed at the rubble, trying desperately to help as rock cut into his palms.
+	"Move! Let me!" Connor barked, before crouching down, and wedging his fingers beneath the cracked edge. Muscles tightening, he lifted. The slab rose just enough for them to drag her clear, and a duo of paramedics arrived with a stretcher.
+	"Hey... thanks." one of the firemen nodded, catching his breath.
+	"No need." Connor shook his head. His hearts skipped their beats as he recognised the face, and his consciousness flashed backwards to his horrific reanimation.
+	For a second, or an eon - trauma will do that to you - he was back in the Blackmarsh rubble, after Randall tried to bury him away. And he was lifting this fireman up by the neck, consumed by demonic rage and pain.
+	"Uh... you okay?" the fireman asked, nervously rubbing his helmet.
+	Connor cleared his throat.
+
+	"Yes, it appears he's actively helping emergency services extract those trapped in the wreckage. This is... astounding." the reporter continued, his voice wavering between professionalism and disbelief.
+	A deep groan echoed through the air, as Connor looked up. His eyes flashed again, as his super-senses turned the world to greyscale.
+	The upper section of the flyover shifted, the fractured support beam above beginning to bend further. Dust rained down, and the fireman by his side gasped in horror.
+	"You... you're..."
+	Like a blur, Connor moved, shoving the fireman and the child out of the way, before leaping a few feet in the air - just in time to catch the falling segment of road.
+	As he landed down, he felt the joints in his arms and legs buckle and crack. And if his spine could talk, it would call him a prick. His feet smashed down into the tarmac below, making new, bootprint potholes.
+	His muscles burned as he forced his arms upward, halting the collapse inch by inch.
+	The remaining crew looked up in shock and awe.
+	"Don't just stand there! Move!" Connor roared.
+	"You heard the man! Go!" the fireman barked. His team quickly rushed past, their adrenaline giving them the strength to pull open locked car doors and drag casualties to safety.
+	"Holy shit... tell me we're getting this!" the reporter gasped.
+	"Yeah, we did, we..." the cameraman replied, stunned. His lens zoomed in, focusing on the impossible sight.
+	A man - or something looking like one, at least - holding up a section of carriageway with his bare hands.
+	"Liz... Liz..." he stammered, recovering, "I... I don't quite know how to describe what we're seeing. The masked individual appears to be physically supporting the collapsed structure while emergency services clear the area."
+
+	Connor's muscles rippled as his bones ached. Pain radiated through him, washing over like a wave.
+	He strained. He struggled. He couldn't keep it up.
+	"Fuck... fuck... GGGRAAAAGH!" he howled, his eyes flashing a brilliant red. He pushed, the segment hoisting further into the air.
+	"CLEAR!" the fireman barked out. It was music to Connor's ears.
+	He planted his feet, and threw the chunk of road upwards, before darting out of the way. It slammed into the ground with enough force to shake him.
+	Paramedics rushed over.
+	"Uh... sir, are you..."
+	Connor breathed out, and chuckled.
+	"No, I'm really not. I broke a nail."
+	The paramedic tilted his head, before walking off.
+	"...well, *I* thought it was funny." he shrugged. At that, the reporter hurried towards him.
+	"Hi - hi there... Zack Powell, Channel One News - do you have a moment?"
+	Connor froze.
 	"I just want to ask - how did you do that? You must have some kind of... well, super-strength."
-	Connor remained frozen in place.
-	Noise came over Zack's earpiece.
-	"Oh, shit... For fuck's sake!" he shouted, throwing his mic on the ground.
+	Connor remained silent, staring at him through the mask.
+	Noise crackled over Zack's earpiece.
+	"Oh, shit... For fuck's sake!" he shouted, yanking the earpiece out. He tore off his mic and threw it to the ground.
 	"What?" the cameraman asked.
-	"They're cutting the whole segment. No reason why." he lamented. "You wouldn't happen to know--" he turned to Connor, who had already left. 
-	He sighed, and picked up his mic.
+	"They're cutting the whole segment. No reason why." He ran a hand through his hair in frustration. "You wouldn't happen to know--"
+	He turned back toward Connor - who had vanished.
+	"Fucking superheroes..." he chuckled, before picking up the mic.
 
 	As Connor re-entered the flat, he covered his mouth in shock and disgust.
 	"Hey Connor! Where did you go?" Sparky asked, smiling. He was sat next to a fresh deer carcass.
@@ -3934,7 +3986,7 @@ SCENE
 	Adam squeezed a stress ball from his pocket, refusing to look at what was happening.
 	The man hoisted Zack onto his shoulder. "You have your orders, I have mine." he said to Adam, grinning. He walked out, and bundled Zack into a car boot, before entering the driver seat, and speeding off.
 
-Channel One News + Train derailment
+Channel One News
 ______________________________
 CHAPTER
 
@@ -3964,7 +4016,7 @@ SCENE
 	"Enough to build an army." Ivan said grimly, stroking his beard. "I'd love to know where they get it from."
 	"It's our blood." Connor shrugged. "Or at least, it smells like it. There are certain scents that normal blood doesn't have. The Agents have the same smells, just in a smaller amount. God knows where they're getting our blood from, though."
 	"Fascinating..." Ivan cocked an eyebrow, before cracking a crate open. "But even aside from that... where are they getting the soldiers from? It's not like we're fighting Afrikaners - these aren't Paladin mercs, they're locals."
-	"Two options, I guess." Connor began. "Either they're skinheads, or former soldiers themselves."
+	"Two options, I guess." Connor began. "Either they're skinheads, or former British soldiers themselves."
 	"God knows." Ivan sighed, before placing down some C4 charges. The trio cleared the room, and Ivan pulled his detonator.
 
 	Immediately, the post went up in smoke, before the flames died down. The smell of burning mutant blood filled the air, and the two Werewolves grimaced.
@@ -4004,6 +4056,22 @@ SCENE
 	"Oh, no." Connor whispered, his eyes burning bright once more. "You don't get to survive tonight."
 	He dug his heels into the mud, feeling his Achilles tendons flare and ripple with renewed stamina. He burst from his position, kicking up dirt as he ran through the hail-ridden moors of Blackmarsh.
 	Ivan rushed over to Sparky, who struggled to his feet. The cops, some wounded from the shockwave, took aim at the pair. Ivan picked up his canine comrade, and dashed over to the Agent's motorbike. It tore off after Connor and his quarry.
+
+	Trey sighed as he took a sip from his beer, sitting alone in a booth in the Singing Horse.
+	He pulled out his phone, and called Amy.
+	"Yo, dickface. What do you want?" she asked.
+	"Fuck you too. Do you know where Connor is?" he nonchalantly bantered back.
+	"He said he had work to do in Blackmarsh." she audibly shrugged. "Why, has he not got to you yet?"
+	"No, and he's not answering his phone." Trey sighed. "You out tonight?"
+	"Yeah, I'm on a date. She'll be here any minute." Amy replied.
+	"Ah, so I've been reduced to drinking alone." Trey chuckled.
+	"Eh, just call it a night."
+	"...nah." he shook his head.
+	"Hm?"
+	"I'll wait for him. If... if he were here, and I was running late... he'd wait for me."
+	Amy smiled warmly. "Yeah... you're a good mate, Trey."
+	"Oh? Is that a compliment I just heard?" he grinned.
+	"Fuck you. It's the only one you're getting this year." she laughed, hanging up.
 
 	"GET BACK HERE AND *DIE!*" Connor howled, as he and the Agent rushed through the fields of the valley.
 	"Connor!" Ivan chimed in over his earpiece. "Are you alright, tovarishch?" 
@@ -4060,41 +4128,54 @@ SCENE
 	"Oh, that's normal. All my teeth fell out when I was a pup, but they grew back pretty quickly!" Sparky chimed in.
 	"I, uh... I think that's different." Connor chuckled, before turning.
 	"I'll see you soon, chuvak." Ivan nodded.
-	"Yeah... call me." Connor sighed, clutching his abdomen in pain. He and Sparky shambled off into the night - collapsing into their beds for some well-earned rest.
+	"Yeah... call me." Connor sighed, clutching his abdomen in pain. He and Sparky shambled off into the night.
 
 Project Crusader
 ______________________________
 SCENE
-	Connor was sprinting across rooftops in the late evening. He jumped from roof to roof, covering entire streets in short order. He landed, and looked up.
-	He was outside A&O Repairs.
-	It was closed until Wednesday - staff shortages. He went inside, the key code still working.
-	He made his way to the break room, made himself a coffee, and took a moment to relax.
-	"Normality." he sighed. He put his mug in the dishwasher. He looked up at the board, and saw a photo of him and Trey, taken when they first repaired a car together. Though it was less than a year ago, they both looked younger. Connor smiled, and headed outside, to go for a jog. He returned home, to find Sparky chewing on a deer bone - Connor had kept them for him.
-	"Hey bud - wanna go out tonight? We can meet up with our friends if you like?"
-	"Ooh, yes please!" Sparky replied. The two went back out, and Connor called Trey.
-	"Hey bro, I'm coming out tonight - are you out?" he asked.
-	"Hey bro! Yeah, I'm in line at the Horse with Amy at the moment - come meet us!" Trey replied, practically begging Connor to come out.
-	With that, the pair to Amy and Trey, who were waiting in line.
-	"Hey! Missed you, man! Where you been?" Trey said, pulling Connor in for a hug.
-	"Hey, bro... Sorry, I've been meaning to call - busy lately. Hey sis!" Connor replied. Amy looked at him, and her face broke into a smirk.
+	Amy arrived at the booth, with a tray of shots.
+	"Oh, good god." Trey smirked, downing his.
+	"Oi, you greedy cunt. Those were for me." she snarked, before drinking hers.
+	"So... in summary, we've both been ghosted." Trey chuckled.
+	"This is like, the third time a girl has just not bothered to show up!" Amy snapped.
+	"Wow. Must be a you problem." Trey grinned.
+	"Eat a fat hairy dick." she faux-growled.
+
+	"ID, please." Pawel asked. The clubgoers flashed their IDs, and he beckoned them to go inside. Then, he visibly lit up with excitement.
+	"Connor!" he cheered. "Jesus, look at your face!"
+	Connor awkwardly rubbed his bruises, then chuckled. "You should see the other guy."
+	Pawel grinned, then looked down at Sparky. "Oh, hello little buddy!"
+	"Hi! Are you one of our friends?" Sparky yapped back.
+	"Oh, um... no dogs allowed." Pawel sighed, pointing to a sign at the door.
+	Sparky looked up at Connor cheekily. Connor winked, as he let out a distraught howl. Connor played along: "I'm sorry buddy, no dogs allowed."
+	Sparky howled again, like a dog that had found it's master dead... or a dog whose master had left for work. Either way, the sorrow was palpable.
+	"No, please don't cry, it's okay, I'm sorry..." Connor said, playing it up as much as possible.
+	"Okay, okay, fine!" Pawel relented, looking deeply saddened. "You can bring in the doggie. You work for Johnny anyway - I'm sure he won't mind." He reached for his radio. "Be aware, there is a dog in the club - don't throw him out." He put down his radio. "Go on in."
+	As soon as they got out of Pawel's earshot, Connor flicked a treat out for Sparky, and whispered "Good boy." as Sparky smiled devilishly.
+
+	No sooner had he arrived in the general area of the booth, before he was pounced upon.
+	"Hey! Missed you, man! Where you been?" Trey cheered drunkenly.
+	"Hey, bro... Sorry, I was gonna call." he smiled softly.
 	"Hey, dickface... I've missed you, you know." she said, trying to sound angry - and failing.
 	"I've missed you too - I'm gonna make an effort to come out more." Connor said bashfully.
 	"You brought Sparky?" Trey asked.
 	"Yeah - figured he'd enjoy a night out." Connor nodded.
 	"Hi Trey! Hi Amy! Let's have fun!" Sparky barked happily.
+	As the group sat back at their booth, Amy fetched a tray of shots. And another... and then pitchers of cocktails. Over the course of the next hour, they caught up.
 
-	With that, the group approached Pawel.
-	"Hey, my best friends! How are you?!" he said happily. He saw Sparky. "Oooh, hello little fella! Sorry, no dogs allowed."
-	Sparky looked up at Connor cheekily. Connor winked, and then Sparky let out a distraught howl. Connor played along: "I'm sorry buddy, no dogs allowed."
-	Sparky howled again, like a dog that had found it's master dead... or a dog whose master had left for work. Either way, the sorrow was palpable.
-	"No, please don't cry, it's okay, I'm sorry..." Connor said, playing it up as much as possible.
-	"Okay, okay, fine!" Pawel relented, looking deeply saddened. "You can bring in the doggie. You work for Johnny anyway - I'm sure he won't mind." He reached for his radio. "Be aware, there is a dog in the club - don't throw him out." He put down his radio. "Go on in."
-	As soon as they got out of Pawel's earshot, Connor flicked a treat out for Sparky, and whispered "Good boy." as Sparky smiled devilishly. Trey and Amy burst out laughing.
-	As the group sat at their booth, Amy fetched a tray of shots. And another... and then pitchers of cocktails. Over the course of the next hour, they caught up.
-
-	"Thought you were busy tonight, anyway?" Connor asked Anna. "Something about a date?"
+	"So... what the fuck happened to your face?" Amy asked in her characteristically tactful way.
+	"Oh... well, did you guys see the news?"
+	"Yeah, because we watch news reports while getting hammered." Trey snarked, before pulling out his phone.
+	"Holy shit!" he gasped, showing Amy. "What happened to you?"
+	"I was in the carriage next to it." he lied, gritting his teeth. "I was standing when the brakes came on, so I went flying into a wall. Then, I fell out of the train when the doors opened... and then when the substation exploded, I got knocked over."
+	"Jesus Christ... did you see the monster?" Trey asked.
+	"Monster? That's a fucking superhero, man!" Amy cut in.
+	Connor awkwardly scratched the back of his head. "I... it was all a blur. Sparky dragged me out of it."
+	"Good boy!" Amy cooed, stroking his chin. Sparky smiled.
+	"That's right. I saved the day, all by myself." he grinned. Connor choked away a chuckle.
+	"Thought you were busy tonight, anyway?" he asked Amy. "Something about a date?"
 	"Oh!" she grinned. "Yeah, she ghosted me."
-	"I don't blame her. I mean... it's you." Trey sniped. Anna raised her fist at him, and he cackled.
+	"I don't blame her. I mean... it's you." Trey sniped. She raised her fist at him, and he cackled.
 	"Oh, what I wouldn't give for the love of a good woman..." she faux-lamented.
 	"...do you think the fact that you're a lesbian makes that sentence any less pathetic than if we'd said it?" Connor snarked.
 	"Shut up." she grinned. "Oh, by the way - I've invited Chloe and Bea out. Hope that's cool."
@@ -4193,6 +4274,14 @@ SCENE
 	"It's who we are." he shrugged, grinning. "We all got bullied a fair amount in school, so... I guess part of it is taking back control. Saying stupid things to each other, and knowing that no one means a word of it. I mean, you saw how we all spoke to each other earlier - but I'd trust both of 'em with my life, no question."
 	Chloe smiled warmly. "It's like you're all the opposite of two-faced. Horrible in person, but lovely behind their backs."
 	"That about sums it up." he laughed heartily.
+	She awkwardly looked down.
+	"Um... I didn't wanna ask in front of everyone, but... are you okay?"
+	"Hm?"
+	"The bruises." she pointed.
+	"Oh, it's nothing." Connor replied evasively. "I picked a fight with a train wall."
+	She chuckled, before gasping. "You were on the train? The one that got attacked?"
+	"Yeah." he shrugged, clenching his jaw. "I'm fine. Just my pride."
+	She nodded, and the pair carried on forwards.
 
 	While walking through Belson, a rough-looking man approached.
 	"Oi, oi! Lend us a few quid, mate." he said, getting up in Connor's face.
@@ -4271,16 +4360,15 @@ SCENE
 	"We have some family out in the USA who we've visited a few times, so there's North America. When I was 12, we went to Brazil for the summer holidays, so there's South America. I've been to Egypt, so that's Africa, and we've also visited Japan and Australasia, so that's Asia and Oceania."
 	Connor nodded, smiling. "I've always wanted to go to Egypt - see the pyramids and whatnot."
 	"They're beautiful." she smiled warmly. "It's a little harder to go since the Islamic Revolution, but they rely quite heavily on tourism, so Cairo's pretty safe."
-	"You'd make a decent tour guide." he chuckled. "Wish I was as well-travelled."
+	He chuckled. "Wish I was as well-travelled."
 	"Anyway, your turn. Two truths and a lie. Make it a good one!" she grinned, pouring a fresh drink.
-	"Hmm, okay..." Connor thought for a moment. "Alright. I grew up in Ireland, I've never left the UK, and I ride a moped."
+	"Hmm, okay..." Connor thought for a moment. "Alright. I grew up in Ireland, I've never had a holiday outside of the UK, and I ride a moped."
 	"Oooh..." Chloe thought aloud. She smirked. "The moped one is a lie."
 	Connor grinned. "What makes you say that?"
 	"Ireland is still part of the UK, so both statements could be true - but you phrased it as if to say they were mutually exclusive." she grinned.
 	"To be fair, a lot of Irish people have tried to change that." Connor chuckled, exaggerating his accent.
-	"There's that too. Your accent is subtle - but there's a certain inflection, especially when you make 'oo' sounds - and you say things like 'wee' and 'yous' as well. So, that just left the moped." she explained. "Also, you've driven us in your car before - so it'd be a bit weird to have both."
+	"There's that too. Your accent is subtle - but there's a certain inflection, especially when you make 'oo' sounds - and you say things like 'wee' and 'yous' as well. So, that just left the moped." she explained. "Also, you've driven us in your car before - so it'd be a bit weird to have both. That, and you wished you were as well-travelled as me."
 	"Hah... I don't think I sound that Irish." he smirked. "And yeah - I've ridden mopeds before, but I definitely don't ride one *now.*"
-
 	"What was it like? Growing up in Ireland, I mean - not riding a moped." she smiled.
 	"Hah - it was... well, I grew up in Derry - on the Bogside. I was 5 or 6 when the War happened." he said, staring off into the distance.
 	"Oh god, it's okay, you don't have to..." she frowned sadly.
@@ -4292,8 +4380,8 @@ SCENE
 	"I'm so sorry... I wish I could hug you right now, but I know you don't like hugs." she said softly.
 	"It's okay... I'll take a hug." Connor smiled. They embraced, and continued drinking.
 	"What was it like for you, growing up?" he asked, pouring himself another drink.
-	"Hm. I mean, I can't complain really. We always had everything we needed. I'm the youngest of two, my older brother Victor was always my mum's favourite, whereas I think my dad always took more of a shine to me." she smiled, fondly remembering her father.
-	"My mum's from America. Her parents were Russians who left the USSR, and she's obsessed with fitting in with the aristocracy - I think she's got a bit of a complex about not being 'well-bred' - personally I'm glad my parents aren't related, but to each their own." she chuckled. "It wasn't easy, growing up with her. I mean, I'm not trying to get sympathy points, especially not considering what you were saying... but, she wasn't happy with me being disabled."
+	"Hm. I mean, I can't complain really. We always had everything we needed. I'm the younger of two, my older brother Victor was always my mum's favourite, whereas I think my dad always took more of a shine to me." she smiled, fondly remembering her father.
+	"My mum's from America. Her grandparents on both sides were Russian nobles who left the USSR, and she's obsessed with 'fitting in' with high society - personally I'm glad my parents aren't related, but to each their own." she chuckled. "It wasn't easy, growing up with her. I mean, I'm not trying to get sympathy points, especially not considering what you were saying... but, she wasn't happy with me being disabled."
 	"You don't have to say, but what disabilities do you have?" Connor asked tactfully.
 	"Oof, where do I begin?" she chuckled grimly. "I have a condition called Volkov Syndrome - VS for short. It's a mitochondrial disorder - rare too. It can cause all sorts of conditions - haemophilia, cancer, arthritis... I'm lucky, really. Mine is mainly neurological. I've got epliepsy, diabetes as you figured, and I also have partial hearing loss." she explained, brushing her hair back to show her hearing aids.
 	She smirked. "In the olden days, they'd have just called me 'sickly.'"
@@ -4310,10 +4398,9 @@ SCENE
 	She shrugged. "Maybe. VS *can* impact the eyes, but usually it's more like severe retinopathy, cataracts, or aniridia - that's the absence of irises. It's entirely possible that I'm just short-sighted in the 'normal' way."
 
 	Connor nodded. "Sorry for interrupting, anyway."
-	Chloe smiled warmly. "It's fine. Anyway, as I was saying - the condition *is* genetic, there's a few genes that mutate to cause it. But in most people, it's inactive - they're a carrier, but they're asymptomatic. The most common trigger is issues with fetal development."
-	She sighed. "When my mother was pregnant, she was out every night getting drunk, snorting cocaine..." she muttered disdainfully. "She'll never admit it, but that's why I have full-on VS."
-	"That sucks." Connor replied. "And what, she acted like it was your fault anyway?"
-	"Yeah, exactly!" Chloe nodded. "God, she's awful. She only let me come to church as a kid because she's a hardcore evangelical. If she had her way, I'd be locked away in the attic 24/7."
+	Chloe smiled warmly. "It's fine. Anyway, as I was saying - the condition *is* genetic, there's a few genes that mutate to cause it. But in most people, it's inactive - they're a carrier, but they're asymptomatic. My dad is a carrier, and so's my brother."
+	"...I'm guessing, from the way you just said 'brother', there's some rivalry there?" he asked.
+	"Hah! Rivalry's putting it mildly." she grinned. "He's always been the perfect child. "Oh, Victor, I'm so proud of you!" - meanwhile, I was always the black sheep in my mum's eyes. God, she's awful. She only let me come to church as a kid because she's a hardcore evangelical. If she had her way, I'd be locked away in the attic 24/7."
 	"She didn't actually lock you away, did she?!" Connor asked, shocked.
 	"No, no - sorry, figure of speech. But she may as well have." Chloe sipped her drink.
 	"I know the feeling." Connor nodded sympathetically. "My grandad used to treat me like dirt when I was growing up. Especially because it took so long for me to start speaking - all the other kids would be singing along their choirs and prayers, and I'd just be sat there. Needless to say, in such a heavily Catholic community, that didn't go down well. Eventually, he just stopped bringing me."
@@ -4322,29 +4409,17 @@ SCENE
 	"Yeah - it's an autism thing." he shrugged.
 	"Oh, of course." she smiled, before stammering. "A-as in, that makes sense, n--not 'of course you're autistic', I..."
 	Connor laughed. "What gives it away? My inability to notice subtext, my brutal honesty, or my flat, monotone voice?"
-	"The constant sarcasm - it's like you're overcompensating." she grinned cheekily. "I can empathise with speech delay, I suppose. VS can affect speech too, thanks to the neurological symptoms. There's a theory that it interacts negatively with FOXP2."
-
-	"Fox P2?" Connor tilted his head.
-	She chuckled. "Sorry. Boring sciency stuff."
-	"It sounds interesting though?" Connor pressed. "I mean, it's cool if you don't wanna talk about it, what with it being personal and all, but... I don't know, it's nice hearing you talk about genetics. You seem to be more in your element."
-	Chloe smiled warmly. "FOXP2 is a gene involved mainly in speech and brain development. I'm pretty sure I read somewhere that it's linked to autism, but I'm not sure. Anyway, for VS, its interactions with FOXP2 typically cause slurring, stuttering, aphasia, etc. I had a bad stutter growing up, but I went to a speech therapist to 'fix' it." she explained, putting 'fix' in scare-quotes. "You've probably noticed my lisp, as well. I don't know if that's down to the VS, or down to being hard-of-hearing."
+	"The constant sarcasm - it's like you're overcompensating." she grinned cheekily. "I can empathise with speech delay, I suppose. I had a bad stutter growing up, but I went to a speech therapist to 'fix' it." she explained, putting 'fix' in scare-quotes. "You've probably noticed my lisp, as well. Ah, the joys of being hard-of-hearing."
 	Connor nodded. "Do you know any sign-language?"
-	She chuckled. "A little. Since my hearing is more-or-less corrected through hearing aids, I never kept up on it."
+	She chuckled. "A little. Since I'm more-or-less fine with hearing aids, I never kept up on it."
 	Connor smiled, then signed "Do you understand this?"
 	Chloe pulled her head back, surprised. "Uh... Do I... Nah, that's as far as I got."
-	Connor grinned. "I learned it when I was little. When I'd get upset, I'd go mute - but for some reason, I could still sign. So, that's how I'd communicate. My uncle, bless him - he took a whole night course just to become fluent for me."
-	Chloe smiled warmly. "That's really sweet."
-	Connor shrugged, smiling back. "So, VS is caused by FOXP2?"
-	"Mutated genes interacting with FOXP2." Chloe corrected. "And, not just that. The others were - if I remember rightly - TYK2, PAX6, FOXP1, IRF5, COL1A1, CTLA4, VWF, TYR, and PDCD1. VS itself is caused by POLG, TWNK, TFAM, and PGC-1-Alpha."
-	Connor leant his head back, impressed. "Your memory's pretty good for someone putting away as much vodka as you are." he grinned.
-	She chuckled. "This is just me paying you back for the infodump on the hill. Besides, you've had, like, at least as much as me, and you're here doing sign language. Which, to be fair, you could be making it all up."
-	Connor laughed, then smiled, signing "Bite me."
+	He grinned. "I learned it when I was little. When I'd get upset, I'd go mute - but for some reason, I could still sign. So, that's how I'd communicate. My uncle, bless him - he took a whole night course just to become fluent for me."
+	Chloe smiled warmly. "That's really sweet. Anyway... sorry for rambling on about this."
+	"No, not at all!" Connor smiled. "I'm glad you feel like you can tell me this."
+	She chuckled. "This is just me paying you back for the infodump on the hill. You missed your calling as a tour guide, you know."
+	Connor laughed, then smirked, signing "Bite me."
 	"Well, I definitely got the gist." she grinned cheekily.
-	"So, those genes--sorry, mutations - those all get inherited?" Connor asked, head tilted. "Is it like, a chromosome thing?"
-	Chloe smiled. "Kinda. There's this thing called meiotic drive. Basically, the mutations that cause VS are selfish. When my body produces egg cells, there's normally a 50/50 chance on whether it'll inherit my dad's chromosomes or my mum's. But something about the VS mutation means that, if a chromosome has one, it's more like a 90% chance it'll get picked. That's why, even though the mutations are present on several different chromosomes, I still inherited all of them. It also means any kids I have will probably have it too."
-	As soon as she said the last part, she blushed and looked away.
-	"Sorry... Didn't mean to overshare so much." she chuckled shyly.
-	"No, not at all!" Connor reassured her. "I'm glad you feel like you can tell me this."
 
 	The evening got late, the conversation turned, and Chloe was drunker than before.
 	"So, yeah... after that, I stopped believing. Haven't been to church since." she said. Her words were slightly slurred.
@@ -4394,11 +4469,11 @@ SCENE
 	"Hey..." Connor groaned. "What time is it?"
 	"Just gone 11." Trey chuckled. "Can I ask a massive favour?"
 	"You need a lift from the couple who made you their third?" Connor tilted his head.
-	"Ha, ha. Nah, I'm in the garage right now, but we've got some outcalls for a busted boiler in Whitcroft - you know, the retirement home?"
-	"Oh yeah. The one your grandparents are in?"
-	"That's the one." Trey smiled nostaligcally. "You cool to handle it? If not, can you cover me in the shop?"
-	"I'll cover the shop. You can see them then." Connor smiled. "Give me half an hour."
-	"I love you, bro." Trey beamed. "See you then."
+	"Hardy hah. Nah, I'm in the garage right now, but we've got some outcalls for an electrical outage in Whitcroft - you know, the care home?"
+	"Oh yeah. The one we did the installation for?"
+	"That's the one." Trey smiled nostaligcally. "You cool to give me a hand? I'd do it myself, but regs are regs."
+	"I'm on it." Connor smiled. "Give me half an hour, I'll meet you there."
+	"I love you, bro." Trey beamed. "See you."
 	Connor sat up, streched, and yawned. He morphed up some clothes, and headed out of his room.
 	Amy's door was ajar. He peeked in, and saw her curled up with Sparky - both snoring loudly. He chuckled, wrote a note explaining his absence, and headed out.
 
@@ -4408,20 +4483,6 @@ SCENE
 	She ran the tap, and noticed the sound was muffled. Reaching for her ears, she sighed deeply.
 	She'd left her hearing aids in. She'd *never* done that before.
 	She took them out, put them on charge, and made herself a coffee.
-
-	"Morning, gorgeous."
-	Bea awoke to the words, as Charlie stood beside the bed. She looked at him, and smiled.
-	"Good morning!" she said happily. "What time is it?"
-	"Time for breakfast." he replied, revealing a tray of food.
-	"Oh, breakfast in bed?" she beamed. "Thank you so much!"
-	"Anything for you." he replied, placing the food down onto her lap.
-	"I'm really glad you stayed last night." he said gently, sitting next to her. "Being with you... it was all I needed."
-	She smiled softly. "I'm glad I stayed, too. I feel bad though - cancelling on everyone last minute."
-	"I'm sorry." he sighed. "I know I'm not the best company."
-	"Oh, no, I didn't mean it like that!" she said hurriedly, reaching for his hand. His smile instantly returned, and she blushed. "I just meant... I would love it if you came along too."
-	He swallowed. "I would've loved to meet all your friends, Bea. I just... I get so anxious around new people."
-	"I understand." she smiled warmly. "It's okay. I won't push you."
-	"Thank you." he said, almost grinning.
 
 	"Amy! Need toilet! Need toilet!" Sparky barked. Amy groggily forced herself to wake.
 	"Ugh..." she groaned, her head pounding. "You need toilet, bud?"
@@ -4449,11 +4510,169 @@ SCENE
 	"Alright. If he's gone all wolf in the house though, it's your problem." she grinned.
 	Connor clicked his teeth, and cut off the call.
 
-	"Aaand... done!"
+	"God... what was the last electrician thinking, setting it up like this?!" Connor groaned.
+	"Bro... you were the one who set it up." Trey chimed in, a grin cracking over his face.
+	"That wasn't me. That was Past Connor. I cannot be held responsible for his actions." Connor snarked back. He looked down at the panelboard, and sighed.
+	"By the way, are you coming out tonight?" he asked.
+	"I, uh..."
+	"Working again. Don't worry." Trey smiled. "Hey... thanks for coming out last night. It meant a lot."
+	"Don't worry." Connor nodded. "Anyway... I might not even be out for Johnny tonight if these fuckin' electrics don't work."
+	"Tell you what." Trey chuckled. "You sit here and think about what you've done, and I'll see if I can sort the boiler's plumbing out before these pensioners all freeze to death."
+	"I hope it blows up and scalds you." Connor hissed.
+	"I hope you get zapped so hard you piss yourself." Trey quipped back. The boys chuckled, as Connor got back into it.
+
+	"Morning, gorgeous."
+	Bea awoke to the words, as Charlie stood beside the bed. She looked at him, and smiled.
+	"Good morning!" she said happily. "What time is it?"
+	"Time for breakfast." he replied, revealing a tray of food.
+	"Oh, breakfast in bed?" she beamed. "Thank you so much!"
+	"Anything for you." he replied, placing the food down onto her lap.
+	"I'm really glad you stayed last night." he said gently, sitting next to her. "Being with you... it was all I needed."
+	She smiled softly. "I'm glad I stayed, too. I feel bad though - turning them down and all."
+	"I'm sorry." he sighed. "I know I'm not the best company."
+	"Oh, no, I didn't mean it like that!" she said hurriedly, reaching for his hand. His smile instantly returned, and she blushed. "I just meant... I would love it if you came along too."
+	He swallowed. "I would've loved to meet all your friends, Bea. I just... I get so anxious around new people."
+	"I understand." she smiled warmly. "It's okay. I won't push you."
+	"Thank you." he said, almost grinning.
+
+	"Aaand... there!" Amy smiled, grabbing a mirror and showing her customer his shoulder.
+	"That... looks fuckin' sick!" he cheered, smiling wildly. She'd tattooed a horseman with a flaming skull, wielding a sword. It did, indeed, look fuckin' sick.
+	She took the customer's payment, and smiled as he left.
+	"Nice work." another girl - one whose aesthetic made Amy's look tame - chimed in.
+	"Thanks, Chrissie." Amy nodded, before leaning back and sighing.
+	"Everything alright?" she asked.
+	"I got stood up again last night." Amy replied wearily.
+	"Damn. It ain't fair." Chrissie shook her head. "I'm just saying, if I weren't seeing Heather, you'd be top of my to-do list."
+	"Thanks." Amy grinned. "Loving the dyke solidarity here."
+	Chrissie chuckled, as Amy's next appointment walked in.
+	"Heya..." she began, almost shyly. "Um... I'm here about the, uh... well..."
+	"The cover-up?" Amy grinned.
+	"Yeah..." the customer sighed, revealing "BRIAN" written in terrible handwriting... right at the base of her spine.
+	"Take a seat." Amy chuckled, and began working.
+
+	Connor looked almost despondently at the panelboard. He'd flipped on and off just about every switch, but... nothing was working.
+	His top lip curled, and his eyes darted around.
+	"Oi!" Trey called over. "Boiler's sorted. Need a hand?"
+	Connor stroked his chin, before an idea dawned.
+	"Nah... can you grab us a cuppa?"
+	Trey chuckled. "Sure thing."
+	As soon as he was out of sight, Connor closed his eyes and took a deep breath.
+	When he opened them again, his irises glowed a bright red.
+	His skin tingled slightly as the now-greyscale world revealed a menagerie of sensory data. Specifically... electromagnetic frequencies.
+	Boom. Right there. Staring him in the face this whole time.
+	A faulty capacitor. Nothing more.
+	He sighed as his eyes cooled down into their usual steel-grey, and he pulled out his kit.
+
+	Hours had passed, and Connor came back into the flat. There, Sparky rushed over to greet him.
+	"Hey, Connor! How have you been!"
+	"Hey, buddy!" Connor beamed, before looking into the flat.
+	Cotton stuffing littered the room, and a heap of teddy bear skins sat neatly in the corner.
+	"Um... Sparky... what did you do?" he asked, cocking an eyebrow.
+	"Ah... I, uh... Oh, no! I've just suddenly gone blind!" Sparky howled.
+	"Oh, really?" Connor grinned.
+	"Yeah. I, uh... I can't see what I... what I can only assume is a horrible sight."
+	"Oh, and let me guess... because you can't see it, it must not be there?"
+	"That's right!" Sparky nodded cheekily.
+	"Well, maybe you can smell it..." Connor grinned, picking up a disembowled teddy.
+	"Nope." Sparky protested, moving his head away from his diabolical crime. "Not real."
+	"Sparky, was this you?" Connor pressed, hiding his smirk.
+	"Nope. Doesn't exist. Wasn't me." he insisted, before breaking. "It, uh, it exploded! I tried to stop it, but it just went boom!"
+	"Mmhmm." Connor chuckled.
+	"It attacked me first! I swear! It's been working with the cats outside! And the postman - he's in on it too!"
+	"Oh yeah? Just like that time I left my sandwich on the side, and it magically leaped up and crawled right into your mouth?"
+	"No, that was a completely different incident." Sparky grinned.
+	Connor tilted his head, silently giggling.
+	"...would you believe that it was already like that before you left?"
+	Connor couldn't hold it anymore. He erupted into howling laughter, as did his packmate.
 
 Day in the life
 ______________________________
 SCENE
+	The hail of the previous night had subsided. It seemed Drackhill Valley was back to its regularly scheduled downpour of rain.
+	As the sun crawled beneath the horizon, Connor and Sparky were running.
+	Not like a normal man and his dog - they were running vertically. Up a tower block, which sat right between Redbridge and Belson.
+	Their feet, morphed over with adhesive grips, smacked into the wet concrete with notable punctuation. Sparky was a few feet ahead, and Connor tried to keep up.
+	He failed. Sparky sat down on the roof as Connor leaped up.
+	"Fu... fuck... damn it..." he panted.
+	"One day, you'll be as fast as me." Sparky grinned cheekily.
+	"Little shit." Connor smirked, crouching next to him. The two looked out at the cityscape.
+	"See that? Right there?" Connor asked, pointing to a speck of Belson.
+	"Yeah - warehouse unit." Sparky nodded.
+	"We're hitting there tonight." Connor explained. "The Patriots have a stash of drugs there. Our job is to take them down, and burn it."
+	"Nice." Sparky grinned. "And after?"
+	"After, we're gonna surprise everyone." Connor smiled, pointing down to Redbridge - to the Horse. "We won't be out as late as last night, but..."
+	"And hopefully, we won't have to blow up any substations tonight." Sparky chuckled.
+	"Ugh... don't tempt fate." Connor groaned.
+
+	"Another!" Trey cheered, having downed his drink.
+	"Jesus, quiet nights out aren't your thing, are they?" Bea quipped.
+	"By our standards, this is a quiet night out." Amy laughed, likewise downing hers.
+	"God..." Chloe grinned. "Also, don't hate me, but I might head off early tonight."
+	"Aw, why?" Trey asked.
+	"I was up past my bedtime." she grinned.
+	"Oh, yeah... perhaps you can explain why my brother didn't get home until 5 in the morning?" Amy cocked an eyebrow, smirking.
+	"Oh my god, you guys didn't!" Bea gasped, excited.
+	"What? Oh, no no no!" Chloe shook her head rapidly.
+	"The thought of it is that gross, huh?" Trey jeered.
+	"I--He just walked me home. He didn't want me walking alone through Belson, that's all." she clarified, her face red. "After that, we stayed up late, and talked. *Just talked.*"
+	Bea smiled warmly, and wrapped her arm around her.
+	Just outside, Pawel was approached by a large group of young men.
+	"Evening, fellas. IDs, please?" he asked.
+	"Fuck you, polack." one boy jeered, before punching him with some knuckledusters.
+	Pawel responded by delivering a slamming fist to the boy's jaw, knocking him down. But then a baseball bat crashed into his head, and he tumbled in through the doors.
+	The gang of youths, brandishing knives and clubs, stormed into the club.
+	"JOHNNY CRANE! COME OUT HERE, YOU FUCKIN' COCKSUCKER!" one of them roared.
+	Another rushed over to the barman, and pointed his knife. "Open the till! Now!"
+	The barman, pale as a sheet, opened it.
+	"Fuck you!" Amy roared, kicking one in the side of the leg hard enough to make it crunch. She was met with a backhand across the face.
+	Trey pounced in, knocking her assailant down. But a baseball bat to his chest knocked the wind from him.
+	At that, Johnny stormed out of the back office, brandishing a crowbar.
+	"COME ON THEN, YOU NAZI CUNTS!"
+
+	Across the city, Connor and Sparky looked over their target.
+	"Not as many men as I expected." Connor noted.
+	"Well, maybe they're just scared." Sparky grinned.
+	Connor felt his phone buzz. "One sec," he said, checking it.
+	The silent alarm for the Horse had gone off. He accessed it, and witnessed the chaos over the CCTV.
+	"Shit! Patriots are attacking the Horse! Everyone's there!" he gasped.
+	"Oh no! We have to help them!" Sparky barked, readying himself.
+	"Wait!" Connor yelled. "This must be a diversion. They won't be expecting a counterattack! You go into the warehouse, and carry on the mission alone. I'll get back to the Horse!"
+	"I'll go! I'm faster!" Sparky protested.
+	"I've got this." Connor replied. Sparky nodded, and pounced into the warehouse, as Connor sprinted off.
+
+	"Get away from them!" Bea roared, shoving one attacker back.
+	"You want some too? You fucking little skank?!" the man jeered back, raising his arms.
+	Johnny fought well, but took a hit to the head, and stumbled to the ground, dazed.
+	"*HEY!*" a deep, booming voice echoed throughout the club. The attackers turned, and went pale.
+	"Shit! He went for us instead!" one screamed.
+	"I knew I should've stayed at the coke den..." another lamented.
+	Connor cracked his knuckles, as his friends looked up in awe.
+	"Come get some!" he barked, rushing forward.
+
+	A Patriot - an older, experienced one as well - screamed in pain as Sparky's claws raked over his face.
+	"OH GOD! I THOUGHT IT WAS A MYTH! SOMEONE SAVE US!" he howled, with a damp patch forming over his groin.
+	His attacker - a snarling, red-eyed dire wolf - slammed him into a crate of drugs, before knocking another one down.
+	"Hey! Hey, stop right there!" one younger thug begged, pulling out a silver crucifix. "Now listen, we're going after your boss, we..."
+	Sparky grinned, and pounced, knocking the crucifix from the screaming thug's hands.
+	"I told you that shit wouldn't work!" another yelled, running away.
+
+	Connor launched a Patriot in the air, and he made a satisfying noise as he crashed into a table. Another swung his bat at him, only for Connor to catch it and snap it in half, before slamming him to the ground.
+	"F-fuck this!" the leader yelped, drawing a revolver.
+	"LOOK OUT!" Amy roared, as he pulled the trigger.
+	"NO!" Johnny likewise screamed, reaching out.
+	The first bullet hit him in the chest - right above his primary heart. It barely grazed the skin before embedding itself in his kevlar costume.
+	The next round made it to the secondary heart - to the same effect. A third hit in the abdomen, again to no injury.
+	"DIE! DIE! *DIE!*" the gunman howled, punctuating his fire. The room had gone still, as all watched in horror.
+	Normally, that'd be horror at seeing a man gunned down like this.
+	Instead, it was horror that he *wasn't.*
+	With all six shots spent, the gunman looked up in fear beyond fear. Connor stepped forward, and puffed out his chest. The bullets made an almost quaint jingling sound as they landed on the floor. He stepped over, and grabbed the barrel of the gun in his palm.
+	"...why won't you die?!" the gunman finally whispered.
+	"I'll die... when I fuckin' well please!" Connor roared back. He bent the barrel in his grip, pulled it back, and slammed the butt of the gun into the shooter's face. He stumbled back, before a second strike to the chest knocked him down.
+	All their assailants were out of the fight. Connor dropped the crumpled gun, and sighed. He looked down at his horrified friends.
+	"Th-thank you." Amy finally said.
+	"Don't mention it." Connor replied, hiding his voice. He walked out nonchalantly, and faded into the night.
+	Johnny stumbled to his feet. "Bar... bar's closed. Make your way home."
+	"Sure thing." Trey groaned, as Bea helped him rise. The four teens left the club, all still in shock.
 
 Fight outside the Horse
 ______________________________
@@ -4728,9 +4947,10 @@ SCENE
 	"...yes." he nodded. "It was either that, or get caught by the police."
 	"Can you grow hands back? Is that one of your superpowers?"
 	Connor allowed himself a chuckle. "Superpowers?"
-	"You *do* know I saw you outside the Horse, right? Getting shot in the chest five times and barely flinching?" she cocked an eyebrow.
+	"You *do* know I saw you outside the Horse, right? Getting shot in the chest six times and barely flinching?" she cocked an eyebrow.
 	"Fair enough." he grinned. "Anyway, I'm not sure. Never lost a limb before. But..." he began, pulling up his sleeve. "It's healed a little. Look at the bone - there was more sticking out ealier. Hell, my wrist-bone seems to be growing back too."
 	He pointed at the stump, revealing a fledgling wrist-joint forming above his arm-bone. His skin and flesh was creeping up the bone, covering it neatly. He hadn't looked at it in the light, but now he could see - His bone was dark, as though someone mixed calcium with coal. His brain flashed back to his school chemistry lessons, but he shook his head.
+	"Plus, I've grown back teeth before, and I've healed away scars." he shrugged.
 	Amy gulped, and held his stump gently.
 	"So... you're gonna be okay?" she asked finally.
 	"Probably. If not, I'm sure I can get some decent prosthetics from the KGB." he answered nonchalantly.
@@ -17841,7 +18061,7 @@ FLASHBACK
 	"Your report?" a Scandinavian voice replied.
 	"All is well for the Morgans. Progeny is progressing as planned."
 	"The other families?"
-	"I am unable to make any motion on the Barretts or the van Stattens, without attracting attention from ODESSA. Other women..." Zhou shuddered. "Other subjects appear to be developing Rejection Syndrome. We have covered this up, of course, telling them that no defects have been found."
+	"I am unable to make any motion on Barrett, without attracting attention from ODESSA. Other women..." Zhou shuddered. "Other subjects appear to be developing Rejection Syndrome. We have covered this up, of course, telling them that no defects have been found."
 	"And how about your own family?"
 	"My... my daughter seems well, thank heavens."
 	"Excellent news." the voice replied. "Carry on."

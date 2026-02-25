@@ -1,0 +1,326 @@
+
+Werewolf Squad
+
+	Vanguard
+		Connor Barrett
+
+	Predator
+		Sparky
+
+	Acrobat
+		Trey Morgan
+
+	Skirmisher
+		Amy Zhou
+
+	Heretic
+		Thrax
+
+Riverside
+
+	Troubleshooter
+		Ivan Sokolov
+		Powers:
+			Super-Agent physicals
+			Unparalleled eyesight + superhuman aiming skills
+
+	Countess
+		Name: Chloe Derrington
+		Powers:
+			Vampire
+			Psionic powers
+				Biomanipulation
+				Telekinesis
+				Telepathy
+				Psi blades + Psi blast
+				Flight
+				Precognition
+				Daemonology
+			Super-agent physicals
+
+	Stunlocke
+		Name: Bea Jefferson
+		Powers:
+			Powered armour suit
+			Stun gauntlets
+			Grappling hooks
+			Wrist mounted guns (can be modified to fire non-lethal rounds)
+
+
+	The Marshal
+		Name: Frank Ryder
+		Powers:
+			Superhuman aiming skills (short range only)
+			Peak physical condition
+
+	Blackjack
+		Name: Theo Khan
+		Powers:
+			Peak physical condition
+			Martial arts mastery
+			Gadget arsenal:
+				Spy watch
+					Tranq darts
+					Hacking gear
+					Flamethrower
+					Electric shocker
+				Silenced pistol
+
+	Jinx
+		Name: Shannon Taylor
+		Powers:
+			Modified powersuit
+			Hacking gear
+			Deployable combat drones and SPYD3R bots
+
+Riverside Youth
+
+	Autokine
+		Name: Bobby Baines
+		Powers:
+			Autokinesis:
+				Flight
+				Superior physical attributes
+				Moderate healing factor
+				Psi blades
+				Limited precognition/danger sense
+
+	Sentinel
+		Name: Sentinel
+		Powers:
+			Robot body
+			Jetpack
+			Hacking gear
+			Modular components
+			Can upload to backup bodies
+
+	Changeling
+		Name: Mal
+		Powers:
+			Complete shapeshifting
+			Can 'possess' consenting allies, empowering both
+			Advanced healing factor allowing regeneration mid-combat
+
+	Envoy
+		Name:Laeri G'Sharr
+		Powers:
+			Alien (nasper)
+			Advanced Psion:
+				Very powerful telepathy, able to mind control multiple enemies at once
+				Telekinesis includes fine manipulations
+				Can teleport to known locations
+				Psi blades
+
+	Bug Boy/Myrmex
+		Name: Sipho Chabane
+		Powers:
+			Minor biomanipulation
+			Psychic control over his "bugs"; biomanipulative fusion of parasitoid wasps and fire ants
+			Self-biomanipulation; slightly superhuman physicals
+
+Unbroken
+
+	Harpy
+		Name: Eliza Mercott
+		Powers:
+			Flight via wings
+			Bladed feathers
+			Sonic scream
+			Super-Agent physicals (minus toughness)
+
+	Roach
+		Name: Roach
+		Powers:
+			Nigh-invulnerability
+			Can survive decapitation
+
+	Twitch
+		Name: Tommy Smith
+		Powers:
+			Super-speed (up to 140mph when sprinting, 60mph when jogging)
+			Bioelectricity (can zap targets; can charge self from outlets to use chain lightning and EMPs)
+			Post-Psychic Awakening: Electrokinesis (above, plus magnetic powers and longer range)
+			Super-Agent physicals
+
+	Hellfire
+		Name: Jonathan Brent
+		Powers:
+			Pyromaniac arsenal
+				Flare pistol
+				Molotov Cocktails
+				Fire axe
+				Flamethrower
+			Super-Agent physicals
+			Fireproof skin
+
+	Chemistress
+		Name: Polly Allen
+		Powers:
+			Super-Agent physicals
+			Tox immunity
+			Can generate chemicals for combat
+				Hallucinogens
+				Nerve agents
+				Corrosive spit
+				Pheremones
+				Choking agents
+				Blood toxins
+				and more!
+
+	217
+		Name: 217
+		Powers:
+			Werewolf physicals
+
+MKUltra
+
+	Whiplash
+		Name: Olivia Cunningham
+		Powers:
+			Trajectory manipulation
+			Super-Agent physicals
+
+	Whisper
+		Name: Laila Soubir
+		Powers:
+			Invisibility (via photokinesis)
+			Super-Agent physicals
+			post-Awakening: Imperceptibility/Obfuscation
+
+	Impact
+		Name: Elliot Kane
+		Powers:
+			Telekinetic blasts
+			Force fields
+			Super-Agent physicals
+
+	Frostbite
+		Name: Halima Yusuf
+		Powers:
+			Cryokinesis
+			Humidification (draws in ambient moisture to her vicinity)
+			Super-Agent physicals
+
+	Blink
+		Name: Vihaan Gupta
+		Powers:
+			Teleportation
+			Portal creation
+			Super-Agent physicals
+
+Prometheus Institute
+
+	Mastermind
+		Name: Eugene van Statten
+		Powers:
+			Super-intelligence
+			Power armour
+			Robotic drones
+
+	Edge
+		Name: Kenji Yamazaki
+		Powers:
+			Cyborg body
+			Master swordsman
+			Nanoblade
+
+	Neurocrat
+		Name: Professor Anita Anderson
+		Powers:
+			Brain in a jar
+			Super-intelligence
+				(actually, minor precognitive ability manifesting as instinctual knowledge of science and technology)
+			Robotic drones
+			Mechasaur (giant dino mech she pilots)
+
+	Darwin
+		Name: Charles Darwin II
+		Powers:
+			Albino Gorilla body
+			Genius intellect
+
+The Commission
+
+	Blitz
+		Name: Luke Miller
+		Powers:
+			Cyborg body
+			Jetpack
+			Wrist-mounted guns
+			Shoulder-mounted grenade launcher
+			Trick grenades
+
+	Goliath
+		Name: Piotr Novak
+		Powers:
+			Super-Giant physicals (10ft tall, >100t lifts)
+			Cybernetic harness
+
+	Monarque
+		Name: Henri Messier
+		Powers:
+			Gadgets
+			Master martial artist
+			Peak human physicals
+
+	Ms. Magpie
+		Name:
+		Powers:
+			Super-Agent physicals
+			Stealth mastery
+			Gadgets
+
+	King Kaliber
+		Name:
+		Powers:
+			Giant-level physicals
+			Massive minigun
+
+	Brawn Hilda
+		Name: Olga Lazarova
+		Powers:
+			Giant-level physicals
+
+	Homerun
+		Name:
+		Powers:
+			Super-Agent physicals
+			Tungsten baseball bat
+			Baseball grenades
+
+	Bedlam
+		Name:
+		Powers:
+			Super-Agent physicals
+			Mastery of explosives
+		Motive: Chaos; rulebraking; The Purge
+
+Blood Court
+
+	Kemetar
+		Name: Kemetar
+		Powers:
+
+	Masters Zhang
+		Name: Zhang Daozhi
+		Powers:
+		Name: Zhang Zhiwei
+		Powers:
+
+	Watcher/Gargoyle
+		Name: John H. Pierce
+		Powers:
+
+Optimates
+
+	Dominus
+		Name: Gordon de Vere
+		Powers:
+
+	Commandant
+		Name: George Davis
+		Powers:
+
+	The Artist
+		Name: Marcel Vacher
+		Powers:

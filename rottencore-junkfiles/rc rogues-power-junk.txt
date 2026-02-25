@@ -1,0 +1,136 @@
+
+Werewolf
+	Powers:
+		Strength: Can lift >20t
+		Durability: Can take direct hits from assault rifles with minimal damage
+		Speed: Can reach speeds of >100mph
+		Senses: Superior senses - twice as good as anything on Earth, plus Super-Vision allowing for synesthesia and echolocation
+		Reflexes: Can slow down perception of time to a crawl
+		Healing: can recover from serious injuries in hours; can regrow any body part so long as the brain (or backup chest-brain) is working
+
+Super-Agents (generic)
+	Strength: Can lift >3t
+	Durability: Can withstand pistol shots with only minor damage
+	Speed: Can reach speeds of >30mph
+	Senses: Slightly superhuman - can smell as good as a dog, hear as good as a bat, and see as good as a hawk
+	Reflexes: Can react twice as fast as a human
+	Healing: Can recover from serious injuries in days; can regrow small parts like teeth, ears, or other extremities
+
+Ranger
+	Strength: Can lift >10t
+	Durability: Can withstand rifle shots with only minor damage
+	Speed: Can reach speeds of >60mph
+	Senses: Slightly superhuman - can smell as good as a dog, hear as good as a bat, and see as good as a hawk
+	Reflexes: Can react thrice as fast as a human
+	Healing: Can recover from serious injuries in days; can regrow body parts after a while. When cancerous, healing factor is disabled
+
+Stunlocke suit
+	Strength: Can lift >5t (>10t when worn by Super-Agents)
+	Durability: Suit can take assault rifle fire for short bursts; when upgraded with CNT armour, can even tank hand grenades
+	Speed: Can enhance user to speeds of >30mph (>60 for supers)
+	Senses: suit has thermal and sonar built into helmet
+	Reflexes: Suit can administer adrenaline to highten reflexes and combat awareness
+	Healing: Suit can adminsiter healing serum; armour cannot repair itself
+
+Whiplash
+	Super-Agent physical ability
+	Can manipulate trajectory of objects in motion
+
+Whisper
+	Peak human physical ability; later Super-Agent
+	Can turn invisible by bending light; later upgraded into perception filter covering noise, smell, and presence too
+
+Roach
+	Nigh-invulnerable skeleton
+
+Harpy
+	Fragile flier, with sonic scream attack
+
+Changeling/Terror Toma/Malignant
+	Sentient cancer blob; able to shapeshift but less strong and tough without a true host
+
+Goliath
+	Massive, cybernetically-enhanced giant. Can lift >100t
+
+Mastermind
+	Genius-level intellect. Self-made power armour capable of burst flight, and can match Werewolves for physicality
+
+Sentinel
+	AI system designed by Mastermind. Superior physical stats for main bodyform, but zero healing factor
+
+Edge
+	Cyborg ninja. Stunlocke-level capabilities
+
+Bug Boy/Myrmex
+	Super-agent physicals. Can psycically command a swarm of insects bonded to him
+
+Twitch
+	Super-agent physicals, but with speeds of up to 140mph. Can generate electrical attakcs
+
+Blitz
+	Super-agent physicals, made redundant by cybernetic enhancements. Ranger/Stunlocke-level physicals afterwards. Jetpack for improved mobility. Variety of tricks and flunky mechanics, like drones and grenades
+
+Jinx
+	Stunlocke-type suit, modified with extra cyberware and sacrificing some armour for a drone backpack, allowing for flunky deployment
+
+Hellfire
+	former fireman turned pyromaniac; flamethrower, molotovs, fire axe, flare gun, etc. Following Psychic Awakening, gains pyrokinesis, becoming even more dangerous and unhinged
+
+Frank Ryder
+	human physicals, but with superhuman short-range aim
+
+Kemetar
+	Resurrective immortality
+
+Masters Shao
+	Vampires - one a vampire mage, the other a Dhampir warrior
+
+Countess
+	Vampiress; powerful sorceror. Has Ranger-level physicals due to drinking Connor's blood
+
+Mr. Magpie
+	Vampire; excellent detective. Can shift into gargoyle form. Can perform psychometry in normal form, and precognition in monster form
+
+Agent Khan
+	Peak human; highly skilled martial artist, with litany of gadgets
+
+Impact
+	Super-Agent physicals. Can make telekinetic blasts and force fields
+
+Blink
+	Super-Agent physicals. Can teleport short distances
+
+Dominus
+	Compelling voice and telekinesis. Later refined into outright magic through daemonology
+
+Frostbite
+	Super-Agent physicals
+	Cryokinesis
+
+
+
+
+
+Lineups:
+
+Werwolves:
+	Connor/Vanguard
+	Sparky/Spartacus
+	Trey/Acrobat
+	Amy/Skirmisher
+
+
+Villains:
+	Goliath
+	Whiplash
+	Blitz
+	Edge
+	Blink
+	Frostfire
+
+Psychos:
+	Hellfire
+	Twitch
+	Harpy
+	Impact
+	Bug Boy

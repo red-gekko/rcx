@@ -53,12 +53,14 @@ SCENE
 	"Oh it was, was it?" the first voice scowled.
 	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Federal Police will butt heads with UN Security, and Interpol will be completely ineffective. Switzerland's tradition of direct democracy has always limited our influence... By provoking public fear, we can herd the sheep into our pens."
 	"And the WHO?"
-	"Placated. We've pinned the attack on Romand separatists." he answered. "What matters now is reminding Dr. Zhou of his... obligations."
+	"Placated. We've pinned the attack on Romand separatists." he answered. "What matters now is that we have Dr. Zhou again. Now he must be reminded of his... obligations."
 	"Oh, he will be reminded alright... I can *assure* you of that, sir." the Commandant scowled.
 	"Good. Now then, onto the agenda."
 	"Gladly, sir." the Commandant nodded. "Operations in the East have progressed smoothly. The Reds are on the back foot."
-	"Excellent." the first voice audibly grinned. "Our associates in America should be pleased. Gordon, how fare our proxies in the third world?"
-	"Quite well, quite well." the aristocrat replied. "Western backing of the Somali coup has opened up the nation's oil reserves to our backers, and by extension, us."
+	"Excellent." the first voice audibly grinned. "Our associates in America should be pleased. Lord Oxford, how fare our proxies in the third world?"
+	"Quite well, quite well." the aristocrat replied. "Western backing of the Somali coup has opened up the nation's oil reserves to our backers, and by extension, us. How about on your front, Claus?"
+	"I've been keeping an eye on Renard, as you requested. He's been in contact with the Dutchman."
+	"Damn fool. You almost have to admire the balls on him." Oxford audibly grinned.
 	"And how about your group, Commandant?"
 	"We work ever closer to the Final Victory, sir."
 	"Indeed, indeed." the first voice replied dismissively.
@@ -758,7 +760,7 @@ SCENE
 	"And as per usual, no one on MIT was informed?" he raised an eyebrow.
 	"Certainly seems that way, sir." she smiled.
 	"Well, this case'll be good experience." Naismith grinned.
-	"You're welcome to take a look, sir." the FI shrugged. "I can't believe it either, but... all the evidence says it was a gunshot."
+	"You're welcome to take a look, sir." the FI shrugged. "I can't believe it either, but... all the evidence says it wasn't a gunshot."
 	Naismith paused, then put on some gloves, and entered the forensic tent. Nina followed suit.
 
 	Naismith crouched beside the corpse, squinting under the harsh white tent lights.
@@ -778,12 +780,13 @@ SCENE
 	"We found a knuckleduster on his person too, of the kind often seen among the Patriots. We're checking for prints, see if we can ID this guy."
 	Nina, standing a little awkwardly, shifted forward. She leaned to look at the ruined jawline. "Sir... may I?"
 	Naismith gestured for her to continue.
-	She pointed delicately with a gloved hand. "These fractures - see how they radiate from under the chin? There are four clear breaks, evenly spaced. Almost the same distance as knuckles. Sorry... looking at the numbering made me notice."
+	She pointed delicately with a gloved hand. "These fractures - see how they radiate from under the chin? There are four clear breaks, evenly spaced. Almost the same distance as knuckles."
 	For a moment the tent was silent, rain pattering on the canvas above.
+	"Sorry..." she said shyly. "Looking at the numbering on his knuckles... made me notice the similarity."
 	"Well spotted." Naismith nodded.
 	The FI snorted. "Come off it. Nobody can take a man's head off with a punch."
 	Naismith didn't answer right away. He rubbed at the stubble on his chin, eyes narrowing, running the thought through. "No." he said at last. "But we've yet to find another explanation that fits."
-	"So, the suspect is what, a superhuman?" the FI joked.
+	"Okay... so the suspect is, what, The Hulk?" the FI joked.
 	"Obviously not." Naismith shook his head. "No, there... there's gotta be an explanation."
 	"I can go through previous case files, if you like, sir?" Nina asked. "See if there's any parallels?"
 	"Good idea." Naismith nodded, before turning to the FI. "Once you find an ID, send it through. I'll see if the Syndicate has anything to say about this."
@@ -826,7 +829,7 @@ SCENE
 	Connor descended the stairs into Johnny's back office. He spotted the door was closed, and so pressed his ear to it.
 	Whatever had been done to him had given him more than just superhuman strength. His hearing was acute - as though he was in the room.
 
-	"As I said, Mr. Crane, we just wanted to go over some things." Naismith began.
+	"As I said, Mr. Kane, we just wanted to go over some things." Naismith began.
 	"Of course. I'm always happy to help the police." Johnny said through audibly gritted teeth.
 	"Do you know the name 'Reece Tomlinson'?"
 	"Never heard of him."
@@ -2273,13 +2276,19 @@ SCENE
 	Click. The hammer snapped forwards harmlessly. Out of ammo.
 	Without any further thought for tactics or deliberation, Connor rushed in like a crazed bull. He slammed himself into the leader's side, sending him flying.
 	The leader looked up, now consumed with fury. He pulled a small cylinder from his belt, pulled a pin from it, and launched it at Connor. Before he could react, a blinding flash of light and a horrific piercing noise overwhelmed him. A flashbang grenade.
-	Connor began to shake violently, clutching his head as though it might well pop. The leader rose, drawing his serrated blade again, and...
+	Connor began to shake violently, clutching his head as though it might well pop. The leader rose, drawing his serrated blade again, and sank it into Connor's gut.
+	Connor felt the agony wash over him like hot water. Before he could lose himself, however...
 	"RAAAAGH!"
 	The wolf pounced out, his eyes flashing from yellow to blood-red. Like Connor's own Rages, he'd been transformed. Where once he was fluffy and furry, he was now encased in a chitinous carapace, and his claws looks like they could slice open a tank. He grabbed the leader's wrist and yanked away, ripping off the hand.
 	"GRAAAGH! DIE! DIE!" he roared.
 	The leader screamed in agony, clutching his stump. The wolf then gripped the leader's leg in his mouth, pulling.
 	The leader frantically kicked away, falling on his backside. A kick enhanced by terror and pain pushed the wolf's head away, but he was undeterred. A swipe of claws to the abdomen, then another to the torso, and a third to the neck, before teeth sank into the squirming, roaring body. Each bite and swipe was accompanied by a horrifying, blood-chilling roar. Eventually, Connor regained his senses as the leader's screams ended.
 	Connor panted for breath, as did the wolf. But still - a full squadron of highly trained, professional killers - enhanced beyond human powers - and a teenage boy and a caged wolf killed them all.
+	He reached down, feeling his head cool off. He gripped the handle of the knife, and yanked it out, sending a globule of blood outwards.
+	The wolf crawled over, exhausted.
+	"We... we're safe..."
+	Connor knelt down, and stroked his ears. He gratefully pressed his head into Connor's palm.
+	"Come with me."
 	He hoisted Ivan up onto his shoulder. Ivan seemed to be stirring now - his body twisting unnaturally under the influence of the alien serum in his veins.
 	Without any further words, the three headed to the car.
 
@@ -2305,7 +2314,7 @@ SCENE
 	"Says the man who got filled with lead." Connor quipped.
 	Ivan laughed, jovially this time. "In my defence, tovarishch, I'm used to killing *men,* not mutants."
 	"No shit. You couldn't even kill me with a sniper rifle." Connor grinned. "Speaking of... the bullets they were using, they just broke the skin. I dug 'em out without any trouble. So... how the hell did your bullets punch through me like that?"
-	Ivan reached into his ammo bag, revealing his sniper bullets - they had onyx-black tips.
+	Ivan reached into his ammo bag, revealing his sniper rounds - with onyx-black tips.
 	"Carbon plating." he began. "Hard as diamond - don't fuck with Isabella. I'd hoped it'd cripple you, and we'd be able to capture you and try to deprogram. Empty your head of any chush sobach'ya."
 	"Why didn't you use that earlier?"
 	"Most of these... things... they're not as tough as you. Tough, sure, but you... you are to them what they are to us." Ivan explained. "Well... not *us.*" he sighed, looking down at himself. "And, these bullets are expensive, you know."
@@ -2321,8 +2330,12 @@ SCENE
 	"Nice work today, tovarishch. We make a good team."
 	"Next time we meet, try not to shoot me, aye?" Connor snarked. Ivan chuckled.
 	"By the way..." Connor continued, pulling out the serrated knife used by the Agent's leader. "Got you a present."
-	"Oh, chyort! Don't tell Isabella." Ivan laughed, taking the blade. He turned it to look, the glimmer of the edge reflecting in his eyes.
+	"Oh, chyort! Don't tell Isabella." Ivan laughed, taking the blade. He turned it to look, the glimmer of the edge reflecting in his eyes. It had a distinctive pattern, like flowing water.
 	"It's a beautiful knife, no question." he noted. "Definitely deserves an owner who's not a Nazi."
+	"One of them got me in the gut with it. Hurt pretty badly - almost as bad as your bullets." Connor shrugged.
+	"Da - look at the patterns." Ivan pointed. "It's a derivative of Wootz steel. The patterns are from the carbide within - see how it flows? An old comrade of mine in OKB-4 was working on something similar - it'll outperform any steels on the market. Ideal for slicing up mutants."
+	"Didn't know KGB snipers were into metallurgy." Connor quipped.
+	"I'm not. I'm into knives." Ivan winked, sheathing the blade.
 	Connor grinned, as Ivan left the car.
 
 	After that, he drove back to his own place. He and the wolf went inside.
@@ -2359,14 +2372,22 @@ SCENE
 	"Ahh! Where did that man come from?!" he barked, startled. "Go away! Leave us alone!"
 	"Oh, no no it's okay! They're not really here, the telly just shows us things - like a window."
 	"...I never had windows." he said sadly. Then he looked at the television and smiled. "But I do now!"
-	The two watched the movie. The "I Am Spartacus" scene played.
+	The two watched the movie.
+
+	"Slaves you were, and slaves you remain! The terrible penalty of crucifixion has been set aside, on the single condition that you identify the body, or the living person, of the slave called Spartacus!"
+	The revolting gladiators held their collective breath. Connor and the wolf leaned in, watching the scene closely.
+	Then, Spartacus stood - as did the men to his sides.
+	"I'm Spartacus!" they roared in unison.
+	Before long, the entire army was screaming the same.
+	"I'm Spartacus!" "I'm Spartacus!" "I'm Spartacus!"
+
 	"What does that mean?" the wolf asked.
 	"Well, there's loads of interpretations there - but I like to think, they're all saying 'Spartacus isn't one man. He's an idea, one of freedom and liberation. You can hurt us and kill us, but we'll still be Spartacus.'"
-	The wolf paused for a moment. "I am Spartacus." he said to himself.
+	The wolf paused for a moment. "I'm Spartacus." he said to himself.
 	"Hey..." Connor began, "I know you didn't like the name the bad guys gave you... do you like the name Spartacus?"
-	"Me? Yes! I love it! I have a name!" Spartacus replied, wagging his tail.
+	"Me? Yes! I love it! I have a name!" he replied, wagging his tail.
 	"Spartacus." Connor smiled. "Sparky for short!"
-	"Yes! I love it, I love it!" Sparky replied happily.
+	"Yes! I love it, I love it!" Sparky nodded happily.
 
 	Across the city, in a safehouse, sat Ivan. His superior, Morozov, stood. Ivan was bandaged, but almost fully healed.
 	"[Report.]" Morozov said in Russian.
@@ -2407,7 +2428,7 @@ SCENE
 	"How old are you?" Sparky tilted his head.
 	"I'm 19. 19 years. A year is 12 months, by the way."
 	"Wow." Sparky looked up, amazed. "Are all humans as old as you?"
-	"Most are older." Connor chuckled. "Wolves are fully grown by 2 years old, but most of the growth is done by 1. I'd say you're about halfway grown. Anyway, it says here you were nursed by a mutt. Do you remember that?"
+	"Most are older." Connor chuckled. "Wolves are fully grown by 2 years old, but most of the growth is done by 1. I'd say you're about three quarters grown. Anyway, it says here you were nursed by a mutt. Do you remember that?"
 	"What's a mutt?"
 	Connor answered by pulling up a photo.
 	"Mum!" Sparky barked in excitement, licking the screen. "Where have you been?! Why did you leave me?! I missed you!"
@@ -2540,6 +2561,39 @@ FLASHBACK
 Francis intro
 ______________________________
 SCENE
+	"Gentlemen." the Commandant began.
+	"What have the events in Drackhill cost us?!" one old man roared. His face, like the others present, was partially obscured by the room's shadows.
+	The Commandant sighed, and rubbed his temples. He looked down the massive oakwood table, and try as he might, he could not shake the image of murdering everyone present.
+	"Commandant!" the man at the head of the table barked.
+	"Apologies, sir." he said. "The loss of Subject 6--"
+	"Due to YOUR incompetance!" another old rich man screamed.
+	"Daniel..." the chairman said softly, raising his hand. His fellow cabalite relaxed slightly.
+	"Proceed, Commandant."
+	"Thank you, Lord Oxford." the Commandant nodded. "As I was saying, the loss of Subject 6 has negatively impacted serum production. However, the amount harvested from Barrett has allowed us to create a meaningful stockpile."
+	"How are you planning on killing Barrett?" one man asked.
+	"We have a number of--"
+	"Answer the question!"
+	The Commandant snarled animalistically in response, making the man go pale.
+	Oxford stood up from his seat. He stepped into the light, revealing himself. His grey slicked-back hair and cropped beard gave him an air of elegance, and his voice was almost comically aristocratic - as if sentence should end in "Peasant." His eyes sat behind his glasses - they were a brown so pale as to be almost yellow.
+	"Do that again, George." he said softly.
+	"S-sir, I--"
+	"I SAID *DO THAT AGAIN!*" he screamed. His eyes flashed a brilliant violet.
+	The Commandant quickly cleared his throat. "My apologies, sir. If I may continue?"
+	Oxford sat back down, satisfied. "Proceed. What are your plans on dealing with Barrett?"
+	"We have a number of active plans we are developing, sir. Project Crusader is currently underway, and we will test it as soon as possible. Both Barrett and Six were... treated, by Randall. So, we feel his involvement will be an effective psychological tool."
+	"Why don't you just kill him yourself?" another man chimed in.
+	"That is certainly an option." the Commandant nodded grimly.
+	"No." Oxford cut in. "It is not. A fight between you two, in the middle of the city... it hardly bears thinking about. If you're going to deal with Barrett, do it quietly. Ideally, we can keep him distracted while our other plans go ahead unimpeded."
+	"Sir, with respect..." the Commandant began. "We're bleeding operatives by doing that--"
+	Oxford's eyes flashed violet again, and the Commandant began to choke, as though an invisible hand was squeezing his throat.
+	"The last time I checked, George - you were under orders to leave him and the other children alone. This is *your* fuck-up. So *your* department will pay the price."
+	The Commandant desperately nodded, and Oxford released the intangible grip.
+	"Well then, that will be all. Good night, everybody." Oxford said chipperly.
+	The board members left, as the Commandant caught his breath.
+
+Conspiracy reacts
+______________________________
+SCENE
 	It was like another world.
 	Connor and Sparky were rushing through fields together. Sparky leapt into the air and caught a tennis ball. Connor laughed, and cheered. Stella, his old, long-dead Staffy, was rushing around with them, as though she was a puppy again. Vince, Amy, and Trey all stood nearby, cheering. A number of young wolves revealed themselves from the long grass, playing with each other. Sparky's adoptive mother - a brown mutt - plodded over, and licked him warmly.
 	Then, a horrid crashing noise pierced their minds, which rapidly turned into a gentle fumbling. Connor opened his eyes, and through his super-vision saw Amy struggling with the lock, still drunk. It was the early hours of the morning.
@@ -2567,8 +2621,8 @@ SCENE
 	"I, uh... I found him last night." Connor cut in awkwardly. "While I was out. The, uh... the Patriots, they were abusing him."
 	"Patriots?" Sparky tilted his head.
 	"Poor baby!" Amy said, hugging him. "He's so well behaved, though! Aww... What's his name?"
-	Connor smiled. "He's called Sparky."
-	"Hi, Sparky!" she beamed. "I'm Amy."
+	Connor smiled. "I've named him Sparky. Uh... short for Spartacus."
+	"Fuckin' nerd." Amy grinned. She looked down, and beamed. Hi, Sparky! I'm Amy."
 	"Hi!" he yipped back.
 	"Aww... chatty pup, isn't he? Anyway, what are you gonna do with him?"
 	"I, uh..." Connor paused, trying to figure out the words. "I'm gonna keep him here."
@@ -3062,7 +3116,7 @@ SCENE
 	"What?!"
 	"It's okay. You'll work for a place called 'International Executive Solutions' - a company used by all the big power players in the world - take down bad guys and get paid."
 	"What are you saying?!" Connor replied, unconvinced.
-	"Listen. I got you a good job. Your target is a man named Omar Hattab. Algerian general with a chip on his shoulder. Plotting to overthrow the government, institute a military dictatorship, and go to war with Morocco. Government can't do anything, Western agencies are backing him, the KGB can't touch him - but you can. IES will handle travel, alibis, room and board. All you have to do is kill the bastard. Payout is 200k, paid as monthly installments of 4 grand for 4 years. We'll also be owed one by several power players - I'll use that favour to dig up more dirt on these psychos." Ivan explained.
+	"Listen. I got you a good job. Your target is a man named Omar Hattab. Algerian general with a chip on his shoulder. Plotting to overthrow the government, institute a military dictatorship, and go to war with Tunisia. Government can't do anything, Western agencies are backing him, the KGB can't touch him - but you can. IES will handle travel, alibis, room and board. All you have to do is kill the bastard. Payout is 200k, paid as monthly installments of 4 grand for 4 years. We'll also be owed one by several power players - I'll use that favour to dig up more dirt on these psychos." Ivan explained.
 	"You're asking me to kill a man, potentially the next leader of Algeria, for money?"
 	"No." Ivan replied curtly. "I'm asking you to prevent a war that would kill hundreds of children, you'll just so happen to be rewarded for it."
 	"Nice appeal to my morals. You're still asking me to kill for money."
@@ -3108,16 +3162,16 @@ SCENE
 	"The army won the war, but not without several atrocities. Not that the Islamists weren't brutal too, but they were by all rights the legitimate government. After the war, new elections were held, and president Ibrahim Sifi consolidated his control. He resigned in 2009 - the elections that year lead to the Socialist Party of Algeria, or SPA, taking power. Terms in Algeria are 5 years long ever since Sifi's constitution, so in the recent elections, the SPA's current leader, Abdal Mohammed el-Bennani, spoke of impartial investigations into atrocities committed by both sides in the war. This unsettled the chiefs of staff - Hattab being the figurehead of this movement."
 	"So they're carrying out a coup, just to cover up the crimes they committed in the last coup." Connor noted grimly.
 	"Hattab may be the ringleader of this coup, but..." the man paused, "There are suspicions that ex-president Sifi is involved, too."
-	"What, he couldn't be arsed to run for office again?" Connor quipped. "Anyway - is there anything I need to know about the region as a whole? I heard mention of war with Morocco."
+	"What, he couldn't be arsed to run for office again?" Connor quipped. "Anyway - is there anything I need to know about the region as a whole? I heard mention of war with Tunisia."
 	The man sighed, and checked his notes again. "How much do you know about North African politics?"
 	"Just give me the basics." Connor chuckled.
 	"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Ba'ath Party - and the Islamic Republic of Egypt, led by the Muslim Brotherhood. As you can guess from the names, the UAF supports secular pan-Arabism, while the IRE supports Islamism. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist militants backed by the UAF, and a small democratic movement caught in between."
 	He pulled out a map of the region, to better illustrate his lecture.
-	"Tunisia is a democratic, multi-party republic - one of the few in the region. They mainly side with the UAF on regional politics, though - since both are secular modernists. And Morocco is a monarchy, officially unaligned - but when the Algerian Civil War ended, most of the rebels either went out to Libya to fight there, or sought refuge in Morocco. From what we know, the military establishment in Algeria, especially Hattab's clique, don't want to get stuck in a quagmire of intervention in Libya - but they *do* want to 'settle the score' with the remnants in Morocco."
+	"Tunisia is a democratic, multi-party republic - one of the few in the region. They mainly side with the UAF on regional politics, though - since both are secular modernists. When the Algerian Civil War ended, most of the rebels either went out to Libya to fight there, or sought refuge in Tunisia. From what we know, the military establishment in Algeria, especially Hattab's clique, don't want to get stuck in a quagmire of intervention in Libya - but they *do* want to 'settle the score' with the remnants in Tunisia."
 	"Right... So who's backing Hattab, and who's backing us?" Connor asked, somewhat bored.
-	"Hattab is backed by the UAF, and NATO." the man replied. "The UAF backs him because they think they can sway him to Ba'athism, or at least destabilise Morocco and give them a chance to spread their influence. NATO backs him because the SPA want to nationalise several industries, including the oil industry."
+	"Hattab is primarily backed by South Africa - primarily because the SPA supports pan-Africanism." the man replied. "The UAF is more or less neutral - Hattab's nationalist policies and anti-Islamism would ordinarily appeal to them - but South Africa and the UAF are rivals for influence in Africa, which complicates things. We, on the other hand, were approached by French intelligence, who back the SPA."
 	"I thought this contract came from a construction company?" Connor tilted his head.
-	"It does. Said company has several contracts with the current government, specifically building railways. Those contracts would fall through in the event of civil war. Aside from that, we're also being backed by Morocco, who want Hattab gone before he can threaten them. No word yet on if the Muslim Brotherhood has anything to do with this, but I doubt it."
+	"It does. A French company is footing the bill - they have several contracts with the current government, specifically building railways. Those contracts would fall through in the event of civil war. Aside from that, we're also receiving minor support from Tunisia, who want Hattab gone before he can threaten them. No word yet on if the Muslim Brotherhood has anything to do with this, but I doubt it."
 	Connor paused, hesitant.
 	"What's wrong?" Sparky asked.
 	"Nothing, buddy." he said quickly. "Alright, what's the plan?"
@@ -3456,6 +3510,43 @@ SCENE
 	"Yeah." he smiled softly, before heading to his room. He let out a deep breath, and ran his hands through his hair.
 
 Charlie begins
+______________________________
+SCENE
+	"Et... voila!"
+	The olive-skinned man, with sweeping hair and a chinstrap beard, smiled as he looked on at a house of playing cards he had built. It had nine stories in height. Two empty packs, and a third with nearly half missing, lay by the tableside. He turned, and looked outside his window, grinning at the Parisian night sky.
+	Before the man could relax, the room's door swung open, the breeze knocking the cards over.
+	"Putain de *MERDE!*" he roared, kicking his table hard enough to snap it in two.
+	"Mr. Renard." the intruder began.
+	"Monseigneur Oxford..." Renard snarled. "To what do I owe the displeasure?"
+	"You fucked around with my coup in Algeria, that's what." Oxford snapped back. "What kind of game are you playing?"
+	Renard grinned. "I had business interests in those events, the same as you. You lost, Oxford. Get over it."
+	"Your machinations have set my plans back by weeks, if not months." Oxford shook his head. "Do I need to remind you of your... obligations?"
+	"Do *I* need to remind you that I said from the start, that I would not work with ces porcs de fascistes?!"
+	Oxford leaned in, his glasses falling slightly. Behind them, his pale brown, almost yellow eyes, pierced into Renard's.
+	"If you want out, Renard, then get out. We can replace you with someone more... amiable."
+	Renard grinned like a fox. "Oh, petit seigneur... We both know you're talking connerie. I'm not one of your flagorneurs - I'm not a puppet of the Commision, I *am* the Commission! Oh, I wonder what would happen to your precious plans if, par exemple, you no longer had my network? Oh, just *imagine* the chaos..."
+	Oxford's lip curled, and his eyes flashed a brilliant violet. Immediately, Renard began choking, as though an invisible hand gripped his throat.
+	"Think very... *very* carefully... about what you say next, Renard." he snarled.
+	"You--agh! You think I don't have a--a backup plan?" Renard spat. "I die... all your dirty business goes public."
+	"Bullshit." Oxford scoffed.
+	"Web servers... hidden over the world... release everything without my intervention..."
+	"You're bluffing." Oxford shook his head.
+	"Then call my bluff, petit seigneur..."
+	Oxford's intangible grip tightened, before it released, and his eyes settled back to yellow. Renard coughed a little, but stood up straight.
+	"I've always admired you, Renard. Your tenacity, your cunning, your flexibility... you have always impressed us, despite your... humble origins. But if you continue to irritate me... I'll kill you, and deal with the consequences myself. Understood?"
+	Renard looked him in the eyes, his own pupils shrinking.
+	"Get the fuck out of my house." he growled.
+	Oxford scoffed, turned, and left.
+	Renard sat back down, catching his breath. He pulled out his phone, and called a number.
+	"Eugene, c'est Henri." he began. "[I'm sorry, I know it's late.]"
+	Some noise came back from the line, and Renard smiled slightly.
+	"[I know. Well... how would you feel if I told you who was behind that little stunt in Geneva?]"
+	More noise came through, as Renard felt himself put Oxford into check.
+	"[My advice... you pay them in kind in Johannesburg.]"
+	Some more noise came through - this time, almost excited.
+	"Magnifique. Au revoir."
+
+Conspiracy stinger
 ______________________________
 CHAPTER
 
@@ -4579,7 +4670,7 @@ SCENE
 	"Nope. Doesn't exist. Wasn't me." he insisted, before breaking. "It, uh, it exploded! I tried to stop it, but it just went boom!"
 	"Mmhmm." Connor chuckled.
 	"It attacked me first! I swear! It's been working with the cats outside! And the postman - he's in on it too!"
-	"Oh yeah? Just like that time I left my sandwich on the side, and it magically leaped up and crawled right into your mouth?"
+	"Oh yeah? Just like that time I left my sandwich on the side, and it magically leapt up and crawled right into your mouth?"
 	"No, that was a completely different incident." Sparky grinned.
 	Connor tilted his head, silently giggling.
 	"...would you believe that it was already like that before you left?"
@@ -4592,17 +4683,23 @@ SCENE
 	As the sun crawled beneath the horizon, Connor and Sparky were running.
 	Not like a normal man and his dog - they were running vertically. Up a tower block, which sat right between Redbridge and Belson.
 	Their feet, morphed over with adhesive grips, smacked into the wet concrete with notable punctuation. Sparky was a few feet ahead, and Connor tried to keep up.
-	He failed. Sparky sat down on the roof as Connor leaped up.
+	He failed. Sparky sat down on the roof as Connor leapt up.
 	"Fu... fuck... damn it..." he panted.
 	"One day, you'll be as fast as me." Sparky grinned cheekily.
 	"Little shit." Connor smirked, crouching next to him. The two looked out at the cityscape.
+	"It's beautiful up here." Sparky smiled, taking in the view.
+	"It sure is." Connor nodded. "We should start our nights like this more often."
+	"Yeah. You need the practice." Sparky grinned. Connor chuckled, and jokingly pushed him.
+	"What is this place?" Sparky tilted his head.
+	"Rydon Tower." Connor began, stretching his legs. "Tallest tower building in the valley. Only Wyrmrock is higher."
+	"You can see the whole city from here." Sparky smiled. "It's perfect for recon."
 	"See that? Right there?" Connor asked, pointing to a speck of Belson.
-	"Yeah - warehouse unit." Sparky nodded.
-	"We're hitting there tonight." Connor explained. "The Patriots have a stash of drugs there. Our job is to take them down, and burn it."
+	Sparky's eyes flashed red, as his irises zoomed in. "Yeah - warehouse unit." he nodded.
+	"We're hitting there tonight The Patriots have a stash of drugs there. Our job is to take them down, and burn it."
 	"Nice." Sparky grinned. "And after?"
 	"After, we're gonna surprise everyone." Connor smiled, pointing down to Redbridge - to the Horse. "We won't be out as late as last night, but..."
-	"And hopefully, we won't have to blow up any substations tonight." Sparky chuckled.
-	"Ugh... don't tempt fate." Connor groaned.
+	"And hopefully, we won't have to blow up any substations tonight."
+	"Ugh... don't tempt fate."
 
 	"Another!" Trey cheered, having downed his drink.
 	"Jesus, quiet nights out aren't your thing, are they?" Bea quipped.
@@ -4621,7 +4718,7 @@ SCENE
 	"Fuck you, polack." one boy jeered, before punching him with some knuckledusters.
 	Pawel responded by delivering a slamming fist to the boy's jaw, knocking him down. But then a baseball bat crashed into his head, and he tumbled in through the doors.
 	The gang of youths, brandishing knives and clubs, stormed into the club.
-	"JOHNNY CRANE! COME OUT HERE, YOU FUCKIN' COCKSUCKER!" one of them roared.
+	"JOHNNY KANE! COME OUT HERE, YOU FUCKIN' COCKSUCKER!" one of them roared.
 	Another rushed over to the barman, and pointed his knife. "Open the till! Now!"
 	The barman, pale as a sheet, opened it.
 	"Fuck you!" Amy roared, kicking one in the side of the leg hard enough to make it crunch. She was met with a backhand across the face.
@@ -4673,6 +4770,16 @@ SCENE
 	"Don't mention it." Connor replied, hiding his voice. He walked out nonchalantly, and faded into the night.
 	Johnny stumbled to his feet. "Bar... bar's closed. Make your way home."
 	"Sure thing." Trey groaned, as Bea helped him rise. The four teens left the club, all still in shock.
+
+	The rain was heavier now. The wind made a groaning sound as it swept into, and out of, the valley.
+	Atop Rydon Tower, the two monsters of the night regrouped.
+	"How was the drughouse?" Connor began.
+	"Up in flames." Sparky grinned, before turning worried. "Is everyone okay?"
+	"They're fine. The skinheads, though..."
+	The pair looked both out at the grim night sky.
+	"...shall we call it a night?" Connor asked.
+	"I think we've earned some rest." Sparky grinned. "Being a superhero is exhausting."
+	Connor chuckled, and the pair crawled down the wall.
 
 Fight outside the Horse
 ______________________________
@@ -5585,8 +5692,20 @@ SCENE
 	"They're all dead now, but their ideas... harder to kill." Ivan continued. "From what we know, ODESSA survived, and integrated itself with far-right movements and governments across the globe. From South Africa to Australasia to here - you name it, if it's fascist, ODESSA's filthy paws are all over it. Chyort, we even think they had a hand in the fall of the Soviet Union! All those bastard groups, from the Caucasus to Finland and beyond, they're connected - and it all links back to ODESSA. Even your government is compromised."
 	"How?" Connor asked, shocked. "How could that happen?"
 	"Because for people in power, it was profitable that way." Ivan shook his head. "ODESSA, Nazism, fascism - all just capitalism in decay."
-	"So what do we do? Where's the fight?"
-	"Hah. I love your revolutionary spirit, tovarishch - and you can start by doing us both a favour." Ivan smiled, pulling out a photo. "Alan Hughes. Real scum. He doesn't sell drugs, no - he sells kids. But he's so connected, he's untouchable - he's beaten every court case he's had to sit in. Got blackmail on everyone in high society. My contact in MI5 is convinced he's part of a larger conspiracy to traffic people - and that said conspiracy is connected to ODESSA. And he's here - presumably, to help trade people to them. MI5 wants him gone. Kills a thousand birds with a pebble."
+	Connor's lip curled.
+	"Then we've gotta take them down. If they're as big as you say... they have weak points."
+	"You're right on the money, bratan." Ivan grinned. "So far, we've identified a definite connection between ODESSA and PaladinCorp - the mercs you tangled with in Algeria."
+	"And that armoured cunt." Connor smirked.
+	"Him, too. ODESSA are pulling the strings - for example, I found a name you might recognise."
+	"Oh?"
+	Ivan slid over a page.
+	"Field Captain James Randall."
+	"Randall..." Connor snarled, his eyes flaring slightly.
+	"Da. Worse... Several known affiliates of the Patriot gang here have officially been recruited by a local firm - Gambit Security Services. The KGB did some digging... they're a Paladin front."
+	"You mean... the ones who joined..."
+	"Are the Super-Agents we've been fighting." Ivan grimly nodded.
+	Connor looked up. "So what do we do? Where's the fight?"
+	"Hah. I love your revolutionary spirit, tovarishch - and you can start by doing us both a favour." Ivan smiled, pulling out a photo. "Alan Hughes. Real scum. He doesn't sell drugs, no - he sells kids. But he's so connected, he's untouchable - he's beaten every court case he's had to sit in. Got blackmail on everyone in high society. My contact in MI5 is convinced he's part of a larger conspiracy to traffic people - and that said conspiracy is connected to ODESSA. And he's here - presumably, to help trade people to them. My contact wants him gone - we'll seize his blackmail and go after anyone involved, while also punching a hole in the trafficking network. That's a hundred birds with one stone."
 	"What do you mean?"
 	"First, that's your debt to MI5 paid in full. Second, they'll manipulate the police investigation against you - throw spanners in works, make evidence go missing, etc. And third, I have good evidence he's working with the Patriots - taking him out will weaken their chain, and bring us one step closer to ODESSA."
 	Connor thought for a moment. "I don't know... I've kinda sworn off killing normal humans."
@@ -5720,7 +5839,7 @@ SCENE
 	"Fuck..." she gasped. "Are you alright, sir?"
 	"I'm fine." he sighed, looking out into the distance.
 	"I can't believe it... he's still got two hands." she noted.
-	Naismith nodded. "He's... he's a freak. Anyway... You busy tonight?"
+	Naismith nodded. "Maybe my gut was wrong. Maybe it *was* a fake we found. Anyway... You busy tonight?"
 	"I'm still on shift for an hour. Why?"
 	He rolled his shoulder, feeling it click.
 	"...it looks like we have a new CHIS."
@@ -5888,8 +6007,8 @@ SCENE
 	"Any news?"
 	"None so far, sir." she replied. "No CCTV footage, or fingerprints. Speaking of which, I've got some bad news about the hand..."
 	"...Just what we need. What is it?" Naismith sighed.
-	"Nothing on the prints. According to the FIs, they can't distinguish between the glove and the skin. They seem to be made from the same material. In other words, his costume isn't actually a costume - it's his flesh."
-	"Looking more and more then like my decoy theory was true..." he said unsurely. "But seeing the carnage in there... Would it be so strange if he could regrow limbs?"
+	"Nothing on the prints. The labs can't distinguish between the glove and the skin. They seem to be made from the same material. In other words, his costume isn't actually a costume - it's his flesh."
+	"Looking more and more then like my decoy theory was true..." he said unsurely. "But seeing the carnage in there... Would it be so strange if he *could* regrow limbs?"
 	She paused for a moment. "If... If the rumours are true, if this man really isn't... human, then it's going to be even harder to catch him."
 	Naismith stroked his chin. Stubble had formed around it. He rubbed his eyes - the bags forming under them weighing heavily. Finally, he spoke.
 	"Whatever this... this man is, he's human. He's not an alien or a monster - he's a man. And men make mistakes. We *will* catch him."
@@ -6005,7 +6124,7 @@ SCENE
 	Jones stood, and opened up a freezer box.
 	Chloe walked over, looked in the box, and recoiled in disgust.
 	"A hand?!" she asked, horrified.
-	"Belonging to the 'Werewolf'." Jones nodded. "Dug out of some rubble on the 25th. We've had a look at it, but it might be good for you to take a crack before we incinerate it."
+	"Belonging to the 'Werewolf'." Jones nodded. "Dug out of some rubble on the 25th. Cops have sent it over. We've had a look at it, but it might be good for you to take a crack before we incinerate it."
 	Chloe grimaced. "Alright, let's have a look..."
 	She lifted the hand out of the container and placed it on the workbench.
 	She began by taking a scalpel, and tried to make an incision. It was a difficult cut, but after considerable effort, she managed to break the surface.
@@ -6142,7 +6261,7 @@ SCENE
 	"Checked her over?"
 	"You think I'm an amateur?" Pawel grinned. "No weapons, no recording devices. She's clean."
 	Johnny stroked his chin. "Alright." he said, entering the room.
-	"I... Mr. Crane." the woman stammered.
+	"I... Mr. Kane." the woman stammered.
 	"28 minutes. Either you're here to kill me, or you need my help. And no offence, but you don't look like a killer." Johnny smiled, sitting at his desk. "Johnny." he said, offering his hand.
 	She shook it. "Ella. Ella Roberts."
 	"How can I help you, Ella Roberts?"
@@ -6469,6 +6588,35 @@ CHAPTER
 
 ______________________________
 SCENE
+	If someone asked you to draw a stately manor house, you'd draw this one.
+	Oxford House. Home of the Earls of Oxford since the end of the English Civil War, where the house of de Vere had been sidelined for its support to the Royalists. Despite this, the family managed to worm their way back into the halls of power.
+	Inside the manor, the current Lord Oxford sat at his desk, reading his papers.
+	A knock at the door made him grin in anticipation.
+	"Enter."
+	"My lord." a servant began, opening the door. "Your... guest is here."
+	"Excellent. Send her in."
+	In a few heartbeats, a white-haired young woman in a black leather bodysuit approached. Fastened to her belt were a pair of whips, and an assortment of knives which reflected the light like running water. Her upper face was partially covered by a domino mask, but the black veins of a Super Agent peppered her cheeks nonetheless.
+	"Ms. Cunningham, I presume?" Oxford grinned.
+	"That's not who you hired." she replied curtly.
+	"No, quite right... Agent Whiplash. Are you as good as they say?"
+	"Have you read my file?"
+	"Yes."
+	"Then you *know* how good I am." she nodded.
+	Oxford chuckled. "They don't teach you much in the way of... etiquette, in MKUltra, do they?"
+	"They do not." she shook her head, folding her arms.
+	"Well, I didn't hire you for personability... your choice of attire notwithstanding." he grinned. "I need you to squash a bug for me."
+	"Who?"
+	Oxford slid over a piece of paper. "Whiplash" took it, and scanned it quickly.
+	"Connor Barrett." Oxford sighed. "He's becoming something of a pain. Multiple Paladin operatives have already died trying to stop him - even the Crusader couldn't take him down. Can you?"
+	She looked at the profile quizzically. "Covert requirements?"
+	"Nothing public. And don't involve his personal life."
+	She nodded, placing the paper back down.
+	"What are you offering?"
+	"Freedom." Oxford grinned. "Kill Barrett, and I'll personally ensure that MKUltra never bother you again. What's more, you'll be rich."
+	He leaned in, his yellow eyes almost humming. "You can stop being Whiplash - you can be Olivia again."
+	Whiplash turned away, as if to hide her eyes. She took a deep breath, and faced him.
+	"Deal." she nodded. "I'll take care of him."
+
 	It had been a few days, now - the morning sun shone over Drackhill. Connor and Amy headed out from the flat to the car.
 	"Get in, loser." he smirked.
 	"Make me, dickface." she snarked back. She went to open the front door.
@@ -6561,7 +6709,7 @@ SCENE
 	A double knock on the door.
 	"Come in."
 	Naismith entered.
-	"Mr. Crane." he half-smiled.
+	"Mr. Kane." he half-smiled.
 	Johnny poured himself a glass of whiskey. "Want one? Looks like you need it."
 	Naismith chuckled, wincing as he sat down and clutching his fractured ribs. "You know what? I'd love one, ta."
 	"Oooh, Mr. Straight Laced Copper taking a drink from the crime boss." Johnny grinned.
@@ -6890,111 +7038,6 @@ SCENE
 	"Shit..." Trey muttered, looking into the fire. "I've gotta lay off the weed."
 
 Rifles of the IRA
-______________________________
-SCENE
-	Connor woke up to the sunlight shining on his face. He was laid on Trey's bed. He looked over, and realised Trey was spooning Sparky.	
-	He smiled, then winced. His migraines were getting worse again - and, oh great, he couldn't even hurt himself to lessen the pain. Not in front of everyone.
-	He nudged Trey with his foot.
-	He heard Trey say "Uh-huhhh..." slowly.
-	"You want coffee?"
-	"Yes please..." Trey said, half-asleep.
-	Connor nodded, rose, and knocked on Phil's door.
-	Chloe answered.
-	"Morning!" she said cheerfully.
-	"Morning!" Connor smiled back. "I'm gonna make coffees. You want one?"
-	"I'd love one." she nodded, putting her glasses on.
-	"How do you take it?"
-	"Oh, milk, no sugar - unless you have sweetner?" she smiled. "Diabetes, eh?"
-	Connor chuckled back. "Bea?" he asked.
-	Bea woke up. "Huh... oh, uh... hi Connor..." she slurred, groggy and hungover.
-	Connor grinned. "Coffee?"
-	"Uh, milk, two sugars... thank you..." she mumbled.
-	Connor nodded, and rubbed his eyes.
-	"You okay?" asked Chloe.
-	"Yeah, fine... just a migraine." Connor replied.
-	"Hangover? I didn't think you got that drunk."
-	"Yeah, I suppose... must be dehydrated." he nodded. "I'll see you downstairs?"
-	"Yeah, sounds good!" Chloe smiled, and closed the door to get dressed.
-	Heading back to the bed, she saw Bea on her phone, looking slightly stressed.
-	"You okay?" she asked.
-	"Yeah, it's fine." she replied abesntly, reading her notifications. 27 missed calls from Charlie, text message after text message, each one more self-pitying than the last. "Please pick up, I'm begging you." one read. "I'm so sorry if I upset you." said another.
-	She sighed, and put her phone down, before looking at herself in the mirror.
-	"Damn it..." she muttered.
-	"What's wrong?" Chloe piped up.
-	Bea responded by pointing to a tiny white patch on her arm.
-	"Vitiligo. New one."
-	Chloe smiled softly, and took a closer look.
-	"It's only a small one." she said, trying to sound reassuring. "I doubt it'll get much bigger."
-	Bea shrugged, and looked at her eyes in the mirror. Her blue eye caught the sunlight through the window, and she sighed again.
-	"Hey." Chloe cut in, firmly but caringly. "You're beautiful. Don't ever think otherwise."
-	Bea smiled warmly. "Thanks, girl. You too."
-
-	Connor knocked on the spare bedroom door. He heard Amy mumble "One second!" and the sound of shuffling. She answered the door, clearly having just thrown on whatever clothes were nearby.
-	"Coffee?" Connor asked nonchalantly.
-	"Yeah, go on then."
-	Connor nodded, went downstairs, and began making the coffees.
-	The gang joined him downstairs, now dressed, and all sat down on the sofas, barely awake.
-	Connor served the coffees, and sat down, before rubbing his temples in pain. His migraine was getting worse.
-	Soon, Connor's vision started getting blurry.
-	"Connor? You okay?" Amy asked.
-	"Yeah, fine... just... my... my head... I..." Connor began to slur his words.
-	"You okay bro?" Trey asked.
-	Connor's nose started to bleed, as the pain intensified.
-	"Connor?" Amy asked, scared.
-	"Yeah, yeah, I'm... I..." Connor swayed his head, his eyes rolled back, and he hit the floor and began to shake.
-	"Shit!" Bea shouted.
-	"He's having a seizure! Stand back, guys!" Chloe said, clearing the space around him.
-	"What do we do? Do we... I don't know, put him in the recovery position?" Trey asked.
-	"No, don't touch him. We'll do that when he stops seizing." Chloe said authoritatively.
-	"What do we do?" Amy panicked.
-	"It's okay, we just leave him for now. Is this his first seizure?" she asked.
-	"I don't know... I mean, I think so? Wait, no - when we were kids in foster care, he had one after he... anyway." Amy said, clearly thinking about something else.
-	"Okay, so it's not his first, that's good - let's see how long it lasts." Chloe replied. Sparky tried to get close to him, but Chloe pulled him back.
-	"It's okay, boy! Connor will be fine - but don't get too close!" she said.
-	"Chlo - do you have any meds?" asked Bea, worried.
-	"I do - but we're not giving him them. My meds prevent seizures - giving him them won't stop one in progress." Chloe replied.
-	Eventually, Connor's shaking stopped. Chloe rushed in, and put him in the recovery position. He slowly came to.
-	"Whoa... I... what happened?" Connor said, opening his eyes.
-	"It's okay, you're okay. Do you know where you are?" Chloe asked.
-	"Yeah, yeah, I'm in Trey's living room... aren't I?"
-	"Yes, you are - you just had a seizure. How do you feel right now?"
-	"I'm okay, just... dizzy. But my head feels better." Connor began to stand.
-	"No no, don't stand... let's get you sitting on the sofa." Chloe said, lifting him onto the sofa. "Are you comfy?"
-	"Yeah, yeah..." Connor caught his breath. "Sorry, sorry..."
-	"No, don't be. You're okay." Chloe said, breathing out.
-	"What happened?" Amy asked, scared.
-	"I don't know..." Connor said. "I had a really bad migraine, and then..."
-	He looked at Sparky. "Come on, boy. Up-up."
-	Sparky jumped up and nuzzles into him. "That's what happens when we don't sort the migraines!" he said. "Next time, find something to hurt yourself with."
-	"Thanks, buddy..." Connor nodded, stroking Sparky.
-	"Connor, we need to get you to a doctor." Chloe began.
-	"No, I'm fine... I'll book a GP appointment." Connor replied.
-	"Promise me you will." Chloe said.
-	Connor swallowed. He hated doing this - making a promise he couldn't keep.
-	"I promise."
-	"Thank you." she said, finally allowing herself to feel. She embraced him. "Are you sure you're okay?" she asked worriedly.
-	"I'm fine... just a little woozy is all..." Connor replied.
-	"Thank God." she smiled slightly.
-	"You're in no state to drive." Amy cut in. "I'll drive us home."
-
-	With that, the gang bade Trey farewell, and Amy dropped everyone back home, before taking Connor to his bed and getting him to rest it off. She sat with him until he woke up an hour later.
-	"You okay?" she asked.
-	"I'm alright..." he replied groggily. "That was... that was awful."
-	"Was it to do with your powers?" she asked.
-	"Yeah. Sparky confirmed it. That burning thing I've been doing - that's what happens if I don't do that."
-	"You haven't had one since..." she began.
-	"Since I killed him."
-	"Since you saved me." she corrected.
-	"I know. Same thing. He had it coming." Connor shrugged.
-	"Too right." Amy replied softly. "Has, um... Has that been playing on your mind lately?"
-	"A little." he admitted. "When I killed Hughes. It reminded me."
-	"In either case, you saved people. So many kids, just like me - they're free and safe now, because of what you did."
-	Connor sighed. "Thank you. I needed to hear that."
-	"Take it from the first person you ever saved, *superhero.*" she audibly grinned.
-	Connor laughed. "Fine. I'm a superhero. Are you gonna let that go now?"
-	"Absolutely not." she giggled.
-
-Connor's seizure
 ______________________________
 SCENE
 
@@ -7564,6 +7607,38 @@ SCENE
 	"Bring it." Naismith sighed. "About time we saw some change around here."
 
 Telling Ella
+______________________________
+CHAPTER
+
+
+______________________________
+FLASHBACK
+
+Old Belson Strangler
+______________________________
+SCENE
+
+First Body Found
+______________________________
+SCENE
+
+Flight of the Werewolves
+______________________________
+SCENE
+
+Second Body Found
+______________________________
+SCENE
+
+The Stool Pigeon
+______________________________
+SCENE
+
+Stinging the Strangler
+______________________________
+SCENE
+
+Justice?
 ______________________________
 CHAPTER
 
@@ -8474,7 +8549,7 @@ SCENE
 	She laughed with him. "I won't ask your name... Kind of defeats the whole point of wearing a mask, eh?"
 	Connor snickered. "Where are you staying now?"
 	"Nowhere. They, um... only just kicked me out."
-	"I know a guy." Connor leant back. "Johnny Crane, boss of the Redbridge Syndicate. How old are you?"
+	"I know a guy." Connor leant back. "Johnny Kane, boss of the Redbridge Syndicate. How old are you?"
 	"18." Shannon nodded.
 	"Still in school?"
 	"College, yeah."
@@ -9784,7 +9859,7 @@ SCENE
 	Johnny stood, and complied.
 	"Babe?" his boyfriend asked, shocked.
 	"It's alright, love... It's alright." Johnny sighed, as he was dragged away. The officers beat him savagely with their batons, and threw him into their van. The squadron leader gripped Johnny's face, and looked into his eyes.
-	"Johnny Crane, I am detaining you under the Terrorism Act. Basically... you're fucked."
+	"Johnathan Kane, I am detaining you under the Terrorism Act. Basically... you're fucked."
 
 	Meanwhile, Shannon was sat in her flat, typing away on her computer. She had a shell open, and was typing in various network administration commands.
 	"Open, sesame." she grinned, pressing Enter and seeing a number of files go from Locked to Unlocked.
@@ -9876,7 +9951,7 @@ FLASHBACK
 	"How d'you mean?" Vince tilted his head.
 	"Maybe we can take the fight to them. We work well as a team, you saw it. 'Cause I don't know about you, but I'm sick of them lot running the show."
 	Vince thought, then smiled warmly. He extended his hand. "Vince Barrett."
-	"Johnny." the punk smiled, shaking his hand. "Johnny Crane."
+	"Johnny." the punk smiled, shaking his hand. "Johnny Kane."
 	Vince chuckled. "That a pornstar name?"
 	"God given." Johnny grinned. "But speaking of... I heared through the grapevine the Pink Fox is looking for bouncers to keep 'em safe from the Patriots' extortion. Maybe we start there?"
 	Vince nodded, cracking a smile. "Viva la revolution."
@@ -10006,7 +10081,7 @@ SCENE
 	"At ease. Report." The Commandant gestured.
 	"Commandant, sir. We've launched a crackdown on the rivals to our proxies in the Patriots - a gang of miscreants called the Redbridge Syndicate."
 	The Commandant's eyes flared. "Who was arrested?"
-	"The leader, Johnny Crane. Two enforcers - Pawel Rakowski and Connor Barrett. A deliveryman called Trey Morgan. A hacker called Liam Taylor, and lastly, detective Naismith."
+	"The leader, Johnathan Kane. Two enforcers - Pawel Rakowski and Connor Barrett. A deliveryman called Trey Morgan. A hacker called Liam Taylor, and lastly, detective Naismith."
 	The Commandant grinned. "Were there any difficulties in the arrests?"
 	"Barrett in particular was resistant. He injured two officers with their own batons, before surrendering to armed police." Dorsey nodded.
 	The Commandant smirked. "I'm guessing the shift-up in local politics has also been beneficial for you?"
@@ -15849,17 +15924,17 @@ SCENE
 	"So, as you were saying, Mr. Sokolov." Ward interjected.
 	"Yes, ma'am. The attack at Morland and here was devastating - but ODESSA also lost their top Agents. They'll likely start using increasingly unstable strains of mutant to fight us - in particular, unhinged, psychotic creatures, almost forever trapped in a Rage. Such things would be... highly problematic for TO-39 to face on its own. Therefore, I and the Werewolf will be available to the police, to face these monsters for you."
 
-	In an extravagant country home, an old man stood at his balcony, looking out at stretches upon stretches of land. His grey hair had been slicked back with pomade, and he had a white, neat beard. He wore a dark tweed suit that looked like it would fit in nicely on a fox hunt. His eyes were particularly strange - brown, but so pale they were almost yellow.
+	In an extravagant country home, an old man stood at his balcony, looking out at stretches upon stretches of land.
 	The study room behind him had a coat of arms hanging on the walls - the coat of the House of de Vere - the Earls of Oxford.
 	A knock on the study door.
-	"Enter." the old man beckoned. A servant came in.
+	"Enter." he beckoned. A servant came in.
 	"Lord Oxford." he began, his voice trembling. "Your... guest is here."
 	"Bring him in." Oxford nodded.
 	Then entered a monster - grotesque, but thick with muscles. It was nearly 7 feet tall, and had dark grey skin, with blood-red eyes. Its face looked truly inhuman - at once too angular and too smooth, eyes too far apart for a human skull... The only word that could describe it was "alien."
 	It took a knee, placing its fist on the ground.
 	"Master." it said. Its voice had an ethereal quality - and an uncanny one. Like it was mimicing human speech.
 	The old man grinned.
-	"The Commandant's little toy has been wreacking havoc." he said. His speech was almost the platonic ideal of an aristocrat - it was the kind of voice that you half-expected to end every sentence with "Peasant."
+	"The Commandant's little toy has been wreacking havoc." he said.
 	"The youngblood?" the creature tilted its head.
 	"I'm tired of his vanity project." Lord Oxford shook his own. "It's high time he was reminded that he's not the only player in this game."
 	"What would you have me do, master?"
@@ -19461,16 +19536,16 @@ SCENE
 	The Commandant nodded, and sat down. His huge frame made the seat creak as he took it.
 	"So... Mr. Davis." he began, sitting down across from the monster of ODESSA. "This... 'final victory' of yours hasn't been going well, now, has it?"
 	"I--Campbell's actions have caused us a great deal of difficutly, sir." the Commandant nodded. "I've got Randall doing his best to search for him--"
-	"Enough." Oxford muttered disdainfully. "Enough excuses. You are the Commandant of ODESSA - it is *your* job to manage things. Now, I tolerated your... 'ideological inflexibilities' for a while, because you were useful. But now, you're becoming more trouble than you're worth."
+	"Enough." Oxford muttered disdainfully. "Enough excuses. You are the Commandant of PaladinCorp - it is *your* job to manage things. Now, I tolerated your... 'ideological inflexibilities' for a while, because you were useful. But now, you're becoming more trouble than you're worth."
 	"Sir, I--" the Commandant began, and Oxford's eyes flashed from their yellowish-brown to a brilliant violet. Suddenly, the Commandant began choking, as the air in his lungs forcefully evacuated.
 	"Do not interrupt me." Oxford snapped, his voice echoing like a choir. The Commandant rattled in pain, as his face turned red. Finally, Oxford released his supernatural grip, and the Commandant gasped for air.
-	"Time's up, old chap." Gordon finally sighed. "Your vanity project was a failure. Now, let me make myself very clear. You will attack Mr. Barrett - you will *not* do this in public. After Glasgow, that's the last thing we need... You will draw him to somewhere remote. And you will kill him."
+	"Time's up, old chap." he finally sighed. "Your vanity project was a failure. Now, let me make myself very clear. You will attack Mr. Barrett - you will *not* do this in public. After Glasgow, that's the last thing we need... You will draw him to somewhere remote. And you will kill him."
 	The Commandant, still gasping for air, didn't reply.
 	"Understand this. If he somehow survives, I will assume it was an act of deliberate defiance on your part. And if he doesn't kill you - myself and Mr. Vacher will make you wish he had. Do you understand?"
 	"Yes, sir..." the Commandant choked.
 	"What will you do?"
 	"I'll kill Connor."
-	"Good." Gordon smiled. "Good day, Mr. Davis."
+	"Good." he smiled. "Good day, Mr. Davis."
 	The Commandant forced himself to his feet, and left.
 
 	The gang had gathered at Morland Laboratories for the afternoon. Vince and Phil were there too. Connor had pulled in extra seats, to fit everyone in.

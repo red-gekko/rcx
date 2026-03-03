@@ -188,7 +188,7 @@ MKUltra
 			post-Awakening: Imperceptibility/Obfuscation
 
 	Impact
-		Name: Elliot Kane
+		Name: Elliot Myers
 		Powers:
 			Telekinetic blasts
 			Force fields
@@ -233,11 +233,12 @@ Prometheus Institute
 			Robotic drones
 			Mechasaur (giant dino mech she pilots)
 
-	Darwin
-		Name: Charles Darwin II
+	Milo
+		Name: Milo
 		Powers:
 			Albino Gorilla body
 			Genius intellect
+			Super-Agent physicals
 
 The Commission
 

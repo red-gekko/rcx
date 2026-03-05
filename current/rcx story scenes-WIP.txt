@@ -2855,13 +2855,14 @@ SCENE
 	"Oh my god, same!" she laughed. "I'm always sat there like 'Oh that's because of x-y-z,' and Bea always has to shush me."
 	"I liked that movie last night!" Sparky yapped. "Which makes sense - I named myself after it."
 	Connor stifled a chuckle. "Anyway - wanna get going?" he asked.
+	"Sure." Chloe replied, rising. Connor stood too, and the trio continued their walk. 
 
-	"Sure." Chloe replied, rising. Connor stood too, and the trio continued their walk. They made it to the top of Wyrmrock Hill - a half-mountain that could overlook the entire Drackhill Valley area.
+	They made it to the top of Wyrmrock - a half-mountain that could overlook the entire Drackhill Valley area. From the peak, the river Calder flowed down, carving a branching path down towards the sea.
 	Chloe looked out in awe.
 	"This is a beautiful sight." she said, smiling.
 	"Yeah, it is." Connor nodded, before taking in the sights himself.
 	He pointed out to the various landmarks.
-	"There - by the coast. That's Angleford, the seaside town. They have a massive stony beach there, plus a bunch of coves that pirates used to use back in the day. Can you see the dockyard?"
+	"There - by the coast. That's Angleport, the seaside town. They have a massive stony beach there, plus a bunch of coves that pirates used to use back in the day. Can you see the dockyard?"
 	She squinted, and shook her head. "I don't think I can make it out."
 	Connor shivered slightly. He wasn't sure if it was down to his heightened senses, or if her glasses were for more than just reading. He banished the thoughts, and carried on.
 	"I think it's a bit foggy, to be fair. Anyway, closer to home, we've got the whole city." he said, pointing down to the city below. "There's Redbridge, where I'm from. You can tell because it looks awful." he grinned.
@@ -2871,9 +2872,13 @@ SCENE
 	"Rivalry is putting it mildly. Belson's home to the Patriots - a bunch of skinhead cun---I mean, skinhead pricks." he corrected himself, blushing at his foul language. She merely giggled.
 	"And Redbridge has a large immigrant population. So, naturally, the Patriots always try to screw around in our town." he explained.
 	"Oh, my..." she said, eyes widening. "That sounds horrible."
-	"It is." Connor nodded grimly. "But things should hopefully look up, soon. Anyway, over there..." he continued, pointing to a segment of the town where the buildings gradually became sparser, leading into moorland, "...is Blackmarsh. You've got Inner Blackmarsh, which might be the only place in Drackhill that's more dilapidated than Redbridge; and Outer Blackmarsh, which leads onto the moors. If you're going that way, make sure to bring an 'English to West Country' dictionary with yous."
+	"It is." Connor nodded grimly. "But things should hopefully look up, soon. Anyway, over there..." he continued, pointing to a segment of the town where the buildings gradually became sparser, leading into moorland, "...is Blackmarsh. Massive stretch of peat bogs - pretty decent farmland further east."
 	She giggled again, then blushed slightly. "What about that town over there?"
-	"That's Wickermast." Connor nodded. "Home to the local nuclear power plant, a prison, a nail factory... and not much else."
+	"That's Wickermast." Connor nodded. "Home to the local nuclear power plant, a nail factory, and some big weapons manufacturer. Just north of it are the Wyrmwoods - the forests on the western side of the mountain."
+	She smiled warmly. "Anywhere else you can see from here?"
+	He pointed down at a small spot in the distance. "It's hard to make out, but that's Danwich. Hardly anyone lives there, but there's loads of old ruins - my uncle used to take me to the castle there. Just south of it is Rexton - bunch of mansions and old people. And it's too foggy to see - but a short way off the coast is Mercy Isle. There's an old monastery there, a naval base, and the prison."
+	"Prison?" she tilted her head.
+	"Yeah - used to be part of the monastery, but then became an internment camp for pirates. Nowadays, they just throw anyone and everyone in there."
 	He awkwardly scratched the back of his head. "So, you give me really cool biology facts, and I give you local trivia. I think I got the better end of the deal there." he grinned.
 	She smiled, endeared. "Hey, taking turns infodumping... there are worse ways to communicate."
 	He laughed heartily, causing her to chuckle too. The pair began to head back down the hill.
@@ -4123,7 +4128,7 @@ SCENE
 	"Let's kill this guy already!" Sparky barked, likewise shapeshifting.
 	"Couldn't agree more." Connor nodded, before the pair charged.
 	The Agent snarled, and drew something from a sheathe on his hip - a blade. As Connor entered melee range, he swung.
-	Connor's senses slowed to a crawl as the agony ripped into his arm. This wasn't a normal blade - its edge had been replaced with a row of hundreds - maybe thousands - of miniture teeth, spinning like a chainsaw. At the same time, an electric current coursed through them, which danced across his skin before jolting into his body, sending scorching pain straight into his neurons.
+	Connor's senses slowed to a crawl as the agony ripped into his arm. This wasn't a normal blade - its edge oscillated at ultrasonic frequency, sawing into his flesh. At the same time, an electric current coursed through it, which danced across his skin before jolting in, sending scorching pain straight into his neurons.
 	Were Connor his usual self, he'd crack a joke about what kind of insanity must have driven the creation of this device - some bastard child of a chainsaw and a stun baton, squeezed into a machete - but instead, he howled in unimaginable fury. He delivered a strike to the Agent's chest - one whose movement through the air made an almost booming noise through sheer force - and it landed right on the Agent's breastplate. He felt his knucklebones crack, as they pushed hard enough to leave a noticable dent in the metal chestpiece. To his dismay, he watched the force radiate out through the metal and settle in the edges of the piece, leaving the Agent's ribcage - and heart - uninjured.
 	The Agent skidded backwards from the force of the hit, and swung his blade down, flinging the chunk of flesh it had torn from Connor's arm to the ground. It made a sickening squelch as the red mush became one with the black mud.
 	A hail of gunfire slammed into the Agent's cerametallic carapace, each bullet either ricocheting or skimming off.
@@ -4185,7 +4190,7 @@ SCENE
 	"It's... it's probably nothing." she replied, trying to look out the window.
 	Then, an stun-sword cut through the metal ceiling, before tearing a gash into the train's hull as it ripped back upwards, flinging sparks into Connor's eyes. The passengers screamed in shock and fear.
 
-	Connor stumbled backwards, blinded and dazed. He regained his senses to the sound of a signal bell clanging in the air. He turned around just in time to see a metal flag slam right into him, shooting him forwards - right into the Crusader's blade. The spinning metal cut through his abdomen, impaling him.
+	Connor stumbled backwards, blinded and dazed. He regained his senses to the sound of a signal bell clanging in the air. He turned around just in time to see a metal flag slam right into him, shooting him forwards - right into the Crusader's blade. The vibrating metal cut through his abdomen, impaling him.
 	A normal man would've died. Hell, an abnormal man would've died.
 	Connor merely snarled in animalistic fury. He spotted an upcoming tunnel, and knew exactly what to do. 
 	He wrapped the Crusader into a bear hug, jumped a foot in the air, and dived back down - right into where the blade had ripped into the train moments before.
@@ -4206,7 +4211,7 @@ SCENE
 	Connor grinned, picking up the blade and looking on at the electrical substation his assailant laid upon. He gripped the hilt hard, and threw.
 	The blade spun forwards, and embedded itself through the Crusader's gut and into the metal behind him. Its current surged forwards, and then...
 	KK-*BOOM!*
-	For a brief moment, Connor was blinded by the brilliant light. The blazing inferno was lit by roaring sparks, and the stench of burning flesh filled his nostrils. He rushed to the train, and grabbed a fire extinguisher. Pushing on through his exhaustion, he quickly put out the flame.
+	For a brief moment, Connor was blinded by the brilliant light. The blazing inferno was lit by roaring blue sparks, and the stench of burning flesh filled his nostrils. He rushed to the train, and grabbed a fire extinguisher. Pushing on through his exhaustion, he quickly put out the flame.
 	He sank back down to his knees, clinging desperately to consciousness. The distant screams of the passengers echoed in the night, as the sound of a roaring motorbike approached.
 	Connor sighed, and readied his fists, only to relax at a famiar scent.
 	"Chyort voz'mi, tovarishch..." Ivan gasped, impressed. "You don't do half measures, do you?"
@@ -4266,9 +4271,9 @@ SCENE
 	"That's right. I saved the day, all by myself." he grinned. Connor choked away a chuckle.
 	"Thought you were busy tonight, anyway?" he asked Amy. "Something about a date?"
 	"Oh!" she grinned. "Yeah, she ghosted me."
-	"I don't blame her. I mean... it's you." Trey sniped. She raised her fist at him, and he cackled.
+	"I don't blame her. I mean... it's you." Connor sniped. She raised her fist at him, and he cackled.
 	"Oh, what I wouldn't give for the love of a good woman..." she faux-lamented.
-	"...do you think the fact that you're a lesbian makes that sentence any less pathetic than if we'd said it?" Connor snarked.
+	"...do you think the fact that you're a lesbian makes that sentence any less pathetic than if we'd said it?" Trey snarked.
 	"Shut up." she grinned. "Oh, by the way - I've invited Chloe and Bea out. Hope that's cool."
 	"Yeah, of course it is!" Connor replied, smiling - slightly too keen to see Chloe. He blushed.
 	"I like them - they're good folks." Trey nodded happily. "And at least they come to hang more regularly than you two."
@@ -4344,8 +4349,8 @@ SCENE
 	"Nah, I doubt they'll let Sparky in." Connor gestured. Sparky yawned tiredly. "We'll walk back to mine."
 	"Fair enough. Mind if I walk with you? The fresh air sobers me up." Chloe asked, slightly shyly. "I'll walk back to mine after."
 	Connor shuffled slightly. "Whereabouts do you live?" he asked.
-	"In student housing - I think the area is called Caldermouth?" she replied, trying to recall.
-	"Oh yeah, I know the area." Connor nodded. "The only nice part of Drackhill." he smirked. "I... I'm sure you can look after yourself, but... to get there from Redbridge, you'd have to go through Belson. And... You're new here, so let's just say, don't walk alone in Belson at night." he warned.
+	"In student housing - there's a block in Caldermouth." she replied, trying to recall.
+	"Oh yeah, I know the area. The only nice part of Drackhill." he smirked. "I... I'm sure you can look after yourself, but... to get there from Redbridge, you'd have to go through Belson. And... You're new here, so let's just say, don't walk alone in Belson at night."
 	"Is it that bad?" Chloe asked, surprised.
 	Connor shuffled again, and gritted his teeth. "If you wanna walk, Sparky and I can walk you to yours? I know the shortcuts and safe spots."
 	Chloe pondered for a split second, then smiled. "Yeah, that'd be nice."
@@ -4817,7 +4822,7 @@ SCENE
 	Panic erupted. Partygoers screamed as they tried to find an exit - unfortunately, sketchy downtown warehouses-turned-nightclubs aren't known for their strict adherence to safety regulations. Instead, they merely huddled in the dancefloor, like panicked cattle.
 	Connor stormed up the metal stairs, and kicked open the door. Marcus launched a flurry of punches with his knuckledusters at his chest - rather than blocking, Connor placed his hands at his hips and looked up at the man. He was a head taller, but in that moment - he was little. A light push, and he launched backwards.
 	"DIE, YOU FUCKIN' FREAK!" Vitale screamed, unloading his shotgun into Connor's chest. He flew back, smacking into the wall, and fell to the ground. He coughed, regaining his breath, and pounced forward.
-	Vitale made an almost froglike noise as Connor raised him by the throat, before slamming him into his glass pane hard enough to shatter it. He held Vitale over the edge for a second, letting the moment hand along with him.
+	Vitale made an almost froglike noise as Connor raised him by the throat, before slamming him into his glass pane hard enough to shatter it. He held Vitale over the edge for a second, letting the moment hang along with him.
 	"Please--Please, I--" Vitale sputtered.
 	"Message received?" Connor asked.
 	"L-loud and clear."
@@ -6491,23 +6496,25 @@ SCENE
 	"Get to the point, you fucking wop." Donovan snarled. At that, the suited man turned serious.
 	"My friends call me Louie. My associates call me Mr. Vitale. My enemies call me many things."
 	He drew a switchblade from his pocket. "No-one calls me a *fucking wop.*"
-	Donovan's men drew their own weapons, and Louie's quickly followed suit. A tense standoff ensued.
-	Donovan stared into Louie's eyes, before relenting. "Talk business, or stop wasting my time."
-	Louie grinned, and sheathed his blade. He turned to his bodyguard. "Che genio, eh?"
+	Donovan's men drew their own weapons, and Vitale's quickly followed suit. A tense standoff ensued.
+	Donovan stared into Vitale's eyes, before relenting. "Talk business, or stop wasting my time."
+	Vitale grinned, and sheathed his blade. He turned to his bodyguard. "Che genio, eh?"
 	The bodyguard nodded.
 	"Tick tock." Donovan repeated.
-	Louie clearly enjoyed dragging this out. Nevertheless, he relented.
-	"I have a proposal. This war between us - it's bleeding us both dry. We both know Kane has had designs on Belson for years now. Only, with this 'Werewolf' scemo, he now has a real chance. Except, you people - you have some drug, huh? Made from his blood, if the rumours are correct."
-	Donovan looked over his shoulders, and leant in - revealing the black veins on his eyes. "We do indeed."
-	Louie laughed. "So it is true. Now, what I propose is a deal. We'll give your men access to the docks - not ownership, mind, but access - and you'll give us a supply channel to this fantastic drug of yours. It's a win-win."
+	Vitale clearly enjoyed dragging this out. Nevertheless, he relented.
+	"We had a deal, Donovan. A truce. Your lot keeps out of Northside, and we let you take a cut from our pushers in Southside. So tell me... why the ever-loving *fuck* am I getting calls from my racketeers, telling me a bunch of skinhead cunts have been causin' chaos in *my* streets?!"
+	Donovan looked over his shoulders, and leant in - revealing the black veins on his eyes. "Because it's natural. The strong take from the weak."
+	Vitale laughed. "So the rumours are true... You do have some freaky shit going on. Now, what I propose is a deal. You lot get access to our docks - not ownership, mind, but access - and in return, you'll give us a supply channel to this fantastic drug of yours. It's a win-win."
+	"How so?" Donovan tilted his head.
+	"We both know Kane wants our crowns. But now he's got his little Lupo, ain't he? Seems to me we need to even the playing field."
 	Donovan mulled it over. "I'll have to speak to the boss."
-	"You have a boss?" Louie grinned.
+	"You have a boss?" Vitale grinned.
 	"Damn right I do. And I don't know if he'd like this drug going into the hands of some *fucking wops.*" Donovan spat maliciously.
-	With that, Louie drew his blade, only for Donovan to raise him into the air by the throat.
+	With that, Vitale drew his blade, only for Donovan to raise him into the air by the throat.
 	And then, a clapping sound filled the air. All present turned to see Connor in his costume walking towards them.
 	"Gentlemen, gentlemen." he began, smirking under his mask. "I think you'll find *I'm* the one who lifts mob bosses by the throat? Stop stealing my fuckin' schtick."
 	"It's him!" one of the Patriots shrieked, running away.
-	"GET BACK HERE!" Donovan barked. He released Louie, who likewise ran away - along with all their men.
+	"GET BACK HERE!" Donovan barked. He released Vitale, who likewise ran away - along with all their men.
 	Connor laughed. "You know, I didn't kill Slater 'cause he was human. But you... you're not human, are you? That makes you..." he growled, morphing spikes from his knuckles, "...fair game."
 	Donovan spat on the ground, and equipped his knuckledusters. "Try me, traitor."
 	Connor grinned. "If you fuckers want more of my blood... all you gotta do is come and take some."
@@ -6655,7 +6662,7 @@ SCENE
 	"Why?"
 	Oxford leaned forward, flexing his hands. "Because I want to keep collateral damage to a minimum. It's much better that the 'Werewolf' dies fighting a fellow night hunter, than an apparent nobody is assasinated with the level of violence this will take."
 	Whiplash nodded. "Operational restrictions?"
-	"Nothing public. No witnesses."
+	"Keep noise to a minimum. Use the city's underworld to your advantage."
 	She nodded, placing the paper back down.
 	"What are you offering?"
 	"Freedom." Oxford grinned. "Kill Barrett, and I'll personally ensure that MKUltra never bother you again. What's more, you'll be rich."
@@ -7086,6 +7093,121 @@ SCENE
 Rifles of the IRA
 ______________________________
 SCENE
+	"Boss." Marcus began. "He's here again."
+	Vitale sighed, and rubbed his temples. "Alright, let him in."
+	Marcus nodded, and opened the metal door to the office. Connor, clad in his costume, sauntered in.
+	"Alright, Lupo? Whiskey?"
+	Connor stared down at him, his eyes glowing red. "Do you want to tell me what the *FUCK* you were doing last week with Donovan?"
+	"Call it keepin' my options open. No hard feelings, yeah?"
+	Connor leaned in, placing his hands on the desk. "Let me make myself clear. No-one gets the serum. Not Kane, not you, not fuckin' anyone."
+	"What, you wanna keep all that power to yourself, eh? Face it, Lupo - this ain't a gang rivalry anymore. This is warfare, and we need weapons."
+	"*I'm* the weapon." Connor snarled. "Killing Super-Agents is my job. For your own sake, don't put yourself in that category."
+	"Alright, alright. I can respect that."
+	Connor nodded, and turned to leave.
+	"One more thing." Vitale cut in, his gold teeth shining in his grin. "Can you put your girl on a leash?"
+	"My... girl?" Connor tilted his head.
+	"Yeah. The fuckin' girl in the gimp suit with the whips and knives." Vitale said, folding his arms. "Now, her work on Southside I don't mind, but now half my dealers are too scared to go out at night. Bad for business."
+	"What are you talking about? There's another vigilante out there?"
+	Vitale's grin only widened. "Oh, you didn't know? Well, either way, can you get her to ease off? You know, to keep this little truce we have nice and stable."
+	Connor grimaced under his mask. "Go fuck yourself, Vitale."
+	He turned, and left.
+	Vitale chuckled, sipping his drink.
+	"Yeah, nice seeing you too, Lupo."
+
+	Connor stood in the cold afternoon air, morphing his clothes back and taking a deep breath. He pulled out his burner phone, and dialed a number.
+	"Privet, tovarishch!" Ivan answered jovially.
+	"Hey, Ivan. I've got some news..."
+	"Da, I thought as much..."
+
+	The three heroes had gathered round Ivan's safehouse. He'd placed a photo of a white-haired woman in a black kevlar bodysuit, slashing a man's throat with a knife tied to a whip.
+	"Agent Whiplash. Real name unknown." he began. "International assassin. As you can tell, she's got a bit of a gimmick."
+	"And she's here in Drackhill? Cleaning up scum, by the sound of it." Connor shrugged. "No one's died here yet, have they?"
+	"No. But she doesn't get hired to beat up gangsters. She's here for a reason - and we need to know why."
+	Connor stroked his chin. "So we've gotta draw her out somehow. Any ideas?"
+	"Da - a few." Ivan nodded, handing Connor a small flare gun. "Shoot this into the sky from a rooftop."
+	"You wanna use me as bait?"
+	"Poisonous bait." Ivan grinned. "Me and Sparky will be nearby."
+	Connor shook his head. "No. There's a shipment of guns coming in from Angleport tonight that we were gonna intercept."
+	"You want backup on this one bratan - trust me."
+	"And if that shipment doesn't get taken care of, a lot of people could end up dying." Connor countered. "Plus, if this Whiplash wants to meet, you think she'll be happy if I've brought friends?"
+	Ivan stroked his beard, deep in thought. "Alright. I'll go with Sparky on the shipment."
+	"It'd be nice to hang out!" Sparky smiled. Connor translated.
+	"Hah, too right chuvak. We can cut loose without him getting in the way."
+	"Yeah, yeah. I'm meeting a woman with whips and a skintight bodysuit - you guys will cramp my style." Connor snarked back.
+	"This better not awaken something in you..." Ivan grinned, as he zipped up his costume. "Udachnoy okhoty, tovarishch."
+	"Spasibo." Connor nodded, butchering the pronounciation. Ivan laughed, as the three parted ways.
+
+Pre-Whiplash
+______________________________
+SCENE
+	The rain had finally subsided, but had turned instead to mist. At the street level, Drackhill City's lights had halos around them, as they refracted through the fog.
+	But on the rooftops, the air was clear enough for a flare.
+	The red light shined in the sky, hanging in the air for a few seconds before burning out. Connor was underwhelmed, but morphed on his mask and leaned against an aircon unit. Before long, though, he heard the unmistakable sound of running.
+	He turned, and saw a woman clad in a black kevlar bodysuit, sprinting across the rooftops. She leapt over the alleyways with preturnatural grace, as though she were floating through the air. In moments, she landed on his roof, her boots grinding into the gravel as she came to a halt.
+	"Good evening." Connor began.
+	"You know who I am?" she asked.
+	"Well, I'm hoping not the dominatrix I hired. That'd be awkward." he grinned.
+	"Wow. Did you come up with that all by yourself?" she smirked back.
+	"It's a gift." he chuckled. "I take it you're 'Whiplash?'"
+	"And you must be The Werewolf, no?"  She walked over to him, slowly - like a cat approaching a crippled mouse.
+	"Gotta say, your super-name is way cooler than mine." he quipped. "Sure, it's a little on the nose, but--"
+	Before he could finish, she drew her whip and cracked it in the air.
+	Connor gulped. "Maybe I should change mine to 'Stabby Stabby Punch Man.'"
+	"Funny guy." she grinned. "It's a shame, really."
+	"What is?"
+	"Someone out there wants you dead."
+	"That... really doesn't narrow it down."
+	She chuckled. "You know my name - so you know what I do."
+	"That sucks. I was really feeling a connection." he grinned. "Now, I was told as a kid to never hit a woman, so maybe this'd be easier if you just walk awa---"
+	At that, she launched a throwing knife at him. He caught it by the handle, and looked up, just as her whip smacked across his face.
+	He cartwheeled away to reduce the impact, and stabbed the knife into the ground.
+	"That wasn't very nice. I was still monologuing." he laughed, before his costume thickened with anticipation.
+	"Sorry, darling. Busy schedule." she smirked. She threw a knife into the air, and hit it with her whip. To Connor's amazement, the whip's edge wrapped around the handle and knotted itself perfectly.
+	"Whoa... do it again!" he snarked, before pouncing in.
+
+	Whiplash, true to her name, swung her whip out, the knife at the edge slashing across Connor's chest. At the second strike, he grabbed the rope, only for the knife to swing around and stab into his abdomen. He pulled the whip as hard as he could, and Whiplash launched towards him.
+	He sent a haymaker aiming right for her head. As it sailed through the air, he felt it move - as if some hidden force was pushing it away. All the momentum was lost, as it went right by the side of her head. Meanwhile, she pulled two knives from her belt, and sank them repeatedly into his torso.
+	He kicked her as hard as he could, and actually made her move - slightly. He scurried backwards, gasping for breath.
+	"Okay... time out?" he shrugged.
+	"You wish." she grinned, striking him with her whip once more. It caught him in the face, cutting across his cheek.
+	He quickly darted backwards, and felt his gauntlets morph. He drew a handful of fletchettes, and launched them at her.
+	As they flew forwards, he made sure to trigger his super-senses. His eyes burned red, and he watched in slow motion as they sailed through the air. All of them were on a direct course for her. Even with her enhanced physicals, she could not possibly move fast enough to dodge them all.
+	To his horror, he watched as they suddenly veered off course, flying past her with not a single scratch.
+	"How the fuck..." he muttered, before realising.
+	He charged in, bull-rushing towards her. His eyes roared brightly as he ignored strike after strike. In moments, he closed the distance, before morphing blades above his wrists. He grabbed her by the head as hard as he could, and rather than stabbing, he pushed his free hand into her arm. Despite his lack of momentum, it broke past the skin and into the flesh beneath.
+	She roared in... no, not pain. Excitement? Surprise? Either way, she spun the whip around, and the knife sank right into his back. Undeterred, he gripped a hold of her arms, and headbutted her as hard as he could.
+	Again, he felt a force pushing back. A normal Super-Agent would've been stunned badly by that - she was barely fazed. She headbutted him right back, with far more force, and sent him sprawling backwards.
+	He panted for breath, as did she.
+	"Oh, baby..." she grinned, licking the blood off of her lips. "No one's ever given me this much before."
+	"Okay, this is getting weird now." he chuckled, rising. "How the fuck are you doing that?"
+	"What? This?" she smirked, before launching her whip at him again. This time, his hand shot out, and he grabbed it. He ripped it towards him, and planted his foot in her torso. She tried, but couldn't keep her grip. He threw it down, and raised his fists.
+	"Never bring a whipknife to a fistfight." he quipped, before charging in.
+	"Oh... excellent." she growled excitedly, putting up her stance.
+	The two super-warriors clashed again, and once more, Connor felt that strange force at his hands. Every strike he made either lost momentum, or glanced away, dealing minimal damage. Meanwhile, he could hardly move to dodge. It was as though the air was thicker for him, and thinner for her.
+	Finally, a haymaker from her sent him spinning to the ground. Landing on his back, she planted her boot on his neck. He gripped her heel, trying desperately to move it, but felt even the tiny gasps of air he could breathe be pulled from his lungs.
+	"That was... exquisite." she panted, grinning sadistically. "Oh, it's such a shame."
+	Connor felt his vision blur. The world was going darker, and he fought for every breath.
+	"Shh... don't fight it. Embrace it." she whispered.
+	"Embrace it." the voice in his head echoed. "Embrace it..."
+	He felt his twin heartbeats quicken, then begin to slow. It was too much...
+	Too much...
+	No.
+	NO!
+	His eyes burned a brilliant blood-red, as he sent a strike right into her heel. It snapped, and she howled in pain. He sprang up, and sent another to her head. While the force restricted it, it landed, and his knuckled cracked along with her cheekbone. Then, he pounced upon her, and wrapped her as tight as he could.
+	"This is... no time for a cuddle, darling..." she snarled, sinking her blades into him again. And again. And again.
+	He didn't react. He merely shuffled both to the edge of the rooftop, and jumped.
+	As they sailed down to the ground, she tried to use her strange power to cushion their fall.
+	It made a tiny difference, as they smashed down into a car. Metal and glass cut into her skin, and she felt her ribcage give way.
+
+	The car alarm blared loudly, and a nearby door swung open.
+	"NOO! MY CAR! I JUST PAID THAT THING OFF!" the main screamed.
+	Connor looked at him with savage eyes, and snarled.
+	"I, uh... I mean, I didn't like it that much anyway..." he cleared his throat, before running off.
+	Connor grabbed Whiplash's hair, and pulled. Her head raised, as she groaned. He put his knife to her throat. and leaned into her hear.
+	"Start talking. Or I start slitting."
+	She sputtered, and spat blood. "N-not g-gonna be t-talk--talking so m-much... p-punctured lung..." she groaned.
+	Police sirens pierced through the night's air. Connor looked around frantically, trying to think.
+	"Fuck..." he muttered, before hoisting her on his shoulder, and rushing off into the night.
 
 Enter, Whiplash
 ______________________________
@@ -10474,7 +10596,7 @@ SCENE
 	"Maybe he went back to your old place?" Chloe asked. "Maybe he thinks Connor's moved back in?"
 	"I doubt it." Amy shrugged. "I, uh... he'll probably come back to the house, eventually. We should wait for him there."
 
-	Sparky and Ivan arrived outside a run-down warehouse in Angleford Docks - the region's main harbour. Ivan turned to face him.
+	Sparky and Ivan arrived outside a run-down warehouse in Angleport Docks - the region's main harbour. Ivan turned to face him.
 	"Okay, here's the plan. You go in loud - maul those bastards. I'll come in through the roof, and cover you with Isabella here." he grinned, motioning at his rifle. "She and I are going to have a nice romantic evening."
 	Sparky tilted his head. "Are... are you going to mate with that gun?"
 	Ivan grinned, getting the gist somewhat. "Bark twice if you like the plan."

@@ -45,21 +45,21 @@ CHAPTER
 
 ______________________________
 SCENE
-	The room was dark. An older man, with grey hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore down his cheeks, like running mascara. His irises were a pale grey.
-	"Gentlemen." he began. He spoke with a Virginian accent - and at once sounded like honey and sulphur. "Thank you for taking the time to attend this meeting."
+	The room was dark. An older man, with grey hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore down his cheeks, like running mascara. A nexus of these clustered around his eyes, whose steel irises glimmered in the shadows.
+	"Gentlemen." he began. He spoke with a Virginian accent - and at once sounded like honey and sulphur. "Thank you for attending."
 	"Commandant." an implacable voice growled from the speakers. "You have a lot of nerve."
 	"Enough. What's done is done." cut in a second voice. An older, upper-class accent was palpable, even through the modulation. "I have spoken with our friends in Geneva - no further action will be taken."
 	"The operation was a success." the Commandant protested.
 	"Oh it was, was it?" the first voice scowled.
 	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Federal Police will butt heads with UN Security, and Interpol will be completely ineffective. Switzerland's tradition of direct democracy has always limited our influence... By provoking public fear, we can herd the sheep into our pens."
 	"And the WHO?"
-	"Placated. We've pinned the attack on Romand separatists." he answered. "What matters now is that we have Dr. Zhou again. Now he must be reminded of his... obligations."
+	"Placated. We've pinned the attack on Romand separatists. What matters now is that we have Dr. Zhou again. Now he must be reminded of his... obligations."
 	"Oh, he will be reminded alright... I can *assure* you of that, sir." the Commandant scowled.
-	"Good. Now then, onto the agenda."
+	"Good. Now... continue your report."
 	"Gladly, sir." the Commandant nodded. "Operations in the East have progressed smoothly. The Reds are on the back foot."
 	"Excellent." the first voice audibly grinned. "Our associates in America should be pleased. Lord Oxford, how fare our proxies in the third world?"
 	"Quite well, quite well." the aristocrat replied. "Western backing of the Somali coup has opened up the nation's oil reserves to our backers, and by extension, us. How about on your front, Claus?"
-	"I've been keeping an eye on Renard, as you requested. He's been in contact with the Dutchman."
+	"I've been keeping an eye on Renard, as requested. He's been in contact with the Dutchman."
 	"Damn fool. You almost have to admire the balls on him." Oxford audibly grinned.
 	"And how about your group, Commandant?"
 	"We work ever closer to the Final Victory, sir."
@@ -92,14 +92,14 @@ Conspiracy prologue
 ______________________________
 SCENE
 	It was the 9th of October, 2015. A crisp, cold Friday morning.
-	The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a man of 18 years, his hair a tousled mess of uneven waves that caught the light like worn brass. The colour was hard to describe - on a knife's edge between dark-blonde and light-brown. Strands fell across his forehead in no particular order, as though sleep itself had styled them. A faint ginger stubble shadowed his jaw, further adding to the menagerie of hair colours. His name was Connor Barrett. His phone, plugged into a charger on the floor and resting on the bedside table, began to hum a pleasant-sounding tune.
+	The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a young man, with scruffy, dark-blonde hair. Strands fell across his forehead in no particular order, as though sleep itself had styled them, while a faint ginger stubble shadowed his jaw. His name was Connor Barrett. His phone, plugged into a charger on the floor and resting on the bedside table, began to hum a pleasant-sounding tune.
 	Connor groaned, and sat up, pulling the blanket off of him. He turned off the alarm, looked down at his pillow, and seriously considered saying "Fuck it," and staying home.
 	Nevertheless, he forced himself to rise. He stretched out, and it felt like every joint in his body clicked at once. In truth, just his shoulders and knees.
 	He leant forward, stretching out his back and touching his toes.
 	"Fuck me..." he muttered, before shuffling like a zombie towards the kitchen space, and making himself a coffee. His accent had a funny quality - it was never sure where it was from. He sounded like a local, but had strong Irish influences as well. As for his tone, it was flat - intonations were largely neutral, as though he put far more stock into words than their presentation.
-	He sipped from the cup, and allowed the bitter taste to snap him into reality. He walked to the window, and considered lighting a cigarette, before shaking his head. He opened the window, and leant outwards. He took a deep breath through the nose, absorbing the city's smell.
+	He sipped from the cup, and allowed the bitter taste to snap him into reality. He walked to the window and considered a cigarette, then shook his head. He opened it and leant out, breathing in through the nose to absorb the city's smell.
 	Drackhill. Once a major industrial hub, set to be the economic capital of the south-west. The city sat comfortably in the Drackhill Valley, nestled between Dartmoor and the coast. Connor's flat was on the western side of Drackhill - a poor, neglected township called Redbridge.
-	He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. He saw the wealthy, uptight centre of Leadmouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls.
+	He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. He saw the wealthy, uptight centre of Caldermouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls.
 	He sniffed at his armpit, and grimaced, before heading into the bathroom, stripping, and hopping into the shower.
 	Hopping wasn't hyperbole - fully awake, he vaulted the bathtub's side and used his toes to soften his descent. He grinned at his own lameness.
 	The hot--well, lukewarm--water flowed over his skin, washing away the sweat and the stink. He reached for the shower gel, and focused on the important bits - hair, armpits, groin. He vigorously rubbed a spot on his arm, only for the sleep-dust in his eyes to clear, and he realised it was just his freckles. He chuckled.
@@ -1718,7 +1718,7 @@ SCENE
 	"What do you want?" Connor snarked.
 	"Can you give me and the girls a lift? Taxis are all booked and I can't be arsed." Amy laughed back.
 	Connor chuckled. "Where to?"
-	"I think Bea and Chloe live in Leadmouth... Can you drop them home, and get me back to ours?"
+	"I think Bea and Chloe live in Caldermouth... Can you drop them home, and get me back to ours?"
 	"Sure, just let me finish a few bits."
 	"Oh my god, thank you! I love you!" she screamed.
 	"You too. I'll call you when I'm outside."
@@ -1728,7 +1728,7 @@ SCENE
 	"Thank you so much for doing this!" Bea said drunkenly.
 	"Hah, no problem." Connor smiled back. "Where's your place?"
 	"Uhhh..." Bea tried to recall. "Still can't remember, hang on..."
-	"43 Amos Heights, Leadmouth." Chloe replied.
+	"43 Amos Heights, Caldermouth." Chloe replied.
 	"Nice one!" he nodded, putting the address into GPS.
 	"You're so clever, Chlo. I love you." Bea slurred.
 	"I love you too, girl." Chloe smiled.
@@ -1811,8 +1811,8 @@ SCENE
 	"Well, well, well." she chuckled.
 	"Hey girrrrl." Bea sang.
 	"You're not working today, are you?" Chloe asked.
-	"Just about to clock in - didn't expect to see you guys here? Aren't there any good cafes in Leadmouth?" she asked back.
-	"There are some very 'good' cafes in Leadmouth - and by 'good' I mean extortionate." Bea smirked.
+	"Just about to clock in - didn't expect to see you guys here? Aren't there any good cafes in Caldermouth?" she asked back.
+	"There are some very 'good' cafes in Caldermouth - and by 'good' I mean extortionate." Bea smirked.
 	Amy laughed. "That's what you guys get for living in the posh part of town."
 
 	Over in the garage, Connor arrived with the stolen laptop in hand. He entered, to see Trey performing an MOT on a car.
@@ -2678,7 +2678,7 @@ SCENE
 	Before Connor could even walk from the sofa to the bathroom, she replied with "OMG YES YES YES" ...followed up by "Where did you want to go?"
 	He could almost hear Chloe clearing her throat, and almost see her blushing there. He chuckled, and replied "Meet us in Wyrmrock Park at 11am?"
 	"Sure! Where's best to meet there? Sorry, never been XD" she texted back.
-	Connor smiled. "If you get the bus from Leadmouth, it'll drop you off right by the lake centre - we'll meet you there :)"
+	Connor smiled. "If you get the bus from Caldermouth, it'll drop you off right by the lake centre - we'll meet you there :)"
 	He went into Amy's room, and woke Sparky up. He was greeted by several licks.
 	"Morning, Connor!" he smiled. "Where did Amy go?"
 	"Haha, morning buddy." he beamed. "She's gone to work."
@@ -2865,7 +2865,7 @@ SCENE
 	She squinted, and shook her head. "I don't think I can make it out."
 	Connor shivered slightly. He wasn't sure if it was down to his heightened senses, or if her glasses were for more than just reading. He banished the thoughts, and carried on.
 	"I think it's a bit foggy, to be fair. Anyway, closer to home, we've got the whole city." he said, pointing down to the city below. "There's Redbridge, where I'm from. You can tell because it looks awful." he grinned.
-	She chuckled, then pointed to across the river. "And that's Leadmouth, isn't it?"
+	She chuckled, then pointed to across the river. "And that's Caldermouth, isn't it?"
 	"Look at you, all local, like." Connor smirked. "And then there's Belson between them. I can smell it from here."
 	"Am I correct in saying there's a rivalry between your two districts?" she asked.
 	"Rivalry is putting it mildly. Belson's home to the Patriots - a bunch of skinhead cun---I mean, skinhead pricks." he corrected himself, blushing at his foul language. She merely giggled.
@@ -3601,7 +3601,7 @@ SCENE
 	"We'll go to a pet store. If you see anything you like, we'll buy it. It's high time you got spoiled." Connor grinned.
 	Sparky yapped excitedly, and the two descended to the ground.
 
-	Across town, in an expensive house in Leadmouth, a man in his 60s made a phone call.
+	Across town, in an expensive house in Caldermouth, a man in his 60s made a phone call.
 	"Good evening, Commandant." he began.
 	"Report, Dorsey." the Commandant said gruffly.
 	"The City Council's put pressure on me to find a certain vigilante killer - the traitor." Dorsey said, a hint of nerves in his voice. "But... I think I can keep the inquiry under wraps."
@@ -4344,7 +4344,7 @@ SCENE
 	"Nah, I doubt they'll let Sparky in." Connor gestured. Sparky yawned tiredly. "We'll walk back to mine."
 	"Fair enough. Mind if I walk with you? The fresh air sobers me up." Chloe asked, slightly shyly. "I'll walk back to mine after."
 	Connor shuffled slightly. "Whereabouts do you live?" he asked.
-	"In student housing - I think the area is called Leadmouth?" she replied, trying to recall.
+	"In student housing - I think the area is called Caldermouth?" she replied, trying to recall.
 	"Oh yeah, I know the area." Connor nodded. "The only nice part of Drackhill." he smirked. "I... I'm sure you can look after yourself, but... to get there from Redbridge, you'd have to go through Belson. And... You're new here, so let's just say, don't walk alone in Belson at night." he warned.
 	"Is it that bad?" Chloe asked, surprised.
 	Connor shuffled again, and gritted his teeth. "If you wanna walk, Sparky and I can walk you to yours? I know the shortcuts and safe spots."
@@ -4786,6 +4786,48 @@ ______________________________
 CHAPTER
 
 
+______________________________
+SCENE
+	"Boss. We've got a problem."
+	Louie Vitale sighed as he stood from his maple desk, and turned to face the glass panes that let him overlook his warehouse-turned-nightclub. He was a fairly portly man, with balding brown hair and a clean face - which emphasised a prominent grin cut into his left cheek, long since faded to a line.
+	"And that would be, Marcus?" he asked his imposing subordinate. His voice was that of a thick Cockney - and surprisingly high-pitched for a mob boss.
+	"Kane ain't happy about us pushing on his side of the river."
+	"Well, you heard about last night, right?" Vitale smirked. On the left side of his mouth, his canine and its two adjacent teeth sparkled in the light - his golden grin was well known in Drackhill's underworld.
+	"Yeah, he took a beating, but..." Marcus began.
+	"Oh, don't tell me. 'Il Lupo Mannaro' showed up and saved him. You don't seriously believe in that bullshit, do you?"
+	"I don't know, boss." Marcus shrugged. "He took six shots to the chest, and then broke the guy's revolver. Plus, the other night in Blackmarsh..."
+	"Ah, stronzate!" Vitale waved his hand dismissively. "Probably just those skinhead pigs trying to save face. That business on the train... I bet it's all hysteria. The man got impaled, and what, was up fighting the next night? Cazzate!"
+	"Still--"
+	"I've heard enough." Vitale shook his head, before leaning against the glass. "If Johnny Kane wants us out of the westside, he can send his little Lupo to meet my little Lupara."
+	He looked down at his little slice of Belson, like a king at his castle.
+	"No one fucks with the Gold Tooth Grins." he said, almost to himself.
+	"You got it, boss." Marcus nodded, before leaving.
+
+	Standing at the door was a huge man - easily 6'6". He pocketed a bribe from a young woman, and let her in. Behind her, a man with his hood up, hiding his face, approached.
+	"Oi, chav. Move along." he barked.
+	"I need to speak with Vitale." the hooded man replied. His voice was gravelly - as though he was faking it.
+	"Nah, he doesn't normally order rent boys." the man grinned - showing off his own golden canine. "Now fuck off, before I lose my temper."
+	The hooded man chuckled, and his clothes began to ripple and twist. In mere moments, he stood proudly, encased in a kevlar bodysuit and his eyes a blood-red.
+	"The... the fuck?!" the doorman gasped, pale as a ghost.
+	"I said..." Connor began, "I need to speak with Vitale."
+
+	The door swung open, as the doorman flew through. Connor stomped in, as another man rushed over. He drew a knife, and slashed out. Connor effortlessly grabbed the knife, twisted, and knocked the man to the ground. Another drew a revolver, aiming it right at Connor's head.
+	"Stop right there... or... or..." he stammered.
+	Connor grinned under his mask, and in a heartbeat closed the distance, before snapping the revovler in two, and launching a haymaker at the man's face.
+	Panic erupted. Partygoers screamed as they tried to find an exit - unfortunately, sketchy downtown warehouses-turned-nightclubs aren't known for their strict adherence to safety regulations. Instead, they merely huddled in the dancefloor, like panicked cattle.
+	Connor stormed up the metal stairs, and kicked open the door. Marcus launched a flurry of punches with his knuckledusters at his chest - rather than blocking, Connor placed his hands at his hips and looked up at the man. He was a head taller, but in that moment - he was little. A light push, and he launched backwards.
+	"DIE, YOU FUCKIN' FREAK!" Vitale screamed, unloading his shotgun into Connor's chest. He flew back, smacking into the wall, and fell to the ground. He coughed, regaining his breath, and pounced forward.
+	Vitale made an almost froglike noise as Connor raised him by the throat, before slamming him into his glass pane hard enough to shatter it. He held Vitale over the edge for a second, letting the moment hand along with him.
+	"Please--Please, I--" Vitale sputtered.
+	"Message received?" Connor asked.
+	"L-loud and clear."
+	Connor smiled, and placed Vitale down, before brushing the dust off of him.
+	"Good. Pleasure doing business with you, Mr. Vitale."
+	Vitale looked at him, dumbstruck, before shaking his hand.
+	"Jesus Christ... you're really something, Lupo." he grinned.
+	"So I've been told." Connor chuckled, before walking away.
+
+Enter, Vitale
 ______________________________
 SCENE
 	It had been a long, long day at the cafe. Too long. Unsurprisingly, Amy's face lit up as she saw Connor and Sparky waiting outside for her.
@@ -5506,15 +5548,15 @@ SCENE
 	"How do you know that?" Chloe asked sheepishly.
 	"Tattoos?" Amy asked him.
 	"Tattoos." he nodded, before turning back to Chloe. "In the Patriots, you only get those ones once you've been arrested. It's how they weed out the less... committed. The local mafiosos have a similar practice where they pull out a tooth and give you a gold one. Hence their name - the Gold Tooth Grins."
-	"City of gangs, this is." Amy sighed. "The Grins are mainly based up in Blackmarsh, you've got the Patriots in Belson, and the Syndicate over here."
-	"And the banking cartels in Leadmouth." Connor quipped. "Of course, their theft is legal."
+	"City of gangs, this is." Amy sighed. "The Grins and the Patriots are fighting over Belsson, and there's the Syndicate over here."
+	"And the banking cartels in Caldermouth." Connor quipped. "Of course, their theft is legal."
 	Chloe nodded in understanding. "Is that... Is that something everyone knows around here?"
 	"No." Connor hesitated. "It's um... It's something you learn in Redbridge."
 	"What do you mean?" Chloe pushed.
 	Connor sighed. "I... I know this is going to sound bad, but..."
 	Amy gently nudged Connor with her feet.
 	"Connor." Chloe interrupted. "You saved my life last night. Safe to say, you're in my good graces right now." she chuckled softly.
-	Connor smirked. "You ever noticed how, outside of Leadmouth, this city is practically infested with gangs?"
+	Connor smirked. "You ever noticed how, outside of Caldermouth, this city is practically infested with gangs?"
 	"I've noticed."
 	"Well, Redbridge is the sole exception - until recently, of course. My uncle and my boss, Johnny, founded the Redbridge Syndicate - RS for short. The idea was to fight fire with fire. They run a monopoly on crime, essentially. They regulate the unregulated economy, and keep the more unsavoury gangs out."
 	He paused, hesitant.
@@ -6096,11 +6138,11 @@ SCENE
 	"Thanks again for last night... you really saved me." Connor smiled.
 	"Hey, eye for an eye, right?" Chloe smiled back.
 	"That reminds me - I've got the evening free - did you wanna try sparring tonight?"
-	"Oh, that'd be great!" Chloe replied. "I'll call you when I finish?"
-	"Sounds good, I'll drive straight here." Connor smiled. As Chloe left, Connor exhaled, then turned to Sparky.
+	"Oh, that'd be great!" she nodded. "I'll call you when I finish?"
+	"Sounds good, I'll drive straight here." Connor smiled. As she left, he exhaled, then turned to Sparky.
 	"She, uh... this place. Where she's working... they're investigating us."
-	"Oh... Are we in trouble?" Sparky asked, concerned.
-	"No, not yet... I sent Ivan the photo last night, so he'll start having strings pulled to keep us safe." Connor replied. "Still... I have a bad feeling that things are going to get worse before they get better."
+	"Oh... Are we in trouble?"
+	"No, not yet... I sent Ivan the photo last night, so he'll start having strings pulled to keep us safe. Still... I have a bad feeling that things are going to get worse before they get better."
 	"And Chloe?"
 	"I don't know... I... I think I'm starting to..." Connor trailed off.
 	"Starting to what?" Sparky pressed.
@@ -6443,29 +6485,29 @@ ______________________________
 SCENE
 	That night, in a dark, disused garage in Belson, two groups of men met.
 	One one hand were a group of thuggish youths - dressed in Patriot biker leathers. Their leader, a middle-aged man with several teardrop tattoos and black veins on his eyelids, walked at the front.
-	On the other side were a group of men in tactical clothing - cargo trousers, jackets, and beanies that could quickly be turned to balaclavas. Professionals, no doubt. At their head was a man in a suit, with slicked-back dark-brown hair. His grin glinted in the night - a prominent gold tooth that gave his gang their namesake - the Gold Tooth Grins.
+	On the other side were a group of men in tactical clothing - cargo trousers, jackets, and beanies that could quickly be turned to balaclavas. Professionals, no doubt. At their head was Louie Vitale himself - his golden tooth glinting as he grinned.
 	"You better make this quick." the Patriot leader growled.
 	The suited man laughed. "Eh, listen to this *scemo,* talking to us like that! Relax, Donovan. We're here to talk business, ah?"
 	"Get to the point, you fucking wop." Donovan snarled. At that, the suited man turned serious.
-	"My friends call me Rocco. My associates call me Mr. Vitale. My enemies call me many things."
+	"My friends call me Louie. My associates call me Mr. Vitale. My enemies call me many things."
 	He drew a switchblade from his pocket. "No-one calls me a *fucking wop.*"
-	Donovan's men drew their own weapons, and Rocco's quickly followed suit. A tense standoff ensued.
-	Donovan stared into Rocco's eyes, before relenting. "Talk business, or stop wasting my time."
-	Rocco grinned, and sheathed his blade. He turned to his bodyguard. "Che genio, eh?"
+	Donovan's men drew their own weapons, and Louie's quickly followed suit. A tense standoff ensued.
+	Donovan stared into Louie's eyes, before relenting. "Talk business, or stop wasting my time."
+	Louie grinned, and sheathed his blade. He turned to his bodyguard. "Che genio, eh?"
 	The bodyguard nodded.
 	"Tick tock." Donovan repeated.
-	Rocco clearly enjoyed dragging this out. Nevertheless, he relented.
-	"I have a proposal. We both know Redbridge has had designs on Belson for years now. Only, with this 'Werewolf' *ricchione,* they now have a real chance. Except, you people - you have some drug, huh? Made from his blood, if the rumours are correct."
+	Louie clearly enjoyed dragging this out. Nevertheless, he relented.
+	"I have a proposal. This war between us - it's bleeding us both dry. We both know Kane has had designs on Belson for years now. Only, with this 'Werewolf' scemo, he now has a real chance. Except, you people - you have some drug, huh? Made from his blood, if the rumours are correct."
 	Donovan looked over his shoulders, and leant in - revealing the black veins on his eyes. "We do indeed."
-	Rocco laughed. "So it is true. Now, what I propose is a deal. We'll give your men access to the docks - not ownership, mind, but access - and you'll give us a supply channel to this fantastic drug of yours."
+	Louie laughed. "So it is true. Now, what I propose is a deal. We'll give your men access to the docks - not ownership, mind, but access - and you'll give us a supply channel to this fantastic drug of yours. It's a win-win."
 	Donovan mulled it over. "I'll have to speak to the boss."
-	"You have a boss?" Rocco grinned.
+	"You have a boss?" Louie grinned.
 	"Damn right I do. And I don't know if he'd like this drug going into the hands of some *fucking wops.*" Donovan spat maliciously.
-	With that, Rocco drew his blade, only for Donovan to raise him into the air by the throat.
+	With that, Louie drew his blade, only for Donovan to raise him into the air by the throat.
 	And then, a clapping sound filled the air. All present turned to see Connor in his costume walking towards them.
-	"Gentlemen, gentlemen." he began, smirking under his mask. "To think the Italians and the Nazis used to get on so well! Oh, how the times have changed."
+	"Gentlemen, gentlemen." he began, smirking under his mask. "I think you'll find *I'm* the one who lifts mob bosses by the throat? Stop stealing my fuckin' schtick."
 	"It's him!" one of the Patriots shrieked, running away.
-	"GET BACK HERE!" Donovan barked. He released Rocco, who likewise ran away - along with all their men.
+	"GET BACK HERE!" Donovan barked. He released Louie, who likewise ran away - along with all their men.
 	Connor laughed. "You know, I didn't kill Slater 'cause he was human. But you... you're not human, are you? That makes you..." he growled, morphing spikes from his knuckles, "...fair game."
 	Donovan spat on the ground, and equipped his knuckledusters. "Try me, traitor."
 	Connor grinned. "If you fuckers want more of my blood... all you gotta do is come and take some."
@@ -6607,9 +6649,13 @@ SCENE
 	"Well, I didn't hire you for personability... your choice of attire notwithstanding." he grinned. "I need you to squash a bug for me."
 	"Who?"
 	Oxford slid over a piece of paper. "Whiplash" took it, and scanned it quickly.
-	"Connor Barrett." Oxford sighed. "He's becoming something of a pain. Multiple Paladin operatives have already died trying to stop him - even the Crusader couldn't take him down. Can you?"
-	She looked at the profile quizzically. "Covert requirements?"
-	"Nothing public. And don't involve his personal life."
+	"They call him 'The Werewolf.'" Oxford sighed. "He's becoming something of a pain. Multiple Paladin operatives have already died trying to stop him - even the Crusader couldn't take him down. Can you?"
+	She looked at the profile quizzically. "Do you have his real name?"
+	"I do. But I'm not giving it out."
+	"Why?"
+	Oxford leaned forward, flexing his hands. "Because I want to keep collateral damage to a minimum. It's much better that the 'Werewolf' dies fighting a fellow night hunter, than an apparent nobody is assasinated with the level of violence this will take."
+	Whiplash nodded. "Operational restrictions?"
+	"Nothing public. No witnesses."
 	She nodded, placing the paper back down.
 	"What are you offering?"
 	"Freedom." Oxford grinned. "Kill Barrett, and I'll personally ensure that MKUltra never bother you again. What's more, you'll be rich."
@@ -7716,7 +7762,7 @@ SCENE
 	Chloe smiled and leant in. "You're such a clever boy, you know that? I can see it in your eyes - there's a real brain behind them. Like, I don't know what you were saying there, but I could tell you were telling me something."
 	Sparky tilted his head. "Can you understand me?" he asked, longingly.
 	"Hah... I wish I could speak dog." she chuckled. "I don't know what that was, but it sounded like a question."
-	He sighed, and whined slightly. "It's okay." He perked up. "I don't need you to understand me to have a good time with you. I get to be a person with Connor - maybe I can just be a dog with you."
+	He sighed, and whined slightly. "It's okay. I don't need you to understand me to have a good time with you. I get to be a person with Connor - maybe I can just be a dog with you."
 	Chloe smiled warmly. "Clever boy. Chatty boy!" she grinned, giving him a treat. He greedily ate it - a bacon-flavoured cheese twist - his favourite.
 	"Don't tell your dad." she smirked.
 	"Oh, I've told him." Sparky replied cheekily. "He thinks it's really sweet."
@@ -7724,14 +7770,14 @@ SCENE
 	The two continued to walk at a nice slow pace through the woods. They eventually returned to the park's bus stop. She sat down on the bench, and breathed out. Sparky curled up in the seat next to her, and rested his head on her lap, looking up at her.
 	"Hey, buddy..." Chloe smiled, stroking his head. "You're a good boy, aren't you?"
 	"I'm told I'm the best." he grinned.
-	Chloe chuckled. "Yeah, you know you're a good boy, don't you? Your dad's a lucky man, huh? Getting to do walks like this with you every day. I should look after you more often!" she chuckled. She thought about Connor.
+	Chloe chuckled. "Yeah, you know you're a good boy, don't you? Your dad's a lucky man, huh? Getting to do walks like this with you every day. I should look after you more often!"
 	"You know..." she began. "I think I'm really starting to like him."
 	She looked down at Sparky, who was listening intently. "Since the day we met, I've always thought he was sweet... but, it wasn't until recently that I started to realise just how much I like him."
 	She stared off into the distance. "He's always been so good to me. I should just talk to him about it, shouldn't I?"
 	"Yes! Yes, tell him! Or I will!" Sparky barked excitedly.
 	"Haha, you think I should, huh?" she smirked. "Maybe I will."
 	She looked into the mirror, and her gaze fixed on the scar that ran down her cheek. She touched it gently, and sighed.
-	"I just... Relationships are hard, buddy." she turned to him. "A long time ago... Long before I met Connor, that is. Only 4 years ago, but still. I had this boyfriend called Francis. He was... well, at first he was actually rather sweet too. And then all of a sudden he wasn't. That's how I got this."
+	"I just... Relationships are hard, buddy." she turned to him. "A long time ago... Long before I met you guys, that is. Only 4 years ago, but still. I had this boyfriend called Francis. He was... well, at first he was actually rather sweet too. And then all of a sudden he wasn't. That's how I got this."
 	She pointed to the scar. "He said he did it to make it so 'no other man would choose me.'" she sighed. Sparky licked her cheeks and looked into her eyes.
 	"Where is he now? Can we go and hunt him?" he asked menacingly.
 	"It's okay, he's not here anymore. I haven't seen him since that happened." Chloe reassured him, recognising his growls for what they were.
@@ -7775,7 +7821,7 @@ SCENE
 	"Sorry... He is friendly, I don't know what's gotten into him today. He's probably just tired." she explained.
 	"Still..." Charlie replied, trying to come off as meekly as possible. "It's a shame he's not been trained, really. Did you say that was Chloe's dog, or her friend's?"
 	"Well, it's Connor's dog - he's our friend." Bea replied. At the mention of another male friend, Charlie's pupils constricted, but he relaxed his demeanour before Bea could notice. "I mean, he's very well behaved - Connor has trained him well, especially for a wolfdog."
-	"He's a wolfdog?!" Charlie carried on, pleased at the new opportunity to berate her friends. "That's awful! He belongs in the wild, not in a city. It's a real shame that he's kept here, truly. I'm sorry your friends don't see that."
+	"He's a wolfdog?!" Charlie carried on, almost pleased. "That's awful! He belongs in the wild, not in a city. It's a real shame that he's kept here, truly. I'm sorry your friends don't see that."
 	Bea gulped. Charlie's appeal to her sense of justice was working - by warping it. Were anyone else to say this, she'd launch into a fiery rant on how Connor adopted Sparky from a terrible situation, and the bond the two of them shared was unquestionable. But coming from Charlie, who had always known her weak spots, the thought of challenging him was anathema.
 	"Well, I suppose you're right..." she began shyly. "It is a shame he's not among his own kind. But, well, I can't fault Connor for that, Sparky had a hard life before Connor adopted him. Maybe that's what was wrong - maybe it's your cologne, or your clothes, or just something that reminds him of that." she said, searching desperately for an explanation that didn't include the words "Sparky doesn't like you."
 	Charlie slumped into his chair, looking saddened. "Oh... I'm sorry. I didn't realise it was my fault..."
@@ -7879,7 +7925,7 @@ SCENE
 	Connor arose, and began unpacking a box onto a desk. It was full of half-finished antique clocks.
 	"What's all that?" Trey asked, confused.
 	"I, um..." Connor hesitated. "I've been playing around with these clocks I got from Molnar's."
-	"The antique shop in Leadmouth?"
+	"The antique shop in Caldermouth?"
 	Connor nodded.
 	"Nice." Trey smiled.
 
@@ -7968,7 +8014,7 @@ SCENE
 	"Thank you... that really means a lot to me." he replied. "Anyway - how was your run?"
 	"Yeah, it was good!" she smiled, thinking back to her chat with Sparky.
 	"Where'd you go?" Trey asked.
-	"Wyrmrock Woods." Chloe answered, covering her mouth as she chewed her sandwich, before chuckling. "Is there a reason everywhere in Drackhill sounds like an Elven kingdom?"
+	"Wyrmwood." Chloe answered, covering her mouth as she chewed her sandwich, before chuckling. "Is there a reason everywhere in Drackhill sounds like an Elven kingdom?"
 	The boys grinned. "You know why it's called Drackhill?" Connor asked.
 	Chloe shook her head.
 	Connor leant over the fire, preparing to tell the tale.
@@ -7976,10 +8022,10 @@ SCENE
 	"Once upon a time, there was a giant, black mountain here. Inside the mountain, there was a silver city, home to a clan of Trolls. The Trolls were a greedy folk - they'd sneak out from the mountain at night and steal from the villagers nearby. One day, the King of the Trolls got too greedy, and robbed a Dragon's nest. The Dragon was displeased with this insult, and so he said to the Troll King;
 
 	"Thou hast taken what was mine,
-	Wretched troll with fire-eyes.
+	Wretched troll with fire-eyes,
 	Midnight shall mark thy doom.
-	Stand before me, or
-	Let thy clan be swept away
+	Stand before me, or,
+	Let thy clan be swept away,
 	Like leaves in the wolf-wind."
 	
 	The Troll King was disturbed by this proclamation. He loved his clan, but knew he would die should he face the Dragon. So, he devised a cunning scheme...
@@ -10193,7 +10239,7 @@ SCENE
 	"I could say the same..." she whispered to herself. "I'll see you soon."
 	"Yeah..." he smiled sadly. "See you soon."
 
-	Meanwhile, back in Leadmouth, Bea sat in the student cafe with Charlie. She sipped her cup abesntmindedly.
+	Meanwhile, back in Caldermouth, Bea sat in the student cafe with Charlie. She sipped her cup abesntmindedly.
 	"You seem distracted." he began, folding his arms. "I'm not boring you, am I?"
 	"Hm? No, no... Just, there's a lot on my mind." she replied.
 	"Bea... you're my girlfriend. You can talk to me."
@@ -10618,7 +10664,7 @@ SCENE
 Meetup at Connor's + Dynamite
 ______________________________
 SCENE
-	Dorsey was resting on his sofa, in his house in Upper Leadmouth. A Super-Agent bodyguard sat across the room.
+	Dorsey was resting on his sofa, in his house in Upper Caldermouth. A Super-Agent bodyguard sat across the room.
 	The door caved in. Connor, Sparky, and Ivan stormed through, costumed up. The Agent took a stance, but was no match against one of them - let alone all three. He was torn to shreds in moments.
 	Dorsey rose to his feet, but Ivan punched him in the face, knocking him to the ground.
 
@@ -11024,7 +11070,7 @@ SCENE
 	Bea nodded. "I'd like that. I'll meet you there?"
 	"Absolutely." Chloe smiled.
 
-	Elsewhere in Leadmouth, in the central police station, Nina arrived at Naismith's desk, holding a stack of folders.
+	Elsewhere in Caldermouth, in the central police station, Nina arrived at Naismith's desk, holding a stack of folders.
 	"More cases?" he asked, his eyes darkened from exhaustion.
 	"Yes, sir..." she groaned, likewise tired.
 	"I'm glad we managed to get the bastards, but..." Naismith leant backwards. "Couldn't they have done a little more work before we arrested them?"
@@ -11033,7 +11079,7 @@ SCENE
 Bea and Chloe argue
 ______________________________
 SCENE
-	That night, Bea and Charlie sat in a booth in a Leadmouth club called "Infernus."
+	That night, Bea and Charlie sat in a booth in a Caldermouth club called "Infernus."
 	"It's a shame the Horse is still being repaired." Bea began. "That's my favourite place to go in Drackhill!"
 	Charlie rolled his eyes. "Didn't you say that place got ransacked because it was owned by the gang?"
 	"Well, the Syndicate, yeah..." Bea meekly protested. 
@@ -11091,7 +11137,7 @@ SCENE
 	"Yeah, nice to meet you." Trey nodded.
 	"Good evening." Charlie said curtly.
 	"Right - I think it's time we get fucked up!" Amy hollered.
-	Trey giggled. "Too right! Let's show these Leadmouth poshies here what proper Drackhill clubbing looks like!"
+	Trey giggled. "Too right! Let's show these Caldermouth poshies here what proper Drackhill clubbing looks like!"
 
 	The gang, sans Charlie, cheered. Connor and Chloe headed to the bar, grabbing the first round of drinks.
 	"It's a shame we couldn't bring Sparky." she commented.
@@ -12366,7 +12412,7 @@ SCENE
 	With that, he left the lab. Chloe returned to her notes, before placing them in a binder and sighing. She clutched the binder tightly, deep in thought. 
 	"What do I do? Why am I here? What is going on? Can't I just be normal?"
 	She took out her phone.
-	"Heya, here's the address for tonight: 76 Jersey Road, Leadmouth. Don't look it up, it's a surprise, haha xx" she texted Connor. She smiled slightly, glad that there was something normal going on in her otherwise abnormal life.
+	"Heya, here's the address for tonight: 76 Jersey Road, Caldermouth. Don't look it up, it's a surprise, haha xx" she texted Connor. She smiled slightly, glad that there was something normal going on in her otherwise abnormal life.
 	Amidst the shadows and the monsters, she still had Connor.
 	She took a deep breath, and left the lab.
 	As she left, she was watched from the vents by something.
@@ -13548,7 +13594,7 @@ SCENE
 	"Hey!" she beamed, entering the car and kissing his cheek.
 	"Hey there yourself!" he replied, smiling warmly. "So, you excited?"
 	"Hell yeah!" she grinned. "I haven't been to see a live play in ages."
-	"I didn't even know we had a theatre in Drackhill." quipped Connor. "Of course, it's in Leadmouth."
+	"I didn't even know we had a theatre in Drackhill." quipped Connor. "Of course, it's in Caldermouth."
 	She chuckled. "Well, I'm excited. Have you seen many live plays?"
 	Connor smirked. "There's always a first time for everything."
 	"By the way..." she grinned. "Interesting style you've got there."
@@ -15695,7 +15741,7 @@ SCENE
 	"No, I'm sure - firstly, he may have Super-Agents there, and there's no way I'm risking your safety like that. Secondly, I need you to go through the data we found--" he said, handing her the hard drive and papers "--and compile it all into a database. Sparky will escort you back home."
 	"Got it." Chloe said, nodding. "Good luck. And... give that bastard Morland a piece of my mind."
 
-	With that, Connor headed off to Morland's house - a big, upmarket country home in Upper Leadmouth - the poshest part of Drackhill. He entered, sneaked upstairs, and found a blood trail. He followed it, and saw Morland's body, with a shotgun in his hand and the top of his head missing. Connor sighed.
+	With that, Connor headed off to Morland's house - a big, upmarket country home in Upper Caldermouth - the poshest part of Drackhill. He entered, sneaked upstairs, and found a blood trail. He followed it, and saw Morland's body, with a shotgun in his hand and the top of his head missing. Connor sighed.
 	"Damn it... hang on." he said, looking closer. The shotgun was loaded. How could he have reloaded after shooting himself? That would only happen if someone shot him, and reloaded out of reflex before placing the gun in his hand. Hell, the shot even looked weird compared to his position...
 	"It's a setup." he mused, and called Naismith's burner. 
 	"DCI Naismith." he answered.
@@ -18754,7 +18800,7 @@ SCENE
 	"Fuck..." she whispered softly.
 
 	19:43 PM, GMT.
-	In a fairly high-end flat in Leadmouth, Professor Lowenthal poured himself a glass of scotch. He drank it, savouring the taste. Then, a knock at his door.
+	In a fairly high-end flat in Caldermouth, Professor Lowenthal poured himself a glass of scotch. He drank it, savouring the taste. Then, a knock at his door.
 	"Right on cue..." he muttered, approaching. He looked through the keyhole, sighed, and opened it.
 	"Come in..." he shrugged. A man in a hoodie entered.
 	"Thank you..." the man nodded. He had a subdued Chinese accent - like a man who had lived in Britain for decades.

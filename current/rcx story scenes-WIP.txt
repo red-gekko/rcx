@@ -738,7 +738,7 @@ SCENE
 	He felt a pounding in his chest - in his torso.
 	Not *a* pounding. *Two* poundings.
 	He felt his chest, and quickly confirmed - two heartbeats. Twin hearts.
-	And as quickly as it had formed, the substance liquefied once more, and forced itself back down through his pores, leaving him wearing nothing but rags once more. He vomited bile again, and fell into a seizure, before passing out.
+	And as quickly as it had formed, the substance liquefied once more, and forced itself back down through his pores, leaving him wearing nothing but rags once more. He vomited bile again, and collapsed.
 
 Connor breaks the neck
 ______________________________
@@ -2019,7 +2019,7 @@ SCENE
 	"I... Sorry, sir, I know the objective was to come up with a vaccine idea rather than treatment, but I just thought--" Chloe began.
 	Lowenthal raised his hand. "Oh no, dear - your idea there was brilliant. No, I fear *you're* wasted in this lecture hall! You're far beyond the rest of the class."
 	"Sir?" Chloe asked, still timid.
-	"Have you ever heard of a company called 'Morland Industries'?" Lowenthal asked.
+	"Have you ever heard of a company called 'Morland Genetics'?" Lowenthal asked.
 	"I... Yes, sir, I've heard of them. Their head office is in Belson, isn't it?" she replied, unsure.
 	"I'm going to put in the good word, and see if we can get you a work placement there." Lowenthal smiled.
 	"You will?" Chloe gasped. "Sir, I... Morland's such a big, successful company - are you sure I'd be any good there?"
@@ -3938,55 +3938,95 @@ SCENE
 	"GET AWAY FROM HIM, YOU MONSTER!"
 	The Agent's cries of agony cut through the air. Connor regained consciousness, and rose to his feet.
 	"Sparky! You okay?" he asked, slurring slightly.
-	Sparky nodded, exhausted. He trotted over to a corpse, and bit it.
-	"Whoa! What are you doing?!" Connor shrieked.
-	Sparky didn't answer. Indeed, his expression had gone vacant, as though he were possessed. He tore out a chunk of flesh, then another, and another.
-	Connor didn't speak. He merely went pale, and felt a tremble in his guts.
-	And worse...
-	A hunger.
-	"No." he whispered to himself. "Not again."
-	Sparky finished chewing, and trotted over.
-	"Sorry..." he said sheepishly.
-	"You... you ate him?"
-	"It happens after a big fight sometimes... don't you get it?" he asked.
-	Connor paused.
-	"Yeah... a couple times. But... we can't eat people."
-	"Why not?"
-	Again, Connor paused.
-	"Well, I..."
-	He couldn't find an answer. It wasn't exactly cannibalism for Sparky, was it?
-	Hell, was it for him?
-	Was he even still human?
-	Sparky looked down.
-	"I'm sorry." he said again. "I didn't want to upset you."
-	"It's okay, buddy." Connor smiled slightly.
-	"No, it's not. I keep upsetting you. I did earlier with the dog, and now I--"
-	"Hey." Connor cut in. "You're not upsetting me. You're still young. I just... Eating people isn't good."
-	"But why? They're already dead. And we wanted to kill them."
-	"Well, yeah..." Connor shrugged. "I just... I don't think we should be eating people. And I don't really have a logical argument for it."
-	Sparky nodded. "I'll try not to eat people. It makes you uncomfortable, so I won't do it."
-	Connor smiled. "Thanks, buddy."
-	With that, he went further into the facility, and saw a crate of syringes. More super-serum, no doubt.
-	He shattered the crate, letting the dark red fluids drain out onto the ground.
-	"I wish we could learn what this shit is." Connor noted.
+	"I'm okay!" Sparky barked back, panting. "I think that's the last of them."
+	With that, they went further into the facility, and saw a crate of syringes. More super-serum, no doubt.
+	Connor shattered the crate, letting the dark red fluids drain out onto the ground.
+	"I wish we could learn what this shit is." he mused.
 	"It's our blood." Sparky answered nonchalantly.
 	"...wait, what?"
 	"You didn't know?" he tilted his head. "Smell it."
 	Connor hesitated, but did so. It smelled very clearly like his blood - or like Sparky's. Hints of it were noticable in the Agent's blood, too.
-	"One mystery at a time." he muttered. The pair skulked into the night.
+	"One mystery at a time." he muttered. The pair turned to leave.
+
+	Once outside, Sparky stopped in his tracks.
+	"Can you hear that?" he asked.
+	"Uh... yeah, I'm getting it." Connor replied, squinting. A low, mechanical humming noise was approaching them.
+	"Cars, perhaps?" he guessed.
+	"No. It's in the air - maybe a flying machine?"
+	"We'd better go." Connor nodded. The two prepared to leave, but in mere seconds, the noise was upon them.
+	Blinding light shone over them. They covered their eyes, and looked up.
+	Some sort of headlight, attached to a massive drone. It was shaped like a small plane, with rotors embedded in the wings. Connor heard the unmistakable sound of a backblast.
+	"GET DOWN!" he roared, as both dived forward. A missile landed mere feet behind them, detonating. Explosive force slammed into them, knocking them into the ground.
+	"RUN!" Sparky barked. The pair scrambled to their feet and started sprinting.
+	The drone spun around almost gracefully, and gave chase from above.
+	A small compartment on its underside dropped down, and a machine gun popped out.
+	A hail of bullets rained down, burying into Connor's back.
+	"AGH!" he screamed, as he stumbled down. He forced himself to keep running, as a second missile fired out. It landed right in front of him, the shockwave launching him backwards.
+	"Connor!" Ivan barked over his earpiece. "What the fuck is going on there, bratan?"
+	"Drone! Some kind of drone!" Connor roared back. "Sparky, you alright?"
+	"I'm fine!" he shouted over. "Let's just get out of here!"
+	Connor nodded, and the pair continued their sprint. The drone's gunfire echoed through the street, each shot carving out a chunk of tarmac from the road.
+	Finally, a third missile smashed into a parked car next to Connor.
+	"FUCK!" he shrieked, as it sent him and the car flying forwards.
+	"CONNOR!" Sparky roared, as he watched in horror. Connor landed first, and the car sailed right onto him.
+	The drone hovered ominously, watching. The car scraped along the road, and... it didn't fall. It stayed hoisted at an angle.
+	And then, it raised in the air.
+	Connor's eyes burned crimson, as he screamed in animalistic fury. He pushed the car in the air, spinning it, and grabbed the back axel, before launching it forward.
+	The drone launched its remaining missiles, but a second too late. They hit the car just as the car hit it.
+	The explosion shattered nearby windows. Connor and Sparky slammed into the road, as the blazing wreckage crashed down.
+	Connor choked on his blood, and crawled over to his packmate.
+	"You alright?" he spat.
+	"I'm okay..." Sparky coughed, rising. At that, the sound of sirens approached, and a police van pulled up.
+	"ARMED POLICE!" the officers roared.
+	"Fuckin' typical..." Connor muttered, before standing up. His scarlet eyes bored into their souls.
+	"See that?" he barked, motioning to the fires behind him. "I just did that."
+	He stepped forward menacingly.
+	"Want me to do it again?"
+	The officers shook in their boots. Connor heard their heartbeats quicken, and grinned savagely.
+	"Step aside. You do *not* want to be in my way."
+	"Open fire!" one shouted. Bullets whizzed through the air, and Connor dashed forward like lightning. He grabbed one officer by the feet, and swung him around, knocking down two. A haymaker took out the fourth, and Sparky bit the jacket of the fifth, launching him in the air. Finally, a kick made the sixth fall down like a bag of bricks.
+	The two Werewolves looked at each other, and sighed. They scaled up to a rooftop, and vanished into the night.
 
 Fetch with Sparky
 ______________________________
 SCENE
-	The following evening, Connor was working on his laptop - researching what he could about the recent spike in Patriot activity. His phone started to ring.
-	"Connor - need you." Johnny began.
-	"What's wrong?" Connor asked, leaping to his feet.
-	"Heard on the news - flyover collapse in Belson. Multiple cars involved. Looks bad. Can you help out?"
-	"On my way."
+	The sun hung in the sky, obscured by dark grey clouds. Drackhill's miserable autumn atmosphere hadn't changed.
+	Connor dragged himself out of bed, his whole body still aching from the drone attack the night before. He pulled out his burner, and phoned Ivan.
+	"Afternoon, tovarishch." Ivan began. "How are you feeling?"
+	"Like death." Connor groaned. "What was that thing?"
+	"A prototype counter-terrorism drone." Ivan answered clinically. "You remember those mercs in Algiers?"
+	"Paladin Corp?" Connor tilted his head.
+	"Da." Ivan audibly nodded. "From what I heard, the drone itself was manufactured by Eidolon Dynamics - it's an American arms company. They have a contract with Paladin. I'm looking into the connection - see who's pulling the strings."
+	"Whoever it is, they like giving things ominous names." Connor snarked. "What next, Nemesis Industries?"
+	"Don't tempt fate..." Ivan grinned. "I'll let you know what I find."
+	"Nice one. Laters." Connor smiled, hanging up. He gently shook Sparky.
+	"Ugh... is it morning already?" he groaned.
+	"Afternoon." Connor chuckled. "Come on, let's go get some food before patrol tonight."
+	"Food?" Sparky perked up. "Let's go."
+	Connor grinned, and morphed on some comfortable clothes.
 
-	He arrived at the scene - a section of the A38 had partially collapsed, one side of the carriageway sheared and slanted several feet lower than the other. Several cars had crumpled into one another. A white delivery van hung half over the broken edge, its rear wheels spinning uselessly in the air. Firemen were working frantically beneath the fractured concrete, trying to stabilise the structure while paramedics treated the injured. Down below, a news reporter was talking to a cameraman.
-	As Connor scanned the wreckage, his mind raced. The break looked violent - concrete torn open, steel rebar jutting out like exposed bone. Could this be linked to the Patriots? He studied the fractured supports for a moment longer, searching for signs of an explosive force. He shook his head. Too many coincidences. And right now, speculation didn't matter. People were still trapped.
-	"As you can see, Liz, a section of the Belson flyover has partially collapsed during the evening rush hour. Emergency services are attempting to reach several motorists believed to be trapped beneath the fallen carriageway. At present, there's no official explanation for what caused the failur--oh my god!" the reporter gasped, as Connor vaulted over the cordon.
+	"Look who decided to wake up!" Amy grinned, setting down a cheese and ham toastie on Connor's table.
+	"Look who decided to get off her arse and serve me." Connor snarked back. "Is a 10 minute wait normal for this?"
+	"Shut up or I'll spit in your coffee." she laughed, before kneeling down. "Hey, buddy!"
+	"Hey, Amy!" Sparky chatted back. "Thanks for the food, I feel much better."
+	"Aw... chatty boy." Amy cooed. "By the way, did you guys drive in?"
+	"Yeah, couldn't be arsed walking." Connor shrugged. "Why?"
+	"You'll struggle getting back." she began. "Heard on the news - the flyover's collapsed. Town's gridlocked."
+	"Oh, shit." Connor said, scratching the back of his head. "Is anyone hurt?"
+	"A lot of cars fell through." she nodded grimly. "Could be really bad."
+	Connor paused, his eyes darting away for a second before turning back.
+	"We'd better head off now then. Don't wanna sit in traffic for hours on end."
+	"You'll have to drive out into Blackmarsh and then back around." Amy chuckled. "I'll probably get home before you do."
+	"Ha, ha." Connor grinned, rising. "Have a good one, sis."
+	She smiled, and headed back inside.
+	The pair stood. Sparky looked up.
+	"Superhero time?" he asked wearily.
+	Connor chuckled. "You're on recon - I'm on rescue."
+	Sparky smiled. "See you tonight."
+
+	Connor arrived at the scene - one side of the carriageway was slanted several feet lower than the other. Several cars had crumpled into one another. A white delivery van hung half over the broken edge, its rear wheels spinning uselessly in the air. Firemen were working frantically beneath the fractured concrete, trying to stabilise the structure while paramedics treated the injured. Down below, a news reporter was talking to a cameraman.
+	As Connor scanned the wreckage, his mind raced. The break looked violent - concrete torn open, steel rebar jutting out like exposed bone. Could it be linked to the conspiracy? He studied the fractured supports for a moment longer, searching for signs of an explosive force. He shook his head. Too many coincidences. And right now, speculation didn't matter. People were still trapped.
+	"As you can see, Liz, a section of the Drackhill flyover has collapsed during the lunchtime rush. Emergency services are attempting to reach several motorists believed to be trapped beneath the fallen carriageway. At present, there's no official explanation for what caused the failur--oh my god!" the reporter gasped, as Connor vaulted over the cordon.
 	"Hey, wait! You can't--" a fireman meekly protested, before going pale as Connor gripped the twisted frame of a crushed hatchback. With a sharp pull, metal screamed in protest. The door tore free in his hands.
 	"Oh my God, thank you!" the man in the driver's seat exclaimed.
 	"No worries." Connor nodded, smirking beneath his mask.
@@ -4038,36 +4078,21 @@ SCENE
 	He turned back toward Connor - who had vanished.
 	"Fucking superheroes..." he chuckled, before picking up the mic.
 
-	As Connor re-entered the flat, he covered his mouth in shock and disgust.
-	"Hey Connor! Where did you go?" Sparky asked, smiling. He was sat next to a fresh deer carcass.
-	"Sparky..." Connor began. "What is that?"
-	"Oh, this? I got hungry while I was on patrol. I thought I should bring it back to share."
-	Connor cringed a little. "I... Thanks, buddy, that's really thoughtful of you..."
-	"Did I mess up again?"
-	"No, no..." Connor shook his head. "It's just..."
-	He sighed, and sat down, putting his arm around Sparky.
-	"Before I met you, I was going for a run in the woods. And I don't know why, but I started chasing this deer, and before I knew it... I was eating it. Raw."
-	Sparky nodded, intent on listening.
-	"And that freaked me out." he continued. "Killing another creature..."
-	"But we kill Super-Agents all the time?"
-	"Yes, we do. But... it's different when it's something helpless. Killing Super-Agents is okay because they're coming after us. Killing humans is... trickier... but there are some circumstances where we have no choice. But killing a defenceless animal? Just because we're hungry?"
-	"Where do you think the meat in the fridge comes from?" Sparky countered.
-	"Yeah, you're not wrong. I'm not saying we can't eat meat, or that we have to go barefoot to avoid crushing bugs. But it's different when *we're* the ones doing the killing."
-	He sighed again, and took a deep breath.
-	"There's something inside us, Sparky. Something... monstrous. And we're both doing what we can to use it for good. But if we start killing things for food, or eating the freaks we kill... we're giving into it."
-	"Yes, we are. We're giving into instincts, like we should."
-	"No." Connor shook his head. "Just because you have an instinct doesn't mean you have to follow it."
-	Sparky tilted his head, genuinely confused.
-	Connor shrugged. "You can eat the deer, if you're hungry. But can you eat it somewhere else? If Amy sees, she'll have questions - and we can't tell her the answers. Not yet."
-	"Okay." Sparky nodded, still thinking. He dragged the carcass over to the window, and crawled out into the night.
-	Connor laid down on the bed, and rubbed his temples.
+	Connor stumbled into the flat, aching all over. He laid down on the sofa, and closed his eyes.
+	"How'd it go?" Sparky asked, jumping up and curling into a ball on his lap.
+	"You wanna know something funny?" Connor began, stroking his packmate's ears. "I got back to my car - it had a fuckin' ticket. I almost wish it got written off at the flyover."
+	Sparky chuckled, not quite knowing what that meant - but knowing his best friend was joking.
+	"How about you? How was recon?"
+	"I found a spot where they were keeping more serum." he began. "Out in the moors. Seemed heavily guarded though."
+	"I'll call Ivan - we'll attack tomorrow night." Connor nodded. "Let's get some sleep, eh?"
+	"Sounds like a plan." Sparky smiled, licking him. The two grinned, and fell asleep.
 
-	Later that evening, Zack was leaning against a wall in an alleyway. A middle-aged man arrived. He was clearly stressed.
-	"Adam." Zack began. "We have to publish this."
+	Later that evening, Zack was leaning against a wall in an alleyway, with a middle-aged man pacing before him.
+	"Adam." he began. "We have to publish this."
 	"For the last time, Zack, I'm ordering you to drop it." Adam replied, looking over his shoulder.
 	"For christ's sake! You saw the footage! This is big. A superhero. A literal superhero!" Zack protested.
 	"Shut up!" Adam snapped. "Listen, you can't just say things like that out loud."
-	"I'm a journalist, Adam. It's my *job* to say things like that out loud." he retorted.
+	"I'm a journalist, Adam. It's my *job* to say things like that out loud."
 	Adam sighed, and rubbed his temples. "Zack, there's something big going on. I'm only saying all this to protect you."
 	Zack scoffed. "And that's my point! There's something big going on. We're a public broadcaster! It's our duty to--"
 	"Zack!" Adam snapped again. "We've been ordered to drop it. If you can't do that, you have to leave. Before you put us all in deep shit."
@@ -4800,8 +4825,8 @@ SCENE
 	"Well, you heard about last night, right?" Vitale smirked. On the left side of his mouth, his canine and its two adjacent teeth sparkled in the light - his golden grin was well known in Drackhill's underworld.
 	"Yeah, he took a beating, but..." Marcus began.
 	"Oh, don't tell me. 'Il Lupo Mannaro' showed up and saved him. You don't seriously believe in that bullshit, do you?"
-	"I don't know, boss." Marcus shrugged. "He took six shots to the chest, and then broke the guy's revolver. Plus, the other night in Blackmarsh..."
-	"Ah, stronzate!" Vitale waved his hand dismissively. "Probably just those skinhead pigs trying to save face. That business on the train... I bet it's all hysteria. The man got impaled, and what, was up fighting the next night? Cazzate!"
+	"I don't know, boss." Marcus shrugged. "He took six shots to the chest, and then broke the guy's revolver. Plus, the other night in Blackmarsh... and last week on the flyover..."
+	"Ah, stronzate!" Vitale waved his hand dismissively. "Probably just those skinhead pigs trying to save face. That business... I bet it's all hysteria. The man got impaled, and what, was up fighting the next night? Cazzate!"
 	"Still--"
 	"I've heard enough." Vitale shook his head, before leaning against the glass. "If Johnny Kane wants us out of the westside, he can send his little Lupo to meet my little Lupara."
 	He looked down at his little slice of Belson, like a king at his castle.
@@ -5320,7 +5345,7 @@ SCENE
 	"Yo, dickhead, what's--"
 	"Chloe's being attacked!"
 	"What?! Where is she?"
-	"Outside her work... argh, what was it called?! "Mor-" something... Morland Industries!"
+	"Outside her work... argh, what was it called?! "Mor-" something... Morland Genetics!"
 	"That's the big tower building in Belson - we're close by!" Connor said, his hearts pounding. "SPARKY!" he roared.
 	"Let's go!" Sparky barked back, rushing to his side.
 	The two sprinted at full speed - fast enough that when Connor turned the corner to head down the street, he had to skid and catch himself to retain his momentum. They spotted the alleyway, where Chloe was with two men - Connor motioned for Sparky to jump up and go around while he took the front.
@@ -5771,7 +5796,7 @@ SCENE
 
 	"One more thing." Connor sighed. "My little mauling session - it was because my friend Chloe was attacked outside her work by those skinheads."
 	Ivan raised an eyebrow.
-	"Her work being a place called Morland Laboratories." Connor continued.
+	"Her work being a place called Morland Genetics." Connor continued.
 	"Obaldet... That's the lab the police have been using." Ivan gasped. "So, what, you think ODESSA was involved?"
 	"We know the Patriots have links to the Super-Agents - or, I suppose, ODESSA." he shrugged. "It's not that big a leap."
 	"Nazis of a feather." Ivan nodded. "Well, there's three posibilities. Number one, just a coincidence. Your friend was a lone woman walking in Belson, it happens. Number two, ODESSA want to strike at Morland, derail the investigation. But... then why not use Super-Agents? Or just infiltrate and steal?"
@@ -6139,7 +6164,7 @@ SCENE
 
 	In short order, he pulled up back outside Chloe's block. She came rushing out, all dressed up ready for work. Sparky groggily trotted beside her.
 	"Heya, thanks again for doing this..." she smiled, entering the car.
-	They drove to Morland Industries, and parked up.
+	They drove to Morland Genetics, and parked up.
 	"Thanks again for last night... you really saved me." Connor smiled.
 	"Hey, eye for an eye, right?" Chloe smiled back.
 	"That reminds me - I've got the evening free - did you wanna try sparring tonight?"
@@ -6550,7 +6575,7 @@ SCENE
 	The electicity zapped through Connor's body, causing his costume to shudder and shake. Connor shrieked in pain, and dashed backwards.
 	"GET AWAY FROM ME!" he screamed.
 	Naismith, undaunted, swung again. This time, Connor grabbed the baton with his hand. Electric agony coursed through him - but he yanked it from Naismith's hand and threw it to the ground.
-	Now, Connor was barely able to stand. A seizure was oncoming. He had to get out of here, and fast.
+	Now, Connor was barely able to stand. He had to get out of here, and fast.
 	He grabbed Naismith by the throat, and slammed him into a wall, knocking the wind out of him.
 	Naismith choked, as Connor snarled.
 	"LEAVE ME ALONE." he growled.
@@ -6644,7 +6669,7 @@ SCENE
 	"Enter."
 	"My lord." a servant began, opening the door. "Your... guest is here."
 	"Excellent. Send her in."
-	In a few heartbeats, a white-haired young woman in a black leather bodysuit approached. Fastened to her belt were a pair of whips, and an assortment of knives which reflected the light like running water. Her upper face was partially covered by a domino mask, but the black veins of a Super Agent peppered her cheeks nonetheless.
+	In a few heartbeats, a young woman in a black leather bodysuit approached. Fastened to her belt were a pair of whips, and an assortment of knives which reflected the light like running water. Her upper face was partially covered by a domino mask, but the black veins of a Super Agent peppered her cheeks nonetheless. A dutch braid held her light-blonde hair back, and a knife dangled from the end, tied neatly into the tail.
 	"Ms. Cunningham, I presume?" Oxford grinned.
 	"That's not who you hired." she replied curtly.
 	"No, quite right... Agent Whiplash. Are you as good as they say?"
@@ -7093,6 +7118,95 @@ SCENE
 Rifles of the IRA
 ______________________________
 SCENE
+	Connor woke up to the sunlight shining on his face - and to the sound of Trey and Sparky snoring in unison. He looked over, chuckled, and rose out of the blow-up mattress he'd been sleeping in. He nudged Trey with his foot.
+	He heard Trey say "Uh-huhhh..." slowly.
+	"You want coffee?"
+	"Yes please..." Trey said, half-asleep.
+	Connor nodded, rose, and knocked on Phil's room's door. Chloe answered.
+	"Morning!" she said cheerfully.
+	"Morning!" Connor smiled back. "I'm gonna make coffees. You want one?"
+	"I'd love one." she nodded, putting her glasses on.
+	"How do you take it?"
+	"Oh, milk, no sugar - unless you have sweetner?" she smiled. "Diabetes, eh?"
+	Connor chuckled back. "Bea?" he asked.
+	Bea woke up. "Huh... oh, uh... hi Connor..." she slurred, groggy and hungover.
+	Connor grinned. "Coffee?"
+	"Uh, milk, two sugars... thank you..." she mumbled.
+	Connor nodded, and rubbed his eyes.
+	"You okay?" asked Chloe.
+	"Yeah, fine... just a migraine."
+	"Hangover? I didn't think you got that drunk."
+	"Yeah, I suppose... must be dehydrated." he nodded. "I'll see you downstairs?"
+	"Yeah, sounds good!" Chloe smiled, and closed the door to get dressed.
+	Heading back to the bed, she saw Bea on her phone, looking slightly stressed.
+	"You okay?" she asked.
+	"Yeah, it's fine." she replied abesntly, reading her notifications. 27 missed calls from Charlie, text message after text message, each one more self-pitying than the last. "Please pick up, I'm begging you." one read. "I'm so sorry if I upset you." said another.
+	She sighed, and put her phone down, before looking at herself in the mirror.
+	"Damn it..." she muttered.
+	"What's wrong?" Chloe piped up.
+	Bea responded by pointing to a tiny white patch on her arm.
+	"Vitiligo. New one."
+	Chloe smiled softly, and took a closer look.
+	"It's only a small one." she said, trying to sound reassuring. "I doubt it'll get much bigger."
+	Bea shrugged, and looked at her eyes in the mirror. Her blue eye caught the sunlight through the window, and she sighed again.
+	"Hey." Chloe cut in, firmly but caringly. "You're beautiful. Don't ever think otherwise."
+	Bea smiled warmly. "Thanks, girl. You too."
+
+	Connor knocked on the spare bedroom door. He heard Amy mumble "One second!" and the sound of shuffling. She answered the door, clearly having just thrown on whatever clothes were nearby.
+	"Coffee?" Connor asked nonchalantly.
+	"Yeah, go on then."
+	Connor nodded, went downstairs, and began making the coffees.
+	The gang joined him downstairs, now dressed, and all sat down on the sofas, barely awake.
+	Connor served the coffees, and sat down, before rubbing his temples in pain. His migraine was getting worse, and his vision slightly blurry.
+	"Yo. Earth to Connor." Amy snarked. "You okay?"
+	"Yeah, fine..." he sighed. A splash of blood came from his nostrils.
+	"Oh, god - are you alright?" asked Bea, worried.
+	Connor tilted his head, before he noticed the droplets. He quickly grabbed some paper towels, and rushed to the sink.
+	Sparky trotted over softly.
+	"The voices?" he asked.
+	Connor subtly nodded, washing away the blood.
+	"You need to get out." Sparky whispered, as if the humans could hear him. "We haven't gone for a hunt in days."
+	Connor responded by pushing his palm into Sparky's head. Their minds brushed up against each other, and Connor thought into his packmate's psyche.
+	"I know. There's a job tonight - arms traffickers. We'll go out - get some 'pain relief.'"
+	Sparky grinned, almost savagely, in anticipation.
+	Amy walked over, and put her hand on his shoulder, startling him slightly.
+	"Sorry..." she said gently. "Are you alright?"
+	"Yeah, I'm fine. It'll clear up soon." he nodded. He turned back to the group, who were all looking at him - the concern on their faces visible.
+	"Sorry, guys - I'm fine, don't worry." he smiled, trying to reassure them. Hesitantly, they resumed their conversation.
+	Amy leaned in, and whispered.
+	"You sure you're okay?"
+	"I'll be fine." he nodded softly. The bleeding stopped, and the pulsating clustered headache lessened into a more manageable pain.
+
+	Morning turned to afternoon. The gang had parted ways, and Connor took a power nap back at the flat. He shambled out of the bed and into the living room, where Amy was watching TV with Sparky.
+	"You okay?" she asked.
+	"I'm alright..." he replied groggily. "That was... that was awful."
+	"Was it to do with your powers?"
+	"Yeah." he sighed. "They come and go."
+	She hesitated slightly. "Do you remember when we were kids? You had a really bad nosebleed when..."
+	"When I killed him."
+	"When you saved me." she corrected.
+	"I know. Same thing. He had it coming." Connor shrugged.
+	"Too right." Amy replied softly. "Has, um... Has that been playing on your mind lately?"
+	"A little." he admitted. "When I killed Hughes. It reminded me."
+	"In either case, you saved people. So many kids, just like me - they're free and safe now, because of what you did."
+	Connor sighed. "Thank you. I needed to hear that."
+	"Take it from the first person you ever saved, *superhero.*" she audibly grinned.
+	Connor laughed. "Fine. I'm a superhero. Are you gonna let that go now?"
+	"Absolutely not." she giggled.
+	"Well then..." he smirked, stretching. "I guess this superhero should get to work."
+	"You sure?" Amy tilted her head. "After this morning? Shouldn't you get some sleep?"
+	Connor sighed, looking away. "The, um... the headaches, they..."
+	"What is it?" she asked, slightly worried.
+	"They get better if I... If I cause pain." he admitted. "I don't know why. And because I haven't been out in a few nights, they've gotten bad."
+	Amy smiled sympathetically. "That... that sounds horrible."
+	"Yeah... it is." he nodded. "Anyway... it's either go beat up some skinheads, or start self-harming again."
+	"I vote for option one." she chuckled grimly. "Stay safe, alright?"
+	"Aw, I didn't know you cared." he grinned.
+	"Go fuck yourself." she snarked back.
+
+Nosebleed
+______________________________
+SCENE
 	"Boss." Marcus began. "He's here again."
 	Vitale sighed, and rubbed his temples. "Alright, let him in."
 	Marcus nodded, and opened the metal door to the office. Connor, clad in his costume, sauntered in.
@@ -7156,7 +7270,9 @@ SCENE
 	"Funny guy." she grinned. "It's a shame, really."
 	"What is?"
 	"Someone out there wants you dead."
-	"That... really doesn't narrow it down."
+	"That... really doesn't narrow it down. Are you with ODESSA?"
+	"Not them, no." she smiled. "It's not just them you've pissed off."
+	"And let me guess - you're here to kill me?"
 	She chuckled. "You know my name - so you know what I do."
 	"That sucks. I was really feeling a connection." he grinned. "Now, I was told as a kid to never hit a woman, so maybe this'd be easier if you just walk awa---"
 	At that, she launched a throwing knife at him. He caught it by the handle, and looked up, just as her whip smacked across his face.
@@ -7203,13 +7319,78 @@ SCENE
 	"NOO! MY CAR! I JUST PAID THAT THING OFF!" the main screamed.
 	Connor looked at him with savage eyes, and snarled.
 	"I, uh... I mean, I didn't like it that much anyway..." he cleared his throat, before running off.
-	Connor grabbed Whiplash's hair, and pulled. Her head raised, as she groaned. He put his knife to her throat. and leaned into her hear.
-	"Start talking. Or I start slitting."
+	Connor grabbed Whiplash's hair, and pulled. Her head raised, as she groaned. He put his knife to her throat. and leaned into her.
+	"Start talking. Or I start cutting."
 	She sputtered, and spat blood. "N-not g-gonna be t-talk--talking so m-much... p-punctured lung..." she groaned.
 	Police sirens pierced through the night's air. Connor looked around frantically, trying to think.
 	"Fuck..." he muttered, before hoisting her on his shoulder, and rushing off into the night.
 
 Enter, Whiplash
+______________________________
+SCENE
+	Whipash's eyes shot open, and she instinctively reached out, grabbing the nearest human by the throat.
+	"Gagh!" the man choked, before she felt another hand grip her wrist and yank it away. She sat up, and saw the Werewolf - and an older man, with glasses and surgical scrubs.
+	"Easy." Connor growled firmly. Whiplash stared him down, but relented.
+	"Where am I?" she asked.
+	"Still in Drackhill." Connor nodded, turning to the older man. "Send the bill to Mr. Kane."
+	"Thanks..." he nodded, clearing his throat. He turned to face her. "I'd say don't do anything strenuous, but..."
+	She reached down, and felt her ribcage mechanically. The ribs were still fractured, but her lung wasn't leaking air anymore. Her heel - the one Connor snapped - was bound in a cast.
+	"I managed to vent your lung when you came in. Normally I'd say we put a tube in, but air build-up is minimal. If your breathing gets worse again, come right back in."
+	"Thanks, doc." Connor nodded. He motioned, and Whiplash rose. She strained, but got to her feet. She limped as the pair left the back-alley clinic.
+
+	"Why'd you save me?" she asked.
+	Connor paused, folding his arms.
+	"Couple reasons. First, because I wanna know some things. Second... well, you're not with ODESSA, so there's no inherent reason to kill you. Third... You were in a lot of pain. And I could help."
+	"Oh, don't tell me you've fallen for me." she grinned.
+	"I do that." he sighed. "Masking. I do it all the time. I quip during fights, I banter with my friends, I--"
+	"Spare me the psychoanalysis." she cut in harshly. "What's the real reason?"
+	"I've just given three."
+	"Three bullshit reasons." she scoffed. "You wouldn't save me unless there was something in it for you. Something more than a little chat."
+	"Is it that hard to believe I would help you?" he tilted his head.
+	"Yes." she nodded curtly. "I tried to kill you."
+	Connor sighed again. "You know, one guy shot at me with a sniper rifle. Then he unloaded a shotgun into my chest. He's now one of my closest allies."
+	"'Allies?' Are you asking me on a date?" she snarked.
+	"I'm guessing the guys who paid you won't be too happy." he shrugged. "And I'm guessing someone with your... 'talents...' would be a lot of trouble for them to go after. Why not work together?"
+	She looked away. "No. It's too dangerous."
+	"Whiplash." he said firmly. "I can see in slow motion, so I saw what you can do."
+	She sighed, leaning back. "It's called Trajectory Manipulation. A form of telekinesis."
+	"How do you do it?"
+	"How do you shit knives and fletchettes out of your hands?" she chuckled. "I... I was only a little girl when they took me."
+	Connor nodded, wordlessly encouraging her. She hesitated, and folded her arms - as if putting up a shield.
+	"They put you in this airtight pod, filled with lukewarm water, and they whack a breathing mask on your face." she continued. Her eyes squeezed shut, as if she was back in the pod once again. "You can't hear, smell, taste, feel, see... complete sensory deprivation."
+	"How long do you stay in?" he asked.
+	"As long as it takes." she shuddered. "They let you out once you manage to tell them the password. And the only way to get the password... is to read someone's mind."
+	"How do you do that?"
+	"That's what the deprivation is for." she nodded. "If your five senses are shut off, you're forced to rely on your sixth sense. That's why they lock up kids - apparently, children's neurons are less insulated, which makes them more receptive to... to that kind of training."
+	"And once your sixth sense is activated... you're what, a psychic?"
+	"More or less." she shrugged. "You still need to be trained, though. Most of our 'powers' are far too complicated to use right off the bat. For example, I can manipulate trajectories, but I never trained in general telekinesis. For my... line of work... you need a more subtle touch."
+	Connor cleared his throat. "And this... psychic laboratory, or whatever - they want me dead?"
+	"No. They produce assassins. The man who *hired* me wants you dead." she chuckled grimly. "And now... he'll be after me, and so will they..."
+	"Why would they come after you?"
+	"Because I failed." she admitted, choking up a little - not out of shame, but fear. "I know the punishment for failing and not dying."
+	"Then stay here." he said softly. "If they come here, we can fight them off together."
+	She looked at him, her eyes trembling slighty. "I... I can't. I've got to go off the grid - at least for a while."
+	"I get it." Connor nodded gently. "But listen - if you do need help, come to the Singing Horse - it's a nightclub in Redbridge. Ask for me - the owner knows me."
+	"Why are you doing this?" she asked, her brow furrowing.
+	"Doing what? Being kind?"
+	"Yes! Why would you do that?!" she hissed.
+	"Because... I know what it's like to be tortured." he shrugged. "And to be hunted. And it's my fault you're in this situation. And... well, I'm something of a superhero. It's my *job* to be kind."
+	She paused, looking at him up and down. The monster in the kevlar suit - her target, her prey... it didn't make sense.
+	She hesitantly reached out her hand. He paused, but took it, and their consciousnesses shot against each other.
+	She saw ODESSA's torment of him. His body twisting and reshaping against his will. He saw... nothing. The horror of nothingness. The pod.
+	It was too much. They pulled away, and rubbed their temples in unison.
+	She turned away, then turned her head back. She pulled off her domino mask, and gulped.
+	"Before they took me..." she began, choking on her words. "My name was Olivia. Olivia Cunningham."
+	Connor hesitated, but his mask rippled and melted away.
+	"I'm Connor. Connor Barrett."
+	Whiplash - Olivia - bowed her head, and walked away into the night.
+	Connor stood there, as she faded into the fog. He took a deep breath, and smiled sadly.
+
+An Unusual Alliance
+______________________________
+CHAPTER
+
+
 ______________________________
 SCENE
 	Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
@@ -7226,14 +7407,14 @@ SCENE
 	"Hey, bro!" Trey smiled, scratching the back of his head. "Guessing this is my cue to leave, right? Top secret, and all that."
 	Johnny cleared his throat. "What's he talking about, Connor?"
 	"I told him how the Werewolf came to visit the other week." Connor explained, twitching his eye slightly. "How we're helping him fight the Patriots."
-	Johnny leant back, nodding subtly. "Well, Trey - I'm sure you understand why that needs to be kept on the DL."
+	Johnny leaned back, nodding subtly. "Well, Trey - I'm sure you understand why that needs to be kept on the DL."
 	Trey nodded. "Of course, *boss.*"
 	"Boss?" Connor cocked an eyebrow, before nodding in realisation. "Be careful, yeah bro? You need a bodyguard, you know where I am."
 	"I could say the same." Trey chuckled. "Let me know if any sexy vampires show up."
 	Connor smirked, and took a seat.
 	As Trey turned, he saw Sparky traipsing in.
 	"Oh my goodness! Whosagoodboyyy? You are!" he cooed.
-	Sparky chuckled. "No, you are!" he smiled, taking his seat by Connor as Trey left.
+	"No, you are!" Sparky chuckled, taking his seat by Connor as Trey left.
 	"Someone's been a busy boy, eh?" Johnny grinned.
 	"Hah, you could say that..." he nodded.
 	"Don't sell yourself short. A little birdie told me that a certain Werewolf killed Donovan." Johnny smiled, pouring both a drink.
@@ -7285,7 +7466,7 @@ SCENE
 	He drank his coffee, then headed into the bathroom. He noticed his stubble was threatening to grow into a full beard. He sighed, sprayed some deodorant, and got dressed. He gave his dog a stroke.
 	"I'll be back later, Max. I'll take you out for a walk, yeah?"
 	The dog smiled softly. Naismith headed to the kitchen, checked the dog door was still working, and filled Max's bowls with dog food and water. He sighed, aching somewhat, and headed outside to his car. He entered the car, sighed again, and closed his eyes.
-	With that, Connor leant forward from the back seats.
+	With that, Connor leaned forward from the back seats.
 	"Morning, Inspector." he said in a deep, gravelly voice.
 	Naismith reached for his gun, but Connor drew his own, and pushed it into Naismith's temple.
 	"That would be very foolish." he growled. Naismith nodded and released, holding both hands in the air.
@@ -7312,7 +7493,7 @@ SCENE
 	"Super-What?!" Naismith asked incredulously.
 	"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Morland, right?"
 	"How do you know about that? Our work with them is top-secret..."
-	"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Morland Industries. My advice is, get a good hard look at their biology. Compare it to my hand, if you like. Anyway, there'll be more to send them tonight. Are you in, or not?"
+	"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Morland. My advice is, get a good hard look at their biology. Compare it to my hand, if you like. Anyway, there'll be more to send them tonight. Are you in, or not?"
 	Naismith sighed. "...fine. I'll be there."
 	Connor breathed a sigh of relief. He unloaded Naismith's gun, placed it on the back seats, and got out of the car. 
 	Naismith rested his head on the steering wheel, and sighed again.
@@ -7322,10 +7503,6 @@ SCENE
 	Naismith squinted incredulously. Connor hopped back out, holstered it, and facepalmed as he left.
 
 Tipping off Naismith
-______________________________
-CHAPTER
-
-
 ______________________________
 FLASHBACK
 	It was July 2013.
@@ -8910,7 +9087,7 @@ SCENE
 	Amy's face turned pale. "Oh my god... but why? I mean, she's only a uni placement student - why would they have her working such an important case?"
 	"That's what I wondered when I found out. I mean, she's brilliant in biotechnology, but still... We think they put her there as a human shield." Connor replied, his voice cold.
 	"What do you mean?" Amy asked.
-	"Well, I have a tendency to smash the places connected to them. If she's there, there's no way I'm starting a fight there. Whatever it is they're doing at Morland Industries, they need me to stay out of it. And I can't look into it without putting her at risk. I can't even tell her without putting her at risk."
+	"Well, I have a tendency to smash the places connected to them. If she's there, there's no way I'm starting a fight there. Whatever it is they're doing at Morland Genetics, they need me to stay out of it. And I can't look into it without putting her at risk. I can't even tell her without putting her at risk."
 	"That, or they're using her as bait." Amy added, her face betraying fear. "If she's involved, you're going to be focused on Morland. Maybe something's going to happen there, and they can hold her ransom through that."
 	Connor slumped into his chair, pale as a ghost. "Whatever the reason is, it cannot be a good one. And it's all because of me..."
 	"No." Amy interrupted. "It's because of who-the-fuck these people are. Do *not* cut them any slack here. I know you have feelings for Chloe, deny it all you like. But she's my friend too. And I will not let these bastards hurt her. Which means..." Amy paused for breath. "It means you need to find out what's going on. They've put her in harms way to stop you from learning something, right? So, learn it. The most dangerous place for Chloe right now is at arm's reach. It is not safe to let them continue. So, don't let them." she said authoritatively.
@@ -12407,7 +12584,7 @@ SCENE
 	"Anyway..." Ward continued. "It would seem that, well, to be blunt... the case isn't going well, is it?" she asked, studying their reactions.
 	"The progress has been... Limited, ma'am." Nina said awkwardly.
 	"Ma'am, if I may?" Naismith began. Ward nodded.
-	"Well, Ma'am, I know Dorsey's rap sheet is already a mile long... but he was hindering our inquiry. It was his decision to bring in a private company, Morland Industries, as opposed to escalating this to a government agency." Naismith explained, trying not to seem like he was making excuses.
+	"Well, Ma'am, I know Dorsey's rap sheet is already a mile long... but he was hindering our inquiry. It was his decision to bring in a private company, Morland Genetics, as opposed to escalating this to a government agency." Naismith explained, trying not to seem like he was making excuses.
 	"You have the floor, Inspector." Ward motioned for him to continue, intrigued to see where this would go.
 	"Well, we were forbidden from directly collaborating with Morland, Ma'am. In addition, we were not permitted to investigate any leads regarding the targets of the Werewolf - our only task was to locate, identify, and either capture, or eliminate him." Naismith began. "Knowing that Dorsey was involved in illicit sexual activity, with a trafficking ring that appears to have ties to a criminal conspiracy the Werewolf has been targeting... I would like to formally request that the remit of our investigation be expanded, and that we be permitted full access to Morland's work, Ma'am."
 	Ward leant back in her chair, deep in thought. Finally, she spoke.
@@ -12493,8 +12670,8 @@ SCENE
 	Soon enough, the Super-Agents were dead. With that, the police arrived.
 	"STAY WHERE YOU ARE!" an armed officer shouted.
 	"Kill... Kill..." the voice whispered, itself as exhausted as Connor.
-	He trembled, and struggled to stand. He'd pushed himself too hard... a seizure was oncoming. He fought against it, but collapsed, falling into the water.
-	Sparky dived after him, and had a seizure of his own.
+	He trembled, and struggled to stand. He fought against it, but collapsed, falling into the water.
+	Sparky dived after him, and hit the water.
 
 	The two awoke hours later, washed ashore in the swamps out of town.
 	Connor twitched awake, and rose to his knees. Sparky got up too, and shook the mud from his fur.
@@ -12519,7 +12696,7 @@ SCENE
 Bridge Collapse
 ______________________________
 SCENE
-	The next day was a tense one in Morland Industries, Chloe was frantically going over some notes. She sipped her coffee cup, her eyes bagged slightly - it was clear she hadn't slept well. Another person, an older, heavyset man in formal attire, entered the room.
+	The next day was a tense one in Morland Genetics, as Chloe frantically went over some notes. She sipped her coffee cup, her eyes bagged slightly - it was clear she hadn't slept well. Another person, an older, heavyset man in formal attire, entered the room.
 	"How's it going, Miss Derrington?" he asked. Chloe jumped, not having expected company.
 	"Oh, Mr. Morland, sir! Yes, I'm ready for the meeting." she replied, nervously.
 	"Excellent. You've been told which topics are... off-limits, yes?"
@@ -13603,7 +13780,7 @@ SCENE
 	"Police Sergeant Nina Chowdhury." she rose with him.
 	"DC Cheryl Moffat." "PC Adrian Lloyd." "FI Lucas Rogerson." the 3 officers stated.
 	"Excellent." Tulloch nodded. "TO-39, this is your objective. You are to investigate the string of killings attached to the 'Werewolf' vigilante. You are also to investigate any criminal elements his activities may be targeting. DCI Naismith, if you would." 
-	Naismith nodded, addressing the team. "Thank you ma'am. PS Chowdhury and I met with Morland Industries yesterday to analyse the findings on these 'superhumans.' The results were... Well, it's best if you all take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
+	Naismith nodded, addressing the team. "Thank you ma'am. PS Chowdhury and I met with Morland Genetics yesterday to analyse the findings on these 'superhumans.' The results were... Well, it's best if you all take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
 	"Thanks to the work of Miss Derrington over at Morland, we've been able to isolate a few key facts. 1: these Superhumans use some kind of substance called Paradrenaline - overloads of which can cause so-called 'Rages.' We believe one such Rage was responsible for the bloodbath at the Auction House." Naismith shuddered.
 	Moffat shook her head. "Rages?" She paused, then cleared her throat. "No offense, sir - but how are we supposed to capture it?"
 	Naismith looked at her, smiling softly. "None taken, DC Moffat. I agree, capture is going to be tricky - especially given his resistance to injury."
@@ -14262,7 +14439,7 @@ SCENE
 	"Power*s?*" Trey tilted his head.
 	"So far, I've counted wall-crawling, reinforced armour, super-senses, claws, and reflexes." he listed. "Also, I can force my powers to go overtime, too - so I can push my strength beyond normal, take harder hits, heal quicker... it seems to be an adrenaline thing. And, it knackers me out. I hold up the armour power for more than 5 minutes, I feel like I've run a... well, I can sprint a marathon and feel fine, so that analogy doesn't work. But, you get the gist."
 	Trey looked up in awe. "Can I have some super-powers, please?"
-	Connor chuckled. "I don't know where they come from, exactly. Besides, the drawbacks are pretty shitty too. Remember that seizure I had at yours? Those keep happening unless I hurt myself. It's... not fun."
+	Connor chuckled. "I don't know where they come from, exactly. Besides, the drawbacks are pretty shitty too. Remember that nosebleed and migraine I had at yours? Those keep happening unless I hurt myself or others. It's... not fun."
 	"You're self harming?" Trey gasped.
 	"Not really." Connor shrugged back. "More... pain management. Picking my battles."
 	Trey shuffled uncomfortably. "Anyway... there's something I've been meaning to ask. How do your clothes work?"
@@ -14389,9 +14566,7 @@ SCENE
 	Zalamdayev's forces were no more. The only sound left was the distant cries of the innocent civilians, still caught in the chaos.
 	Ivan descended, and clapped Zamaldayev in irons.
 	"[You will suffer for this, traitor.]" he whispered in the tyrant's ear.
-	Down below, Connor's expression turned vacant. The red in his eyes faded, but his pupils were almost pinpoint-small. With no signs of a human mind, he dragged himself over to a nearby corpse, and sank his teeth into it.
-	Sparky cringed, recognising the same vile hunger that tore within him. He wanted to suppress it, like he had been for so long, but... if Connor was doing it?
-	Ivan looked down, and turned pale at the sight of his comrades consuming the dead. After Connor took in a couple of mouthfulls, he tried to rise.
+	Down below, Connor's expression turned vacant. The red in his eyes faded, but his pupils were almost pinpoint-small.
 	"Obaldet! Connor! Are you alright?"
 	Connor collapsed, his face turning white. Ivan and Sparky caught him, and dragged him and Zamaldayev to the plane.
 	A Kumyk soldier rushed to the group. "[Thank you, thank you... You saved us.]"
@@ -14424,10 +14599,6 @@ SCENE
 	Sparky whimpered. "Don't ever die. I'd be lost without you."
 	Connor knelt down to Sparky, and went to stroke him, before realising he was using the wrong hand. He chuckled, and stroked Sparky's ears with his other hand.
 	"I'll be here forever, buddy. You and me - til the end of the Earth."
-	"You remember what happened?" Ivan asked cautiously.
-	Connor thought for a moment, before turning pale again. "I... That hasn't happened before. Sparky, was I--"
-	"Just like when I ate that guy ages ago." Sparky nodded. "You've been suppressing the hunger for a long time - but in situations like that, when the fighting is over, you just need to eat."
-	"Eat. Eat. Eat." the voice in his head echoed. Connor shuddered.
 	Ivan cleared his throat. "Anyway, I've just heard back from our pals in the KGB."
 	"So soon?" Connor asked.
 	"We don't mess around." Ivan grinned. "We found something - the reason why Chloe was put on your case."
@@ -14829,7 +15000,7 @@ SCENE
 Community Centre Opening
 ______________________________
 SCENE
-	It was late Sunday afternoon, and Connor stalked his way through Morland Laboratory.
+	It was late Sunday afternoon, and Connor stalked his way through Morland Genetics.
 	He crept into the security room, and spotted the sole guard on duty that night, half-asleep in his chair. He took out a chloroform-soaked rag, and held it agains the man's face. He jumped in surprise, and almost immediately went limp. Connor grabbed the keyboard, and plugged in a USB that Shannon had gifted him. The cameras were set to a loop, while all recordings were being deleted.
 	He then prowled into a lab, and began searching through documents.
 	"Not here... Not here..." he muttered to himself. "...Here!" he grabbed a file and began to read through.
@@ -15515,8 +15686,8 @@ SCENE
 	"Connor..." she cried. "Why are you doing this? I-Is it because I was worried about you smoking? Like, is this you trying to fill the void? Is... Is this because I said I needed space?" she stammered.
 	"No, no... It's not that."
 	"Then what is it? I mean, I know the things you do must be hard on your psyche, but..."
-	"It's my powers." he interrupted. "I... When I use my powers too much - especially after a sustained fight, or when I take heavy injuries, my body gets... overwhelmed. I get migraines, nosebleeds, seizures even. Normally, that just knocks me into this... coma-thingy. I can't describe it well, but it's like my body switches off to repair. But when I'm really exhausted, the migraines get unbearable. And the only way to prevent them is... acute pain. Like burns." he said, gesturing to his arm. "It only works like this - it's gotta be very acute, very localised. Otherwise it just adds to the headache."
-	"So... that time you had a seizure at Trey's... that was this?"
+	"It's my powers." he interrupted. "I... When I use my powers too much - or if I don't use them at all - my body gets... overwhelmed. I get migraines. And the only way to prevent them is... acute pain. Like burns." he said, gesturing to his arm. "It only works like this - it's gotta be very acute, very localised. Otherwise it just adds to the headache."
+	"So... that time you had a nosebleed at Trey's... that was this?"
 	"Yeah... I hadn't had a chance to hurt myself, so the buildup just took me out." he explained.
 	"Oh my god... So, the whole time I've known you, you've been... burning yourself like this?!"
 	"I'm sorry..." he began.
@@ -16729,7 +16900,7 @@ SCENE
 	"Yeah - I was trying to find a way to stimulate it to help you heal quicker." she replied.
 	"And did you find anything else?"
 	"I... yes!" Chloe said, realising. "Hang on..." 
-	She went through the notes she'd taken through the process. "Here! The endorphin-analogue that counteracts the paradrenaline. Your body kept almost rinsing your head with it - thank god it did, or you'd have had a seizure, or worse. In fact, I think this substance is what puts you in the healing coma."
+	She went through the notes she'd taken through the process. "Here! The endorphin-analogue that counteracts the paradrenaline. Your body kept almost rinsing your head with it - thank god it did, or you'd have had a seizure, or a stroke. In fact, I think this substance is what puts you in the healing coma."
 	She showed him the paperwork. As she explained, her demeanour shifted - more confident, less vulnerable. This was her element.
 	"EEGs showed you were in severe pain - so we tried giving you anaesthetics, but your body just metabolised them instantly. It's all a part of this intracellular communication you seem to have - your body recognises when a substance has foreign origins, and immediately moves to neutralise, expel, or digest it. But..."
 	She turned the page, and pulled out a syringe.
@@ -16901,30 +17072,18 @@ SCENE
 	"Still, I do appreciate it. Some people get a bit grossed out by things like that, is all. Especially me checking your blood sugar."
 	"Chloe." he grinned. "You discovered a brand new endorphin inside me, like, literally yesterday. If I suddenly get all high-and-mighty about testing my blood sugar, you have full permission to shoot me."
 	At that, she let herself laugh. Connor joined in, and the two embraced.
-	They pulled apart, and Connor grabbed some food. He began eating, and before long, had devoured all of it. He was grateful that the Hunger hadn't shown its terrible maw.
+	They pulled apart, and Connor grabbed some food. He began eating, and before long, had devoured all of it.
 	"You okay?" she asked.
 	"Oh, yeah..." he looked away, embarrassed. "After a big arse-kicking, I get this awful hunger. Like the Rage, but instead of wanting to kill, I just gorge myself."
 	Chloe nodded, and placed a hand on his knee.
 	"It's okay." she said softly. "It makes perfect sense, too. Paradrenaline is one thing, but I've only scratched the surface of your biochemistry. It's not surprising if you have other mutated hormones, like ghrelin. And just like your endorphins counteract the paradrenaline, there must be a way to regulate your leptin to counteract any mutated ghrelin."
 	Connor let out a subdued chuckle. "Funny how my body can grow spare hearts, but can't regulate its hormones properly."
 	She stroked her chin pensively. "Bodies tend to focus on keeping you alive long enough to spread your genes - not on giving you a decent quality of life. Case in point - paradrenaline makes you almost unbeatable in a fight, but you need to either harm yourself or have me cook up some endorphins to keep you functional in peacetime."
-	Connor smiled softly, before hesitating. "One time, with the Hunger... It was in Chechnya, after a tank shell fucked me up pretty badly. With the Rage, I'll sometimes be wailing into a body well beyond the point of death, because I'm just running on instinct... that time, I tore a few chunks out of a Super-Agent before I passed out."
-	"Oh, god." she replied, before gently caressing his cheek. "That must have been horrible. I'm so sorry."
-	"I confess I indulged in psychotic cannibalism, and you're *sympathising* with me?" he asked, cocking an eyebrow.
-	Chloe grinned. "Well, I don't want to upset you - you might eat me."
-	At that, Connor chuckled, then roared with laughter. Chloe giggled in amusement, and the two embraced.
+	Connor smiled softly. "Being a superhero fuckin' sucks."
+	Chloe chuckled, then started giggling. Connor laughed along with her, glad that the tension was fading.
 	Sparky, who had woke up to the laughter, dragged himself over.
-	"Morning, Connor." he said groggily. "What are you guys laughing about?"
-	"Morning, buddy!" Connor smiled back. "Um... we were just talking about that Hunger you and I get."
-	"Oh, right." Sparky nodded, curling up next to the pair. "Have you told her about that time in the warehouse?"
-	"No, not yet. Do you want me to?"
-	Sparky nodded.
-	"What's that?" Chloe asked.
-	"He, uh..." Connor began. "Not long after he and I met, there was this warehouse in Wickermast we were in. After we took out the Agents, I turned over and saw Sparky tucking into one of their bodies. After that, he and I had a chat about it - I was worried he was just a maneater, haha."
-	"I'm guessing it was more of a pragmatic thing?"
-	"You've got it." Connor nodded, smiling. "He didn't quite understand that we had food at home."
-	"Eh." Chloe shrugged. "It's not cannibalism if you're literally a wolf."
-	Connor chuckled. He took a deep breath, and stretched. He reached for his back, and winced.
+	"Morning, guys." he said groggily.
+	Connor smiled. He took a deep breath, and stretched. He reached for his back, and winced.
 	"You okay?" she asked, concerned.
 	"Yeah, fine... Just, shooting pains in my lower back." he shrugged.
 	"You mean where you broke it?"
@@ -18909,7 +19068,7 @@ SCENE
 	"Thank god. I had a feeling our man'd pull through." the Major nodded. His voice was a mix of Received Pronounciation and Welsh. "How's Mr. Sokolov?"
 	"Critical, but stable. Same for the wolf. Mr. Barrett is badly injured and unconscious, but he doesn't seem like he needs immediate intervention."
 	"Good. Has the site in Belson been secured?"
-	"Yes, sir. Morland Laboratories is now a fully operational MI5 field office. We've finished installing the equipment in the labs - so we're ready to admit our new 'patients' as soon as they arrive. We've used the Kestrel to ferry them across - with sedative gas canisters in place, should Barrett wake up disoriented."
+	"Yes, sir. Morland Genetics is now a fully operational MI5 field office. We've finished installing the equipment in the labs - so we're ready to admit our new 'patients' as soon as they arrive. We've used the Kestrel to ferry them across - with sedative gas canisters in place, should Barrett wake up disoriented."
 	"Excellent. And his friends?"
 	"We have a team in place to pick up Miss Derrington. But... there's been a complication."
 	"There always is. The key is that Connor has people he knows, people he trusts, with him when he wakes up. We need Miss Derrington - we need her anyway to manage the recovery - and we'll also need at the very least, his sister Amelia, and his friend, Mr. Morgan."
@@ -19716,7 +19875,7 @@ SCENE
 	"Good." he smiled. "Good day, Mr. Davis."
 	The Commandant forced himself to his feet, and left.
 
-	The gang had gathered at Morland Laboratories for the afternoon. Vince and Phil were there too. Connor had pulled in extra seats, to fit everyone in.
+	The gang had gathered at chloe's lab for the afternoon. Vince and Phil were there too. Connor had pulled in extra seats, to fit everyone in.
 	"Thanks again for coming, everyone." Chloe began, nervous.
 	Connor gently stroked her hand, and she smiled softly.
 	"So... the DNA test results have come back for all of us. First, I confirmed Trey has the extra 15 chromosomes that Connor has. I hadn't had a chance until now to check, but Sparky also has the extra 15, too - in addition to the usual 78 canine chromosomes."
@@ -20114,8 +20273,8 @@ SCENE
 	She smiled warmly. "I'm not sure, to be honest. I was always interested in sciences, ever since I was little. Biotech's good because it's such a multidisciplinary field. Sure, the focus is on biology, but you also need to learn chemistry, engineering, computing... I mean, on this course alone I've studied virology as often as cybernetics. So, in a way, I still get to study such a variety. That, and..." she blushed.
 	"And?" he pressed, smiling.
 	"And it can help people. The thought of--of finding a cure for cancer, or HIV - that's what drives me. There's a selfish motive too... I'd like to find a cure for my VS."
-	Connor nodded understandingly. "I get that, I really do. I mean, paradrenaline-seizures are bad enough - actual epilepsy must be horrible."
-	"It's more frustrating than anything." she shrugged. "Same with the diabetes, same with being hard-of-hearing, same with short-sightedness. It's not even that bad, just... annoying."
+	Connor nodded understandingly. "I get that, I really do."
+	"It's more frustrating than anything." she shrugged. "It's not even that bad, just... annoying."
 	He smiled, and reached out, holding her hands.
 	"I've even considered using Super-Serum." she admitted. "I don't know if it would work or not, but... Well, VS is primarily caused by mitochondrial deficiencies, and affects the brain, so God knows how I'd react to your regenerative cells."
 	Connor gave a sympathetic look. "Even ignoring things like VS, I... I think it's best we don't use super serum on anybody outside of emergencies."
@@ -20249,10 +20408,7 @@ SCENE
 	"I was ambushed by a Super-Agent. That was my first. First time I *chose* to kill someone. First time it wasn't an accident, or in the Rage. And I didn't have anyone to share that with. But you do. You've got our entire friend group, but you've also got us."
 	"We're a pack, now." Sparky agreed. "A people."
 	Trey smiled warmly, then looked down at his kill.
-	"Is it... is it normal to..." he began.
-	"To wanna eat him?" Connor asked.
-	"It's not cannibalism if we're not humans." Sparky grinned.
-	Trey chuckled, grossed out. "Can we get some food? I'm starving mad, clearly."
+	"Can we get some food? Fighting these fuckers works up an appetite."
 	"We're gonna go meet up with Bevan - so we'll stop off on the way." Connor smiled. "I'll drive."
 	"One day, I'll drive." Sparky mused. The three chuckled, and left.
 

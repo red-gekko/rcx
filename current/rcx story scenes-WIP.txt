@@ -7658,6 +7658,16 @@ SCENE
 	"Do you want me to look into him, a little?" Connor tilted his head.
 	"No, it's fine. I'm just... nah, it's fine." she shook her head back.
 
+	The moderator moved the debate to the "press questions" section, as Bea leaned in, listening intently.
+	"My question is to both candidates." one reporter began. "As you're both aware, following the Local Government Act 2013, this will be the first election in which the responsibilities of the Police and Crime Commissioner will be folded into the office of Mayor. What changes will you make to the Drackhill Valley police force after the election?"
+	"I would start by removing the restrictions placed upon the police by the political correctness mob, and reinstate Stop and Search." Norris nodded.
+	"Of course, Mayor Norris's answer is to reinstate a racist policy that damaged community trust." Ward snarked. "I would start by comissioning a full anti-corruption review of the force, and ensure moving forward that transparancy and accountability are a core part of policing in this valley."
+	The moderater nodded. "Next, we have a question from Mr. O'Doyle, The Gazette."
+	"Thank you." he rose. "Increasingly, people are concerned about the vigilante attacks perpetrated by the so-called 'Werewolf.' Despite this, the police have been unable to identify a suspect, and some people even seem to support him. What are your plans to deal with this situation?"
+	"Vigilantism on our streets cannot be tolerated." Norris scowled. "This 'Werewolf' is a terrorist, and should be treated as such. Apprehending him will be my top priority after the election."
+	"It's clear that the violence is unacceptable." Ward nodded. "However, the police investigation has failed precisely because the PCC and the Chief Constable have refused to investigate the so-called Patriot gangs. It's not just the Werewolf that needs to be stopped - but the wider conspiracy he is clearly entangled with."
+	Connor nodded, smirking slightly. He made a mental note to include Norris as an ODESSA suspect.
+
 	The debate ended in an offical 'tie', but Ward had clearly emerged the victor. Bea was grinning wildly.
 	"Anyway... thanks for putting up with me there." she said shyly.
 	"Bea, I'm mates with Connor. Compared to his rants about the 'British Bastards,' this was tame." Trey quipped, chuckling.
@@ -8471,6 +8481,10 @@ ______________________________
 SCENE
 
 Panic Room
+______________________________
+SCENE
+
+Election Day
 ______________________________
 CHAPTER
 

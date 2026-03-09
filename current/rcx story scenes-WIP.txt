@@ -7778,51 +7778,6 @@ SCENE
 Killing the Giant
 ______________________________
 SCENE
-	An old car pulled up outside an old block of flats in south Bristol. Trey left the front door, and stretched.
-	"Special delivery." he chimed, grinning. A large, bald man approached, followed by a smaller man.
-	"About that..." he began, shaking his head. "I'm a little short on money this week, so I appreciate the charity."
-	"Mike, don't be an idiot. Just pay him." the smaller man said nervously.
-	"Nah." he growled. "I'll take the car, too. You can walk home, right?"
-	Trey grinned in anticipation. "Yeah, okay, fine. Keys are in the ignition."
-	The big guy chuckled and walked forward. Immediately, a volley of punches and kicks sent him backwards.
-	Trey assumed his stance - a well-trained kickboxing one he'd learned years ago. Connor wasn't the only one who could kick arse and take names, after all.
-	"Come here you little fucker!" the man roared, charging wildly. Trey ducked low, and swept the man's legs out, sending him tumbling. He twisted to land on his back, and Trey saw his opening. He gripped the man's feet, pulled them apart, and delivered a kick right in between the man's legs. His screams were at least a few octaves higher, and a cringe-inducing *pop* noise emanated from under Trey's boot. He squirmed slightly, clutching his own groin in empathy.
-	As the man writhed in agony, Trey took his wallet, and grabbed the notes.
-	"£200 for product. £100 for delivery. And... I'll take another £50 for the inconvenience."
-	The smaller man approached nervously. "Here's another £50 as an apology, and to ensure future shipments continue. Don't mind Mike - he's out of a job."
-	"Well, he has a lucrative career ahead of him as an opera singer." Trey laughed, re-entering the car, before driving back home.
-
-	In the bowels of Morland Genetics, the Autopsy Suite's lights shone eerily. In the centre, a table with the Giant's headless corpse strewn over it. A man wearing white scrubs and a surgical mask approached, along with Chloe, who was dressed the same.
-	"Okay, so, I'm guessing you've never done an autopsy before?" the man began, taking out his tools.
-	"Uh, no... this is my first." said Chloe, uncomfortable.
-	"Well, not to make light of it, but they're not normally this big." the man chuckled. Above the mask, Chloe's eyes creased - she was smirking. Satisfied he'd relaxed her a little, the man pulled out a circular saw.
-	"So, I'll use this to open up his chest cavity, and then we'll use the spreader to open up the ribcage. From there, we can begin extracting his internal organs, and take a look at them."
-	"Mm-hm." Chloe responded, trembling at the thought.
-	The man smiled, and began to use the saw. Despite the size and high quality, the saw took much, much longer than usual to cut through.
-	"Hmph... Get... In... There!" the man said, finally cutting in. "Whew, okay, so, initial findings?" he looked up at Chloe.
-	"Well..." Chloe said, clicking her pen to begin writing on her notepad, "His skin and muscles are clearly much tougher than normal humans. The fact that the saw is struggling to cut through his chest means his tissue density is far beyond normal levels. It's like trying to slice through a reinforced steel plate with a butter knife. The muscle fibres are denser, almost like they've been artificially toughened."
-	"Very good." the man nodded. "External injuries?"
-	"You mean aside from the mulch pile where his head should be?" Chloe asked, making the man chuckle. "I can see a bullet wound... there." she pointed to a hole in the chest. "According to officer statements, this was caused by a high-caliber bullet fired by a sniper rifle. Police ballistic analysis reported that the bulled had a carbon plating on the tip, which made it much sharper - so the assailants knew that this man needed a lot to take down."
-	"Any other, non-fatal injuries?" the man asked, waiting to see Chloe's reaction.
-	"Hmm... there!" she said, pointing to his leg and abdomen. "Small wounds, likely caused by the officer's attempts to shoot him. The bullets made an impact, causing friction burns and bruising, but did not pierce the skin. And... teeth marks on the shoulder, consistent with the description of the 'Werewolves' present. But what stands out to me is the depth of those marks. They're not just punctures; they're almost like the bite force was so extreme that it crushed through the muscle fibres and into the bone. How could something bite harder than our saws? Anyway..." she banished the thought.
-	"Very good!" the man said, satisfied. "Okay, let's open him up. Spreader?"
-	Chloe handed him the tool, and the man began to spread the ribcage open. He strained under the pressure of using the tool, not expecting it to be so difficult. Eventually, the giant's chest opened with a sickening crunch.
-	"Right, now, before I start cutting about willy-nilly, any thoughs about his chest cavity?" the man asked. Chloe leant over to look inside, and gasped audibly.
-	"That's... two hearts? Three lungs? And... Four kidneys?! No... those two aren't kidneys. They're adrenal glands, swollen beyond belief." she said, shocked.
-	"Wait, adrenal glands? Hang on... You're right." the man tilted his head. "Whatever this thing is, it's had a lot of work done."
-	Chloe shuddered, writing down this news. The man began extracting the giant's organs, one-by-one, and placing them in jars for later study. He also cut open the giant's leg, and took a sample of muscle tissue and bone marrow. Once finished, he closed the man back up, and breathed a sigh of relief.
-	"Final thoughts?" he asked.
-	"You'd think the extra organs would be the biggest one..." Chloe said unsurely. "But I think those adrenal glands could be just as important. The only reason they'd be that big on purpose would be if they're creating more than just adrenaline."
-	She thought deeply.
-	The man smiled, impressed. "Bet you didn't think your uni placement would be like this, eh?"
-	Chloe chuckled. "I'm just glad the Christmas holidays are coming up."
-	The man laughed. "Okay, we're all done. Let's get him sealed back up, and you have the joy of dissecting those glands."
-	"Yay." Chloe cheered sarcastically, and they hauled the Giant into the freezer. Even with lifting aids and several organs removed, he was incredibly heavy.
-	The two breathed out in relief, and left the autopsy room.
-
-Chloe examines the Giant's body
-______________________________
-SCENE
 	The next day, Connor and Sparky entered the train station.
 	"So, where are we going again?" Sparky asked.
 	Connor looked around shiftily, before kneeling down. "We're going to Bristol. I wanna get something nice for everybody for Christmas."
@@ -8077,7 +8032,7 @@ SCENE
 	People craned their necks, and then ducked out of the way, as a hulking black mass smashed through the expensive glass wall. Shards exploded across the marble floor as Connor skidded across the tiles and rolled to a stop, smashing into a table. His membranous glider morphed back into him, as he rose, arching his back and feeling it click.
 	Some screamed. Some fainted. Others simply stood, like deer in headlights.
 	"Ugh... practice makes perfect, I suppose." he shrugged. "Ooh, food."
-	His mask rippled slightly, pulling back to expose his mouth. He grabbed a shrimp canape from a stunned server's tray, and popped it in his mouth. It crunched. He froze.
+	His mask rippled slightly, pulling back to expose his mouth. He grabbed a shrimp canape from a stunned server's tray, and shoved it in. It crunched. He froze.
 	Then, he spat it out, and retched.
 	"That is fucking grim. How do you people eat that?" he asked, horrified. "Ew..."
 	He grabbed a champagne flute and took a hurried sip.
@@ -8096,14 +8051,256 @@ SCENE
 First Body Found + Flight of the Werewolves
 ______________________________
 SCENE
+	The morning sun tried its best to poke through the sky. Instead, it merely turned some of the grey clouds from dark to light. Amy, however, was undeterred. She stood outside a mid-sized unit labeled "Skye Road Pawz" - the local rescue and dog daycare centre. She took a deep breath, and entered.
+	"Hiya!" she began. "I'm here about the trial shift? My name's Amy Zhou."
+	"Excellent timing." the tired older woman at the front desk nodded, putting on a jacket. "My name's Alison. We've just had a call about an abandoned dog by the creek. I know it's a little manic, but fancy tagging along?"
+	"I--Absolutely!" Amy smiled, surprised.
+
+	The poor thing was terrified.
+	She barked savagely at any passers by. Thankfully for them, but frigheningly for her, she was secured to a post by a metal chain and an inward-spiked collar that pushed into her neck. Her body was covered in scars, and one ear had been ripped off, along with an eye gouged out. The eyelid was crudely stitched shut.
+	Amy and Alison arrived in their van. Alison hopped out with a catchpole, while Amy looked at the dog in sorrow.
+	"Poor thing..." she said.
+	"I know. Oh god, look at those scars." Alison agreed. "She's been badly treated, no question."
+	"There's no way she'll let us approach with the catchpole. It probably reminds her of god-knows-what." Amy noted somberly.
+	"Good point. I'll get the tranq gun." Alison began, but Amy raised her hand.
+	"Hang on... can I try and calm her down?"
+	"Be careful. You're not insured yet." Alison warned, while nodding.
+	Amy approached gingerly. The dog roared and screamed almost rabidly, but she was undeterred.
+	The dog carried on its terrified roars. Amy responded by going prone, then rolling onto her back. She gently edged up to the poor thing, backing away at each bark intentionally. Slowly, the dog's barks became more subdued. Finally, she cautiously held her hand out, just close enough for a sniff. The old girl sniffed, then backed away towards the pole. Amy crawled over, and unfastened the collar. The dog shook her head, letting her one ear slap across her cheek, before stretching. Amy stroked her back gently.
+	Alison approached similarly slowly, letting the girl sniff her. She revealed some treats, which the dog greedily devoured. The pair coaxed her into the van, and Alison hopped into the front. Amy stayed in the back, comforting the dog.
+	"You're hired." Alison nodded. Amy tried and failed to subdue her glee.
+
+	An old car pulled up outside an old block of flats in south Bristol. Trey left the front door, and stretched.
+	"Special delivery." he chimed, grinning. A large, bald man approached, followed by a smaller man.
+	"About that..." he began, shaking his head. "I'm a little short on money this week, so I appreciate the charity."
+	"Mike, don't be an idiot. Just pay him." the smaller man said nervously.
+	"Nah." he growled. "I'll take the car, too. You can walk home, right?"
+	Trey grinned in anticipation. "Yeah, okay, fine. Keys are in the ignition."
+	The big guy chuckled and walked forward. Immediately, a volley of punches and kicks sent him backwards.
+	Trey assumed his stance - a well-trained kickboxing one he'd learned years ago. Connor wasn't the only one who could kick arse and take names, after all.
+	"Come here you little fucker!" the man roared, charging wildly. Trey ducked low, and swept the man's legs out, sending him tumbling. He twisted to land on his back, and Trey saw his opening. He gripped the man's feet, pulled them apart, and delivered a kick right in between the man's legs. His screams were at least a few octaves higher, and a cringe-inducing *pop* noise emanated from under Trey's boot. He squirmed slightly, clutching his own groin in empathy.
+	As the man writhed in agony, Trey took his wallet, and grabbed the notes.
+	"£200 for product. £100 for delivery. And... I'll take another £50 for the inconvenience."
+	The smaller man approached nervously. "Here's another £50 as an apology, and to ensure future shipments continue. Don't mind Mike - he's out of a job."
+	"Well, he has a lucrative career ahead of him as an opera singer." Trey laughed, re-entering the car, before driving back home.
+
+	In the bowels of Morland Genetics, the Autopsy Suite's lights shone eerily. In the centre, a table with the Giant's headless corpse strewn over it. A man wearing white scrubs and a surgical mask approached, along with Chloe, who was dressed the same.
+	"Okay, so, I'm guessing you've never done an autopsy before?" the man began, taking out his tools.
+	"Uh, no... this is my first." said Chloe, uncomfortable.
+	"Well, not to make light of it, but they're not normally this big." the man chuckled. Above the mask, Chloe's eyes creased - she was smirking. Satisfied he'd relaxed her a little, the man pulled out a circular saw.
+	"So, I'll use this to open up his chest cavity, and then we'll use the spreader to open up the ribcage. From there, we can begin extracting his internal organs, and take a look at them."
+	"Mm-hm." Chloe responded, trembling at the thought.
+	The man smiled, and began to use the saw. Despite the size and high quality, the saw took much, much longer than usual to cut through.
+	"Hmph... Get... In... There!" the man said, finally cutting in. "Whew, okay, so, initial findings?" he looked up at Chloe.
+	"Well..." Chloe said, clicking her pen to begin writing on her notepad, "His skin and muscles are clearly much tougher than normal humans. The fact that the saw is struggling to cut through his chest means his tissue density is far beyond normal levels. It's like trying to slice through a reinforced steel plate with a butter knife. The muscle fibres are denser, almost like they've been artificially toughened."
+	"Very good." the man nodded. "External injuries?"
+	"You mean aside from the mulch pile where his head should be?" Chloe asked, making the man chuckle. "I can see a bullet wound... there." she pointed to a hole in the chest. "According to officer statements, this was caused by a high-caliber bullet fired by a sniper rifle. Police ballistic analysis reported that the bulled had a carbon plating on the tip, which made it much sharper - so the assailants knew that this man needed a lot to take down."
+	"Any other, non-fatal injuries?" the man asked, waiting to see Chloe's reaction.
+	"Hmm... there!" she said, pointing to his leg and abdomen. "Small wounds, likely caused by the officer's attempts to shoot him. The bullets made an impact, causing friction burns and bruising, but did not pierce the skin. And... teeth marks on the shoulder, consistent with the description of the 'Werewolves' present. But what stands out to me is the depth of those marks. They're not just punctures; they're almost like the bite force was so extreme that it crushed through the muscle fibres and into the bone. How could something bite harder than our saws? Anyway..." she banished the thought.
+	"Very good!" the man said, satisfied. "Okay, let's open him up. Spreader?"
+	Chloe handed him the tool, and the man began to spread the ribcage open. He strained under the pressure of using the tool, not expecting it to be so difficult. Eventually, the giant's chest opened with a sickening crunch.
+	"Right, now, before I start cutting about willy-nilly, any thoughs about his chest cavity?" the man asked. Chloe leant over to look inside, and gasped audibly.
+	"That's... two hearts? Three lungs? And... Four kidneys?! No... those two aren't kidneys. They're adrenal glands, swollen beyond belief." she said, shocked.
+	"Wait, adrenal glands? Hang on... You're right." the man tilted his head. "Whatever this thing is, it's had a lot of work done."
+	Chloe shuddered, writing down this news. The man began extracting the giant's organs, one-by-one, and placing them in jars for later study. He also cut open the giant's leg, and took a sample of muscle tissue and bone marrow. Once finished, he closed the man back up, and breathed a sigh of relief.
+	"Final thoughts?" he asked.
+	"You'd think the extra organs would be the biggest one..." Chloe said unsurely. "But I think those adrenal glands could be just as important. The only reason they'd be that big on purpose would be if they're creating more than just adrenaline."
+	She thought deeply.
+	The man smiled, impressed. "Bet you didn't think your uni placement would be like this, eh?"
+	Chloe chuckled. "I'm just glad the Christmas holidays are coming up."
+	The man laughed. "Okay, we're all done. Let's get him sealed back up, and you have the joy of dissecting those glands."
+	"Yay." Chloe cheered sarcastically, and they hauled the Giant into the freezer. Even with lifting aids and several organs removed, he was incredibly heavy.
+	The two breathed out in relief, and left the autopsy room.
+
+Daycare + Autopsying the Giant
+______________________________
+SCENE
+	It was dark, now. The city's typical rains had returned, and splashes filled the ears of its residents.
+	DI Naismith, however, appreciated it. As he came out of the forensic tent, he looked up, letting the water fall onto his face. He sighed deeply, and shuffled under cover, to light a cigarette.
+	Nina stepped forward, her face pale.
+	"Twice in as many days..." she finally whispered.
+	"Out in public, to boot..." Naismith muttered. "Did you get the FI report this afternoon?"
+	She shook her head.
+	He sighed. "DNA on the fingernails of last night's vic. Matches a cold case from a couple of years ago. This is a serial killer."
+	"Good god..." Nina shuddered. "How are we supposed to catch him? He knows exactly how to avoid CCTV, and it's not like we can patrol the whole city at night..."
+	"No..." Naismith sighed, looking up. There, he saw a flash of red from a rooftop above.
+	"...but *he* can..."
+
+	Naismith made his way up a dirty, disused service hatch. At one point he feared it would collapse, but he soldiered upwards. There, he saw the Werewolf.
+	"Evening." he snarked.
+	"How long ago?" Connor asked clinically.
+	"By our estimates, 45 minutes, give or take." Naismith shrugged.
+	"Damn it..." Connor sighed. "If I'd been here sooner..."
+	"Well... maybe you can still help." Naismith hesitated. "Lord knows I hate this, but we're getting fuck all from the chief on this. We're purely reactive... maybe you keep a lookout, we find this guy."
+	"Good." Connor growled. "What's his rough area of operations?"
+	"South Belson." Naismith nodded. "But he might try to mix it up a little now."
+	Connor rose, flexing. "Then I'll cover the city. But first... a little investigation of my own."
+	"What do you mean?" Naismith asked, before shaking his head. "Actually, best I don't know."
+	Connor nodded, and morphed up his glider. Naismith watched in awe as he took off - and then tried not to laugh as he crashed into a wall.
+	"Still getting the hang of it!" Connor barked, sticking to the wall and climbing. Naismith cleared his throat, and headed back down.
+
+	"That's how it's done!" Vitale grinned, having won a game of snooker against another sharp-dressed mobster.
+	"Nice work, Louie, nice work." he nodded. "You know, you're not half bad as a club owner."
+	"Maybe I should call quits on the whole mob boss thing, you know? Go legit." he shrugged. Then, both men burst out laughing.
+	"Have a good night, mate." the other waved as he left. Vitale sat down, and breathed out, smiling softly.
+	Connor stepped forward from the shadows.
+	"Nice game." he chuckled.
+	"JESUS CHRIST, LUPO, YOU SHOULD WEAR A *FUCKIN'* BELL!" he roared, jumping up.
+	"Next time, I'll just say 'Boo!'" he snarked.
+	"Fuck... what do you want?" Vitale caught his breath, pouring himself a drink.
+	"Information." Connor began, stepping into the light. "What do you know about the stranglings?"
+	"Oh, that businesss..." Vitale grimaced. "It's not one of my boys, I'll tell you that. If it were, he'd be hanging from a lamppost by his guts."
+	"Good." Connor nodded, reassured somewhat. "Any idea who it might be?"
+	"Maybe... what's in it for me?" Vitale grinned.
+	Connor's eyes flashed red. Vitale raised his hands.
+	"Joking, Lupo. God." he chuckled. "Alright, I asked around. According to one of our girls, some creep put his hands on her neck while she was working, so she pepper sprayed 'im, and ran off. Scared the Jesus out of her - she ain't been out since."
+	"Did she get a look at his face?"
+	"Yeah, a good one. Ginger, clean shaven - small scar on his chin. Older side - mid-to-late forties. She weren't sure on his eye colour, but she reckons it weren't blue."
+	"Anything else?"
+	"She don't speak enough English to identify a region, but he had a strong accent. Definitely not local." Vitale shrugged. "And he had big ears, apparently."
+	Connor nodded. "Alright, that helps. Tell all your girls to stay inside. No outcalls, no street work."
+	"Already done." Vitale smiled. "I'm not a total cunt, you know."
+	"I know. That's why your internal organs are still internal." Connor grinned. "The Syndicate are doing the same... but the Patriots don't give a fuck."
+	"It's probably one of them." Vitale scowled. "Though, I don't suppose they'll be as forthcoming as me..."
+	Connor chuckled. "You're a decent stool pigeon, Vitale."
+	"And you're fucking terrifying." Vitale snarked back. "Arrivederci, Lupo. Buona caccia."
 
 Second Body Found + The Stool Pigeon
 ______________________________
 SCENE
+	Morning had come and gone. The sun was preparing to set, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
+	"Alright..." he began. "We got a rough description from our... let's call him our informant."
+	"There are worse words." Nina chuckled. Naismith grinned.
+	"The suspect is ginger, middle aged, clean shaven, and a scar on his chin."
+	"Sir..." Nina began, unsure. "I know this breaks a lot of protocols, but..."
+	"It's too risky." Naismith shook his head.
+	"I know the risks, sir. I'm willing." she replied firmly.
+	"Nina..." he sighed. "You don't have to do that."
+	"Yes, I do." she nodded. "The city streets aren't safe for women to walk down anymore. It's my job to put myself at risk for the public, isn't it?"
+	Naismith looked away. "You're sure about this?"
+	"Dead certain, sir."
+	He sighed. "All right. But I'm staying right behind you. The moment we spot the suspect, we're grabbing him."
+	"Damn right we are." she nodded. "Let's do this."
+
+	"Ugh... what a day." Alison grinned, locking up.
+	"Fun, though." Amy beamed. "I feel like I learned a lot."
+	"You're picking up the ropes fast." Alison smiled. "See you in the morning?"
+	"Yeah, see you." Amy nodded, putting on her backpack and walking to the bus stop. She cursed as she realised there weren't any for another hour.
+	"Ugh... fuck it." she shrugged, beginning the long walk home.
+
+	The two Werewolves looked down at the city from their towertop perch.
+	"Alright... you ready?" Connor began.
+	"I'm ready." Sparky growled lowly. "Let's find this monster and kill him."
+	Connor stood tall, and his suit rippled once more. The membranous wings spread out, and he leaned forward like a gargoyle.
+	"You sure you've got this?" Sparky grinned.
+	"Hey, I've been practicing." Connor snarked back. He closed his eyes, and fell forward, letting the updrafts carry him through the sky.
+	He stopped looking. Instead, he listened. Listened to the city. Listened to the winds. Listened to the heartbeats of every person beneath.
+	Everyone he had to protect.
+	Not a wolf.
+	A sheepdog.
+
+	Nina stood nervously by the alleyway. She was wearing a frilly, low-cut dress, and had dolled herself up for a change. She tried her best to not look like she knew three ways to knock your teeth out.
+	"This is Oscar Charlie 5-1." Naismith said over her earpiece. "What's your status?"
+	She gently pressed on her ear, and whispered. "5-2. No sign of suspect."
+	Her eyes darted, as a car pulled up next to her. "Stand by." she said under her breath, walking over. The window rolled down, and a red-headed man wearing a surgical mask looked over.
+	"Are you... working tonight?" he asked.
+	"Yes." she nodded curtly. "I--I mean, yeah, baby."
+	She cringed slightly, as the man unlocked his door. She opened it, and in an instant, Naismith rushed over with his gun.
+	"ARMED POLICE! GET OUT OF THE FUCKIN' CAR, NOW!" he screamed.
+
+	Amy had her headphones in, blaring some niche punk band. She absentmindedly looked both ways at the zebra crossing, and started walking.
+	Before she'd made it halfway across, a car slammed into her. She fell sideways, hitting her head against the pavement. The world went blurry as she felt a damp rag be pressed against her face. She struggled, kicking and striking wildly, but soon it all went black.
+	The driver dragged her to his car, and threw her into the back seats. He brushed his ginger hair out of his face with his hand, and got in the car. He stroked his clean, scarred chin, and smiled devilishly.
+	"That's right, love. Go to sleep." he whispered.
+
+	"Oh god, I'm sorry!" the man cried as Naismith slammed him into the road.
+	He ripped off the surgical mask, and went pale.
+	"Oh, shit..." he snarled upon seeing the man's beard.
+	"I'm sorry, I'm so sorry... my wife, she's---"
+	"Shut the fuck up." he barked.
+	"Wrong man..." Nina grimaced. She looked up, as a winged monster glided down.
+	"THERE YOU ARE..." Connor snarled.
+	"Not him!" Naismith roared. "He's still out there."
+	"Shit..." Connor muttered, sprinting vertically up a wall and taking off once more.
+
+	Most people stay down after that. A hit to the head, let alone chloroform to the face... most people stay down.
+	Amy Zhou is a lot of things. Sister. Fighter. Orphan.
+	She is *not* most people.
+	Her eyes slowly opened, and her heartbeat quickened. She looked around, without moving a muscle.
+	The driver was going at speed. She shook as the car swerved around a sharp turn, feeling the wheels skid.
+	Without any hesitation, she grabbed the handbrake, and yanked it upwards.
+	The car skidded harder, and its backside slammed into a wall, crumpling. She flung from side to side, as did her attacker.
+	"Rowdy bitch!" he snarled. He pulled out a pistol, and whipped her in the temple. Her head fell down, but she held onto consciousness with an iron grip.
+	"HELP!" she screamed.
+	The man laughed. "Nice try, bitch. No one's gonna hear you."
+	Her head was pounding, and she felt a drop of blood from the pistol barrel's impact. Despite that, she smirked slightly.
+
+	Connor's hearts froze. His blood stopped in its veins.
+	He knew that voice.
+	"SPARKY!" he roared from the skies. In moments, his packmate joined him, as they tore through the sky towards the noise.
+	They spotted it. The speeding car, down below.
+	Too fast to do a hard stop without risking her... no, this had to work.
+	He landed on the rooftops, sprinting as fast as inhumanly possible. He pulled out his burner phone, and called a number.
+
+	Naismith and Nina were in the patrol car when his phone started to ring.
+	"DI Naismith." he answered cautiously.
+	"SUSPECT VEHICLE SPOTTED!" Connor roared. "HE'S GOT SOMEONE! GOING TOO FAST TO SAFELY STOP!"
+	"On it!" Naismith barked, driving forward. He skidded onto the roads, swerving violently. "Where are you?"
+	"HEADING NORTH ON KING'S ROAD!"
+	Naismith thought for a moment, before his eureka moment.
+	"Don't stop him - but try and herd him towards Dexter Avenue."
+	"RECEIVED!" Connor shouted, taking back to the skies. He smashed into the ground, cracking into the tarmac.
+	"Oh, Jesus!" the killer gasped, swerving out of the way. Connor pursued on foot, as they approached T-Junction.
+	There, Sparky crashed down at the left road. The killer swerved right, his face pale as a ghost.
+	Amy grinned. "You might as well just shoot yourself." she whispered.
+	The car sped up Dexter Avenue. The killer was in a blind panic, but he spotted Nina in his periphery.
+	"NOW, NINA!" Naismith roared. She threw out the road spikes, but the driver reacted just in time. He mounted the pavement, and she dived out of the way, as he cruised on past.
+	"Oh, no you don't..." Amy snarled. She used all her might to force herself up, and grabbed the steering wheel.
+	The killer pushed her hand, but she'd already gripped. The wheel spun leftwards, and the car smashed into a storefront. Mannequins and designer bags pelted it, as it came to a slamming halt.
+
+	Connor went pale under his mask, and rushed forwards.
+	"Amy!? AMY?!" he begged. Naismith looked at him, confused - but banished the thought. It could wait.
+	The killer stumbled out of the car, bloodied and bruised. He held Amy in a chokehold, pressing his pistol into her temple. She scowled defiantly.
+	"Nobody move! Or I blow this bitch's brains out!" he roared.
+	"Idiot..." she spat through the pain. "Shoot me, and you're fucking dead."
+	"Maybe I like killing bad girls like you..." he snarled into her ear. "Everyone backs off, or she's dead!"
+	Naismith and Nina holstered their guns. "Okay, okay, it's alright." he said aloud.
+	"I can't get a clear shot." Nina whispered, dejected.
+	"It's alright." Connor said grimly. "He can."
+
+	Ivan watched through his scope, his black-veined eyes tensing. He took a deep breath, and pulled Isabella's trigger.
+	Many people have claimed to be the best sniper in the world. Indeed, Ivan was certainly not the best human sniper.
+	But he was, unquestionably, the best sniper on Earth.
+	The bullet sailed from his makeshift nest atop Rydon Tower. It ripped through the air, smashing through an office window, and then another on the other side. It burned a hole into a balcony cover, and passed through the gaps on a metal ladder. It whizzed past Naismith's ear, lightly grazed Connor's neck, and finally slammed into the hammer on the killer's pistol, before burying itself in the wall behind.
+	He pulled the trigger, and nothing happened. He looked back, white as a sheet. Then, Amy leaned her head forward, and slammed it backwards, smearing his nose across his face.
+	Connor pounced forward, as she broke free from his grip. He wrapped his hands around the neck, and squeezed.
+	"*Do you still feel like a big man?*" he asked. His voice was terrifyingly, unnaturally calm. As if he was screaming so loudly, human ears could not register it.
+	He raised the killer up in the air. He frantically kicked, to no avail.
+	"Do you? *Do you?*" Connor repeated, his grip tightening.
+	Naismith walked over, as Nina helped Amy sit down and catch her breath.
+	"Let him down." he said gently.
+	"Good one."
+	"I'm serious. Let him down." Naismith repeated.
+	"I am too." Connor snarled, his eyes a blazing scarlet.
+	"You think he doesn't want you to kill him?" Naismith began. "You think cowards like this would rather face trial? No. Don't you dare take the chance to look him in the eye from the people whose loved ones he's stolen. Don't. You. Dare."
+	Connor growled like a rabid dog. But then, Amy gently put her hand on his shoulder.
+	"He's right. Let him down." she whispered. "I'm okay. I'm not hurt."
+	Connor's eyes slowly dimmed, still blazing. He finally released his grip.
+	"Gah..." the killer sputtered. "Coward... you think you're one of them? Admit it... you're more like me. You *enjoy* it."
+	"Shut the fuck up." Naismith barked, pistol-whipping him. He slammed him against the wall, and cuffed him.
+	"It's alright... he'll face justice for this." Amy said softly.
+	Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into the man's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
+	"You took with these hands, and I take them in turn." Connor snarled viciously. "You're right. I do enjoy it. I enjoy cleaning up filth like you."
+	"Alright, enough." Naismith said half-heartedly. He took his gun, holstered it, and dragged the killer to the car.
+	"Amy... I'll get you to hospital, get you checked out." Nina said gently.
+	"Thanks." she nodded, clearing her throat. "Hey, Werewolf."
+	Connor looked up. She pounced on him, wrapping him in a bear hug. He embraced his sister.
+	"Thanks." she whispered through tears. He didn't reply, he merely cried under his mask. He and Sparky watched as she went on with Nina. Now alone, they morphed back into civilian clothes, and slowly walked home.
 
 Stinging the Strangler
 ______________________________
 SCENE
+	Amy stepped outside the A&E department, aching but otherwise okay. S
 
 Justice?
 ______________________________
@@ -8541,10 +8738,6 @@ ______________________________
 SCENE
 
 Panic Room
-______________________________
-SCENE
-
-Election Day
 ______________________________
 CHAPTER
 
@@ -9919,32 +10112,7 @@ SCENE
 Picking up Bea and Chloe
 ______________________________
 SCENE
-	Amy stood outside a mid-sized unit labeled "Skye Road Pawz" - the local rescue and dog daycare centre. It was fairly early on in the morning.
-	She took a deep breath, and entered.
-	"Hiya!" she began. "I'm here about the trial shift? My name's Amy Zhou."
-	"Excellent timing." the tired older woman at the front desk nodded, putting on a jacket. "My name's Alison. We've just had a call about an abandoned dog by the creek. I know it's a little manic, but fancy tagging along?"
-	"I--Absolutely!" Amy smiled, surprised.
-
-	The poor thing was terrified.
-	She barked savagely at any passers by. Thankfully for them, but frigheningly for her, she was secured to a post by a metal chain and an inward-spiked collar that pushed into her neck. Her body was covered in scars, and one ear had been ripped off, along with an eye gouged out. The eyelid was crudely stitched shut.
-	Amy and Alison arrived in their van. Alison hopped out with a catchpole, while Amy looked at the dog in sorrow.
-	"Poor thing..." she said.
-	"I know. Oh god, look at those scars." Alison agreed. "She's been badly treated, no question."
-	"There's no way she'll let us approach with the catchpole. It probably reminds her of god-knows-what." Amy noted somberly.
-	"Good point. I'll get the tranq gun." Alison began, but Amy raised her hand.
-	"Hang on... can I try and calm her down?"
-	"Be careful. You're not insured yet." Alison warned, while nodding.
-	Amy approached gingerly. The dog roared and screamed almost rabidly, but she was undeterred.
-
-	Across the park, Connor and Sparky spotted her, on their way to a meeting with Ivan.
-	"Should we help?" Sparky asked, tilting his head. "Maybe I can tell the dog to stop?"
-	"No, best not." Connor shook his. "She's got this."
-
-	The dog carried on its terrified roars. Amy responded by going prone, then rolling onto her back. She gently edged up to the poor thing, backing away at each bark intentionally. Slowly, the dog's barks became more subdued. Finally, she cautiously held her hand out, just close enough for a sniff. The old girl sniffed, then backed away towards the pole. Amy crawled over, and unfastened the collar. The dog shook her head, letting her one ear slap across her cheek, before stretching. Amy stroked her back gently.
-	Alison approached similarly slowly, letting the girl sniff her. She revealed some treats, which the dog greedily devoured. The pair coaxed her into the van, and Alison hopped into the front. Amy stayed in the back, comforting the dog.
-	"You're hired." Alison nodded. Amy tried and failed to subdue her glee.
-
-	Connor sat on a park bench overlooking a river. Sparky was enjoying a new ball-throwing machine Chloe bought him as a gift. Ivan approached, and sat next to Connor.
+	Connor sat on a park bench overlooking the river. Sparky was enjoying a new ball-throwing machine Chloe bought him as a gift. Ivan approached, and sat next to Connor.
 	"Privet, tovarishch." he announced himself with. "How was last night?"
 	Connor's memories flashed to beating a Super-Agent before impaling him.
 	"Average Saturday." he quipped. "Any news?"
@@ -10010,7 +10178,7 @@ SCENE
 	Ivan nodded, with an almost fatherly understanding. "I get it, bratan. But... well, he's still a bad man. And he might not be making Nazi supersoldiers, but he's still making supersoldiers. Think about it, eh? With that money, the Syndicate could make some real motion out here. Besides, we won't get an opening for him soon, either. So you have time to consider."
 	Connor nodded. "Alright - I'll sleep on it."
 
-Ivan and Connor catch up + Daycare
+Ivan and Connor catch up
 ______________________________
 SCENE
 	Johnny and another man stood in a dingy basement. The other man was wearing his hood up, and skulked in the shadows, obscuring his face. Johnny was anxiously checking his phone.

@@ -3332,7 +3332,9 @@ SCENE
 	"Oh, of course. They couldn't have picked a less ominous name?" Connor grinned.
 	"Apparently not. PaladinCorp is connected to the South African government - specifically, its leadership are members of the ruling National Party. They got their start putting down anti-Apartheid riots."
 	"Evil cunts..." Connor spat.
-	"Indeed. And now they're fielding Super-Agents... this could be very bad."
+	"Indeed. I'm surprised you've never heard of them." the handler nodded. "They were involved in the Bogside War - they provided weapons and training to Loyalist paramilitaries."
+	"You're kidding..." Connor snarled. "I don't suppose you've got any contracts on them?"
+	Rattler shook his head. "Not yet. But now they're fielding Super-Agents... this could be very bad."
 	"No shit. I'd better tell Ivan..."
 	"You'd better. Now come on - if we leave now, we can be back in England before midnight."
 	"Not yet. Gotta sort something first." Connor shook his head, as his stomach rumbled.
@@ -3995,7 +3997,7 @@ SCENE
 	"Afternoon, tovarishch." Ivan began. "How are you feeling?"
 	"Like death." Connor groaned. "What was that thing?"
 	"A prototype counter-terrorism drone." Ivan answered clinically. "You remember those mercs in Algiers?"
-	"Paladin Corp?" Connor tilted his head.
+	"PaladinCorp?" Connor tilted his head.
 	"Da." Ivan audibly nodded. "From what I heard, the drone itself was manufactured by Eidolon Dynamics - it's an American arms company. They have a contract with Paladin. I'm looking into the connection - see who's pulling the strings."
 	"Whoever it is, they like giving things ominous names." Connor snarked. "What next, Nemesis Industries?"
 	"Don't tempt fate..." Ivan grinned. "I'll let you know what I find."
@@ -5315,7 +5317,7 @@ SCENE
 	"Our friend Dorsey has contracted us to study all abnormalities within this 'superhuman' case." Morland began.
 	"And?" the Commandant asked.
 	"We will of course ensure that no important information is released to the police, sir. However... We could use the opportunity to make some... investigations of our own."
-	The Commandant smiled. "I'm listening, Louis."
+	The Commandant smiled. "I'm listening."
 	Morland smiled back. "There's a young student who joined us recently. Her name is Chloe Derrington. And, well, sir... she's a genius. She's managed to make breakthroughs in the Hox gene reactivation project. With enough time, she could help us develop a mass-producible limb regeneration effect. Our operatives' lifespans would be increased tenfold."
 	The Commandant stroked his chin. "Derrington..." he muttered. He looked on his phone, and smiled deviously. "Put her on the case. Have her study the bodies of any Agents killed by the betrayer."
 	"Of course, Commandant." Morland nodded. "Anything else?"
@@ -5911,7 +5913,7 @@ SCENE
 	"Fuck..." she gasped. "Are you alright, sir?"
 	"I'm fine." he sighed, looking out into the distance.
 	"I can't believe it... he's still got two hands." she noted.
-	Naismith nodded. "Maybe my gut was wrong. Maybe it *was* a fake we found. Anyway... You busy tonight?"
+	Naismith nodded. "Maybe my gut was right. Maybe it *was* a fake we found. Anyway... You busy tonight?"
 	"I'm still on shift for an hour. Why?"
 	He rolled his shoulder, feeling it click.
 	"...it looks like we have a new CHIS."
@@ -6129,13 +6131,9 @@ SCENE
 	"It was all only skin-deep." Connor smiled. "I've had worse."
 	Chloe frowned. He interjected.
 	"Not--I mean, it's not like I get in fights all the time, just... Drackhill sucks."
-	"There does seem to be something... wrong with this city." she nodded in agreement. "Speaking of... I don't suppose you know anything about some... mutant vigilante?"
-	Connor's hearts skipped their beats, but he steeled himself without showing it. "Eh?"
-	"Something at work. We've been asked to investigate - there's this vigilante going around, killing people. According to the rumours, he's some sort of... superhuman. He moves fast, hits hard, and takes damage that would kill a normal man..." she said, oblivious to Connor's reaction. "They reckon it was the same guy who showed up at the Horse the other week. I just wondered, seeing as you live in Redbridge, you might have heard something."
-	"I mean, I haven't heard anything, but I can ask my boss if you like? He's got his ear to the ground."
-	"Yeah, that'd be good! I don't know why, but my boss was told by his boss to assign me to the case. Maybe they think it'll be good experience for me?" Chloe said pensively.
-	"I mean, it certainly sounds like good experience." Connor nodded. "You have a real genius for this sort of thing. Anyway, I'll let you get ready - I'll run back to mine and grab my car."
-	"Okay, thanks!" Chloe smiled. Connor headed into the bedroom, with Sparky still fast asleep on the bed.
+	"There does seem to be something... wrong with this city." she nodded in agreement.
+	Connor smiled. "Anyway, I'll let you get ready - I'll run back to mine and grab my car."
+	"Okay, thanks!" Chloe beamed. Connor headed into the bedroom, with Sparky still fast asleep on the bed.
 	"Sparky!" Connor began. "Wake up, buddy."
 	"Ughhhh." Sparky groaned. "Sleep."
 	"Sparky..." Connor chuckled. "Wake up."
@@ -6228,7 +6226,43 @@ SCENE
 	"Tonight? That seems like a waste... Can you push it to tomorrow?"
 	"Sure thing - any reason?" Jones tilted his head.
 	"I think I can do some maths. Figure out specific things - punch force, impact resilience, et cetera..." she shrugged.
-	Jones smiled. "Crack on, then."
+	Jones smiled. "Sounds good."
+
+	Hours passed, as Chloe ran calculation after calculation on her lab computer.
+	Upstairs in the CEO office, Gregory Morland nervously sat in anticipation. His heartbeat quickened as his desk phone rang. He took a deep breath, and answered it.
+	"Yes?"
+	"Mr. Morland, sir?" the receptionist began. "Your guests from PaladinCorp have arrived."
+	"I'll be right down."
+	"Um... they've said the'll have a look around first, sir. Shall I tell them to wait?"
+	"No, don't." he hurriedly cut in. "Let them through. Tell them I'm ready in here for them."
+
+	"How's it going?" Jones asked, looking over.
+	"It's... fascinating." Chloe began, smiling enthusiatically. "Whatever this 'Werewolf' is, his strength is truly something else. By my estimations, a single punch could have the force of a jackhammer."
+	"Jeez." Jones grinned. "I wouldn't wanna go up against something like that."
+	"I'll say." Chloe nodded. With that, their lab door opened.
+	"Oh, hello!" she said cheefully.
+	"Good afternoon." the Commandant said, walking forward.
+	"Can we help you, sir?" Jones asked, subtly positioning himself in front of Chloe, as if making a human shield.
+	"Just having a look around is all." he nodded back, before extending his hand. "George Davis - I'm the Commandant of PaladinCorp."
+	"Lovely to meet you, Mr. Davis." Chloe smiled warmly, shaking his hand. "Chloe Derrington."
+	"Lovely to meet you, too." he smiled affably. "What are you working on?"
+	"Oh, I--" she stammered, "I'm not sure if--"
+	"It's okay." Jones said softly. "PaladinCorp is one of our biggest shareholders. You can tell him."
+	The Commandant grinned, looking down at Connor's hand.
+	"We're analysing it for physical qualities." Chloe explained. "Punch force, blood vessel count, toughness, et cetera..."
+	"Fascinating..." the Commandant nodded. "It's a very strange business, this 'Werewolf' stuff, isn't it?"
+	"Very strange, sir." Chloe smiled.
+	"What's your take on him?" he asked. "He's a killer, sure... but I've heard many people think he's a superhero, too."
+	"I--I try not to think about it." she shrugged. "It would be good to learn more - if he's such a monster, why does he rescue people too? One time, he even saved me and my friends from some hooligans... But my job isn't to speculate on that, I suppose."
+	The Commandant chuckled. "No, I suppose it isn't. It would be... fascinating to learn who's behind the mask, wouldn't it?"
+	"I'm sure the police would be very happy with that, sir." she smiled.
+	"Well... I'll leave you to it, then. Take care, Miss Derrington."
+	"You too, Mr. Davis." she beamed, as he turned.
+	"Jones." he muttered.
+	"Commandant." Jones said back, as he left.
+	"Fucking monster..." Jones whispered under his breath.
+	"What was that, sorry?" Chloe asked, turning up her hearing aids.
+	"Oh, nothing." Jones quickly replied. "Let's get back to work."
 
 Chloe studies the hand
 ______________________________
@@ -6238,9 +6272,36 @@ SCENE
 	"Hey!" she smiled.
 	"Hey, hey!" Connor replied. "You ready?"
 	"Hell yeah!" Chloe grinned, clearly excited. "Um... where are we going?"
-	"You'll see." Connor replied, smirking. They drove into Redbridge, and pull up outside a disused gym. The sign read: "DY   ITE F TN  S"
+	"You'll see." Connor replied, smirking. They drove off.
+	"By the way, how was work?" he asked, as they sat in a rush hour jam. "Might as well pass the time with small talk."
+	She giggled. "This traffic's so bad, they'll rebuild the flyover by the time we get through."
+	She paused. "It was good. We, uh... we were looking into something weird today."
+	"Like what?"
+	"Okay, so... you know that 'Werewolf' story?"
+	He nodded.
+	"...we have his hand. As in, he cut off his hand about a week ago, and we studied it."
+	"That sounds... odd." he chuckled awkwardly. "What did it look like?"
+	"I mean, like a normal hand, I suppose." she shrugged. "But we got some fascinating insights into his physical attributes."
+	Connor nodded, encouraging her to continue.
+	"I probably shouldn't say much." she sighed. "But it's so weird. I think there's something big going on."
+	"I know what you mean..." he nodded softly. "I've... heard rumours about it. There was the attack on the train the other week, there's the stories of the Patriots getting their hands on some kind of super-serum... something's not right."
+	She leaned back, chuckling mirthlessly. "Not to mention we had some investor come round today. Everyone seemed terrified of him."
+	"Oh right?" Connor tilted his head.
+	"Yeah. He said he's from 'PaladinCorp.' Said he was a 'Commandant' or something."
+	"The Commandant?!" Connor gasped, his hearts skipping a beat.
+	"Yeah. Um... do you know him?" she asked cautiously.
+	"I--" he stammered, quickly trying to recompose himself. "PaladinCorp are a... they're a mercenary group. If they've sent a 'Commandant' here..."
+	"Mercenaries?" she gasped. "Oh, God... what would they want with Morland Genetics?"
+	"It's probably nothing." he quickly covered, hating the lie.
+	"How do you know about them?"
+	He looked away, before sighing. "They were involved, back home. They gave weapons and training to Loyalist paras."
+	"Oh, my god." Chloe shook her head. "I'm so sorry... Oh god, should I even be working there? What if they want us to... to figure out how to make more of that serum?"
+	Connor gently put his hand on her shoulder. "That's not what you're doing, is it? You're analysing the Werewolf... and hey, you've said before how much you love working on this kind of thing. Don't worry about Paladin... I'm sure it'll all be fine."
+	Chloe smiled softly, rubbing his hand. "Thanks, Connor. That... means a lot."
+
+	They drove into Redbridge, and pull up outside a disused gym. The sign read: "DY   ITE F TN  S"
 	"So, I know it looks a little... dilapidated." Connor began. "But this place is... well, it's perfect."
-	Chloe smiled, as Connor unlocked the door. The two enter. Connor turned on the lights. They shuddered and shook, but eventually turned on.
+	Chloe smiled, as Connor unlocked the door. He turned on the lights, which shuddered and shook, but eventually came on.
 	"Welcome to Dynamite Fitness - the best abandoned gym in Redbridge." he chuckled.
 	Chloe laughed. "A lot of competition there, eh?"
 	"Well, there's a reason I said 'Redbridge' and not 'Drackhill'" he smirked. His expression turned nostalgic.
@@ -6251,13 +6312,13 @@ SCENE
 	Connor chuckled. "Try this." he said, fastening the punching bag to the ceiling and handing her a pair of padded gloves. "Show me what you've got."
 	She stepped forward, took a deep breath, and hit the bag meekly.
 	Connor tilted his head. "Okay, not bad - at least you know not to tuck your thumbs in."
-	Chloe grinned. "How's my form?" she asked.
+	Chloe grinned. "How's my form?"
 	"You're leaving yourself open a little." he began, mimicing her form. "By leaving your arms outstretched, you leave your centre vulnerable. Remember, you have two arms. As one strikes, keep the other close by to block."
 	He shifted into his own stance, and demonstrated a punch in slow motion.
-	"Here. By keeping my other hand close to me, if someone tries to hit me, I can use it to defend myself, even if I've already thrown a punch." he explained.
-	"Got it." She nodded, before throwing another punch, this time adopting a better form.
+	"Here. By keeping my other hand close to me, if someone tries to hit me, I can use it to defend myself, even if I've already thrown a punch."
+	"Got it." she nodded, before throwing another punch, this time adopting a better form.
 	"Much better. Now, look at my stance again." he said, this time exaggerating his footing.
-	"Oh!" she exclaimed, repostitioning her feet to be more secure.
+	"Oh!" she realised, repostitioning her feet to be more secure.
 	Connor smiled warmly. "You're a natural. Now, throw your best punch in that stance."
 	She nodded, and launched a punch. The bag swayed slightly.
 	"Nice!" Connor congratulated. He approached the bag.
@@ -6283,7 +6344,7 @@ SCENE
 	"Second time in 24 hours you've been punched, now." she quipped. Part of her became worried she'd been rude, but that evaporated as Connor giggled.
 	"Let's try again. If it helps, do a slow-motion one first to get a feel for it."
 	She did a slow-motion punch to the pad. She tried another slow-motion, and managed to his its centre. Satisfied, she went for a proper punch, and made contact.
-	"Ey! There you go!" Connor cheered. "Okay, let's mix it up a little. I'm gonna teach you how to block. Don't worry, I'm not going to hit you."
+	"There you go!" Connor cheered. "Okay, let's mix it up a little. I'm gonna teach you how to block. Don't worry, I'm not going to hit you."
 	Chloe nodded. "Let's go for it."
 	Connor smiled. "Okay. Assume your stance."
 	She took her stance, and prepares.
@@ -6443,6 +6504,21 @@ SCENE
 	"Nyet, thank *you.*" Ivan grinned. "That dossier was just what we needed."
 	Connor smirked. "You should meet Johnny. I have a feeling yous two would get on famously."
 	Ivan chuckled. "I'm sure we will all go for vodka when this is over, tovarishch."
+	Connor paused, hesitant. "You remember us talking about Morland Genetics?"
+	Ivan nodded.
+	"...Some fellas from PaladinCorp turned up there today. Including the Commandant."
+	"Bozhe moy..." Ivan gasped. "That is... very, very bad..."
+	"You're telling me." Connor sighed. "My friend, Chloe - I can't have her in the crossfire if things go bad."
+	"Chyort..." Ivan muttered. "You mentioned her before. The one who was attacked?"
+	"That's her. She works at Morland - she's on university placement there. She's been assigned to my case for some reason."
+	"Could she be involved?" Ivan quizzed, but Connor immediately shook his head.
+	"No. Absolutely not. For one thing, given ODESSA's ideology, there's no way they'd recruit a disabled woman. Second, she's just... not like that. She's too kind to be a Nazi."
+	"Okay... But you said she's in university, da? Why would she be assigned to this case?"
+	"I don't know... But ODESSA have to know who I am. And thus, we have to assume they know who she is." Connor shuddered, aghast at the idea that he'd drawn Chloe into this. "Maybe they had her assigned to try and sabotage things? I mean, if it came out that the Werewolf's friend was in on the investigation, they could discredit the whole thing."
+	"Maybe. Or maybe they're keeping her involved as leverage against you." Ivan said grimly. "Stop you from going after them."
+	"Christ..." Connor sighed. "That's why they jumped her. It was a warning."
+	Ivan gently put his hand on his comrade's shoulder. "We'll stop them, bratan. Don't worry."
+	Connor nodded halfheartedly, and the two parted ways for the night.
 
 Tracking Zack
 ______________________________
@@ -6471,7 +6547,7 @@ SCENE
 	"Heya!" Chloe smiled warmly. The two grabbed some food, and sat down.
 	"It's been ages since we sat down for lunch together." Chloe noted.
 	"I know. I'm sorry, I know I've not been hanging out as much..." Bea sighed.
-	"How are things with Charlie?" asked Chloe.
+	"How are things with Charlie?"
 	"We're good! Really good. Honestly, he's such a gentleman. Every week, he buys me flowers, or takes me for dinner. Oh, it's so sweet."
 	"That's nice." Chloe nodded, trying to not sound judgemental.
 	"How about you and Connor?" Bea smirked, cocking an eyebrow cheekily.
@@ -7263,7 +7339,8 @@ SCENE
 	"Well, I'm hoping not the dominatrix I hired. That'd be awkward." he grinned.
 	"Wow. Did you come up with that all by yourself?" she smirked back.
 	"It's a gift." he chuckled. "I take it you're 'Whiplash?'"
-	"And you must be The Werewolf, no?"  She walked over to him, slowly - like a cat approaching a crippled mouse.
+	"And you must be The Werewolf, no?"
+	She walked over to him, slowly - like a cat approaching a crippled mouse.
 	"Gotta say, your super-name is way cooler than mine." he quipped. "Sure, it's a little on the nose, but--"
 	Before he could finish, she drew her whip and cracked it in the air.
 	Connor gulped. "Maybe I should change mine to 'Stabby Stabby Punch Man.'"
@@ -7309,8 +7386,8 @@ SCENE
 	Too much...
 	No.
 	NO!
-	His eyes burned a brilliant blood-red, as he sent a strike right into her heel. It snapped, and she howled in pain. He sprang up, and sent another to her head. While the force restricted it, it landed, and his knuckled cracked along with her cheekbone. Then, he pounced upon her, and wrapped her as tight as he could.
-	"This is... no time for a cuddle, darling..." she snarled, sinking her blades into him again. And again. And again.
+	His eyes burned a brilliant crimson, as he sent a strike right into her heel. It snapped, and she howled in pain. He sprang up, and sent another to her head. While the force restricted it, it landed, and his knuckled cracked along with her cheekbone. Then, he twisted her to face away, and wrapped her as tight as he could.
+	"This is... no time for a cuddle, darling..." she snarled, gripping her braid. She sank the knife into his chest. Then again. And again.
 	He didn't react. He merely shuffled both to the edge of the rooftop, and jumped.
 	As they sailed down to the ground, she tried to use her strange power to cushion their fall.
 	It made a tiny difference, as they smashed down into a car. Metal and glass cut into her skin, and she felt her ribcage give way.
@@ -7357,11 +7434,11 @@ SCENE
 	"How do you do it?"
 	"How do you shit knives and fletchettes out of your hands?" she chuckled. "I... I was only a little girl when they took me."
 	Connor nodded, wordlessly encouraging her. She hesitated, and folded her arms - as if putting up a shield.
-	"They put you in this airtight pod, filled with lukewarm water, and they whack a breathing mask on your face." she continued. Her eyes squeezed shut, as if she was back in the pod once again. "You can't hear, smell, taste, feel, see... complete sensory deprivation."
+	"They put you in this airtight pod, filled with lukewarm water, and they whack an oxygen mask on your face." she continued. Her eyes squeezed shut, as if she was back in the pod once again. "You can't hear, smell, taste, feel, see... complete sensory deprivation."
 	"How long do you stay in?" he asked.
 	"As long as it takes." she shuddered. "They let you out once you manage to tell them the password. And the only way to get the password... is to read someone's mind."
 	"How do you do that?"
-	"That's what the deprivation is for." she nodded. "If your five senses are shut off, you're forced to rely on your sixth sense. That's why they lock up kids - apparently, children's neurons are less insulated, which makes them more receptive to... to that kind of training."
+	"That's what the deprivation is for." she nodded. "If your five senses are shut off, you're forced to rely on your sixth. That's why they lock up kids - apparently, children's neurons are less insulated, which makes them more receptive to... to that kind of training."
 	"And once your sixth sense is activated... you're what, a psychic?"
 	"More or less." she shrugged. "You still need to be trained, though. Most of our 'powers' are far too complicated to use right off the bat. For example, I can manipulate trajectories, but I never trained in general telekinesis. For my... line of work... you need a more subtle touch."
 	Connor cleared his throat. "And this... psychic laboratory, or whatever - they want me dead?"
@@ -7391,6 +7468,57 @@ ______________________________
 CHAPTER
 
 
+______________________________
+FLASHBACK
+	It was July 2013.
+	Connor, Yaz, and Trey were hanging out in Connor's living room.
+	Yaz was lying on the sofa, resting her feet on Connor's lap. Her hair was a bleached blonde, and she wore a black jumpsuit. A movie was playing.
+	"Ah, no way!" Trey said, grinning. "I thought it was her."
+	"Why would it have been her?" Connor questioned. "She had a solid alibi."
+	"Yeah, but who was the person confirming she was there? That's right, her butler! Of course he'd be lying!" Trey countered.
+	"Yeah, but we saw earlier that he resents how she treated her father. So, he has no motive to cover for her." Connor retorted.
+	Yaz rolled her eyes. She playfully rubbed Connor's crotch with her feet. He squirmed.
+	"Hah, that tickles!" he laughed.
+	"Oh yeah?" Yaz cocked an eyebrow. "How about we go and 'tickle' upstairs?"
+	Trey wolf whistled, grinning.
+	Connor looked at her, confused. "You wanna tickle me upstairs?" he asked.
+	Yaz chuckled. "No, silly."
+	Connor looked at her, puzzled.
+	She sighed. "I, um... I just remembered I have homework to do. I'd better head home."
+	"You sure? The movie's not over yet." Connor protested.
+	"Yeah, I... I'm gonna go." she said.
+	"Okay. I'll see you tomorrow?" he asked.
+	"Sure."
+	Connor stood and went to hug her, but she shuffled out of the way and left.
+	He sat down, puzzled.
+	"You are a fascinating individual, my friend." Trey grinned.
+	"Eh?" Connor asked.
+	"You figure out the plot of the whodunnit movie, but, well..." Trey sighed, chuckling.
+	Connor paused, before laying back in realisation.
+	"Shiiiit..." he groaned, covering his face.
+	"There it is." Trey laughed.
+	"But she said she just wanted to chill." Connor protested weakly.
+	Trey chuckled. "What did she say exactly?"
+	"She said 'How about I come over to yours, and we can netflix and chill?'"
+	Trey burst into laughter. "And... you replied with..."
+	"'Sure, sounds good. I'll call Trey, we can all hang out!'" Connor relayed.
+	Trey laughed, and sighed. "Connor... 'Netflix and Chill' means..."
+	"To watch Netflix, and chill." Connor answered confidently.
+	Trey grinned. "Google it."
+	Connor did so, and leant back, sighing dramatically.
+	"Yep." Trey giggled.
+	"But why would it mean that?"
+	"God, you are so Catholic." Trey giggled.
+	"Catho-lick my balls." Connor quipped.
+	Trey cackled in laughter.
+	"God, I'm such a *moron...*"
+	"Yeah you are. You're *my* little moron." Trey chuckled.
+	"What do I do?" Connor asked, leaning forward.
+	"My advice? Go grab some flowers - girls love flowers - and surprise her tomorrow morning. Tell her you're sorry for ignoring her needs, and you want to do better in future." Trey explained.
+	"Great idea!" Connor beamed, rushing out.
+	Trey leant back. "Guess I'll finish the movie then?" he chuckled.
+
+Connor ignores Yaz
 ______________________________
 SCENE
 	Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
@@ -7481,7 +7609,7 @@ SCENE
 	"I wouldn't be anything, I'd be dead - because I'm not some freak of nature!"
 	"Oh, I'm a freak all right - but nature had nothing to do with this." Connor chuckled. "Someone else did. And to find out who... I need your help."
 	"What?!" Naismith laughed incredulously. "That's a new one. Never had a criminal come to me for help."
-	"Naismith." Connor interrupted. "I read your file. Seems you're well known as the office rat - you've arrested 5 other officers in your career. And, you made it to Detective Inspector, which means you're clever. So, a clever man with morals. If you can't see there's something bigger going on, no one can."
+	"Naismith." Connor interrupted. "I read your file. Seems you're well known as the office rat - you've arrested 5 other officers in your career. And, you made it to Detective Inspector, which means you're clever. And cherry on top - you came through good on the Hughes job. So, a clever man with morals. If you can't see there's something bigger going on, no one can."
 	"I see two things - right and wrong. The law." Naismith inhaled. "And criminality. And I know which side I'm on. What I want, what I support, is the law. Rule by order. You... You're an anarchist. An insane malcontent."
 	"Well, I'm definitely a malcontent." Connor chuckled. "And I couldn't agree more - there's right and wrong. Black and white. Where you are wrong..." he continued, his mask hiding his smirk, "Is which side the law's on. The law is the arm of power. And power has a name. ODESSA."
 	"What are you talking about?!" Naismith sighed, exasperated.
@@ -7489,71 +7617,21 @@ SCENE
 	Naismith shook his head. "Why would you tell me that?"
 	"So you can get there on time. And see the truth first-hand." Connor nodded.
 	Naismith thought for a moment. "It sounds like I'm doing your dirty work for you."
-	"No. You're responding to a threat from a serial killer, right?" Connor interjected. "A known, wanted criminal told you where he plans to strike. So, you have a duty to arrive on the scene, no? Besides, you kind of owe me for trying to kill me last week. And besides - there's some Super-Agent bodies in it for you."
+	"No. You're responding to a threat from a serial killer, right?" Connor interjected. "A known, wanted criminal told you where he plans to strike. So, you have a duty to arrive on the scene, no? Also, you kind of owe me for trying to kill me last week. And besides - there's some Super-Agent bodies in it for you."
 	"Super-What?!" Naismith asked incredulously.
 	"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Morland, right?"
 	"How do you know about that? Our work with them is top-secret..."
-	"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Morland. My advice is, get a good hard look at their biology. Compare it to my hand, if you like. Anyway, there'll be more to send them tonight. Are you in, or not?"
+	"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Morland. And there'll be more to send them tonight. Are you in, or not?"
 	Naismith sighed. "...fine. I'll be there."
-	Connor breathed a sigh of relief. He unloaded Naismith's gun, placed it on the back seats, and got out of the car. 
+	Connor breathed a sigh of relief. He hopped out of the car.
 	Naismith rested his head on the steering wheel, and sighed again.
 	"What the fuck am I getting myself into?" he whispered aloud.
 	His thoughts were interrupted by the back door reopening. He spun his head round, as Connor reached in.
-	"I, uh... forgot my gun." he said awkwardly, grabbing his own.
+	"I, uh... forgot my gun." he said awkwardly, grabbing it.
 	Naismith squinted incredulously. Connor hopped back out, holstered it, and facepalmed as he left.
+	"Nice one, Connor. Very cool." he muttered to himself.
 
 Tipping off Naismith
-______________________________
-FLASHBACK
-	It was July 2013.
-	Connor, Yaz, and Trey were hanging out in Connor's living room.
-	Yaz was lying on the sofa, resting her feet on Connor's lap. Her hair was a bleached blonde, and she wore a black jumpsuit. A movie was playing.
-	"Ah, no way!" Trey said, grinning. "I thought it was her."
-	"Why would it have been her?" Connor questioned. "She had a solid alibi."
-	"Yeah, but who was the person confirming she was there? That's right, her butler! Of course he'd be lying!" Trey countered.
-	"Yeah, but we saw earlier that he resents how she treated her father. So, he has no motive to cover for her." Connor retorted.
-	Yaz rolled her eyes. She playfully rubbed Connor's crotch with her feet. He squirmed.
-	"Hah, that tickles!" he laughed.
-	"Oh yeah?" Yaz cocked an eyebrow. "How about we go and 'tickle' upstairs?"
-	Trey wolf whistled, grinning.
-	Connor looked at her, confused. "You wanna tickle me upstairs?" he asked.
-	Yaz chuckled. "No, silly."
-	Connor looked at her, puzzled.
-	She sighed. "I, um... I just remembered I have homework to do. I'd better head home."
-	"You sure? The movie's not over yet." Connor protested.
-	"Yeah, I... I'm gonna go." she said.
-	"Okay. I'll see you tomorrow?" he asked.
-	"Sure."
-	Connor stood and went to hug her, but she shuffled out of the way and left.
-	He sat down, puzzled.
-	"You are a fascinating individual, my friend." Trey grinned.
-	"Eh?" Connor asked.
-	"You figure out the plot of the whodunnit movie, but, well..." Trey sighed, chuckling.
-	Connor paused, before laying back in realisation.
-	"Shiiiit..." he groaned, covering his face.
-	"There it is." Trey laughed.
-	"But she said she just wanted to chill." Connor protested weakly.
-	Trey chuckled. "What did she say exactly?"
-	"She said 'How about I come over to yours, and we can netflix and chill?'"
-	Trey burst into laughter. "And... you replied with..."
-	"'Sure, sounds good. I'll call Trey, we can all hang out!'" Connor relayed.
-	Trey laughed, and sighed. "Connor... 'Netflix and Chill' means..."
-	"To watch Netflix, and chill." Connor answered confidently.
-	Trey grinned. "Google it."
-	Connor did so, and leant back, sighing dramatically.
-	"Yep." Trey giggled.
-	"But why would it mean that?"
-	"God, you are so Catholic." Trey giggled.
-	"Catho-lick my balls." Connor quipped.
-	Trey cackled in laughter.
-	"God, I'm such a *moron...*"
-	"Yeah you are. You're *my* little moron." Trey chuckled.
-	"What do I do?" Connor asked, leaning forward.
-	"My advice? Go grab some flowers - girls love flowers - and surprise her tomorrow morning. Tell her you're sorry for ignoring her needs, and you want to do better in future." Trey explained.
-	"Great idea!" Connor beamed, rushing out.
-	Trey leant back. "Guess I'll finish the movie then?" he chuckled.
-
-Connor ignores Yaz
 ______________________________
 SCENE
 	The gang had gathered around Trey's again for the afternoon - a rare moment where they were all free from work or university - or, in Connor and Sparky's case, a brief repose before their killings that night. Trey had fetched lunch, and they all enjoyed a nice chilled time in.
@@ -7686,32 +7764,6 @@ SCENE
 	Connor looked over at Nina. She was... familiar. Then, he saw a brief flash - Yasmin, his ex. He shuddered.
 	Nina grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
 	"Received, 5-2. FI's en route, ETA 24 minutes." the radio replied.
-
-	The three Werewolves met back up at Connor's flat. Connor revealed the device he secured - a hard-drive. Ivan plugged it into a rugged laptop he brought, and began to study the data. As he scrolled through, his face turned pale - well, paler. The black veins on his eyesockets, that constant reminder of Connor's salvation, darkened even more. 
-	He turned to face his comrades.
-	"Bad. Very, very bad." he said.
-	"What? What is it?" Connor asked, wide-eyed.
-	Ivan showed him a document. It included reports on serum production, ETAs for building a Super-Agent army... and a name. A name of a company.
-	"Morland Genetics - the company who are autopsying these *mudaki...* is connected to ODESSA."
-	Connor grew pale too. "Chloe..." he gasped.
-	"Chyort..." Ivan muttered. "You mentioned her before."
-	"She's a friend of mine. She works at Morland - she's on university placement there. She's been assigned to my case for some reason."
-	"Could she be involved?" Ivan quizzed, but Connor immediately shook his head.
-	"No. Absolutely not. For one thing, given ODESSA's ideology, there's no way they'd recruit a disabled woman. Second, she's just not like that."
-	"Okay... But you said she's in university, da? Why would she be assigned to this case?"
-	"I don't know... But ODESSA have to know who I am. And thus, we have to assume they know who she is." Connor shuddered, aghast at the idea that he'd drawn Chloe into this. "Maybe they had her assigned to try and sabotage things? I mean, if it came out that the Werewolf's friend was in on the investigation, they could discredit the whole thing."
-	"Maybe. Or maybe they're keeping her involved as leverage against you." Ivan said grimly.
-	"I won't allow that." Connor replied, his voice as cold as ice. "I will burn their entire cabal to the ground if they even touch a hair on her head."
-	Ivan smirked. "Well, burning their whole cabal to the ground was already the plan, da?"
-	Connor smirked back. "Well, yes. But if they take things that far, I'm not fighting them in the shadows anymore. What will they do, arrest me? I'd like to see them try."
-	"Be careful." Ivan said, concerned. "The moment you remove any restrictions in your mission, is the moment you surrender to your basest instincts."
-	"Instincts are what we are." Sparky added. "If they come for our pack, we'll destroy them. *Destroy.*" he growled.
-	Ivan looked down, unable to understand. "What did he say?"
-	"He said..." Connor hesitated. "He said if they come for our pack, we'll destroy them."
-	Ivan chuckled. "Well, I can't blame a wolf for following his gut. And I'm not saying don't fight them. I'm saying... Don't forget, you're still a man."
-	Connor paused for thought. He was so far-removed from humanity... could he still count himself among them?
-	"Hey..." Ivan began. "We've made a huge dent today. Things'll be pretty quiet for a while - and Christmas is coming up. Maybe you should take some time off? You don't need to be the hero every day." he said, with a somewhat fatherly concern.
-	"Good thinking..." Connor replied, nodding.
 
 Killing the Giant
 ______________________________
@@ -8707,9 +8759,9 @@ SCENE
 	"What's that?" Connor asked.
 	Chloe hesitated. "Okay, don't tell anyone this, promise?"
 	"Nah. I'm gonna break into the local news station and spill the beans." he snarked. "I promise."
-	She rolled her eyes and chuckled. "So... We're working with the police, on that 'mutant vigilante' case I told you about - apparently people are calling him the Werewolf now? Anyway..."
+	She rolled her eyes and chuckled. "So... We're working with the police, on that 'Werewolf' case I told you about..."
 	Connor leant in, listening intently.
-	"So, for some reason, they've put me on the case. I'm just a uni placement student! But still, they had me in during an autopsy, and, well..." she shuddered. "This... this thing. It was some kind of giant!"
+	"They had me in during an autopsy, and, well..." she shuddered. "This... this thing. It was some kind of giant!"
 	Connor looked at her for a second. "You autopsied the Giant?"
 	"You know about it?" Chloe asked, raising an eyebrow.
 	Connor thought quickly, and added "Yeah, I heard about it. Locals saying the Werewolf took down an 8 foot tall monster-man."
@@ -10142,7 +10194,7 @@ SCENE
 Naismith interviews the kid
 ______________________________
 SCENE
-	Chloe was in the lab, along with her supervisor. She was delivering a presentation to Louis Morland, the CEO.
+	Chloe was in the lab, along with her supervisor. She was delivering a presentation to Gregory Morland, the CEO.
 	"Go ahead, Miss Derrington." Morland smiled.
 	"Right away, sir." she nodded. "So, we've detected an abnormality in some of the Werewolf's blood."
 	"Do tell?" Morland tilted his head.
@@ -15226,7 +15278,7 @@ date - sparring practice
 ______________________________
 SCENE
 	It was a bitter, cold day in Drackhill. Rain pattered against the roof of a covert building in the east of Belson.
-	Within, the Commandant had met with Louis Morland. He was *not* happy.
+	Within, the Commandant had met with Gregory Morland. He was *not* happy.
 	"YOU HAD YOUR CHANCE, YOU WORM!" the Commandant roared, enraged.
 	"Commandant, sir... With respect, it was your decision to let the Werewolf escape captivity." Morland retorted.
 	"WHAT?!"
@@ -16040,7 +16092,7 @@ SCENE
 	"DCI Naismith." he answered.
 	"Detective. I've found something." Connor said in his Werewolf voice.
 	"A billion quid? Come on, let us have some good news for a change." Naismith quipped.
-	"One day." Connor chuckled. "Louis Morland. Dead in a clearly staged suicide. You have his address?"
+	"One day." Connor chuckled. "Greg Morland. Dead in a clearly staged suicide. You have his address?"
 	"We do. Okay, thanks mate - I'll come over first thing. I'm back in action now - that serum worked a treat."
 	"Good to hear - Contact me when you find something. I'm guessing your case is about to become complicated."
 	"You have no idea. With all the coppers who died yesterday, there's a real chance TO-39 might have to just refocus on other cases. We'll end up turning a blind eye to you and yours." Naismith mused.

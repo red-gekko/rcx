@@ -208,6 +208,41 @@ MKUltra
 			Portal creation
 			Super-Agent physicals
 
+	Flux
+		Name:
+		Powers:
+			Chronokinesis
+				Can reverse time up to 38 seconds backwards
+				Can see up to 24 hours ahead with semi-decent accuracy
+				Can speed up their relative timestream - from outside they're going 4x as fast, from their perspective everything is running at 25% speed
+				Can put others in a "stasis field" for a few minutes
+				Can read the history of things in their immediate vicinity; essentially psychometry
+			Super-Agent physicals
+
+	Necro
+		Name:
+		Powers:
+			Radiokinesis - generates an aura of ionizing radiation
+			Immunity to radiation sickness beyond a repulsive physical appearance
+			Super-Agent physicals
+
+	Mirage
+		Name:
+		Powers:
+			Hallucinations/Illusions
+			Can induce mental breaks in targets
+
+	Triclops
+		Name:
+		Powers:
+			Third eye that unleashes waves of Void Energy
+
+	Untouchable
+		Name:
+		Powers:
+			Intangibility/Phase shifting
+
+
 Prometheus Institute
 
 	Mastermind
@@ -258,13 +293,13 @@ The Commission
 			Cybernetic harness
 
 	Monarque
-		Name: Henri Messier
+		Name: Henri Renard
 		Powers:
 			Gadgets
 			Master martial artist
 			Peak human physicals
 
-	Ms. Magpie
+	Lockpick
 		Name:
 		Powers:
 			Super-Agent physicals
@@ -296,32 +331,60 @@ The Commission
 			Mastery of explosives
 		Motive: Chaos; rulebraking; The Purge
 
+	Tangle
+		Name:
+		Powers:
+			Super-Agent physicals
+			Four arms
+
 Blood Court
 
 	Kemetar
 		Name: Kemetar
 		Powers:
+			Resurrective Immortality
+			Knowledge of Ritual Magic
+			Combat Mastery
+			Eons of experience
 
 	Masters Zhang
 		Name: Zhang Daozhi
 		Powers:
+			Vampirism
+			Necromancy
+			Telekinesis
+			Shadow teleportation
+			Blood Magic
 		Name: Zhang Zhiwei
 		Powers:
+			Minor Telekinesis
+			Vampirism/Dhampyrism
+			Blade Mastery
 
 	Watcher/Gargoyle
 		Name: John H. Pierce
 		Powers:
+			Shapeshifting (Gargoyle form)
+			Vampirism
+			Genius intellect
 
 Optimates
 
 	Dominus
 		Name: Gordon de Vere
 		Powers:
+			Daemonology
+			Compelling Voice
+			Telekinesis
 
 	Commandant
 		Name: George Davis
 		Powers:
+			Werewolf-level physicals
 
 	The Artist
 		Name: Marcel Vacher
 		Powers:
+			Biomanipulation/'Fleshcrafting'
+			Super-Agent physicals
+			Several body doubles prevent permanent death

@@ -7974,19 +7974,59 @@ CHAPTER
 
 
 ______________________________
+FLASHBACK
+	It was late August, 2002. The sun was finally setting after a long, warm summer's day.
+	Police Constable Henry Naismith - young, fresh-faced, and inquisitive - looked at the scene and grimaced.
+	A woman's body, with a chalk outline. Her neck had been snapped and her eyes were wide open. Bile had pooled at the back of her throat.
+	The flash of an FI's camera shook him from his stupor. He pulled out his notebook, and began writing.
+	"Naismith." his superior, DCI Dorsey, nodded. "Alright, give it to me."
+	"Cause of death is the broken neck." he began unsurely.
+	"Yeah, no shit." Dorsey grinned. "Come on. You want to make Detective, you've gotta start spotting things deeper than that."
+	"Right, sir." Naismith nodded. "Um... trauma to the fingers - the tips have been removed. Judging from the lack of blood spatter, I'd say post mortem."
+	"And what does that tell us?"
+	"That... she managed to scratch the killer in the struggle, and they removed the fingertips to avoid leaving any DNA behind?"
+	"Good." Dorsey nodded. "Anything else?"
+	Naismith looked down, deep in thought. "I... can't see anything else, sir."
+	"Look at the pock marks." Dorsey grinned. "She was a heroin addict."
+	"I... I don't see how that's relevant."
+	"Don't you?" Dorsey scoffed. "Clearly, she was selling herself to pay for her habit. Tragic, I know."
+	"I'm... I'm not sure that's relevant either, sir." Naismith said, trying to hide his scowl.
+	"Right... well then, that's why I'm DCI, and you're PC." Dorsey chuckled. "We'll leave it with Vice."
+	Naismith looked away, enraged. He looked down at the dead girl, and faltered.
+	In that moment, he felt like he could be sick.
+	He wanted justice.
+
+	That night, he absentmindedly twirled his fork in his food.
+	"If my cooking is that bad, all you've gotta do is say, babe." a woman grinned.
+	"Hm? Oh, sorry love..." he sighed.
+	"Hey..." she began softly. "Is it work?"
+	He sighed again, looking off into the distance.
+	"You know... maybe I should've been a firefighter instead." he mused.
+	"What do you mean?" she asked, sitting next to him.
+	"I dunno... no one ever looks at a burning house and goes 'it was asking for it,' I guess."
+	The woman smiled softly, and pulled his head to her shoulder.
+	He took a deep breath, and nuzzled in.
+
+Old Belson Strangler
+______________________________
 SCENE
 	It was a cold evening in Drackhill. If you were DI Naismith, it was perhaps a little colder.
 	He looked on at the sight - a young woman laid sprawled on a hotel bed, her eyes bloodshot and bulging. Her neck sat at a sickening angle, and was horrifically bruised.
 	"She was found an hour ago by cleaners." Nina began. "We're working on finding an ID, but... well, the mayor's push to crack down on sex work means she probably wasn't carrying one."
 	"Anything on CCTV?"
-	"No, sir." she shook her head. "We've got some images, but the killer knew to avoid showing his face at all times."
+	"No, sir." she shook her head. "We've got some images - enough to identify the suspect as male, of average height and build. But he knew to avoid showing his face at all times."
 	"Damn..." he muttered. "Poor girl."
 	He walked a little closer, getting a better look at the body.
-	"...clever girl." he nodded.
+	"Fuck... not again." he whispered.
 	"Sir?"
-	"Her fingernails." he pointed. "Looks like she got a handful of him."
-	He turned to an FI. "Scrape her nails, get a DNA sample - quick as you can, please."
-	"Yes, sir." the FI nodded, pulling out his kit.
+	"Her fingertips." he pointed.
+	"She must've got a handful of him." Nina sighed, looking at the carved stumps.
+	"That implies our killer knows a thing or two about forensics." Naismith mused.
+	"You said 'not again?'" she asked.
+	"Thirteen years ago. Very similar case." Naismith sighed. "Never found the killer."
+	"You think it's the same guy?"
+	He rubbed his temples.
+	"I don't believe in coincidences. Not anymore."
 	Nina walked over, and sighed.
 	"It's... horrible. She must've been so scared." she lamented.
 	"There aren't many worse ways to go..." he shook his head in disgust. "We'll get her to the pathologists, see if..."
@@ -7999,11 +8039,16 @@ SCENE
 	Nina looked away. "I... I hope I feel this way every time, sir. Just like you."
 	Naismith smiled softly. "You're a good cop, Nina. Not a lot of those."
 	"I've got a pretty good mentor." she chuckled.
+	"Sir!" an FI called over.
+	Naismith walked to him.
+	"We found this." the FI nodded, passing over a note.
+	"WEREWOLF" it began. "LOOK AT WHAT I DID. DO YOU LIKE IT?"
+	Naismith shook his head. "Jesus..."
 
 	Atop Rydon Tower, the two Werewolves perched, overlooking their city.
 	"Alright, I'll take Southside." Connor began. "You alright on Caldermouth? I've heard there's been some muggings lately, so it'd be good if we could cover both."
 	"Sounds fun!" Sparky barked happily. "I like doing this."
-	"Feels like a ritual." Connor chuckled. "Two Werewolves climp atop the tower, and plan their nightly hunt."
+	"Feels like a ritual." Connor chuckled. "Two Werewolves climb atop the tower, and plan their nightly hunt."
 	"Well, maybe it should be a ritual?" Sparky tilted his head. "If we were normal wolves, we'd bring back our kills that night too. Obviously what we do is a little different - but maybe we should meet back here and report?"
 	"That's... that's a really good idea, bud." Connor smiled. "It would make the night feel more... organised, I guess."
 	Sparky nodded. "Right, well... I guess it's time to crawl down this tower."
@@ -8047,6 +8092,13 @@ SCENE
 	"SECURITY?!" the old man screamed at last.
 	"Our cue." Connor chuckled. He rushed to the balcony, and leapt off from it. Stretching out, he rode the winds away.
 	"Sorry about the mess!" Sparky barked happily, before likewise gliding away.
+	The great and the good looked on in horror.
+	"What the hell was that?"
+	"What's going on?"
+	"Are we being attacked?"
+	Their thoughts were interrupted by a weak clapping.
+	A very old man in a wheelchair was laughing hysterically.
+	"Oh, the entertainment gets better every year!" he cheered.
 
 First Body Found + Flight of the Werewolves
 ______________________________
@@ -8116,13 +8168,20 @@ Daycare + Autopsying the Giant
 ______________________________
 SCENE
 	It was dark, now. The city's typical rains had returned, and splashes filled the ears of its residents.
-	DI Naismith, however, appreciated it. As he came out of the forensic tent, he looked up, letting the water fall onto his face. He sighed deeply, and shuffled under cover, to light a cigarette.
-	Nina stepped forward, her face pale.
-	"Twice in as many days..." she finally whispered.
+	DI Naismith, however, appreciated it. As he came out of his car, he looked up, letting the water fall onto his face. He sighed deeply, and walked into the forensic tent with Nina.
+	Both went pale upon seeing the corpse. A young man, no older than 20 - his head slumped the same as before.
+	"Twice in as many days..." Nina finally whispered.
 	"Out in public, to boot..." Naismith muttered. "Did you get the FI report this afternoon?"
 	She shook her head.
-	He sighed. "DNA on the fingernails of last night's vic. Matches a cold case from a couple of years ago. This is a serial killer."
-	"Good god..." Nina shuddered. "How are we supposed to catch him? He knows exactly how to avoid CCTV, and it's not like we can patrol the whole city at night..."
+	He sighed. "No trace of semen. Couldn't get anything useful in the saliva swaps, either."
+	"That means he just wanted to kill her." Nina shuddered. "It's a serial killer."
+	"Same MO here - broken neck. Fingertips are intact - but he's wearing gloves, so presumably no scratches." Naismith sighed. "The victim being male is a change, though."
+	"What are you thinking, sir?" Nina tilted her head.
+	"That we assume nothing." Naismith nodded. "This could be a copycat, it could be a serial killer, it could be a coincidence."
+	"No... it's the same guy." she shook her head, pointing. Naismith looked over, and sighed.
+	Another note.
+	"WEREWOLF. I HOPE YOU LIKED LAST NIGHT. DO YOU LIKE TONIGHT? I'LL DO BETTER TOMORROW."
+	"He's going to strike again. Good god..." Nina trembled. "How are we supposed to catch him? He knows exactly how to avoid CCTV, and it's not like we can patrol the whole city at night..."
 	"No..." Naismith sighed, looking up. There, he saw a flash of red from a rooftop above.
 	"...but *he* can..."
 
@@ -8132,9 +8191,14 @@ SCENE
 	"By our estimates, 45 minutes, give or take." Naismith shrugged.
 	"Damn it..." Connor sighed. "If I'd been here sooner..."
 	"Well... maybe you can still help." Naismith hesitated. "Lord knows I hate this, but we're getting fuck all from the chief on this. We're purely reactive... maybe you keep a lookout, we find this guy."
-	"Good." Connor growled. "What's his rough area of operations?"
+	"Good." Connor growled.
+	He handed him the note.
+	"What the fuck..." Connor muttered.
+	"Seems you've got a fan." Naismith shrugged.
+	Connor shot him a death glare. He raised his hands halfheartedly, and Connor relaxed.
+	"What's his rough area of operations?"
 	"South Belson." Naismith nodded. "But he might try to mix it up a little now."
-	Connor rose, flexing. "Then I'll cover the city. But first... a little investigation of my own."
+	"Then I'll cover the city. But first... a little investigation of my own."
 	"What do you mean?" Naismith asked, before shaking his head. "Actually, best I don't know."
 	Connor nodded, and morphed up his glider. Naismith watched in awe as he took off - and then tried not to laugh as he crashed into a wall.
 	"Still getting the hang of it!" Connor barked, sticking to the wall and climbing. Naismith cleared his throat, and headed back down.
@@ -8147,20 +8211,22 @@ SCENE
 	"Nice game." he chuckled.
 	"JESUS CHRIST, LUPO, YOU SHOULD WEAR A *FUCKIN'* BELL!" he roared, jumping up.
 	"Next time, I'll just say 'Boo!'" he snarked.
-	"Fuck... what do you want?" Vitale caught his breath, pouring himself a drink.
+	"How long have you been there?"
+	"Long enough to keep score." Connor shrugged. "To be fair, you're actually quite good."
+	"What do you want?" Vitale caught his breath, pouring himself a drink.
 	"Information." Connor began, stepping into the light. "What do you know about the stranglings?"
-	"Oh, that businesss..." Vitale grimaced. "It's not one of my boys, I'll tell you that. If it were, he'd be hanging from a lamppost by his guts."
+	"Oh, that business..." Vitale grimaced. "It's not one of my boys, I'll tell you that. If it were, he'd be hanging from a lamppost by his guts."
 	"Good." Connor nodded, reassured somewhat. "Any idea who it might be?"
 	"Maybe... what's in it for me?" Vitale grinned.
 	Connor's eyes flashed red. Vitale raised his hands.
 	"Joking, Lupo. God." he chuckled. "Alright, I asked around. According to one of our girls, some creep put his hands on her neck while she was working, so she pepper sprayed 'im, and ran off. Scared the Jesus out of her - she ain't been out since."
 	"Did she get a look at his face?"
-	"Yeah, a good one. Ginger, clean shaven - small scar on his chin. Older side - mid-to-late forties. She weren't sure on his eye colour, but she reckons it weren't blue."
+	"Yeah, a good one. Ginger, stubbled - small scar on his chin. Older side - mid-to-late forties. She weren't sure on his eye colour, but she reckons it weren't blue."
 	"Anything else?"
 	"She don't speak enough English to identify a region, but he had a strong accent. Definitely not local." Vitale shrugged. "And he had big ears, apparently."
 	Connor nodded. "Alright, that helps. Tell all your girls to stay inside. No outcalls, no street work."
 	"Already done." Vitale smiled. "I'm not a total cunt, you know."
-	"I know. That's why your internal organs are still internal." Connor grinned. "The Syndicate are doing the same... but the Patriots don't give a fuck."
+	"I know. That's why your organs are still internal." Connor grinned. "The Syndicate are doing the same... but the Patriots don't give a fuck."
 	"It's probably one of them." Vitale scowled. "Though, I don't suppose they'll be as forthcoming as me..."
 	Connor chuckled. "You're a decent stool pigeon, Vitale."
 	"And you're fucking terrifying." Vitale snarked back. "Arrivederci, Lupo. Buona caccia."
@@ -8171,7 +8237,7 @@ SCENE
 	Morning had come and gone. The sun was preparing to set, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
 	"Alright..." he began. "We got a rough description from our... let's call him our informant."
 	"There are worse words." Nina chuckled. Naismith grinned.
-	"The suspect is ginger, middle aged, clean shaven, and a scar on his chin."
+	"The suspect is ginger, middle aged, stubble beard, and a scar on his chin."
 	"Sir..." Nina began, unsure. "I know this breaks a lot of protocols, but..."
 	"It's too risky." Naismith shook his head.
 	"I know the risks, sir. I'm willing." she replied firmly.
@@ -8181,12 +8247,6 @@ SCENE
 	"Dead certain, sir."
 	He sighed. "All right. But I'm staying right behind you. The moment we spot the suspect, we're grabbing him."
 	"Damn right we are." she nodded. "Let's do this."
-
-	"Ugh... what a day." Alison grinned, locking up.
-	"Fun, though." Amy beamed. "I feel like I learned a lot."
-	"You're picking up the ropes fast." Alison smiled. "See you in the morning?"
-	"Yeah, see you." Amy nodded, putting on her backpack and walking to the bus stop. She cursed as she realised there weren't any for another hour.
-	"Ugh... fuck it." she shrugged, beginning the long walk home.
 
 	The two Werewolves looked down at the city from their towertop perch.
 	"Alright... you ready?" Connor began.
@@ -8207,80 +8267,250 @@ SCENE
 	"Yes." she nodded curtly. "I--I mean, yeah, baby."
 	She cringed slightly, as the man unlocked his door. She opened it, and in an instant, Naismith rushed over with his gun.
 	"ARMED POLICE! GET OUT OF THE FUCKIN' CAR, NOW!" he screamed.
+	The man ducked down, and hit the accelerator as hard as he could. The car roared off, as Nina fell down, clipped by the door.
+	Naismith rushed over, helping her to her feet.
+	She looked up, as a winged monster glided past.
+	"I'M ON IT!" Connor barked.
+	The car was going fast. Very fast. It skidded and swerved along the tarmac, leaving tracks in the road.
+	Connor glided as fast as he could, but he could barely keep pace.
+	"No hard stops!" Naismith yelled. "We need him alive!"
+	Connor scowled, but nodded. He landed on a rooftop and sprinted as fast as he could, before taking off again. He swooped downwards, using his momentum to launch ahead. Then, his suit rippled and shook.
+	He morphed a cluster of caltrops, and threw them into the ground ahead with enough force that some stuck in. His glider dissolved, and he morphed honeycomb-like pad on his boots, landing down hard enough to crack the pavement.
+	The car ran right into the trap, and skidded out, crashing into a storefront. Mannequins and designer bags pelted it, as it came to a slamming halt.
 
-	Amy had her headphones in, blaring some niche punk band. She absentmindedly looked both ways at the zebra crossing, and started walking.
-	Before she'd made it halfway across, a car slammed into her. She fell sideways, hitting her head against the pavement. The world went blurry as she felt a damp rag be pressed against her face. She struggled, kicking and striking wildly, but soon it all went black.
-	The driver dragged her to his car, and threw her into the back seats. He brushed his ginger hair out of his face with his hand, and got in the car. He stroked his clean, scarred chin, and smiled devilishly.
-	"That's right, love. Go to sleep." he whispered.
+	Connor walked over, his eyes burning crimson. He grabbed the car door and ripped it off, and dragged the driver out.
+	"Oh god, I'm sorry!" the man cried as he slammed him into the road.
+	He ripped off the surgical mask, and went pale.
+	"Oh, for fuck's sake..." he snarled upon seeing the man's clean-shaven face.
+	"I'm sorry, I'm so sorry... my wife, she's---"
+	"Shut the fuck up." he barked.
+	"Wrong man..." Nina grimaced.
+	"Which means he's still out there tonight." Naismith noted grimly.
+	"Fuck..." Connor sighed. He handed Naismith a small object.
+	"Put that in your ear. Press it to talk." he nodded.
+	Naismith hesitated, but did so.
 
 Stinging the Strangler
 ______________________________
 SCENE
-	"Oh god, I'm sorry!" the man cried as Naismith slammed him into the road.
-	He ripped off the surgical mask, and went pale.
-	"Oh, shit..." he snarled upon seeing the man's beard.
-	"I'm sorry, I'm so sorry... my wife, she's---"
-	"Shut the fuck up." he barked.
-	"Wrong man..." Nina grimaced. She looked up, as a winged monster glided down.
-	"THERE YOU ARE..." Connor snarled.
-	"Not him!" Naismith roared. "He's still out there."
-	"Shit..." Connor muttered, sprinting vertically up a wall and taking off once more.
+	"Go ahead, Naismith. In your own words." Dorsey began. His voice was shaky with rage.
+	"As I said in my report, sir... The Werewolf intervened during our sting. He stopped the car, but we were able to confirm the suspect was not in fact who we were looking for. The Werewolf left shortly after." Naismith explained. He was in a chair across a fancy oak desk, but it felt like he was cuffed to an interrogation suite. "We came across the third body within the hour. The Werewolf continued searching, but as far as we know, nothing came of it."
+	"And you just... let him leave?! After his actions destroyed a storefront, and put a man in the hospital? DO YOU HAVE ANY IDEA WHAT KIND OF *SHITSTORM* THIS'LL CAUSE?!"
+	"In my defence, sir, he can fly now." Naismith cut back, forcing away a smirk.
+	"Are you still working for me, Naismith?" Dorsey asked, in tranquil fury.
+	"Yes, sir."
+	"THEN YOU MAKE EVERY EFFORT TO ARREST YOUR SUSPECTS!" he exploded. "That man is a dangerous terrorist! I do *NOT* want to hear excuses!"
+	"Understood, sir." Naismith nodded. "Is that all?"
+	Dorsey scowled. "You're on thin ice, Naismith. One more fuck-up, and you're done."
+	"Oh, right." he rolled his eyes. "And what would we count as a fuck-up? Say, if I'd done what you did and assigned this case to Vice?"
+	"GET OUT!" Dorsey screamed. Naismith rose, and wanted to spit. Instead, he left.
+	Dorsey rubbed his temples, and dialed a number.
+	"Good evening, Commandant! I'm so sorry for calling you on short notice."
+	"What do you want, Dorsey?" the Commandant replied dismissively.
+	"The recent stranglings in Belson - they're not connected to our friends, are they?"
+	The Commandant chuckled, then laughed. "Thank you, Dorsey. I needed that. To think you used to be a detective!"
+	Dorsey cleared his throat. "Um... you're welcome, sir."
+	The Commandant paused, letting the moment hang - like a cat with a mouse. Finally, he inhaled, audibly grinning.
+	"How did you make Chief without us? Oh wait, that's right - you didn't." he chuckled again. "No, it's not ours. Do let me know when you find out who, though - I love a good mystery."
+	"Th-thank you, sir. Hail Victory." Dorsey said nervously, and cut off the call. He sighed deeply.
 
-	Most people stay down after that. A hit to the head, let alone chloroform to the face... most people stay down.
-	Amy Zhou is a lot of things. Sister. Fighter. Orphan.
-	She is *not* most people.
-	Her eyes slowly opened, and her heartbeat quickened. She looked around, without moving a muscle.
-	The driver was going at speed. She shook as the car swerved around a sharp turn, feeling the wheels skid.
-	Without any hesitation, she grabbed the handbrake, and yanked it upwards.
-	The car skidded harder, and its backside slammed into a wall, crumpling. She flung from side to side, as did her attacker.
-	"Rowdy bitch!" he snarled. He pulled out a pistol, and whipped her in the temple. Her head fell down, but she held onto consciousness with an iron grip.
-	"HELP!" she screamed.
-	The man laughed. "Nice try, bitch. No one's gonna hear you."
-	Her head was pounding, and she felt a drop of blood from the pistol barrel's impact. Despite that, she smirked slightly.
+	An hour had passed. Dorsey was sat at a wide table next to Mayor Norris, with a pack of reporters seated before them
+	"Have the police managed to identify a suspect in these killings?" one reporter asked.
+	"We have no evidence to suggest they are related at this time. We are treating this as two separate incidents." Dorsey said hurriedly.
+	"Is it safe for people to walk the streets at night?" another asked.
+	"Yes. These killings were isolated incidents, and we suspect they were connected to the victims' gang affiliations." Dorsey nodded.
+	"What gang affiliations?"
+	"The victims were respectively a prostitute, a mugger, and a drug dealer." Dorsey explained. "We do not believe there is a risk to the general public."
+	The clamour of reporter noise was cut off by one voice in particular.
+	"Zack Powell, Channel One." he began. His wounds were mostly healed, and he stood with confidence. "Mayor Norris, your push to crack down on sex workers and petty criminals has led to many vulnerable people being forced to hide away from authorities. Do you accept that this could have made it easier for the killer, or killers, to commit these crimes?"
+	"That is absolutely absurd." Norris snapped. "How dare you make such a slanderous accusation!"
+	Zack grinned, and turned. "Chief Constable, you said that these incidents are unrelated. Why is it then, that a previous case in which you were SIO has the exact same MO and setup, only to be passed off to Vice? Is this not a sign of a serial killer that you failed to catch before?"
+	Attendees gasped at the accusation.
+	"I--That is completely--I mean, if a case was reassigned, that would've been done according to proper conduct regulations. But I am not here to comment on decades-old cases that may or may not exist."
+	"I never said it was a decade old, sir." Zack smirked.
+	Dorsey froze. "No, I--" he stammered.
+	"Doesn't the intervention of the Werewolf last night prove that the police force under your leadership is woefully incapable of dealing with this threat?" Zack pressed on. "Why have you not provided the investigating team with the proper resources?"
+	"Enough. Get him out." Norris snapped, motioning to an officer.
+	"Fine, I'll go. But the truth won't." Zack hissed, walking out. He trodded down the steps of City Hall, and pulled out his phone.
+	"Inspector, that was perfect. You should've seen their faces." he grinned.
+	"I'll make do with my imagination." Naismith chuckled. "Nice work, Mr. Powell."
+	"Hey, it's all thanks to you. Also... pass on my thanks to our mutual friend."
 
-	Connor's hearts froze. His blood stopped in its veins.
-	He knew that voice.
-	"SPARKY!" he roared from the skies. In moments, his packmate joined him, as they tore through the sky towards the noise.
-	They spotted it. The speeding car, down below.
-	Too fast to do a hard stop without risking her... no, this had to work.
-	He landed on the rooftops, sprinting as fast as inhumanly possible. He pulled out his burner phone, and called a number.
+Dorsey browbeats + Press Conference
+______________________________
+SCENE
+	The mood in the city was grim - well, grimmer than usual. Atop Rydon tower, Connor and Sparky overlooked the city.
+	"We need to catch this bastard." he sighed heavily.
+	"We will." Sparky nodded. "It just might take some time."
+	"I can almost hear him laughing." Connor growled. "Taunting me. Those fucking notes..."
+	"Hey..." Sparky began softly. "Why don't you go out tonight? I'll cover the city."
+	"I can't. We need to find him." Connor tilted his head.
+	"You could go and see that Johnny guy?" Sparky suggested. "I think the police had a good idea last night. I'm sure he can help us come up with another trap."
+	Connor sighed. "Yeah... Alright, I'll pop in. But after that, I'm coming back out. Can't let you have all the fun."
+	"Yeah, yeah." Sparky grinned. "You just wanna practice gliding, don't you?"
+	"I did alright last night!" he protested. "But... yeah, that too."
 
-	Naismith and Nina were in the patrol car when his phone started to ring.
-	"DI Naismith." he answered cautiously.
-	"SUSPECT VEHICLE SPOTTED!" Connor roared. "HE'S GOT SOMEONE! GOING TOO FAST TO SAFELY STOP!"
-	"On it!" Naismith barked, driving forward. He skidded onto the roads, swerving violently. "Where are you?"
-	"HEADING NORTH ON KING'S ROAD!"
-	Naismith thought for a moment, before his eureka moment.
-	"Don't stop him - but try and herd him towards Dexter Avenue."
-	"RECEIVED!" Connor shouted, taking back to the skies. He smashed into the ground, cracking into the tarmac.
-	"Oh, Jesus!" the killer gasped, swerving out of the way. Connor pursued on foot, as they approached T-Junction.
-	There, Sparky crashed down at the left road. The killer swerved right, his face pale as a ghost.
-	Amy grinned. "You might as well just shoot yourself." she whispered.
-	The car sped up Dexter Avenue. The killer was in a blind panic, but he spotted Nina in his periphery.
-	"NOW, NINA!" Naismith roared. She threw out the road spikes, but the driver reacted just in time. He mounted the pavement, and she dived out of the way, as he cruised on past.
-	"Oh, no you don't..." Amy snarled. She used all her might to force herself up, and grabbed the steering wheel.
-	The killer pushed her hand, but she'd already gripped. The wheel spun leftwards, and the car smashed into a storefront. Mannequins and designer bags pelted it, as it came to a slamming halt.
+	Trey walked back to the booth, carrying the drinks for everyone. He had brought a jug full of cocktail, and stacked glasses.
+	"Enjoy, ladies." he grinned, passing them out.
+	They smiled, and took them, as he sat down.
+	"So, Amy - how was work?" Bea asked, smiling warmly.
+	"Yeah, good thanks!" she smiled back. "I love it so much."
+	"Aww, bless ya." Trey chuckled happily. "Beats serving coffee and doing tattoos, eh?"
+	"Eh." she shrugged. "I liked those jobs, but... yeah, working with dogs all day is a dream come true."
+	"Plus, it'll help with the veterinary course you wanted to do." Chloe nodded.
+	Amy sighed. "I'm still not sure if I'm gonna apply or not."
+	"You could do an apprenticeship?" she suggested. "Like my job at Morland."
+	"That's a good idea!" Bea nodded.
+	Amy leaned back. "I'll think about it."
+	At that, Connor arrived at the table.
+	"Yo!" Trey cheered, hugging him. "Look who decided to come out after all."
+	"Hey, guys!" Connor smiled warmly. "Sorry... been so busy with work. I've just gotta check in with my boss..."
+	He noticed the group look saddened, and quickly cleared his throat,
+	"...but, that can wait. I'll get the next round?"
+	Amy grinned. "Bribery. I like it."
+	"Hey, it works on me." Bea shrugged, chuckling.
+	Chloe smiled warmly. "It's good to see you again."
+	"Hah... yeah, it's good to see you guys too." Connor blushed, sitting down. He poured himself a drink from the pitcher.
+	"How come you've been so busy?" asked Bea.
+	"Oh, you know..." he shrugged evasively. He sighed. "You guys've heard about the... the murders?"
+	"God, who hasn't?" Chloe nodded. "Why is that making you busy?"
+	Trey gasped. "Oh my god. It's you! You're the murderer!"
+	Connor shot him a death glare, and he cackled with laughter. The others let out subdued chuckles.
+	"Not that, obviously." Connor sipped his drink. "No, I've... me and Johnny are looking into it."
+	"You are?" Trey tilted his head. "How?"
+	"Asking around, mainly. We got a description of the bastard's face from Vitale - we gave that to the cops." he shrugged.
+	"Oh, shit." Amy shook her head, before giving him a knowing glance.
+	"Wow. That's amazing." Chloe nodded proudly. "We need more people like you."
+	"Yeah, I'll say." Bea chimed in. "Did you hear the Werewolf was out last night?"
+	"Oh yeah. He got the wrong guy." Connor sighed. "Smashed up a storefront for nothing."
+	"At least he's trying." Amy shrugged. "More than can be said of the police."
+	Connor sipped his drink, shuffling slightly.
 
-	Connor went pale under his mask, and rushed forwards.
-	"Amy!? AMY?!" he begged. Naismith looked at him, confused - but banished the thought. It could wait.
-	The killer stumbled out of the car, bloodied and bruised. He held Amy in a chokehold, pressing his pistol into her temple. She scowled defiantly.
-	"Nobody move! Or I blow this bitch's brains out!" he roared.
-	"Idiot..." she spat through the pain. "Shoot me, and you're fucking dead."
+	"Connor!" Johnny began, walking over. "Can I have a word?"
+	"Uh, yeah, sure." Connor nodded, rising.
+	Then, his ears pricked up. The hairs on the back of his neck stood to attention, and his twin hearts thumped in his chest.
+	A car. A car was speeding towards them.
+	"Everyone, move." he said firmly.
+	"Huh?" they replied.
+	"MOVE!" he roared, throwing the table in the air and grabbing. Trey and Amy were caught by his left, while Chloe and Bea by his right. He dived out of the way, just as the car slammed into the space previously occupied by the booth.
+	"HOLY FUCK!" Trey gasped, scrambling to his feet.
+	The group scurried back, as the driver side door kicked open. A man with red, balding hair, a stubble beard, and an assault rifle with a drum magazine stepped out. He fired into the ceiling.
+	"EVERYBODY LISTEN UP!" he roared. "DO AS I SAY, OR I'LL SHOOT YOU!"
+	Screams filled the air, but people raised their hands in panic. The gunman herded them into the space just ahead from the door.
+	"Now, everyone down on your knees. No sudden movements."
+	"Everyone, just do as he says." Johnny said, sinking down. "Let's not be stupid here."
+	"Clever man. Let's not be stupid!" the gunman barked.
+	People complied. Connor tapped his ear thrice, feeling his hidden earpiece buzz each time.
+	"You!" the gunman barked, pointing at Bea. "Get everyone's phones. Now."
+	"Okay, okay..." she nodded, holding her composure. She stood, and collected the phones. She got to Connor.
+	"I, uh... I need--"
+	"It's okay." he whispered. "We're gonna be okay. I promise."
+	"Is that him?" asked Amy.
+	Connor gave a subtle nod.
+	"Oh, fuck..."
+
+	The gunman stood behind the crowd, facing the main doors. He pulled out a megaphone, and began to speak.
+	"THIS IS A MESSAGE. TO THE *WEREWOLF!*" he roared. "COME HERE IN 20 MINUTES - OR EVERYONE HERE DIES!"
+	"Oh god, oh god..." Chloe gasped, pale as a ghost.
+	"We'll be okay." Amy whispered, hugging her.
+	Trey grabbed Bea's hand, and squeezed. She looked at him, and smiled softly.
+	Connor ran his hands through his hair. His heartbeats quickened.
+	"Fuck..." he whispered.
+
+Strangle a Horse
+______________________________
+SCENE
+	"YOU!" the killer barked at Pawel. "BARRICADE THE DOOR!"
+	"Okay, okay. I'm doing as you say." Pawel nodded, complying.
+	"Hold tight, bratan." Ivan said through Connor's earpiece. "Help is on the way."
+	Connor shuffled over to Amy.
+	"Don't." she whispered. "Not until you're sure there's no other way."
+	Connor's brow furrowed. "I don't care about my secret."
+	"You should. We've still got 18 minutes - enough time for your friends to help."
+	Connor sighed. He raised his finger to his ear, and leaned into it, as if he was scratching his earlobe.
+	"Sparky, if you can hear this - I need a distraction. ASAP." he whispered.
+	"Who are you talking to?" the killer asked, pointing his gun in Connor's face.
+	"I--I was praying." he quickly replied.
+	The killer laughed. "Good idea."
+
+	Another five minutes went by, tensely. Armed police arrived, and the killer barked his threats through his megaphone.
+	"Oh, I can't wait 'til he gets here..." the killer giggled maniacally.
+	"Please, let us go." Chloe pleaded. "The Werewolf will be here any minute."
+	The killer turned, scowling. "Do not speak. DO NOT SPEAK!"
+	"Chloe..." Connor whispered. "He's unhinged. Just keep your head down."
+	"We've got to try something!" she protested.
+	The killer stomped over, and looked at her.
+	"Oh... look at that scar." he whispered. "You're a bad girl, aren't you?"
+	Chloe's face contorted with rage, as did Bea's.
+	"Don't fucking talk to her like that!" she barked.
+	"EXCUSE ME?!" he screamed, aiming his gun in her face.
+	"Bea!" Chloe gasped, jumping in the way.
+	"LET THEM GO!" Connor roared, shoving him.
+	"Connor! No!" Trey barked, horrified.
+	The killer raised his gun, and then...
+	WHOOSH!
+	A black blur zipped behind them. The killer turned, his eyes moving frantically.
+	WHOOSH!
+	Another blur, this time in plain view.
+	"Oh... Ohhhh... He's here!" the killer sang.
+	With that, the lights cut out. People gasped and scrambled, as the killer turned his flashlight on.
+	"Where are you? Where arrre youuuuu?"
+	Two red orbs burned in the darkness. He pointed his flashlight at them.
+	The Werewolf stood, clad in armour, a vicious growl emanating from him.
+	He looked up at Sparky, who had sprawled into the vents. He nodded, and stepped forward.
+
+	"At last... it is so good to see you!" the killer grinned.
+	"What are you talking about?" Connor snarled.
+	"This! Us! Finally, we can get them all!"
+	"What?!"
+	"Yes! All this time, all this work... leading to this moment!" the killer chimed. "Oh... it is such an honour, sir."
+	"You're not making any sense." Connor scowled, his eyes glowing brighter.
+	"Oh, I'm sorry... I got carried away there." the killer giggled. "You and me! In the same room!"
+	He cleared his throat. "Did you get my letters?"
+	"Those notes..." Connor growled lowly.
+	"Yes! Did you like them? I tried to be like you, but I'm not as strong, I'm afraid."
+	Connor tilted his head, lost.
+	"I was a cop, before this." the killer mused. "I tried to make a difference, back in 2002, but no matter how many bad girls I throttled, it didn't do anything. But then... you came along. And I realised that's what we needed for our crusade."
+	"Our *what?!*"
+	"Our crusade? Our mission?" the killer asked, confused. "You know?"
+	"I don't." Connor shook his head firmly. "We don't have a 'mission.' You're a murderer."
+	"Yes, we do!" he protested. "You go big, I go small! We've been doing this all week! You take out freaks like that Giant, and I go after the... the *filth,* the *scum,* the *bad boys and girls...*"
+	"WE HAVE NOTHING." Connor snapped. "You're a monster who kills innocent people. And now... I'm going to--"
+	Before he could finish, the killer screamed. He *screamed,* wailing like a banshee.
+	"NOOO! NO, THIS ISN'T REAL! *YOU'RE WRONG!*"
+	Connor stepped back. Under his mask, he cocked an eyebrow.
+	"No... no... no no no..." he whispered. "We had... we had a mission, we..."
+	He looked up, scowling.
+	"You think they're innocent? All those *bad, bad boys and girls?*"
+	"Enough talk." Connor snarled. His wrists made a notable *shink!* as blades formed out from them. "You can keep crying when I see you in hell."
+	At that, the killer opened fire. Bullets slammed into Connor's chest, and he tanked them, his eyes aflame.
+	A distraction. The killer grabbed the nearest body - Amy - and held his pistol to her temple.
+	"NOBODY MOVE!" he screamed. "NO-ONE MOVES, OR THE BITCH GETS IT!"
+	"No!" Connor gasped, freezing solid. "LET HER GO!"
+	"Ohh... I will never understand how you can defend these *animals!*" he spat. "Look at her! You can tell she's a *bad--*"
+	"*LET! HER! GO!*" Connor roared. His voice boomed through the room, ringing in people's ears.
+	"Idiot..." Amy snarled. "If you shoot me, there's nothing stopping him from killing you."
 	"Maybe I like killing bad girls like you..." he snarled into her ear. "Everyone backs off, or she's dead!"
-	Naismith and Nina holstered their guns. "Okay, okay, it's alright." he said aloud.
-	"I can't get a clear shot." Nina whispered, dejected.
-	"It's alright." Connor said grimly. "He can."
+	He dragged her, placing his back against a wall.
+	"I can't do the same trick as before." Sparky whispered from the vents. Connor nodded, and raised his hands, stepping sideways.
+	"Let her go. You wanted me, you've got me. Don't do this." he pleaded.
+	"Oh... no, I thought I wanted you. But what I want... is JUSTICE!"
+	"Does this thing still work?" Naismith whispered into his earpiece.	"We can't get a clear shot."
+	Connor sighed. Then, his earpiece crackled.
+	"*I can.*" Ivan growled.
+	Connor sighed, his mind moving a mile a minute.
+	"Alright... it's alright..." he said softly. Then, he put his thumb up.
 
 	Ivan watched through his scope, his black-veined eyes tensing. He took a deep breath, and pulled Isabella's trigger.
 	Many people have claimed to be the best sniper in the world. Indeed, Ivan was certainly not the best human sniper.
 	But he was, unquestionably, the best sniper on Earth.
-	The bullet sailed from his makeshift nest atop Rydon Tower. It ripped through the air, smashing through an office window, and then another on the other side. It burned a hole into a balcony cover, and passed through the gaps on a metal ladder. It whizzed past Naismith's ear, lightly grazed Connor's neck, and finally slammed into the pistol's barrel, bending the metal apart before burying itself in his clavicle.
-	He yelped in pain, pulled the trigger, and it exploded in his hand, singing it. Amy's ear rang from the blast, but she knew exactly what to do. She leaned her head forward, and slammed it backwards, smearing his nose across his face.
+	The bullet sailed from his makeshift nest atop Rydon Tower. It ripped through the air, smashing through an office window, and then another on the other side. It burned a hole into a balcony cover, and passed through the gaps on a metal ladder. It whizzed past Naismith's ear, lightly grazed Connor's neck, and finally slammed into the pistol's barrel.
+	He gasped in shock, looking down at the gun. Amy's ear rang from the blast, but she knew exactly what to do. She leaned her head forward, and slammed it backwards, smearing his nose across his face.
 	Connor pounced forward, as she broke free from his grip. He wrapped his hands around the neck, and squeezed.
 	"*Do you still feel like a big man?*" he asked. His voice was terrifyingly, unnaturally calm. As if he was screaming so loudly, human ears could not register it.
 	He raised the killer up in the air. He frantically kicked, to no avail.
 	"Do you? *Do you?*" Connor repeated, his grip tightening.
-	Naismith walked over, as Nina helped Amy sit down and catch her breath.
+	Naismith walked over.
 	"Let him down." he said gently.
 	"Good one."
 	"I'm serious. Let him down." Naismith repeated.
@@ -8294,16 +8524,29 @@ SCENE
 	"It's alright... he'll face justice for this." Amy said softly.
 	Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into the man's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
 	"You took with these hands, and I take them in turn." Connor snarled viciously. "You're right. I do enjoy it. I enjoy cleaning up filth like you."
-	"Alright, enough." Naismith said half-heartedly. He took his gun, holstered it, and dragged the killer to the car.
-	"Amy... I'll get you to hospital, get you checked out." Nina said gently.
-	"Thanks." she nodded, clearing her throat. "Hey, Werewolf."
-	Connor looked up. She pounced on him, wrapping him in a bear hug. He embraced his sister.
-	"Thanks." she whispered through tears. He didn't reply, he merely cried under his mask. He and Sparky watched as she went on with Nina. Now alone, they morphed back into civilian clothes, and slowly walked home.
+	"Alright, enough." Naismith said half-heartedly. He took his gun, and holstered it.
+	"Earpiece." Connor whispered. Naismith subtly removed it, and placed it in Connor's hand.
 
-	Amy stepped outside the A&E department, aching but otherwise okay. Before she could get a sniff of the midnight air, she was bombarded by her friends.
-	"Oh my god, thank fuck you're okay..." Bea whispered, squeezing her tight.
-	Amy chuckled softly, returning the hug. Chloe joined, and then Trey. Finally, they released, and Connor came over. He wrapped his arms around her, and breathed out at last. Then, Sparky jumped onto his hind legs, and covered her in saliva. 
-	She giggled, and the gang took her home.
+	Connor looked back at the people in the shadows, his eyes cutting through the dark. People struggled to find their bearings.
+	He sighed, and melded into the darkness. He morphed back into clothes, and crept over with catlike tread, just as Sparky set the lights back on.
+	"Oh, thank god... it's over." Bea sighed, starting a group hug.
+	Connor hesitated, but joined in. When it broke, he embraced his sister. She returned it.
+	"I'm sorry... I'm sorry I didn't stop him..." he said, tearing up.
+	"It's okay... It's not like I wanted you to get shot." she replied, giving him a knowing nod.
+	"Still..." he sighed. "I'm your big brother, it's my job to do shit like that."
+	"You're 4 months older." she grinned.
+	"Still counts." he chuckled.
+	Johnny rose. "Alright everyone - go home. Go to your families."
+	He looked over at Connor, and smiled.
+	"And count your lucky stars this city has a hero."
+	The gang began to walk away.
+	"Come on, let's go home. I wanna see Sparky." Amy grinned.
+	"Oh yeah. Sparky will be at home." Connor said deliberately, pressing his ear.
+	"Oh, right!" Sparky barked, sneaking past them.
+	"Something in your ear?" Trey asked.
+	"Just the gunshots. It's... ringing." Connor quickly covered. He turned back, and looked at the Horse.
+	He sighed, but smiled softly.
+	One less monster in the city, at least.
 
 Justice?
 ______________________________
@@ -14814,7 +15057,7 @@ SCENE
 	"The battle of Grozny?" Connor tilted head.
 	"That's the one. We managed to evacuate most Soviet Loyalists that day, but we lost the SFSR. We had to retreat to the Georgian SSR, and regroup. That's when I joined the KGB."
 	"How have things been in Chechnya since then?"
-	"There's a Turkic group called the Kumyks who live here - they and ethnic Russsians make up the vast majority of non-Chechens here. Zamaldayev has taken to ethnically cleansing them. Currently, he's personally overseeing massacres."
+	"There's a Turkic group called the Kumyks who live here - they and ethnic Russians make up the vast majority of non-Chechens here. Zamaldayev has taken to ethnically cleansing them. Currently, he's personally overseeing massacres."
 	"Silver lining - he's exposed." Connor growled excitedly.
 	"Damn right. Okay, so - this is the plan. Anti-Zamaldayev forces have already started their attack on his position, but he's deployed Super-Agents. We go in, grab Zamaldayev. You kill his guards while I take him away. Sound good?"
 	"Sounds good." Connor nodded. "Let's put this monster down."

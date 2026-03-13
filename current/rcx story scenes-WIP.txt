@@ -3699,7 +3699,7 @@ SCENE
 	"Those stories humans tell about where the world came from?"
 	"Yeah, well remembered!" Connor smiled warmly. "The fight was between Catholics and Protestants - two different kinds of Christians. Where I grew up, in Derry, there's something similar - though it's not really about religion, that's just where the lines get drawn. Anyway, that's a story for another time."
 	"So why do we have these 'fireworks,' then?" Sparky tilted his head.
-	"Oh yeah - that's where we started, before I started infodumping." Connor grinned. "So, the plot was foiled. Parliament never got blown up, the king survived, and Fawkes was killed. After that, every year, we start a big fire, and burn a little doll of him, before sending fireworks to blow up in the sky."
+	"Oh yeah - that's where we started, before I went off infodumping." Connor grinned. "So, the plot was foiled. Parliament never got blown up, the king survived, and Fawkes was killed. After that, every year, we start a big fire, and burn a little doll of him, before sending fireworks to blow up in the sky."
 	Sparky paused, deep in thought.
 	"Human celebrations are weird. First that 'halloween' thingy, now this..."
 	"You'll like Christmas." Connor grinned. "We have a big meal."
@@ -3720,6 +3720,7 @@ SCENE
 	"Too right you will." the skinny one grinned as he left. "Boss, you want me to teach him a lesson first?"
 	"Leave him, Colin." the leader shrugged. "Rest of you lot - out."
 	The other patrons left - some muttering discontent, others going pale in fear. Either way, the pub cleared out. The barman headed into the basement, ostensibly to "check on the barrels."
+
 	As the people filtered out, their heartbeats were heard by something - two somethings, in fact - perched on a roof overlooking the pub.
 	Connor and Sparky's eyes glowed an eerie blood-red, scanning the site. Their augmented vision showed the world as an utterly alien picture of sound, smell, sight, thermals, electricity, and more.
 	"So... 15 of them, total - is that right?"
@@ -3736,7 +3737,15 @@ SCENE
 	"Where are we meeting tonight?"
 	"Back at the flat. Amy's working in the tattoo place again tonight, so we don't have to sneak around as much." Connor nodded.
 	"Okay. See you!" Sparky yipped, and leapt from rooftop to rooftop to begin his patrol. Connor morphed his costume up, and jumped down. He dropped from the second floor, landing onto the concrete below with a thud. His legs bent slightly with the impact, but he didn't flinch. He was getting better at ignoring what would kill a human.
-	He strode into the pub, and immediately, the skinhead squad drew their assortment of knives, clubs, hammers, and crowbars.
+	He sauntered in casually through the doors.
+
+	"Oi. Private party, cunt." one barked.
+	Another grinned. "You know Halloween was last week, right? Still... nice ninja costume."
+	Connor chuckled. "Thanks. I think it could use some more red, though."
+	A hulking man walked towards him, drawing a switchblade. "I can help with that." he growled.
+	Connor's fist shot out like a bullet, smearing the man's nose across his face. He threw him to the ground, and looked at his knuckles.
+	"Thanks! It looks better already." he quipped.
+	"GET HIM!" the skinheads roared.
 
 	The first man swung a knife toward him. Connor dodged, stepping into the strike and driving his fist into the man's gut, winding him. The man stumbled back, gasping for air. Connor didn't wait for him to recover; he swung a brutal right hook to his chin, sending him crashing to the ground.
 	A kick exploded from him, sending one man flying back into his comrades. He dashed in, lifting one by the chest and slamming him into a table, breaking it.
@@ -3771,7 +3780,7 @@ SCENE
 	"For fuck's sake!" Connor growled under his breath, tossing the pint aside and diving out the window in one fluid motion. Glass shattered as he leapt, just as bullets tore through the air, filling the space he had just occupied.
 	He landed in the alleyway below, but the officers were quick to follow. Connor sprinted, instinctively grabbing onto a nearby wall. His fingers latched onto it, and for a moment, he just stood there, eyes wide in realization.
 	He looked down at his gloved hands. The costume's gloves had morphed into a special adhesive, allowing him to scale the wall with ease. As this was active, his eyes burned red once more. Without a second thought, he began to climb, moving up the building like a spider.
-	As he reached the top, he took one last glance down, ensuring no one was close. He caught his breath - apparantly worn down from using the adhesive power, before sprinting across the rooftop, disappearing into the night.
+	As he reached the top, he took one last glance down, ensuring no one was close. He caught his breath - apparantly worn down from using the adhesive power - before sprinting across the rooftop, disappearing into the night.
 
 Hog and Hounds - Shotgun Scene
 ______________________________
@@ -3809,7 +3818,9 @@ SCENE
 	"Bad enough to leave scars on the face - but they'll live."
 	"Good lad. Anything worse than that on normal humans could be a problem."
 	"How did your mission go?" Sparky asked.
-	"Could have been worse... I got shot in the face with a shotgun, and all it did was piss me off. But like... I lost control. I killed a man."
+	"Could have been worse..." he shrugged. "I found out we can crawl up walls."
+	Sparky tilted his head, smiling. "That'll be handy! Saves us taking the stairs."
+	Connor chuckled, before turning grim. "I got shot in the face with a shotgun, and all it did was piss me off. But like... I lost control. I killed a man."
 	"One of the Agents?"
 	"No, a normal human... I regret that. I mean he had it coming, but still... I don't like killing normal humans."
 	"Why is that?" Sparky asked, tilting his head. "I mean, you're fine when we kill the Agents."
@@ -3830,7 +3841,7 @@ SCENE
 	"Better." Sparky said firmly. "Okay, fine, killing people isn't great. But if people don't want to be at risk, they shouldn't pull big guns on us when we show up. He wanted to kill you. If it had worked, he'd be happy. So why mourn someone like that?"
 	"It still feels... wrong." Connor sighed. "But you're right. No use mourning a Nazi, either way."
 	"That reminds me." Sparky tilted his head. "I've heard you say that word a few times. What's a 'Nazi'?"
-	Connor thought for a moment. "Nazis are people who believe that their 'race' is superior, and other races must either be enslaved or eradicated."
+	Connor thought for a moment. "Nazis are people who believe that their 'race' is superior, and other races must either be enslaved, eradicated, or otherwise removed."
 	"'Race'?"
 	"Yeah... 'Race' is a made-up idea we humans came up with to justify fighting each other." Connor continued. "Most Nazis believe that the superior race is called 'Aryans' - humans with pale skin, blonde hair, and blue eyes."
 	"Why does that make them superior?" Sparky asked, head tilted.
@@ -6221,8 +6232,17 @@ SCENE
 	"Oh?" Jones asked, curious.
 	"Look at the blood vessels - here." she motioned. "Tiny compared to normal. And numerous. He must have angiogenesis levels off-the-charts. It's a wonder he's not a lump of cancer already." she explained. "Such a massive number of vessels would allow minimal bleeding - since, as soon as the hand was cut off, the blood vessels would constrict to prevent exanguination. Having loads of small ones makes that process easier."
 	Jones stroked his chin, impressed. "Good find." he nodded. "I guess you could say you're rather 'handy', eh?"
-	Chloe rolled her eyes, but couldn't help but laugh. "When are they planning on incinerating it?"
-	"Tonight." Jones replied.
+	Chloe rolled her eyes, but couldn't help but laugh.
+	"Okay... let's take a look at the bones--Agh!" she gasped.
+	The hand's finger twitched slightly, before going still again.
+	"...Jesus." Jones shuddered.
+	Chloe breathed out. "It's still alive... barely, but still. It must be respirating anaerobically... we'd better hurry up and refreeze it before it starts to decompose."
+	"Rather you than me." Jones grinned. "We've got a cold box for that?"
+	She tilted her head. Jones stood up, and grabbed a metal box - it looked a little bit like a microwave.
+	"Cold box. It's basically a blast chiller you can dissect in." he explained. "There's these little ports at the back with gloves, and the tools are already in there."
+	Chloe shrugged, but placed the hand inside, and continued working.
+	"When are they planning on incinerating it?" she asked.
+	"Tonight."
 	"Tonight? That seems like a waste... Can you push it to tomorrow?"
 	"Sure thing - any reason?" Jones tilted his head.
 	"I think I can do some maths. Figure out specific things - punch force, impact resilience, et cetera..." she shrugged.
@@ -6260,9 +6280,9 @@ SCENE
 	"You too, Mr. Davis." she beamed, as he turned.
 	"Jones." he muttered.
 	"Commandant." Jones said back, as he left.
-	"Fucking monster..." Jones whispered under his breath.
-	"What was that, sorry?" Chloe asked, turning up her hearing aids.
-	"Oh, nothing." Jones quickly replied. "Let's get back to work."
+	"Fucking monster..." he whispered under his breath.
+	"What was that, sorry?" Chloe asked, turning up her hearing aids. "I, uh... didn't catch it."
+	"Oh, nothing." Jones quickly shook his head. "Let's get back to work."
 
 Chloe studies the hand
 ______________________________
@@ -8534,7 +8554,7 @@ SCENE
 	"I'm sorry... I'm sorry I didn't stop him..." he said, tearing up.
 	"It's okay... It's not like I wanted you to get shot." she replied, giving him a knowing nod.
 	"Still..." he sighed. "I'm your big brother, it's my job to do shit like that."
-	"You're 4 months older." she grinned.
+	"You're 6 months older." she grinned.
 	"Still counts." he chuckled.
 	Johnny rose. "Alright everyone - go home. Go to your families."
 	He looked over at Connor, and smiled.
@@ -8953,7 +8973,7 @@ SCENE
 	Connor nodded understandingly, both at Chloe and Sparky. "Sparky's got good judgement."
 	"What should we do?" asked Trey.
 	"I know his type." Connor muttered. "From the sounds of it, he'll want to isolate Bea from us. So, we don't let him. We make sure every single activity we do includes Bea. If she says 'I'm with Charlie', we invite him out too. And we bait him into overplaying his hand."
-	"There's a Christmas market on this weekend." Trey piped up. "Let's all go there."
+	"The Winter Wonderland is on this weekend." Trey piped up. "Let's all go there."
 	Connor grinned. "Sounds like a plan."
 	Chloe smiled, as fire died down.
 	"I'd better head off." she smiled, before looking up at the night sky.
@@ -8974,12 +8994,28 @@ SCENE
 Connor moves in + Draca Hill
 ______________________________
 SCENE
+	Drackhill is famous for being a grim, dour city. Constant rainfall, poverty, and gang warfare will do that.
+	Except for this one moment.
+	The Drackhill Winter Wonderland.
+	A running joke in the city was that there were cruel gods who controlled the weather. It seemed tonight, they were in a festive mood. The flakes of snow fluttered down into the valley, melting before they could settle. Still, as the gang approached the fairground gates, they grinned at the atmosphere.
+	"Alright, so - Bea and Charlie are in there already, getting coffee." Chloe began. "So, we meet up with them, and find something to do?"
+	"Bumper cars! Let's do bumper cars!" Trey cheered.
+	"Ah, someone's had sugar today." Connor snarked.
+	"Bumper cars!" Amy grinned. Sparky howled in agreement.
+	"...bumper cars it is." Chloe chuckled.
 
-Christmas Market - Ice Skating
+	"Here we go." Bea smiled warmly, placing down their cups on the table.
+	"Thanks." Charlie nodded, almost coldly.
+	"Hey..." she began, sitting down. "It's gonna be okay. I know you don't like big groups of people, but they're really friendly, I promise."
+	Charlie sighed, but nodded, just as the gang arrived.
+	"Heyooo!" Trey cheered. Bea rose and gave him a hug.
+	"Hey, guys!" she cheered, moving on to hug Chloe, Amy, and Connor - then giving Sparky a stroke behind the ears. Charlie seethed as he watched from the table.
+
+Winter Wonderland - Ice Skating
 ______________________________
 SCENE
 
-Christmas Market - Grotto Fight
+Winter Wonderland - Grotto Fight
 ______________________________
 SCENE
 

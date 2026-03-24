@@ -48,7 +48,7 @@ ETIOLOGY, EPIDEMIOLOGY, & PATHOPHYSIOLOGY
   In addition to the above, epigenetic markers, particularly DNA methylation of FOXP2 and acetylation patterns near the IRF5 promoter, are being investigated as potential severity predictors.
 
   VS appears to be more common among individuals of Eastern European, particularly East Slavic heritage. However, it is unclear if this is due to early detection bias resulting from original discovery and excessive testing in the USSR in the late 80's.
-  It was once erroneously assumed that excessive consumption of vodka resulted in higher incidence of AVS among Eastern Europeans, but this has been debunked as anti-Soviet propaganda.
+  It was once erroneously assumed that excessive consumption of vodka during pregnancy resulted in higher incidence of AVS among Eastern Europeans, but this has been debunked as anti-Soviet propaganda.
 
   CMDD (Chronic Melanogenic Dysregulation Disorder), a 'cousin disorder' where only the TYR mutations are inherited, is seemingly more common in southern Africa, particularly South Africa, though like VS in Eastern Europe, this may be the result of the specific variant being discovered in South Africa in the mid 90's. Hypotheses suggest that CMDD, which like VS provides minor resistance to HIV and other retroviruses, has resulted in a selection bias similar to sickle-cell anemia in malaria-prone regions. However, this has not been proven.
   Active cases of CMDD are believed to be prevalent in ~1 in 62,000 individuals, making it slightly rarer than AVS.
@@ -61,7 +61,7 @@ ETIOLOGY, EPIDEMIOLOGY, & PATHOPHYSIOLOGY
 
   VS is found in all known ethnic groups, with minimal variance in prevalence, aside from above statistical anomalies in Eastern Europe.
   It is believed VS originiated among early Homo sapiens who had not left Africa, explaining its global existance.
-  Prior to the advent of modern medicine, most children born with AVS would have been described simply as "sickly", and would not have made it to adulthood.
+  Prior to the advent of modern medicine, most children born with AVS would have been described simply as "sickly", and would not have made it to adulthood, thus limiting the prevalence of the condition.
   Due to the Meiotic Drive effect, the condition has survived despite being detrimental to survival.
   Circumstantial evidence suggests VS provides some innate resistance to retroviruses, including HIV.
   Individuals with Congenital VS appear to possess higher lateral thinking and problem solving skills, as well as exhibiting more creative and innovative traits. This appears to include those with cognitive impairments. However, this finding is largely circumstantial and not fully proven.

@@ -1222,7 +1222,7 @@ SCENE
 
 	Meanwhile, Bea looked over and spotted Connor pacing. She nudged Chloe gently and pointed at him with her pencil.
 	"Who's that little cutie?" she asked, excitedly. "I didn't think your course had boys like that."
-	"No, he's not in my class. I'd recognise him." Chloe replied. Bea raised an eyebrow and Chloe blushed. "I mean, I recognise all my classmates, you know..."
+	"No, he's not in my class. I'd recognise him." Chloe replied. Bea raised an eyebrow, and she blushed. "I mean, I recognise all my classmates, you know..."
 	"Maybe he's some sexy foreign exchange student..." Bea teased. "Maybe you can go and get some... 'extra credit.'" As Bea said 'extra credit', she made an esoteric hand gesture - it was unclear what particular sex act she was miming - the only thing clear was that it *was* a sex act.
 	"Shut up!" Chloe smiled, her face red. She smacked Bea's arm playfully.
 	"Go talk to him!" Bea motioned. "I'm not even teasing you - he clearly doesn't know what book he's looking for. Go ask him if he needs help! You know that aisle like it's the back of your hand."
@@ -14916,7 +14916,7 @@ SCENE
 	"No, nothing." Yaz shook her head. "Whatever it was that killed our mums, it wasn't passed down to me."
 	Connor stroked his chin. Chloe placed her hand on his knee, and he smiled.
 	Another, uncomfortable silence filled the room. No one wanted to break it.
-	THen, the coughing cries of a toddler emanated from Connor's room. Yaz rose, and went to attend to him.
+	Then, the coughing cries of a toddler emanated from Connor's room. Yaz rose, and went to attend to him.
 
 	"You okay?" Chloe asked.
 	"Yeah. Thanks again... You being here made this a lot easier."
@@ -20290,12 +20290,12 @@ ______________________________
 SCENE
 	The Commandant stood grimly in a large industrial unit, with squads of Super-Agents behind him.
 	"So..." he began. "His little friend is one of us, as well."
-	Randall, his second-in-command, nodded. "Yes, sir. With the death of the hit team, we're running critically low on operatives."
+	Randall nodded. "Yes, sir. With the death of the hit team, we're running critically low on operatives."
 	"It's your own fault." a second Agent scowled. The room went *silent.*
 	"It's true." he continued. "All these men, dedicated to the cause - killed, for the sake of a single rogue asset?!"
 	The Commandant didn't respond. He didn't even twitch. He merely blinked, facing away from is insubordinate minion.
 	"Everything we have done has been by *your* design. And *all* we have to show for it is failure!" he continued.
-	Randall looked away, terrified. He'd faced legions of enemy soldiers in his life - and this was the first time he'd been this scared.
+	Randall looked away, terrified.
 	"Your pet Barrett isn't worth us losing our heads over--"
 	With that, the Commandant turned, slamming the back of his hand into the Agent's skull. It exploded from the force. All present Agents flinched in terror.
 	"ANYONE *ELSE* AMONG YOU WHO DOESN'T WANNA *LOSE THEIR HEAD?!*" the Commandant roared.

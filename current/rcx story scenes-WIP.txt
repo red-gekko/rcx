@@ -53,7 +53,7 @@ SCENE
 	"Oh it was, was it?" the first voice scowled.
 	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Federal Police will butt heads with UN Security, and Interpol will be completely ineffective. Switzerland's tradition of direct democracy has always limited our influence... By provoking public fear, we can herd the sheep into our pens."
 	"And the WHO?"
-	"Placated. We've pinned the attack on Romand separatists. What matters now is that we have Dr. Zhou again. Now he must be reminded of his... obligations."
+	"Placated. We've pinned the attack on Romand separatists. What matters now is that we have Dr. Zhao again. Now he must be reminded of his... obligations."
 	"Oh, he will be reminded alright... I can *assure* you of that, sir." the Commandant scowled.
 	"Good. Now... continue your report."
 	"Gladly, sir." the Commandant nodded. "Operations in the East have progressed smoothly. The Reds are on the back foot."
@@ -68,7 +68,7 @@ SCENE
 	"Of course not, sir." the Commandant nodded, his lip curling silently.
 	"Commandant?" Claus chimed in. A hint of glee cut through the modulation.
 	"Yes, sir?"
-	"You are hereby ordered to cease all activities regarding the Progeny investigation. Just bring Zhou back to Drackhill, and restart production. The 'children' are off-limits."
+	"You are hereby ordered to cease all activities regarding the Progeny investigation. Just bring Zhao back to Drackhill, and restart production. The 'children' are off-limits."
 	"Agreed." Oxford added. "The last thing we need is to provoke the Dutchman."
 	"...Sir." the Commandant reluctantly growled. He cut off the call, and dialed a second number.
 	"Commandant!" a jovial voice exclaimed. "How did the meeting with the Board go, sir?"
@@ -99,7 +99,7 @@ SCENE
 	"Fuck me..." he muttered, before shuffling like a zombie towards the kitchen space, and making himself a coffee. His accent had a funny quality - it was never sure where it was from. He sounded like a local, but had strong Irish influences as well. As for his tone, it was flat - intonations were largely neutral, as though he put far more stock into words than their presentation.
 	He sipped from the cup, and allowed the bitter taste to snap him into reality. He walked to the window and considered a cigarette, then shook his head. He opened it and leant out, breathing in through the nose to absorb the city's smell.
 	Drackhill. Once a major industrial hub, set to be the economic capital of the south-west. The city sat comfortably in the Drackhill Valley, nestled between Dartmoor and the coast. Connor's flat was on the western side of Drackhill - a poor, neglected township called Redbridge.
-	He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. He saw the wealthy, uptight centre of Caldermouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls.
+	He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. He saw the wealthy, uptight centre of Caldermouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls. He cracked a slight grin, watching two airships pass each other by.
 	He sniffed at his armpit, and grimaced, before heading into the bathroom, stripping, and hopping into the shower.
 	Hopping wasn't hyperbole - fully awake, he vaulted the bathtub's side and used his toes to soften his descent. He grinned at his own lameness.
 	The hot--well, lukewarm--water flowed over his skin, washing away the sweat and the stink. He reached for the shower gel, and focused on the important bits - hair, armpits, groin. He vigorously rubbed a spot on his arm, only for the sleep-dust in his eyes to clear, and he realised it was just his freckles. He chuckled.
@@ -107,7 +107,7 @@ SCENE
 	Clean now, he left buffeted himself with a towel, only to hear a banging on the door.
 	"Oi, dickhead! Hurry up."
 	He grinned, threw on some pants and a shirt, and opened the door to his flatmate and foster-sister.
-	"About time." she snarked. Her name was Amelia Zhou - and she'd kick you in the groin if you called her that. Everyone called her Amy.
+	"About time." she snarked. Her name was Amelia Zhao - and she'd kick you in the groin if you called her that. Everyone called her Amy.
 	Her hair was almost the platonic ideal of a punk rocker's style - dyed jet-black, with bright red tips bouncing in the draft. A fringe neatly framed her hazel eyes, and the right side had been cropped into a short undercut, while the rest hung freely from her head. A collage of tattoos covered her arms, some crudely self-applied, some professional.
 	"Morning, twat." Connor chirped back nonchalantly.
 	"Yeah, no time for small talk. Need a piss." she chuckled, pushing past him and closing the door.
@@ -169,7 +169,7 @@ SCENE
 	Before he could even finish his insult, Amy had swept his legs out with a kick, and an elbow to the chest winded him. He collapsed, wheezing and groaning.
 	"Tell your mates 'Weirdo Barrett's Dyke sister' kicked your fucking arse." Amy growled, triumphant.
 	A bouncer rushed over "You three, get out!"
-	"The fuck?! I hit the dickhead, they're not invol--" Amy began.
+	"The fuck?! I hit the dickhead, they're not invol--" she began.
 	"I don't care who started it. Out."
 	"But--"
 	"OUT!"
@@ -179,7 +179,7 @@ SCENE
 	"If it weren't for you, god knows what that creeper would have done! Also, that was some ninja shit! Please teach me!" she giggled.
 	Chloe smiled warmly. "You saved us. I'm sorry, what's your name? I'm Chloe, and my drunk friend is Bea. We've just moved down for university."
 	She spoke with a slight lisp, but her voice carried a certain warmth to it. Her not speaking until now only highlighted her shyness.
-	"I'm Amy." she replied. "Amy Zhou."
+	"I'm Amy." she replied. "Amy Zhao."
 	Chloe adjusted her glasses slightly. "You're, uh, really good at that. Do you... train or something?"
 	"My brother and his uncle train me." Amy smiled fondly, before realising the complex family relations implied. "Uh... long story."
 	"You're a local?" asked Bea.
@@ -263,40 +263,40 @@ SCENE
 	Just outside the city, a small car pulled up in the dilapidated rural zone of Blackmarsh. A man in a military uniform with ink-black veins around his eyesockets exited the vehicle, and marched towards an old industrial barn unit - presumably a former dairy farm, now repurposed.
 	Inside, several men with similar uniforms and black-veined eyes were variously loading or unloading trucks with medical equipment, weapons, restraints, and obscure devices and artefacts.
 	An older man in an orange jumpsuit - a man without the black veins - approached the soldier who entered.
-	"Doctor Zhou." the soldier nodded.
-	"Sergeant Randall." Zhou nodded back. "Perhaps you can explain what's going on here?"
+	"Doctor Zhao." the soldier nodded.
+	"Sergeant Randall." Zhao nodded back. "Perhaps you can explain what's going on here?"
 	Randall spat on the ground, his brows creasing. "You'll have another subject, soon."
-	Zhou turned pale. "You mean... one of the children?"
+	Zhao turned pale. "You mean... one of the children?"
 	"All grown up, now." Randall grinned vicously. "My men are setting up a secure containment facility here."
-	Zhou gulped. "And I presume our esteemed Commandant will be attending?"
-	Randall smacked Zhou across the face with a backhand. Zhou rubbed his cheek, and forced himself to not scowl.
+	Zhao gulped. "And I presume our esteemed Commandant will be attending?"
+	Randall smacked Zhao across the face with a backhand. Zhao rubbed his cheek, and forced himself to not scowl.
 	"Keep working, you yellow bastard." Randall snarled. "Just talking to you people makes me feel sick."
-	"If you want to kill me, go ahead." Zhou snarked. "We'll see what the boss thinks."
+	"If you want to kill me, go ahead." Zhao snarked. "We'll see what the boss thinks."
 	Randall snarled, but relented.
 	"Is number 6 still here?" he asked.
-	"He's in the cage. Knock yourself out." Zhou shrugged.
+	"He's in the cage. Knock yourself out." Zhao shrugged.
 	Randall smirked, and headed further into the facility. There, he found a plexiglass cage, containing a massive black wolf.
 	"6." Randall beckoned over. "Remember me?"
 	The wolf looked up, and his eyes turned red. Literally. They burst into a blood-red glow, and he struggled against his restraints, as his shock collar audibly crackled.
 	"I'M GOING TO KILL YOU! I'M GOING TO KILL YOU!" it screamed. To its eternal dismay, the humans didn't react. All they heard was barking and howling.
-	Randall laughed, and returned to Zhou.
+	Randall laughed, and returned to Zhao.
 	"Readings?"
-	Zhou looked at a computer screen. "As expected. The subject's brain activity matches that of a human being. Language centres are lighting up, and I'm seeing brainwave patterns consistent with human emotion."
+	Zhao looked at a computer screen. "As expected. The subject's brain activity matches that of a human being. Language centres are lighting up, and I'm seeing brainwave patterns consistent with human emotion."
 	"What emotion? Fear? Horror?" Randall grinned devilishly.
-	"Rage. Vengefulness. Homicidal fury." Zhou responded, his upper lip curling in disgust.
+	"Rage. Vengefulness. Homicidal fury." Zhao responded, his upper lip curling in disgust.
 	Randall chuckled, and looked down into the wolf's eyes again.
 	"So... you do have a killer in you, after all. It's a shame, really."
-	He turned back to Zhou.
+	He turned back to Zhao.
 	"Your thoughts?"
 	"He's very--"
 	Randall backhanded him again.
 	"*It.*" he snarled.
 	"...it's very advanced. Which tracks with his---It's intelligence."
 	Randall scoffed. "Oh, you're just like the last egghead. What, you think it's sentient?"
-	Zhou looked away. Randall chuckled.
+	Zhao looked away. Randall chuckled.
 	"Prepare the site." he began. "I'll be bringing in the subject myself. Contact the other labs - I want to see 217 before I head back to Washington."
 	"Leave her alone." the wolf growled. Again, the humans couldn't hear him.
-	"As you wish, sir." Zhou grumbled. He looked over at the wolf, and his expression faltered slightly.
+	"As you wish, sir." Zhao grumbled. He looked over at the wolf, and his expression faltered slightly.
 	Randall turned back to the cage, and chuckled. "Missed me, did you?"
 	He walked away.	As he left, the wolf whispered to itself.
 	"I'm going to kill you."
@@ -395,7 +395,7 @@ SCENE
 	"I'm fine." Connor groaned.
 	"You are not fine! What the hell happened?"
 	"Nothing."
-	"No! This was me, wasn't it?"
+	"No! This was because of me, wasn't it?"
 	"This was a bunch of pricks. They would have done that regardless. I'm just glad you got one beforehand. Besides, I think I knocked out one of them anyway." Connor smirked, wincing slightly.
 	"I'm so sorry." Amy began, a single tear coming down her cheek.
 	"Don't be. I've taken worse - as you know."
@@ -457,7 +457,7 @@ SCENE
 	"Cuff him." he ordered. Another man pulled out a pair of handcuffs, and restrained Connor's corpse with them.
 	As they drove off, Connor's fingers twitched slightly.
 	Finally, they arrived at their destination. The shooter grabbed Connor's body, and brought it forward.
-	There, the Commandant, and Dr. Zhou stood waiting. Zhou looked away, pale as a ghost. The Commandant grinned devilishly.
+	There, the Commandant, and Dr. Zhao stood waiting. Zhao looked away, pale as a ghost. The Commandant grinned devilishly.
 	"Excellent work, Randall." he said.
 
 	In the backrooms of the Singing Horse, a man in his 30s with dark brown hair and a clean-shaven face was sat at a desk doing paperwork.
@@ -519,14 +519,14 @@ SCENE
 	The Commandant approached, and smirked.
 	"Welcome home."
 	He turned to an old man in an orange jumpsuit, with several small cuts on the side of his head.
-	"Doctor Zhou. Is everything ready?" he asked.
-	"Yes sir, Commandant, sir..." Zhou replied timidly.
+	"Doctor Zhao. Is everything ready?" he asked.
+	"Yes sir, Commandant, sir..." Zhao replied timidly.
 	The Commandant's smirk was cold, as if he'd done this a thousand times.
 	"Begin."
 	The doctor pulled a lever, and electric shocks coursed through Connor's body. He screamed, cried, thrashed about.
 	His body spasmed with pain.
 	Before he could even register what was happening, the world slipped away again, leaving only darkness.
-	He had a few brief flashes of consciousness - none pleasant. Surgeries. Drills. Saws on his flesh. Injections. Pain. And Dr. Zhou.
+	He had a few brief flashes of consciousness - none pleasant. Surgeries. Drills. Saws on his flesh. Injections. Pain. And Dr. Zhao.
 	The pain felt like fire coursing through his veins.
 	Connor had been no stranger to pain. He'd suffered more than most in his 18 years on this world. But this... this was new.
 	Ice cold. Lightning hot. Every neuron in his body was alight with the purest agony. He screamed as loud as he could, and felt his throat rip and tear from the strain of his howl.
@@ -829,7 +829,7 @@ SCENE
 	Connor descended the stairs into Johnny's back office. He spotted the door was closed, and so pressed his ear to it.
 	Whatever had been done to him had given him more than just superhuman strength. His hearing was acute - as though he was in the room.
 
-	"As I said, Mr. Kane, we just wanted to go over some things." Naismith began.
+	"As I said, Mr. Flynn, we just wanted to go over some things." Naismith began.
 	"Of course. I'm always happy to help the police." Johnny said through audibly gritted teeth.
 	"Do you know the name 'Reece Tomlinson'?"
 	"Never heard of him."
@@ -1245,8 +1245,8 @@ SCENE
 	"I... Wow." Connor smiled. "Thank you so much!"
 	"Hey..." Chloe said, almost hesitating. "If you're not studying this stuff already, it can be a little daunting. Do you want me to go through it with you?"
 	"That would be amazing!" Connor exclaimed. Chloe led him to her table.
-	"So..." she laid the book out so both of them could see it. "The guy who wrote this, Dr. Zhou Jiawei, he's a genius."
-	Connor's eye twitched slightly. Dr. Zhou - he felt like he'd heard the name before.
+	"So..." she laid the book out so both of them could see it. "The guy who wrote this, Dr. Zhao Jiawei, he's a genius."
+	Connor's eye twitched slightly. Dr. Zhao - he felt like he'd heard the name before.
 	"He's a bit of an enigma within the biotech industry." she continued. "He was behind some of the biggest leaps in cloning and gene engineering in the 80's and early 90's, some say he single-handedly solved China's famine problem, but after 1996, he stopped publishing completely. Not only that, he vanished."
 	"Whoa..." Connor replied, intrigued. "Like, completely disappeared?"
 	"Yeah!" Chloe smiled, glad that Connor was taking an interest. "I'm... kind of a fan of his. His work was centuries ahead of his time."
@@ -1940,9 +1940,9 @@ SCENE
 	The pair rose, and left.
 
 	At the same time, a man with black receding hair and a thick beard sat down on a bench outside a cafe. An older man with a cane sat next to him.
-	"Mr. Sokolov." the older man nodded in a subdued Russian accent. He spoke as though he has lived in Britain for many decades.
-	"Morozov." he replied, in a much thicker accent.
-	"[Have you received the correct information?]" Morozov asked, now speaking in Russian.
+	"Mr. Sokolov." the older man nodded in a Russian accent.
+	"Morozov." he replied.
+	"[Have you received the correct information?]"
 	"Da." Sokolov nodded. "[The trap has been laid.]"
 	"[Excellent.]" Morozov smiled. Sokolov rose.
 	"[Long live the Soviet Union.]" Morozov raised his fist.
@@ -2776,7 +2776,7 @@ SCENE
 	"I didn't want to hurt it." Sparky whimpered.
 	"I know. Good boy." Connor nodded, stroking Sparky's head. 
 	Chloe watched from a distance, her heart warming at the sight of Connor comforting Sparky. She walked over, sitting down beside them with a gentle smile.
-	"He's a sweetheart." she said, scratching behind Sparky's ears. "That little dog didn't know what it was missing."
+	"Bless him." she said, scratching behind Sparky's ears. "That little dog didn't know what it was missing."
 	Sparky looked up at her, his tail wagging a bit faster. "You think so?"
 	Chloe smiled warmly. "He's lucky to have you, Connor. And you're lucky to have him."
 	Connor chuckled, looking at Sparky. "Yeah, I think I am."
@@ -2813,8 +2813,7 @@ SCENE
 	"I can't wait." Sparky gleefully cheered.
 	Chloe smiled warmly. "Did you learn anything about how he was treated?"
 	"A little bit." Connor shrugged. "Enough to know that 'muzzle' is a trigger word for him." He whispered the word - it didn't stop Sparky from hearing it, but softening the pronounciation made it less scary, somehow.
-	"Bless him." she said, stroking his ears. "I understand testing pharmaceutical drugs on animals, but not being cruel to them."
-	"Exactly." Connor nodded, rubbing Sparky's belly. His tongue flopped out the side of his mouth, enjoying the attention.
+	"Bless him." she said, stroking his ears. His tongue flopped out the side of his mouth, enjoying the attention.
 	"His eyes are so expressive." Chloe smiled warmly. "Almost human-like."
 	"Puppy dog eyes." Connor grinned. "He deployed them well, trying to get Amy to agree to let him stay with us."
 	"Oh, you guys live together?" Chloe tilted her head.
@@ -2834,11 +2833,9 @@ SCENE
 	"So, um..." she began, breaking the ice. "What do you do for work? I know you said you work in a garage, but, well - what's that like?"
 	"Eh, it pays the bills." Connor shrugged. "I say 'garage' - repair shop is more accurate. We just mainly work with cars." he explained.
 	"What else do you work on?"
-	Connor paused for a split second.
 	"Computers, appliances, bikes... pretty much anything. I mainly handle the technical side of things. Not just for the garage - my boss, Johnny, he has me working for a bunch of different clients."
 	"Wow, that's pretty cool though!" Chloe smiled.
-	"Hah, yeah, I suppose." Connor nodded.
-	An awkward silence filled the air.
+	"Hah, yeah, I suppose." he shrugged. An awkward silence filled the air.
 	"Okay, Connor." he thought to himself. "Say something. Don't let the silence hang."
 	To his surprise, Chloe spoke up.
 	"So, um..." she began. "Do you like movies?"
@@ -2857,8 +2854,7 @@ SCENE
 	Connor stifled a chuckle. "Anyway - wanna get going?" he asked.
 	"Sure." Chloe replied, rising. Connor stood too, and the trio continued their walk. 
 
-	They made it to the top of Wyrmrock - a half-mountain that could overlook the entire Drackhill Valley area. From the peak, the river Calder flowed down, carving a branching path down towards the sea.
-	Chloe looked out in awe.
+	They made it to the top of Wyrmrock - a half-mountain that could overlook the entire Drackhill Valley area. From the peak, the river Calder flowed down, carving a branching path down towards the sea. An airship was ascending from a hangar just outside the city, while another flew overhead, close enough that they could see the operator's logo. Chloe looked out in awe.
 	"This is a beautiful sight." she said, smiling.
 	"Yeah, it is." Connor nodded, before taking in the sights himself.
 	He pointed out to the various landmarks.
@@ -2876,11 +2872,14 @@ SCENE
 	She giggled again, then blushed slightly. "What about that town over there?"
 	"That's Wickermast." Connor nodded. "Home to the local nuclear power plant, a nail factory, and some big weapons manufacturer. Just north of it are the Wyrmwoods - the forests on the western side of the mountain."
 	She smiled warmly. "Anywhere else you can see from here?"
-	He pointed down at a small spot in the distance. "It's hard to make out, but that's Danwich. Hardly anyone lives there, but there's loads of old ruins - my uncle used to take me to the castle there. Just south of it is Rexton - bunch of mansions and old people. And it's too foggy to see - but a short way off the coast is Mercy Isle. There's an old monastery there, a naval base, and the prison."
-	"Prison?" she tilted her head.
-	"Yeah - used to be part of the monastery, but then became an internment camp for pirates. Nowadays, they just throw anyone and everyone in there."
-	He awkwardly scratched the back of his head. "So, you give me really cool biology facts, and I give you local trivia. I think I got the better end of the deal there." he grinned.
-	She smiled, endeared. "Hey, taking turns infodumping... there are worse ways to communicate."
+	He pointed down at a small spot in the distance. "It's hard to make out, but that's Danwich. Hardly anyone lives there, but there's loads of old ruins - my uncle used to take me to the castle there. Just south of it is Rexton - bunch of mansions and old people. And it's too foggy to see - but a short way off the coast is Mercy Isle. There's an old monastery there. Long since abandoned."
+	"That's cool." she smiled warmly. She watched as the airship above began to slowly descend into the valley.
+	"Damn... you can get a good view of the blimps from here." she grinned.
+	"Technically, that's a zeppelin." Connor began. "Blimps use non-rigid frames, a bit like balloons."
+	"Oh?" she tilted her head. "I thought the names were interchangeable."
+	"I mean, functionally they are." he shrugged, before pointing. "See where that one is rising out? That's the hangar on Danwich Common. It's the biggest airfield in the south-west - since it handles both planes and airships. It's actually the third-largest airship hangar in Britain - only Birmingham and London have bigger ones."
+	He awkwardly scratched the back of his head. "So, you give me really cool biology facts, and I give you trivia about airships. I think I got the better end of the deal there."
+	She giggled, endeared. "Hey, taking turns infodumping... there are worse ways to communicate."
 	He laughed heartily, causing her to chuckle too. The pair began to head back down the hill.
 
 Creek
@@ -2994,7 +2993,7 @@ SCENE
 	"Haha. I like you. You're funny." Sparky smiled.
 	"I'm sorry guys... I've been meaning to come out more, but yeah, busy busy. Working with Johnny - you know how it is." Connor said, shifting his weight uncomfortably.
 	Amy sighed. "You gotta get out of that shit, Connor. While you still can." she said, her voice full of nothing but concern this time.
-	"It's different. I'll... I'm not going to make that mistake again." Connor said, the image of Vince's arrest flooding his mind.
+	The image of Vince's arrest flooded his mind. "It's different. I'll... I'm not going to make that mistake again."
 	"You be careful, bro..." Trey said, likewise concerned.
 	"I will. Don't worry." Connor nodded reassuringly. He joined his friends in the living room.
 	"By the way, I invited Chloe and Bea round." Amy announced. "Bea just texted me - they're almost here."
@@ -3017,57 +3016,20 @@ SCENE
 	"Why did you invite the vampire in?!" Connor joked along.
 	"Says the man with the wolfbat!" Bea laughed. The gang chuckled.
 
-	"Anyway - I think we're all much too sober to be partying at my place!" Trey shouted excitedly.
-	"What shenanigans are you going to make us do now?" Connor asked, smirking. Trey had a knack for inventing drinking games on the spot.
-	"You underestimate me, Brother Connor." Trey faux-genuflected.
-	Connor smirked. "Get up, sinner."
-	Trey laughed. "Okay, I have an idea - let's play Would You Rather - each of us poses a question, and then we all answer A or B. Anyone in the minority must drink. If we're evenly split, or the vote is unanimous, we all drink. Anyone who can't answer straight away must drink too." he explained. The girls all sat with them.
-	"Hah, sounds fun!" Bea commented.
-	"I'm down!" Chloe said, smiling.
-	"Let's get shitfaced." Amy smirked.
-	"Okay - My go first, as I suggested the game. Would you all rather... eat your own arm, or your own toes?" Trey asked.
-	The gang chuckled. "3... 2... 1..." they said, and all called out "Toes!" in unison. They laughed, and drank.
-	"Makes sense - what are toes even for?" Connor commented.
-	"Good point - arms are way more useful." Chloe agreed.
-	"Okay, my go." Connor began. "Would you all rather... See anything that ever happened in the past, or see up to 1 month into the future?"
-	The gang raised their eyebrows, intrigued. "3...2...1..."
-	"Past!" said Chloe. "Future!" the others went.
-	"Future wins!" Trey shouted, enjoying his referee status. Chloe smirked and drank.
-	"How come?" asked Amy.
-	"I guess, with the past, you can learn anything about history - I mean, you could learn specific stuff, that no human ever saw." she said, smiling.
-	"Good point." Connor nodded. "I chose future because, well, predicting even that far ahead would let you stop bad things before they happen."
-
-	"Alright, my go." Bea smiled. "Would you all rather... only be able to whisper, or only be able to shout?"
-	3, 2, 1 - "Whisper!" Connor and Chloe replied. "Shout!" for Bea, Amy, and Trey.
-	"Yeah, that tracks." Amy grinned. "Quiet kids over there."
-	"Drink up!" Trey roared cheerily. They chuckled and drank.
-
-	"Okay, my go..." Chloe said, thinking hard. "Would you all rather... be able to speak any human language, or communicate with animals?"
-	Connor looked over at Sparky, and smiled. 3, 2, 1... "Animals!" they all replied.
-	"Unanimity! Drink!" Trey cheered. Sparky jumped down and smiled at the group.
-	"I wish I could talk to you all! Still, I'm glad I can talk to you, Connor." he said. Connor stroked his ears.
-	"Hah, wish we actually could - I wonder what he said there!" Bea chimed in
-
-	"Alright, my turn..." Amy said. "Would you all rather... Be covered in papercuts, and jump in a pool of lemon juice, or, wedge a splint in your toenails, and kick a wall?"
-	"Eww!" Bea cringed, causing laughter. 3, 2, 1 - "Papercuts!" the group chanted.
-	"We've achieved collective consciousness! DRINK!" Trey shouted, enjoying himself. The group downed their drinks.
-	"Yeah, I'll eat my toes, but I won't fuck them up like that." Connor quipped, causing a burst of laughter.
-	The game continued into the night.
-
-	Later on, Connor and Trey were sat outside with Sparky, smoking.
+	Hours of raucousness passed, and Connor and Trey were sat outside with Sparky, smoking.
 	Connor stretched his arms, feeling the last remnants of the burn scars fade away. He flinched. He could heal any damage - but it still hurt.
-	"Bet you're glad to see that Chloe again, eh?" Trey remarked.
-	"Hah... I mean, she's nice, yeah. I saw her the other day, we went for a walk with Sparky." Connor replied.
-	"Oooh, so you can see your girlfriend, but not hang out with me, eh?" Trey replied, faux-offended.
-	"Haha - it's not like that. We're just friends. And oi, I'm here now, aren't I?" Connor retorted, smirking.
-	"I've missed you, man. Ever since you had that blackout... you've been, I dunno, distant?" Trey said.
-	"Yeah... I'm sorry, bro." Connor replied. "I'm okay now though. It's just work - once I've got a few things sorted, I'll be hanging out more often."
-	"I get it, bro. Just... Don't be such a stranger, yeah?" Trey said, a rare moment of genuine concern washing over him - no banter, no playful jabs - just care.
+	"Bet you're glad to see that Chloe again, eh?" Trey grinned.
+	"Hah... I mean, she's nice, yeah. I saw her the other day, we went for a walk with Sparky."
+	"Oooh, so you can see your girlfriend, but not hang out with me, eh?" Trey gasped, faux-offended.
+	"Haha - it's not like that. We're just friends. And oi, I'm here now, aren't I?"
+	"I've missed you, man. Ever since you had that blackout... you've been, I dunno, distant?"
+	"Yeah... I'm sorry, bro. I'm okay now though. It's just work - once I've got a few things sorted, I'll be hanging out more often."
+	"I get it, bro. Just... Don't be such a stranger, yeah?"
 	"I won't be." he vowed.
 	Trey smiled, and stroked Sparky's head.
 	"He's a good boy."
-	Connor smiled. "He's the best."
-	"Damn right." Sparky smirked.
+	"He's the best."
+	"Damn right." Sparky chuckled.
 	The three headed inside.
 
 	"Hey, howdy!" Trey smiled.
@@ -3704,8 +3666,7 @@ SCENE
 	"Human celebrations are weird. First that 'halloween' thingy, now this..."
 	"You'll like Christmas." Connor grinned. "We have a big meal."
 	"How soon is Christmas?!" Sparky asked, eyes widening.
-	Connor chuckled, and laid back, watching the fireworks.
-	Sparky smiled, enjoying the pretty colours from their viewpoint.
+	Connor chuckled, and laid back, watching the fireworks. One detonated uncomfortably close to an airship, which blared its horn in reaction. Sparky smiled, enjoying the pretty colours from their viewpoint.
 	"Hmm..." he mused. "Maybe it's not *so* bad..."
 
 Bonfire Night
@@ -4362,7 +4323,7 @@ SCENE
 	"Bitch." Connor giggled.
 	Trey, who had been cackling wildly up until this point, chimed in.
 	"In your defence, Chlo, they don't exactly look related."
-	"Yeah, no offense bro, but you don't exactly look like a 'Zhou.'" Amy grinned.
+	"Yeah, no offense bro, but you don't exactly look like a 'Zhao.'" Amy grinned.
 	"Yeah, well..." Connor shrugged, laughing. "Nah, I've got nothing. All I can say is, it's not like you're particularly straight-passing."
 	"Yeah, your aesthetic doesn't exactly have a heterosexual explanation." Trey teased.
 	"You're lucky you're new." she laughed, turning to Chloe. "You've gotta be in the group for at least a year before they bully you like this."
@@ -4730,7 +4691,7 @@ SCENE
 	"Fu... fuck... damn it..." he panted.
 	"One day, you'll be as fast as me." Sparky grinned cheekily.
 	"Little shit." Connor smirked, crouching next to him. The two looked out at the cityscape.
-	"It's beautiful up here." Sparky smiled, taking in the view.
+	"It's beautiful up here." Sparky smiled, taking in the view. The city's lights started to crawl to life, and the pair watched as two airships passed one another - from their height, they were so close it felt like you could touch them.
 	"It sure is." Connor nodded. "We should start our nights like this more often."
 	"Yeah. You need the practice." Sparky grinned. Connor chuckled, and jokingly pushed him.
 	"What is this place?" Sparky tilted his head.
@@ -4778,7 +4739,7 @@ SCENE
 	"Oh no! We have to help them!" Sparky barked, readying himself.
 	"Wait!" Connor yelled. "This must be a diversion. They won't be expecting a counterattack! You go into the warehouse, and carry on the mission alone. I'll get back to the Horse!"
 	"I'll go! I'm faster!" Sparky protested.
-	"I've got this." Connor replied. Sparky nodded, and pounced into the warehouse, as Connor sprinted off.
+	"I've got this." Connor shook his head. Sparky nodded, and pounced into the warehouse, as Connor sprinted off.
 
 	"Get away from them!" Bea roared, shoving one attacker back.
 	"You want some too? You fucking little skank?!" the man jeered back, raising his arms.
@@ -4801,7 +4762,7 @@ SCENE
 	"LOOK OUT!" Amy roared, as he pulled the trigger.
 	"NO!" Johnny likewise screamed, reaching out.
 	The first bullet hit him in the chest - right above his primary heart. It barely grazed the skin before embedding itself in his kevlar costume.
-	The next round made it to the secondary heart - to the same effect. A third hit in the abdomen, again to no injury.
+	The next round made it above the secondary heart - to the same effect. A third hit in the abdomen, again to no injury.
 	"DIE! DIE! *DIE!*" the gunman howled, punctuating his fire. The room had gone still, as all watched in horror.
 	Normally, that'd be horror at seeing a man gunned down like this.
 	Instead, it was horror that he *wasn't.*
@@ -4834,14 +4795,14 @@ SCENE
 	"Boss. We've got a problem."
 	Louie Vitale sighed as he stood from his maple desk, and turned to face the glass panes that let him overlook his warehouse-turned-nightclub. He was a fairly portly man, with balding brown hair and a clean face - which emphasised a prominent grin cut into his left cheek, long since faded to a line.
 	"And that would be, Marcus?" he asked his imposing subordinate. His voice was that of a thick Cockney - and surprisingly high-pitched for a mob boss.
-	"Kane ain't happy about us pushing on his side of the river."
+	"Flynn ain't happy about us pushing on his side of the river."
 	"Well, you heard about last night, right?" Vitale smirked. On the left side of his mouth, his canine and its two adjacent teeth sparkled in the light - his golden grin was well known in Drackhill's underworld.
 	"Yeah, he took a beating, but..." Marcus began.
 	"Oh, don't tell me. 'Il Lupo Mannaro' showed up and saved him. You don't seriously believe in that bullshit, do you?"
 	"I don't know, boss." Marcus shrugged. "He took six shots to the chest, and then broke the guy's revolver. Plus, the other night in Blackmarsh... and last week on the flyover..."
 	"Ah, stronzate!" Vitale waved his hand dismissively. "Probably just those skinhead pigs trying to save face. That business... I bet it's all hysteria. The man got impaled, and what, was up fighting the next night? Cazzate!"
 	"Still--"
-	"I've heard enough." Vitale shook his head, before leaning against the glass. "If Johnny Kane wants us out of the westside, he can send his little Lupo to meet my little Lupara."
+	"I've heard enough." Vitale shook his head, before leaning against the glass. "If Johnny Flynn wants us out of the westside, he can send his little Lupo to meet my little Lupara."
 	He looked down at his little slice of Belson, like a king at his castle.
 	"No one fucks with the Gold Tooth Grins." he said, almost to himself.
 	"You got it, boss." Marcus nodded, before leaving.
@@ -4849,7 +4810,7 @@ SCENE
 	Standing at the door was a huge man - easily 6'6". He pocketed a bribe from a young woman, and let her in. Behind her, a man with his hood up, hiding his face, approached.
 	"Oi, chav. Move along." he barked.
 	"I need to speak with Vitale." the hooded man replied. His voice was gravelly - as though he was faking it.
-	"Nah, he doesn't normally order rent boys." the man grinned - showing off his own golden canine. "Now fuck off, before I lose my temper."
+	"Nah, he don't normally order rent boys." the man grinned - showing off his own golden canine. "Now fuck off, before I lose my temper."
 	The hooded man chuckled, and his clothes began to ripple and twist. In mere moments, he stood proudly, encased in a kevlar bodysuit and his eyes a blood-red.
 	"The... the fuck?!" the doorman gasped, pale as a ghost.
 	"I said..." Connor began, "I need to speak with Vitale."
@@ -5748,7 +5709,7 @@ SCENE
 	"Your hand?" Ivan asked, raising an eyebrow.
 	"I had to cut off my hand to escape a burning building. Oh yeah, we can grow back limbs." Connor said nonchalantly.
 	"So, your hand just grew back?" Ivan asked, incredulously. "What did it feel like?"
-	"Like every nerve in my body was on fire." Connor replied, shaking his head.
+	"Like every nerve in my body was on fire." Connor shooks his head.
 	"I'm nowhere near as strong as you, neither is anyone who's taken that serum." Ivan said somberly. "What we are to people, you and Sparky seem to be to us. Case in point - KGB has captured these Agents recently. We dismembered one - his hand has yet to grow back."
 	"Really?" Connor asked. "As if this wasn't confusing enough."
 	"You're telling me." Ivan grinned.
@@ -6414,7 +6375,7 @@ SCENE
 	"Checked her over?"
 	"You think I'm an amateur?" Pawel grinned. "No weapons, no recording devices. She's clean."
 	Johnny stroked his chin. "Alright." he said, entering the room.
-	"I... Mr. Kane." the woman stammered.
+	"I... Mr. Flynn." the woman stammered.
 	"28 minutes. Either you're here to kill me, or you need my help. And no offence, but you don't look like a killer." Johnny smiled, sitting at his desk. "Johnny." he said, offering his hand.
 	She shook it. "Ella. Ella Roberts."
 	"How can I help you, Ella Roberts?"
@@ -6627,7 +6588,7 @@ SCENE
 	Donovan looked over his shoulders, and leant in - revealing the black veins on his eyes. "Because it's natural. The strong take from the weak."
 	Vitale laughed. "So the rumours are true... You do have some freaky shit going on. Now, what I propose is a deal. You lot get access to our docks - not ownership, mind, but access - and in return, you'll give us a supply channel to this fantastic drug of yours. It's a win-win."
 	"How so?" Donovan tilted his head.
-	"We both know Kane wants our crowns. But now he's got his little Lupo, ain't he? Seems to me we need to even the playing field."
+	"We both know Flynn wants our crowns. But now he's got his little Lupo, ain't he? Seems to me we need to even the playing field."
 	Donovan mulled it over. "I'll have to speak to the boss."
 	"You have a boss?" Vitale grinned.
 	"Damn right I do. And I don't know if he'd like this drug going into the hands of some *fucking wops.*" Donovan spat maliciously.
@@ -6883,7 +6844,7 @@ SCENE
 	A double knock on the door.
 	"Come in."
 	Naismith entered.
-	"Mr. Kane." he half-smiled.
+	"Mr. Flynn." he half-smiled.
 	Johnny poured himself a glass of whiskey. "Want one? Looks like you need it."
 	Naismith chuckled, wincing as he sat down and clutching his fractured ribs. "You know what? I'd love one, ta."
 	"Oooh, Mr. Straight Laced Copper taking a drink from the crime boss." Johnny grinned.
@@ -7309,7 +7270,7 @@ SCENE
 	"Alright, Lupo? Whiskey?"
 	Connor stared down at him, his eyes glowing red. "Do you want to tell me what the *FUCK* you were doing last week with Donovan?"
 	"Call it keepin' my options open. No hard feelings, yeah?"
-	Connor leaned in, placing his hands on the desk. "Let me make myself clear. No-one gets the serum. Not Kane, not you, not fuckin' anyone."
+	Connor leaned in, placing his hands on the desk. "Let me make myself clear. No-one gets the serum. Not Flynn, not you, not fuckin' anyone."
 	"What, you wanna keep all that power to yourself, eh? Face it, Lupo - this ain't a gang rivalry anymore. This is warfare, and we need weapons."
 	"*I'm* the weapon." Connor snarled. "Killing Super-Agents is my job. For your own sake, don't put yourself in that category."
 	"Alright, alright. I can respect that."
@@ -7429,7 +7390,7 @@ SCENE
 	"Gagh!" the man choked, before she felt another hand grip her wrist and yank it away. She sat up, and saw the Werewolf - and an older man, with glasses and surgical scrubs.
 	"Easy." Connor growled firmly. Whiplash stared him down, but relented.
 	"Where am I?" she asked.
-	"Still in Drackhill." Connor nodded, turning to the older man. "Send the bill to Mr. Kane."
+	"Still in Drackhill." Connor nodded, turning to the older man. "Send the bill to Mr. Flynn."
 	"Thanks..." he nodded, clearing his throat. He turned to face her. "I'd say don't do anything strenuous, but..."
 	She reached down, and felt her ribcage mechanically. The ribs were still fractured, but her lung wasn't leaking air anymore. Her heel - the one Connor snapped - was bound in a cast.
 	"I managed to vent your lung when you came in. Normally I'd say we put a tube in, but air build-up is minimal. If your breathing gets worse again, come right back in."
@@ -8030,9 +7991,35 @@ FLASHBACK
 Old Belson Strangler
 ______________________________
 SCENE
+	"Ugh... dead tonight, eh?" Lydia chuckled.
+	Maryam grinned in response, pulling the hem of her faux-fur coat and letting out a chilled breath.
+	"Oh, here's one." she pointed. A car pulled up beside the ladies, and the window rolled down.
+	"Evening, ladies." the man in the driver's seat began. "Working tonight?"
+	"Depends who's asking." Lydia shrugged.
+	The man pulled two £50 notes out of his wallet, and showed them.
+	Lydia smiled, and walked around to the front seat.
+	"Nowhere public, alright?" the man said.
+	"Of course. There's a free car park just down the road. No one will be there this time of night."
+	"Good." the man said lowly, almost like a growl.
+
+	The car pulled into its space, and the engine switched off.
+	"So..." she began, almost exasperated. "How do you want to start?"
+	The man chuckled mirthlessly. "You're a bad girl, aren't you?"
+	"I can be a bad girl, if you want." she shrugged halfheartedly.
+	The man's lip curled, and he reached out, putting his hands on the sides of her neck.
+	"Whoa... let's take it slow, baby?" she said, grabbing his hands.
+	"Shut up. SHUT UP!" he snapped, as if a switch had been flipped. He gripped onto her neck, and squeezed.
+	Lydia struggled against his iron grip, but it wouldn't budge. She frantically clawed out with her hands, cutting him across the face. He roared, and intensified his grip.
+	She choked and spat, as things went blurry. She just barely managed to make it to her bag, and - oh thank god. There it was.
+	She pulled out the bottle, and sprayed. Right into his eyes.
+	The man screamed as the pepper burned at his face, and Lydia used the moment to break free. She fell out of the car, choking and spluttering.
+	"HELP!" she screamed hoarsely. "THERE'S A PSYCHO! HE'S GONNA--"
+	Before she could finish, she felt something hard knock onto the back of her head. It didn't hurt - not at first. Then she felt it again, and again, and again.
+	Before the agony could even register, his hands were back upon her throat, and the world faded to black.
+
 	It was a cold evening in Drackhill. If you were DI Naismith, it was perhaps a little colder.
-	He looked on at the sight - a young woman laid sprawled on a hotel bed, her eyes bloodshot and bulging. Her neck sat at a sickening angle, and was horrifically bruised.
-	"She was found an hour ago by cleaners." Nina began. "We're working on finding an ID, but... well, the mayor's push to crack down on sex work means she probably wasn't carrying one."
+	He looked on at the sight - a young woman laid sprawled on the ground, her eyes bloodshot and bulging. Her neck sat at a sickening angle, and was badly bruised.
+	"She was found an hour ago by a late-night jogger." Nina began. "We're working on finding an ID, but... well, the mayor's push to crack down on sex work means she probably wasn't carrying one."
 	"Anything on CCTV?"
 	"No, sir." she shook her head. "We've got some images - enough to identify the suspect as male, of average height and build. But he knew to avoid showing his face at all times."
 	"Damn..." he muttered. "Poor girl."
@@ -8043,7 +8030,7 @@ SCENE
 	"She must've got a handful of him." Nina sighed, looking at the carved stumps.
 	"That implies our killer knows a thing or two about forensics." Naismith mused.
 	"You said 'not again?'" she asked.
-	"Thirteen years ago. Very similar case." Naismith sighed. "Never found the killer."
+	"Thirteen years ago. Very similar case." Naismith sighed. "String of stranglings all over. Never found the killer."
 	"You think it's the same guy?"
 	He rubbed his temples.
 	"I don't believe in coincidences. Not anymore."
@@ -8124,7 +8111,7 @@ First Body Found + Flight of the Werewolves
 ______________________________
 SCENE
 	The morning sun tried its best to poke through the sky. Instead, it merely turned some of the grey clouds from dark to light. Amy, however, was undeterred. She stood outside a mid-sized unit labeled "Skye Road Pawz" - the local rescue and dog daycare centre. She took a deep breath, and entered.
-	"Hiya!" she began. "I'm here about the trial shift? My name's Amy Zhou."
+	"Hiya!" she began. "I'm here about the trial shift? My name's Amy Zhao."
 	"Excellent timing." the tired older woman at the front desk nodded, putting on a jacket. "My name's Alison. We've just had a call about an abandoned dog by the creek. I know it's a little manic, but fancy tagging along?"
 	"I--Absolutely!" Amy smiled, surprised.
 
@@ -8142,6 +8129,60 @@ SCENE
 	Alison approached similarly slowly, letting the girl sniff her. She revealed some treats, which the dog greedily devoured. The pair coaxed her into the van, and Alison hopped into the front. Amy stayed in the back, comforting the dog.
 	"You're hired." Alison nodded. Amy tried and failed to subdue her glee.
 
+	Chelsea giggled as the car pulled in. Harry didn't wait before his lips were upon hers.
+	"You sure no one will see us?" she asked nervously.
+	"Babe, I'm sure." he chuckled, moving down to her neck.
+	Her vocal chords flexed as if she was going to make a mild protest, but instead, she clutched his head and pulled it closer. He grinned.
+	She reached down, and gripped. "Oh, my god... it's so--"
+	"Uh..." he blushed. "That's the handbrake."
+	Both giggled gleefully.
+	"What do you say we take this to the back seats?" he winked.
+	"Oh, and they say chivalry is dead." she laughed, crawling through with him. They'd barely got through the gap before they were upon each other again. The radio continued playing some pop music - specifically, Harry had chosen her favourite.
+	He leaned back as she laid down, and pulled off his shirt. She ran her hands over his chest, and before long, it began.
+	Chelsea gasped for air, her body shaking. She opened her eyes, and shrieked.
+	"Ah! Who's that?!" she pointed, pale as a sheet.
+	Harry turned his head, to see a blinding flashlight shining in.
+	"Fuck off, you perv!" he snapped.
+	"Shit, is it my dad?" Chelsea asked, her breathing quickening.
+	Harry quickly pulled up his trousers, and opened the door. The light made the figure holding it look like a shadow.
+	"Oi! Who the fuck are you?!" he barked.
+	The figure responded by smashing the flashlight around the side of Harry's head.
+	As the metal made contact with his temple, he stumbled down to the ground. Pain radiated through his skull, and he fought as hard as he could to remain conscious.
+	Chelsea screamed, jumping out of the car and rushing to him.
+	"Please, don't hurt us! Just take what you want and go!" she begged.
+	"Oh..." the man growled. "I'm afraid those two things are the same."
+	He struck her aside the head as hard as he could. She fell down, her eyes rolling backwards.
+	At that, Harry rose in a rage. He tackled their assailant, and tried to force him to the ground.
+	Before things could go any further, he felt something cold sink into his gut.
+	"HOW DARE YOU TOUCH ME! HOW *DARE* YOU!" the man screamed. He stabbed him again. And again. And again.
+	Then, a slash ripped Harry's throat open. He fell to the ground, fighting, begging for life.
+	As the world slipped away, all he could do was watch, as his murderer wrapped his hands around Chelsea's neck.
+	He gurgled in protest, and then... nothing.
+
+	Naismith's car pulled up in front of the scene. He stepped out, and took a deep breath.
+	Nina walked up to him, looking like she was trying not to vomit.
+	"Sir..." she began.
+	"Fuck me..." he sighed.
+	"Twice in as many days." she shuddered. "The girl's neck broken in the exact same fashion as before."
+	"What do we know about the victims?"
+	She pulled out her tablet.
+	"Harold Gibson, 18; Chelsea Walker, 17. The car belongs to Gibson. Based on their state of clothing, we assume they were engaging in intimate activity shortly before being killed."
+	"They're just kids..." he sighed. "Mucking around, hurting no-one... and some psycho did *this?!*"
+	Nina nodded somberly. "We've not yet established a direct connection, but..."
+	"Two stranglings in two nights." he began. "I've been in this game too long to believe in coincidence."
+	Nina sighed, before something caught her eye.
+	"Scratch that." she said, rushing over.
+	A note.
+	"ONE LAST NIGHT. TWO TONIGHT. HOW MANY DID YOU GET?" it read.
+	"If that's not a direct connection..." she shrugged, handing it to him.
+	"Jesus..."
+	"Sir..." she began. "Maybe we... maybe we should--"
+	"Not yet." he shook his head. "Besides, I don't know how we contact him. It's not like I've got a searchlight with his logo on it."
+	Nina chuckled slightly, treating the joke like a drowning person treats a gasp of fresh air.
+
+Daycare + Hookman Homage
+______________________________
+SCENE
 	An old car pulled up outside an old block of flats in south Bristol. Trey left the front door, and stretched.
 	"Special delivery." he chimed, grinning. A large, bald man approached, followed by a smaller man.
 	"About that..." he began, shaking his head. "I'm a little short on money this week, so I appreciate the charity."
@@ -8166,12 +8207,12 @@ SCENE
 	"Hmph... Get... In... There!" the man said, finally cutting in. "Whew, okay, so, initial findings?" he looked up at Chloe.
 	"Well..." Chloe said, clicking her pen to begin writing on her notepad, "His skin and muscles are clearly much tougher than normal humans. The fact that the saw is struggling to cut through his chest means his tissue density is far beyond normal levels. It's like trying to slice through a reinforced steel plate with a butter knife. The muscle fibres are denser, almost like they've been artificially toughened."
 	"Very good." the man nodded. "External injuries?"
-	"You mean aside from the mulch pile where his head should be?" Chloe asked, making the man chuckle. "I can see a bullet wound... there." she pointed to a hole in the chest. "According to officer statements, this was caused by a high-caliber bullet fired by a sniper rifle. Police ballistic analysis reported that the bulled had a carbon plating on the tip, which made it much sharper - so the assailants knew that this man needed a lot to take down."
+	"You mean aside from the mulch pile where his head should be?" Chloe asked, making the man chuckle. "I can see a bullet wound... there." she pointed to a hole in the chest. "According to officer statements, this was caused by a high-caliber bullet fired by a sniper rifle. Police ballistic analysis reported that the bullet had a carbon plating on the tip, which made it much sharper - so the assailants knew that this man needed a lot to take down."
 	"Any other, non-fatal injuries?" the man asked, waiting to see Chloe's reaction.
 	"Hmm... there!" she said, pointing to his leg and abdomen. "Small wounds, likely caused by the officer's attempts to shoot him. The bullets made an impact, causing friction burns and bruising, but did not pierce the skin. And... teeth marks on the shoulder, consistent with the description of the 'Werewolves' present. But what stands out to me is the depth of those marks. They're not just punctures; they're almost like the bite force was so extreme that it crushed through the muscle fibres and into the bone. How could something bite harder than our saws? Anyway..." she banished the thought.
 	"Very good!" the man said, satisfied. "Okay, let's open him up. Spreader?"
 	Chloe handed him the tool, and the man began to spread the ribcage open. He strained under the pressure of using the tool, not expecting it to be so difficult. Eventually, the giant's chest opened with a sickening crunch.
-	"Right, now, before I start cutting about willy-nilly, any thoughs about his chest cavity?" the man asked. Chloe leant over to look inside, and gasped audibly.
+	"Right, now, before I start cutting about willy-nilly, any thoughts about his chest cavity?" the man asked. Chloe leant over to look inside, and gasped audibly.
 	"That's... two hearts? Three lungs? And... Four kidneys?! No... those two aren't kidneys. They're adrenal glands, swollen beyond belief." she said, shocked.
 	"Wait, adrenal glands? Hang on... You're right." the man tilted his head. "Whatever this thing is, it's had a lot of work done."
 	Chloe shuddered, writing down this news. The man began extracting the giant's organs, one-by-one, and placing them in jars for later study. He also cut open the giant's leg, and took a sample of muscle tissue and bone marrow. Once finished, he closed the man back up, and breathed a sigh of relief.
@@ -8184,23 +8225,23 @@ SCENE
 	"Yay." Chloe cheered sarcastically, and they hauled the Giant into the freezer. Even with lifting aids and several organs removed, he was incredibly heavy.
 	The two breathed out in relief, and left the autopsy room.
 
-Daycare + Autopsying the Giant
+Autopsying the Giant + Bristol
 ______________________________
 SCENE
 	It was dark, now. The city's typical rains had returned, and splashes filled the ears of its residents.
 	DI Naismith, however, appreciated it. As he came out of his car, he looked up, letting the water fall onto his face. He sighed deeply, and walked into the forensic tent with Nina.
 	Both went pale upon seeing the corpse. A young man, no older than 20 - his head slumped the same as before.
-	"Twice in as many days..." Nina finally whispered.
-	"Out in public, to boot..." Naismith muttered. "Did you get the FI report this afternoon?"
+	"Thrice now..." Nina finally whispered.
+	"Did you get the FI report this afternoon?" Naismith asked, feigning stoicism.
 	She shook her head.
-	He sighed. "No trace of semen. Couldn't get anything useful in the saliva swaps, either."
-	"That means he just wanted to kill her." Nina shuddered. "It's a serial killer."
-	"Same MO here - broken neck. Fingertips are intact - but he's wearing gloves, so presumably no scratches." Naismith sighed. "The victim being male is a change, though."
-	"What are you thinking, sir?" Nina tilted her head.
-	"That we assume nothing." Naismith nodded. "This could be a copycat, it could be a serial killer, it could be a coincidence."
-	"No... it's the same guy." she shook her head, pointing. Naismith looked over, and sighed.
-	Another note.
-	"WEREWOLF. I HOPE YOU LIKED LAST NIGHT. DO YOU LIKE TONIGHT? I'LL DO BETTER TOMORROW."
+	He sighed. "No trace of semen. Couldn't get anything useful in the saliva swabs, either."
+	"That means he just wanted to kill her." Nina shuddered.
+	"Same MO here - broken neck." Naismith sighed. "The victim being male is a change, though."
+	"We've managed to get an ID, sir." Nina began. "Caleb Price. He's been arrested a few times for minor offenses - drug posession, prostitution, nothing more than that."
+	"Three different attacks... Each involving a strangling... my guess, the killer has some pathological obsession with sex."
+	"Jesus..." Nina shuddered. An FI approached holding something.
+	"Another note." he said somberly. "Same handwriting, same... everything."
+	"WEREWOLF. I HOPE YOU LIKED LAST NIGHT. DO YOU LIKE TONIGHT? I'LL DO BETTER TOMORROW." it read.
 	"He's going to strike again. Good god..." Nina trembled. "How are we supposed to catch him? He knows exactly how to avoid CCTV, and it's not like we can patrol the whole city at night..."
 	"No..." Naismith sighed, looking up. There, he saw a flash of red from a rooftop above.
 	"...but *he* can..."
@@ -8239,9 +8280,9 @@ SCENE
 	"Good." Connor nodded, reassured somewhat. "Any idea who it might be?"
 	"Maybe... what's in it for me?" Vitale grinned.
 	Connor's eyes flashed red. Vitale raised his hands.
-	"Joking, Lupo. God." he chuckled. "Alright, I asked around. According to one of our girls, some creep put his hands on her neck while she was working, so she pepper sprayed 'im, and ran off. Scared the Jesus out of her - she ain't been out since."
+	"Joking, Lupo. God." he chuckled. "Alright, I asked around. The first girl - her name was Lydia. Her mate, Maryam, was the last person who saw her alive. She got in the car with a john, and next thing you know, the cops are standing over her body."
 	"Did she get a look at his face?"
-	"Yeah, a good one. Ginger, stubbled - small scar on his chin. Older side - mid-to-late forties. She weren't sure on his eye colour, but she reckons it weren't blue."
+	"Yeah, a good one. Ginger, clean shaven - small scar on his chin. Older side - mid-to-late fifties. She weren't sure on his eye colour, but she reckons it weren't blue."
 	"Anything else?"
 	"She don't speak enough English to identify a region, but he had a strong accent. Definitely not local." Vitale shrugged. "And he had big ears, apparently."
 	Connor nodded. "Alright, that helps. Tell all your girls to stay inside. No outcalls, no street work."
@@ -8251,13 +8292,13 @@ SCENE
 	Connor chuckled. "You're a decent stool pigeon, Vitale."
 	"And you're fucking terrifying." Vitale snarked back. "Arrivederci, Lupo. Buona caccia."
 
-Second Body Found + The Stool Pigeon
+Body Found + The Stool Pigeon
 ______________________________
 SCENE
 	Morning had come and gone. The sun was preparing to set, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
 	"Alright..." he began. "We got a rough description from our... let's call him our informant."
 	"There are worse words." Nina chuckled. Naismith grinned.
-	"The suspect is ginger, middle aged, stubble beard, and a scar on his chin."
+	"The suspect is ginger, middle aged, clean shaven, and a scar on his chin."
 	"Sir..." Nina began, unsure. "I know this breaks a lot of protocols, but..."
 	"It's too risky." Naismith shook his head.
 	"I know the risks, sir. I'm willing." she replied firmly.
@@ -8270,7 +8311,9 @@ SCENE
 
 	The two Werewolves looked down at the city from their towertop perch.
 	"Alright... you ready?" Connor began.
-	"I'm ready." Sparky growled lowly. "Let's find this monster and kill him."
+	"I'm ready." Sparky growled lowly.
+	"Naismith and Nina are running a honeypot, trying to catch this guy out. I'll shadow them - you keep on patrol, just in case he doesn't show."
+	"Got it." Sparky nodded. "Let's find this monster and kill him."
 	Connor stood tall, and his suit rippled once more. The membranous wings spread out, and he leaned forward like a gargoyle.
 	"You sure you've got this?" Sparky grinned.
 	"Hey, I've been practicing." Connor snarked back. He closed his eyes, and fell forward, letting the updrafts carry him through the sky.
@@ -8301,20 +8344,55 @@ SCENE
 	Connor walked over, his eyes burning crimson. He grabbed the car door and ripped it off, and dragged the driver out.
 	"Oh god, I'm sorry!" the man cried as he slammed him into the road.
 	He ripped off the surgical mask, and went pale.
-	"Oh, for fuck's sake..." he snarled upon seeing the man's clean-shaven face.
+	"Oh, for fuck's sake..." he snarled upon seeing the man's thick beard and blue eyes.
 	"I'm sorry, I'm so sorry... my wife, she's---"
 	"Shut the fuck up." he barked.
 	"Wrong man..." Nina grimaced.
 	"Which means he's still out there tonight." Naismith noted grimly.
-	"Fuck..." Connor sighed. He handed Naismith a small object.
-	"Put that in your ear. Press it to talk." he nodded.
-	Naismith hesitated, but did so.
+	"Fuck..." Connor sighed.
 
-Stinging the Strangler
+	"Mikhaela, please..." a voice pleaded over the phone. "Don't put yourself in danger like this."
+	"I don't have a choice." Mikhaela sighed. She stood by the road, wearing a fake fur coat and long boots. "I need the money."
+	"And what about little Georgi? How will he cope if his mother - god forbid--"
+	"How will he cope if I can't put food on the table?" Mikhaela snapped back. "I'm sorry, Dena, but I--"
+	Before she could finish, she spotted a car mount the curb. She dived out of the way, only a second too late.
+	The car slammed into her side, knocking her down. She struggled to rise, the world spinning.
+	"Mikhaela?! MIKHAELA?!" Dena roared over the phone.
+	The killer grinned savagely as he grabbed, and threw her into the back seats.
+
+	Mikhaela's eyes slowly opened, as the ringing in her head began to quiet.
+	She looked at her hands, and realised they were bound with duct tape. She looked down, and saw her feet were in a similar predicament.
+	Then, her eyes slowly drifted up, and she saw her attacker in the driver's seat.
+	First, she tried to break free - but the tape was too strong, and her arms were too tired.
+	"F-fuck you..." she whispered, and forced herself to rise. It was agony - pure agony to move.
+	She used all her might, all her strength, for one simple act.
+	She pushed her hands forward, and grabbed the steering wheel, before turning it as sharply as she could.
+
+	Sparky's blood-red eyes frantically scanned the city, trying his best to find any sign of the killer.
+	Instead, his ears caught it.
+	*BANG!*
+	He turned in his glide, and dived downwards towards the source. He crashed down, looking on at the burning wreckage.
+	The car was upside down, and had caught fire. It wouldn't be long until the inferno led to an explosion.
+	The killer rushed out, and Sparky snarled, preparing to chase.
+	"HELP! PLEASE, SOMEONE HELP ME!" Mikhaela screamed.
+	Sparky turned to her, then turned back, then to her again. His mind raced like a bullet.
+	In less than a split second, he rushed to the car. He bit the door handle at the back, and ripped it off it's hinges.
+	Mikhaela laid on the ceiling, battered and bleeding. Sparky gently grabbed her hands in his mouth, and pulled her out.
+	Then, his ears pricked. He knew what was coming.
+	He pounced behind her and spread himself wide, shielding her from the blast.
+
+	The crew of paramedics carefully hoisted her into the ambulance. An oxygen mask covered her face - she was wounded, but alive.
+	Connor walked over to Sparky, who was sat down before the scene - staring a thousand yards ahead.
+	"Hey..." he began softly. "Well done, buddy. You did good tonight."
+	"The monster got away." he snarled back.
+	"You saved a person's life." Connor countered. "And now we have his car, the police can check the plates, look for prints, test blood deposits... we're gonna get him, I swear."
+	Sparky hesitated, but looked over at Mikhaela. He smiled slightly.
+
+Stinging the Strangler + Sparky saves victim
 ______________________________
 SCENE
 	"Go ahead, Naismith. In your own words." Dorsey began. His voice was shaky with rage.
-	"As I said in my report, sir... The Werewolf intervened during our sting. He stopped the car, but we were able to confirm the suspect was not in fact who we were looking for. The Werewolf left shortly after." Naismith explained. He was in a chair across a fancy oak desk, but it felt like he was cuffed to an interrogation suite. "We came across the third body within the hour. The Werewolf continued searching, but as far as we know, nothing came of it."
+	"As I said in my report, sir... The Werewolf intervened during our sting. He stopped the car, but we were able to confirm the suspect was not in fact who we were looking for. The Werewolf left shortly after." Naismith explained. He was in a chair across a fancy oak desk, but it felt like he was cuffed to an interrogation suite. "Then, the killer crashed his car, and the Werewolf saved Ms. Marinova's life."
 	"And you just... let him leave?! After his actions destroyed a storefront, and put a man in the hospital? DO YOU HAVE ANY IDEA WHAT KIND OF *SHITSTORM* THIS'LL CAUSE?!"
 	"In my defence, sir, he can fly now." Naismith cut back, forcing away a smirk.
 	"Are you still working for me, Naismith?" Dorsey asked, in tranquil fury.
@@ -8327,22 +8405,24 @@ SCENE
 	Dorsey rubbed his temples, and dialed a number.
 	"Good evening, Commandant! I'm so sorry for calling you on short notice."
 	"What do you want, Dorsey?" the Commandant replied dismissively.
-	"The recent stranglings in Belson - they're not connected to our friends, are they?"
+	"The recent murders in Belson - they're not connected to our friends, are they?"
 	The Commandant chuckled, then laughed. "Thank you, Dorsey. I needed that. To think you used to be a detective!"
 	Dorsey cleared his throat. "Um... you're welcome, sir."
 	The Commandant paused, letting the moment hang - like a cat with a mouse. Finally, he inhaled, audibly grinning.
 	"How did you make Chief without us? Oh wait, that's right - you didn't." he chuckled again. "No, it's not ours. Do let me know when you find out who, though - I love a good mystery."
 	"Th-thank you, sir. Hail Victory." Dorsey said nervously, and cut off the call. He sighed deeply.
 
-	An hour had passed. Dorsey was sat at a wide table next to Mayor Norris, with a pack of reporters seated before them
+	An hour had passed. Dorsey was sat at a wide table next to Mayor Norris, with a pack of reporters seated before them.
 	"Have the police managed to identify a suspect in these killings?" one reporter asked.
-	"We have no evidence to suggest they are related at this time. We are treating this as two separate incidents." Dorsey said hurriedly.
+	"We have no evidence to suggest they are related at this time. We are treating them as separate incidents." Dorsey said hurriedly.
 	"Is it safe for people to walk the streets at night?" another asked.
-	"Yes. These killings were isolated incidents, and we suspect they were connected to the victims' gang affiliations." Dorsey nodded.
+	"Yes. These attacks were isolated incidents, and we suspect they were connected to the victims' gang affiliations." Dorsey nodded.
 	"What gang affiliations?"
-	"The victims were respectively a prostitute, a mugger, and a drug dealer." Dorsey explained. "We do not believe there is a risk to the general public."
+	"The victims were primarily prostitutes." Dorsey explained. "We do not believe there is a risk to the general public."
 	The clamour of reporter noise was cut off by one voice in particular.
-	"Zack Powell, Channel One." he began. His wounds were mostly healed, and he stood with confidence. "Mayor Norris, your push to crack down on sex workers and petty criminals has led to many vulnerable people being forced to hide away from authorities. Do you accept that this could have made it easier for the killer, or killers, to commit these crimes?"
+	"Zack Powell, Channel One." he began. "How does that theory explain the murders of Harry Gibson and Chelsea Walker?" His wounds were mostly healed, and he stood with confidence.
+	"I--those killings are unrelated to the prostitute murders." Dorsey shook his head.
+	"Mayor Norris, your push to crack down on sex workers and petty criminals has led to many vulnerable people being forced to hide away from authorities. Do you accept that this could have made it easier for the killer, or killers, to commit these crimes?"
 	"That is absolutely absurd." Norris snapped. "How dare you make such a slanderous accusation!"
 	Zack grinned, and turned. "Chief Constable, you said that these incidents are unrelated. Why is it then, that a previous case in which you were SIO has the exact same MO and setup, only to be passed off to Vice? Is this not a sign of a serial killer that you failed to catch before?"
 	Attendees gasped at the accusation.
@@ -8357,6 +8437,43 @@ SCENE
 	"Hey, it's all thanks to you. Also... pass on my thanks to our mutual friend."
 
 Dorsey browbeats + Press Conference
+______________________________
+SCENE
+	Naismith and Nina hurried to their car, haphazardly throwing on their kevlar vests.
+	"Alright, so..." Naismith began, starting the engine. "Mikhaela's testimony lines up with the description we were given. Even better, forensics got a positive ID on the suspect. Fingerprints and DNA from the blood got a match, and the reg check confirmed the name."
+	"Who?"
+	Naismith handed her a file - a police personnel file.
+	"DCI Geoff Rillington, Vice." Naismith spat. "Positive match for his elimination samples. It all fits. His knowledge of forensics is why he amputated the fingers. He has a bit of a thing for arresting sex workers - which fits the victim pattern."
+	"Dear god..." Nina shuddered. "A cop?"
+	"Yeah. And there's a good chance he knows we're coming. So let's move quick. He's not turned up to work for a few days now - no prizes for guessing why. We get to his house, and we arrest the bastard."
+	"Sounds good." Connor nodded, leaning in from the back seats.
+	"JESUS, FUCK!" Naismith roared.
+	"Fucking hell!" Nina gasped.
+	Connor grinned under his mask. "Sorry, force of habit. You know, for a detective, you could really work on your situational awareness."
+	"Fuck you. Let's just get this over with." Naismith exhaled.
+	"Sir?" Nina tilted her head.
+	"It's fine. We could use the backup."
+
+	The car pulled up outside a small house in the north of Belson. Nina and Naismith drew their firearms, while Connor morphed claws from his wrists.
+	"According to the armoury report, he's not checked in his service pistol. So we should assume he's armed." Nina whispered.
+	"Good. Then we can say we were provoked." Connor snarled. "I'll take point."
+	"No arguments here." Naismith chuckled. Connor approached, and looked at the door. His eyes flashed red as he scanned it.
+	"What are you doing?" Naismith asked quietly.
+	"Checking for traps. I don't fancy chopping off my hand or regrowing my respiratory tract tonight." he snarked. He sighed, as his eyes dimmed. "No one's home."
+	"You're sure?"
+	"No one's alive in there, anyway. I can't see any heartbeats." he nonchalantly shrugged.
+	"Alright. I'll grab the ram." Nina nodded.
+	"It's right here." Connor grinned, kicking the door down. Nina let out a subdued chuckle.
+	The unlikely trio entered the house, and quickly confirmed no one was home.
+	"Oh, christ..." Naismith shuddered, pointing his flashlight at a trophy table.
+	Lydia's severed fingertips, a necklace belonging to Chelsea, and a wristwatch belonging to Caleb.
+	"They're laid out for us." Connor noted grimly. "It's a taunt."
+	"He's got nowhere to run." Naismith nodded. "Car's gone, home's not safe - we'll find the bastard."
+	"I've got a bad feeling." Nina sighed. "Like he's planning his endgame."
+	Connor stretched, rolling his shoulders. "You work your angle, I'll work mine."
+	The officers nodded, and Connor took off into the night.
+
+Raid
 ______________________________
 SCENE
 	The mood in the city was grim - well, grimmer than usual. Atop Rydon tower, Connor and Sparky overlooked the city.
@@ -8414,12 +8531,12 @@ SCENE
 	"Huh?" they replied.
 	"MOVE!" he roared, throwing the table in the air and grabbing. Trey and Amy were caught by his left, while Chloe and Bea by his right. He dived out of the way, just as the car slammed into the space previously occupied by the booth.
 	"HOLY FUCK!" Trey gasped, scrambling to his feet.
-	The group scurried back, as the driver side door kicked open. A man with red, balding hair, a stubble beard, and an assault rifle with a drum magazine stepped out. He fired into the ceiling.
+	The group scurried back, as the driver side door kicked open. Rillington stepped out. He drew his pistol, and fired into the ceiling.
 	"EVERYBODY LISTEN UP!" he roared. "DO AS I SAY, OR I'LL SHOOT YOU!"
-	Screams filled the air, but people raised their hands in panic. The gunman herded them into the space just ahead from the door.
+	Screams filled the air, but people raised their hands in panic. He herded them into the space just ahead from the door.
 	"Now, everyone down on your knees. No sudden movements."
 	"Everyone, just do as he says." Johnny said, sinking down. "Let's not be stupid here."
-	"Clever man. Let's not be stupid!" the gunman barked.
+	"Clever man. Let's not be stupid!" he barked.
 	People complied. Connor tapped his ear thrice, feeling his hidden earpiece buzz each time.
 	"You!" the gunman barked, pointing at Bea. "Get everyone's phones. Now."
 	"Okay, okay..." she nodded, holding her composure. She stood, and collected the phones. She got to Connor.
@@ -8429,7 +8546,7 @@ SCENE
 	Connor gave a subtle nod.
 	"Oh, fuck..."
 
-	The gunman stood behind the crowd, facing the main doors. He pulled out a megaphone, and began to speak.
+	Rillington stood behind the crowd, facing the main doors. He pulled out a megaphone, and began to speak.
 	"THIS IS A MESSAGE. TO THE *WEREWOLF!*" he roared. "COME HERE IN 20 MINUTES - OR EVERYONE HERE DIES!"
 	"Oh god, oh god..." Chloe gasped, pale as a ghost.
 	"We'll be okay." Amy whispered, hugging her.
@@ -8440,7 +8557,7 @@ SCENE
 Strangle a Horse
 ______________________________
 SCENE
-	"YOU!" the killer barked at Pawel. "BARRICADE THE DOOR!"
+	"YOU!" Rillington barked at Pawel. "BARRICADE THE DOOR!"
 	"Okay, okay. I'm doing as you say." Pawel nodded, complying.
 	"Hold tight, bratan." Ivan said through Connor's earpiece. "Help is on the way."
 	Connor shuffled over to Amy.
@@ -8449,17 +8566,17 @@ SCENE
 	"You should. We've still got 18 minutes - enough time for your friends to help."
 	Connor sighed. He raised his finger to his ear, and leaned into it, as if he was scratching his earlobe.
 	"Sparky, if you can hear this - I need a distraction. ASAP." he whispered.
-	"Who are you talking to?" the killer asked, pointing his gun in Connor's face.
-	"I--I was praying." he quickly replied.
-	The killer laughed. "Good idea."
+	"Who are you talking to?" Rillington barked, pointing his gun in Connor's face.
+	"I--I was praying." he quickly lied.
+	Rillington laughed. "Good idea."
 
-	Another five minutes went by, tensely. Armed police arrived, and the killer barked his threats through his megaphone.
-	"Oh, I can't wait 'til he gets here..." the killer giggled maniacally.
+	Another five minutes went by, tensely. Armed police arrived, and Rillington barked his threats through his megaphone.
+	"Oh, I can't wait 'til he gets here..." he giggled maniacally.
 	"Please, let us go." Chloe pleaded. "The Werewolf will be here any minute."
-	The killer turned, scowling. "Do not speak. DO NOT SPEAK!"
+	Rillington turned, scowling. "Do not speak. DO NOT SPEAK!"
 	"Chloe..." Connor whispered. "He's unhinged. Just keep your head down."
 	"We've got to try something!" she protested.
-	The killer stomped over, and looked at her.
+	Rillington stomped over, and looked at her.
 	"Oh... look at that scar." he whispered. "You're a bad girl, aren't you?"
 	Chloe's face contorted with rage, as did Bea's.
 	"Don't fucking talk to her like that!" she barked.
@@ -8467,46 +8584,47 @@ SCENE
 	"Bea!" Chloe gasped, jumping in the way.
 	"LET THEM GO!" Connor roared, shoving him.
 	"Connor! No!" Trey barked, horrified.
-	The killer raised his gun, and then...
+	Rillington raised his gun, and then...
 	WHOOSH!
-	A black blur zipped behind them. The killer turned, his eyes moving frantically.
+	A black blur zipped behind them. He turned, his eyes moving frantically.
 	WHOOSH!
 	Another blur, this time in plain view.
-	"Oh... Ohhhh... He's here!" the killer sang.
-	With that, the lights cut out. People gasped and scrambled, as the killer turned his flashlight on.
+	"Oh... Ohhhh... He's here!" Rillington sang.
+	With that, the lights cut out. People gasped and scrambled, as he turned his flashlight on.
 	"Where are you? Where arrre youuuuu?"
 	Two red orbs burned in the darkness. He pointed his flashlight at them.
 	The Werewolf stood, clad in armour, a vicious growl emanating from him.
 	He looked up at Sparky, who had sprawled into the vents. He nodded, and stepped forward.
 
-	"At last... it is so good to see you!" the killer grinned.
+	"At last... it is so good to see you!" Rillington grinned.
 	"What are you talking about?" Connor snarled.
 	"This! Us! Finally, we can get them all!"
 	"What?!"
-	"Yes! All this time, all this work... leading to this moment!" the killer chimed. "Oh... it is such an honour, sir."
+	"Yes! All this time, all this work... leading to this moment!" he chimed. "Oh... it is such an honour, sir."
 	"You're not making any sense." Connor scowled, his eyes glowing brighter.
-	"Oh, I'm sorry... I got carried away there." the killer giggled. "You and me! In the same room!"
+	"Oh, I'm sorry... I got carried away there." he giggled. "You and me! In the same room!"
 	He cleared his throat. "Did you get my letters?"
 	"Those notes..." Connor growled lowly.
 	"Yes! Did you like them? I tried to be like you, but I'm not as strong, I'm afraid."
 	Connor tilted his head, lost.
-	"I was a cop, before this." the killer mused. "I tried to make a difference, back in 2002, but no matter how many bad girls I throttled, it didn't do anything. But then... you came along. And I realised that's what we needed for our crusade."
+	"I'm a police officer, you know." he mused. "I tried to make a difference, back in 2002, but no matter how many bad girls I throttled, it didn't do anything. But then... you came along. And I realised that's what we needed for our crusade."
 	"Our *what?!*"
-	"Our crusade? Our mission?" the killer asked, confused. "You know?"
+	"Our crusade? Our mission?" Rillington asked, confused. "You know?"
 	"I don't." Connor shook his head firmly. "We don't have a 'mission.' You're a murderer."
 	"Yes, we do!" he protested. "You go big, I go small! We've been doing this all week! You take out freaks like that Giant, and I go after the... the *filth,* the *scum,* the *bad boys and girls...*"
 	"WE HAVE NOTHING." Connor snapped. "You're a monster who kills innocent people. And now... I'm going to--"
-	Before he could finish, the killer screamed. He *screamed,* wailing like a banshee.
+	Before he could finish, Rillington screamed. He *screamed,* wailing like a banshee.
 	"NOOO! NO, THIS ISN'T REAL! *YOU'RE WRONG!*"
 	Connor stepped back. Under his mask, he cocked an eyebrow.
 	"No... no... no no no..." he whispered. "We had... we had a mission, we..."
 	He looked up, scowling.
 	"You think they're innocent? All those *bad, bad boys and girls?*"
 	"Enough talk." Connor snarled. His wrists made a notable *shink!* as blades formed out from them. "You can keep crying when I see you in hell."
-	At that, the killer opened fire. Bullets slammed into Connor's chest, and he tanked them, his eyes aflame.
-	A distraction. The killer grabbed the nearest body - Amy - and held his pistol to her temple.
+	At that, Rillington opened fire. Bullets slammed into Connor's chest, and he tanked them, his eyes aflame.
+	A distraction. He grabbed the nearest body - Amy - and held his pistol to her temple.
 	"NOBODY MOVE!" he screamed. "NO-ONE MOVES, OR THE BITCH GETS IT!"
 	"No!" Connor gasped, freezing solid. "LET HER GO!"
+	At that, Naismith and Nina rushed in, their guns trained on him.
 	"Ohh... I will never understand how you can defend these *animals!*" he spat. "Look at her! You can tell she's a *bad--*"
 	"*LET! HER! GO!*" Connor roared. His voice boomed through the room, ringing in people's ears.
 	"Idiot..." Amy snarled. "If you shoot me, there's nothing stopping him from killing you."
@@ -8515,20 +8633,19 @@ SCENE
 	"I can't do the same trick as before." Sparky whispered from the vents. Connor nodded, and raised his hands, stepping sideways.
 	"Let her go. You wanted me, you've got me. Don't do this." he pleaded.
 	"Oh... no, I thought I wanted you. But what I want... is JUSTICE!"
-	"Does this thing still work?" Naismith whispered into his earpiece.	"We can't get a clear shot."
+	"I can't get a clear shot." Naismith whispered.
 	Connor sighed. Then, his earpiece crackled.
 	"*I can.*" Ivan growled.
-	Connor sighed, his mind moving a mile a minute.
+	Connor eyes darted, his mind moving a mile a minute.
 	"Alright... it's alright..." he said softly. Then, he put his thumb up.
 
 	Ivan watched through his scope, his black-veined eyes tensing. He took a deep breath, and pulled Isabella's trigger.
-	Many people have claimed to be the best sniper in the world. Indeed, Ivan was certainly not the best human sniper.
-	But he was, unquestionably, the best sniper on Earth.
+	Many people have claimed to be the best sniper in the world. Few could make a claim like Ivan.
 	The bullet sailed from his makeshift nest atop Rydon Tower. It ripped through the air, smashing through an office window, and then another on the other side. It burned a hole into a balcony cover, and passed through the gaps on a metal ladder. It whizzed past Naismith's ear, lightly grazed Connor's neck, and finally slammed into the pistol's barrel.
 	He gasped in shock, looking down at the gun. Amy's ear rang from the blast, but she knew exactly what to do. She leaned her head forward, and slammed it backwards, smearing his nose across his face.
 	Connor pounced forward, as she broke free from his grip. He wrapped his hands around the neck, and squeezed.
 	"*Do you still feel like a big man?*" he asked. His voice was terrifyingly, unnaturally calm. As if he was screaming so loudly, human ears could not register it.
-	He raised the killer up in the air. He frantically kicked, to no avail.
+	He raised him up in the air. Rillington frantically kicked, to no avail.
 	"Do you? *Do you?*" Connor repeated, his grip tightening.
 	Naismith walked over.
 	"Let him down." he said gently.
@@ -8539,13 +8656,12 @@ SCENE
 	Connor growled like a rabid dog. But then, Amy gently put her hand on his shoulder.
 	"He's right. Let him down." she whispered. "I'm okay. I'm not hurt."
 	Connor's eyes slowly dimmed, still blazing. He finally released his grip.
-	"Gah..." the killer sputtered. "Coward... you think you're one of them? Admit it... you're more like me. You *enjoy* it."
+	"Gah..." Rillington sputtered. "Coward... you think you're one of them? Admit it... you're more like me. You *enjoy* it."
 	"Shut the fuck up." Naismith barked, pistol-whipping him. He slammed him against the wall, and cuffed him.
 	"It's alright... he'll face justice for this." Amy said softly.
-	Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into the man's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
+	Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into Rillington's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
 	"You took with these hands, and I take them in turn." Connor snarled viciously. "You're right. I do enjoy it. I enjoy cleaning up filth like you."
 	"Alright, enough." Naismith said half-heartedly. He took his gun, and holstered it.
-	"Earpiece." Connor whispered. Naismith subtly removed it, and placed it in Connor's hand.
 
 	Connor looked back at the people in the shadows, his eyes cutting through the dark. People struggled to find their bearings.
 	He sighed, and melded into the darkness. He morphed back into clothes, and crept over with catlike tread, just as Sparky set the lights back on.
@@ -9495,7 +9611,7 @@ SCENE
 	She laughed with him. "I won't ask your name... Kind of defeats the whole point of wearing a mask, eh?"
 	Connor snickered. "Where are you staying now?"
 	"Nowhere. They, um... only just kicked me out."
-	"I know a guy." Connor leant back. "Johnny Kane, boss of the Redbridge Syndicate. How old are you?"
+	"I know a guy." Connor leant back. "Johnny Flynn, boss of the Redbridge Syndicate. How old are you?"
 	"18." Shannon nodded.
 	"Still in school?"
 	"College, yeah."
@@ -10751,7 +10867,7 @@ SCENE
 	"Who's 'we', Morland?" the Commandant asked.
 	"Um... Miss Derrington discovered it." Morland admitted.
 	"Excellent. For a cripple, she has some use for us." the Commandant chuckled. "Anything else?"
-	"Yes. A substance she calls 'XJK5.' It sounds like its effects are similar to the truth serums we had before Zhou trashed everything..."
+	"Yes. A substance she calls 'XJK5.' It sounds like its effects are similar to the truth serums we had before Zhao trashed everything..."
 	"Good. Each finding brings us closer to rebuilding what he stole."
 	Morland gulped. "Have you had any luck tracing him, Commandant?" he asked timidly.
 	"Don't get your knickers in a twist, Morland." the Commandant snapped.
@@ -10780,7 +10896,7 @@ SCENE
 	Johnny stood, and complied.
 	"Babe?" his boyfriend asked, shocked.
 	"It's alright, love... It's alright." Johnny sighed, as he was dragged away. The officers beat him savagely with their batons, and threw him into their van. The squadron leader gripped Johnny's face, and looked into his eyes.
-	"Johnathan Kane, I am detaining you under the Terrorism Act. Basically... you're fucked."
+	"Johnathan Flynn, I am detaining you under the Terrorism Act. Basically... you're fucked."
 
 	Meanwhile, Shannon was sat in her flat, typing away on her computer. She had a shell open, and was typing in various network administration commands.
 	"Open, sesame." she grinned, pressing Enter and seeing a number of files go from Locked to Unlocked.
@@ -10872,7 +10988,7 @@ FLASHBACK
 	"How d'you mean?" Vince tilted his head.
 	"Maybe we can take the fight to them. We work well as a team, you saw it. 'Cause I don't know about you, but I'm sick of them lot running the show."
 	Vince thought, then smiled warmly. He extended his hand. "Vince Barrett."
-	"Johnny." the punk smiled, shaking his hand. "Johnny Kane."
+	"Johnny." the punk smiled, shaking his hand. "Johnny Flynn."
 	Vince chuckled. "That a pornstar name?"
 	"God given." Johnny grinned. "But speaking of... I heared through the grapevine the Pink Fox is looking for bouncers to keep 'em safe from the Patriots' extortion. Maybe we start there?"
 	Vince nodded, cracking a smile. "Viva la revolution."
@@ -11002,7 +11118,7 @@ SCENE
 	"At ease. Report." The Commandant gestured.
 	"Commandant, sir. We've launched a crackdown on the rivals to our proxies in the Patriots - a gang of miscreants called the Redbridge Syndicate."
 	The Commandant's eyes flared. "Who was arrested?"
-	"The leader, Johnathan Kane. Two enforcers - Pawel Rakowski and Connor Barrett. A deliveryman called Trey Morgan. A hacker called Liam Taylor, and lastly, detective Naismith."
+	"The leader, Johnathan Flynn. Two enforcers - Pawel Rakowski and Connor Barrett. A deliveryman called Trey Morgan. A hacker called Liam Taylor, and lastly, detective Naismith."
 	The Commandant grinned. "Were there any difficulties in the arrests?"
 	"Barrett in particular was resistant. He injured two officers with their own batons, before surrendering to armed police." Dorsey nodded.
 	The Commandant smirked. "I'm guessing the shift-up in local politics has also been beneficial for you?"
@@ -13713,7 +13829,7 @@ FLASHBACK
 	"Wait...You're saying the same thing that killed my mum..."
 	"...killed mine?"
 	"No way." Connor shook his head. "I mean, sure, our year in school is small, on account of the Incident - but me and Amy were the only ones who survived."
-	"Amy? Amy Zhou?" Trey tilted his head.
+	"Amy? Amy Zhao?" Trey tilted his head.
 	"Yeah. She's my foster-sister."
 	Trey stroked his chin pensively. "Everyone else in our year had luckier mums than me - that's what we were told. It didn't hit everyone - only 60%."
 	"Which is why our year's so small. Because half the kids who would've been born were stillbirths."
@@ -14689,7 +14805,7 @@ FLASHBACK
 	Down in the carnage, Sveta spotted a rebel - he was a huge man, wearing bloodied kevlar. She shot at him, and he barely fliched.
 	Unfazed, she kept firing, only for him to charge and launch her in the air. She landed down, and wheezed.
 	"Poor girl." he said in English - he had an American accent.
-	She pulled out her pistol, and fired at his head. His head snapped back, but he didn't fall.
+	She pulled out her pistol, and fired at his head. It snapped back, but he didn't fall.
 	A Super-Agent. One of the first, in fact.
 	"Oh, I was gonna be quick. But now... Now I'm gonna make you suffer..." he growled, approaching.
 	KK-BOOM!
@@ -14736,7 +14852,7 @@ FLASHBACK
 	"[General.]" Ivan nodded.
 	"[We were saddened to learn of the heroic death-in-service of colonel Trepov.]" Lebedev noted sourly.
 	"[Perhaps you could enlighten us about the details of his sacrifice, comrade?]" Makharadze added.
-	"[Gentlemen.]" Morozov interrupted. The two colonels flared their eyes, but relented.
+	"[Comrades.]" Morozov interrupted. The two colonels flared their eyes, but relented.
 	Tarkovsky continued. "[With Moscow's fall, returning home may be... dangerous. Comrade Morozov here has informed me that Tbilisi remains loyal. Therefore, we will march to Georgia instead, and seek reinforcements, before retaking the capital.]"
 	Ivan shook his head. "[General, with respect, the 9th cannot hope to take Moscow, even if the entire Transcaucasian Military District was at our side.]"
 	"[He's right, Tarkovsky.]" Morozov nodded. "[Get your men to Tbilisi, let them rest, and do what you can here in the Caucasus. As much as I weep for the Motherland... this will be a long, long war.]"
@@ -14745,7 +14861,7 @@ FLASHBACK
 	"[What can I say? The rifle did the work.]" Ivan shrugged.
 	Morozov chuckled. "[Listen... with Kruglov's death and Moscow's fall, things are going to get a lot worse before they get better.]"
 	"[Get to the point, comrade.]" Ivan muttered.
-	Morozov grinned. "[We can't win a war against our own people - you know this. But what if we waged a more... secretive war?]"
+	Morozov grinned. "[We can't win a conventional war against our own people - you know this. But what if we waged a more... secretive war?]"
 	"[Go on?]"
 	"[Our enemies appear to be backed by some... cabal. We believe they sponsored Kruglov's rise, and now have taken advantage of his idiocy. And they are also behind the creation of this... super-soldier you took down. Our mission... is to find these conspirators, and kill them all.]"
 	"[You want me to become an assassin?]" Ivan tilted his head.
@@ -15249,7 +15365,7 @@ SCENE
 	"Ah, Chloe! Good to see you. Can I help you and your friends?" he asked.
 	"Hi Professor! My friend here, Amy, was hoping to apply to the veterinary apprenticeship course next year - I was wondering if you could have a chat with her, explain the course a bit?" she asked.
 	"But of course! Good to meet you, Amy. What interests you in verterinary sciences?" he asked, his voice welcoming.
-	"Good to meet you too, sir!" she beamed, extending her hand out for a handshake. "Amy Zhou. I, um... I love animals, and I really want to look after them." she said bashfully.
+	"Good to meet you too, sir!" she beamed, extending her hand out for a handshake. "Amy Zhao. I, um... I love animals, and I really want to look after them." she said bashfully.
 	"Excellent! Truly excellent!" he beamed. "Far too often, I see prospective students say they wish to study to 'see the world', or to 'secure a good career'. Too few people take my courses for the one reason they should - to do good in the world!"
 	Chloe smiled. "Professor Lowenthal teaches the Biomedicine side of my course." she explained.
 	"And I must say, Miss Derrington, you are top of my class!" he beamed with pride. "Your solution to the antibiotics assignment - breathtaking!"
@@ -15283,7 +15399,7 @@ SCENE
 	Once out of earshot, Lowenthal took a deep breath.
 	He picked up an old photograph of himself and some other work colleagues, dated 1995.
 	He looked closely at one in particular, then looked out at the group, focused his view on Amy, and sighed deeply.
-	"Zhou..." he whispered.
+	"Zhao..." he whispered.
 
 Uni Open Day
 ______________________________
@@ -17393,7 +17509,7 @@ SCENE
 	Chloe chuckled softly, and looked down. Connor twitched slightly.
 
 	The room was dark. Connor was chained up, and being beaten with stun batons. His vision flickered red, the chains biting into his wrists. Each crack of the stun baton felt like fire searing through his veins. He tasted blood, sharp and metallic, as his screams echoed in the cold, unyielding chamber.
-	He screamed in pain. Dr. Zhou stood there, wincing. He looked over his computer sreen.
+	He screamed in pain. Dr. Zhao stood there, wincing. He looked over his computer sreen.
 	"Xeno-adrenaline levels rising. Subject is approaching full activation."
 	"Keep hurting him." the Commandant growled, smirking. "Judge - do it."
 	The Judge skulked in from the shadows, holding a syringe.
@@ -17617,7 +17733,7 @@ ______________________________
 SCENE
 	The next morning, Connor was in the shower. He stood there, letting the water run over his face.
 	While this happened, he saw flashes - glimpses of lost time.
-	He saw the Commandant, and Zhou, cutting him up.
+	He saw the Commandant, and Zhao, cutting him up.
 	The memories had been lost to him, but when the Judge nearly killed him, it awoke something.
 	Flashes... only flashes of pain. But still, something.
 	He sighed, and reached for his chest - there was a nasty red mark there, which, considering he had his entire ribcage, heart, and lungs all punched out twice, was pretty good.
@@ -19031,23 +19147,21 @@ FLASHBACK
 	"Everything appears on track to have a healthy baby boy. Have you thought of any names yet?" he asked.
 	"Well, he wants to name him after his father." Kerry grinned, motioning at Phil.
 	"I still think Jamal's a good middle name." Phil smirked.
-	"I'm not saying it can't be his middle name!" Kerry laughed. "Anyway, we think we like the name Trevor."
-	"Trevor! That's a wonderful name!" the doctor smiled.
-	"Trey for short." Kerry added.
-	The doctor nodded, and they left. He pulled out his phone.
-	"This is Zhou." he began.
+	"I'm not saying it can't be his middle name!" Kerry laughed. "Anyway, we think we like the name Trevor. Trey for short."
+	"Trevor! That's a wonderful name!" the doctor smiled. They left, and he pulled out his phone.
+	"This is Zhao." he began.
 	"Your report?" a Scandinavian voice replied.
 	"All is well for the Morgans. Progeny is progressing as planned."
 	"The other families?"
-	"I am unable to make any motion on Barrett, without attracting attention from ODESSA. Other women..." Zhou shuddered. "Other subjects appear to be developing Rejection Syndrome. We have covered this up, of course, telling them that no defects have been found."
+	"I am unable to make any motion on Barrett, without attracting attention from ODESSA. Other women..." Zhao shuddered. "Other subjects appear to be developing Rejection Syndrome. We have covered this up, of course, telling them that no defects have been found."
 	"And how about your own family?"
 	"My... my daughter seems well, thank heavens."
 	"Excellent news." the voice replied. "Carry on."
-	Zhou sighed, and looked down at his phone. A text from his daughter, Mei.
+	Zhao sighed, and looked down at his phone. A text from his daughter, Mei.
 	"Will be home late - work have called me in. Can't wait to go on maternity!"
-	Zhou smiled softly, before shuddering at what he'd done.
+	Zhao smiled softly, before shuddering at what he'd done.
 
-Kerry's ultrasound + Zhou
+Kerry's ultrasound + Zhao
 ______________________________
 SCENE
 	Iain stared a thousand paces into the distance. Wherever his mind was, he begged it wasn't *here.*
@@ -19663,20 +19777,20 @@ SCENE
 	"Thank you..." the man nodded. He had a subdued Chinese accent - like a man who had lived in Britain for decades.
 	"What on Earth are you doing here?" Lowenthal asked.
 	"Good to see you too, Professor Lowenthal. It's been a while."
-	"I could say the same... Dr. Zhou."
-	Zhou took down his hood. He'd shaved his head and grown out a beard.
+	"I could say the same... Dr. Zhao."
+	Zhao took down his hood. He'd shaved his head and grown out a beard.
 	"Not the best attempt at disguise, I must say." Lowenthal grinned, before his expression turned sour. "Why have you come? You know exactly what ODESSA will do if they find you."
 	"I swear, Isaac, I never meant to bring any trouble to your door."
 	Lowenthal scoffed. "Oh, I don't care about that. I know full well there's a bullet out there with my name on it, and when it one day crashes into my skull, I'll finally pay for an iota of what we did. So, why have you come?"
-	"My grandaughter." Zhou shuddered.
+	"My grandaughter." Zhao shuddered.
 	Lowenthal rubbed his eyes. "Oh, Christ in heaven. Please, tell me it's not..."
 	"No, thank goodness. It's Subject 1 - Connor. He's the 'Werewolf.'"
 	"That makes much more sense." Lowenthal nodded. "I've done my best to keep track of them all, but it's not been easy. Thankfully, they've formed some friendship group. She's applied to one of my courses, you know. Veterinary science."
 	"Bright girl. If only I'd... Anyway, you've seen the news?"
 	"Who hasn't? As soon as I saw it, I knew exactly what they'd done. Textbook dysregulated activation. The poor child... not to mention what it did to Fenrir 6." Lowenthal sighed.
-	"Speaking of activations... have your assets contacted you?" Zhou tilted his head.
+	"Speaking of activations... have your assets contacted you?" Zhao tilted his head.
 	"I only have Jones left, and he's gone into hiding ever since the attack on the labs the other week." Lowenthal admitted. "I've considered recruiting Derrington, but until I know what she knows, it's far too risky. Why?"
-	"Trevor Morgan - Subject 49. 'Killed' in crossfire." Zhou began. "And then he made quite a mess at 1's house."
+	"Trevor Morgan - Subject 49. 'Killed' in crossfire." Zhao began. "And then he made quite a mess at 1's house."
 
 	The Earl of Oxford walked through an industrial hallway. He was accompanied by another man - this one, with a bushy moustache and slicked-back hair, along with black veins around his eyes.
 	"Mr. Vacher." the old man nodded. "You wished to show me the results of your... project?"
@@ -19705,11 +19819,11 @@ SCENE
 	"Oh... It is good to be back." he growled.
 
 	"So that just leaves Amy. Our beloved Subject 302. No wonder you're here." Lowenthal sighed.
-	"If Gordon's going to react to Glasgow like I expect, then I need to protect her." Zhou shuddered. "I'm not having her be a tool in all of this. Not again."
+	"If Gordon's going to react to Glasgow like I expect, then I need to protect her." Zhao shuddered. "I'm not having her be a tool in all of this. Not again."
 	"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of scotch. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
-	"No way." Zhou shook his head firmly. "Amy is still human. Unactivated. Unspoiled. We can't..."
+	"No way." Zhao shook his head firmly. "Amy is still human. Unactivated. Unspoiled. We can't..."
 	"*We* might not be able to stop it. The noose is tightening, old friend." Lowenthal sipped his drink.
-	"Dig a trench, Dr. Zhou. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
+	"Dig a trench, Dr. Zhao. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
 
 Battle of Glasgow, Denouement Part 2
 ______________________________

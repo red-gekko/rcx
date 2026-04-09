@@ -325,7 +325,7 @@ The Commission
 			Baseball grenades
 
 	Bedlam
-		Name:
+		Name: Anton Nechaev
 		Powers:
 			Super-Agent physicals
 			Mastery of explosives

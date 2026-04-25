@@ -9259,7 +9259,7 @@ SCENE
 	Connor stroked his chin.
 	"I'll go in first, try and disarm them." he began. "You take point on the rooftop overlooking the site. If they bolt for it, you help me intercept."
 	Sparky huffed slightly. "You always get all the fun!"
-	"Next time we hit a warehouse, I'll handle recon." Connor grinned, morphing on his suit.
+	Connor grinned, morphing on his suit. "I'll buy you a beefsteak."
 	"Deal."
 
 	"This is the police! We have you surrounded! Come out with your hands behind your head!" an officer barked over a megaphone.
@@ -9339,7 +9339,7 @@ SCENE
 	"Damn, you guys thought of everything, didn't you?" Connor grinned.
 	Ivan chuckled, and then turned dour. "There is one small problem I also had to discuss."
 	"Oh, here I thought the KGB-funded panic room came with no strings attached." Connor shrugged.
-	"Not quite that. That warehouse I hitting tonight? It was already taken."
+	"Not quite that. That warehouse I was hitting tonight? It was already taken."
 	"By who?"
 	"I don't know. But whoever it is, they made a mess of the Super-Agents, and destroyed the serum like I'd planned on. And weirder still - they used a bow and arrow."
 	"So... ODESSA has made an enemy of a KGB sniper, an autistic Irishman, a dire wolf... and Robin Hood." Connor sighed. "Any leads?"
@@ -9547,8 +9547,28 @@ SCENE
 Trey learns the truth
 ______________________________
 SCENE
+	Ivan spied over the warehousing unit with a pair of electronic binoculars. Next to him, Sparky's burning red eyes scanned through.
+	They both felt the impact behind them, as Connor dropped from his glide onto their rooftop perch.
+	"Evening, tovarishch." Ivan nodded. "You see them?"
+	Connor's eyes flashed, and he grimaced.
+	"Fifteen Super-Agents, all armed. And the big fucker in the middle, guarding the serum."
+	"They're expecting us." Sparky noted. "They're on edge. If we strike now, we'll be overwhelmed."
+	"You're right..."
+	"Translation?" Ivan grinned.
+	"We can't attack head-on." Connor sighed. "There's too many of them. We need to take out the gunmen first, and then focus on the Giant."
+	"15 gunmen. That's 5 each." Ivan stroked his beard. "Then we can triple-team big guy."
+	"Speaking of..." Sparky began, focusing his eye. "The Giant has some kind of... 'fuzz' about him."
+	"That's electricity, isn't it?" Connor tilted his head. "He's got some tech on him."
+	"I don't like the sound of that..." Ivan grimaced. "So, how do you think we proceed?"
+	"You're the expert. We're just the blunt instruments." Connor shrugged. "Still... I think we can use surprise on our side."
+	Ivan nodded, pointing. "The roof is pretty weak. We should attack through there. I'll shoot from the rafters while you two jump down."
+	Sparky rose, stretching. "I'll take left, you'll take right."
+	"Sounds like a plan."
+	The three heroes pounced over to the roof, and threw their weight downwards. Ivan caught himself on the rafters, and hung upside down, pulling back Isabella's bolt.
+	"CONTACT!" a Super-Agent roared, as Connor landed down, flattening him.
+	The Werewolves tore through the Agent ranks, sprinting as fast as possible while they planted blades into chests. Meanwhile, a hail of bullets popped into their skulls.
 
-Whiplash Saviour
+Warehouse Frenzy
 ______________________________
 SCENE
 	Trey sat on a park bench, looking down at the ground, deep in thought.
@@ -9614,6 +9634,10 @@ SCENE
 	Both giggled, and headed off.
 
 Trey and Amy catch up
+______________________________
+SCENE
+
+Whiplash Saviour
 ______________________________
 SCENE
 	Connor rose, and went outside, where Trey was smoking. He looked up at Connor, hesitated, and hugged him. Connor returned it.

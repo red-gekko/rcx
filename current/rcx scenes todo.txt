@@ -8,6 +8,19 @@ add a bit right before migraines where they go to the beach. Either have bea get
 	key thing in the beach is sparky being uncomfortable with sand, so connor helps him by demonstrating it's okay
 	think about whether or not chloe and bea would be there - maybe frame it where the gang is going out for the day in Angleport or Caldermouth South
 
+
+for the trey-finding-out fight
+	they ambush and take down the superagents, then focus on the Titan - a Jotunn/Crusader hybrid
+	Titan uses onboard computer to hack their earpieces, sonic attacking them. EMP fries Sparky, Ivan gets slammed, and Connor gets impaled
+	He notices a weak spot in the Titan's armpit, and kicks it to no avail. then, an arrow pierce it. the titan roars in pain, and whiplash enters
+	they continue to fight, with Connor trying to provide openings for whiplash to exploit. eventually, sparky revives, and they both grab the titan, hoping to drain its emp
+	they succeed, but Sparky is badly hurt, Connor passes out, and it bodyslams whiplash. before it can press the attack, Connor rises, screaming and covered in lighning burns, and grabs titan in a chokehold
+	Ivan warns that the armour is still just as strong without power, but connor simply growls "the flesh is weak" and manages to snap titan's neck
+	after, connor quips that whiplash keeps breaking ribs when they meet. she chuckles, then realises sparky can talk. she introduces herself to ivan, and the vigilantes make themselves scarce as the cops arrive
+	later, ivan infiltrates the police station, and steals some gadgets from titan's carapace
+
+
+
 post-winterwonderland chapter:
 	panic room: have ivan show connor the stunlocke suit + scanner tech, and reveal that the warehouse he was gonna hit that night has already been attacked - the assailant using a bow and arrow. worse, he suspects the serum shipment was *outbound* - meaning that someone was producing serum within drackhill itself. he and sparky agree to go investigate the following evening while connor takes a night off
 	at the same time, end with trey figuring out the identity, and going "oh god"
@@ -21,12 +34,43 @@ post-winterwonderland chapter:
 	open the leaving for christmas bit on connor's suit redesign
 
 
+debatable idea - have Connor's torture take place on an airship. It goes down during his escape, with Randall parachuting out. Firemen arrive to clear the wreckage, and it plays out as before
+	this would mean he only meets sparky at the fenrir site
+
+consider changing conspiracy lore:
+	remove ODESSA, making them merged with PaladinCorp and being outright puppets of the Optimates from the start
+
+
 
 new stuff from the eidolon raid
 	mainly gadgets for stunlocke
 		escrima stun sticks, which can be combined into a stun staff
 		motorbike, with turret attached (swapped for rubber bullets and pepper balls)
 		Personal CT drone
+
+
+during the first stunlocke outing (during the prison arc), have Whiplash attack Amy right after, using a lasso to hang her, only for ivan to shoot her free an unmask her. he reveals to whiplash that this is connor's sister, then tells her to put the suit back and never wear it again, as connor would never forgive himself if she got hurt. she jokingly bargains that she won't tell connor that whiplash tried to kill her if they don't tell him she was wearing the suit
+
+
+
+more superhero-y plot moments:
+	the 'wolfcave' (name pending) - include loads of gadgets and gizmos
+		consider having it not in connor's place, but in a separate safehouse, or even underground
+
+	plot point where a new drug is being sold, derived from paradrenaline
+		connor discovers that Eidolon are making a stimulant based on it
+
+	the Skulls gang
+		new gang with a gimmick - all members wear skull masks
+		they use a modified versionof Eidolon's drug, which is essentially a temporary super-serum - it enhances the user's strength, toughness etc, but doesn't change their genetics. lack of use leads to withdrawal, and even death
+		The Skulls have a monopoly on the drug, which they use to take over London's gang scene - only Drackhill is truly safe thanks to Connor
+		Skull Toxin is invariably fatal upon withdrawal. The only treatment is either true super-serum, or healing serum - both of which are in short supply. Taking down Skull goons typically has them locked up in the Institute, with Chloe trying to find a cure
+
+	Connor starts going after one-percenters, especially Eidolon and Paladin clients
+
+
+
+
 
 
 alternate solution to the demons and vampires:
@@ -89,6 +133,20 @@ new powers as the plot demands!
 		use these for non-lethal capture - can morph them into hogties or cuffs once he catches them
 	sound funnel
 		don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
+
+odessa/optimates lore: different mook types:
+	super-agent - basic serum user
+	crusader - agent with power armour
+	fenrir - serum-infused canid
+	garm - cyberised fenrir
+	giant/Jotunn - agent with increased stature and strength
+	Titan - giant in power armour
+	Psi-Agent - telepathic super-agent
+	Hound - Junior-type mutant
+	Fiend - Hound in powersuit
+	Transcendant - Moxidar-level mutates
+
+
 
 
 rewrite the first date - have it in an arcade instead of a tennis court

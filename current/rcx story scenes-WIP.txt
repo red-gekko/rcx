@@ -4208,7 +4208,7 @@ SCENE
 	KK-*BOOM!*
 	For a brief moment, Connor was blinded by the brilliant light. The blazing inferno was lit by roaring blue sparks, and the stench of burning flesh filled his nostrils. He rushed to the train, and grabbed a fire extinguisher. Pushing on through his exhaustion, he quickly put out the flame.
 	He sank back down to his knees, clinging desperately to consciousness. The distant screams of the passengers echoed in the night, as the sound of a roaring motorbike approached.
-	Connor sighed, and readied his fists, only to relax at a famiar scent.
+	Connor sighed, and readied his fists, only to relax at a familiar scent.
 	"Chyort voz'mi, tovarishch..." Ivan gasped, impressed. "You don't do half measures, do you?"
 	"Grab his body." he wearily replied. "Get it back to your bosses... reverse engineer it or some shit. Find out a way to stop these things without..." he coughed, before spitting up more blood. "...without me having to cause a power cut."
 	"Good idea, bratan." Ivan nodded, ripping the blade from the wreckage and hoisting up their latest kill. Sparky trotted over, and licked Connor's hand.
@@ -9565,26 +9565,53 @@ SCENE
 	Sparky rose, stretching. "I'll take left, you'll take right."
 	"Sounds like a plan."
 	The three heroes pounced over to the roof, and threw their weight downwards. Ivan caught himself on the rafters, and hung upside down, pulling back Isabella's bolt.
-	"CONTACT!" a Super-Agent roared, as Connor landed down, flattening him.
+	"CONTACT!" a Super-Agent roared, as Connor landed down, flattening him. Shards of glass rained down, embedding into the bloody mess.
 	The Werewolves tore through the Agent ranks, sprinting as fast as possible while they planted blades into chests. Meanwhile, a hail of bullets popped into their skulls.
+	It was a hard push, but it worked. All Agents were down.
+	Connor turned to face the Giant, but before he could...
+	*SH-SHK!*
+	He looked down, and saw a blade pokingfrom his abdomen. At first, it didn't hurt.
+	Then, he felt a surge. He convulsed in agony, throwing himself forward. He stumbled, and braced himself against a crate of serum, looking up.
+	The Giant rose, stretching out. It was clad in a powered exoskeleton, holding an oscillating blade.
+	Ivan's sniper rounds slammed into it, barely denting the metal. A large collar plate guarded its neck, offering it surprising mobility.
+	"Chyort! They gave it Crusader armour!" Ivan snarled. "Try to get me a clear shot!"
+	"On it!" Connor spat, as he and Sparky leapt forward.
+	Sparky kicked a small propane tank in the air. Connor grabbed it, and hurled it at their titanic foe. As it hit, Ivan's bullet crashed through, and a fiery shockwave staggered the beast.
+	The Werewolves didn't hesitate. The pair pounced, with Sparky hooking his claws underneath a chest plate, using his strength to pry it loose. Connor meanwhile focused his attention on the monster's sword-arm, aiming his strikes at a small gap by the elbow.
+	Then, the three convulsed in unison, clutching their heads in agony.
+	A horrific screaming noise pierced through their earpieces, as they howled. The Giant grinned sadistically underneath his helm, and sliced his assailants with his oscillating blade.
+	Ivan crashed down from his ceiling perch, scowling in pain. He stumbled to his feet, desperately fumbling in his ear - trying to reach the hijacked device.
+	"TURN IT OFF! TURN IT OFF!" Connor roared, as he scrambled away from the blade.
+	Sparky unhooked his claws, and then drove them into Connor's ear. Blood ripped out, but the agony subsided. Now clear of mind, Connor's hands darted out, pulling Sparky's earpiece free. Likewise, Ivan finally managed to pull out his own earpiece, which was bloodied from a torn eardrum. His balance was gone, as he tried to aim into the carnage - wary of shooting his comrades.
+	The Giant responded by kicking Connor with enough force to smash him into a shelving unit. A number of heavy crates fell down, and Connor clinged desperately to consciousness.
+	It raised its blade up, which hummed with power. Sparky barely dodged the first swing, as the second cut into his snout.
+	*KK-BANG!*
+	Ivan was many things - but he was not a man who would let his comrades down. A career as a Comissar will do that.
+	He launched into the fray, Isabella's underbarrel shotgun in hand, and blasted the blade out of the Giant's hand. It spun outwards, the mechanism on the hilt sparking and failing, and it sank into the ground.
+	The Giant smirked beneath his helm, as Ivan looked up.
+	"Oh, blyat..." he sighed.
+	He felt the back of a cerametallic gauntlet slam into him, and he sailed through the air, coming to a sudden stop against a brick wall.
+	The Giant grabbed hold of Sparky, held him in a bear hug, and squeezed. Sparky's bones began to crack, but that was the least of his worries. Electricity coursed through his veins, as his fur stood to attention and he screamed in agony.
 
 Warehouse Frenzy
 ______________________________
 SCENE
-	Trey sat on a park bench, looking down at the ground, deep in thought.
-	Amy arrived, and sat next to him.
-	"You wanna tell me why you're moping around?" she asked teasingly.
-	He snickered slightly. "You know what this place is?"
-	"A... park bench?" Amy answered, head tilted.
-	Trey chuckled. "Me and Connor used to come here after college. We'd shoot the shit, complain about how much we hated it there, and just... be normal kids, you know?"
-	"Where's this coming from?"
+	Trey leaned back from the computer, amazed. Everything made a hell of a lot more sense now. Then, he heared the jingling of keys, and darted upwards.
+	"Shit. Shit. Shit." he gasped, scrambling out of the room and hurriedly hiding the entrance. He walked into the living room, just as Amy did.
+	"Yo, dickhead. Are you--oh." she began. "Uh, hey man. Is Connor in?"
+	"Uh, he's busy." Trey shook his head.
+	"Okay... so you're just here on your own?"
+	He nodded, then sat down on the sofa. She joined him.
+	"So... what's wrong?"
+	"What do you mean?"
+	"You've got a look on your face. The kind you normally have when you're in a mopey mood." she teased.
 	He sighed. "Amy, I... I know."
 	"Know what?" Amy prodded cautiously.
 	"Not to mess with Connor on a full moon." he snarked.
 	She folded her arms. "Say it out loud."
 	"He's the Werewolf."
 	She sighed, and rubbed her temples. "He told you?"
-	"No." Trey whispered, his face turning grim. "I figured it out yesterday, after those... things."
+	"No." Trey whispered, his face turning grim. "I figured it out last night."
 	Amy nodded, her expression changing to a more caring one.
 	"Does he know you know?" she asked.
 	"Yeah." he replied. "He came round mine earlier, and I told him."
@@ -9616,22 +9643,10 @@ SCENE
 	"Honest. Caring." Trey replied. "...good."
 	"Exactly. 'Good.' Connor is a good man." she began. "So, I don't care that he lied to us, because I know in my heart that when he lied, he was doing it for a good reason. Was it correct? I don't know. But I do know that he wouldn't have done it if he didn't think it was right. He was trying to protect us, and if you can't see that, you don't know him as well as you think you do."
 	Trey sat there for a moment, deep in thought.
-	"I... You... You're right." he admitted. "I just... you have to agree, if he's trying to protect us, it ain't working. After we got jumped by those... those freaks." he shuddered.
-	"How hard did you hit your head last night? Are you forgetting he saved our lives?"
-	"We still got attacked." Trey countered.
-	"And even if we all knew about his identity, we'd still have been attacked. Connor found out about the attack moments before it happened. He had no way to warn us." she argued back.
-	"I... I know. But still, if we're in danger, we deserve to know. And that goes double for Chloe."
-	"From what Connor's told me, there's something going on over there, too." Amy sighed. "I know - Trey, I fuckin' *know* that we all deserve the truth. But we don't live in an ideal world. It's simpler, more straightforward - if Connor can keep his personal life separate from... from *that.*"
-	Trey leant back. It started to drizzle with rain.
-	"He told me he's away today." he continued. "Off to kill some... kingpin or something."
-	"Yeah." Amy shrugged. "Apparently, there's a 2 million dollar bounty on his head. Connor's gonna use the money to reopen the old community centre."
-	Trey couldn't help but smile softly. "Well, at least it's going towards a good cause."
-	"It always has." Amy sighed. "He's sacrificing so, so much, just to protect people. He... He needs us to be there for him."
-	"Look, I..." Trey smiled.. "Thanks for this. I just... I needed to talk about it."
+	"I... You... You're right." he admitted. "I just... I needed to talk about it."
 	"No problem." Amy smiled softly. "I know it's hard, but... he's still Connor. The Werewolf is just an extension of that."
 	Trey nodded. "I guess it's not all bad... If I'm out on the pull, I can always use the 'My best mate is a superhero' card now." he chuckled.
 	Amy laughed. "You are so fucking lame."
-	Both giggled, and headed off.
 
 Trey and Amy catch up
 ______________________________

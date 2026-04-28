@@ -178,6 +178,9 @@ MKUltra
 		Name: Olivia Cunningham
 		Powers:
 			Trajectory manipulation
+			Whips
+			Throwing knives
+			Bow and arrow
 			Super-Agent physicals
 
 	Whisper
@@ -341,6 +344,17 @@ The Commission
 		Name:
 		Powers:
 			Telepathic control of rats
+
+	Chain Pain
+		Name:
+		Powers:
+			Full-body chainmail suit
+			Hands replaced with flails
+
+	Knightmare
+		Name:
+		Powers:
+			Encased in a full-body knight's armour
 
 Blood Court
 

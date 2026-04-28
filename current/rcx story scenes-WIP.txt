@@ -7320,7 +7320,7 @@ SCENE
 	"Sorry, darling. Busy schedule." she smirked. She threw a knife into the air, and hit it with her whip. To Connor's amazement, the whip's edge wrapped around the handle and knotted itself perfectly.
 	"Whoa... do it again!" he snarked, before pouncing in.
 
-	Whiplash, true to her name, swung her whip out, the knife at the edge slashing across Connor's chest. At the second strike, he grabbed the rope, only for the knife to swing around and stab into his abdomen. He pulled the whip as hard as he could, and Whiplash launched towards him.
+	Whiplash, true to her name, swung out, the knife at the edge slashing across Connor's chest. At the second strike, he grabbed the rope, only for the knife to swing around and stab into his abdomen. He pulled the whip as hard as he could, and Whiplash launched towards him.
 	He sent a haymaker aiming right for her head. As it sailed through the air, he felt it move - as if some hidden force was pushing it away. All the momentum was lost, as it went right by the side of her head. Meanwhile, she pulled two knives from her belt, and sank them repeatedly into his torso.
 	He kicked her as hard as he could, and actually made her move - slightly. He scurried backwards, gasping for breath.
 	"Okay... time out?" he shrugged.
@@ -9142,7 +9142,7 @@ SCENE
 	Charlie cleared his throat. "So, Connor - pardon me if this sounds rude, but that's a fascinating accent you have there. Are you Scottish?"
 	Connor laughed, as did Trey and Amy. "Sorry... never heard *that* one before."
 	"Och, aye, ye're a wee bit Scottish, laddie!" Trey snarked in a frankly terrible accent. Bea giggled, and Charlie had to stop himself from glaring.
-	Connor finally cleared his throat. "I'm Irish. Grew up in Derry, then I moved here when I was wee."
+	Connor finally cleared his throat. "I'm Irish. Grew up in Derry, then I moved here when I was wee. I guess if you mix English and Ulster, you get Scottish."
 	"Don't you mean Londonderry?" Charlie asked, cocking an eyebrow.
 	"I do not." Connor said bluntly. "Sorry - bit of a sore subject back home."
 	"Ah, I see." Charlie nodded. "It's such a shame, out there. All that fighting over religion..."
@@ -9266,13 +9266,13 @@ SCENE
 	Connor dived down a makeshift chimmney, and burst out from the firepit.
 	"Santa's little helper." he grinned, raising his fists. He immediately cringed. "Ugh, sorry... that sounded cooler in my head."
 	"Really?" Sparky snarked from above, his yellow eyes keeping watch.
-	"HOLY SHITBALLS!" Steve gasped, firing. The bullet smacked into Connor's shoulder. He flexed, and it dropped out, clinking on the ground.
+	"HOLY SHITBALLS! IT'S THE FUCKIN' WEREWOLF!" Steve gasped, firing. The bullet smacked into Connor's shoulder. He flexed, and it dropped out, clinking on the ground.
 	"Now that wasn't very nice." he growled lowly. "Definite naughty list, eh, big man?"
 	"Very naughty indeed." Santa chuckled grimly.
 	"Mr. Werewolf!" a young girl called out. "These men are trying to steal Christmas!"
 	"Oh, is that true?" Connor played along, clenching his fists. "We can't have that, now, can we?"
 	In a second, he pounced, and sent a flurry of hits that made Steve crumple to the ground, wheezing and moaning. He turned, and his hearts quickened.
-	"Stay right there, or Santa gets it!" Dave barked, pressing the gun into his temple.
+	"Stay right there, or... or Santa gets it!" Dave barked, pressing the gun into his temple.
 	Connor's eyes flared red. "Listen to me." he began, his voice echoing with rage. "The only reason you and your friend are not red paste is because I don't want to traumatise these children. If you pull that trigger, that reason becomes void. *Do I make myself clear to you?*"
 	Dave gulped, pale as a sheet. Finally, he relented, dropping his gun. Connor morphed a set of restraints for both men, and kicked a hole into the wall, throwing both out.
 	The children rose, clapping wildly.
@@ -9289,7 +9289,7 @@ SCENE
 	"Thank god for the Werewolf, eh?" Bea grinned.
 	"You're kidding? That monster?" Charlie challenged.
 	"Monster? The fuck are you talking about?!" Amy snapped, scowling.
-	"Saving people tonight doens't change that he's killed every other night." Charlie snapped back.
+	"Saving people tonight doesn't change that he's killed every other night." Charlie snapped back.
 	"Alright, alright." Bea said, stepping between the two. "Let's just focus on finding Connor."
 	At that, Connor and Sparky reappeared. Connor flashed his phone in the air, putting on a pant.
 	"They... they're on their way... should be here by now..." he gasped, before looking around. "What did I miss?"
@@ -9643,113 +9643,131 @@ SCENE
 Trey and Amy catch up
 ______________________________
 SCENE
+	"GET OFF ME!" Sparky roared, as lightning coursed through his veins.
+	Connor pushed off the last crate, aching and bleeding. He looked up, and it didn't matter anymore. His packmate needed him.
+	"DIE!" he screamed, lurching forward, his eyes aflame. He slammed into the titan's chest, with enough force to slightly dent its cerametallic carapace. Sparky used his remaining strength to break free.
+	The Giant's fists clenched in fury, and it wrapped them around Connor's neck.
+	If he could still breathe, he'd have roared in furious defiance. Instead, he rattled, as his limbs flailed at the monster holding him aloft.
+	Sparky desperately struck at its legs, each time fighting through the pain of the shocks.
+	Connor spat. He sputtered. He kicked and scowled and clung to life.
+	His eyes dimmed, and started to roll back.
+	His ear - the one not deafened by his earpiece - pricked up ever-so-slightly. It heard something he did not.
+	*FF-SHK!*
+	The Giant screamed in fury and pain, slamming Connor to the ground. He choked and looked up, watching as it plucked the obsidian-tipped arrow from its armpit.
+	His eyes weakly moved to the side, and saw her.
+	"Olivia?" he whispered incredulously.
+	Whiplash drew another arrow, and fired again.
+
+	The newscaster brought his finger down from his earpiece, and sighed.
+	"*ahem.* We've just received a breaking news report of some kind of fight in Angleport. We, uh... we go now to our live correspondant. Zack, what's going on down there?"
+	"Thanks, Tim." Zack began, stepping to the camera's side to give a clearer view. "As you can see, the police have established a cordon around the warehouse. Gunshots were reported earlier this evening, but now the noise indicates some intense battle going on. We've heard crashes, explosions, and even some electrical sounds."
+	"What are the police doing?" Tim asked.
+	"Nothing, by the looks of it." Zack muttered. "It seems their plan is to let this pan out, and then move in and apprehend the survivors."
+	At that, a section of wall gave way, and the Giant's cerametallic gauntlet was caught by the camera as it swung forwards.
+	Zack cleared his throat, and ushered the cameraman to a safer spot.
+	Watching all this, Trey and Amy sat at the edge of the sofa, their hearts racing.
+
+	The arrow twisted in the air, curving on an invisible line and burying itself in a soft point - the Giant's elbow.
+	It roared, grabbing a crate and launching it at its assailant archer. She dropped her bow and placed her palms out, gently catching it and sending it careening into a wall by the side.
+	A distraction. The Giant closed the gap just as she turned to face it, and belly-flopped onto her.
+	She used her powers to soften the blow, but screamed out as she surged with electricity.
+	"GET AWAY FROM HER!" Connor howled, as he and Sparky slammed into the beast. They twitched as they made contact, but felt Whiplash's force push them forwards.
+	It fell, and the three inhumans rose.
+	"Fancy seeing you here..." she sputtered.
+	"Its armour can electrify you on contact." Connor said firmly. "We need a different strategy."
+	"Look!" Sparky barked, motioning. "It looks less bright, now."
+	Connor's eyes flashed, and he nodded. "It's low on power. We need some way to finish it off, then make it vulnerable."
+	"We can grapple it." Sparky chimed in. "If we're both on it, it should run out faster."
+	Connor raised his fists. "Good idea. Oliv--Whiplash, we'll take the brunt of it. Once it's down, kill it."
+	Whiplash looked down at Sparky in shock, but shook her head. "Got it, Werewolf."
+
+	The two pounced forward, wrapping themselves over the Giant. Immediately, agony flowed through their bodies, and they forced themselves to hold on.
+	It burned. It ripped. It tore. Every neuron was ablaze. The Giant tried to slam into a wall, but felt the air thicken and resist its push.
+	Whiplash's hands tremored as she forced the beast to stay still. Inside, she cursed herself for not studying electrokinesis in the labs. Still, she did her best to help.
+	Screams stopped, as throats ripped from strain. The boys arched in the purest agony.
+	Finally, it stopped. Both fell down, cushioned by force. The Giant slammed down, smoke billowing from ports in the suit.
+	Whiplash took a deep breath, drew an arrow, and fired.
+	Bullseye. Or rather, Giant's eye.
+	It roared, but to her horror, rose. Its suit was fried and dead, but the flesh within still raged.
+	She drew another arrow, but too late. Its fists slammed down, and clipped her as she dodged. She smacked into the ground, scurring away.
+	The Giant raised its cerametallic boot, and planted it on her chest. She forced the air to come back to her lungs, scowling in defiance.
+	It shifted its weight against her force, sinking into her ribcage. It could've done this quicker - but no. It wanted to make her suffer.
+	"Get off... get off..." she spat.
+	The Giant grinned savagely under its helm. And then, it heard something that stopped its hearts.
+	Connor rose.
+
+	The Werewolf's chest heaved a bloody, ragged breath. Jagged burns covered his hide, like lightning scars. His eyes blazed with hellish furor.
+	The Giant turned, but not quick enough. Connor wrapped his arms around its helm, and his legs around its shoulders.
+	Ivan crawled out from his own pile of wreckage, shakily and weakly aiming his pistol. The bullet pinged off of its carapace.
+	"Yob tvoyu mat..." he spat. "Connor! Its armour is too strong!"
+	"*Its bones aren't.*" he snarled, as he began to twist.
+	Whiplash looked up, and her eyes flashed. Her forces pushed Connor one way, and the Giant the other - like twisting off a bottlecap.
+	The Giant groaned. It reached up frantically. It tried not to die.
+	A noise crawled from its mouth. It sounded like a beg.
+	*SNAP!*
+	The monster twitched, and fell. Whiplash rolled away, as the impact cracked the ground.
+	Connor collapsed, and rose again.
 
 Whiplash Saviour
 ______________________________
 SCENE
-	Connor rose, and went outside, where Trey was smoking. He looked up at Connor, hesitated, and hugged him. Connor returned it.
-	The pair sat on chairs, and stared into the distance.
-	Finally, Trey spoke.
-	"I had a long chat with Amy yesterday afternoon. She... she helped me to understand."
-	Connor looked up at him, teary-eyed.
+	"Jesus..." she whispered in awe. "You really are hard to kill."
+	"Keep that in mind next time you take a contract against me." he quipped, before spitting out a globule of blood. He stumbled over to Sparky, and hoisted him over his shoulders.
+	"We've gotta go, now. The cops'll be here any second."
+	Whiplash nodded, and rushed over to Ivan. She took his grappling hook, grabbed his waist, and fired into the rafters.
+	Connor watched, and closed his eyes, focusing. A rope morphed from his hand, and a suction cup formed at the end. He dallied the rope, and then threw it upwards. It stuck to the ceiling, and he morphed it back into himself, pulling upwards.
+	Now at the edge of the building, he dug his heels, and pounced. The team sailed over the gap, and made their way through the rooftops of Angleport Harbour. Finally, they came to a stop a few blocks away, and caught their breath.
+	Sparky's eyes fluttered open weakly.
+	"Did we... did we win?" he asked.
+	Connor chuckled, stroking his packmate's ears.
+	"Yeah, buddy. We won."
+	Ivan's eyes shot open, as he sat upwards. He coughed, and forced himself to his feet.
+	"What happened?"
+	"Oh, yeah. Whiplash, meet Ivan and Sparky. Guys, meet Whiplash." Connor shrugged.
+	Ivan looked her up and down, then nodded. "Thank you." he said curtly.
+	"Any time." she nodded back.
+	"Oh, you're that assassin! Are you our friend now?" Sparky asked.
+	She cleared her throat. "Uh... yeah, I am."
+	"You... heard that?" Connor tilted his head.
+	"Psychic assassin, remember?" she grinned.
+	"No way! Someone else who can hear me?!" Sparky yapped in excitement. She started back, but let him jump up at her. She chuckled at the irony of a telepathic dire wolf acting like an overgrown puppy.
+	Ivan rolled his shoulder, feeling it click. "Oh, chyort!" he gasped.
+	"What's wrong?" asked Connor.
+	"We left Isabella."
+	"You and that fucking gun..." Connor grinned. He turned to Whiplash.
+	"So... bows and arrows? That's new."
+	She smirked. "*That's* your opening line?"
+	"Well, you might have to change your codename now, right?"
+	She chuckled, stroking Sparky's mane. "I had to go off-grid. But I knew if these bastards got a bigger presence in the city, they'd come for me. So, I took pre-emptive measures. A bow and arrow isn't my usual MO, so they won't suspect me. But I can still use my powers with it."
+	Connor shrugged. "Does this mean you're team good-guy now?"
+	She hesitated. "Part-time."
+	"Works for me."
+	The four rose, looking down at the destruction.
+	"A monster like that would cost millions..." Ivan muttered. "We won't see anything like that again for a while."
+	He turned to his comrades. "I'll speak to my guys, get some new earpieces - this time, ones that they can't hack to make us deaf."
+	"That'd be nice." Connor snarked.
+
+	It was late, now. Midnight wasn't far.
+	Trey and Amy were shaken from their panic by a thud in the garden. They rushed outside, and saw the Werewolves morph their gliders back into themselves.
+	"Oh my god, you're okay..." Amy gasped, rushing over to them. Trey stood stunned, but shook his head, and joined them. After a quick group hug, he helped them inside.
+
+	"What happened?" Amy asked, setting down a cup of tea. Sparky greedily ate his promised beefsteak, and passed out in his bed.
+	"A cyborg giant beat the shit out of me, and then a psychic dominatrix rescued us." Connor shrugged, grinning.
+	"Damn..." Trey gasped. "You... you're not fucking with me, are you?"
+	"No, that pretty much covers it." Connor groaned, stretching. "I'll be fine. Just need a good night's rest."
+	Trey hesitated for a little while, before finally speaking.
+	"I had a long chat with Amy earlier. She... she helped me to understand."
+	Connor looked up at him, teary-eyed. Amy nodded softly.
 	"I get it now..." he continued. "You thought you were protecting us. But do you know how much it *hurts* to think my best friend didn't trust me enough to let me in?"
 	"I'm sorry..." Connor repeated. "I'm letting you in now."
 	Another long pause. Finally, Trey wordlessly hugged Connor again.
 	"I..." Trey paused. "I'm not going to act like I'm not *pissed* at you for lying to me. Just... promise me, you'll tell me the truth from now on."
 	"I swear. From now on, no more lies." Connor vowed.
 	Trey smiled. "I love you, bro."
-	"Love you too." Connor smiled back. The pair headed inside.
+	"Love you too." Connor smiled back.
+	Amy smiled, and hugged both. They all sank into it.
 
 Reconciling with Trey
-______________________________
-SCENE
-	Connor's car pulled up outside his place, fresh from dropping Yaz and Chloe off to their respective destinations. He and Sparky hopped out, and went in.
-	"Yo, yo!" Amy cheered as they entered, having made herself comfortable.
-	"'Sup?" he smiled.
-	Trey came out from the toilet.
-	"Pff... I'd give it five minutes." he grinned. 
-	Connor chuckled. "Unless you have super-senses. Then I'd give it 20."
-	"Wait, is it that bad?"
-	"No, I'm fucking with you." Connor smirked.
-	Trey laughed. "How should I know? You can punch through walls and shit, it wouldn't surprise me."
-	"Wanna see what I can do?" Connor's eyes flashed red, as he stared at Trey's chest. "Bm-bm. Bm-bm. Bm-bm." he went, to the tune of Trey's heartbeat.
-	"Holy fuck..." Trey shuddered. "I--Connor, it's okay, calm down..."
-	Connor's eyes quickly faded back to normal. "What's wrong?" he asked, worried.
-	"I---Well, don't your eyes turn red when you get pissed off or something?"
-	"Well, yeah, but they turn red whenever I use any of my 'active' powers." Connor explained. "Right there, I was using my super-senses to see your heartbeat."
-	"Let's see..." Amy grinned. "A superhuman saying 'Wanna see what I can do?' with his eyes turning red; as he mimics your heartbeat while staring into your ribcage... Yeah, you're lucky he's already had a shit."
-	"Sorry, bro." Connor said softly. Trey hugged him.
-	"It's cool." he chuckled. "So, you could actually see my heartbeat? Like, X-ray vision or something?"
-	"X-ray vision would give you radiation poisoning." Connor grinned. "Nah, my super-senses work off of synesthesia. So, I can tune up my super-hearing, but then map it onto my vision, which lets me 'see' where noises are coming from more accurately. It works for Sparky too - except, being a wolf, his primary sense is his smell, so he maps things onto that."
-	"So, what, his nose goes red? Like Rudolph?" Amy tilted her head.
-	"No, like this!" Sparky barked, flashing his eyes red.
-	"Whoa..." Amy gasped.
-	"As I said, for some reason, they turn red whenever we use our powers." Connor shrugged. "Not sure why, or why the eyes specifically. Add it to the list of questions."
-	"Power*s?*" Trey tilted his head.
-	"So far, I've counted wall-crawling, reinforced armour, super-senses, claws, and reflexes." he listed. "Also, I can force my powers to go overtime, too - so I can push my strength beyond normal, take harder hits, heal quicker... it seems to be an adrenaline thing. And, it knackers me out. I hold up the armour power for more than 5 minutes, I feel like I've run a... well, I can sprint a marathon and feel fine, so that analogy doesn't work. But, you get the gist."
-	Trey looked up in awe. "Can I have some super-powers, please?"
-	Connor chuckled. "I don't know where they come from, exactly. Besides, the drawbacks are pretty shitty too. Remember that nosebleed and migraine I had at yours? Those keep happening unless I hurt myself or others. It's... not fun."
-	"You're self harming?" Trey gasped.
-	"Not really." Connor shrugged back. "More... pain management. Picking my battles."
-	Trey shuffled uncomfortably. "Anyway... there's something I've been meaning to ask. How do your clothes work?"
-	"Oh yeah, technically, I'm naked." Connor chuckled. "There's this weird gooey substance under my skin. I can force it out and reshape it, turning it into clothes, or tools like knives, lockpicks, and crossbows. It's also where I get my costume from."
-	He demonstrated by tensing, and his clothes turned jet-black and tarry, reshaping into his iconic outfit. He then forced a blob out of his palms, which turned into knives.
-	"That's so cool..." Amy smiled in awe. "I know the rest is awesome too, but that's really cool..."
-	"Handy, too." Trey noted. "Saves you having to worry about changing into spandex."
-	"What, with my red underpants on the outside?" Connor winked cheekily, taking off his mask.
-	"Speaking of..." Trey began. "Not to play into the stereotype, but... you need a makeover."
-	"Oh yeah, totally." Amy nodded eagerly. "Don't get me wrong, the costume is great, but... it needs some TLC."
-	Connor rolled his eyes. "Here we fuckin' go..."
-
-	Over in Belson, Chloe began looking over the lab rats they'd been applying serum to.
-	"By the way, Jones..." she began, her brow furrowed. "Where are we getting all this from?"
-	"Downstairs - that's all I know." Jones shrugged. "Anyway, findings?"
-	"Applying it to adults has had a number of effects. Major increases in musclemass, bone density, endurance... and some small cognitive improvements."
-	"Any drawbacks?"
-	"Increased aggression, and signs of pain - courtesy of the paradrenaline, no doubt. Also, they become completely sterile. Their germ cells have completely random numbers of chromosomes, or sometimes none at all. Even stranger, the males appear to have a tiny number of inert egg cells developing in their testes, while the females have inert sperm cells in their ovaries. Likely, the mutations have confused their stem cells. That fits with my theory that their mutations are imperfect because their brain can't direct their generative cells properly."
-	Jones nodded, stroking his chin. "What about the tests on pregnant rats?"
-	Chloe shuddered slightly. "Injecting pregnant rats directly led to terminations of their pregnancies. Accepting the mutations makes you unable to bear children at all, it seems. As for in-utero exposure to the fetuses directly... Most of them simply spontanaeosly abort. A large number of the mother rats suffer severe aneurysms, too. It looks like serum-injected fetuses produce massive amounts of paradrenaline, which gets into the mother's system and causes the haemorrhaging. A couple of births have happened so far - all stillbirths... except for one."
-	She showed him a tiny rat in an incubator. Despite all the other rats being albino as was common for lab-rats, including its parents - this one had healthy melanin levels.
-	"Her mother died during birth, same as most. But she's the only one that survived in-utero exposure." she explained. "Rat pregnancies don't take long, and they give birth in litters - meaning we could produce several in a short amount of time. Still, there have been over 200 in-utero exposures, and she's the only one who survived."
-	"Amazing..." Jones gasped. "Have you tested its DNA yet?"
-	Chloe winced slightly at the use of 'It.' "No, not yet. She's still so fragile, I... I don't want to start taking samples until she gets a little bigger."
-	"I understand..." Jones nodded. "But this has to be done. I'll take the sample - if anything goes wrong, it's my fault alone, okay?"
-	Chloe sighed, but nodded silently, and left. Jones stuck a big needle into the tiny rat, and drew some blood into a vial.
-
-	"Okay..." Trey began, having ordered his furniture to have Connor standing central, with him and Amy perched around. He was in his full costume getup now, with his mask on and hood up. Sparky had likewise morphed up his own costume, which covered everything except his tail, ears, and snout.
-	Connor chuckled. "Shall we start posing?"
-	"Not yet." Amy grinned. "Alright, let's start with the head."
-	"What's wrong with the head?" Connor asked, shrugging.
-	"Well, it's a bit bland." Trey began. "I mean, 'balaclava and ski goggles' doesn't scream 'superhero' - more 'bank robber.'"
-	"Bank robbers are cool!" Connor protested. "Besides, it's not meant to look nice. It's meant to hide my identity. With this, you can't tell what my eyes look like, or the overall shape of my face."
-	"I like the hood." Amy nodded. "We can work with that."
-	"Second the hood." Trey said, rising. He took a closer look at Connor's mask.
-	"How much can that material be maniuplated?"
-	"What are you getting at?"
-	"Tighten it to your skin."
-	Connor shrugged, and did so, un-morphing the plastic visor so the mask could cling to his upper face, while leaving a looser, breathable material around his mouth and nose.
-	"Like this?" he asked, raising his eyebrows.
-	"Perfecto." Trey grinned, showing Amy.
-	"Now *that's* a superhero mask." Amy beamed. "Much more expressive."
-	"Not sure about the eyes, though." Connor shrugged, forming smaller lenses over them.
-	"Can you see alright out of those?" Amy tilted her head.
-	"Hello? Super-senses? But yeah, even without 'em, I can see. *With* them..." Connor grinned, turning his vision on.
-	"Oh my god, it's perfect." Trey gasped.
-	Connor looked into the mirror. He switched from super-vision to reflex mode, to keep the eyes red while letting him appreciate the colour.
-	It looked good. Instead of a bright red visor, he now looked like a ninja with a demon's gaze. Even he had to admit, it was pretty badass.
-	He turned it off.
-	"That's fucking awesome." Amy grinned widely. "Can you keep the red eyes on?"
-	"They only come on when I use my powers, and that would knacker me..." Connor mused, before tilting his head. "Actually, I've never tried to just have them red on their own. One sec."
-	He tensed his eyeballs, and felt them glow again. No powers were active, so he felt fine.
-	"There you go..." Amy beamed. "You look sick."
-	"Can I try?" Sparky asked.
-	"Go on, bud." Connor nodded, smiling. Sparky tightened his own face-mask similarly, and reddened his eyes. The pair looked terrifying.
-	"Hmm..." Trey stroked his chin. "The head does, sure... but the body?"
-	"What are you on about? The kevlar bodysuit is perfect!" Amy countered.
-	"I don't know... we could definitely add some pizzazz."
-	"No capes." Connor cut in, grinning.
-
-Designing a costume/Serum testing 2: Progeny
 ______________________________
 CHAPTER
 
@@ -9859,6 +9877,90 @@ FLASHBACK
 Chloe meets Sveta
 ______________________________
 SCENE
+	In the same manner in which the morning sun lazily dragged itself over the horizon, Connor lazily dragged himself into the shower.
+	He let the water run over his wounds, which had gone from traumatic perforations to bruises and scuffs. His joints clicked, and he heaved himself into the living room.
+	"AH!" Amy screamed, covering her eyes.
+	"Fuckin' hell..." he muttered, morphing on some clothes.
+	"Ew! Ew! Ew!" she hissed, smacking him each time.
+	"The fuck are you still doing here anyway? I thought you guys left last night?" he snarked.
+	"We wanted to make sure you were okay." she sheepishly admitted.
+	"It's not so bad, Amy." Sparky nuzzled into her hand. "I'm naked too!"
+	She chuckled, stroking him.
+	Trey came out from the toilet.
+	"Pff... I'd give it five minutes." he grinned. 
+	Connor chuckled. "Unless you have super-senses. Then I'd give it 20."
+	"Wait, is it that bad?"
+	"No, I'm fucking with you." Connor smirked.
+	Trey laughed. "How should I know? You can punch through walls and shit, it wouldn't surprise me."
+	"Wanna see what I can do?" Connor's eyes flashed red, as he stared at Trey's chest. "Bm-bm. Bm-bm. Bm-bm." he went, to the tune of Trey's heartbeat.
+	"Holy fuck..." Trey shuddered. "I--Connor, it's okay, calm down..."
+	Connor's eyes quickly faded back to normal. "What's wrong?" he asked, worried.
+	"I---Well, don't your eyes turn red when you get pissed off or something?"
+	"Well, yeah, but they turn red whenever I use any of my powers." Connor explained. "Right there, I was using my super-senses to see your heartbeat."
+	"Let's see..." Amy grinned. "A superhuman saying 'Wanna see what I can do?' with his eyes turning red; as he mimics your heartbeat while staring into your ribcage... Yeah, you're lucky he's already had a shit."
+	"Sorry, bro." Connor said softly. Trey hugged him.
+	"It's cool." he chuckled. "So, you could actually see my heartbeat? Like, X-ray vision or something?"
+	"X-ray vision would give you radiation poisoning." Connor grinned. "Nah, my super-senses work off of synesthesia. So, I can tune up my super-hearing, but then map it onto my vision, which lets me 'see' where noises are coming from more accurately. It works for Sparky too - except, being a wolf, his primary sense is his smell, so he maps things onto that."
+	"So, what, his nose goes red? Like Rudolph?" Amy tilted her head.
+	"No, like this!" Sparky barked, flashing his eyes red.
+	"Whoa..." Amy gasped.
+	"As I said, for some reason, they turn red whenever we use our powers." Connor shrugged. "Not sure why, or why the eyes specifically. Add it to the list of questions."
+	Trey looked up in awe. "Can I have some super-powers, please?"
+	Connor chuckled. "I don't know where they come from, exactly. Besides, the drawbacks are pretty shitty too. Remember that nosebleed and migraine I had at yours? Those keep happening unless I hurt myself or others. It's... not fun."
+	"You're self harming?" Trey gasped.
+	"Not really." Connor shrugged back. "More... pain management. Picking my battles."
+	Trey shuffled uncomfortably. "Anyway... there's something I've been meaning to ask. How do your clothes work?"
+	"Oh yeah, technically, I'm naked." Connor chuckled. "There's this weird gooey substance under my skin. I can force it out and reshape it, turning it into clothes, armour, weapons... or my costume."
+	He demonstrated by tensing, and his clothes turned jet-black and tarry, reshaping into his iconic outfit. He then forced a blob out of his palms, which turned into knives.
+	"That's so cool..." Amy smiled in awe. "I know the rest is awesome too, but that's really cool..."
+	"Handy, too." Trey noted. "Saves you having to worry about changing into spandex."
+	"What, with my red underpants on the outside?" Connor winked cheekily, taking off his mask.
+	"Speaking of..." Trey began. "Not to play into the stereotype, but... you need a makeover."
+	"Oh yeah, totally." Amy nodded eagerly. "Don't get me wrong, the costume is great, but... it needs some TLC."
+	Connor rolled his eyes. "Here we fuckin' go..."
+
+	Over in Caldermouth, a young man rubbed his temples, looking over a tablet computer. He was wearing a police uniform, and sat at a desk marked "EVIDENCE LOCKUP"
+	A man in AFO gear approached, tapping on the desk.
+	"Excuse me?" he began. His accent sounded English, but had noticable hints of Russian. "Can you give me a hand?"
+	"Uh--sure, sure." the clerk said. "W-What do you need?"
+	The man smiled. "New here?"
+	"It's my first month." he quickly nodded. "How can I help?"
+	"I'm very sorry." the man whispered, before wrapping him in a chokehold. He quickly passed out, and the man pressed his limp hand against a scanner. The lockup opened, and the man popped open his helm.
+	"Ahh... privet, moya detka." Ivan grinned, picking up Isabella. He checked her for damages, and then holstered her round his back. Quickly, he made his way out.
+
+	"Okay..." Trey began, having ordered the furniture to have Connor standing central, with him and Amy perched around. Connor was in his full costume getup now, with his mask on and hood up. Sparky had likewise morphed up his own costume, which covered everything except his tail, ears, and snout.
+	Connor chuckled. "Shall we start posing?"
+	"Not yet." Amy grinned. "Alright, let's start with the head."
+	"What's wrong with the head?" Connor asked, shrugging.
+	"Well, it's a bit bland." Trey began. "I mean, 'balaclava and ski goggles' doesn't scream 'superhero' - more 'bank robber.'"
+	"Bank robbers are cool!" Connor protested. "Besides, it's not meant to look nice. It's meant to hide my identity. With this, you can't tell what my eyes look like, or the overall shape of my face."
+	"I like the hood." Amy nodded. "We can work with that."
+	"Second the hood." Trey said, rising. He took a closer look at Connor's mask.
+	"How much can that material be maniuplated?"
+	"What are you getting at?"
+	"Tighten it to your skin."
+	Connor shrugged, and did so, un-morphing the plastic visor so the mask could cling to his upper face, while leaving a looser, breathable material around his mouth and nose.
+	"Like this?" he asked, raising his eyebrows.
+	"Perfecto." Trey grinned, showing Amy.
+	"Now *that's* a superhero mask." Amy beamed. "Much more expressive."
+	"Not sure about the eyes, though." Connor shrugged, forming smaller lenses over them.
+	"Can you see alright out of those?" Amy tilted her head.
+	"Hello? Super-senses? But yeah, even without 'em, I can see. *With* them..." Connor grinned, turning his vision on.
+	"Oh my god, it's perfect." Trey gasped.
+	Connor looked into the mirror. It looked good.
+	Instead of a bright red visor, he now looked like a ninja with a demon's gaze. Even he had to admit, it was pretty badass.
+	He turned it off.
+	"That's fucking awesome." Amy grinned. "You look sick."
+	"Can I try?" Sparky asked.
+	"Go on, bud." Connor nodded, smiling. Sparky tightened his own face-mask similarly, and reddened his eyes. The pair looked terrifying.
+	"Hmm..." Trey stroked his chin. "The head does, sure... but the body?"
+	"What are you on about? The kevlar bodysuit is perfect!" Amy countered.
+	"I don't know... we could definitely add some pizzazz."
+	"No capes." Connor cut in, grinning.
+
+Designing a costume
+______________________________
+SCENE
 	As the afternoon sun lazily hung above the valley, the Werewolves had decided to spend their rare moment of peace at Amy's flat. While Sparky sprawled on the sofa watching the TV, Connor was sat at the table, shirtless. Amy had her tattoo kit out, and was straining against his toughened skin.
 	The newsreader was talking.
 	"And in political news, the government has passed the controversial Terrorism Act, which gives police forces the authority to arrest and detain anyone suspected of terrorism offences for up to 60 days, as well as expanding the use of the Diplock Court system to apply to such cases in mainland Britain. Critics argue that the bill is a glorified method of detaining citizens without trial or probable cause..." it continued.
@@ -9887,7 +9989,7 @@ SCENE
 	"Huh. Because those were triple-chocolate muffins. Even a wolf your size would be sick from that. Maybe... Maybe you're immune?" Connor mused. He stroked his chin in thought.
 	"When I first got the migraines, I took a shitload of painkillers - enough to knock out a horse. And I felt nothing. And my friends joke that I never get drunk, but before I got my powers, I could still get tipsy, I just had to drink a lot... maybe, somehow, we process drugs and poisons much better than humans do?"
 	"Humans?" Sparky asked.
-	"Yeah, well... normal humans. Not like you and me." Connor said.
+	"Yeah, well... normal humans. Not like you and me."
 	In the back of his mind, he thought to himself...
 	"Am I not human? Am I becoming... detached from them? No. I can't let that happen."
 	Amy looked at them both in awe.
@@ -9895,19 +9997,11 @@ SCENE
 	Sparky trotted over, and licked her.
 	"You can speak to me! It's me who can't speak to you!" he smiled.
 	Connor relayed that, and she chuckled.
-	"Well, buddy - I guess Connor better translate for you more often, huh?" she grinned.
-	"Yes! He's so lazy!" Sparky yapped, and then winked at Connor. Connor laughed heartily, and relayed it.
-	Amy grinned. "Anyway, how was last night?"
-	"Ugh... don't even." Connor grimaced.
-	"What happened?"
-	"They used some weird speaker-things, like the ones Connor uses on his ears when he's playing on the desk." Sparky explained. Connor relayed this, adding the context of his watchmaking.
-	"Oh..." Amy stroked her chin. "So, loud noises can hurt you?"
-	"To be fair, these ones were loud enough to hurt anyone." Connor shrugged. "I was fully deaf for about a half-hour afterwards."
-	"Damn..." Amy shook her head. "Maybe that's your kryptonite, then."
-	Connor chuckled, and went to the fridge.
+	"Well, buddy - I guess Connor better translate for you more often, huh?"
+	"Yes! He's so lazy!" Sparky yapped, and then winked at Connor. Connor laughed heartily, and relayed it. He turned to go grab a drink.
 	Amy looked at his back, and groaned.
 	"What's wrong?" he asked.
-	"It's already faded!" she exclaimed, showing him a picture.
+	"It's already faded!" she sighed, showing him a picture.
 	Connor chuckled. "Too bad. We agreed you could try one tattoo on me."
 	"Yeah, yeah." she snarked. She scrolled through her photos - a picture of her, Connor, and Vince showed up.
 	Connor frowned.
@@ -9915,7 +10009,7 @@ SCENE
 	Connor hesitated. "He... he won't want to see me."
 	"Oh, shut up." she snapped. "Go and see him. Now."
 	"Now?"
-	"Yeah, now. You got anything better to do?" she grinned. 
+	"Yeah, now. You got anything better to do?" 
 	"Are people even allowed to visit the prison like that?"
 	"Yeah, dumbarse." she chuckled. "Go on, go see him while it's fresh on our minds. Me and Sparky will have a fun day together."
 	"Ooh, yes!" Sparky added. "There's a new episode of Eastenders on tonight, we can watch that!"
@@ -9931,13 +10025,13 @@ SCENE
 	The door buzzed, and in walked a broad, muscular man in a prison uniform - ginger buzzcut, thick beard, pale skin freckled across the cheeks. His deep blue eyes widened the second he saw Connor. He said nothing.
 	Connor gulped. He opened his mouth, but the words didn't come out. Finally, after a milisecond that felt like a lifetime, Connor spoke.
 	"...Un--Uncle Vince. I--I know you probably don't want to see me, but... I j-just want to say..." Tears welled up in Connor's eyes. "I... I am so, so sorry. I'm sorry for getting you locked up in here. I know I can never make it up to you..." and with that, wordlessly, Vince pulled Connor in for the deepest of hugs. Both men had tears streaming down their cheeks. Connor gripped his uncle tightly.
-	"You have nothing to be sorry for. I thought you hadn't came... because you blamed me." Vince said, his voice hoarse from crying.
-	"No! Never. I didn't come, because it's my fault you're in here..." Connor replied, choking back tears.
+	"You have nothing to be sorry for. I thought you hadn't come... because you blamed me." Vince said, his voice hoarse from crying.
+	"No! Never. I didn't come, because it's my fault you're in here..." Connor shook his hea, choking back tears.
 	"It was never, *ever* your fault." Vince replied, pulling back and putting his hand on Connor's heart - the left one, to be precise. "I knew the risks, and I accepted them. It was my stupid idea to bring you along for that job, and besides, what good would both of us ending up in here do? No. I got you into this mess, and would have ended up in here either way. The least I could do was protect you." Vince sniffled. "I'm so, so sorry I didn't speak to you at the courtroom - I was trying to make sure you didn't get implicated any further."
 	Connor smiled, his tears slowly drying up. "It's okay... I understand now. Hey... only we could manage go months without seeing each other because we both thought the other one was mad, eh?"
 	Both men laughed heartily.
 	"How have you been, lad?" Vince asked, smiling warmly.
-	"I've... a lot's happend." Connor replied.
+	"I've... a lot's happend."
 	"Tell me everything."
 	"Complicated. Long story." Connor signed, before motioning to the prison officer in the corner, who was sat on his phone.
 	Vince nodded understandingly. "Tommy's looking after you?" he signed back.
@@ -9978,23 +10072,23 @@ SCENE
 	"I know why you're mixed up." Vince smiled softly. "You're still broken up over Yaz, eh?"
 	At the mention of Yaz, Connor cringed slightly.
 	"Well, I did walk in on her in bed with another man. That does tend to put a damper on romantic inclinations." Connor said matter-of-factly.
-	"Listen to you, sounding all English." Vince grinned, causing Connor to playfully smack him.
-	"Fuck you!" Connor said, his accent subtly more Irish than usual. Vince laughed.
-	"I'll have you know I sang Rifles at Trey's birthday." Connor grinned. Vince looked amazed.
+	"Listen to you, sounding all English, like." Vince grinned, causing Connor to playfully smack him.
+	"Fuck you!" Connor said, his accent subtly more Irish than usual. "I'll have you know I sang Rifles at Trey's birthday."
 	"You sang an IRA tune and she didn't run away? You've got yourself a keeper, lad."
-	The two continued talking until it was time for Connor to leave.
+	The two cracked up again, smiling warmly.
 
 Connor sees Vince and reconciles
 ______________________________
 SCENE
-	A few days later, the gang was hanging out at Trey's house. His dad was out for the day, so Trey was hosting everyone as they chilled. Chloe and Bea were sat next to travel bags.
+	A couple days passed the valley by. In Redbridge, the gang coalesced at Trey's house. His dad was out for the day, so Trey was hosting everyone as they chilled. Chloe and Bea were sat next to travel bags.
 	"I'm gonna miss you guys." Amy said wistfully. "Now I have to spend my nights out with these losers!"
 	She gestured at Connor and Trey, who both bowed sarcastically. The others laughed.
-	"I'll miss you too honey - but it's only for 2 weeks." Bea replied.
+	"I'll miss you too honey - but it's only for 2 weeks." Bea smiled.
 	"Wish I got 2 weeks off." Trey joked. "I only get Christmas and New Years off."
 	Connor chuckled. "You think that's bad, my job is 24/7/365."
 	"What job's that?" Trey asked, eyebrows raised.
-	"Putting up with you." Connor quipped. Everyone laughed.
+	"Putting up with you."
+	The gang chuckled at the usual banter.
 	"How are you guys getting back, then?" Amy asked.
 	"Connor has kindly offered to drive us back to our houses." Bea nodded.
 	"Aww, what a gent." Trey grinned. "Where do you guys live again?"
@@ -10003,15 +10097,15 @@ SCENE
 	"Near Swindon." Connor smirked. "What time did yous want to leave?"
 	"I suppose, we'd better get ready to go now." Chloe looked at her phone. "It's 14:57 now, if we don't leave soon we'll be driving there in the dark."
 	She looked up at Connor. "Are you going to be okay getting back down?"
-	"Yeah, I'll be fine - it's only a 3 hour drive." Connor replied. Chloe shook her head.
-	"You can stay round mine if you like? We have enough room." she said, trying not to come off like she was bragging about her house size.
-	"You sure? I'd have to get Sparky somewhere to stay..." Connor began, but Chloe cut him off.
-	"You can bring Sparky if you like!" she said. "We have a dog at home, it'd be lovely to see them get on."
-	She tried not to sound too eager to spend more time with Connor - and failed. Everyone but Connor picked up on it. She blushed.
-	Connor nodded and smiled. "Okay, let's get ready to go." He motioned to Sparky. "Come on boy, you're coming with us!" Sparky looked up, half-asleep.
-	"I'm coming too? Okay."
+	"Yeah, I'll be fine - it's only a 3 hour drive." Connor nodded. Chloe shook her head.
+	"You can stay round mine if you like? We have enough room." she said, trying not to come off like she was bragging.
+	"You sure? I'd have to get Sparky somewhere to stay..."
+	"You can bring Sparky if you like!" she cut in. "We have a dog at home, it'd be lovely to see them get on."
+	She blushed subtly, while Connor smiled obliviously. "Okay, let's get ready to go."
+	He motioned to Sparky. "Come on boy, you're coming with us!" 
+	Sparky looked up, half-asleep. "I'm coming too? Okay."
 	Chloe chuckled. "He's so expressive - it's almost like he's talking."
-	Connor smiled. Amy stood up and hugged both Bea and Chloe.
+	Connor smiled. Amy stood up and hugged both girls.
 	"I'll see you both really soon... Have a good Christmas break!" she said emotionally.
 	"Thank you... you too." Bea said, hugging back.
 	"See you soon, have a great Christmas and new years!" Chloe joined in.
@@ -10040,17 +10134,16 @@ SCENE
 	"Nah. I'm gonna break into the local news station and spill the beans." he snarked. "I promise."
 	She rolled her eyes and chuckled. "So... We're working with the police, on that 'Werewolf' case I told you about..."
 	Connor leant in, listening intently.
-	"They had me in during an autopsy, and, well..." she shuddered. "This... this thing. It was some kind of giant!"
-	Connor looked at her for a second. "You autopsied the Giant?"
-	"You know about it?" Chloe asked, raising an eyebrow.
-	Connor thought quickly, and added "Yeah, I heard about it. Locals saying the Werewolf took down an 8 foot tall monster-man."
-	"And you believe in it?"
-	"Well, I don't think there's an actual werewolf about - but there's been enough stories about people fighting with the stregth of ten men, shrugging off injuries that kill normal people... It's not that far fetched that one of them might have clashed with a really tall bloke." Connor explained. He hated lying to her, but he had no choice.
-	"Well, if you think that's bad... Okay, this definitely stays between us, okay?" she said, looking deep into Connor's eyes. 
-	Connor nodded. "You can trust me. Just because I hear these rumours doesn't mean I'll spread them."
-	Chloe breathed out, and began. "When we cut the giant up, not only was it really hard - I mean, his muscles blunted the saw - but his insides were insane. 2 hearts, 3 lungs, adrenal glands the size of tomatoes, pumping out more than just adrenaline... Whatever it was, the Giant could hardly be classed as human. We looked at his DNA, and - get this - 47 chromosomes. Humans have 46. He had one extra, and not the normal kind where it's a copy of an existing one - a whole new, unpaired chromosome. Inside that, there was DNA there's no referece of on any website. I'm starting to think..." Chloe shuddered, either from cold or from fear, "I'm starting to think I've found something really big. I've been trying to piece it all together. The mutations in the Giant - those aren't random. This isn't nature at work. Someone had to have designed this. And that's what scares me. Who's pulling the strings, and what are they trying to achieve with all of this?"
-	Connor swallowed. It sounded like the Giant wasn't human... he wondered what his insides looked like. He banished the thought, and spoke up.
-	"That's... wow. I mean, that just means the Werewolf must be something else, right? If he could take on that... thing. Then I bet he doesn't even look human on the outside, let alone the inside."
+	"We had another autopsy come through... it was another giant. This time though, it had some weird implants - stuff I've never seen before. My boss had them sent over to this company called Eidolon--"
+	"Eidolon Dynamics?" Connor tilted his head.
+	"Yeah. You know about them?"
+	"They're..." he began, choosing his words. "They're a supplier of PaladinCorp. I, uh... I did my homework on them, is all."
+	"God... I hope they're not planning to turn any of this stuff into a weapon."
+	"Sounds like it's already a weapon." he shrugged. "I heard the story - the Werewolf up against a cyborg, or something."
+	"More or less." she shrugged. "These mutants are bad enough without adding cybernetic components to the mix."
+	"Mutants?" he pressed. He hated doing this, but... he needed to know more.
+	"They, um... the people who take that serum - it changes them. On a fundamental genetic level. We found 47 chromosomes in their genomes - humans have 46. They have an entire extra one. The 'giants' are even worse - they've been twisted, somehow. Two hearts, adrenal glands the size of tomatoes... Ah, I'm rambling." she caught herself.
+	"Nah, it's fine." he smiled. "That's... wow. I mean, that just means the Werewolf must be something else, right? If he could take on that... thing."
 	"Yeah... just the sight of the giant's crushed head. Whatever did that was beyond human. Nothing in our lab could have done that, and we've got tools specifically for cutting up dead bodies. Whatever this Werewolf is, he's scary." Chloe shuddered again.
 	"Well, scary, sure... but, well, I'm not justifying his methods, but when he took out Hughes... I've gotta say, I'll shed no tears for that man." Connor said, trying to avoid praising himself too much.
 	"Who?" Chloe asked.

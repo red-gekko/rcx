@@ -1673,13 +1673,15 @@ SCENE
 Raiding the Patriots
 ______________________________
 SCENE
-	Back home, Connor opened up the stolen laptop, only to see an encryption wall requiring a PIN. He cursed under his breath, and grabbed a USB stick from his drawer, marked 'Lockpick'. He plugged it in, and rebooted the laptop. A loading bar flashed on the screen.
+	Back home, Connor opened up the stolen laptop, only to see an encryption wall requiring a PIN. He cursed under his breath, and grabbed a USB stick from his drawer. He plugged it in, and rebooted the laptop. A loading bar flashed on the screen.
 	Connor laid back, and closed his eyes. He brought his hands to his ears, and grabbed his head. A high-pitched droning noise flooded his senses.
 	The noise got worse. His migraines intensified. Blood dripped from his nose, and bile leaked from his mouth.
-	"Fuck... FUUUCK!" he groaned. His eyes snapped open, and he rushed to the kitchen. He grabbed a knife, and slashed his arm.
-	The pain subsided. He took a deep breath, and looked down at his arm, now pouring blood.
+	"Fuck... FUUUCK!" he groaned. His eyes snapped open, and he rushed to the kitchen.
+	The pain slammed against the walls of his skull, like his head was going to burst. Without thinking, he grabbed a knife, and roared as he drove it through his hand. It sank between two metacarpals, burying into the kitchen counter.
+	He clenched his teeth, letting the sensation ripple up his neurons. For a second, he wondered what the hell he'd done, but then - endorphins.
+	The pain subsided. He took a deep breath, and forced the knife free.
 	That was it, then. He needed pain - to cause it, to feel it.
-	"Shit..." he muttered. He went to bandage it, only for the bleeding to stop.
+	"Shit..." he muttered. He went to bandage it, only for the bleeding to stop. He held up his hand - shaking, twitching - and watched as the hole filled with a red mass - fresh tissue.
 	He headed into the bathroom, and looked at himself in the mirror. He broke down, and cried.
 	A few moments passed. He rose, and looked back in the mirror.
 	"No more." he whispered, his voice trembling. He launched a fist into the mirror, shattering it into innumerable tiny shards, and cracking the wall behind.
@@ -1749,7 +1751,7 @@ SCENE
 	"He's really nice. You should ask him ou--"
 	"Bea!" Chloe hissed. "He can still hear us..."
 	Connor chuckled, and drove off home. Amy passed out in the front seat, snoring loudly.
-	He pulled up outside the flat. He paused for a moment, and looked out the window. A tear rolled down his face.
+	He pulled up outside the flat. He paused for a moment, and looked down at his hand. The wound was almost fully healed - only a minor cut on the palm remained. He scoffed incredulously, and a tear rolled down his face.
 	He shook himself out of it, and woke her up.
 	"Hmm?" she asked groggily.
 	"I'll help you up." he chuckled, helping her out of the car and to the door.
@@ -1759,7 +1761,7 @@ SCENE
 	He went into his bedroom, sat down on the bed, and sighed. He looked down at the gun. He took out the magazine and cleared the chamber, before setting the gun down in a locked drawer. He then turned and looked at the laptop - the loading bar was full.
 	He sat down, his face illuminated by the screen, as he scrolled through. He could see messages between members of Slater's crew, reports of drug deals... and then, hidden away, he saw a document called "SPOOKS.docx"
 	He cocked an eyebrow, and opened the document.
-	It appeared to be a dossier of information about some government-looking men who had been trafficking a new drug. The document claimed this drug was similar to steroids - users experienced heightened strength, stamina, toughness, healing, senses, and reflexes.
+	It appeared to be a dossier of information about some military-looking men who had been trafficking a new drug. The document claimed this drug was similar to steroids - users experienced heightened strength, stamina, toughness, healing, senses, and reflexes.
 	He leant back, shocked. Then, he pulled out his phone, and texted Tommy.
 	"Found something." he wrote. "Meet me at the garage tomorrow at noon."
 	He pressed send, laid down, and closed his eyes.
@@ -1782,7 +1784,7 @@ SCENE
 	"I'll take tomorrow off work." she cut in. "We'll find something to do."
 	"No... I'm fine." he replied. "We'll see each other in the evening, anyway."
 	She hesitated, but nodded, and wrapped her arms around him. After holding the embrace for a minute, she looked at her phone.
-	"00:02." she said, showing him the time. "Happy birthday, Connor."
+	"It's midnight." she whispered, showing him the time. "Happy birthday, Connor."
 	He smiled softly. "Thanks, sis. Really."
 	She nodded, hugged him again, and went to bed.
 	Connor laid down, exhausted. In short order, he fell asleep.
@@ -11322,7 +11324,7 @@ SCENE
 	"I don't know." Ivan admitted. "We've been on a war footing for too long. Ever since Nixon started the cold war, we've been in a siege mentality."
 	He sighed. "What is obvious is that we cannot just allow unelected bureaucrats to run the place like Kruglov did. Otherwise we're no better than the capitalist nations we fight against."
 	Connor joined Ivan in watching the horizon. "Well, for what it's worth - the USSR had it's problems, but it was clearly better than the warzone Eurasia has become."
-	"Da... But that's not enough. When Comrade Lenin passed the reigns to Bukharin, the union was full of hope. We were a true socialist democracy. But now, look at us, less than 100 years on. We were supposed to be better than that. The days of brother shooting brother were supposed to be behind us." Ivan lamented.
+	"Eto verno... But that's not enough. When Comrade Lenin passed the reigns to Bukharin, the union was full of hope. We were a true socialist democracy. But now, look at us, less than 100 years on. We were supposed to be better than that. The days of brother shooting brother were supposed to be behind us." Ivan lamented.
 	Connor sighed. "Either way... You've done so much for me. If this helps you regain your home, and stops a madman from killing your people, I'm in. Because I'm done seeing borders and nations. Your people are my people, far more than any king or colonel can claim to be."
 	Ivan beamed with pride. "We'll make a revolutionary out of you yet, tovarishch."
 	"Mate, are you forgetting I'm Irish?" Connor replied, his subtle Derry accent becoming slightly stronger. "We were fighting kings before your lot made it past the Urals."

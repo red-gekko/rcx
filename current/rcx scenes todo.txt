@@ -5,6 +5,62 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 
 
+quick change to loss of a hand
+	have randall be there with twin machetes and the fenrirs
+	have sparky fight the fenrirs while connor fights randall
+	connor's losing, so sparky reluctantly kills the fenrirs and joins the fight
+	the two get the upper hand, but the cops arrive opening fire. connor goes down, randall escapes, then triggers the bomb
+
+to keep connor visually distinct, make sure he uses wrist-blades instead of swords.
+	this style involves stabs and buckler-strikes to soften up foes, then using spin attacks for 'crits'
+
+gotta change Shan's plot
+	have her show up earlier in volume 1; 
+	have a new scene where connor returns to the horse from an offscreen raid with some laptops; she overhears while tinkering (in a homage to connor's chapter 1 scene) and offers to take a look. connor quizzes her, and she reveals she's been hacking stuff for tommy for a little while now. Connor gives her the laptops, then closes the door and has a go, saying he didn't send her to him for him to turn her into a soldier. he clarifies she approached him; she wants to help the Werewolf, and make the city a better place. connor sighs, relents, and steps outside. he sits with her, and tells her it's dangerous, and she could become a target for it. she points out she already deals with being targeted every day - this is how she can help make the city a better place, by helping him. he questions where she got her technical skills from - she explains she was always interested in coding, but since he saved her, she decided to learn how to hack in order to help him out. he smiles under his mask, and leaves
+		this scene happens where her old intro was; keep her intro with trey in vol 2, but bring it forward if you have to
+
+
+
+volume 2 opening changes:
+	opening scene: moonlight bank robbery by patriots - Connor glide-kicks through the window, takes down a bunch of them, then Arkham's his way through the others. A group escape in their van - they frantically check if they're being followed (we shift POVs) and they see the red-eyed glider zeroing in on them. they floor it, so connor shoots out his grapple and uses it to boost his speed, flying ahead and landing right in front. he immobilises the van and takes out the thugs
+	split up chapter 1 into 2:
+		chapter one is the slow open;
+		open with the above bank robber strike, then have Connor picking up Chloe and Bea as before.
+		Have the Connor and Ivan catch-up; then, have Connor get a text from Tommy, saying "urgent meet @ horse. bring costume.". Ivan says "i'll drive" and they go
+		Connor arrives in the horse backrooms; he asks what's wrong and Shan begins explaining.
+			she says she was hacking a Gambit device; she nearly finished the transfer but the access was cut off. when trying to restore the corrupted files, she found a document. it says that a shipment of 'juvenile livestock' arrived in Angleport a couple days ago
+				tommy: "livestock... that's what the patriots call their trafficked slaves. the word 'juvenile' implies--"
+				"kids..." connor snarls
+			it also says that they are to test the 'livestock' and, if their bloodwork comes back healthy, then 'deliver laboratory equipment to field site; sell remaining livestock as normal'
+			Shan points out that this is most likely experimentation or maybe harvesting going on. connor notes that it could even be the same agency that took Whiplash. He asks Shan where they're being held, and she says she doesn't know
+			Connor thinks, and then points out that wherever the ones selected for testing are being sent, probably has a clue as to where they're coming from. tommy points out they still don't know where the destination is; connor realises that it has to be connected to Gambit somehow. Tommy points out Connor can't just interrogate every single patriot for its location, or they'll get wind of it. Instead, he has to find a Gambit staffer who can tell him. Shan points out that she doesn't have access to their employee lists.
+			Connor ponders, and hatches a plan. He says the cops have tools to check via income tax where people are employed. Shan says good idea, but she can't just hack the police system without raising an alarm; and he can't infiltrate the station without bringing even more heat on his head. Connor smirks slightly, and reveals they won't need to
+			Connor shows up in Naismith's car as before. This time, he asks if he knows about gambit. naismith says "yeah, smart money says they're a Patriot front" and connor says "actually it's more the Patriots are a Gambit front. And Gambit is a Paladin front."
+			he explains to Naismith that he needs to run a search - anyone who works at Gambit or its shell corps, and who was also cautioned in the last 72 hours - the reasoning being that if they were seen recently by the cops, they must still be human.
+			Naismith reluctantly runs the search on his laptop. He gets a name, connor thanks him, and leaves. "what am i doing" plays out as normal
+			Connor interrogates the gambit mook (this is where the high-altitude "you're bluffing, this fall would kill me, and you need me alive to talk" "*drops down* sure, but from this height you'd just break your legs. wanna try me again?!" scene happens) and gets the location of the Gambit/Paladin site where the 'lab equipment' is supposed to be dropped off. After another shake, he also reveals that a pair of PaladinCorp inspectors would be showing up the next evening. Connor sarcastically thanks him and drops him
+			<chapter end>
+
+			Shan recommends they intercept those inspectors and show up in their place. Connor hesitates, as he can't use his mask for this - then realises he can morph prosthetic makeup to mask his appearance anyway. 
+			Him and Ivan arrive at the Gambit field lab. Ivan opens with "An inspector calls."
+			The guy at the front asks for 'ID', and Ivan takes off his shades. They're shown around, seeing the facilities that will be used to torturously experiment on the kids. Connor nearly snaps, but regains his composure and plants one of Shan's devices on their main server
+			Shan finds the source location, and the duo leave, entering the car. ivan says "I think that went well."
+			Connor is brooding and looks away, taking a deep breath. Ivan turns his head back, looking at two super-agent corpses.
+			"What do you think, guys? Did that go well?"
+			Connor cracks up
+			After this, Connor shows up at Naismith's house (since the Blackmarsh raid is deleted, we take the scene from that)
+			There, Connor enlists him on raiding the place alongside him - Connor will take out the Agents if Naismith can look after the slaves.. Naismith hesitates, but takes Connor's burner and agrees. Change the auction scene to this new raid.
+
+
+prison arc beats:
+	the cops raid connor's house; tense moment when they find the panic room, but it's empty. Amy reveals to Trey later that she stashed his stuff in Dynamite Fitness's basement
+	have a scene where the gang are headed to the group showers. they opt to let shan shower first for privacy, but then a bunch of other inmates walk in and start leering. the gang beat them all up, and leave shan to shower in peace
+	after the breakout, they are interrogating Wilkinson (whose name Shan found in a laptop seized from the 'livestock pens') instead of Dorsey. There, they get concrete proof that Dorsey is involved, and Connor kills Wilkinson. After Dorsey launches his coup, Connor delivers the evidence to zack, beseiges the station, and kills dorsey at his place
+
+
+
+
+
 new stuff from the eidolon raid
 	mainly gadgets for stunlocke
 		escrima stun sticks, which can be combined into a stun staff

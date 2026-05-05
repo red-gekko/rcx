@@ -79,7 +79,7 @@ SCENE
 	Sobbing. Pleading. Terrified.
 	A wicked grin cracked over his face.
 
-	The room was dark. An older man, with grey hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore down his cheeks, like running mascara. A nexus of these clustered around his eyes, whose steel irises glimmered in the shadows.
+	The room was dark. An imposing man, with greying hair and a cropped beard, was illuminated by a blue screen that flickered into white. Ink-black veins jutted and tore down his cheeks, like running mascara. A nexus of these clustered around his eyes, whose steel irises glimmered in the shadows.
 	"Gentlemen." he began. He spoke with a Virginian accent - and at once sounded like honey and sulphur. "Thank you for attending."
 	"Commandant." an implacable voice growled from the speakers. "You have a lot of nerve."
 	"Enough. What's done is done." cut in a second voice. An older, upper-class accent was palpable, even through the modulation. "I have spoken with our friends in Geneva - no further action will be taken."
@@ -4567,7 +4567,7 @@ SCENE
 	"Hey..." Connor groaned. "What time is it?"
 	"Just gone 11." Trey chuckled. "Can I ask a massive favour?"
 	"You need a lift from the couple who made you their third?" Connor tilted his head.
-	"Hardy hah. Nah, I'm in the garage right now, but we've got some outcalls for an electrical outage in Whitcroft - you know, the care home?"
+	"Hardy har. Nah, I'm in the garage right now, but we've got some outcalls for an electrical outage in Whitcroft - you know, the care home?"
 	"Oh yeah. The one we did the installation for?"
 	"That's the one." Trey smiled nostaligcally. "You cool to give me a hand? I'd do it myself, but regs are regs."
 	"I'm on it." Connor smiled. "Give me half an hour, I'll meet you there."
@@ -4602,7 +4602,7 @@ SCENE
 	She laughed, and switched it to the movie channel. He got himself comfortable, and winked at her.
 	Bemused, she headed out, making a quick phone call.
 	"Yo, dickhead. I've gotta go to work."
-	"Shit." Connor chuckled, as he finished fitting a new tyre. "Did you put on Sparky's shows?"
+	"Shit." Connor chuckled. "Did you put on Sparky's shows?"
 	"Yeah, but I'll be busy all day." she sighed. "When are you getting back?"
 	"Couple hours, tops."
 	"Alright. If he's gone all wolf in the house though, it's your problem." she grinned.
@@ -4614,7 +4614,7 @@ SCENE
 	"By the way, are you coming out tonight?" he asked.
 	"I, uh..."
 	"Working again. Don't worry." Trey smiled. "Hey... thanks for coming out last night. It meant a lot."
-	"Don't worry." Connor nodded. "Anyway... I might not even be out for Tommy tonight if these fuckin' electrics don't work."
+	"Don't worry." Connor nodded. "Anyway... I might not even be up for the 'night shift' if these fuckin' electrics don't work."
 	"Tell you what." Trey chuckled. "You sit here and think about what you've done, and I'll see if I can sort the boiler's plumbing out before these pensioners all freeze to death."
 	"I hope it blows up and scalds you." Connor hissed.
 	"I hope you get zapped so hard you piss yourself." Trey quipped back. The boys chuckled, as Connor got back into it.
@@ -4655,7 +4655,7 @@ SCENE
 	"Nah... can you grab us a cuppa?"
 	Trey chuckled. "Sure thing."
 	As soon as he was out of sight, Connor closed his eyes and took a deep breath.
-	When he opened them again, his irises glowed a bright red.
+	When he opened them again, his irises were bright red.
 	His skin tingled slightly as the now-greyscale world revealed a menagerie of sensory data. Specifically... electromagnetic frequencies.
 	Boom. Right there. Staring him in the face this whole time.
 	A faulty capacitor. Nothing more.
@@ -7816,7 +7816,7 @@ ______________________________
 SCENE
 	That night, Naismith and Nina sat in the car, parked up in Marsh Road. Nina was sipping a coffee cup, as Naismith looked out the window, deep in thought.
 	"So..." she began. "Do you want to tell me why we're here, sir?"
-	"I got a tip off from a CHIS I've been working with." Naismith replied. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so..." he paused. "If we get there as it happens, maybe we can catch the bastard."
+	"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... If we get there as it happens, maybe we can catch the bastard."
 	Nina smiled and nodded. "It's a shame we couldn't get armed backup."
 	"Yeah... budget cuts." Naismith sighed. "Dorsey's putting all the pressure on us to catch this guy, but he's not giving us anything to work with..."
 	"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competance." She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
@@ -7883,16 +7883,100 @@ SCENE
 	Connor took a deep breath.
 	"That was their latest attempt at making a living weapon." he said, kicking his boot out to shake off the brains of the Giant. He sauntered over to a desk, where a man in labcoat's body laid. He grabbed a small device from the corpse. Sparky trotted towards him.
 	Ivan jumped down. "We got reports that they had deployed such a monster to the city." he said grimly. "If this won't convince you something horrible is brewing, nothing will."
-	"What... What are we supposed to do now?" Naismith asked. Nina looked at him, shocked.
-	"Sir... Did... Did you know?" she trembled.
+	"What... What are we supposed to do now?" Naismith asked.
+	"*We* don't do anything." Connor shook his head. "You call it in, and reveal what you saw here. Then, have this body analysed - I'm sure you'll find some interesting facts about its biology."
+	Nina looked at him, shocked. "Sir... Did... Did you know?"
 	"No! Nina, I swear... I only knew the Werewolf would be here. He told me he would 'show me the truth' - I didn't think it would be this."
 	Nina paused, then nodded silently.
-	"*We* don't do anything." Connor replied in answer to Naismith's question. "You call it in, and reveal what you saw here. Then, have this body analysed - I'm sure you'll find some interesting facts about its biology."
 	Connor looked over at Nina. She was... familiar. Then, he saw a brief flash - Yasmin, his ex. He shuddered.
 	Nina grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
 	"Received, 5-2. FI's en route, ETA 24 minutes." the radio replied.
 
 Killing the Giant
+______________________________
+SCENE
+	"Good work tonight, bratan." Ivan smiled proudly at his comrade. "That *gigantskiy urod* was a tough bastard."
+	"What the fuck was it?" Connor tilted his head.
+	"'Project Jotunn.'" Ivan began clinically.
+	"Seriously?" Connor grinned. "Do these psychos have a contractual obligation to pick the most melodramatic names?"
+	Ivan chuckled. "Don't get me started. Fenrir, Progeny, Crusader... Anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
+	"Great. So aside from the mutant spooks, cyber-knights, and psychic assassins... we now have fuckin' giants in the mix."
+	"Giants that they're going to make stronger next time... I'll go back to my people, see what I can find."
+	Connor turned down to Sparky, who was chewing a bone happily.
+	"Did you ever see anything like that? You know, when you were still in captivity?"
+	He thought for a moment. "No, I don't think so. But that funny word - Jotunn - it rings a bell. I think Randall said it one time."
+	Connor stroked his ears. "Thanks, buddy. Anyway, we'd better head out."
+	He morphed his costume back up, and opened the safehouse window, preparing to climb out.
+	"Normal people use doors, tovarishch." Ivan snarked. "You don't wanna take the night off after that?"
+	"Just because we killed a giant doesn't mean your garden-variety scum aren't out tonight." Connor shrugged. "Besides, beating up Patriots is good for the soul."
+	Ivan smiled warmly, bowing his head. "Good hunting then, moy tovarishchi. Do svidaniya."
+	"Poka poka." Connor nodded back. Ivan cringed at the abuse of his mother tongue, then chuckled as they left.
+
+	"Please, don't hurt me!" the young woman cried out, silenced by a strike to the gut by a Patriot goon.
+	"Shut up!" he snapped, striking again. "Give me your fucking money, freak!"
+	"I don't have anything, I..." she spat, catching her breath.
+	He rose his fist again, but before he could strike, the hairs on the back of his neck stood to attention.
+	He turned around, and went pale as a sheet.
+	Connor stood, his eyes aflame. He walked towards the assailant, clenching his fists and rolling his shoulders.
+	"P-please, I--I'll go, I'll go!" he begged.
+	Connor's hand shot out, grabbing the thug by the throat. He raised him up, his feet dangling above the ground.
+	"*Did you stop, when _she_ begged?*" Connor accused.
+	"I'm sorry! I'm fuckin' sorry!" he screamed though choking breaths.
+	"Let him go, please!" she cut in.
+	Connor turned, surprised. Then he looked back at his quarry.
+	"If I see you again... I won't be so merciful." he snarled. He moved like a bullet, leaping into the air and sailing backwards. He morphed a rope-like chord from his hands, and wrapped one end to a street light - and the other around his captive's feet.
+	Then, he dropped.
+	As the rope went taut, the thug yelped in pain and fear. He swung from side to side, hanging like a sleeping bat.
+	"Now... you can stay there, and think about what you've done." Connor chuckled, perched atop the light.
+	"Please, let me down!" he begged.
+	Connor jumped down to the ground, grinning. "Oh, I would... but if I cut that rope, you'll hit your head on the pavement. No, you'd be better off waiting for the cops to get you down. You, uh... you don't have any outstanding warrants, do you?"
+	"Please! I've learned my lesson, I swear!"
+	"Save it." he snapped, sending a punch upside the man's head. He stopped flailing and his face went vacant.
+	"Oh my god..." the girl whispered in awe. "Th-thank you. You saved me."
+	"Are you alright?" he asked softly, his eyes dimming.
+	She looked up, eyes wide. "Y-yeah, I'm good, now."
+	Connor smiled under his mask. "It's not safe out here. I can walk you home, if you like?"
+	She paused. "I, uh... I can't go home."
+	Connor tilted his head. She sighed, leaning against the alley walls.
+	"I'm a freak." she began, choking back tears.
+	"I regrew a hand once." Connor cut in. "Like a lizard. Also, I inhaled a whole tank of Chlorine and once got shot in the face with a shotgun, and all it did was piss me off. Earlier tonight, I tangled with a fascist ogre. My point is... I'm the last man on Earth who can sit in judgement. You can talk to me."
+	The girl looked at him, and tilted her head. "I... My parents kicked me out, a couple of nights ago. They're angry because... Because I want to be a girl."
+	Connor nodded gently. "What's your name? Your real name, I mean."
+	"I..." she began, saddened. "My parents called me--"
+	"No, not that one. Your *real* name."
+	She smiled softly, encouraged. "I call myself Shannon."
+	Connor bowed his head. "Pleased to meet you, Shannon. And can I say, that name is awesome. Great choice. Of course, as you can tell from the accent, I'm biased."
+	She chuckled. "I won't ask your name... Kind of defeats the whole point of wearing a mask, eh?"
+	Connor snickered. "How old are you?"
+	"18."
+	"Still in school?"
+	"College, yeah. Haven't been in a few days, of course..."
+	"And where are you sleeping?"
+	"I... haven't really been sleeping." she admitted sheepishly.
+	Connor smiled softly. "What do you study in college?"
+	"Computing." she said, perking up somewhat. "I'm a bit of a tech nerd."
+	"So..." Connor began. "Sounds to me what you need is your own place to stay, and a steady wage. Is that right?"
+	She nodded, confused.
+	"I know a guy - Tommy Crane. Boss of the Redbridge Syndicate. And I happen to know that A&O repairs - which Tommy owns - is looking for a new techie. I'll talk to him - get you a job. We'll cover hotel expenses until you can get your own place, too."
+	"I... you'd do that for me?" Shannon asked, shocked.
+	"Sure." he nodded.
+	"But... why?"
+	"Because it's something you need, and I can help." he shrugged. "Go to the Singing Horse. Say 'the Werewolf' sent you - I'll call ahead. You can stay there tonight - we'll sort the rest out tomorrow."
+	"Thank you..." Shannon smiled, tears in her eyes.
+	"No, thank you." he nodded.
+	"What for?"
+	"For the easy win. This was much easier than the ogre." he laughed.
+	Shannon laughed too - a hearty, happy laugh. From the sound of it, the first one in a while. Connor smiled warmly.
+	"Go to the Singing Horse. I'll follow you on the rooftops - make sure no more goons try and jump you."
+	She nodded, as he scaled a wall upwards. As he followed her, he called up Tommy.
+	"Connor!" Tommy answered, smiling. "What can I do for my favourite Werewolf?"
+	"There's a girl who'll be turning up to the club tonight - Shannon. She's been kicked out by her parents. I've told her we can get her a place to stay tonight. She's also pretty tech-savvy - so maybe we could sort something out for her at the repair shop?"
+	"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride."Hey... Good man."
+	Connor smiled back. "Thanks. Night, mate."
+	He sighed, breathing in the night air. He un-morphed his mask as the rain began to fall.
+	He let the water splash over his face, and took a deep breath.
+
+Connor saves Shannon
 ______________________________
 SCENE
 	The next day, Connor and Sparky entered the train station.
@@ -8410,7 +8494,7 @@ SCENE
 	"Long enough to keep score." Connor shrugged. "To be fair, you're actually quite good."
 	"What do you want?" Vitale caught his breath, pouring himself a drink.
 	"Information." Connor began, stepping into the light. "What do you know about the stranglings?"
-	"Oh, that business..." Vitale grimaced. "It's not one of my boys, I'll tell you that. If it were, he'd be hanging from a lamppost by his guts."
+	"Oh, that business..." Vitale grimaced. "It's not one of my boys, I'll tell you that. If it were, he'd be hanging from a tree by his guts."
 	"Good." Connor nodded, reassured somewhat. "Any idea who it might be?"
 	"Maybe... what's in it for me?" Vitale grinned.
 	Connor's eyes flashed red. Vitale raised his hands.
@@ -8901,6 +8985,42 @@ SCENE
 	"Don't tell your dad." she smirked.
 	"Oh, I've told him." Sparky replied cheekily. "He thinks it's really sweet."
 	She pulled out her bag, and checked her blood sugar. 3.8. She sipped a sugary drink, zipped up her jacket, and stood.
+
+	Trey arrived at A&O Repairs for his shift. He stretched, and changed into his overalls, before walking onto the shop floor.
+	"Morning, Trey." Tommy waved. "Oh, by the way - this is Shannon. New hire."
+	"Hi!" she smiled warmly. She'd changed since her meeting with the Werewolf - the tips of her hair had been dip-dyed purple, while her previously brown hair was lightened slightly. A little more confident - a little more comfortable.
+	"Yo, yo!" he smiled back. "I'm Trey."
+	"Shannon's replacing Connor as our resident computer nerd." Tommy smiled. "Right, I've gotta get back to it. See you later!"
+	He left, and Trey chuckled.
+	"So, want me to show you around?"
+	"Actually, Tommy just took me for a looksie." she shook her head.
+	"Fair enough." Trey smirked, beginning to work on some damaged parts on a workbench, while she got set up on her laptop.
+	"So... Computers?" he asked.
+	"Yeah, they're these newfangled gadgets people use sometimes." she smirked.
+	"Ooh, banter! I like it." Trey laughed. "What kind of stuff do you do on 'em?"
+	"Oh, anything really. Hardware repairs, software development, networking..." she smiled, before catching herself. "Boring shit, basically."
+	"Hey, I'm not a luddite. I know my way around the CAN bus, et cetera." he grinned.
+	A customer walked in.
+	"Hi, I've got a laptop needs fixing." he said.
+	"Oh, happy to help, sir." she stood up, smiling. "What's the issue?"
+	He tilted his head. "Um... I don't suppose your mate over there could help?"
+	"Excuse me?"
+	"Fuck off, Ross." Trey snapped.
+	The man scoffed, and left.
+	Shannon sighed. Trey walked over, and leant against the counter.
+	"Ignore him. He comes in here every week because his laptop's got some new virus on it. Then we see his broswer history, and he insists he has no idea where it all came from."
+	They shared a chuckle, and Trey got back to work. Another customer came in.
+	"Heya." he nodded. "Um, I heard you guys do hardware stuff? My laptop's not charging, is all."
+	"Okay, can I see it?"
+	"Oh, sure, sorry..."
+	She looked at it, and peeked into the charging port.
+	"Ah... common obstruction. Give me 20 minutes, and it'll be cleared."
+	"Nice! Thank you so much!" he smiled, leaving.
+	Trey looked over, smiling. He walked over to her.
+	"By the way - loving the hair."
+	Shannon self-consciously brushed her hair out of her face. "Hah, really? I thought I should've kept it brown, but my friend Nicola dared me to dye it."
+	"Nah, it suits you, girl." he grinned.
+	She smiled softly, and continued working.
 
 	Over in Redbridge, Connor effortlessly carried a stack of crates into an empty house, while Amy struggled to bring in two.
 	"Fuh... Fuck..." she panted. "Wish I had super-strength."
@@ -9508,7 +9628,13 @@ SCENE
 	"Aren't you?"
 	"I don't know." he looked away. "The whole time, I was terrified. I kept it funny, kept it light, so the kids wouldn't panic... but my hearts were going a mile a minute."
 	"As they should do." Ivan nodded. "Listen... there will be times where you can't save everyone. Where you have to take a look at the big picture, where you have to sacrifice a few to save a few more. It's war, and we're soldiers. But you did a good job tonight, bratan."
-	Connor smiled softly. "Thanks, comrade. Anyway, fancy some vodka?"
+	Connor smiled softly. "Thanks, comrade. Uh... can I ask for a couple of favours?"
+	Ivan grinned. "Don't worry, tovarishch, you're in credit. How can we help?"
+	"First, uh... can you look into my sister's family? Just see what you can find about her mum."
+	"Of course." Ivan nodded gently. "Anything else?"
+	"Can... can you pull some strings, get my uncle on day release for Christmas?"
+	Ivan smiled warmly. "Can do, bratan."
+	Connor released his shoulders, happy. "Anyway, fancy some vodka?"
 	Ivan's brows furrowed. "You think, just because I'm Russian, I'll just start drinking vodka at the drop of a hat?"
 	"Yes."
 	"You're god damn right, bratan!" he cheered. The pair returned to the kitchen.
@@ -10453,66 +10579,8 @@ SCENE
 Morning at Chloe's
 ______________________________
 SCENE
-	It was near midnight. Connor was gliding across the city on his nightly patrol, his superhuman senses keeping him keenly aware of the city below.
-	He heard something. Something faint - sobbing? Up on the rooftops...
-	He went over, his curiosity taking the lead.
-	There, he found a young woman, sitting on a ledge. He landed silently behind her, morphing away his glider.
-	She looked over, and gasped. "You... You're the Werewolf?"
-	Connor nodded, and motioned to the ledge. "Mind if I sit here with you?"
-	Normally, when in costume, he made his voice far, far deeper - an intimidation tactic, and a disguise all the same. But here, his voice was soft, unmodified.
-	"I..." the girl began. "Sure. Free country."
-	Connor smiled, before remembering she couldn't see his face through the mask.
-	He nodded, and sat next to her.
-	"So... What's got you up here?" he asked.
-	"I'm sat on a rooftop ledge with a bottle of vodka. What do you think?" she replied, before shaking her head. "Sorry, it's just..."
-	"It's okay. If someone in pain snapping at a stupid question was enough to phase me, I'd be long dead." Connor chuckled grimly.
-	The girl chuckled too. "I... I'm under a lot of stress." she admitted.
-	"Wanna tell me why?" Connor asked, silently moving so that if she did jump, he would catch her.
-	"I'm a freak." she began, choking back tears.
-	"I regrew a hand once." Connor replied. "Like a lizard. Also, I inhaled a whole tank of Chlorine and once got shot in the face with a shotgun, and all it did was piss me off. My point is... I'm the last man on Earth who can sit in judgement. You can talk to me."
-	The girl looked at him, and tilted her head. "I..." she began, "My parents are kicking me out. They're angry because... Because I want to be a girl."
-	Connor pulled his head back, surprised. "Oh, you're trans?"
-	"Yeah..." the girl replied, looking sad. "I... I know, it's..."
-	"Don't worry." he cut in, trying to sound reassuring. "What's your name? Your real name, I mean."
-	"I..." she began. "My parents called me--"
-	"No, not that one." Connor interjected. "Your *real* name."
-	She smiled softly, encouraged. "I call myself Shannon."
-	Connor smiled, and nodded his head. "Pleased to meet you, Shannon. And can I say, that name is awesome. Great choice. Of course, as you can tell from the accent, I'm biased."
-	She laughed with him. "I won't ask your name... Kind of defeats the whole point of wearing a mask, eh?"
-	Connor snickered. "Where are you staying now?"
-	"Nowhere. They, um... only just kicked me out."
-	"I know a guy." Connor leant back. "Tommy Crane, boss of the Redbridge Syndicate. How old are you?"
-	"18." Shannon nodded.
-	"Still in school?"
-	"College, yeah."
-	"Nice one - I dropped out at 17." he chuckled. "Are you any good with tech?"
-	"I study computing."
-	Connor smiled. "Well, the Syndiate owns a repair shop in Redbridge. I can get you an apprenticeship there if you like?"
-	"I... you'd do that for me?" Shannon asked, shocked.
-	"Sure." he nodded.
-	"But... why?" she replied, awestruck.
-	"Two things. One, you remind me of myself at your age, and I know what I needed back then. Two, because you're going to do me a favour in return."
-	"What favour?"
-	"You're going to live. You're not gonna jump off this rooftop, and you're gonna stay alive." Connor replied firmly. "It's absolutely key to my secret superhero mission that there be a computer repair apprentice called Shannon active in Redbridge."
-	Shannon chuckled. "Well, if it's for your mission..." she picked up her vodka bottle, and poured it away.
-	"Damn, I was gonna drink that!" Connor laughed.
-	Shannon smiled - a genuine smile. "Thanks... I, um... I think I'm ready to come down now."
-	"Go to the Singing Horse. Say 'the Werewolf' sent you - I'll call ahead. We'll get you somewhere to stay."
-	"Thank you..." Shannon smiled, tears in her eyes.
-	"No, thank you." Connor nodded.
-	"What for?"
-	"For the easy win. You have any idea how nice it is to save a life just by talking, rather than rushing through a burning building? If only every evening was this chilled out!" he laughed.
-	Shannon laughed too. The pair walked down to the ground level. He passed her some cash for a taxi. As she got in, he called up Tommy.
-	"Connor!" Tommy answered, smiling. "What can I do for my favourite Werewolf?"
-	"There's a girl who'll be turning up to the club tonight - Shannon. She's been kicked out by her parents. I've told her we can get her a place to stay tonight. She's also pretty tech-savvy - so maybe we could sort something out for her at the repair shop?" Connor explained.
-	"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride.
-	"Call me if there's any issues."
-	"You've got it. Hey... Good man." Tommy smiled.
-	Connor smiled back. "Thanks. Night, mate."
-	He sighed, breathing in the night air. He un-morphed his mask as the rain began to fall.
-	He let the water splash over his face, and took a deep breath.
 
-Connor saves Shannon
+Shannon joins the team
 ______________________________
 CHAPTER
 
@@ -11124,18 +11192,7 @@ SCENE
 	"Hah, you're joking, right?" Connor said incredulously. "I mean we're good friends, but that's about it. Sure, we've had a few moments, but, I mean, nothing overtly romantic... Like, I mean, it's not like..." Connor trailed off, stumbling on his words. Trey laughed warmly, and pulled Connor in for an embrace.
 	"It's okay bro - it'll be okay. I'll teach you how to pick up on the most obvious signs one day, we'll get there." he teased.
 	"Hah, fuck you!" Connor laughed.
-	He let out a deep breath, watching his friends cheer. He watched the people celebrate. His city move with joy.
-	Then, he felt a vibration from his ear - a message from his police scanner. He pushed against it, and heard the report.
-	"All units - reports of a drunk driver speeding down the A6194. High risk to the public."
-	He waited a moment to see if any officers replied. None did.
-	He sighed, and turned to his friends.
-	"I'll be right back - uh, work."
-	He expected a sad look. Disappointment.
-	Instead, they smiled warmly, and hugged him.
-	"Go get him, tiger." Trey cheered.
-	Connor chuckled, embracing his friends. He and Sparky slipped out, scaled a wall, and rode the wind outwards.
-
-	As he glided over his city, he let the smile crack over his face.
+	He let out a deep breath, watching his friends cheer. He watched the people celebrate. His city move with joy. The smile cracked over his face.
 	He was a monster. Alien. Inhuman.
 	Killer. Freak.
 
@@ -11497,42 +11554,6 @@ SCENE
 Auction Slaughter
 ______________________________
 SCENE
-	Trey arrived at A&O Repairs for his shift. He stretched, and changed into his overalls, before walking onto the shop floor.
-	"Evening, Trey." his boss Darren waved. "Oh, by the way - this is Shannon. New hire."
-	"Hi!" she smiled warmly. She'd changed since her meeting with the Werewolf - the tips of her hair had been dip-dyed purple, while her previously brown hair was lightened slightly. A little more confident - a little more comfortable.
-	"Yo, yo!" he smiled back. "I'm Trey."
-	"Shannon's replacing Connor as our resident computer nerd." Darren shrugged. "Right, I've gotta get cracking on a Fiesta with a shagged-out exhaust."
-	He left, and Trey chuckled.
-	"So, want me to show you around?"
-	"Actually, Darren just took me for a looksie." she shook her head.
-	"Fair enough." Trey smirked, beginning to work on some damaged parts on a workbench, while she got set up on her laptop.
-	"So... Computers?" he asked.
-	"Yeah, they're these newfangled gadgets people use sometimes." she smirked.
-	"Ooh, banter! I like it." Trey laughed. "What kind of stuff do you do on 'em?"
-	"Oh, anything really. Hardware repairs, software development, networking..." she smiled, before catching herself. "Boring shit, basically."
-	"Hey, I'm not a luddite. I know my way around the CAN bus, et cetera." he grinned.
-	A customer walked in.
-	"Hi, I've got a laptop needs fixing." he said.
-	"Oh, happy to help, sir." she stood up, smiling. "What's the issue?"
-	He tilted his head. "Um... I don't suppose your mate over there could help?"
-	"Excuse me?"
-	"Fuck off, Ross." Trey snapped.
-	The man scoffed, and left.
-	Shannon sighed. Trey walked over, and leant against the counter.
-	"Ignore him. He comes in here every week because his laptop's got some new virus on it. Then we see his broswer history, and he insists he has no idea where it all came from."
-	They shared a chuckle, and Trey got back to work. Another customer came in.
-	"Heya." he nodded. "Um, I heard you guys do hardware stuff? My laptop's not charging, is all."
-	"Okay, can I see it?"
-	"Oh, sure, sorry..."
-	She looked at it, and peeked into the charging port.
-	"Ah... common obstruction. Give me 20 minutes, and it'll be cleared."
-	"Nice! Thank you so much!" he smiled, leaving.
-	Trey looked over, smiling. He walked over to her.
-	"By the way - loving the hair."
-	Shannon self-consciously brushed her hair out of her face. "Hah, really? I thought I should've kept it brown, but my friend Nicola dared me to dye it."
-	"Nah, it suits you, girl." he grinned.
-	She smiled softly, and continued working.
-
 	Naismith stood outside the "auction house." Nina approached him.
 	"Sir..." she opened, unsure.
 	"It's a fucking mess in there, Nina." he folded his arms. "But I can't say I feel sorry for them."
@@ -12361,7 +12382,7 @@ SCENE
 	Without hesitation, Trey leapt out of bed, and the trio rushed off. They made it to a maintenance hatch. Connor used the keys to open it, and the two climbed to the rooftop.
 	The rain was pelting down, obscuring their presence. The trio crouched down low to avoid slipping, and crawled to the edge.
 	The watchtower's lights were focused on the prison yard, not the roof. Connor cheered silently.
-	"Fuck, I..." Trey began, realising their plan. Down from them was the barbed wire fence, and past it was a lamppost.
+	"Fuck, I..." Trey began, realising their plan. Down from them was the barbed wire fence.
 	"I can't do it." he continued, panting for breath.
 	"M-me neither..." Shannon stammered.
 	Connor turned, and hugged them both. They returned the embrace.
@@ -12369,9 +12390,9 @@ SCENE
 	"Trey, Shannon... my friends..." Connor smiled softly. "I'm sorry."
 	"Wait, no no no..." their eyes widened in realisation, as Connor lifted them both over his shoulders, and stood ready.
 	"Connor, no, don't, please!" Trey begged. Shannon closed her eyes tightly, but trusted him. Connor grinned cheekily, and sprinted off the rooftop, jumping over the edge.
-	"FUUUUUUCK!" Trey screamed in panic, as Connor sailed through the air. He gripped onto the post with his legs, and slid down.
+	"FUUUUUUCK!" Trey screamed in panic, as Connor sailed through the air. His prison clothes tore as his glider ripped out from his back. They gently touched down.
 	He placed his comrades on the ground. Trey's eyes were closed tightly. Shannon giggled in excitement.
-	"Is it over?" Trey asked timidly. Connor laughed, and patted him on the back.
+	"Is it over?" Trey asked timidly, opening one eye. Connor laughed, and patted him on the back.
 	Then, an alarm sounded, shaking them.
 	"Let's go!" Connor barked. The trio sprinted away into the night.
 
@@ -12394,12 +12415,12 @@ SCENE
 
 	The group sat down in the living room, sipping coffees. Connor, Trey, and Shannon were changed out of their prison uniforms.
 	"How did you do it?" Amy asked.
-	"I, um..." Connor began, coming up with a lie on the spot. "I wedged some junk in my cell door so it wouldn't lock properly. I was banking on the guards being too lazy to check. Shannon did the same. From that, we snuck out into the security room - the guard there was fast asleep already. She switched off the cameras, deleted the footage, and I stole his keys - then we grabbed Trey and made it to a maintenance hatch, got on the rooftop, and jumped."
-	"Jumped is underselling it. Connor grabbed us and leapt onto this lamppost, and we slid down that." Trey added, grinning.
-	"The alarms went off - by now they'll know we escaped." Connor cut in. "They'll probably come here. You should go back to the flat. Trey, Shan - we'll camp out in the old gym - I still have my key."
+	"Having a friend in the KGB goes a long way." Connor grinned. "The alarms went off - by now they'll know we escaped. They'll probably come here. You should go back to your place. Trey, Shan - we'll camp out in the old gym - I still have my key here somewhere."
 	Shannon looked at him quizzically. "Shan?"
-	"Fuck." Connor chuckled. "Now *I'm* doing it."
-	Trey laughed.
+	"Fuck." Connor chuckled. "Now *I'm* doing it." Trey laughed.
+	"Your stuff's there too." Amy nodded. "All your computers, and that super-suit-thingy."
+	"Super-suit?" Shannon tilted her head.
+	"Oh, you'll love that." Trey grinned.
 	"What will you do then?" Amy asked, giving Connor a knowing look.
 	"I'll contact the Werewolf." he replied.
 	"What?!" Trey gasped incredulously.
@@ -12602,7 +12623,7 @@ SCENE
 	He looked over from his rooftop perch, and saw a mass mob marching towards the police station. His gambit paid off.
 	Following the crowd, he arrived with them to the police station, where a phalanx of riot police took position.
 	"Disperse! This is an unlawful gathering!" the lead officer shouted from his megaphone.
-	"PAEDOS! FASCISTS! SCUM!" the crowd chanted. Connor looked down, and spotted a few familiar faces - Raj the coffee shop owner, his former boss Darren, Mr. Molnar, Phil, several survivors of the Walton Flats fires - and Amy. His hearts skipped their beats as he heard a distinctive clicking noise.
+	"PAEDOS! FASCISTS! SCUM!" the crowd chanted. Connor looked down, and spotted a few familiar faces - Raj the coffee shop owner, Mr. Molnar, Phil, several survivors of the Walton Flats fires - and Amy. His hearts skipped their beats as he heard a distinctive clicking noise.
 	"DISPERSE! THIS IS YOUR LAST CHANCE!" the officer roared. The crowd only chanted louder.
 	Rubber bullets launched into the crowd, one hitting Amy in the leg. She yelped in pain, only to see a black, screaming shape launch from a nearby rooftop.
 	She grinned.
@@ -17452,7 +17473,7 @@ back rub + tickling
 ______________________________
 SCENE
 	It was early morning.
-	Naismith, Ivan, and the rest of TO-39 were observing a brutal crime scene - A man was hanging from a lamppost, strung up by his own entrails - his mouth had been carved into a smile, and his tongue hanged from a slash in his throat, still attached. Carved into his forehead was the word "PARASITE."
+	Naismith, Ivan, and the rest of TO-39 were observing a brutal crime scene - A man was hanging from a street light, strung up by his own entrails - his mouth had been carved into a smile, and his tongue hanged from a slash in his throat, still attached. Carved into his forehead was the word "PARASITE."
 	"Who was this man?" Ivan asked, stroking his beard.
 	"Matteo Vitale." Naismith answered. "Mob boss, mainly owning Blackmarsh. His body was reported an hour ago. We know he had run-ins with the Werewolf before."
 	Ivan shook his head. "Wasn't him. Not his style."
@@ -19951,7 +19972,7 @@ SCENE
 	"Received." Ivan nodded, tapping his earpiece. He readied Isabella, loading her magazines, adjusting her scope, and strapping shotgun cartridges for her underslung to his bandolier. He was kitted out for war.
 
 	Junior's claws swiped right down. Connor would've dodged, but he was exhausted. He'd never kept his armour up for so long - it was taking its toll. The claws ripped through, leaving four bright red lines across his chest. He launched a punch into Junior's gut, winding the creature slightly. Sparky ripped a chunk out of Junior's shoulder with a savage bite.
-	Junior screamed, the noise making the ground shake. It picked up Sparky, unbothered by Connor's flurry of jabs - each one tough enough to crack concrete - and launched the wolf into the air. Then, it ripped out a lamppost, and, swinging the rebar like a club, whacked Connor across the side of the head. Sparky landed across the street, dazed.
+	Junior screamed, the noise making the ground shake. It picked up Sparky, unbothered by Connor's flurry of jabs - each one tough enough to crack concrete - and launched the wolf into the air. Then, it ripped out a street light, and, swinging the rebar like a club, whacked Connor across the side of the head. Sparky landed across the street, dazed.
 	Connor stumbled, then fell to his knees. He tried to block, but Junior brought the rebar down onto the back of his head. His body sprawled out as it hit into the ground, with a noticable pothole forming as his face smacked down. He forced himself to rise, to fight, to not die, and a second swing around the side of the head sent him flying back into the cracked, crumbling building.
 
 	The funny thing about super senses is, they tell you things that you might not think are important.

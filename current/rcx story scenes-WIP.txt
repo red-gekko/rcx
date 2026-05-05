@@ -10140,6 +10140,27 @@ SCENE
 	"I don't know... we could definitely add some pizzazz."
 	"No capes." Connor cut in, grinning.
 
+	It was the dead of night, now. A pair of Patriot goons waltzed into a corner shop.
+	"Gentlemen, please..." the owner began nervously. "I can't afford another robbery."
+	"Boo fuckin' hoo." the larger one grinned. "Open the till, or we start causing problems."
+	The owner sighed, and pressed the button to open the till - as well as another next to it.
+
+	"All units - silent alarm tripped in McAllen's - 39 Victoria Road. Request immediate response." the operator said clinically.
+	"All units, this is Chief Superintendent Hayes - stand by. Priority is continued patrols in Caldermouth Square - leave it for a morning call."
+	Connor pressed his finger to his earpiece, and flexed.
+	"You get that, bratan?" Ivan asked. His voice was crackly - the tech still damaged from the night before.
+	"Received." Connor nodded. "On my way."
+	"Show the boys in blue how it's done." Ivan grinned.
+
+	"Please, stop this madness!" the shopkeep begged.
+	The smaller thug struck his wine shelf with a baseball bat, shattering glass and spilling drink. The larger one laughed.
+	"*Hey.*" Connor barked lowly. The thugs turned around, and went pale as ghosts.
+	"F-fuck..."
+	"It's the freakin' Wolf!"
+	Connor tensed, then released his muscles. His black, knee-length, sleeveless trenchcoat - a compromise with Trey's insistence on a cape - fluttered in the wind. His piercing red gaze shot through the cold air.
+	He gripped the coat's collar along with his hood, and pulled them tight. His eyes flared, punctuating it.
+	The shopkeeper grinned. The hero was here.
+
 Designing a costume
 ______________________________
 CHAPTER
@@ -10579,6 +10600,19 @@ SCENE
 Morning at Chloe's
 ______________________________
 SCENE
+	"And... done!" Shannon smiled, switching on the small device she'd been tinkering on.
+	"So... okay, explain it again, but this time, like I'm a baby." Tommy grinned.
+	"It's... put simply, it's a magnetic lockpick." she explained. "As in, if you press it against a magnetic lock, it delivers a current strong enough to unlock it for a moment. The current fries it though, so you'd need to take it back here for me to repair it and make it usable again."
+	"Still handy, though." Tommy nodded. "Nice work, kid. How many do you reckon you could make before Thursday?"
+	She stroked her chin. "At least 15. Maybe more."
+	Tommy grinned. "That's perfect. Patriots won't know what hit 'em."
+	She smiled. "Um... would the Werewolf need any?"
+	"He can lift cars above his head - I think he'll be fine."
+	At that, the door opened.
+	"Speak of the devil." Tommy chuckled. "Alright, mate?"
+	"Hey." Connor nodded, clad in his costume and holding a laptop. "Oh, hi, Shannon!"
+	"H-hi!" she waved awkwardly. "Uh... nice mask!"
+	He smiled, and his eyes visibly moved with it. Trey was right - a bit of expressiveness could go a long way.
 
 Shannon joins the team
 ______________________________
@@ -15646,8 +15680,7 @@ SCENE
 	"This is crazy!" Sparky yapped excitedly.
 	Connor gripped Sparky hard, nuzzling him. They enjoyed the view.
 	He regained his composure, and pulled his chord. The trio landed in a small, abandoned village.
-	Connor and Sparky morphed up their new getups - Connor's now included a black, knee-length, sleeveless trenchcoat - a compromise with Trey's insistence on a cape. Their piercing red gazes shot through the cold air.
-	"Nice new digs, brat'ya." Ivan grinned. The trio headed forwards, eventually overlooking Zamaldayev's convoy.
+	"Nice new duds, brat'ya." Ivan grinned. The trio headed forwards, eventually overlooking Zamaldayev's convoy.
 	"Okay, let's go. Do not kill Zalamdayev. He's ours." Ivan growled. With that, the trio descended.
 
 	In the distance, the tyrant stood atop a tank, barking orders to his soldiers as they mowed down Kumyk fighters in cold blood. The massacre was brutal, the screams of the dying echoing across the open field. Zalamdayev's eyes gleamed with sadistic pleasure.

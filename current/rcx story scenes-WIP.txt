@@ -10133,10 +10133,11 @@ SCENE
 	Instead of a bright red visor, he now looked like a ninja with a demon's gaze. Even he had to admit, it was pretty badass.
 	He turned it off.
 	"That's fucking awesome." Amy grinned. "You look sick."
+	"It's perfect." Trey grinned. "The expressiveness is just what you need. Criminals see a scowling monster, but innocents get to see the care in your eyes."
 	"Can I try?" Sparky asked.
 	"Go on, bud." Connor nodded, smiling. Sparky tightened his own face-mask similarly, and reddened his eyes. The pair looked terrifying.
-	"Hmm..." Trey stroked his chin. "The head does, sure... but the body?"
-	"What are you on about? The kevlar bodysuit is perfect!" Amy countered.
+	"Hmm..." Trey stroked his chin. "The head looks good now, but the body?"
+	"What are you on about? The kevlar suit is perfect!" Amy countered.
 	"I don't know... we could definitely add some pizzazz."
 	"No capes." Connor cut in, grinning.
 
@@ -10159,7 +10160,8 @@ SCENE
 	"It's the freakin' Wolf!"
 	Connor tensed, then released his muscles. His black, knee-length, sleeveless trenchcoat - a compromise with Trey's insistence on a cape - fluttered in the wind. His piercing red gaze shot through the cold air.
 	He gripped the coat's collar along with his hood, and pulled them tight. His eyes flared, punctuating it.
-	The shopkeeper grinned. The hero was here.
+	The shopkeeper grinned.
+	The hero was here.
 
 Designing a costume
 ______________________________
@@ -10612,7 +10614,7 @@ SCENE
 	"Speak of the devil." Tommy chuckled. "Alright, mate?"
 	"Hey." Connor nodded, clad in his costume and holding a laptop. "Oh, hi, Shannon!"
 	"H-hi!" she waved awkwardly. "Uh... nice mask!"
-	He smiled, and his eyes visibly moved with it. Trey was right - a bit of expressiveness could go a long way.
+	He smiled, and his cheekbones visibly moved with it. Trey was right - a bit of expressiveness could go a long way.
 
 Shannon joins the team
 ______________________________

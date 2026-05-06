@@ -4919,9 +4919,10 @@ SCENE
 	"Smells like WiFi." Sparky shrugged. "I doubt it's anything important. Can you get that plastic smell?"
 	"Plastic? I thought it was oil." Connor tilted his head. "Well, this place is an industrial unit. Probably just old product."
 	Sparky nodded, then his eyes darted. "See that?"
-	Connor looked over. "Yeah - cluster of heartbeats." He flexed his throat and unhinged his jaw, as did his packmate. They both let out an ethereal, alien song - one high-pitched enough that the bats in Wyrmrock went crazy.
-	"Canines." he nodded. "A whole bunch of them. Not sure where Randall is amongst all of it."
-	"217 must be in there. She *has* to be." Sparky replied. "As for the others... they must be more siblings. More of my people."
+	"Yeah - cluster of heartbeats."
+	He flexed his throat and unhinged his jaw, as did his packmate. They both let out an ethereal, alien song - one high-pitched enough that the bats in Wyrmrock went crazy.
+	"Canines." he nodded. "A couple of them. And a humanoid - Randall."
+	"217 must be in there. She *has* to be. As for the other... they must be another sibling. More of my people."
 	Connor gently stroked him between the ears.
 	"This is the big moment. We get our revenge, and you get your sister back. After that... we hunt the rest of them down."
 	"No time to dawdle, then." Sparky smiled. The two rose, and stretched their legs out.
@@ -4930,44 +4931,99 @@ SCENE
 	The two rushed forward, and jumped. Their legs kicked into the roof's edge, smashing the metal downwards as they launched upwards. They landed on a skylight, crashing down.
 	They landed on the ground, their arrival punctuated by raining shards of glass. 
 	"RANDALL!" Connor roared. "SHOW YOURSELF!"
-	His scream echoed in the cold, metal unit. No human answered.
-	A television screen, which hanged from the wall, flashed to life. Randall's image flickered onto the screen.
-	"Good evening, freaks." he grinned sadistically.
-	"YOU FUCKING COWARD!" Connor howled. "SHOW YOUR FACE AND *DIE LIKE A MAN!*"
-	"It's cute, honestly. You think you two little shits could kill me." he laughed. "And honestly, I think I may have tortured you a little too well. I tell you I'm somewhere, and mere minutes later you come running? You must miss me."
+	His scream echoed in the cold, metal unit. He was answered by the sound of scraping, as Randall walked out from a storage crate, wielding twin machetes and clad in thick kevlar armour.
+	"Good evening, freaks." he grinned sadistically. "Honestly, I think I may have tortured you a little too well. I tell you I'm somewhere, and mere minutes later you come running? You must miss me."
 	"WHERE'S 217? WHERE'S MY SISTER?!" Sparky roared.
 	"Oh, Six! Good to see you again." Randall smirked.
-	At that, a metal door swinged open. A pack of snarling, muscular Rottweilers poured out.
-	"Project Fenrir wasn't a *complete* failure." Randall laughed. "That blood we harvested was given to these... mangy, rabid mutts."
+	At that, he was joined - by a pair of snarling, muscular mastiffs. It was barely visible past their fur, but the smell of their blood confirmed it - there was super-serum in their black veins.
+	"Project Fenrir wasn't a *complete* failure. That blood we harvested was given to these... mangy, rabid mutts."
 	The twin Werewolves assumed a fighting stance.
-	"Sic 'em, boys!" Randall barked. The dogs immediately charged.
-	Connor was the first they went for. One sank his teeth into his forearm, while another tore a chunk of red meat from his leg. Connor beat both with restrained punches, throwing them off.
-	Sparky, using his familiar appearance to them, was able to scare a few to hang back. Most, however, simply dashed in, ripping at his hide. He responded with backhanding them and bodyslamming - he carefully avoided catching them with his claws.
-	"Okay..." Connor panted, punching another. "I know mid-combat isn't the best place for a philosophical discussion, but..."
-	"They *are* trying to kill us." Sparky grimly noted, likewise smacking another.
-	"We can't kill them." Connor shook his head. "They're victims of Randall, same as us."
-	Sparky bit the scruff of one, trying to make it submit, make it surrender. It's teeth gnashed as another bit down on Sparky's side, ripping free a chunk of meat.
-	He whispered "I'm sorry," and sank his teeth into its throat, before pulling out the trachea. It flayed about for a short while, before going still.
-	"Sparky!" Connor gasped.
-	"There's no saving them." he shook his head mournfully, taking down another. "The best we can offer is a quick death."
-	Connor looked over at the pack of crazed super-dogs, and rubbed his face in shame. He morphed up his claws, and charged forward. It didn't take long before the remaining dogs were put out of their misery.
-	Connor's hands shook, and he unmorphed his mask to vomit. Sparky let out a howl of sorrow.
-	"It was... it was an act of mercy." he whispered to himself.
-	Their thoughts, their grief, were interrupted by a clapping noise from the big screen.
-	"Oh dear, oh dear! And here was I thinking you would've broken there. I suppose killing is in your nature after all." he grinned.
+	"You take the dogs - don't kill them." Connor whispered firmly, morphing blades from his wrists. "I'll fight Randall."
+	"Save some for me." Sparky snarled back, eyes burning red.
+	"Sic 'em, boys!" Randall barked.
+
+	Connor wasn't here to fool around - he was here for payback. He spun forwards like a vengeful tornado, his blades ripping through the air. Randall darted back, then knelt down and crossed his machetes, catching Connor's right.
+	Under his mask, Connor grinned. His left blade burst forwards, aimed straight for Randall's gut.
+	Not fast enough. Randall turned, twisting his blades so Connor's fell forward, and then he countered. Connor dodged the first machete, but the second nicked his neck.
+	First blood. Connor felt the wound close up in moments, and snarled viciously.
+	He roared, charging forwards again.
+
+	At first, Sparky's wolven form intimidated the lesser canids. But then both remembered what Randall would do if they failed, and their black-veined eyes darkened with furor.
+	"Listen to me! I don't want to hurt you!" he pleaded, as he slammed the backside of his paw around the head of one. He was careful not to catch it with his claws.
+	The other used the opening to sink his teeth into Sparky's back leg, tearing hot blood and red meat.
+	He howled in shock and pain, before turning and beating that one down. It got back up in short order.
+	Sparky turned his head, and saw Connor's fight. His pupils shrank as they caught Randall's form.
+
+	"DIE!" Connor demanded, as the tip of his blade sank into Randall's thigh.
+	Most men - hell, most Super-Agents - would've been thrown off by that. Randall simply used his proximity to drive his own blade through Connor's hand.
+	Connor screamed in rage as the blade shunted in between his carpal bones, popping out of his palm. Randall pulled the blade backwards, splitting his hand in two.
+	He flipped backwards, and clutched his hand tight, setting the bones back and morphing a bandage to bind them. His eyes flashed crimson, and he formed bucklers over his wristblades.
+	"Ah, finally - you've figured out you're not invincible, eh?" Randall taunted. "In fact, I'd say you're quite vincible."
+	"Fuck you." Connor spat, his armour thickening and calcifying. He raced forwards, and the two monsters - one in form, one in soul - clashed again.
+
+	Sparky snarled as another chunk of flesh tore out from his hide. He turned, and bit the scruff of the one who did it. He raised up on his hind legs, and threw it across the unit.
+	Breathing space. He pounced on the other forcing it to its back.
+	For normal canines, that would be it. The loser would submit, accepting that the winner would have its throat otherwise.
+	The super-mastiff went right for Sparky's throat, instead. Sparky darted back just in time.
+	"Please! Stop fighting me! I'm on your side! I want to stop Randall!" he begged.
+	No answer. It seemed this wasn't one of his people - just an animal. A raging, monstrous animal.
+	Sparky closed his scarlet eyes for a second.
+	"I'm sorry." he whispered, as he ripped out its throat.
+	He turned, as the other was sprinting towards him. He bowed his head in shame, and went for the kill.
+
+	Connor snarled as Randall's machete was knocked backwards by his buckler. He saw his opening and pounced forwards, paying him back in kind with a slash across the chest.
+	Randall's armour was shredded and torn, and his skin was raked and bloody - but he wasn't beaten. Not by a long shot.
+	He brought his blades together, holding them side-by-side. He half-closed his eyes, and breathed out slowly.
+	Connor charged, pointing his own blades forward. He was going to impale this torturous son of a bitch.
+	Randall held position. He felt his heart beat with anticipation. Then, he struck.
+	Connor was tired. Exhausted, even. So exhausted, his reflexes were a nanosecond too late.
+	Randall's blades swept in a horizontal motion, clashing into Connor's forearms. The bucklers absorbed the damage, bending and cracking as his arms swung outwards.
+	Connor went to close the opening, to put his guard back up, to do *something.*
+	Too late.
+	Randall twisted his blades to their sides, and drove them through a gap in Connor's ribs.
+	They sank through his armour, his lungs, and punched out through his back.
+	Connor went to scream - instead, blood poured from his mouth and nose, as he gurgled in pain.
+	Randall gripped the hilts of his blades, and pushed Connor to his knees.
+	"Hah..." he coughed. "I expected more. Goodbye, Connor."
+	He placed his foot against Connor's sturnum, and pulled his blades free - slowly. Grinning.
+	The blades glinted in the dim light, as he crossed them - holing them like shears ready to take the Werewolf's head.
+	The blades tore through the air, sailing inward.
+	"GRAAAAGH! DIE! DIE! *DIE!*" Sparky howled, slamming into Randall's side. He skidded to a halt as Randall crashed into a wall.
+	Connor spat a globule of blood, and forced himself to rise.
+	Randall planted his blades in the ground, using their support to get back up. He looked at the dead mastiffs, and laughed cruelly.
+	"Oh dear, Six. It's not the first time you've seen your misbegotten kind die, is it? First time you've killed them, though."
 	"You killed them. We just put them out of their misery." Sparky snarled grimly.
-	"And if you wanna see 'killing,' then maybe you should *SHOW YOUR FUCKING FACE, COWARD!*" Connor screamed.
-	Randall laughed heartily. "Now, I doubt this'll kill you. But hey, we're taking a trip down memory lane, right? Maybe it'll break you."
-	"What?" Connor snapped.
-	"This isn't the first time Sparky's had to see his mangy kind be slaughtered because of me. And this isn't the first time I've buried you."
-	Connor tilted his head, but then, his irises shrank to pinpoints. His twin heartbeats turned to hums of terror.
-	"RUN!" he screamed to Sparky.
+	"And if you wanna see 'killing,' then we're happy to oblige." Connor added. He readied his blades, as his lungs scabbed over.
+	Randall gripped the hilts tightly, as his eyes frantically darted side to side.
+	"What's the matter?" Connor taunted. "I thought you expected more?"
+	Randall exhaled through his nose, almost amused. He slowly sheathed his machetes, rolling his shoulders loose as if the fight had bored him. His hands lingered near his utility belt.
+	"You've got me," he said lightly. "Credit where it's due. I suppose asking for a quick death would be pushing it?"
+	Sparky's hackles rose. "Like you gave us?!"
+	Connor didn't move. His blades stayed forward, tense. "Agreed. We're going to make you feel everything you did to us. But first - where's 217?"
+	Randall tilted his head, as if considering it. "Still on that, huh?"
+	A faint crackle ran through the walls.
+	Connor noticed it first. Not heard - felt. A low, irregular pulse under the metal floor. His eyes narrowed.
+	Randall's expression sharpened, and he ripped something from his belt. He raised it upwards, and fired.
+	A grapple gun. He sailed upwards through the shattered skylight, and perched atop the roof.
+	"YOU FUCKING COWARD!" Connor howled. "GET BACK HERE AND *DIE LIKE A MAN!*"
+	Randall cut him off with a laugh.
+	"Well, now. Isn't this a nice trip down memory lane?"
+	Connor's stare tightened. "What did you do?"
+	Randall glanced around the walls, almost casually now.
+	"Not the first time Six has watched his kind die because of me." he grinned. "And definitely not the first time I've buried you under a building."
+	Connor went still. He tilted his head, but then, his irises shrank to pinpoints. His twin heartbeats turned to hums of terror.
+	"Ah..." Randall chuckled. "The penny drops."
+	Sparky's red gaze darted to his packmate. "Connor...?"
+	"RUN!" he screamed, as Randall darted away.
 	"What?! Why?!"
-	"PLASTIC! IN THE WALLS!" he roared.
-	Too late. The world around him erupted into flame. A massive explosion shook the building, and down it came.
+	"PLASTIC! IN THE WALLS!"
+	Too late.
+	The sound came first: a deep, mechanical *thump* from inside the walls.
+	Then heat.
+	The world around him erupted into flame. A massive explosion shook the building, and down it came.
 
 	Sparky pulled himself out of the wreckage first. He frantically started digging, cutting his paw pads apart on the shrapnel. Finally, he unearthed Connor, who took a sharp intake of breath.
-	The ringing in Connor's ears was deafening. His vision blurred as he came to, the world around him a hazy mess of rubble and smoke. He groaned, disoriented, but alive.
+	The ringing in his ears was deafening. His vision blurred as he came to, the world around him a hazy mess of rubble and smoke. He groaned, disoriented, but alive.
 	"Connor! Come on, we've got to go! The police will be here soon!"
 	The sound of sirens wailing in the distance cut through the haze. Connor tried to rise, but looked back in horror. His hand was pinned under an entire wall's worth of rubble.
 	His hearts raced as panic set in. He tugged at the debris, his breath coming in sharp gasps, but his hand remained firmly caught.
@@ -5122,7 +5178,7 @@ SCENE
 	He took a deep breath, before continuing.
 	"It wasn't just physical. I mean, they cut me up, zapped me, put me in an ice bath, waterboarded me, you name it. But the worst was the tricks."
 	"Tricks?"
-	"One time, Randall let me think I was escaping. Just as I was about to leave, he shot me, and brought me back in."
+	"One time, Randall let me think I was escaping. Just as I was about to leave, he shot me, and brought me back in. Not only that, they fucked with my head somehow... the memories are jumbled."
 	"So how did you escape? How did you come back home?"
 	"I snapped." he shuddered. "Randall was gone, and there was some other goon stood with me. I bit his throat out, and... ate him."
 	"*Ate him?!*" she gasped.
@@ -5866,7 +5922,7 @@ SCENE
 	Connor laughed. "Anyway... she's trustworthy. She wouldn't tell anyone. Hell, she spent half our conversation browbeating me into keeping schtum."
 	Ivan smiled. "Good. And... It's good to have someone who knows. Don't tell the world, but having a family member to talk to about this... that'll help keep you sane."
 
-	Connor nodded. "By the way, I sent you over some files. Did you find the man you were looking for?"
+	Connor nodded. "By the way, I sent you over some files from the other night. Did you find the man you were looking for?"
 	"Nyet... We did find something though. A name. Optimates."
 	"What's that?"
 	"The name originates from an ancient Roman political faction - one dedicated to protecting the rich and powerful. It seems this modern-day iteration has the same goals... We thought the whole thing was a hoax, until recently - but files we got from the Algerian DRS confirmed what we already suspected."
@@ -7474,7 +7530,7 @@ SCENE
 	He kicked her as hard as he could, and actually made her move - slightly. He scurried backwards, gasping for breath.
 	"Okay... time out?" he shrugged.
 	"You wish." she grinned, striking him with her whip once more. It caught him in the face, cutting across his cheek.
-	He quickly darted backwards, and felt his gauntlets morph. He drew a handful of fletchettes, and launched them at her.
+	He quickly darted backwards, and felt his gauntlets morph. He drew a handful of darts, and launched them at her.
 	As they flew forwards, he made sure to trigger his super-senses. His eyes burned red, and he watched in slow motion as they sailed through the air. All of them were on a direct course for her. Even with her enhanced physicals, she could not possibly move fast enough to dodge them all.
 	To his horror, he watched as they suddenly veered off course, flying past her with not a single scratch.
 	"How the fuck..." he muttered, before realising.
@@ -7543,7 +7599,7 @@ SCENE
 	"Whiplash." he said firmly. "I can see in slow motion, so I saw what you can do."
 	She sighed, leaning back. "It's called Trajectory Manipulation. A form of telekinesis."
 	"How do you do it?"
-	"How do you shit knives and fletchettes out of your hands?" she chuckled. "I... I was only a little girl when they took me."
+	"How do you shit knives and darts out of your hands?" she chuckled. "I... I was only a little girl when they took me."
 	Connor nodded, wordlessly encouraging her. She hesitated, and folded her arms - as if putting up a shield.
 	"They put you in this airtight pod, filled with lukewarm water, and they whack an oxygen mask on your face." she continued. Her eyes squeezed shut, as if she was back in the pod once again. "You can't hear, smell, taste, feel, see... complete sensory deprivation."
 	"How long do you stay in?" he asked.
@@ -9943,7 +9999,7 @@ SCENE
 	His ear - the one not deafened by his earpiece - pricked up ever-so-slightly. It heard something he did not.
 	*FF-SHK!*
 	The Giant screamed in fury and pain, slamming Connor to the ground. He choked and looked up, watching as it plucked the obsidian-tipped arrow from its armpit.
-	His eyes weakly moved to the side, and saw her.
+	His eyes weakly moved to the side, and saw her. A figure clad in a black leather catsuit.
 	"Olivia?" he whispered incredulously.
 	Whiplash drew another arrow, and fired again.
 
@@ -10615,6 +10671,34 @@ SCENE
 	"Hey." Connor nodded, clad in his costume and holding a laptop. "Oh, hi, Shannon!"
 	"H-hi!" she waved awkwardly. "Uh... nice mask!"
 	He smiled, and his cheekbones visibly moved with it. Trey was right - a bit of expressiveness could go a long way.
+	"Got this from tonight's raid. It's encrypted - but there are some files I need access to."
+	Tommy leaned back into his chair. "You're not taking it back to yours?"
+	"The Horse was closer." he shrugged. "There should be a USB here somewhere - it'll break past he encryption."
+	"Right here." Shannon smiled, pulling the device from her pocket. "I can take a look, if you like?"
+	Connor tilted his head. "I... I appreciate that, but it's fine. This is Syndicate business."
+	"That's okay!" she cut in. "I've been helping out, around here."
+	Connor paused. "You've been hacking for us?"
+	"Yeah! Tommy said we needed a tech specialist, so... I'm your girl!"
+	Connor's gaze turned back to Tommy, squinting slightly. "Um... Shannon, give us a minute, if that's okay?"
+	"Uh--yeah, sure, no problem." she stammered, rising and leaving.
+	"What's the problem?" Tommy asked.
+	"The 'problem' is that I didn't send her to you to get involved in... our world." Connor sighed.
+	"I know." Tommy nodded. "Believe it or not, she came to me. She said she was inspired by you, and wanted to do some good. And, well, my *other* computer nerd is a bit busy nowadays running around in a kevlar bodysuit."
+	Connor looked away. "This is dangerous, Tommy. I mean, the Patriots are one thing, but Paladin? The Optimates?"
+	"She's well aware of the risks, Connor. It's her choice."
+	He hesitated, but released his shoulders, and headed back outside.
+	Shannon was sat at a desk, browsing through the now-unencrypted files.
+	"Oh, hi." she said nervously. "Is everything okay?"
+	He smiled softly. "Yeah, it's fine. Just... this is really dangerous, you know? Working with us--with *me...* it puts a target on your back."
+	"I'm already a target in this city." she countered. "I wouldn't've been kicked out and getting mugged if I wasn't... well, me. And *you* saved me, remember? And if I can do just a little something to make your job easier, to take just a little bit of weight off your shoulders - then that means I'm helping you save other people just like me."
+	Connor sighed, but his eyes betrayed his pride. "When we last met, you said you were studying computing - not that you were a hacker."
+	"Well..." she sheepishly admitted, "I've always been a tinkerer. And when I started at the workshop, I found a bunch of tools left by the last techie - so I got a bit curious, started studying them, and now... well, it turns out I have a knack for it."
+	Connor smiled. "You're sure you wanna do this?"
+	"I'm sure. You can help people by beating up bad guys and saving the day. I can help by doing *this.*"
+	He thought about it for a moment, and then nodded.
+	"Well then... Welcome to the team, Shannon."
+	"Glad to be here." she smiled warmly. "By the way, do I get a cool codename too?"
+	"Maybe later." he grinned.
 
 Shannon joins the team
 ______________________________
@@ -11205,17 +11289,21 @@ SCENE
 Naismith's Christmas
 ______________________________
 SCENE
-	It was late New Year's Eve, in the smoking area of the Singing Horse.
+	The week after Christmas was always a quiet, boring one - a time for rest, and relaxation. 2015's was no different. As the year came to a close, the Singing Horse did what it always did - it hosted a swarm of drunk teenagers.
 	Connor brought a tray of jaegerbombs to their table, eliciting groans from Trey.
 	"Bastard! Absolute bastard!" he moaned. "Bringing over the drink that gets me the most fucked-up, and smiling like he's doing me a favour!"
-	Connor grinned devilishly. "Drink the fucking bomb, lightweight." he snarked. Trey stuck his tongue out mockingly, picked up the drink, and downed it. Amy downed hers, as did Connor.
+	Connor grinned devilishly. "Drink the fucking bomb, lightweight."
+	Trey stuck his tongue out mockingly, picked up the drink, and downed it. Amy downed hers, as did Connor.
 	"God, this year's gone quick, hasn't it?" she noted.
 	"Well, a lot's happened. We all grew up this year, I suppose. I mean, you hit 18 this year, so that's a big milestone." Connor mused.
+	"Yeah... a lot's happened, alright." Trey nodded.
 	"Speaking of, how is 19, you old farts?" Amy cheekily grinned. Both boys smirked.
 	"Ooh, my back's hurting, I've lost half my memories, and my teeth keep going walkies." Trey jeered. At the last word, Sparky, who was chilling under their table, raised his head.
 	"Walkies?" he asked, wagging his tail.
 	"Oops, sorry buddy..." Trey replied. Connor smirked and winked at Sparky.
-	"Can we go walkies later?" Sparky asked Connor. Being the only one who could understand him, Connor played it cool by nodding. Amy, the only other human present who knew about Sparky's sapience, stroked him comfortingly. "I know, Trey's a dick isn't he?"
+	"Can we go walkies later?"
+	"Of course we can, buddy." Connor beamed.
+	Amy stroked him comfortingly. "I know, Trey's a dick isn't he?"
 	"No he's not!" Sparky replied. "I like Trey. He talks to me funny. I like it when he says "Whosagoodboyyy" really fast."
 	"Hah, you hear that barking? Good lad!" Trey smirked.
 	"Ooh, look! The countdown's starting!" Amy said excitedly.
@@ -11224,7 +11312,7 @@ SCENE
 	With that, Trey pulled Connor in for a kiss, causing Connor to duck and eliciting laughter from the whole group.
 	"Haha, it's okay bro..." Trey began, cackling. "We all know you'd rather kiss Chloe instead."
 	"Huh--what? Me? Hah, I uh... I think you might... Uh..." Connor blushed.
-	"There's no shame, bro." Trey began, smiling - this smile more genuine. "Why don't you ask her out? You both clearly have the hots for each other."
+	"Why don't you ask her out?" Amy pressed. "You both clearly have the hots for each other."
 	"Hah, you're joking, right?" Connor said incredulously. "I mean we're good friends, but that's about it. Sure, we've had a few moments, but, I mean, nothing overtly romantic... Like, I mean, it's not like..." Connor trailed off, stumbling on his words. Trey laughed warmly, and pulled Connor in for an embrace.
 	"It's okay bro - it'll be okay. I'll teach you how to pick up on the most obvious signs one day, we'll get there." he teased.
 	"Hah, fuck you!" Connor laughed.
@@ -11246,11 +11334,128 @@ CHAPTER
 ______________________________
 SCENE
 	The moon shone brightly through the pouring rain, shimmering in the valley below.
+	It was the first night of the year. Typically, the night after New Year's is quiet, subdued, and peaceful, as people recover from the night before.
+	This night would've been the same - were it not for the fucking alarm bells.
+	The tired citydwellers groaned at the racket - the blaring sirens of Drackhill City Bank.
+
+	The armoured truck's doors swung open, and a gaggle of kevlar-clad gunmen dismounted.
+	"Alright boys, you all know the drill." their point-man barked. "Go in, grab, get out. We have ten minutes before the cops arrive."
+	These men were clear professionals. They swarmed into the hall and placed their charges on the safes and secure doors.
+	"Fire in the hole! 3... 2... 1!"
+	*BOOM!*
+	The bank rattled as its prizes were laid bare. The men began filling their bags.
+	"Alpha team, with me! We're going up! Bravo team, get as much as you can!" the leader ordered. His squad followed in lockstep as they ascended the stairs.
+	Alpha team kicked down the heavy oak doors, and quickly occupied the upstairs offices.
+	"There - secure door." one noted, pointing at the metal shutters that had deployed as soon as the truck breached the walls.
+	"Cutter!"
+	One man holstered his gun, and pulled out an electric buzzsaw. Sparks flew as he got to work slicing past the door.
+	"You think... *he'll* come here?" one whispered nervously. "There's no way we can take him..."
+	"Stay focused." the leader said lowly. "We'll be out of here before anyone can stop us. Besides, our combined firepower - we might just stand a chance."
+	"I heard stories, you know. Rumours." one began. "They say he fought some sort of cyborg ogre."
+	"Oh yeah? I heard he shits rainbows and breathes fire." another snarked.
+	Despite the bravado, he couldn't shake the feeling. That he was being watched.
+
+	Connor's scarlet gaze flashed as he rose from his rooftop perch.
+	"Fourteen men, total." he reported over his earpiece. "Ten up here, and four in the hall. There's a pair on watch by the window - I'll start there."
+	"You sure you don't wanna let the cops handle this, bratan?" Ivan quizzed.
+	"Cops tend to solve problems by shooting them, or getting shot." he shrugged.
+	"Fair enough. Udachnoy okhoty, tovarishch."
+
+	Connor's trenchcoat fluttered in the breeze, as his eyes burned a little brighter. He rolled his shoulders in anticipation, and morphed his glider. His arms rose up like a gargoyle, and he rode the wind forwards.
+	"Hey... what the fuck is that?" one gunman asked, pointing at the black mass falling from the office block across from him.
+	"Probably nothing. You gonna help, or what?!" another snapped.
+	Connor sailed through the air, and morphed a rope with a suction cup on the end. He launched it out to the wall above the window, and it quickly went taut and started reeling. He shifted so his feet went first.
+	"HOLY FUCK! IT'S *HIM!*"
+	The Werewolf's boots shattered the reinforced glass, and slammed into the gunman's chest. He launched backwards, and sank down, out cold.
+	"Shit, shit shit!" his partner gasped, firing his pistol at him. Connor tanked the hits, his eyes aflame. Then, the gunman felt the impact of a monster's fist, and his world went dark.
+
+	Alpha team heard the screams.
+	"Oh god, oh god..." the sawman panicked.
+	"Keep sawing! We've got you covered!" the leader barked. "Men, safties off! Flashlights on!"
+	The squad moved out, beams of light shimmering in the dark. They arrived at the shattered glass, and saw their comrades knocked out and cuffed.
+	"Where the hell did he go?!" one gasped.
+	"Whatever got in..." the leader began grimly, "Don't let it get out."
+	The squad began their search, kicking down cubicles and workstations as they searched for their assailant.
+	Tyson shone his flashlight over his section, his heartbeat palpable.
+	*WHOOSH!*
+	"Huh?!" he turned, gripping his gun tightly.
+	He stepped forward slowly, and...
+	*WHOOSH!*
+	"Where are you?!" he roared. He heard a step behind him, and opened fire rabidly.
+	"Shit!" his comrade gasped, taking cover. "HOLD YOUR FIRE!"
+	"Fuck, sorry..." Tyson panted, approaching. "You okay?"
+	"I'm fine. Easy on the trigger!" he hissed.
+	Tyson looked down, ashamed. Then he heard something hit the ground, and went pale as a ghost.
+	"BEHIND YOU!"
+	Connor's punch to the back sent the gunman crashing into Tyson. Both fell down, and a second strike knocked him out cold.
+	"Where is he?! WHERE IS HE?!" the leader howled. 
+	*WHOOSH!*
+	"AAAGH!" one screamed, as Connor's pounce made him slam into a desk. His chest heaved out from the hit, and a second slam - this one to the temple - took him down.
+	"Circle formation! Back to back!"
+	The remaining gunmen fell into position, their lights moving erratically.
+	"Shit! Buzzsaw's down!" one gasped, his light illuminating the unconscious sawman.
+	"Fuck... fall back! Downsta--!"
+	The leader's orders were interrupted by a gripping feeling on his waist. The others turned in to face him, and saw the Werewolf dangling on a rope from above, like a sleeping bat. He gripped tightly, and the leader screamed as both sped up into the ceiling. The three remaining gunmen fired wildly.
+	"Cease fire! Cease fire!" the leader begged. He then howled as he dropped down. The rope went taut around his ankles, and he yelped in pain and horror.
+	"GO! JUST GO!" one roared, and they broke formation and ran like spooked animals.
+	Or rather, two did. One felt an impact on his back, which tightened. The morphed suction cup reeled him in, screaming and crying hysterically. His comrades didn't stop for a moment.
+	"GET IN THE TRUCK! NOW!" one roared, diving down the stairs. Before he could take his own advice, Connor jump-kicked him. He sprawled down the stairs, his chin brusing on them.
+	His partner was similarly unlucky. A slam to the gut, then the head, and finally a sweep of the legs took him out.
+	The four horrified robbers quickly hauled into their truck. Connor grabbed one fallen soldier's gun, and threw it as hard as he could. The stock made contact with a forehead, and he wobbled for a moment, before falling down flat.
+	The truck pulled out, and sped off. For an armoured vehicle, it had surprising speed and agility. Connor flexed his calves, and gave chase. He used his grapple to launch himself into the air, and reformed his glider.
+
+	"What the fuck even is that thing?!" one asked, pale as a sheet.
+	"Fuck if I know. I thought it was all some rumour." the driver shuddered.
+	"Shit, do you see that?" another gasped, pointing at a black mass moving in the sky behind them.
+	"Is that him?"
+	"Did he see us?!"
+	Two dots at the front of the mass burned a bright red.
+	"OH FUCK! HE'S COMING FOR US!"
+	"FLOOR IT!"
+	The truck ripped forwards through the streets. A parked car had the unfortunate position of being in its way, and was shunted violently, crumpling.
+	A man ran out of the shop next to it, and screamed in horror.
+	"NO! NOT THAT ONE TOO! IT WAS A RENTAL!"
+	He looked up, and saw the gliding Werewolf.
+	"Fucking superheroes..." he muttered.
+
+	"They're driving recklessly - could be dangerous. *Very* dangerous." Connor muttered over his earpiece. "Shannon, there should be a zero-day exploit on the computer. It'll set all traffic lights across the city to red."
+	"Is that 'lockdown.exe'?"
+	He dived down a little to pick up his velocity. "That's the one."
+	"Running it now. Um... why do you have that ready to go?"
+	"Are you asking why, or how?" he grinned.
+	"...okay, I get the 'why.' How?"
+	"KGB trade secret." Ivan snarked.
+	Connor was sailing through the air, fast - but the truck was moving faster. He needed a boost, and quickly.
+	Inspiration struck as they approached the metro bridge.
+	His gauntlets shifted and turned, as the armour liquefied and reformed. Ink-black globules formed above his wrists, which spread out like wings. Mechanical components slowly staggered into existence, and they hardened into the new design.
+	Crossbows. Wrist-mounted crossbows.
+	Connor morphed his grappling ropes into them, created a spool and a winding mechanism, and aimed them at the bridge. Then, he fired.
+	They clinged onto the metal structure, and immediately went taut. Connor reeled them in as quick as he could, and just before hitting the bridge, he let go.
+	The momentum was just what he needed. He sailed through the air, and dived back down. He hit the tarmac ahead of the truck hard enough to leave a new pothole for the council to worry about.
+	"FUCK! HE'S HERE!" the driver gasped.
+	"Floor it! Run him down!"
+	Connor raised his arms. The crossbows morphed and reloaded, this time with sharp, barbed bolts. He took aim, and fired.
+	The bolts sank into the heavy, military-grade tyres, and air immediately screamed out of them. The truck began to turn uncontrollably, and then...
+	*SMACK!*
+	It landed on its side, shaking the ground with the impact.
+	Connor walked over - slowly, grimly - and shattered the windscreen with his fist. He grabbed the driver and his passenger, and threw them to the curb.
+	He walked around to the back, ready to do the same to the last man standing. Then...
+	*CHK-CHK! BANG!*
+	The shotgun's blast slammed into his chest, and he fell backwards, staggered and dazed. The gunman looked down at the bloodied Werewolf's exposed chest, and went pale in shock and horror.
+	He went paler still, as Connor rose up. Blood poured from the holes in his chest, as the suit struggled and squirmed around him. In moments, he was covered again.
+	"What... what are you?" he asked in shock.
+	He was answered by four knuckles to the temple.
+	"I'm the Werewolf." Connor spat.
+	"Don't... don't do cheesy one liners." Ivan groaned.
+	"Fuck you."
+	"ARMED POLICE! STAY WHERE... Uh... st-stay where you are..." the late-as-always cavalry stammered.
+	Connor grinned, walking towards them. "All yours."
+	He walked on past, and faded into the night.
 
 The Hero
 ______________________________
 SCENE
-	1st of January, 2016. The air was cold, but at least it wasn't pissing it down with rain as per usual.
+	2nd of January, 2016. The air was cold, but at least it wasn't pissing it down with rain as per usual.
 	Connor stood at a motorway service station, with Sparky going toilet on the grass. He picked up Sparky's poop, and binned it.
 	"Connor?" Sparky asked, tilting his head. "Why is it that when we're in the forest, if I poop, you won't pick it up - but when we're out here, or in the dog park, you do?"
 	"Ah. Well, truth be told, I'm supposed to pick up your poop in the woods, too - but the way I see it, if deer and cows and foxes already poop there, it's no harm done for you to do so, as well. But in public, it would be wrong - because someone could step on your poop without realising. In the forest, you're going to walk on poop - it's just a fact. But out here, that's not fair, because the people here didn't agree to step in poop... Why am I giving such a long-winded explanation about this in public?" Connor caught himself, and waved awkwardly at an older couple who were looking at him funnily. 
@@ -11258,8 +11463,24 @@ SCENE
 	Sparky laughed. "I just wanted to hear you say 'poop' loads." he admitted.
 	Connor glared at him, then burst into laughter, before turning it into an awkward cough and returning to the car.
 
-	In the car, Trey was asleep in the front seat. 
-	"Right, let me phone Chloe while we drive." he said, connecting his phone's Bluetooth to the hands-free. The phone rang, and Chloe answered.
+	"All sorted?" Trey asked, stretching and yawning.
+	"Yeah, all good." Connor grinned. "Hey, at least this dog actually tells me when they need toilet. Stella would just piss on your lap."
+	"Advantages of having a telepathic wolf, eh?" Trey snarked, stroking Sparky's ears. "Whosagoodboyyyy?"
+	"I am!" Sparky beamed.
+	"Anyway, forgot to ask - how was last night?"
+	"You didn't check the news?" Connor tilted his head.
+	"I was hungover from the moment I got home on New Year's, up until about an hour ago."
+	"Valid." Connor chuckled. "Stopped some bank robbers last night."
+	"You always get the fun jobs..." Sparky whined.
+	"Hey, buddy... your job was way more important." Connor countered. "Stopping the shipments of those guns now means we can avoid 10 bank robberies later."
+	"Still... I call dibs on the next big one."
+	"Deal."
+	Trey looked at both in awe. "I wish I was fluent in dog."
+	Connor chuckled, as Sparky gave him a comforting lick.
+	"Anyway... why bother stopping a bank robbery? You're not exactly the biggest fan of banks."
+	"Sure, I'm not." Connor shrugged. "But if I didn't intervene, chances are someone would've died. Either the cops would get shot up, or the robbers would."
+	Trey smiled proudly.
+	"Right, let me phone Chloe while we drive." Connor began, connecting his phone's Bluetooth to the hands-free. The phone rang, and Chloe answered.
 	"Heya! How are you guys?" she asked happily.
 	"Hey! We're good thanks - GPS says we're about an hour away."
 	"Hi Chloe! I can't wait to see you again!" Sparky shouted.
@@ -11273,30 +11494,20 @@ SCENE
 	"How did you figure that?"
 	"Because you're the opposite of two faced - you're only horrible about people in person. Behind their backs, you have nothing but praise." she answered, beaming with pride at having deduced correctly.
 	"Huh. I suppose that's a pretty good point." he mused, agreeing with the characterisation.
-	Trey mumbled slightly, nursing a hangover. "Mhmm... Oh, hey Chloe." he groaned.
-	"Hey, Trey! Sounds like you guys had a good night then." she laughed. Trey chuckled.
-	"Oh yeah... messy night. Some arsehole whose name rhymes with Donner decided Jaegers was a good idea." 
-	Connor laughed. "I didn't hear you complaining when I brought them out."
-	Trey opened his eyes. "I did complain, you shit!" he said, faux-indignant.
-	"I know." Connor replied nonchalantly. "I just wasn't listening."
-	The group chuckled.
-	"Well, Bea seems to have had a good Christmas at least." Chloe addded. "She spent half of it with Charlie."
-	"Oh?" Trey asked, now fully awake.
-	"Yeah..." Chloe answered wistfully. "Don't tell her I told you, but she said he kicked off at her. But... she kept making excuses for him." she said, whispering slightly. "Anyway, if you guys are only an hour away, I'll go wake Bea up now. I'll see you when you get here!"
+	"Hi, Chloe." Trey grinned. "You missed your calling as a detective."
+	"Hey, Trey!" she chuckled. "Sorry to hear about your Christmas."
+	"Ah, don't be." he shrugged. "How are things at Bea's place?"
+	"Well, they had a better Christmas than ours." she snarked, before her tone turned slightly. "She spent half of it with Charlie."
+	"Oh?"
+	"Yeah... Don't tell her I told you, but she said he kicked off at her. But... she kept making excuses for him. Anyway, if you guys are only an hour away, I'll go wake Bea up now. I'll see you when you get here!"
 	"See you in a bit!" both boys replied.
 	"Hmm..." Trey said, lost in thought.
 	"You okay?" Connor asked.
-	"Yeah, just... the whole thing with Bea and Charlie. I was wondering why Bea wasn't hanging out as often as before. I mean, Chloe sure doesn't seem happy with how close he's getting to her."
-	"Yeah - even I picked up on that. And we both know how I am with subtext."
-	"Well, we both know how you are with Chloe's subtext." Trey added, teasingly. "I heard the way she answered the phone - she was very happy to hear from you."
+	"Yeah, just... the whole thing with Bea and Charlie. Everything I learn about the guy makes me worry more."
+	"I know what you mean. Chloe sounds worried, that's for sure." Connor mused.
+	"Wow, you acually picked up on her subtext for a change!" Trey teased. "I heard the way she answered the phone - she was very happy to hear from you."
 	"Well, I mean... I get happy when you call me, doesn't mean I'm in love with you."
-	"Wow, first migraine and now heartbreak, all in one road trip? What a cruel, cruel world." Trey added, faux-offended. Connor chuckled.
-	As they drove, Trey fell back to sleep. Sparky leant in closer.
-	"This Charlie is bad news." he whispered. "I could hear it in her voice."
-	"I know." Connor replied. "I didn't want to worry Chloe, but I'm already getting red flags. I'll reserve my judgement, but..." Connor stopped as Trey stirred.
-	"Huhhhh... Did you say something?"
-	"Oh, uh, no - just that we're 42 minutes away." Connor hastily replied. Sparky hid back into the seats.
-	"Oh, okay..." Trey nodded, leaning his head back against the window.
+	"Wow, first a hangover and now heartbreak, all in one road trip? What a cruel, cruel world."
 
 Driving to Bea's
 ______________________________
@@ -11309,7 +11520,8 @@ SCENE
 	Chloe chuckled and smiled, respecting his effort. "Ah, you mean 'Ya uchilsya, poka tebya ne bylo.' - 'I learned while you were away.'"
 	Connor replied, grateful for the correction, "Ah, da, spasibo! Ya boryus... Ya boryus s..." in broken Russian before switching back to English. "Spoken languages were never my strong suit." he laughed awkwardly.
 	Chloe chuckled, impressed that Connor would even try. Meanwhile, Bea had headed straight for Trey and embraced him. Tea approached.
-	"Hiya, you must be Charlie - I'm Tea, Bea's little sister. I've heard so much about you!" she said, holding out her hand for him to shake. Trey shuffled awkwardly, but shook her hand. Bea blushed and wilted away. "Uh, actually, my name is Trey." he said, smiling awkwardly.
+	"Hiya, you must be Charlie - I'm Tea, Bea's little sister. I've heard so much about you!" she said, holding out her hand for him to shake. Trey shuffled awkwardly, but shook her hand. Bea blushed and wilted away.
+	"Uh, actually, my name is Trey." he said, smiling awkwardly.
 	"Ah-Oh." Tea replied, her eyes widening with embarassment. "Uh... pleased to meet you, Trey!" she stammered.
 	"Hah, likewise." Trey replied, laughing it off. Bea looked like if a hole in the ground opened up, she would climb straight into it. Failing that, she buried her face in her hands. Connor and Chloe realised what had happened, and awkwardly shuffled.
 	"So, um..." Bea began, and gulped. "Um, you guys wanna come inside? It's a long journey back, you can both stretch your legs first."
@@ -11324,7 +11536,7 @@ SCENE
 	"Hey, bud..." Connor began, scratching behind Sparky's ears. "I know it's frustrating to you, that no one else can hear you."
 	"It was almost easier before we met." Sparky opened. "I don't mean that. I'm so happy to have you in my pack. But before, I assumed that no one could hear me, and that was just the way things are. All the thoughts, all the words in my head - I assumed they were mine, and mine alone. Then we met, and I learned what having friends was like. And I love all our friends, I really do - but its sad that I can't speak to them properly."
 	"I know, bud..." Connor smiled sadly, and scratched Sparky's chin, which he appreciated. "Is there anything I can do?"
-	"I'm the only one like me..." Sparky lamented again. "At least you can speak to other humans. Other dogs just sound funny to me. I mean, I can understand them, but only through intuition. They can't converse with me like you can."
+	Sparky looked away. "I just... I just miss my sister."
 	"I'm sorry, bud. I'm guessing that all the times I leave you when I'm on mission, or busy, or whatever - I bet that really gets to you, huh? I'm sorry - I didn't even think how lonely you must get."
 	"It's okay." Sparky reassured him. "It is what it is. And we both do have a mission - to get back at the bad men who hurt us. And to make sure they never do it to anyone else again."
 	His posture changed, as if he'd relaxed. "I think I'm ready to go inside now."
@@ -11347,7 +11559,7 @@ SCENE
 	There, Bea's family were relaxing in their spacious living room.
 	"Mum, dad, these are my friends - Trey and Connor." Bea introduced the boys.
 	"Lovely to meet you! I'm Anya, Bea's mum." she introduced herself. She spoke with an accent that seamlessly blended Received Pronounciation with her native Zulu. She wore her hair in a short afro, and had large silver hoop earings dangling from her ears. She, like Bea, seemed like she couldn't move without animation. Trey remembered Bea telling him her mother had been an Opera singer - he couldn't help but think, if he'd never been told that and asked to guess her job, he wouldn't've landed far off.
-	"I'm Patrick - Bea's dad." he introduced himself. Everything about him screamed "boring middle-aged man," but he clearly accepted that long ago. He had short, curly greying hair, with awkward sideburns that stretched further than his hair, but only barely past his earlobes. A strong smell of mint emanated from him - clearly, one of his christmas presents had been an aftershave. Indeed, Connor noticed his surprisingly colourful cardigan contrasting with his relatively bland outfit, and assumed whichever daughter didn't get him the aftershave got him the jumper instead.
+	"I'm Patrick - Bea's dad." he introduced himself. Everything about him screamed "boring middle-aged man," but he clearly accepted that long ago. He had short, curly greying hair, with awkward sideburns that stretched only barely past his earlobes. A strong smell of mint emanated from him - clearly, one of his christmas presents had been an aftershave. Indeed, Connor noticed his surprisingly colourful cardigan contrasting with his relatively bland outfit, and assumed whichever daughter didn't get him the aftershave got him the jumper instead.
 	"Lovely to meet you both! I'm Trey."
 	"Good to meet yous! I'm Connor."
 	"And who's this?!" Anya squeed as Sparky trotted in.
@@ -11371,28 +11583,22 @@ SCENE
 	"Eh..." the boys shrugged in unison.
 	"It's a little grim." Connor replied.
 	"It's calmed down a bit lately though." Trey added. "The Patriots have taken a step back."
-	"I've heard stories." Anya replied. "Some 'Werewolf' or something - a vigilante who goes around beating up bad guys and saving innocents."
-	"Hah - yeah, that's a weird one." Bea commented. "It's becoming a bit of a local legend."
-	"Legend? He's basically a super-hero." Tea added. "Everyone on Facebook and Reddit is going on about him."
+	"I've heard stories." Anya nodded. "Some 'Werewolf' or something - a vigilante who goes around beating up bad guys and saving innocents."
+	"Hah - yeah, that's the one." Bea smiled. "He saved our lives, once."
+	"Oh God, of course - I forgot that story." Patrick nodded. "Some serial-killer or something?"
+	"He's basically a superhero." Tea grinned. "Everyone on Facebook and Reddit is going on about him."
 	"They are?" Connor asked, surprised - and scared.
 	"Yeah - look here." Tea said, showing her phone screen.
-	It was playing a video, shot from someone's smartphone from a flat window - of the time Connor and Sparky saved people from a burning building. A second video came on - bystander footage of Connor's fight outside the Horse.
-	"I heard about that. It's insane." Trey commented. "I heard a story where the guy was fighting some big ogre thing."
-	"The Giant." Chloe nodded, before shuddering.
-	"Yeah, him." Trey nodded in response.
-	"Damn..." Anya muttered. "Are you all safe down there?"
-	"Honestly?" Bea began. "The Werewolf is a hero. I'm more worried about the thugs he's fighting than I am about him."
-	Connor smiled to himself at that.
-	A hero?
-	Maybe.
+	It was playing a video, shot from someone's smartphone from a flat window - of him intercepting the truck last night.
+	"God, we leave town for a couple of weeks, and there's bank robberies going on?" Bea grinned.
+	"Hey, I needed the cash." Connor quipped, to chuckles.
 
 Picking up Bea and Chloe
 ______________________________
 SCENE
-	Connor sat on a park bench overlooking the river. Sparky was enjoying a new ball-throwing machine Chloe bought him as a gift. Ivan approached, and sat next to Connor.
-	"Privet, tovarishch." he announced himself with. "How was last night?"
-	Connor's memories flashed to beating a Super-Agent before impaling him.
-	"Average Saturday." he quipped. "Any news?"
+	Connor sat on a park bench overlooking the river, while Sparky was enjoying a new ball-throwing machine. Ivan approached, and sat next to Connor.
+	"Privet, tovarishch." he announced himself with. "Good work last night!"
+	"Hah, thanks. Any news on your side?"
 	"Our friends in the KGB are happy. We have a new mission as well - wetwork again." Ivan said matter-of-factly.
 	"Contract killing?"
 	"Da. This one's a favour for the KGB specifically." Ivan replied. He opened his briefcase and handed Connor a photo. It was of a man in army fatigues, addressing a crowd of soldiers.
@@ -11414,7 +11620,7 @@ SCENE
 	"The Soviet Union, reborn..." Connor mused. "It's been 7 years now since it all went wrong."
 	"Nyet." Ivan replied. "It all went wrong when that idiot Kruglov took over. The day he was beheaded by rebels was a day of celebration for both loyalists and separatists."
 	"It's been so long..." Connor noted. "What will the new Union look like?"
-	"I don't know." Ivan admitted. "We've been on a war footing for too long. Ever since Nixon started the cold war, we've been in a siege mentality."
+	"I don't know." Ivan admitted. "We've been on a war footing for too long. Ever since the Cold War, we've been in a siege mentality."
 	He sighed. "What is obvious is that we cannot just allow unelected bureaucrats to run the place like Kruglov did. Otherwise we're no better than the capitalist nations we fight against."
 	Connor joined Ivan in watching the horizon. "Well, for what it's worth - the USSR had it's problems, but it was clearly better than the warzone Eurasia has become."
 	"Eto verno... But that's not enough. When Comrade Lenin passed the reigns to Bukharin, the union was full of hope. We were a true socialist democracy. But now, look at us, less than 100 years on. We were supposed to be better than that. The days of brother shooting brother were supposed to be behind us." Ivan lamented.
@@ -11455,52 +11661,17 @@ SCENE
 	Still, Connor hesitated. "I don't like killing humans, unless they're with the Optimates. And we both know how I had to work up the spite to kill Hughes, even with his crimes. My moral lines in the sand... they seem to keep going further and further back."
 	Ivan nodded, with an almost fatherly understanding. "I get it, bratan. But... well, he's still a bad man. And he might not be making fascist supersoldiers, but he's still killing innocent people. Think about it, eh? With that money, the Syndicate could make some real motion out here. Besides, we won't get an opening for him soon, either. So you have time to consider."
 	Connor nodded. "Alright - I'll sleep on it."
+	At that, his phone buzzed.
+	"Hang on..." he said, taking it out.
+	A text from Tommy.
+	"urgent meet @ horse. wear costume"
+	Connor sighed, and showed it.
+	"I'll drive." Ivan nodded, rising.
 
 Ivan and Connor catch up
 ______________________________
 SCENE
-	Tommy and another man stood in a dingy basement. The other man was wearing his hood up, and skulked in the shadows, obscuring his face. Tommy was anxiously checking his phone.
-	"They'll be here any minute." he said, scratching the back of his head.
-	As he said this, a door up above opened, and a well-dressed man and three thugs walked down the stairs. The well dressed man spoke.
-	"Tommy." he nodded.
-	"Matteo." Tommy replied, with barely-masked contempt.
-	"You brought me here to try and intimidate me - but you only have 1 man? I brought my 3 best men - there are several others out there." Matteo gestured at his goons. His gold toothed grin caught the light.
-	Tommy chuckled. "Several worse ones. Besides, your brother learned quick enough that a bunch of goons aren't always enough, no?"
-	"Ah, Rocco - my *scemo* hothead of a brother." Matteo chuckled. "Well, you're no Donovan. And I'd wager, neither's your man there."
-	"Vitales and their wagers..." Tommy grinned. "But come now, let's talk like adults."
-	"But of course." Matteo said faux-affably. "Speak your piece."
-	"You've been stepping into Syndicate territory. You think we wouldn't notice? You're pushing your shit on my streets." Tommy began, his earlier anxiety masked fully by his tough, hardened criminal persona. "Everyone knows Redbridge belongs to the Syndicate. So why am I finding your dealers pushing your cut-to-shit gear in my clubs? Why am I finding cunts with gold teeth on my streets?"
-	Matteo leant forward menacingly.
-	"Sei *debole.* Sei un *ricchione.*" he said, chuckling. "Your streets are up for grabs. Don't blame me for taking advantage."
-	"You want to see how weak I am?" Tommy grinned. He beckoned over to the man. "Hey, buddy - show these fools what kind of men we employ."
-	With that, the man stepped forward.
-	His clothes melted into a black tar, and morphed into his iconic kevlar outfit - it was Connor, now wearing his Werewolf costume. He approached the rivals menacingly.
-	"Oh... Merda... Merda..." Matteo said, visibly breaking into a sweat. His thugs simply booked it out of there. Matteo couldn't even shout for them to stay - he simply froze, sinking to his knees in fear. The blood drained from his skin.
-	"Il Lupo Mannaro..." he whispered, and clutched his crucifix, his hands shaking. He made the sign of the cross. "N-Nel nome del Padre, d-del Figlio... e dello Spirito Santo. Per favore... Dio mio!"
-	He looked up, looking at the Werewolf's scowling mask. "Please! Please don't kill me! I'll do anything! I beg you!" he cried.
-	"Have I made my point?" Tommy asked.
-	"Si, yes, yes... I'm sorry, I'll have all my dealers pull out of Redbridge. Any who disobey are fair game." he replied, his face white as snow from fear.
-	"Good, good man." Tommy smirked. Matteo rushed out.
-	Tommy turned to Connor. "Nice work."
-	Connor un-morphed his mask, revealing his face, smirking. "You know, sometimes I wonder if I'd be better off never getting these powers - but then I get to watch weasels like that squirm, and everything seems alright."
-	"Hah!" Tommy chuckled. "Well, thanks again for doing this."
-	"Hey, I owed you one. Hell, I owe you several." Connor began, but Tommy cut him off.
-	"No, you've done more than enough. We're partners-in-crime, you and me." he smirked.
-	"Speaking of - you mentioned there was someone else you wanted me to deal with?" Connor asked.
-	"Yes." Tommy's expression turned grim. "There's word on the streets. A dilapidated block of flats in Blackmarsh, where an 'auction' is going down. Loads of pervs, and the thing that's being sold - it's kids." Tommy shuddered.
-	Connor's teeth clenched.
-	"Killing Hughes made a dent, but it was always going to need more than that to bring his rotten empire down." Tommy continued. "So, killing the pervs isn't enough. Instead, I need you to feed this to the police. The auction will go down tomorrow night at 7:30 PM. Cassidy Lane. Make sure the cops are there. You said that DI was sound enough - get him involved."
-	"Got it." Connor nodded. "We'll do this his way. But if they fuck up - I'm going in."
-	"Damn right you are." Tommy smiled proudly. "Get those kids out of there. Finish the job." He paused. "They gave you this power, Connor. Make them rue the day."
-	Connor bowed his head. "By the way - where'd you get this intel from? Even the KGB couldn't get the specifics on this trafficking ring - we had to work with MI5 to get Hughes."
-	Tommy chuckled. "Remember that girl you sent our way just before Christmas?"
-	Connor tilted his head. "Shannon?"
-	"Yeah. Well, let's just say, she's a genius with computers." Tommy grinned.
-	Connor paused. "I didn't send her to you to recruit another soldier."
-	"I know." Tommy nodded. "Believe it or not, she came to me. She said she was inspired by you, and wanted to do some good. And, well, my *other* computer nerd is a bit busy nowadays running around in a kevlar bodysuit." he grinned.
-	Connor chuckled. "Fair enough. In that case, tell her the Werewolf sends his thanks."
-	"She'll be chuffed, mate." Tommy smiled proudly.
-	With that, Connor left, sprinting with superhuman speed through the rain. The thunder boomed across the night sky, and street lights flickered in the wind.
+	
 
 	Naismith clocked out of his shift. He nodded farewell to Nina, who smiled and waved him off. He headed down to the car park, entered his car, leant back, closed his eyes, and exhaled.
 	"Tough day at the office?" Connor in costume asked, leaning forward from his hidden spot in the back seat.

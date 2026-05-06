@@ -5,32 +5,9 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 
 
-quick change to loss of a hand
-	have randall be there with twin machetes and the fenrirs
-	have sparky fight the fenrirs while connor fights randall
-	connor's losing, so sparky reluctantly kills the fenrirs and joins the fight
-	the two get the upper hand, but the cops arrive opening fire. connor goes down, randall escapes, then triggers the bomb
-
-to keep connor visually distinct, make sure he uses wrist-blades instead of swords.
-	this style involves stabs and buckler-strikes to soften up foes, then using spin attacks for 'crits'
-
-gotta change Shan's plot
-	have her show up earlier in volume 1; 
-	have a new scene where connor returns to the horse from an offscreen raid with some laptops; she overhears while tinkering (in a homage to connor's chapter 1 scene) and offers to take a look. connor quizzes her, and she reveals she's been hacking stuff for tommy for a little while now. Connor gives her the laptops, then closes the door and has a go, saying he didn't send her to him for him to turn her into a soldier. he clarifies she approached him; she wants to help the Werewolf, and make the city a better place. connor sighs, relents, and steps outside. he sits with her, and tells her it's dangerous, and she could become a target for it. she points out she already deals with being targeted every day - this is how she can help make the city a better place, by helping him. he questions where she got her technical skills from - she explains she was always interested in coding, but since he saved her, she decided to learn how to hack in order to help him out. he smiles under his mask, and agrees - and patches her computer to the wolfcomputer (name pending) so she can help him more directly
-		justify him going to the horse instead of using the wolfcomputer (name pending) - the horse was closer than his house, and he wanted to check in with Tommy anyway
-
-
-		this scene happens where her old intro was; keep her intro with trey in vol 2, but bring it forward if you have to
-
-
-
 volume 2 opening changes:
-	opening scene: moonlight bank robbery by patriots - Connor glide-kicks through the window, taking down one. he tanks a couple of shots from another before knocking him out. he then Arkham's his way through the others. A group escape in their van - they frantically check if they're being followed (we shift POVs)- first they see a black mass moving through the sky, say "did he see us?!" "think we lost him" and then see the red-eyed glider zeroing in on them. they floor it, so connor shoots out his grapple and uses it to boost his speed, flying ahead and landing right in front. (this is the first scene of the crossbow - describe them morphing mid-flight) 
-	he immobilises the van and takes out the thugs - have it cinematic, where he lands ahead, crosses his arms, morphs shurikens, and pops the wheels with them, before punching the windscreen out and throwing the driver and passenger away. The last robber jumps out the back and shoots him in the chest with a shotgun - he falls back, bloodied and torn, but rises, visibly reforming his armour as he marches towards him, then decks him out. armed cops show up, nervously telling him not to move. connor walks past them, saying "all yours"
-	split up chapter 1 into 2:
 		chapter one is the slow open;
-		open with the above bank robber strike, then have Connor picking up Chloe and Bea as before.
-		Have the Connor and Ivan catch-up; then, have Connor get a text from Tommy, saying "urgent meet @ horse. wear costume.". Ivan says "i'll drive" and they go
+
 		Connor arrives in the horse backrooms; he asks what's wrong and Shan begins explaining.
 			she says she was hacking a Gambit device; she nearly finished the transfer but the access was cut off. when trying to restore the corrupted files, she found a document. it says that a shipment of 'juvenile livestock' arrived in Angleport a couple days ago
 				tommy: "livestock... that's what the patriots call their trafficked slaves. the word 'juvenile' implies--"

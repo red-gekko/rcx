@@ -5,22 +5,9 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 
 
-volume 2 opening changes:
-		chapter one is the slow open;
 
-		Connor arrives in the horse backrooms; he asks what's wrong and Shan begins explaining.
-			she says she was hacking a Gambit device; she nearly finished the transfer but the access was cut off. when trying to restore the corrupted files, she found a document. it says that a shipment of 'juvenile livestock' arrived in Angleport a couple days ago
-				tommy: "livestock... that's what the patriots call their trafficked slaves. the word 'juvenile' implies--"
-				"kids..." connor snarls
-			it also says that they are to test the 'livestock' and, if their bloodwork comes back healthy, then 'deliver laboratory equipment to field site; sell remaining livestock as normal'
-			Shan points out that this is most likely experimentation or maybe harvesting going on. connor notes that it could even be the same agency that took Whiplash. He asks Shan where they're being held, and she says she doesn't know
-			Connor thinks, and then points out that wherever the ones selected for testing are being sent, probably has a clue as to where they're coming from. tommy points out they still don't know where the destination is; connor realises that it has to be connected to Gambit somehow. Tommy points out Connor can't just interrogate every single patriot for its location, or they'll get wind of it. Instead, he has to find a Gambit staffer who can tell him. Shan points out that she doesn't have access to their employee lists.
-			Connor ponders, and hatches a plan. He says the cops have tools to check via income tax where people are employed. Shan says good idea, but she can't just hack the police system without raising an alarm; and he can't infiltrate the station without bringing even more heat on his head. Connor smirks slightly, and reveals they won't need to
-			Connor shows up in Naismith's car as before. This time, he asks if he knows about gambit. naismith says "yeah, smart money says they're a Patriot front" and connor says "actually it's more the Patriots are a Gambit front. And Gambit is a Paladin front."
-			he explains to Naismith that he needs to run a search - anyone who works at Gambit or its shell corps, and who was also cautioned in the last 72 hours - the reasoning being that if they were seen recently by the cops, they must still be human.
-			Naismith reluctantly runs the search on his laptop. He gets a name, connor thanks him, and leaves. "what am i doing" plays out as normal
-			Connor interrogates the gambit mook (this is where the high-altitude "you're bluffing, this fall would kill me, and you need me alive to talk" "*drops down* sure, but from this height you'd just break your legs. wanna try me again?!" scene happens) and gets the location of the Gambit/Paladin site where the 'lab equipment' is supposed to be dropped off. After another shake, he also reveals that a pair of PaladinCorp inspectors would be showing up the next evening. Connor sarcastically thanks him and drops him
-			<chapter end>
+
+volume 2 opening changes:
 
 			Shan recommends they intercept those inspectors and show up in their place. Connor hesitates, as he can't use his mask for this - then realises he can morph prosthetic makeup to mask his appearance anyway. 
 			Him and Ivan arrive at the Gambit field lab. Ivan opens with "An inspector calls."
@@ -33,9 +20,27 @@ volume 2 opening changes:
 			There, Connor enlists him on raiding the place alongside him - Connor will take out the Agents if Naismith can look after the slaves.. Naismith hesitates, but takes Connor's burner and agrees. Change the auction scene to this new raid.
 
 
+
+for the naismith home scene (steal the rest from blackmarsh raid - we're retooling that into a Stunlocke scene)
+	"Hughes was only a maggot in a wound. Tomorrow, we cut off the whole rotten arm." Connor said grimly.
+	Naismith paused, stroking his chin. "And what do you want me to do?"
+	"I don't know, call it in or whatever you people say." Connor answered. "I'll be there on standby, in case our mutant friends happen to have been invited. They had connections with Hughes - given their friendships with the Patriots, I think we can expect them at any event where sickness and cruelty reign supreme. They're drawn to it, they feed on it - when they're not creating it."
+	Naismith nodded. "Is that all? People normally just call 999 is all." he snarked. Connor laughed.
+	"You've perked up since we last met." he noted. "Had a good Christmas?"
+	Naismith thought for a moment, his mind turning to Max. "An old friend gave me some advice."
+	"Oh, take this." he said, handing Naismith a burner phone. "Call me if anything goes wrong."
+	Naismith hesitated. He wanted to take it, but... Once he crossed that line, he was no longer a victim of home invasions receiving tip-offs. He was involved.
+	But his mind flashed - the kids. The man he failed to save, all those years ago. The ever-growing rise of neo-Nazi thugs on the streets. The clear signs that whatever was going on, it was bigger than him and the Werewolf. He steeled himself, and took the phone.
+	"I'll see you soon." Connor nodded. With that, he left the car.
+	Naismith hit his head against the steering wheel.
+
+
+
+
 prison arc beats:
 	the cops raid connor's house; tense moment when they find the panic room, but it's empty. later reveal when Sparky goes missing where Amy goes into DF, revealing that she stashed his stuff in Dynamite Fitness's basement
 	have a scene where the gang are headed to the group showers. they opt to let shan shower first for privacy, but then a bunch of other inmates walk in and start leering. the gang beat them all up, and leave shan to shower in peace
+	connor runs into a few of his previous thugs - maybe he's sitting with vince or trey, pointing them out
 	after the breakout, they are interrogating Wilkinson (whose name Shan found in a laptop seized from the 'livestock pens') instead of Dorsey. There, they get concrete proof that Dorsey is involved, and Connor kills Wilkinson. After Dorsey launches his coup, Connor delivers the evidence to zack, beseiges the station, and kills dorsey at his place
 
 

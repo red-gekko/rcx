@@ -5086,7 +5086,7 @@ SCENE
 	Fear. Pain. Rage. All swirling through his mind, like he was pulling the depths of the ocean to the surface. He reached inwards, and Sparky let him in.
 	This 'mind-bond' they had was utterly alien to both. The flashes, the shared dreams... and now this. Connor stretched his mind's eye into Sparky's subconsciousness, and watched. He saw himself, bursting out of a steel door, drenched in blood and howling in pain. He felt Sparky's memories, his emotions, his senses... the link grew stronger. Sparky saw through Connor's eyes, and Connor through Sparky's. The line where one ended and the other began had blurred into oblivion.
 	Connor saw the torment Sparky had faced. Horrific surgeries. Agonising tests. He watched as the rest of Sparky's litter died, until only he was left.
-	Sparky saw Connor's own pain. The torments. And others, too. He saw the moment Vince was arrested. He saw the days in the Bogside where Connor's grandfather beat him. He saw a blazing inferno in a car, with his grandmother's burning corpse hanging out. And deeper still, he watched through Connor's eyes as threw a man out of a window, to his death - his own foster-father.
+	Sparky saw Connor's own pain. The torments. And others, too. He saw the moment Vince was arrested. He saw the days in the Bogside where Connor's grandfather beat him. He saw a blazing inferno in a car, with his grandmother's burning corpse hanging out. And deeper still, he watched through Connor's eyes as drove a knife through an older man's head.
 	It was too much. The two pulled back, and rubbed their skulls, regaining their senses of self. After a short while, they both opened their eyes, and looked down - as though visibly checking which one they were.
 	"You okay?" Connor asked.
 	"Yeah, I... I'm Sparky, right?" he replied.
@@ -5095,14 +5095,14 @@ SCENE
 	Connor nodded, and closed his eyes again.
 	"Who was that man?" Sparky asked.
 	"Which one?"
-	"The one you threw. I felt that memory..." Sparky explained.
+	"The one you stabbed. I felt that memory..." Sparky explained.
 	Connor sighed. "James Laverty." he finally said, half-spitting the name. "He... he was mine and Amy's foster-father."
 	"What's a foster-father?" Sparky tilted his head.
 	"They're supposed to be caregivers." Connor explained. "A bit like what I am to you. Someone who isn't your parent, but raises you anyway. But he... he was a monster."
-	Worse, deeper memories washed into Connor's mind. Flashes of James... and what he did to Amy. He reached his hand back out, and rejoined his mind with Sparky.
+	Worse, deeper memories washed into Connor's mind. Flashes of Laverty... and what he did to Amy. He reached his hand back out, and rejoined his mind with Sparky.
 	Sparky took in the flashes, then pulled his head back in disgust.
 	"Good work." he nodded. "But you were a pup back then?"
-	"Yeah, it was before I got my powers." Connor shrugged. "I don't know how, I just... I went berserk. I threw him out the window, and he landed on his head. After that, I was taken away by the police. Thankfully, they decided not to press charges, and that's how me and Amy came to live with my uncle Vince."
+	"Yeah, it was before I got my powers." Connor shrugged. "I don't know how, I just... I went berserk. After that, I was taken away by the police. Thankfully, they decided not to press charges, and that's how me and Amy came to live with my uncle Vince."
 	Connor sighed. He recalled the memories he'd gleaned from Sparky.
 	"I saw your memories too, you know. You... You survived all of that."
 	Sparky jumped up, and rested his head on Connor's lap. "You did too. Until I met you, I never knew humans could be nice."
@@ -7040,8 +7040,7 @@ SCENE
 	"This was supposed to be an embarrassing story about Trey sharting, I should note." Connor grinned. The gang let out subdued chuckles.
 	"Hey, I overshare when I'm drunk. Bite me." Trey snarked back.
 	"I'm one too." Amy nodded, smiling sadly. "You're in the room with three anomalies."
-	"So was my ex, Yaz. Well, not quite - she was born just before it started, but her mum got pregnant not long after, so it almost counts." Connor nodded.
-	"And my mum survived for a year after I was born." Amy sighed. "Nothing about the whole thing makes sense."
+	"So was my ex, Yaz. Well, not quite - she was born just before it started, but her mum got pregnant not long after, so it almost counts." Connor shrugged.
 	"Anyway, dad and Vince made us make up - from there, we became fast friends. And..." Trey paused for a moment. "Dad made me swear to make it up to Connor one day. So, when we were in college, I made Connor promise he'd get even. That he'd do something to me so humiliating, so borderline-cruel, so embarassing, that we'd be even. And, well, Connor doesn't like to break his promises."
 	Connor chuckled ever so slightly. "I think we can agree I got you back good."
 	Trey chuckled too, clearly glad to hit the meat of the story. "One night, I was meeting with... well, let's just say she was a casual friend. Only, the morning before, I'd already slept with someone else."
@@ -10734,28 +10733,22 @@ SCENE
 	He logged into the computer. "Remember how you asked me to do some digging? About your mum?"
 	She nodded.
 	"I found this."
-	He brought up a photograph of three people - two identical young women, and an older man.
+	He brought up a photograph of two people - a young woman, and an older man.
 	"Who are they?" she asked.
-	"Your mother's name was Zhao Ling, right?" Connor began.
-	"Yeah. Is she one of those women?"
-	Connor paused. "I, uh... remember how we never learned why your mum survived a year after your birth, when mine and Trey's died during ours?"
-	She nodded, confused but listening intently.
-	"The, um... the hospital records were falsified."
-	"What?"
-	He panned over to a birth certificate - the real one, not the official one.
-	"The one who gave birth to you - that was your auntie, Zhao Mei. Both twins went into labour at the same time - which implies it was planned and induced. Mei died giving birth to you, while Ling's baby was stillborn. But it was this guy in the middle - their father - who swapped you."
-	"Why?! Why would he do that?!"
-	"I don't know, yet." Connor admitted. "But I thought I'd recognised him."
-	He pulled up a profile.
-	"Dr. Zhao Liang. Biochemist from the PRC. He and his daughters moved here after their mother - your nan - passed away. And the weird thing is, he went off-grid completely after you were born. But it gets worse - not only do I kind of recognise him, but the name - Dr. Zhao - I heard it before. When I was being tortured."
+	"Your mum, and her dad." he said softly.
+	She sat down, looking closer. Without thinking, her hand reached out, gently burushing her mother's face.
+	"I... I've never seen a photo of her before."
+	"Dr. Zhao Mei. She graduated medical school a few years before you were born." Connor explained. "I couldn't find any information on who your father was, but..."
+	"But?"
+	Connor hesitated. "There's, um... there's something you need to know about your grandad."
+	He pressed a few buttons, pulling up a profile.
+	"Dr. Zhao Liang. Biochemist from the PRC. He and your mum moved here after his wife - your nan - passed away. And the weird thing is, he went off-grid completely after you were born. But it gets worse - not only do I kind of recognise him, but the name - Dr. Zhao - I heard it before. When I was being tortured."
 	"Are you kidding me?!" Amy gasped. "You knew someone in my family was involved?"
 	"Amy, 2% of everyone in China has the surname Zhao. You're not connected to all of them."
 	She sighed. "Sorry, just... this is a lot to process."
-	"If it helps, I don't think he was invovled willingly." Connor smiled softly. "But I do believe he was involved in... whatever happened when we were born. And worse, that implies the Optimates might've been involved too."
+	"If it helps, I don't think he was invovled willingly." Connor smiled softly. "But he vanished right after your birth. I don't know anything yet... but I have a hunch he was involved in whatever happened when we were born. And worse, that implies the Optimates might've been involved too."
 	Amy looked down, her skin paler than before. She tabbed back over to the photo.
-	"Which one's which?"
-	Connor pointed. "Mei's on the left, Ling on the right."
-	Amy sighed. "They're both so... they look happy, at least."
+	"They're both so... they look happy, at least."
 	"Whoever Dr. Zhao is... we can assume he was a good father." Connor nodded. "I'll find him. And you can ask him everything you wanna know."
 	She paused. Then she turned, and embraced her brother.
 	"Thank you... really. This means a lot."
@@ -10763,7 +10756,9 @@ SCENE
 	She stretched out, yawning. "I'd better get off soon. I've got work tomorrow."
 	Connor smiled, walking her out of the room. He locked it back up.
 	"If you ever need to get in here, the code is 0451." he nodded. He walked her to the door, and hugged her again.
-	"See you later, Amy Barrett."
+	"One more thing - I found a few more photos of her. I'll send them over to you."
+	She squeezed him tight. It took a while for her to let go.
+	"See you later, Amy Barrett." he nodded.
 	She smiled, slightly teary-eyed. "Yeah. See you later."
 
 Barrett Family Christmas
@@ -11217,7 +11212,6 @@ SCENE
 	"HOLY FUCK! IT'S *HIM!*"
 	The Werewolf's boots shattered the reinforced glass, and slammed into the gunman's chest. He launched backwards, and sank down, out cold.
 	"Shit, shit shit!" his partner gasped, firing his pistol at him. Connor tanked the hits, his eyes aflame. Then, the gunman felt the impact of a monster's fist, and his world went dark.
-
 	Alpha team heard the screams.
 	"Oh god, oh god..." the sawman panicked.
 	"Keep sawing! We've got you covered!" the leader barked. "Men, safties off! Flashlights on!"
@@ -11225,6 +11219,7 @@ SCENE
 	"Where the hell did he go?!" one gasped.
 	"Whatever got in..." the leader began grimly, "Don't let it get out."
 	The squad began their search, kicking down cubicles and workstations as they searched for their assailant.
+
 	Tyson shone his flashlight over his section, his heartbeat palpable.
 	*WHOOSH!*
 	"Huh?!" he turned, gripping his gun tightly.
@@ -11638,7 +11633,7 @@ SCENE
 	"Oh? What makes you so sure?"
 	"You need my info, right? Drop me from here and you'll kill me. Nah, you're bluffing."
 	Connor smirked, almost impressed. He popped out his claws, dug them into the wall, and jumped.
-	Jimmy screamed as they fell down. Claw marks ripped from his balcony down the side of the block. Finally, they came to a halt at the fourth floor.
+	Jimmy screamed as they fell down. Claw marks ripped from his balcony down the side of the block. Finally, they came to a halt at the fourth floor. They hung from the wall, Jimmy dangling over the street.
 	"From here, you'll only break your legs! Still wanna try me?!"
 	"Oh god, please!" Jimmy begged. "I--I have a family!"
 	"Then I'll cripple them, too - now *TALK!*"
@@ -11664,7 +11659,7 @@ FLASHBACK
 	"Connor." the solicitor's voice echoed, snapping him into reality.
 	"Connor. Officer Flanagan was asking you a question?" she said softly.
 	Connor looked up at the officer.
-	"Can you describe, in your own words, what happened this afternoon?" the officer asked.
+	"Can you describe, in your own words, what happened this evening?" the officer asked.
 	Connor looked back into the middle distance.
 
 	Connor and Amy sat at the pickup point of their primary school.
@@ -11701,7 +11696,7 @@ FLASHBACK
 	"Thanks." Connor smiled. "I like Amy, anyway. She's funny. And she knows what it's like to grow up without a mum. A lot of the other kids have mums, so it's nice to have someone else who doesn't."
 	Vince smiled sadly. "How about the staff? Do you like them?"
 	"Mrs. Kulwin is nice. And so's Mr. Ekwensi. And Ms. Patel. But... There's something off about Mr. Laverty."
-	Nia made a note on her paper. "What do you think is off about James?" she asked.
+	Nia made a note on her paper. "What do you think is wrong with Mr. Laverty?" she asked.
 	"He's moody." Connor shrugged. "And he changes a lot. One moment he's all friendly, the next he's grumpy, and the next he's annoying."
 	Nia nodded sympathetically. "It can be hard to adjust, especially coming from your situation."
 	Connor nodded, and sipped his drink absently.
@@ -11717,50 +11712,110 @@ FLASHBACK
 	"Of course! Visitation is for 2 hours - it doesn't matter where."
 	Connor nodded, and smiled.
 
-	"You're doing really well, Connor." Officer Flanagan said calmly.
-	He stared downwards. "I don't like this next bit."
-	"It's alright." the solicitor began, going to put her hand on his shoulder. The safeguarding officer silently bat her hand away, shaking her head.
-	Connor looked up at both women, and nodded in appreciation, before continuing.
+	Ashcliffe Children's Home.
+	Founded in late 1997 to keep up with 'increased demand' - the outbreak of maternal deaths the preceding year meant a lot of children needed somewhere to stay.
+	They rarely stayed long - except for one.
+	Amy Zhao. One of three kids to survive their birth during the incident. No known family, she'd lived there for several years now. She'd seen many carers come and go. Some she liked, some not so much.
+	One, she hated. Feared. Despised.
 
-	"I... I don't want to." Amy protested, trembling.
-	"Do as you are told." James growled.
+	"I... I don't want to." she protested, trembling.
+	"Do as you are told." Laverty growled.
 	"Please, Mr. Laverty, I--"
 	He grabbed her hair, and she cried silently.
-	Before he could say anything, he heard a knock at the door.
+	Before he could say or do anything else, he heard a knock at the door.
 	"Stay here." he snarled. "If you leave this room, I'll kill you. Do you understand?!"
 	"Y-yes, Mr. Laverty." she nodded through trembled breaths.
 	He let out a sick smile, and headed downstairs.
 	"Hi, Mr. Laverty. Connor wanted to pop back round to see Amy?" Nia began.
-	"That's very thoughtful, Connor." James nodded, faking a smile. "Amy's feeling really poorly today though, I'm afraid. I've put her to bed, and she mustn't be disturbed."
+	"That's very thoughtful, Connor." Laverty nodded, faking a smile. "Amy's feeling really poorly today though, I'm afraid. I've put her to bed, and she mustn't be disturbed."
 	"Oh..." Connor frowned. "Can you give her these when she wakes up?" he asked, holding up the bag of treats.
 	Vince beamed. "Don't worry, lad - you can give them to her yourself when we get back."
-	"*If* she's feeling better." James hurriedly added. Vince rolled his eyes.
+	"*If* she's feeling better." Laverty hurriedly added. Vince rolled his eyes.
 	"Alright, well tell Amy we hope she gets well soon." Nia smiled. "Connor, why don't me and Uncle Vince take you to the park for the rest of the afternoon?"
 	"Oh, yes please!" Connor beamed. They headed back to the car, and Laverty closed the door. He turned around, and looked at Amy's door. A deep breath passed, and he went back upstairs.
 
-	
-
-	Nia and Vince headed to the kitchen, where Nia poured herself a glass of water.
+	"Higher! Higher!" Connor demanded.
+	Vince grinned, pushing the swing even further than before.
+	"More!" the little dictator barked. Vince obliged, shoving again.
+	The swing launched up, coming dangerously close to looping back around. Thankfully for Vince's blood pressure, it came sailing back down, and Connor giggled as it came to a halt.
+	"Phew! I thought you were gonna go flying into space there, lad." Vince chuckled, ruffling Connor's hair.
+	"I'd be an astronaut!" Connor noted, smiling widely. "Can I go play on the slide?"
+	"Of course you can, lad. I'm gonna go sit down for a minute and talk to Nia, okay?"
+	"Alright! See you in a minute!" Connor cheered, racing away.
+	Nia chuckled, sipping her water.
 	"He's a good kid." Vince said proudly.
 	"He sure is." Nia smiled. "At the risk of sounding unprofessional... I think it was a mistake for them to deny you custody rights."
 	Vince smiled at hearing that. "Well... Let's just hope these visits evolve into that, eh?"
+	"Still... I think it's really good for Amy, as well. The poor girl's been bounced from home to home... I'll admit, that was part of the reason we decided to place him in Ashcliffe specifically. Both of them really needed each other."
+	Vince nodded sadly. "Connor said it himself - it's nice to have a friend who's been through the same thing."
+	"Well, not completely the same." Nia began. "But you've helped him so much. When I read his history, I must admit I was worried - but he's remarkably well-adjusted, all things considered."
+	Vince looked at Connor, his eyes softening.
 
-	"Shut up." James whispered. Amy tried her hardest not to cry.
-	Connor tilted his head. He pulled out his school pencil, and used it to push the doorhandle's lock open. He burst in.
-	"SURPRISE! I brought you a--" he began, before dropping the brownie in horror.
-	"Get out." James growled.
-	Connor stood there, staring at James. His pupils constricted to pinpoints, and fibres of his grey irises lit up in rage.
-	"Connor, just go! Run!" Amy begged.
+	"You're doing really well, Connor." Officer Flanagan said calmly.
+	He stared downwards. "I don't like this next bit."
+	"It's alright." the solicitor began, going to put her hand on his shoulder. The safeguarding officer silently batted her hand away, shaking her head.
+	Connor looked up at both women, and nodded in appreciation, before continuing.
 
-	"What was that?" Vince asked.
-	"I'm not sure..." Nia said, scared. "Connor! Amy! Everything alright?" she called up.
+	It was late, now. Despite the rules, Connor hand managed to get an extra hour of visitation. Vince hugged his nephew tightly, and dropped him back off at Ashcliffe.
+	"Sleep well, lad. I'll see you on Thursday, yeah?"
+	Connor nodded sadly, and hugged him back. Then, he went inside.
+	"Hello, Mr. Laverty." he waved halfheartedly.
+	"It's late." he muttered, not looking up from his book. "You should be in bed."
+	"How's Amy feeling?"
+	"She's still not well. Don't disturb her."
+	"Okay."
+	Connor softly walked up the stairs. He went to his room, but then stopped. He turned, and tried Amy's door.
+	He pushed, but it wouldn't budge - locked.
+	"What did I just tell you?!" Laverty snapped, grabbing Connor's arm.
+	"Sorry." Connor whispered, looking away.
+	"Go to bed. *Now.*"
+	Connor nodded, and headed to his room.
+	He sat for a while, deep in thought. He pressed his ear to the wall, and heard Laverty descend.
+	His eyes darted side-to-side, deep in thought.
+	Then he crawled over to his window, and opened it.
+	The breeze was cold and bitter. He hesitated, but a look of determination crossed his face. He held the bag of brownies in his mouth, and crawled out.
 
-	"GET OUT!" James shouted, whipping Connor with his belt.
-	"DON'T TOUCH HIM!" Amy screamed, kicking his leg with enough force to snap the knee. He howled in rage and pain.
-	Vince dashed up the stairs.
-	"THE FUCK?!" he roared, enraged at the sight.
-	"GET OUT! ALL OF YOU!" James screamed, grabbing the bookcase and throwing it to the ground, knocking Vince and dazing him for a moment.
-	Connor closed his eyes, as his heartbeat drummed in his head.
+	Connor was far, far from the agile superhuman he would one day be horrifically reshaped into. But that didn't matter - Amy was alone, and he was worried about her. He gripped onto the ledge as strong as he could, and shuffled his way over. Finally, he reached her window, and gingerly tapped on it thrice.
+	Amy was shook from her stupor, and crawled over to it. She looked out, gasped, and slid her window open, grabbing his hand to help him in.
+	"What are you doing?" she whispered.
+	Connor released his jaw, handing over the bag. "I wanted to get you a brownie."
+	She tilted her head incredulously, before wrapping him in a hug.
+	She couldn't hold it any more - the tears poured out.
+	"What's wrong?" he asked, confused. "Mr. Laverty said you were sick."
+	"*He's* sick..." she hissed.
+	"What do you mean?"
+	"Nothing!" she quickly added. "J-just forget I said anything."
+	"Amy... you can tell me."
+	"He said if I tell you, he'd do it to you, too."
+	Connor pulled his head back. "Do *what* to me?"
+
+	Laverty turned the page of his book, reading intently. The fireplace had been on, but was now dim embers. The poker rested next to it.
+	His focus was interrupted by the sound of small feet descending the stairs.
+	He looked up, and rolled his eyes.
+	"Go to bed, Connor."
+	He didn't reply. Instead, he walked into the living room, his pupils constricted.
+	"What? Do you want something?"
+	"Did you hurt Amy?"
+	Laverty's eyes widened, and his lip curled. "Wh-what?"
+	"Did you hurt Amy?"
+	He looked away. "Go back to bed."
+	"Did. You. Hurt. Amy?"
+	"I said, go. To. Bed." he rose, scowling.
+	"Not until you answer me. Did you hurt Amy?"
+	"You two need to get a grip. Your imaginations must be getting the better of--"
+	"DID YOU, OR DIDN'T YOU?!" Connor screamed.
+	Immediately, he felt a backhand clip across his face. He fell to the ground, and clutched his cheek.
+	"You... ungrateful little shit." he snarled. "I look after the pair of you, after you kill your own mothers, and this is how you repay me?!"
+	He went to strike again. Connor grabbed the incoming wrist with all his little strength, and bit down on a finger.
+	Laverty roared, slamming his head into the floor. Then a kick to the chest - and then another. And another.
+	"Please, let him go! Don't hurt him!" Amy begged.
+	"You! What did you tell him?!"
+	"I--I--" she stammered, shrinking back.
+	Laverty sent another kick - this one to Connor's head - and Amy snapped. She pounced, jumping onto his back like a raging monkey, and tried to emulate a chokehold.
+	Laverty snarled, and slammed his back against the wall. The air knocked from her lungs.
+	"YOU LITTLE BITCH!" he roared, slamming her to the ground and wrapping his hands around her throat.
+	Connor forced himself to stay conscious. Hot blood dripped from his head and nostrils.
+	He closed his eyes, as his heartbeat drummed in his head.
 
 	"After that, I can't remember anything." he shrugged.
 	"You have to try." Flanagan replied.
@@ -11771,15 +11826,26 @@ FLASHBACK
 	Connor sighed, and looked down. "I can't remember it clearly... but..."
 	Flanagan leant in, taking notes.
 
-	"LITTLE SHIT!" James screamed, delivering a strike to Connor's face. Connor snarled at the hit, like a rabid dog.
-	Amy lunged at James, and slammed him against the wall with enough force to knock ornaments from it.
-	Connor was no different, likewise consumed by rage. He pounced forward, and lifted him up by the abdomen, before throwing him out the window.
-	Downstairs, Nia was on the phone to the police. She heard a sickening *squelch* as James hit the patio, and dropped the phone in horror as she looked outside.
-	James had landed feet-first. His ankles snapped, and he howled in pain.
+	Amy looked up in terror. All she saw was *his* face. Her vision was going blurry, and her chest burned. She kicked as hard as she could, but he only tightened his grip.
+	Desperately, she reached her tiny arms up, and dug her thumbs into his eyes. He screamed in agony as blood dripped down, and throttled her harder.
+	Her eyes started to roll back. It was getting dark, now.
+	Part of her was glad. It would all be over soon.
 
-	Connor stood there, panting. He turned, stumbling away, as hot blood poured from his nostrils. 
-	His eyes rolled backwards, and he collapsed to the ground, convulsing violently.
-	Amy likewise collapsed, either from exhaustion or from relief.
+	*SHK-SQUELCH!*
+
+	Her heart was trembling. But she could feel the death grip weaken.
+	Her eyes squeezed shut, but she forced herself to dare to open them.
+	Blood dripped from Laverty's head - lots of blood. His expression was contorted - still twitching, even. Like a pig right after slaughter.
+	Connor panted, his chest heaving. He gripped the poker's handle tight, and his eyes were fixated on the sharp end, pointing out from the top of Laverty's skull. Bits of bone, brain, and scalp had stuck to it.
+	The walls gave way. Fragments of tooth and flesh shook freely from his head, and he collapsed. Amy rolled out of the way, as Connor released the poker. He stood there for a moment, covered in blood - Laverty's, his own - before sitting down, almost tranquil.
+	Amy shakily crawled over, and sat with him. Both stared at the body, their expressions vacant. Time passed - maybe it was a few seconds, maybe it was a million years. It was impossible to tell.
+
+	"Hello? This is the police. We've received reports of an altercation - we need to come in. Can you open the door, please?" a voice called from outside.
+	Neither child moved. They didn't even hear it.
+	"This is the police! Open up, now!"
+	No. Still nothing.
+	"Alright, we're going to break the door down. Stand clear!"
+	The battering ram smacked twice, and the door gave way. Officers entered, and went pale at the sight.
 
 	Connor walked out of the interview room, and sat next to Amy. She paused, and rested her head on his shoulder.
 	"Thank you..." she whispered to him.
@@ -11807,7 +11873,7 @@ FLASHBACK
 	"He saved Amy from a paedo! A paedo *you* put them with!" Vince snapped.
 	"That's enough, Mr. Barrett! Shouting like Ian Paisley isn't going to do you any favours." the woman snapped back.
 	Vince snarled at the mention of Paisley, before storming off to sit with the kids.
-	"Hey, you two." hey began, smiling softly. "How you holding up?"
+	"Hey, you two." he began, smiling softly. "How you holding up?"
 	"Where are we going to go now?" Amy asked, forlorn.
 	"I'm not sure, darlin'." Vince sighed. "Hopefully, Connor will be allowed to stay with me."
 	Amy looked down, saddened. "I'm scared, Vince. I don't want to live with someone like Mr. Laverty again." she sobbed.
@@ -11822,6 +11888,7 @@ FLASHBACK
 Killing Laverty
 ______________________________
 SCENE
+	
 
 Plotting the infiltration
 ______________________________
@@ -15406,7 +15473,7 @@ SCENE
 	"Yeah, m-maybe." Chloe thought deeply. Bea pressed play.
 	"To discuss this, I went to HMP Belmarsh, to meet with incarcerated CDF leader Tadhg O'Doyle." the narrator continued.
 	"Eamon was a very pious man, a very godly man." Tadhg began. "However, he was undone by his children. His son Vince was a bit of a troublemaker, and he moved to England, which would get you marked as a traitor by many. As for his daughter Laura, she went off to America for a few months, and came back pregnant, before going to England with Vince - again, scandalous in our community. This caused a great deal of disgrace for the Barretts, only exacerbated when the bastard was placed in their care, and grew to be a bit of an oddball - the boy couldn't speak, couldn't look you in the eye, and cringed whenever you touched him. It was such an embarrasment that he wasn't allowed to attend church with them - he became a bit of a mad woman in the attic, you understand? So, it was agreed that Eamon would need to get his house in order, and thus he stepped down from the leadership council."
-	Chloe went pale. "It's Connor's granddad."
+	Chloe went pale. "It's Connor's grandad."
 	"Yeah..." Bea nodded. "I mean, sure, Barrett's a common name, but..."
 	"How many would have a son called Vince, and had their autistic grandson move in with them?" Chloe asked rhetorically. "Shit, we... should we be watching this?"
 	Tadhg carried on. "After that, he retired, along with his good wife Geraldine - God rest her soul. However, despite Eamon no longer being an active-duty member of our organisation, he was targeted by prod thugs - members of the OVA, our main opposition at the time. His car was blown up with him and Geraldine inside of it. I'm not sure what happened to the wee one after that. With Eamon's death, we understood that this meant none of us were safe, so the negotiations broke down pretty rapidly after that."
@@ -19900,7 +19967,7 @@ FLASHBACK
 	"My... my daughter seems well, thank heavens."
 	"Excellent news." the voice replied. "Carry on."
 	Zhao sighed, and looked down at his phone. A text from his daughter, Mei.
-	"Will be home late - work have called me in. Ling's just got back. Can't wait to go on maternity!"
+	"Will be home late - work have called me in. Can't wait to go on maternity!"
 	Zhao smiled softly, before shuddering at what he'd done.
 
 Kerry's ultrasound/Zhao

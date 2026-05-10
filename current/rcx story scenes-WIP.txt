@@ -4305,7 +4305,7 @@ SCENE
 	"You smell like berries! Have you eaten berries?" he asked, enjoying the scent of her perfume.
 	Trey returned to the table, having sneaked away.
 	"I hope you ladies are thirsty, because IT'S TIME FOR SHOTS!" he shouted.
-	Chloe smiled. "Oh, by the way... Bea's not out tonight. She, um... cancelled last minute. She's gonna go meet her new boyfriend instead."
+	Chloe smiled. "Oh, by the way... Bea's not out tonight. She, um... cancelled last minute. She's gonna go meet her new boyfriend Charlie instead."
 	"That sucks." Trey frowned.
 	"Jealous, are we, Trey?" Amy chuckled.
 	"Yeah, he's jealous of Bea. He wishes he had a new boyfriend too." Connor quipped.
@@ -7315,16 +7315,29 @@ SCENE
 	"Yeah. The fuckin' girl in the gimp suit with the whips and knives." Vitale said, folding his arms. "Now, her work on Southside I don't mind, but now half my dealers are too scared to go out at night. Bad for business."
 	"What are you talking about? There's another vigilante out there?"
 	Vitale's grin only widened. "Oh, you didn't know? Well, either way, can you get her to ease off? You know, to keep this little truce we have nice and stable."
-	Connor grimaced under his mask. "Go fuck yourself, Vitale."
-	He turned, and left.
-	Vitale chuckled, sipping his drink.
-	"Yeah, nice seeing you too, Lupo."
+	Connor grimaced under his mask, turning to leave. "Go fuck yourself, Vitale."
+	"Yeah, nice seeing you too, Lupo." he chuckled, sipping his drink.
+
+	Bea slowly stepped down from the bus, deep in thought. She took a breath, and looked into the fancy restaurant ahead.
+	Charlie spotted her, and waved. She gave an awkward one back, and headed inside.
+	Immediately, he rushed over to her, hugging her tightly.
+	"Oh, I've missed you..." he began.
+	"Y-yeah, I've missed you too." she said unsurely, sitting down.
+	"Right - I've ordered us a bottle of vino - only their finest, of course!"
+	She cleared her throat. "Charlie... can we talk?"
+	"Oh, no... have I overstepped again?" he frowned.
+	"It's not that..." she said softly, taking his hand. "I just... I don't want you feeling like you have to call and text me so much."
+	"I'm so sorry..." he said, burying his face in his hands. "I know, you need your space, and of course I respect that. I didn't mean to be so... overbearing."
+	"Hey, it's okay." she smiled softly, her heart aching at his pain. "Please don't be upset."
+	He gave her a sad look. "It's just... ever since my mother left, I've always been so... well, I suppose clingy is the right word. I think, deep down... I'm just terrified of feeling so alone, again."
+	"I'm not going anywhere." she nodded. "I'm sorry I didn't call you back sooner... listen, I'll make an effort to be more available, okay? I promise."
+	He looked up at her, his eyes glistening. "Thank you... that means so much."
+	She smiled, squeezing his hand.
 
 	Connor stood in the cold afternoon air, morphing his clothes back and taking a deep breath. He pulled out his burner phone, and dialed a number.
 	"Privet, tovarishch!" Ivan answered jovially.
 	"Hey, Ivan. I've got some news..."
 	"Da, I thought as much..."
-
 	The three heroes had gathered round Ivan's safehouse. He'd placed a photo of a white-haired woman in a black kevlar bodysuit, slashing a man's throat with a knife tied to a whip.
 	"Agent Whiplash. Real name unknown." he began. "International assassin. As you can tell, she's got a bit of a gimmick."
 	"And she's here in Drackhill? Cleaning up scum, by the sound of it." Connor shrugged. "No one's died here yet, have they?"
@@ -9503,26 +9516,26 @@ SCENE
 	"I didn't get you wine, bratan." Ivan laughed. He walked to the cabinet, and opened a drawer. He reached inside, and clicked a button. At that, Connor heard a corresponding click in the base of the fridge.
 	"Now... observe." Ivan grinned, placing his hands atop the fridge and pushing it downwards.
 
-	It sank into the floor, revealing a heavy metal door hidden perfectly behind it. He punched a short code into a keypad, and opened the door.
-	Connor watched in awe, and followed into the secret room. There was a computer there, with an assortment of devices attached. Next to it was a variety of guns, ammunition, damascened knives, and other weapons. But what caught his attention was the display case.
-	Inside stood a suit of armour reminiscent of a knight's. But instead, it was inlaid with machinery and gadgets. Electrodes adorned the knuckles of its gauntlets, while a variety of scanners looked built into the helm.
+	It sank into the floor, revealing a tall, heavy metal door hidden perfectly behind it. He punched a short code into a keypad, and opened it.
+	Connor looked in awe at the secret wardrobe. There was a computer there, with an assortment of devices attached. Next to it was a variety of guns, ammunition, damascened knives, and other weapons. But what caught his attention was the display case.
+	Inside stood a black-painted cerametallic suit of armour reminiscent of a knight's. But instead, it was inlaid with machinery and gadgets. Electrodes adorned the knuckles of its gauntlets, while a variety of scanners looked built into the helm.
 	"That's the crusader suit!" he gasped.
 	"Modified version." Ivan smiled. "Reverse engineered. Placed here in case of emergencies - like if you somehow lost your powers."
-	"Lost my powers?" Connor tilted his head.
+	"Lost my powers?"
 	"We still don't know how any of this hernya really works, tovarishch." Ivan shrugged. "Better safe than sorry. KGB motto."
 	"Do you have one too?"
 	"Not quite." he chuckled, gesturing to his bodysuit. Connor was too tired to notice before, but it was indeed changed. Coils reinforced the muscles, and the kevlar had been upgraded to include a neoballistic weave.
 	"You missed your calling as a male model." he snarked.
 	"That's what I told the Commissariat!" Ivan quipped back. "Aside from your new digs, we also set up that computer. Use it to hack into any devices we capture from Paladin - I've already uploaded all the intel we've gathered so far. It's also got a police scanner built in, so we can keep an ear out for any emergencies. It'll patch those through automatically to your earpiece."
-	"Damn, you guys thought of everything, didn't you?" Connor grinned.
+	"Damn, you guys thought of everything, didn't you?"
 	Ivan chuckled, and then turned dour. "There is one small problem I also had to discuss."
-	"Oh, here I thought the KGB-funded panic room came with no strings attached." Connor shrugged.
+	"Oh, here I thought the KGB-funded hidey-hole came with no strings attached."
 	"Not quite that. That warehouse I was hitting tonight? It was already taken."
 	"By who?"
 	"I don't know. But whoever it is, they made a mess of the Super-Agents, and destroyed the serum like I'd planned on. And weirder still - they used a bow and arrow."
 	"So... the Optimates have made an enemy of a KGB sniper, an autistic Irishman, a dire wolf... and Robin Hood." Connor sighed. "Any leads?"
 	"Not yet. That's only half of the bad news." Ivan stroked his beard. "The other half? The serum in that shipment - it was outbound."
-	Connor ran his hands through his hair. "You... you mean Paladin has started producing serum within Drackhill?"
+	Connor ran his hands through his hair. "You... you mean Paladin has started producing serum *within* Drackhill?"
 	"And has started exporting it." Ivan grimly nodded. "I have a feeling we've got our work cut out for us."
 	Connor sighed, stretching. "Don't we always."
 	Ivan chuckled. "Me and wolfie will go on recon tomorrow, see if we can find out anything. You take the night off, Santa's Little Helper."
@@ -9678,54 +9691,55 @@ SCENE
 	"You must think I'm some kind of idiot!" he snapped. "You go 'missing' for a week, and the day you come back just so happens to be the same day the Werewolf kills his first victim? Then suddenly you and Tommy are working together again... and what, you thought I just wouldn't notice how you're always conveniently busy or working when the Werewolf strikes? Or how about last week, when the Werewolf never showed up until we conveniently couldn't see you anymore? Or last night, eh? How about last fuckin' night?!"
 	Connor sighed, and looked down. He began to morph, showing his costume.
 	"Oh my god..." Trey stumbled backwards in shock.
-	Connor un-morphed his mask. "Trey, wait. I'm still me."
-	He looked at Connor, aghast. "You... You never told me."
-	"I'm sorry. I'm telling you now." Connor said sheepishly.
+	His mask melted away. "Trey, wait. I'm still me."
+	"You... You never told me." he said, aghast.
+	"I'm sorry. I'm telling you now."
 	"Who else knows?"
 	"Amy. Tommy, too. I... I wanted to tell you, but..."
-	"But what? You can't trust me?!" Trey asked, hurt.
+	"But what? You can't trust me?!"
 	"No! It's just... I know you, Trey. You'll get yourself killed trying to follow me."
 	Trey looked down. "How long have you been like this? Have you always been this way?"
-	"No. It's only since October." Connor began. "When I went missing - I'd been kidnapped, and... changed. According to Sparky, they were trying to brainwash me, too."
+	"No. It's only since October. When I went missing - I'd been kidnapped, and... changed. According to Sparky, they were trying to brainwash me, too."
 	"Sparky?" Trey asked, bewildered.
 	Connor sighed. "Sparky can talk."
 	"The FUCK?!"
 	"Only to me. Anyway..."
-	"Whoa, whoa, whoa, back up! Don't just 'anyway' a talking dog!" Trey demanded, perplexed.
+	"Whoa, whoa, whoa, back up! Don't just 'anyway' a talking dog!"
 	"It's a long story. He has the same powers I do, and for some reason that gives him human-level intelligence. It also means we have this weird... I dunno, psychic bond or something."
 	Trey slumped back, stunned. He crossed his arms, and sighed.
-	"I hate the lie." Connor admitted. "And... I wanted to tell you. Not like this."
+	"I hate the lie. And... I wanted to tell you. Not like this."
 	"When?" Trey pressed. "When were you gonna tell me?"
-	"Soon." Connor replied. "I'm gonna tell everyone soon. Once I've figured out what they're planning, I can... I can be honest again."
+	"Soon. I'm gonna tell everyone soon. Once I've figured out what they're planning, I can... I can be honest again."
 	Trey paused, then rose. "Connor..." he began. "Answer honestly. How many people have you killed? Can you... Can you even remember?"
 	"I remember every single one." Connor replied grimly. "73. 26 normal humans, plus 47 Super-Agents."
-	"Super-What?" Trey asked, confused.
+	"Super-What?"
 	"The bulk of my enemies. They used to be humans, until a serum turned them into... people like me."
 	"And the normal people?"
 	"Most of those, I wasn't in control at the time." Connor said clinically. "They were attacking me, and I got carried away and killed them instead of just injuring them. Other than that, there was Omar Hattab, an Algerian would-be tyrant; and Alan Hughes - we spoke about him the day I killed him."
 	"Why? Why kill them?"
 	"Partly because they had it coming. Partly because I was paid to. And partly because they were in on the conspiracy."
 	"Conspiracy?"
-	"The Optimates." Connor answered grimly. "A cabal of rich people, trying to take over the world. They invented these... powers of mine. And they've used it to make an army."
+	"The Optimates." he answered grimly. "A cabal of rich people, trying to take over the world. They invented these... powers of mine. And they've used it to make an army."
 	"Fuck..." Trey whispered, shuddering at the thought.
 	Connor paused, the sadness evident on his face.
 	"Trey, I... I wanted to tell you. And I was gonna. I just... I wanted to make sure that the worst of it was over." 
-	"That wasn't your choice to make." Trey snapped.
+	"That wasn't your choice to make."
 	Connor sat down, unable to reply. Then, he felt his earpiece beep.
 	"Sorry, one sec." he said awkwardly. "Ivan, what's up?"
-	"Bratan... we have a problem. A big problem." he said grimly.
+	"Bratan... we have a problem. A big problem."
 	"How big?"
 	"8 feet tall."
-	"Shit..." Connor sighed. "Where?"
+	"Shit... Where?"
 	"Just outside Angleport. Me and Sparky are on overwatch, but they'll be on the move soon."
 	"On my way." Connor nodded. He turned to Trey.
 	"Listen, there's... there's some mutants in Angleport. If I don't stop them now, they'll kill a lot of people. I... I have to go."
 	"Then go." Trey sighed, rising.
-	"Wait." Connor begged. He hesitated, but reached into his kitchen drawer, and pulled down the wine fridge.
-	"Whoa..." Trey gasped in awe. Connor punched in the code, and led him through.
-	"This... is my secret lair." Connor began awkwardly. "And on that computer is all the intel we have on... well, everything."
-	"Why are you showing me this?" Trey began.
-	"To prove that I trust you." Connor nodded. "I have to go. But please - find the answers in there. And I'll answer any more questions when I get back."
+	"Wait."
+	He hesitated, but reached into his kitchen drawer, and pulled down the wine fridge.
+	"Whoa..." Trey gasped in awe. Connor punched in the code, and opened the wardrobe.
+	"This... is my secret." he began awkwardly. "And on that computer is all the intel we have on... well, everything."
+	"Why are you showing me this?"
+	"To prove that I trust you. I have to go. But please - find the answers in there. And I'll answer any more questions when I get back."
 	Trey hesitated, but hugged his best friend. Connor returned the embrace, and took off into the night.
 
 Trey learns the truth
@@ -9782,7 +9796,7 @@ Warehouse Frenzy
 ______________________________
 SCENE
 	Trey leaned back from the computer, amazed. Everything made a hell of a lot more sense now. Then, he heared the jingling of keys, and darted upwards.
-	"Shit. Shit. Shit." he gasped, scrambling out of the room and hurriedly hiding the entrance. He walked into the living room, just as Amy did.
+	"Shit. Shit. Shit." he gasped, hurriedly putting the laptop back into the wardrobe. He closed the door, and re-raiesed the fridge, then walked into the living room, just as Amy did.
 	"Yo, dickhead. Are you--oh." she began. "Uh, hey man. Is Connor in?"
 	"Uh, he's busy." Trey shook his head.
 	"Okay... so you're just here on your own?"
@@ -9797,10 +9811,7 @@ SCENE
 	"He's the Werewolf."
 	She sighed, and rubbed her temples. "He told you?"
 	"No." Trey whispered, his face turning grim. "I figured it out last night."
-	Amy nodded, her expression changing to a more caring one.
-	"Does he know you know?" she asked.
-	"Yeah." he replied. "He came round mine earlier, and I told him."
-	"Hence why you knew I knew." she nodded. "How are you taking it?"
+	Amy nodded, her expression changing to a more caring one. "How are you taking it?"
 	"My best friend has killed 73 people. How do you think I'm taking it?" Trey snapped.
 	Amy folded her legs. "A lot worse than I took it, clearly."
 	"Yeah, well..." Trey began, "You already knew he had it in him."
@@ -9847,12 +9858,12 @@ SCENE
 	His ear - the one not deafened by his earpiece - pricked up ever-so-slightly. It heard something he did not.
 	*FF-SHK!*
 	The Giant screamed in fury and pain, slamming Connor to the ground. He choked and looked up, watching as it plucked the obsidian-tipped arrow from its armpit.
-	His eyes weakly moved to the side, and saw her. A figure clad in a black leather catsuit.
+	His eyes weakly moved to the side, and saw her. A figure clad in a black leather catsuit. She still wore her domino mask, but now added a hood to the mix.
 	"Olivia?" he whispered incredulously.
 	Whiplash drew another arrow, and fired again.
 
 	The newscaster brought his finger down from his earpiece, and sighed.
-	"*ahem.* We've just received a breaking news report of some kind of fight in Angleport. We, uh... we go now to our live correspondant. Zack, what's going on down there?"
+	"*Ahem.* We've just received a breaking news report of some kind of fight in Angleport. We, uh... we go now to our live correspondant. Zack, what's going on down there?"
 	"Thanks, Tim." Zack began, stepping to the camera's side to give a clearer view. "As you can see, the police have established a cordon around the warehouse. Gunshots were reported earlier this evening, but now the noise indicates some intense battle going on. We've heard crashes, explosions, and even some electrical sounds."
 	"What are the police doing?" Tim asked.
 	"Nothing, by the looks of it." Zack muttered. "It seems their plan is to let this pan out, and then move in and apprehend the survivors."
@@ -10521,7 +10532,7 @@ SCENE
 	He smiled, and his cheekbones visibly moved with it. Trey was right - a bit of expressiveness could go a long way.
 	"Got this from tonight's raid. It's encrypted - but there are some files I need access to."
 	Tommy leaned back into his chair. "You're not taking it back to yours?"
-	"The Horse was closer." he shrugged. "There should be a USB here somewhere - it'll break past he encryption."
+	"The Horse was closer." he shrugged. "There should be a USB here somewhere - it'll break past the encryption."
 	"Right here." Shannon smiled, pulling the device from her pocket. "I can take a look, if you like?"
 	Connor tilted his head. "I... I appreciate that, but it's fine. This is Syndicate business."
 	"That's okay!" she cut in. "I've been helping out, around here."
@@ -10540,7 +10551,7 @@ SCENE
 	He smiled softly. "Yeah, it's fine. Just... this is really dangerous, you know? Working with us--with *me...* it puts a target on your back."
 	"I'm already a target in this city." she countered. "I wouldn't've been kicked out and getting mugged if I wasn't... well, me. And *you* saved me, remember? And if I can do just a little something to make your job easier, to take just a little bit of weight off your shoulders - then that means I'm helping you save other people just like me."
 	Connor sighed, but his eyes betrayed his pride. "When we last met, you said you were studying computing - not that you were a hacker."
-	"Well..." she sheepishly admitted, "I've always been a tinkerer. And when I started at the workshop, I found a bunch of tools left by the last techie - so I got a bit curious, started studying them, and now... well, it turns out I have a knack for it."
+	"Well..." she sheepishly admitted, "I've always been a tinkerer. And when I started at the workshop, I found a bunch of tools left by Connor - uh, the last techie - so I got a bit curious, started studying them, and now... well, it turns out I have a knack for it."
 	Connor smiled. "You're sure you wanna do this?"
 	"I'm sure. You can help people by beating up bad guys and saving the day. I can help by doing *this.*"
 	He thought about it for a moment, and then nodded.
@@ -10722,12 +10733,13 @@ SCENE
 	Connor sighed, a mix of relief and fear. "I won't." he vowed.
 	"But what I said before still stands. Do not tell her, or anyone else." she said firmly. "This day and age, the walls don't just have eyes - they have ears and noses too. All it takes is for one person you've told to slip up - not even betraying you, just making one mistake at the wrong moment - for this whole thing to collapse. As long as these bastards are out there, this has to remain under wraps."
 	"I won't tell anyone else." Connor nodded, accepting the situation as it was.
+
 	He hesitated, but cleared his throat.
 	"I, uh... I wanna show you both something."
 	Amy tilted her head as he stood. He clicked the button in the drawers, and pulled down the fridge.
 	"What... what's this?" she asked, amazed.
-	He showed her into the room.
-	"Not all superheroes can afford a private cave." he snarked. "This is my safe room."
+	He opened up the wardrobe, and stepped aside.
+	"Not all superheroes can afford a private cave." he snarked. "This is my storage space."
 	She looked up at the Crusader-pattern powersuit, grinning giddily. "I thought you made your own costume?"
 	"That's a spare, in case I lose my powers." he shrugged. "Anyway... the main thing was on here."
 	He logged into the computer. "Remember how you asked me to do some digging? About your mum?"
@@ -10756,7 +10768,7 @@ SCENE
 	She stretched out, yawning. "I'd better get off soon. I've got work tomorrow."
 	Connor smiled, walking her out of the room. He locked it back up.
 	"If you ever need to get in here, the code is 0451." he nodded. He walked her to the door, and hugged her again.
-	"One more thing - I found a few more photos of her. I'll send them over to you."
+	"One more thing - I found a few more photos of her. I'll send them over to you - let you go over them in private."
 	She squeezed him tight. It took a while for her to let go.
 	"See you later, Amy Barrett." he nodded.
 	She smiled, slightly teary-eyed. "Yeah. See you later."
@@ -10855,8 +10867,7 @@ SCENE
 	"I didn't think you'd come." he began. His voice was low. "I thought maybe you'd changed your mind."
 	"No, I just didn't want to stay long. Everyone's still up, mostly."
 	He pulled a small wrapped box from his coat and handed it to her.
-	Bea opened it carefully. Inside was a delicate silver bracelet, etched with a tiny engraving on the inside:
-	"I see you."
+	Bea opened it carefully. Inside was a delicate silver bracelet.
 	She stared at it. "Charlie... this is beautiful."
 	He smiled.
 	She looked down at the bracelet again. "Thank you. Really."
@@ -10887,7 +10898,7 @@ SCENE
 	She didn't reply. She couldn't. Her feet felt stuck to the pavement.
 	"Merry Christmas, Bea." he whispered.
 	And then he was gone, his footsteps echoing off the wet stones, leaving her standing alone with the bracelet still in her hands.
-	She sighed deeply. 
+	She sighed deeply.
 
 Jefferson Family Christmas
 ______________________________
@@ -11515,12 +11526,21 @@ SCENE
 Ivan and Connor catch up
 ______________________________
 SCENE
-	The door creaked as it opened. Connor stepped into the Horse backroom, his costume morphed up.
+	The door creaked as it opened. Connor stepped into the Horse backroom, his costume morphed up. Ivan and Sparky followed in behind him. Tommy and Shannon looked up, relieved at the heroes' arrival.
 	"That was quick." Tommy nodded.
-	"You said it was urgent." Connor shrugged. "What's wrong?"
-	"Something big." Shannon began, paler than normal. She opened up one of her laptops to reveal a document. "I hacked into a server belonging to Gambit Security Services."
+	"You said it was urgent." Connor shrugged. "Oh, right - you've not met in person until now."
+	"Ivan Sokolov, KGB." he saluted. "I'm a big fan of your work, Shannon."
+	"Oh, thanks." Shannon smiled shyly.
+	Ivan saluted deferentially, and turned back. "And Mr. Crane - nice to finally meet properly."
+	Tommy waved by his brow, as if doffing an invisible cap. "Likewise, comrade."
+	"And who's the dog?" Shannon asked, smiling warmly.
+	"Hi! I'm Sparky!" he trotted over. "Are you the nice computer lady Connor told me about?"
+	"Shannon, this is Sparky." Connor gestured. "My sapient, telepathic wolf."
+	Her eyes lit up in bemusement. "Do all superheroes get one of those?"
+	Connor cleared his throat. "What was so urgent that we needed to swing by like this?"
+	"Something big." Shannon began, going pale - clearly, she'd enjoyed putting this part off. She opened up one of her laptops to reveal a document. "I hacked into a server belonging to Gambit Security Services."
 	"The Paladin front?"
-	"The very same." she nodded. "Their countermeasures kicked in before I could finish downloading their files. I was repairing the ones I could, and found... this."
+	"The very same. Their countermeasures kicked in before I could finish downloading their files. I was repairing the ones I could, and found... this."
 	She gestured to the file.
 	"An IRC chat log. It's only partially restored, but..."
 	Connor leaned in, taking a look.
@@ -11539,11 +11559,12 @@ SCENE
 
 	"Livestock..." Connor scowled.
 	"That's what the Patriots call their trafficked slaves." Tommy shuddered. "The word 'juvenile' implies--"
-	"Kids."
+	"Kids." Ivan grimaced. "Yebanyye svin'i..."
 	"Killing Hughes made a dent, but it was always going to need more than that to bring his rotten empire down." Tommy sighed. "And if he was connected to those... 'Optimates' or whatever... they'd have the money to replace him."
+	"That just means more monsters for us to kill." Sparky growled lowly.
 	Connor rubbed his temples softly, and took a deep breath.
 	"Working theory - they're testing for some kind of genetic or physiological factor, and taking the ones that have it to be experimented on." Shannon explained.
-	"They could be connected to the same spooks who took Whiplash." Connor mused. "Or they could just be testing super-serum."
+	"They could be connected to the same spooks who took Whiplash." Ivan mused. "Or they could just be testing super-serum."
 	"Or just your normal, mundane organ harvesting. Not to mention what they'll do to the other kids." Tommy sighed. "Either way, they need to be stopped."
 	"Too right. Shannon, do you have any idea where they're being held?"
 	"No, sorry." she shook her head.
@@ -11553,11 +11574,13 @@ SCENE
 	"Maybe we can find out..." Shannon mused. "Gambit's network is pretty secure - I've been trying to find an employee list, and I've got nothing. But a lot of their lower-level thugs officially work for shell companies. Those companies get registered, operate for a few weeks, and then get wound up before the authorities can take notice. If we can figure out what the current shell is..."
 	"We can get an idea on their assets. And we can find out their human employees."
 	"How does that help us?" Tommy cocked an eyebrow.
-	"You can't interrogate Super-Agents - they're conditioned to choose death over capture." Connor explained clinically. "Humans can be... coerced."
+	"You can't interrogate Super-Agents - they're conditioned to choose death over capture." Ivan explained clinically. "Humans can be... coerced."
 	"Slight problem..." Shannon sighed. "The only way we could realistically get an idea who works there would be by running a search on the national database. I can't access that without tripping, like, a bazillion different alarms, and getting us in deep, deep shit."
-	"I'll dig around for the shell company. As for searching the database... I bet a detective inspector would have access, right?"
-	"You're not suggesting..." Tommy grinned.
-	"He's already de facto part of the team." Connor shrugged. "Might as well make it official. First things first - I think it's time for Il Lupo to pay a certain someone a visit..."
+	"I'll dig around for the shell company." Connor nodded. "It's been too long since Il Lupo paid someone a visit."
+	Tommy chuckled. "As for searching the database?"
+	"I bet a detective inspector would have access, right?"
+	"You're not suggesting..."
+	"He's already de facto part of the team." Connor shrugged. "Might as well make it official."
 
 	Vitale's gilded grin flashed in the smoke of the dark room. A pair of buxom young women strutted in, wearing little more than bikinis.
 	"Oh, ladies... you're making me blush." he chuckled. They giggled, and crawled up to him.
@@ -11568,11 +11591,11 @@ SCENE
 	"Fuckin' hell, Lupo. First you bust my arms shipment, and now this."
 	"I'm not here about the guns - though, for the record, I'd advise you stop buying them, if you don't want your men suffering concussions."
 	He smirked, zipping back up his trousers. "Couldn't you have waited, like, five minutes?"
-	"That depends - what would you be doing in the remaining four?"
-	"...play cards?"
+	"That depends - what would you be doing in the remaining four and a half?"
+	"...snuggle?"
 	Connor laughed, rolling his shoulders. "I need some information."
 	"Yeah, don't you always." Vitale chuckled. "By the way, nice new getup. Don't suppose you could recommend me a tailor?"
-	"Hah. Listen - there's been a shipment that arrived in Angleport yesterday. Kids."
+	"Ha ha. Listen - there's been a shipment that arrived in Angleport yesterday. Kids."
 	"Nothing to do with me." Vitale shook his head. "Filthy business, that. Any of my boys mess around like that, I'll feed 'em their balls on a silver plate."
 	"But our mutual enemies... they're not so principled, are they?"
 	Vitale grinned again. "I don't anything about this particular dirt - except rumours. Now, as you know, I'm a respectable business man. I try to run an ethical company. That means I make sure to know that the arms and drug traffickers I work with ain't selling people on the side."
@@ -11583,12 +11606,12 @@ SCENE
 	"You didn't hear this from me, right?"
 	"Of course."
 	"Ainsworth Holdings. I checked, and they don't officially own any properties - but they do have employees. My guess, one of them'd squeal if Il Lupo came calling."
-	"Do you have a name?"
+	"Do you have any names?"
 	Vitale shook his head. "Ainsworth's all I've got. But they're definitely involved - I'd bet me gold teeth."
 	Connor rose, his gaze dimming. "Thanks, Vitale. I'll regret saying this, but... I owe you one."
 	"Nah." he said, lip curling. "You take on Gambit and rescue those kids? This one's on the house."
 	Connor smiled softly. "You're not a good guy. But you're a good bad guy."
-	Vitale raised his cigar, as if toasting. "Buona caccia, amico."
+	Vitale raised his cigar, as if in salute. "Buona caccia, amico."
 
 Tracking Gambit
 ______________________________
@@ -11888,7 +11911,33 @@ FLASHBACK
 Killing Laverty
 ______________________________
 SCENE
-	
+	Shannon stormed into the backroom, and swept a table clear, before slamming her laptop onto it.
+	"Alright, here's the plan." she said, before grinning widely. "Sorry, I've always wanted to do that."
+	"Me too." Connor nodded, chuckling.
+	"I've done it before." Tommy grinned. "Me and Vince, right before the Rexton job."
+	"Me, too." Ivan smirked. "My first assignment in the KGB - me and some comrades in Abkhazia blew up a separatist depot."
+	"Great, so I'm the superhero here, and I've not done it yet." Connor snarked. "Let's hear it."
+	Shannon grinned, and revealed her document - a blueprint floorplan.
+	"This is the layout of the Gambit field lab." she began. "Like our now-hospitalied friend Jimmy said, it's a barn conversion."
+	"Paladin work through those, a lot." Connor nodded. "When they tortured me, they held me in one. Him, too."
+	"I guess they really like barns." Sparky shrugged.
+	"Oh, I'm so sorry." she said sadly.
+	"It's fine. Let's just figure out our plan."
+	"Right." she nodded. "Jimmy mentioned two inspectors were going to show up - and that they were Super-Agents. Werewolf - personal question, but do you look human under that mask?"
+	Connor tilted his head, then chuckled. "Yeah. But I don't have the black veins like Super-Agents do, unless I'm using my powers."
+	"Perfect." she beamed. "Then you and Ivan are going to impersonate the inspectors."
+	"I like it." Ivan grinned. "There are three possible roads they might come down from. If we each take one, we can intercept."
+	"Slight problem - Gambit might know our faces." Connor cut in. "And despite the name, my shapeshifting is limited to my costume."
+	Tommy pondered for a moment, then lit up. "What about prosthetics?"
+	"Hm?"
+	"Yeah, that could work!" Shannon nodded. "You could morph a wig, some fake wrinkles, coloured contact lenses..."
+	Connor stroked his chin. "I'll try it. What are we looking for, anyway?"
+	"A server, ideally." she explained. "Anything that can get us access to their network. I've got some dongles you can plug in to give me backdoor access - they only need a minute to work. One constraint - make sure to stay undercover. If they realise they've been duped, they'll call off the shipment, and we might never find them."
+	"Got it." Connor nodded. "But just in case - Sparky, once we've got our cover sorted, I want you on surveillance duty at the docks. If things turn ugly, we'll brute force our way in and tell you what we find. You'll need to go hunting through, see if you can find them."
+	"Scouting? Again?" he complained.
+	"Hey - if you find them, you get to beat me to the killing." Connor snarked.
+	"Deal." he nodded, grinning savagely.
+	Shannon clapped her hands. "Well, no time like the present. Give them hell, guys."
 
 Plotting the infiltration
 ______________________________
@@ -12535,7 +12584,7 @@ SCENE
 
 	"FUCK YOU!" the Super-Agent spat, his face bloodied and broken. Ivan replied with a stab to the gut - not the first, as the Agent's shredded abdomen could attest.
 	"You... you can't break me, you commie prick." the Agent said, his breath ragged and weak. "Super-Agents don't fear death."
-	"I know." Ivan chuckled. "Hence why I'm torturing you, mudak. Tell me what I want to know, and I'll *kill* you instead."
+	"I know." Ivan chuckled. "Hence why I'm torturing you, mudak. Tell me what I want to know, and I'll let you die."
 	"I ain't telling you *shit!*" the Agent barked.
 	"Alright." Ivan grinned, before pulling out his stun gun. "It's not a car battery to the nipples, but it'll have to do."
 	With that, he felt his burner phone ring. The Agent clutched his ribs, desperately trying to stop bleeding.

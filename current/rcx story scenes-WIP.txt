@@ -87,7 +87,7 @@ SCENE
 	"Oh it was, was it?" the first voice scowled.
 	"To an extent." the second added. "The... erratic nature of the attack can be worked to our advantage. Federal Police will butt heads with UN Security, and Interpol will be completely ineffective. Switzerland's tradition of direct democracy has always limited our influence... By provoking public fear, we can herd the sheep into our pens."
 	"And the WHO?"
-	"Placated. We've pinned the attack on Romand separatists. What matters now is that we have Dr. Zhao again. Now he must be reminded of his... obligations."
+	"Placated. We've pinned the attack on the Romand Citizen's Army. What matters now is that we have Dr. Zhao again. Now he must be reminded of his... obligations."
 	"Oh, he will be reminded alright... I can *assure* you of that, sir." the Commandant scowled.
 	"Good. Now... continue your report."
 	"Gladly, sir." the Commandant nodded. "Operations in the East have progressed smoothly. The Reds are on the back foot."
@@ -112,6 +112,8 @@ SCENE
 	"Commandant, sir. Mr. Morland, sir."
 	"Randall." the Commandant began. "Is everything in place?"
 	"Yes, sir." Randall audibly nodded. "Drackhill ETA is 45 Mikes. My men on the ground have moved into the field lab."
+	"What's going on with the captives?"
+	"As instructed, we delivered most personnel to the RCA to be held for ransom. They've been told Zhao was executed; no one will look for him."
 	The Commandant stroked the hairs on his chin, before taking a deep breath.
 	"And the boy?"
 	"We're ready to grab him, sir."
@@ -126,7 +128,9 @@ Conspiracy prologue
 ______________________________
 SCENE
 	It was the 9th of October, 2015. A crisp, cold Friday morning.
-	The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a young man, with scruffy, dark-blonde hair. Strands fell across his forehead in no particular order, as though sleep itself had styled them, while a faint ginger stubble shadowed his jaw. His name was Connor Barrett. His phone, plugged into a charger on the floor and resting on the bedside table, began to hum a pleasant-sounding tune.
+	The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a young man, with scruffy, dark-blonde hair. Strands fell across his forehead in no particular order, as though sleep itself had styled them, while a faint ginger stubble shadowed his jaw. 
+	Connor Barrett.
+	His phone, plugged into a charger on the floor and resting on the bedside table, began to hum a pleasant-sounding tune.
 	Connor groaned, and sat up, pulling the blanket off of him. He turned off the alarm, looked down at his pillow, and seriously considered saying "Fuck it," and staying home.
 	Nevertheless, he forced himself to rise. He stretched out, and it felt like every joint in his body clicked at once. In truth, just his shoulders and knees.
 	He leant forward, stretching out his back and touching his toes.

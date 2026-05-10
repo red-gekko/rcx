@@ -6,7 +6,7 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 volume 2 opening changes:
-			Shan recommends they intercept those inspectors and show up in their place. Connor hesitates, as he can't use his mask for this - then realises he can morph prosthetic makeup to mask his appearance anyway. 
+			before the infil, have a scene with chloe and bea asking after connor, pointing out they haven't seen much of him. Trey and Amy quickly cover
 			Him and Ivan arrive at the Gambit field lab. Ivan opens with "An inspector calls."
 			The guy at the front asks for 'ID', and Ivan takes off his shades. They're shown around, seeing the facilities that will be used to torturously experiment on the kids. Connor nearly snaps, but regains his composure and plants one of Shan's devices on their main server
 			Shan finds the source location, and the duo leave, entering the car. ivan says "I think that went well."
@@ -15,6 +15,30 @@ volume 2 opening changes:
 			Connor cracks up
 			After this, Connor shows up at Naismith's house (since the Blackmarsh raid is deleted, we take the scene from that)
 			There, Connor enlists him on raiding the place alongside him - Connor will take out the Agents if Naismith can look after the slaves.. Naismith hesitates, but takes Connor's burner and agrees. Change the auction scene to this new raid.
+			have Sparky involved in the raid as well
+
+
+volume 2 big changes:
+	downgrade the panic room to a secure storage cabinet
+
+	during the charlie chapter, have connor call ivan and shannon when they realise they have the wrong flat; he says to shan "our friend is being held captive in someone else's house; how quickly could you hack the university network and find a list of student addresses?"; then while she does that he tasks ivan with triangulating Charlie's number. Ivan begins, and it's east of their position; connor leads the gang towards it. shannon explains the system is very outdated; there's several SQL servers that run very slowly due to data buildup, so it'll take time for her to find the right database. Ivan narrows it down to a block, but can't get any closer than that. Connor asks Chloe if he lives in student accomodation or private rent; she says she's pretty sure it's private. Connor tells shan that, and she tracks him down to royal oaks, and the scene plays out as normal
+	in the aftermath, have chloe say she saw the look in his eyes when he held charlie at knifepoint. he looks away guiltily, but she explains she wanted him to kill him - but was glad he didn't. after she traumadumps, she smiles and says she knows they've only known each other for a few months, but he's one of her best friends, and she trusts him
+
+	replace the blackmarsh filler with the Stunlocke origin; foreshadow it by connor complaining about the patriots getting worse, and he's struggling to find time to fight them, Paladin, and still have a semblance of a social life
+	replace bridge collapse with connor taking amy on a raid
+	add Whiplash to the bus fight
+	in the murillo chapter, have whiplash captured by "sniffers" from MKUltra; she uses a tracking device Connor gave her to make a distress call (have him give this to her beforehand; preferably when showing her the wolfcave); ivan, sparky, and amy go to rescue her. they reveal they've used a brainwashing device, and the gang have to subdue her; eventually sparky is able to grapple her and the two accidentally mind-merge; this overwhelms the device, causing a psychic shockwave that knocks her and sparky out cold; 
+	when connor returns he stumbles into the wolfcave injured, and finds whiplash and sparky recovering. amy explains what happened
+	after this, have both whiplash and sparky find their psionics more powerful; whiplash is now capable of outright airbending, while Sparky can now communicate with other people, to his joy. connor explains he still needs to limit who he speaks to, but anyone who knows is fair game, as are random people he meets on mission. he gladly accepts, and immediately decides he's going to freak out Trey with it, to connor and amy's amusement
+		(this also neatly foreshadows the Adept subplot when Chloe gets powers)
+		(have sparky now talk to chloe and bea when they learn the truth; whenever he speaks to people they're still lying to, have him bark instead)
+		(might be dumb, but consider changing Whiplash to Windblast after these powers set in and she rejects MKUltra's identity. this also handily helps with any marvel lawsuits lol)
+
+	during the morland siege, have whiplash chime in just before connor ascends - she's using her glider to keep watch above the tower, reports a young woman being held at gunpoint, and offers to intervene; connor tells her not to as the agent will kill her if anyone but him shows. she agrees to keep watch from above instead. when banner shoots chloe, she uses her powers to veer the bullet off course, and soften connor's landing
+	amy changes out of her powersuit and, when chloe gets back from the cops, she gives them some privacy.
+	during the argument, chloe asks if amy knows, and connor admits she does. she then says "who else? who else knew my boyfriend was a superhero before me?!" and connor admits that his team knows, as well as trey.
+	
+
 
 
 
@@ -35,10 +59,15 @@ for the naismith home scene (steal the rest from blackmarsh raid - we're retooli
 
 
 prison arc beats:
-	the cops raid connor's house; tense moment when they find the panic room, but it's empty. later reveal when Sparky goes missing where Amy goes into DF, revealing that she stashed his stuff in Dynamite Fitness's basement
+	the cops raid connor's house; tense moment when they find the panic room, but it's empty. later reveal when Sparky goes missing where Amy goes into DF, revealing that she stashed his stuff in Dynamite Fitness's basement (this later becomes the wolfcave)
+
+	change up Shan's knowing scene; have her clock Connor's voice in the initial meetup; then have Trey pull Connor aside and ask why he seemed awkward around her; then have him say "you remember i told you our team has a new hacker" andd trey goes "oh. Oh... does she know?" "i don't think so"; then she comes over and says "uh, trey, tommy said he needed to talk about... uh, something"; trey leaves and she goes "hey... boss."; he worries his secret is too obvious, she points out that he uses his real voice around her; connor beckons trey over and then flashes his eyes red; he goes "well, i would've done introductions, but seems you've already met"; then connor says he could break them out but both tell him not to as that would expose his secret. they agree to hang on until they can find a better plan
 	have a scene where the gang are headed to the group showers. they opt to let shan shower first for privacy, but then a bunch of other inmates walk in and start leering. the gang beat them all up, and leave shan to shower in peace
 	connor runs into a few of his previous thugs - maybe he's sitting with vince or trey, pointing them out
-	after the breakout, they are interrogating Wilkinson (whose name Shan found in a laptop seized from the 'livestock pens') instead of Dorsey. There, they get concrete proof that Dorsey is involved, and Connor kills Wilkinson. After Dorsey launches his coup, Connor delivers the evidence to zack, beseiges the station, and kills dorsey at his place
+	when ivan shows up, rather than handing over chloroform, he gives him a map/schematics of the prison, including the cctv room and access to the roof; connor takes down the guard in the cctv room by choking and then punching; shan asks if he'll teach her to do that, he says "pull this hack off and I'll do anything you like." <beat> "Within reason, I mean" and she smirks
+	after the breakout, they are interrogating Wilkinson (whose name Shan found in a laptop seized from the 'livestock pens') instead of Dorsey. There, they get concrete proof that Dorsey is involved, and Connor kills Wilkinson. After Dorsey launches his coup, Connor delivers the evidence to zack. dorsey bunkers down in the station, but connor gets the green light from ivan that he can kill him without MI5 repurcussions; connor beseiges the station, and kills dorsey at his place
+
+	during the dorsey coup, have him deputise Gambit; have ivan, whiplash, and sparky raid their arms depot while Stunlocke has her outing (have the giant be there still)
 
 
 

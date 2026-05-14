@@ -13963,7 +13963,7 @@ SCENE
 	"Okay, great, thank you..." she said, hanging up. "Okay, so they said to call back if she gets worse, or doesn't get better by morning. Someone has to be awake with her at all times."
 	"We'll take turns." Chloe nodded. "Whenever you feel like you're going to fall asleep, wake the next person up."
 	"Good idea." Amy agreed.
-	Sparky came in from the bedroom, having just woken up. "Hello everyone... Oh no, what's wrong with Bea?" he asked, rushing over to her.
+	Sparky came in from the bedroom, having just woken up from his post-raid nap. "Hello everyone... Oh no, what's wrong with Bea?" he asked, rushing over to her.
 	"She's okay buddy... You were right about him." Chloe whispered, stroking Sparky's head, noticing his concern.
 	Amy raised an eyebrow. "What was that?" she asked.
 	"When I was looking after Sparky after new years." Chloe answered. "We met up with Bea and Charlie. Sparky knew he was bad news right away."
@@ -13992,13 +13992,13 @@ SCENE
 	"Hah, it's alright - you've had a very stressful night too." he nodded, inviting her to sit with him. She pulled up a deck chair.
 	"Listen, um... I've been meaning to say..." Chloe began. Connor leant in, and they locked eyes.
 	"I, um..." she continued, steeling herself. "I've really enjoyed spending time with you. I mean, spending the Christmas break back home has made me realise that. I know we've only known each other since October, but I... I've really enjoyed the time we've spent together." she said shyly, blushing.
-	"I've really enjoyed spending time with you, too." Connor replied, smiling. "Heh, we've been through a lot haven't we?"
+	"I've really enjoyed spending time with you, too." Connor smiled warmly. "Heh, we've been through a lot haven't we?"
 	"You can say that again." she chuckled, and they embraced.
 	"Hah, you're getting better at hugs." Chloe quipped. They both chuckled.
-	"Yeah, slowly learning to not just hold my arms out straight like an alien." Connor smirked.
+	"Yeah, slowly learning to not just hold my arms out straight like an alien."
 	They looked into each other's eyes again. Time began to slow. Chloe leant her forehead against his. Their hearbeats synchronised. Connor prepared to lean in, and...
 	"Hey guys, Bea's coming to--oh, sorry." Trey said, realising what he was interrupting.
-	"Oh, uh, hey... Okay, we'll come in and see her." Chloe nodded. Though she wanted nothing more than to kiss Connor, her duty to her best friend came first.
+	"Oh, uh, hey... Okay, we'll come in and see her." Chloe nodded. Her duty to her best friend came first.
 	Connor stood too, his blush slowly fading. Trey whispered "I'm so sorry." to him, to which Connor chuckled. They went inside.
 	There, Bea was sat up, still looking woozy.
 	"Hey, Bea. How you feeling?" Connor asked.
@@ -14110,44 +14110,56 @@ SCENE
 	A petrified young man put his hands up.
 	"Please, take anything you want! Just don't hurt me!" he begged.
 	Connor cursed. "She's not here."
-	"Where the hell could she be?!" Chloe cried out.
-	"Where does Charlie live?" Amy asked.
+	"Where the hell could she be?!" Chloe cried out. 
+	"Where does Charlie live?" asked Amy.
 	"No idea. I assumed she meant this flat, but she could have meant any 'Flat 231' in the city." Chloe sighed.
 	"She didn't mention any other address?" Connor tilted his head.
 	"No... oh god, maybe Charlie got the phone..." she rubbed her temples.
 	Connor gently grabbed her shoulders, shaking her out of her stupor.
 	"We'll find her, Chloe. I promise." he vowed. She nodded.
 	"Where else could he live?" Amy pondered.
+	"Um..." the young man stammered.
+	"Sorry - we're going." Trey sighed, as they left.
 	Connor's eyes lit up. "I have an idea."
-	The gang rushed to Bea's flat. Connor let Sparky rush in first, and get a good smell of the place.
-	"What are you doing?" Chloe asked.
-	"Letting him get a sniff. Then, we can use him to track her down." Connor explained.
-	"Connor... that won't work. You need to train a dog before they can act as a scenthound." Chloe sighed.
-	"Just... watch." Connor smiled softly. Sparky came back out.
-	"Got it. Let's get to street level, I'll see if I can find her." he yapped. Connor nodded.
-	The gang followed Sparky to outside the block. He sniffed the air frantically, darting his nose in different directions.
-	He looked at Connor. "What do you reckon? Westwards?"
-	Connor sniffed the air, and nodded. Chloe and Trey looked at him with confused expressions.
-	"Can... Can *you* smell her?" Trey asked.
-	Amy stifled a chuckle, knowing full well he probably *could.*
-	"Um... No. I'm just trying to encourage him." he said, blushing.
-	"No time for chit-chat!" Sparky barked, before rushing west. The gang ran after him.
-	Finally, they arrived outside another block - Royal Oaks.
+	He pulled out his phone. "Give me a minute - I'm gonna call a friend."
+	He stepped outside, and put his phone back in his pocket. He tapped his earpiece, and took a deep breath.
+	"Team, this is Connor." he whispered. "Our friend Bea has been kidnapped, and is being held captive at her boyfriend's home. We need an address right away."
+	"I'm here." Shannon answered.
+	"Me too." Ivan added.
+	"Alright - Ivan, I've just texted you. I need you to run a signal triangulation on this number. Get me their rough location. Shannon - how fast can you break into the university network?"
+	"I'm looking at their web server now - great minds think alike. What's his name?"
+	"Charlie. Charlie Thorne. Uh--Charles, technically."
+	"I'm on it. It'll take a while though - there's a lot of old SQL servers on their network. I'll have to check each one for the right database."
+	"Alright, you do that. Ivan, any update?"
+	"East of your position. As I zero in, I'll keep you posted."
+	"Got it. Talk soon."
+	He rushed back to his friends. "I've got a rough trace - the general direction. Follow me - the trace will close in slowly."
+	Chloe went to question it, but shook her head, Gift horse, and all that. The gang rushed out, heading eastwards.
 
-Searching the flats
-______________________________
-SCENE
-	The gang entered Royal Oaks. The receptionist - a middle-aged man with a grumpy expression - stood.
+	"Alright, sorry bratan - I can't get any clearer than that. You're in the neighbourhood." Ivan explained.
+	"There's loads of apartment blocks on this street..." Connor sighed.
+	"What should we do? Split up?" Chloe asked.
+	"No - no one confronts him alone." Trey shook his head. "We go through each block, I suppose."
+	"Wait..." Amy tilted her head. "Chloe - does Charlie rent privately?"
+	"I--Yeah, I'm pretty sure he was bragging about it a while back." she nodded.
+	"Shannon - did you get that?" Connor asked.
+	"Yep, on it - Royal Oaks, flat 231. That's your block."
+	"Royal Oaks! On me!" Connor barked. They rushed into the lobby.
+
+	The receptionist - a middle-aged man with a grumpy expression - stood.
 	"Excuse me! No dogs are allowed in here."
 	"Piss off." Connor growled, shoving him out the way and jumping on his computer.
 	"Hey! Get away from that!" he snapped. Connor stared him down, and continued looking.
 	"Yep." he nodded. "He's here. Flat 231."
-	The gang nodded back, and they charged up the stairs.
-	The receptionist pulled out the phone.
+	"I can smell her. She's close." Sparky growled lowly.
+	They charged up the stairs. The receptionist pulled out his phone.
 	"Hello, police?" he began. "A group of chavs have just barged in to our block. I think they're here to cause trouble for one of our tenants."
 	A brief pause.
 	"I don't give a damn about your capacity! Get someone down here, now!"
 
+Searching the flats
+______________________________
+SCENE
 	They made it to Flat 231. Trey banged on the door furiously.
 	"CHARLIE!" he roared. "OPEN UP, YOU FUCKING PRICK!"
 	Connor gently placed his hand on Trey's shoulder. "Perhaps a more direct approach?" he began.
@@ -14158,13 +14170,13 @@ SCENE
 	"What do we do?" Chloe asked, nervously scratching her hands.
 	Connor tensed his hand into a fist, then pulled it away, turning. He tucked his sleeve over it, and spun back around.
 	The glass pane turned into a million tiny fragments, as his fist cleaved through it. He grabbed the handle from the inside, and opened the door.
-	Chloe and Trey gasped, while Amy gave Connor a knowing nod.
+	Chloe gasped, while Amy and Trey gave him a knowing nod.
 	The group barged in. There, Charlie pulled a kitchen knife on them.
-	"Stay back! I'm warning you!" he shouted. Connor wordlessly approached, effortlessly took the knife, and held it up against Charlie's throat.
-	He'd been fighting Super-Agents for months now - a skinny, spoiled brat was nothing to that.
-	"I'm going to ask you this once. Where. Is. Bea?" he snarled, his voice booming deep.
+	"Stay back! I'm warning you!" he shouted. Connor wordlessly approached.
+	"Get BACK!" Charlie roared, slashing outwards. Connor slammed his palms together, catching the knife. He twisted, driving his elbow into Charlie's jaw - then repeated the motion, spinning his head and dizzying him. Finally, he shoved him back, and held the knife up against his throat.
+	"I'm going to ask you this once. *Where. Is. Bea?*" he snarled, his voice booming deep.
 	"She--she's not here." Charlie lied.
-	Bea screamed from upstairs. "I'm up here! Please, help me!"
+	"I'm up here! Please, help me!"
 	Connor turned his face to the others, still holding the blade. "Go. I've got this."
 	Trey and Chloe rushed ahead.
 	Connor locked his gaze onto Charlie. The knife edged closer to his neck.
@@ -14178,7 +14190,7 @@ SCENE
 	Charlie caught his breath. "I... I suggest you all leave."
 	Amy responded by punching him in the face, knocking him to the ground. She hit him again, and again, and again, smearing his nose across his face.
 
-	Upstairs, the three found Bea in the corner, naked, and duct tape wrapped around her feet. She was badly bruised, her nose had been bleeding, and her ankles were cut up and swollen from the bounds. Trey ripped the tape off, his adrenaline fueling his strength.
+	Upstairs, they found Bea in the corner, naked, and duct tape wrapped around her feet. She was badly bruised, her nose had been bleeding, and her ankles were cut up and swollen from the bounds. Trey ripped the tape off, his adrenaline fueling his strength.
 	Bea grabbed onto him, sobbing. He embraced her back. Chloe rushed to her, and held her. 
 	"I'm so sorry..." Bea sobbed.
 	"Don't be." Chloe cried back. "You're okay now. We've got you..."
@@ -14254,16 +14266,17 @@ SCENE
 	"No way. He came at us with a knife - and, well, you would have seen the state Bea was in. He's lying." Trey replied, finding his voice.
 	"He's full of shit. Yes, we hit him - he was attacking us with a knife. It was a clear case of self defence. As for Bea staying voluntarily... I'm not even going to dignify that lie with a response." Amy shook her head, enraged by Charlie's manipulations.
 	"I'm so sick of his lies... Yes, we hit him. I'll proudly own up to kicking his balls. He threatened us with a knife and was holding my best friend against her will - I don't think we acted improperly." Chloe replied, crossing her legs.
-	"The man is a bare-faced liar. Yes, in self defence, I struck him - there was credible threat to life." Connor replied, like a soldier giving a report. He emphasised the word *I* in his description of striking him.
-	"Okay..." Nina sighed.
-	"We saw the door. How'd you smash the window like that?" she asked Connor.
-	"I guess it was adrenaline. You know when you're so scared, you become 10 times stronger?" he answered, nervous. He recognised her now - she was on the Werewolf case. Already investigating him, without knowing it.
+	"The man is a bare-faced liar. Yes, in self defence, I struck him - there was credible threat to life." Connor nodded, like a soldier giving a report. He emphasised the word *I* in his description of striking him.
+
+	"Okay..." Nina sighed. "We saw the door. How'd you smash the window like that?"
+	"I guess it was adrenaline. You know when you're so scared, you become 10 times stronger?" he answered, slightly nervous. The last thing he needed was for the cops to find out from *this.*
 	"And no injuries to your hands?"
 	"I do martial arts - I've got pretty strong knuckles. And I had my sleeve over my hand to stop any cuts to the skin." he quickly explained. Since none of it was technically a lie, he delivered it with confidence.
 	"Right." Nina nodded. "And according to Mr. Thorne, you held the knife up against his throat."
-	"It was heat of the moment. I wasn't going to do anything." he answered.
+	"It was heat of the moment. I wasn't going to do anything."
 	"Of course." Nina smiled. "Okay, that's enough. We'll call you if we have further questions."
-	As Connor left, Nina sat there for a moment. His voice sounded familiar... Then it hit her.
+	As Connor left, Nina sat there for a moment.
+	"Connor..." she sighed.
 
 	With that, the gang regrouped in the police station's lobby. They exchanged words of comfort and smiles.
 	"Thank you, guys... thank you again..." Bea whispered. Chloe hugged her tight.
@@ -14277,7 +14290,7 @@ SCENE
 	They nodded, and went out. Connor returned to the interview room with her.
 	"Sorry..." she said, looking unusually shy. "I need to ask you a favour. I, um... I know you."
 	Connor gulped.
-	"Shit." he thought. "My voice. She must have heard my voice at the Giant's."
+	"Shit." he thought. "My voice. She must have recognised my voice just like Shannon did."
 	"It's about my sister Yasmin..." she began. At the mention of her name, Connor cringed slightly, while also relaxing - it was a painful memory, but it wasn't *that.*
 	"I thought I recognised you..." he sighed.
 	"I know... I know things didn't end well between the pair of you. But, well... frankly, you might be the only person who can help her. I need to ask you off the record." she tugged at her collar slightly. "You know about her son, Jack?"
@@ -14288,9 +14301,6 @@ SCENE
 	"I'll say. He slept with someone else's girlfriend." Connor replied grimly.
 	"I know... I know this is a lot to ask. But I'm desperate here." she pleaded. "Can you at least check up on her?"
 	Connor sighed. He thought to himself for a moment.
-	"I don't care." he said to himself.
-	"Yes I do." he admitted.
-	Regardless of her, there was a kid involved. He can't let that slide.
 	"I'll do it." he finally spoke.
 	Nina exhaled in relief, and let him leave.
 	Connor went on his phone. He found Yaz's number, and unblocked her.
@@ -14361,6 +14371,18 @@ SCENE
 	"Thank you..." Chloe said at last.
 	"No... Thank you. I'm so happy you feel like you can express yourself, even just a wee bit more." he replied.
 	"We'd better go check on Bea." Chloe said. Connor nodded in agreement - whatever feelings they may have had for each other, they could address those later. Bea needed them right now. They went back inside, and the group formed a hug around Bea.
+	Then came a knock to the door.
+	"I'll get it." Connor smiled, rising.
+	"Hey, I--Sorry, I didn't wanna intrude..." Shannon began. "Just, you weren't answering your phone, I wasn't sure if everything was okay--"
+	"Hey, Shannon." Connor smiled.
+	Bea rose, and smiled warmly. "You found out where I was, didn't you?"
+	"I--yeah, that was me." she nodded shyly.
+	Bea walked over, and wrapped her in an embrace. "Thank you... thank you so much."
+	Shannon smiled, and returned the hug. "I, uh--anyway, I was just passing by, so I'll leave you guys to it."
+	"You can stay." Bea nodded. "What I need right now is my friends - and you're definitely one now."
+	She smiled shyly, and came in. As the gang began bantering once more, just like usual, Bea let out a big smile.
+	She was safe. She was with her friends.
+	She was home.
 
 Denouement at Bea's
 ______________________________

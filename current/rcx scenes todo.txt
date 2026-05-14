@@ -9,9 +9,6 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 volume 2 big changes:
 
-	during the charlie chapter, have connor call ivan and shannon when they realise they have the wrong flat; he says to shan "our friend is being held captive in someone else's house; how quickly could you hack the university network and find a list of student addresses?"; then while she does that he tasks ivan with triangulating Charlie's number. Ivan begins, and it's east of their position; connor leads the gang towards it. shannon explains the system is very outdated; there's several SQL servers that run very slowly due to data buildup, so it'll take time for her to find the right database. Ivan narrows it down to a block, but can't get any closer than that. Connor asks Chloe if he lives in student accomodation or private rent; she says she's pretty sure it's private. Connor tells shan that, and she tracks him down to royal oaks, and the scene plays out as normal
-	in the aftermath, have chloe say she saw the look in his eyes when he held charlie at knifepoint. he looks away guiltily, but she explains she wanted him to kill him - but was glad he didn't. after she traumadumps, she smiles and says she knows they've only known each other for a few months, but he's one of her best friends, and she trusts him
-
 	replace the blackmarsh filler with the Stunlocke origin; foreshadow it by connor complaining about the patriots getting worse, and he's struggling to find time to fight them, Paladin, and still have a semblance of a social life
 	replace bridge collapse with connor taking amy on a raid
 	add Whiplash to the bus fight
@@ -27,12 +24,6 @@ volume 2 big changes:
 	during the argument, chloe asks if amy knows, and connor admits she does. she then says "who else? who else knew my boyfriend was a superhero before me?!" and connor admits that his team knows, as well as trey.
 	while connor heads out to rescue naismith, amy sits with chloe. she gets her a glass of vodka, and reveals she's stunlocke. chloe chuckles mirthlessly and asks if trey's a superhero too, and amy snarks "that fucking loser?"; the two then have a heart-to-heart about it; later, after she and connor get into morland, they bring the devices back to the wolfcave; connor, sparky, and amy head out on patrol while chloe, shan, and trey work on the devices and have a catch up
 
-
-
-
-prison arc beats:
-	have a scene where the gang are headed to the group showers. they opt to let shan shower first for privacy, but then a bunch of other inmates walk in and start leering. the gang beat them all up, and leave shan to shower in peace
-	connor runs into a few of his previous thugs - maybe he's sitting with vince or trey, pointing them out
 
 
 

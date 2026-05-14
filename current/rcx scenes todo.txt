@@ -31,15 +31,8 @@ volume 2 big changes:
 
 
 prison arc beats:
-	the cops raid connor's house; tense moment when they find the panic room, but it's empty. later reveal when Sparky goes missing where Amy goes into DF, revealing that she stashed his stuff in Dynamite Fitness's basement (this later becomes the wolfcave)
-
-	change up Shan's knowing scene; have her clock Connor's voice in the initial meetup; then have Trey pull Connor aside and ask why he seemed awkward around her; then have him say "you remember i told you our team has a new hacker" andd trey goes "oh. Oh... does she know?" "i don't think so"; then she comes over and says "uh, trey, tommy said he needed to talk about... uh, something"; trey leaves and she goes "hey... boss."; he worries his secret is too obvious, she points out that he uses his real voice around her; connor beckons trey over and then flashes his eyes red; he goes "well, i would've done introductions, but seems you've already met"; then connor says he could break them out but both tell him not to as that would expose his secret. they agree to hang on until they can find a better plan
 	have a scene where the gang are headed to the group showers. they opt to let shan shower first for privacy, but then a bunch of other inmates walk in and start leering. the gang beat them all up, and leave shan to shower in peace
 	connor runs into a few of his previous thugs - maybe he's sitting with vince or trey, pointing them out
-	when ivan shows up, rather than handing over chloroform, he gives him a map/schematics of the prison, including the cctv room and access to the roof; connor takes down the guard in the cctv room by choking and then punching; shan asks if he'll teach her to do that, he says "pull this hack off and I'll do anything you like." <beat> "Within reason, I mean" and she smirks
-	after the breakout, they are interrogating Wilkinson (whose name Shan found in a laptop seized from the 'livestock pens') instead of Dorsey. There, they get concrete proof that Dorsey is involved, and Connor kills Wilkinson. After Dorsey launches his coup, Connor delivers the evidence to zack. dorsey bunkers down in the station, but connor gets the green light from ivan that he can kill him without MI5 repurcussions; connor beseiges the station, and kills dorsey at his place
-
-	during the dorsey coup, have him deputise Gambit; have ivan, whiplash, and sparky raid their arms depot while Stunlocke has her outing (have the giant be there still)
 
 
 
@@ -60,13 +53,14 @@ new stuff from the eidolon raid
 
 
 
-during the first stunlocke outing (during the prison arc), have Whiplash attack Amy right after, using a lasso to hang her, only for ivan to shoot her free an unmask her. he reveals to whiplash that this is connor's sister, then tells her to put the suit back and never wear it again, as connor would never forgive himself if she got hurt. she jokingly bargains that she won't tell connor that whiplash tried to kill her if they don't tell him she was wearing the suit
-
-
-
 more superhero-y plot moments:
 	the 'wolfcave' (name pending) - include loads of gadgets and gizmos
 		consider having it not in connor's place, but in a separate safehouse, or even underground
+		Have it in the repair shop. Ivan sets up a holding company in Connor's name, Riverside Holdings, which buys up the lot.
+			have connor explain when they escape there that after vince got nicked, the lot owner hasn't managed to find another tenant, so the lot is vacant. have them siphoning electricity off of the neighbours - have connor reveal he sorted that for vince, which is what convinced him to get him working at A&O
+			The Wolfcave is established in the basement here
+			Have them hide in A&O rather than Dynamite
+			Change the name from A&O to Riverside Repairs
 
 	plot point where a new drug is being sold, derived from paradrenaline
 		connor discovers that Eidolon are making a stimulant based on it
@@ -120,9 +114,6 @@ Connor meets Whiplash some time post-prison; she's using a bow and arrow now, wh
 
 
 
-replace the Connor confronting Vitale with a cold open on volume 2 of Connor stopping some crooks new years night
-
-
 
 
 new powers as the plot demands!
@@ -159,6 +150,9 @@ odessa/optimates lore: different mook types:
 	Fiend - Hound in powersuit
 	Transcendant - Moxidar-level mutates
 
+
+
+Bevan and Connor don't work for MI5 - they work for MI0 - rather, Military Intelligence Directorate Section Nil; or "Section Zero"
 
 
 
@@ -452,7 +446,7 @@ for post-Oliver's funeral - have Chloe feeling pent up
 			"Yes! Yes, that's all that happened."
 			"Good. Now, men in our line of work... we like to couch our words. Be ambiguous. But let me be very, very clear, Jason. If you go around telling people something else happened tonight... I will cut out your lying tongue, pluck out your mangled eyes, slice off your balls with a red-hot knife, and drive a drill through your kneecaps. Do I make myself clear to you?"
 			"Yes! Oh god, please!"
-			"I don't know... maybe I should take your vocal chords, just to make sure you don't lie about this. Or maybe your eyeballs - they're alreay fucked. Or maybe your balls - just to be funny."
+			"I don't know... maybe I should take your vocal chords, just to make sure you don't lie about this. Or maybe your eyes - they're alreay fucked. Or maybe your balls - just to be funny."
 			"I won't talk! I swear!"
 			"What happened tonight?" he asks, revealing a hammer and resting it on his kneecaps
 			"I-I was pissing around with my knife, and stabbed myself and fell over! That's all!"
@@ -708,10 +702,6 @@ add a bit more humour; jokes include:
 		"Pronouns like a coughing butler: He/him"
 	sparky playing poker - he always loses because he wags his tail when he gets a good hand
 		maybe have this gag come in before the gang play a game together?
-	trey and connor playing DnD
-		"Roll for charisma." "Nat 1." "You, uh... you try to speak, only for increasing amounts of vomit to exit your mouth."
-		"Roll for perception." "Nat 1." "You think, maybe, possibly, you're in a room."/"Try as you might, you fail to open your eyes."
-		Alt: "Nat 20." "You look up, and see two gigantic monsters playing with a 20-sided dice. They narrate your internal thought process. You go to scream, but realise you have no mouth. Mercifully, the monster with the larger stack of papers wipes this from your memories, and instead lists the item's stats."
 	"Goth night" - emo/goth night at a local club - the girls show up in cool emo costumes, the boys show up as Visigoths
 		"Oh yeah, let's go kill some ROMANS--" says one of them, putting on their helmet as they spot the girls as a visual gag
 		One of the sensible ones asks which one thought this would be funny, and both say "he did" and point
@@ -723,22 +713,55 @@ add a bit more humour; jokes include:
 Have more downtime with other characters post-reveals.
 	Overall, have the gang see more of Connor's powers in non-fight settings. Have him lift stuff for them, spot things in the faraway, etc
 
-Add more interaction between Missy and the girls
-
-Add a *lot* more interactions for Anna - at time of writing, Naismith has more mentions than her
-
-Add some stuff for Bea too, but that'll come under the Charlie storyline
-	Really, try to add to Charlie's manipulations - Bea's a confident, feministic girl, you need to justify why she'd fall for his crap
-	Also, give her some depth outside of Charlie - don't let Bea become the Abused Girl
 
 
-remove the chloe+bea chat about Connor post-discomfort - it's Chloe's first day back at uni, she's got more pressing things than boys to talk about.
+New chapter for post-Adept: The Greatest Fear episode
+	After returning from a raid, the squad (for this episode, made of connor, sparky, judge, and whiplash) go to crash out on the sofas; however they find themselves locked in horrible, unwaking night terrors.
+	Chloe and Bea (as Adept and Stunlocke II) investigate, and determine it to be psychic in origin. However, Chloe passes out in exhaustion, and wakes up comfy in her bed.
+		She panics, but Connor is stood by the bedside and reassures her that it's okay, he's here. she says she's having a nightmare, but he explains that it's over now - while she was asleep, Bea found the device that MKUltra were using, and busted it. No one can remember their nightmares. She's unconvinced, but Connor kisses her and asks "does it still feel like a nightmare?"
+		she shrugs, smiles, and goes downstairs. notlong after though, she has a seizure
+		upon coming to, she's in a hospital bed. connor is talking to a doctor. she asks what's up
+		he explains that her psychic powers are messing with her VS, making her seizures more frequent. worse, she gets a spike of paradrenaline each time she seizes, and it gets worse each time. eventually, she's gonna have a stroke and die.
+		he tearfully says he can't do this - he's got the world to worry about, and can't sit here wasting away watching her die. she cries as he leaves, and sobs "you can't do this.... wait... you *wouldn't* do this."
+		from that, she clocks it's the nightmare, and wakes herself up the only way she knows - jumping out of a window. she darts awake, with bea by her side. it turns out, this phenomena is only affecting Espers. then, she plans to mind-merge each sleeper and help them out
+
+	first, she goes to rescue whiplash	
+		Whiplash's nightmare is being forced by MKUltra to kill over and over again. when meeting Chloe, she howls in guilt as she tries to attack. chloe quips that she has no idea what'll happen if an Esper kills her in a dream, and so blasts her back before getting her to talk.
+		Whiplash tearfully admits what happened, showing a flashback - MKUltra reused her control codes, and had her slaughter her friends - none of whom fought back.
+		Chloe gets her to snap out by pointing out that when this happened before with Amy (in the incident that let Sparky talk), she hesitated and ultimately broke free. the old her was a killer, but who she was now would never betray her friends like this. "MKUltra took your past. Don't let them take your future, too!"
+		Whiplash finally calms down, and wakes up
+
+	Next, the Judge
+		The Judge's nightmare has them being tormented by demons for their apostasy - turns out the Great One was real, and they're being punished for heresy.
+		Chloe and Whiplash reassure them by reminding them of the reasons for their turn - that the Great One lied. But Judge cries out that clearly, given their torment now, it was all true - it was a test of faith, and they failed
+		Chloe realises what to say. She points out all the Judge has done since becoming a good guy - all the lives they saved, all the justice they've brought. They ponder, and agree that any god that would send them to hell for such deeds is no Great One at all - and fight back, killing the demons. They all wake up
+
+	Next, Sparky
+		Sparky's nightmare has him gradually become unable to communicate - first losing it with everyone but fellow Espers, and then altogether. He gets captured by Randall, unable to cry out for help, and thrown back in the cage.
+		Chloe reassures him by crawling into his cage and cuddling him, before reminding him that even when she couldn't understand him, she still loved him and would never abandon him - and neither would any of his friends. With that, he pictures them rescuing him, and wakes up
+
+	Finally, Connor
+		Connor's nightmare has the Optimates win, killing everyone he loves - and he has no choice but to crush them as a tyrant. After a devastating nuclear war, he rules over the last remnants of humanity with an iron fist - his own Super-Agents policing harshly the mortals.
+		Upon seeing the gang, he breaks down in tears, ashamed at what he'd done. They try to tell him it's okay, but he freaks out, ordering his agents to take them away. They're all dragged to cells while the mad king rants and raves.
+		Eventually, he approaches Chloe, and asks how she can be alive. She tells him it's a nightmare, and he replies "Of course. My whole life is a nightmare! Ever since I lost you all! Me! The son of a tyrant! Who killed his own mother with his first breath! *ME!*"
+		She speaks softly, and asks if there was another way. He tries to excuse his crimes, but admits there was. He could've tried to rebuilt, but let himself be consumed by vengeance
+		Then she smiles. "That's how you know. Because I know you - and if there was any other way, you'd've picked it."
+		He says it's too late. She reaches out, holding his hand.
+		"It's not too late. It's never too late. You can still unlock this cell, and make things right."
+		"If I do that... then everyone I've killed... all that I've done... will have been for nothing."
+		"If there's another way... it was already for nothing. So make up for it. Get up of your sorry arse, and make things right."
+		He hesitates, but finally opens the cell, and wakes up
 
 
 have a scene where chloe is sick and connor frets over her, causing her to snap that she doesn't need him coddling her
 
 
-have Trey be shot by Abiatti's men - this is the start of the Progeny reveal
+exchange for when chloe is tinkering with the MKUltra artifact that eventually creates Adept
+	"It's some kind of psionic processor... it uses computation to charge and manipulate psychic energy."
+	"Not to be cliche, but remember how you're the brains, and I'm the brawn?"
+	"it's a magic computer that can cast spells."
+	"thanks, honey."
+
 
 
 Have a good long think about the Inspos of the story.

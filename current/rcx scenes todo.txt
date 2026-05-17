@@ -1,5 +1,7 @@
 todo
 
+NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final product
+
 !!!
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
@@ -8,6 +10,10 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 volume 2 big changes:
+	replace first date from tennis to arcade
+	remove truth or dare - find a more simple way for the gang to run the setup
+	have shannon involved more in group outings from post-charlie onwards
+
 
 	replace the blackmarsh filler with the Stunlocke origin; foreshadow it by connor complaining about the patriots getting worse, and he's struggling to find time to fight them, Paladin, and still have a semblance of a social life
 	replace bridge collapse with connor taking amy on a raid
@@ -23,8 +29,19 @@ volume 2 big changes:
 	amy changes out of her powersuit and, when chloe gets back from the cops, she gives them some privacy.
 	during the argument, chloe asks if amy knows, and connor admits she does. she then says "who else? who else knew my boyfriend was a superhero before me?!" and connor admits that his team knows, as well as trey.
 	while connor heads out to rescue naismith, amy sits with chloe. she gets her a glass of vodka, and reveals she's stunlocke. chloe chuckles mirthlessly and asks if trey's a superhero too, and amy snarks "that fucking loser?"; the two then have a heart-to-heart about it; later, after she and connor get into morland, they bring the devices back to the wolfcave; connor, sparky, and amy head out on patrol while chloe, shan, and trey work on the devices and have a catch up
+	move the junior fight to belson
+		have amy be at uni with the girls for an open day
+		they grab some e-scooters to get to Connor's, planning on using the flyover since it's not reopened yet
+		Amy steals an e-scooter off someone, while the others get one from the stand
 
 
+
+
+
+scene where whiplash fails a mission, and returns terrified and timid
+	flinching at everything
+	connor initially snarks upon her report that history sshows she'll join them, and she's trembling
+	he then reassures her, and they reattempt the mission together, showing her she's with a new family now
 
 
 
@@ -62,6 +79,10 @@ more superhero-y plot moments:
 		The Skulls have a monopoly on the drug, which they use to take over London's gang scene - only Drackhill is truly safe thanks to Connor
 		Skull Toxin is invariably fatal upon withdrawal. The only treatment is either true super-serum, or healing serum - both of which are in short supply. Taking down Skull goons typically has them locked up in the Institute, with Chloe trying to find a cure
 
+
+	friendly neighbourhood werewolf moments:
+		a guy drops his engagement ring down a drain - connor swoops in and uses strength and senses to get it back
+
 	Connor starts going after one-percenters, especially Eidolon and Paladin clients
 
 
@@ -98,13 +119,6 @@ set up a catacomb/storm drain network underneath the city; have the hideout be c
 
 
 
-new plot points:
-Connor meets Whiplash some time post-prison; she's using a bow and arrow now, which inspires him to use crossbows
-	have whiplash show up again in one of Stunlocke's outings - Whiplash attacks her because she thinks she's a Crusader
-	Have Whiplash show up in the now-Belson fight - she can't cause any damage and Connor has her help the evac with naismith - she gets hurt midway through and crawls to safety, but before passing out, uses her powers to reduce the collapsing building impact, saving connor
-
-
-
 
 
 new powers as the plot demands!
@@ -129,7 +143,7 @@ new powers as the plot demands!
 	sound funnel
 		don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
 
-odessa/optimates lore: different mook types:
+optimates lore: different mook types:
 	super-agent - basic serum user
 	crusader - agent with power armour
 	fenrir - serum-infused canid
@@ -161,12 +175,6 @@ when Ivan shows Connor the panic room, have Connor ask him to look into Amy's fa
 have Amy at some point express wistfullness about her origins
 
 
-
-
-move the junior fight to belson
-	have amy be at uni with the girls for an open day
-	they grab some e-scooters to get to Connor's, planning on using the flyover since it's not reopened yet
-	Amy steals an e-scooter off someone, while the others get one from the stand
 
 
 
@@ -279,10 +287,6 @@ new subplot!
 	when Amy becomes a Werewolf, she hangs up the Stunlocke suit. Then, during a crisis that calls for all hands on deck, Bea dons the suit, becoming Stunlocke II
 	think about this more - but during the Locke and Key arc, have Bea and Amy fall in love
 
-
-
-friendly neighbourhood werewolf moments:
-	a guy drops his engagement ring down a drain - connor swoops in and uses strength and senses to get it back
 
 
 
@@ -490,7 +494,7 @@ Meet Ivan's crew:
 
 Rudi Pavlovich, Roman Polanski expy - have him hiding out in Austria, and Connor is tasked with killing him - he uncovers a connection to American businessman, Julian Kessler - Hughes's boss. Connor reveals this to the authorities, and he winds up dead in his cell - sparling a "Kessler didn't kill himself" meme
 	US Presidential candidate Duncan Fischer (Trump expy) tries to ride a QAnon wave, claiming he will "Release the Kessler files"
-	Fischer is backed by ODESSA in secret, as well as the Optimates.
+	Fischer is backed by optimates in secret, as well as the Optimates.
 	He, like Trump, runs a breakneck policy tornado, but receives criticism when it comes out that he was connected to Kessler (as well as being an obvious sleazebag)
 	Impeachment attempts fail, so Connor teams up with Whisper to get his hands on the Kessler files by attending a fashion show in Italy, organised by fashion mogul Leonard Wickner (Wexner expy).
 	He kills Wickner by sedating him, then hanging him from the rafters above the runway - Whisper steals the files in the chaos
@@ -551,10 +555,10 @@ have DC get nuked
 	
 
 	Timeline for DC Collapse:
-		1. ODESSA attacks the Wickermast Nuclear Power Plant. There are several explosives planted, and they've caused radioactive leaking throughout the facility. Connor has to fight without his healing factor, before stopping the explosives and ending the meltdown. He passes out and is rescued
+		1. Paladin attacks the Wickermast Nuclear Power Plant. There are several explosives planted, and they've caused radioactive leaking throughout the facility. Connor has to fight without his healing factor, before stopping the explosives and ending the meltdown. He passes out and is rescued
 		2. When he wakes up, he learns that a reactor in Turkey had a similar meltdown, and suspects the two are connected.
 		3. Later, he learns that the attack was just a ruse for them to steal enriched uranium. He begins tracking the shipment, eventually tracking it to Virginia.
-		4. Finally, a chance discovery leads them to learn that ODESSA has planted a bomb in the Pentagon during the SOTU. He rushes over, and then Ivan reports that an order to "Activate operation Brumaire." has come through, and several Super-Agent squads are assaulting key locations in and around DC - namely, the Pentagon, the White House, the Capitol, the Supreme Court, and Langley. One such squadron assaults the bomb squad working on disarming the Pentagon bomb. Connor questions what he should do - lead an evacuation of the Capitol, or save the bomb squad. He's ordered to save the bomb squad, the reasoning being that the other sites are all in lockdown, and he can rescue them once the bomb is defused. He does so.
+		4. Finally, a chance discovery leads them to learn that Paladin has planted a bomb in the Pentagon during the SOTU. He rushes over, and then Ivan reports that an order to "Activate operation Brumaire." has come through, and several Super-Agent squads are assaulting key locations in and around DC - namely, the Pentagon, the White House, the Capitol, the Supreme Court, and Langley. One such squadron assaults the bomb squad working on disarming the Pentagon bomb. Connor questions what he should do - lead an evacuation of the Capitol, or save the bomb squad. He's ordered to save the bomb squad, the reasoning being that the other sites are all in lockdown, and he can rescue them once the bomb is defused. He does so.
 		5. The Pentagon is in fact under seige by 5 squadrons. Connor takes on the one assualting the bomb section. He finally kills them as the bomb is defused, with only minutes to spare. He then goes and mops up the other 4 squadrons, and receives a call from the Captain, that goes like this:
 			Captain: "Impressive, Connor. Tell me, how long do you plan to waste your time protecting these insects?"
 			Connor: "I should thank you."
@@ -794,30 +798,9 @@ Have a good long think about the Inspos of the story.
 
 
 
-Valentines date
-	connor is delayed by heroics
-	they discuss the moment they realised they liked each other
-		for connor, it was when she helped him after mercer
-		for chloe, she had the epiphany during christmas
-	asking chloe when she figured out his identity
-		she most likely clocked it during the morland raid, or; during their sparring session afterwards
-	asking chloe what she was saving for
-	have connor worry about being immortal, she reassures that it's not something they have to worry about yet
-	have her ask him what he wants to do once ODESSA is gone
-		first, he jokes that he'd crown himself king of earth. Then, he talks about retiring.
-		She points out that there's no way he'd retire when there are still wars on. He agrees, but worries that interfering in human affairs would be an abuse of his power. She counters that he's still a person, and thus has a right to
-		Then, he notes that even if he takes down ODESSA, there'll always be a risk of super-agents coming back - all someone needs is a pound of his flesh, and they can make an army. She nods, and grimly notes that they could even make another one of his caliber. She then theorises what could be the cause of Connor's power;
-			A) he was given a much higher dose than normal. Against the odds, he survived
-			B) Connor is somehow uniquely genetically compatible with the serum, allowing him to take its transformation much further
-			C) For some reason, ODESSA can create super-supers like Connor, but choose not to
 dr rosenbaum seeks connor's help with serum rejection patients
 chloe's grandad has stroke
-connor fights a Behemoth - decides to start training
 connor and chloe go horseriding
-have the thompson kill end in major shakeups in glasgow - push valentine's back a week or so
-naismith clashes with morland
-have trey find out sooner
-zhou meets up with rawlings - stinger
 zhou 'stalking' anna
 arcade
 	have chloe not show up - studying as she's behind on coursework
@@ -842,12 +825,6 @@ have a fight between connor and captain
 				when she returned to Derry, she realised she was pregnant, causing Eamon to kick her out and cut ties with the CDF
 				Lorna moved to Drackhill to stay with Vince, and gave birth to Connor a few months later
 				Captain disappeared after this
-have the campbell informant betray connor
-	have a Hound attack Connor and cause collateral damage
-	cause this to drive Connor into a revenge-driven spiral
-		conclude the vengeance arc with connor sacrificing a chance at vengeance in order to save people
-			then, have him swap the unhealthy motive of vengeance with the healthier motive of "stop them from hurting others like they hurt me"
-
 
 
 For the finale, two options:
@@ -857,11 +834,25 @@ For the finale, two options:
 		pros: chloe has more agency, takes a more active role in the story
 
 
-emotional beats:
-	during the captain-connor fight(s), have captain confused as to why connor chooses to do good
-		something like:
-			"you have all this power, why do you help people"
-			"because i want to"
+
+spinoff series:
+	Two Man Army
+		Buddy-comic with Ivan and Blitz, initially focused on liberating Eurasia; later has them traveling the globe on behalf of Riverside
+			you may question why a communist loyalist commissar with a jovial nature and a more mundane combat style might get on so well with an American gun-for-hire who's always brooding and fights with gimmicks; well they have more in common than you think:
+				both massive gun nuts
+				both have a strong sense of honour and professionalism
+				both are older soldiers who are used to more mundane war, now thrust into a sci-fi superhorror
+				both reject nation and country, fighting instead for their own ideals
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -913,11 +904,19 @@ multiverse arc! different AUs:
 
 
 
-At some point in War of the Beast, an arc where Connor is Infested, weakening him. He takes the codename Ranger, deploying solo after the Cult while the heavy hitters keep on at the Hives.
-	Ranger is essentially Deathstroke - Machetes, akimbo pistols, et cetera.
-	Connor can't keep using his Active Powers (no armour, no Reflex Mode, no Super-Vision, no Rage), but can still use his passive powers at reduced capacity. 
-	Consider having the Ranger persona be developed aside from the Riverside Squad, who think he's dead (needs justifying)
-	Eventually, the parasite infesting him matures and births itself. He regenerates, becoming Werewolf again, while the parasite, a Mutarch Host with Moxidar powers, is disconnected from the Hive Mind as a result of the anti-magic that Moxidari have. Connor adopts it as his son. Like Oliver Grayson, it grows up fast. They call him Xerxes.
+Malignant arc
+	Connor somehow gets cancer, likely an optimates bioweapon that turns his healing factor against him
+	he slowly weakens and loses his powers, but forces himself to  still fight
+	tearjerker scene - chloe is examining him, and looks away to cry silently. he hugs her, and says "It's okay... you're allowed to be hurt by this, too." and they sob together
+	eventually, connor realises his time is up - so he od's on skull toxin, and goes to fight the commandant. the fight is brutal. The commandant holds him, about to kill him - but looks into his steel grey eyes, and instead leaves him to die, ordering an airstrike on their position (ideally on the sea somehow)
+	after the explosions, connor's lifeless, burned body sinks beneath the waves
+	next volume is all about the heroes coming to terms with connor's death
+	much later, a big all-hero battle against the commandant. neumann/mastermind shows up to the rescue, putting aside his differences with riverside for the greater good. still, the commandant seems unstoppable, until another supe dives into the fray. it is humanoid, but sprouts bloody tendrils in mere moments. It fights, holding off the commandant long enough for heavy artillery to arrive, shelling the commandant's army and ensuring he cannot conquer his target. he retreats in fury
+	the fleshy mutant catches its breath, and takes off its mask. gasp - it's connor! but amnesiac
+	quickly becomes apparent after tests that in fact, connor is in a coma - his body is being puppeteered by his cancer, which has through mind-merging by accident with him, became a sapient force for good.
+	debates on what to do rage, but Mal approaches, and settles it by saying that connor clearly means a lot to a lot of people, and they have no inherent right to use him as a host (yes this is a metaphor for abortion gtfo)
+	the operation is tense, but they manage to extract most of Mal, and restart Connor's cancer supression to clear the rest. Mal, now a formless ball of semisolid flesh, discovers they are so biologically developed that they can survive without a host; they shift into their new form, a horrifying blob monster, and resolve to join riverside
+	when connor wakes up, chloe briefs him on everything he missed. he embraces her, sobbing about leaving her, and she cries, but says it was okay - he's back now, and they have work to do
 
 
 

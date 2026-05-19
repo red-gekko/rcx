@@ -10,17 +10,14 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 volume 2 big changes:
-	replace first date from tennis to arcade
-	remove truth or dare - find a more simple way for the gang to run the setup
 	have shannon involved more in group outings from post-charlie onwards
 
-
-	replace the blackmarsh filler with the Stunlocke origin; foreshadow it by connor complaining about the patriots getting worse, and he's struggling to find time to fight them, Paladin, and still have a semblance of a social life
 	replace bridge collapse with connor taking amy on a raid
+	replace first date from tennis to arcade
 	add Whiplash to the bus fight
 	in the murillo chapter, have whiplash captured by "sniffers" from MKUltra; she uses a tracking device Connor gave her to make a distress call (have him give this to her beforehand; preferably when showing her the wolfcave); ivan, sparky, and amy go to rescue her. they reveal they've used a brainwashing device, and the gang have to subdue her; eventually sparky is able to grapple her and the two accidentally mind-merge; this overwhelms the device, causing a psychic shockwave that knocks her and sparky out cold; 
 	when connor returns he stumbles into the wolfcave injured, and finds whiplash and sparky recovering. amy explains what happened
-	after this, have both whiplash and sparky find their psionics more powerful; whiplash is now capable of outright airbending, while Sparky can now communicate with other people, to his joy. connor explains he still needs to limit who he speaks to, but anyone who knows is fair game, as are random people he meets on mission. he gladly accepts, and immediately decides he's going to freak out Trey with it, to connor and amy's amusement
+	after this, have both whiplash and sparky find their psionics more powerful; whiplash is now capable of outright airbending (actually, she can now manipulate any fluid since they're already in motion, though air is by far easier than water), while Sparky can now communicate with other people, to his joy. connor explains he still needs to limit who he speaks to, but anyone who knows is fair game, as are random people he meets on mission. he gladly accepts, and immediately decides he's going to freak out Trey with it, to connor and amy's amusement
 		(this also neatly foreshadows the Adept subplot when Chloe gets powers)
 		(have sparky now talk to chloe and bea when they learn the truth; whenever he speaks to people they're still lying to, have him bark instead)
 		(might be dumb, but consider changing Whiplash to Windblast after these powers set in and she rejects MKUltra's identity. this also handily helps with any marvel lawsuits lol)
@@ -93,21 +90,6 @@ SCENE
 
 These snippets of stuff from Morland discoveries:
 
-	Meanwhile in Belson, Chloe made a grand discovery.
-	She peered into a sample of the Werewolf's blood through a microscope.
-	"Jones. Jones!" she shouted. Her supervisor rushed over.
-	"Look here! Can you see what I'm seeing?"
-	He looked in, and squinted for a good while.
-	"Oh my god. That's not..."
-	"It is." she nodded.
-	"We'd better tell the boss."
-
-	Up in Morland's office, the two scientists began their presentation.
-	"We've found out what it is about the super-serum that makes people, well, super." Jones began.
-	"I'm listening." Morland asked.
-	"These cells here--" Chloe pointed to the board, "--are part of the Werewolf's immune system. They appear to be crucial in his repair and regeneration system - hence why we've heard reports of people being injected with the serum and healing old injuries. But the marvelous thing is how they work... They're smart. As in, they connect to the nervous system directly. They use the brain as a command centre for their repairs. When injected into a living host, they take orders from the brain. They look at the host's DNA, and assume their body has suffered severe damage to its DNA and physiology - so they get to work, trying to 'fix the damage.' Other, 'natural' brains don't have the ability the Werewolf does to direct them properly, meaning they can only do their best - but that seems to be enough, if creatures like the Giant are any indication."
-	Morland grinned devilishly. "Excellent. Begin animal testing right away."
-	"Of course, sir." Jones nodded. Chloe stifled a gasp, but steeled herself.
 
 
 
@@ -181,6 +163,10 @@ more superhero-y plot moments:
 
 	plot point where a new drug is being sold, derived from paradrenaline
 		connor discovers that Eidolon are making a stimulant based on it
+
+	pretty cool takedown moment:
+		Sneak up, perform rear naked choke, then release before the KO so they stumble forward; then grab them as they fall and yank backwards; then intercept their second fall with a strike to the side of the head; then crouch down so they land on top of you to lift them on your shoulders; then either slam to the ground to fully KO, or carry them to a desired location
+		Grab the shoulders, spin hard, and send a haymaker the other way, using vertigo to KO
 
 	the Skulls gang
 		new gang with a gimmick - all members wear skull masks
@@ -310,7 +296,6 @@ new powers and lore for the Werewolves:
 While Ivan and Sparky are out, have Amy send Chloe and Bea away, then check the police radio in the panic room
 	Then, have her pick up on an arson attack in downtown Redbridge that the cops are ignoring in favour of the "Werewolf activity"
 	Have her don the suit there
-Replace the Bridge Collapse with Amy stealing the suit again + argument
 While Connor's in Mexico, have Amy and Sparky go on mission; when he gets back and talks to Trey, the TV gives her the Stunlocke name
 Have her in the theatre cutaway gag
 During costume designs, have her customise the stunlocke suit as well
@@ -337,48 +322,6 @@ pov of a goon who badly wounds connor by unloading a shotgun to the face and dri
 
 
 new subplot!
-	While Connor's arrested, she catches wind of an arson attack in downtown Redbridge. She decides to don the suit, and uses it to rescue the people trapped in the fire, before chasing down the arsonists and beating the snot out of them. On the way back, she's intercepted by Ivan, who paralyzes the suit and demands to know who she is and why she has it. After a tense explanation, he lets her go, but warns her not to play the hero while Connor is in jail.
-	Later, she dons it again, and while Connor's out on patrol, he hears gunshots and rushes towards them. He sees her fighting some Patriots, and intervenes (she had it under control, but still) and then they argue about it:
-		first, he sniffs dramatically, before unmorphing his mask. "Amy?!"
-		"Fuck." she sighs, switching off the modulator. "Yeah, it's me."
-		"What the fuck are you doing?! Are you trying to get yourself killed?!"
-		"No, that's why I'm wearing a bulletproof suit." she grins.
-		"Don't play silly fuckers. What do you think you're doing?!"
-		"Couldn't let you have all the fun being a superhero."
-		"Stop taking the piss! You could've got yourself killed!"
-		"So could you! Every single night! But it's not okay for me?!"
-		"It's different!"
-		"Different how?!"
-		"I can heal, Amy! I can take way more damage than you! And when you lose a limb, it stays off!"
-		"Well, I'm not going after those super-fuckers! Come on, you even told me how you've been so focused on them, you haven't had the time to go after street thugs. That's where I can help!"
-		"They still had guns! Besides, what if the suit ran out of power? Or if it malfunctioned? It's still a prototype!"
-		"Then that's a risk I'll have to accept!"
-		"No way. I'm not having you risk your neck like this!"
-		"It's not even my first night out! When you were locked up, I took the suit for a spin. I'm good at this!"
-		"I don't care. You can't do this!"
-		"Why not? If it were anyone else doing this, you'd be thanking them and heading off. But what, because it's me, it's different?"
-		"I--" Connor stammers.
-		"I don't need you being all overprotective on me! I just... I just thought you'd be proud of me."
-		"Amy, of course I'm proud of you. But--"
-		"Cut the sentimental bullshit. You know what I mean. I've always looked up to you, ever since we were kids."
-		"I'm only 6 months older than--"
-		"Shut up. When we were little, you always knew who you were. Sure, the world didn't always accept you, but you never let that stop you from being... you. And I never really found myself before, so I idolised you in that way. I mean, fuck, I used to draw those comics of us being superheroes together, remember?"
-		"I remember. But... You don't need to... follow in my footsteps, or whatever."
-		"That's not what this is. I mean, you've said yourself that you have these powers, which means you have a responsibility to use them to help people. Or put another way, if you can do something good, you should do it. And I can do this."
-		"Yeah, but... you could get yourself killed doing this."
-		"Yeah, and if those super-fuckers cut your head off, then what?"
-		"That's a risk I have to take! Not you!"
-		"WHY NOT?!"
-		"BECAUSE I NEED YOU!"
-		Tense silence.
-		"I need you, Amy. I need my sister safe. If you're doing this... I can't protect you."
-		She sniffles, taking off the helmet.
-		"You can't always protect me, Connor. And the truth is, I'm not doing this to impress you, or anything. I'm doing it because... because doing good things makes me feel good. Sometimes that means working in the dog shelter, sometimes that means beating the piss out of skinheads."
-		Connor looks away, teary-eyed
-		"Please. Please let me do this. Let me help. I... I know the risks. And I think it's worth them."
-		Connor pauses for a while, before finally speaking.
-		"...You don't fight any superhumans. You stick to street thugs only. And you never, ever assault a location without backup from me or Sparky. And for the love of God, do some training lessons with me before you go out again. Your hand-to-hand is sloppy."
-		She squees in excitement and wraps him in a hug. He sighs, and returns it.
 	She ends up covering the city with Sparky while Connor's doing the Murillo job. An ambush by Super-Agents leaves her shaken when she has to kill one (Sparky massacres the others), but she recovers.
 	Sometime later, a news report about a new vigilante in the city comes out. An interview with a thug she knocked out has him say "He hit me in the face, and he stunned me or something. Gave me lockjaw."
 		She cocks an eyebrow. "Stun... Lock... Stunlock! That can be my super-name!"
@@ -395,12 +338,46 @@ new subplot!
 
 	when Amy becomes a Werewolf, she hangs up the Stunlocke suit. Then, during a crisis that calls for all hands on deck, Bea dons the suit, becoming Stunlocke II
 	think about this more - but during the Locke and Key arc, have Bea and Amy fall in love
+		brilliant comedic beat ideas:
+			first, have bea ask trey how he knew he liked men too, he explains he never really knew, and always knew - it's a paradox; then he realises Bea must be questioning if she likes women; advises her to ask Amy about it and Bea stammers - he clocks that Bea likes Amy. Bea makes Trey swear not to tell anyone - he nods and promises, a glint in his eye
+			later, have amy approach trey and ask how he, as a bi man, is able to clock if a guy is making a pass at him or just being friendly, since her gaydar is hopeless. trey realises she's on about Bea, and she makes him swear to keep his mouth shut; again to the same reaction
+			later, have Bea confide her growing attraction in Chloe, and ask her to make the same promise, to the same results
+			simultaneously, have Amy and Connor on a joint op, and Amy seems a little preoccupied. Connor questions her afterwards, and she explains her and Bea had a brief moment before where she felt a little something - then swears him to secrecy again with same results
+
+			now, have connor and chloe meet up in the wolfcave after shift (at daybreak); they hug, chat about their evening, then both are about to say what they learned, before trey bursts in and says "guys, i gotta tell you something... bea and amy like each other!"
+			connor and chloe say "you knew?" in unison
+			beat
+			they turn to each other, while trey tilts his head. "You knew?!" the three say to each other
+
+			shannon walks in.
+			"morning guys! god, i'm glad i'm on day shift today. oh, by the way... i'm not supposed to tell anyone this, but--"
+			"you know about amy and bea?" connor cocks an eyebrow
+			"...uh, no i was gonna say the major asked me to hack some CIA stuff--whats going on with amy and bea?"
+			heavy sigh
+			trey: "this needs special attention... all units, to the planning room!"
+
+			In the briefing room sit chloe, connor, vince, and shannon. trey is presenting
+			trey: "Friends, romans, countrymen, thank you for attending this meeting... welcome to Operation Sappho's Fury!"
+			shan: "....THAT'S what you're calling it?"
+			vinc: "hey, i think it's kinda nice."
+			trey: "Thanks, Vince. Alright, this department has pulled off a similar mission before - see Operation Get Connor and Chloe to stop Fucking Around and Actually Date"
+			conn: "har har."
+			trey: "this mission will be carried out via a two-pronged assault. Alpha team, consisting of Vanguard and our new teammate, codename Leprechaun--"
+			vinc: "Feck yous."
+			trey: "--will focus their efforts on Alpha Target, AKA Skirmisher. Leprechaun, you'll be spending the evening whipping up a fresh, homecooked meal. Vanguard, you will go undercover by arranging a joint op with Alpha Target, during which you will question her further on her feelings. Due to the stress of battle, she will be more candid with you.  Meanwhile Bravo team will consist of Adept and myself, going after Stunlocke. Adept, I want you to use your powers to--"
+			chlo: "I'm not using my powers to manipulate her, Trey."
+			trey: "I can't believe you'd assume such a thing! ...are you sure you can't just give her a tiny nudge?"
+			chlo: "No."
+			trey: "Alright, onto plan B - Adept, you will arrange a similar undercover operation with Bravo target. Use the heat of the battle to interrogate her. Meanwhile, I'll scout ahead - there's a place i've been thinking of hitting, and it's perfect. Jinx, I want you monitoring comm lines on both teams. Upon confirmation that both targets are interested, I will give the greenlight for Phase 2."
+			shan: "Which is?"
+			trey: "A joint operation. Deploy both targets to my location, where they will fight together. Upon completion, they will be ordered to return to base, where Leprechaun's meal should be ready and waiting."
+			conn: "...this actually might be the best planned op we've ever come up with."
+			trey: "i'll plan them more often, then. go get some R&R, teams - it's all hands on deck tonight!"
 
 
 
 
-
-we need more villains! have Randall, Dorsey, Morland, and the Cmndnt show up in the background more often. Fuck it, have some MKULTRA bods show up in Vol 1!
+we need more villains! have Dorsey, Morland, and the Cmndnt show up in the background more often. Fuck it, have some MKULTRA bods show up in Vol 1!
 	make a Kingpin expy out of the Grins - the first Supe that Connor doesn't kill
 		Actually, have Messier set up shop in the aftermath of Vitale's death
 
@@ -841,7 +818,7 @@ New chapter for post-Adept: The Greatest Fear episode
 		Chloe realises what to say. She points out all the Judge has done since becoming a good guy - all the lives they saved, all the justice they've brought. They ponder, and agree that any god that would send them to hell for such deeds is no Great One at all - and fight back, killing the demons. They all wake up
 
 	Next, Sparky
-		Sparky's nightmare has him gradually become unable to communicate - first losing it with everyone but fellow Espers, and then altogether. He gets captured by Randall, unable to cry out for help, and thrown back in the cage.
+		Sparky's nightmare has him gradually become unable to communicate - first losing it with everyone but fellow Espers, and then altogether. He gets captured by commandant, unable to cry out for help, and thrown back in the cage.
 		Chloe reassures him by crawling into his cage and cuddling him, before reminding him that even when she couldn't understand him, she still loved him and would never abandon him - and neither would any of his friends. With that, he pictures them rescuing him, and wakes up
 
 	Finally, Connor

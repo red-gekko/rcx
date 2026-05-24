@@ -12,15 +12,9 @@ need to find a way to justify the transition from dark vigilante war to multiple
 volume 2 big changes:
 	have shannon involved more in group outings from post-charlie onwards
 
-	replace bridge collapse with connor taking amy on a raid
-	replace first date from tennis to arcade
-	add Whiplash to the bus fight
-	in the murillo chapter, have whiplash captured by "sniffers" from MKUltra; she uses a tracking device Connor gave her to make a distress call (have him give this to her beforehand; preferably when showing her the wolfcave); ivan, sparky, and amy go to rescue her. they reveal they've used a brainwashing device, and the gang have to subdue her; eventually sparky is able to grapple her and the two accidentally mind-merge; this overwhelms the device, causing a psychic shockwave that knocks her and sparky out cold; 
-	when connor returns he stumbles into the wolfcave injured, and finds whiplash and sparky recovering. amy explains what happened
-	after this, have both whiplash and sparky find their psionics more powerful; whiplash is now capable of outright airbending (actually, she can now manipulate any fluid since they're already in motion, though air is by far easier than water), while Sparky can now communicate with other people, to his joy. connor explains he still needs to limit who he speaks to, but anyone who knows is fair game, as are random people he meets on mission. he gladly accepts, and immediately decides he's going to freak out Trey with it, to connor and amy's amusement
-		(this also neatly foreshadows the Adept subplot when Chloe gets powers)
-		(have sparky now talk to chloe and bea when they learn the truth; whenever he speaks to people they're still lying to, have him bark instead)
-		(might be dumb, but consider changing Whiplash to Windblast after these powers set in and she rejects MKUltra's identity. this also handily helps with any marvel lawsuits lol)
+	move or remove the bus fight - it's a highly traumatic event, the gang can't just walk it off
+		(also, replace the cartoonish head-crush with the more horrific eye-gouge-then-rip-apart)
+
 
 	during the morland siege, have whiplash chime in just before connor ascends - she's using her glider to keep watch above the tower, reports a young woman being held at gunpoint, and offers to intervene; connor tells her not to as the agent will kill her if anyone but him shows. she agrees to keep watch from above instead. when banner shoots chloe, she uses her powers to veer the bullet off course, and soften connor's landing
 	amy changes out of her powersuit and, when chloe gets back from the cops, she gives them some privacy.
@@ -39,81 +33,152 @@ parts to put in:
 
 
 
+the bus fight:
 
-the return from Mexico:
-	
 ______________________________
 SCENE
-	Connor awoke as the plane landed in Drackhill Airport. He looked at himself in a mirror, and chuckled - he'd fully healed. He rubbed his ears, and felt them pop as they hit the ground. A small bit of blood leaked out - likely from the battle. He shuddered, wiped his ears, and departed.
-	It was morning, now. He stepped out from the terminal into the arrivals lounge, and stretched. He pulled out his burner phone.
-	"Privet, tovarishch!" Ivan answered.
-	"Hey, Ivan." Connor began, subdued somewhat. "Murillo's alive - the Americans have taken him away."
-	"No doubt they've put him in one of their so-called 'black sites.'" Ivan noted. "You still get paid?"
-	"Yeah, and get this. The Americans want to get their own supply of Serum."
-	"Of course they do. Greedy, capitalist pigs..." Ivan muttered. Connor wasn't sure if he was playing a stereotype, or being genuine there.
-	"Anyway, Murillo had Giants, too. Homemade ones. My advice? Keep your eyes on him. If the Feds make him vanish, tell me. I can make good on some earlier threats."
-	Ivan audibly grinned. "Will do. Do svidaniya."
-	"Do svidaniya." Connor nodded, leaving.
-	He saw a cab waiting for him - "Morgan's Taxis." He smiled, and entered.
-	"'Ello, mate!" Phil began. "I saw it was you we were picking up - thought I'd show me face."
-	Connor beamed. "Hey, Phil! Yeah, good to see you actually *driving* one of these rather than being sat in your office." he snarked.
-	Phil laughed heartily. "You know, I swear to God, Trey gets his smartarse tendencies from you."
-	"Nah, don't sell yourself short." Connor grinned. Phil chuckled, and they drove on.
-	"So, how'd it go? Trey tells me you were up in Glasgow." Phil began.
-	"Y-Yeah, it went well." Connor shrugged. "We managed to secure some investors for the Community Centre refurb."
-	"They're rebuilding it, are they?" Phil asked, smiling warmly. "Good lad, then. What was your job?"
-	"Mainly, playing up how rough Redbridge youths have it." Connor grinned. "Gave them a good ol' sob story."
-	"Well, not far from the truth." Phil nodded. "That centre was the heart and soul of this town. If they could open that up again - well, I reckon things might just turn around."
-	Connor leant back, smiling. They arrived at his place.
-	"Cuppa?" Connor asked, tapping his card on the reader.
-	"Nah, I'm alright, ta." Phil shook his head. "I've got a very busy day of being sat in my office." he grinned.
-	Connor laughed. "Take care!" he waved.
-	Phil honked his horn farewell, and drove off.
-	Connor opened the door, and was tackled by Sparky.
-	"Connor! I missed you! How was Mexico?"
-	Connor smiled, and hugged him.
-	"Missed you too, bud." he beamed. He went into the house. There, Amy was sat on the sofa.
-	"Yo!" she smiled, hugging him. "How'd you get on?"
-	"Yeah, so-so." he shrugged. "Nearly died - he had some Giants as bodyguards."
-	"Fuck." Amy shook her head.
-	"You nearly died?" Sparky asked, worriedly.
-	"Meh." Connor sat down. "I underestimated him. Wasn't expecting superhumans. Plus, he used a noise weapon on me - that's cheating."
-	"That's the third time these Giants have shown up." Sparky noted. "We need to speak to Ivan."
-	"I just did." Connor nodded. "These ones were subpar though. Something odd is happening..."
-	He turned to Amy. "I'll teach you how to speak Dog one day."
-	Amy grinned slightly. "Just... next time you kill a drug lord, be careful, eh?"
-	Connor laughed. "Actually, I didn't kill him. Just the Giants."
-	She smiled warmly. "Well done. I, um... Trey's in the back garden."
-	Connor took a deep breath. "Guessing he wants to talk?"
-	Amy nodded.
+	That night, in a darkly lit office, sat the Commandant. He smoked a cigar, and looked at his computer, his silver-grey eyes illuminated by the screen.
+	A Super-Agent entered.
+	"Report." the Commandant nodded.
+	"The operations in Drackhill have come to a standstill, Commandant." the Agent replied. "The traitor... He has been a constant thorn in our side."
+	The Commandant leant forward. "I don't want excuses, Agent."
+	"No, sir, Commandant, sir." the Agent stammered nervously. Super-Agents were conditioned to not fear death - which meant the Commandant could offer something worse.
+	"We need to distract him. Make him focus on the closer-to-home." the Commandant began. "Tell Morland to make preparations. And..." he paused, then smirked. "Send a squad after his friends. According to our surveillance, Connor will be out tonight, patrolling the city - and one of his friends has just purchased bus tickets. Have our Agents come for them. Do not kill them. But wound them. Bait him out. Make him learn that when he goes and plays the hero, the people he loves get hurt."
+	The Agent tilted his head. "You want us to leave them alive, sir?"
+	"Yes." the Commandant nodded. "Do not, under any circumstances, kill them. Otherwise, I can guarantee he'll be knocking on our door with bright-red eyes, and it's too soon in the plan for that to happen. By the same token, do not reveal his identity."
+	The Agent nodded. "You can count on me, Commandant, sir."
 
+	The gang, minus Connor, were sat on a bus headed into town.
+	"Sooo... tell us how it went!" Bea asked Chloe excitedly.
+	"Hah, I mean, I think it went well..." she replied, blushing.
+	Trey laughed heartily. "You totally kissed, didn't you?!"
+	Chloe smirked, and blushed *hard.* Upon seeing this, the group roared in cheers.
+	"Go on! Get in!" Amy beamed.
+	"Haha, I mean... Thank you guys. For everything." Chloe smiled shyly.
+	Bea hugged her. "I'm happy for you, Chlo."
+	"Go on, tell us - did he embarrass himself?" Trey grinned.
+	"Well, he didn't shart, so there's that." Chloe quipped, triggering roars of laughter.
+	"It's a shame he's busy tonight - we could see him blushing too." Bea grinned cheekily.
+	"Ahh, work's work, isn't it?" Trey shrugged. "Poor little mite - stuck twiddling his thumbs while we all live it large."
 
-These snippets of stuff from Morland discoveries:
+	Across town was Connor, in a warehouse, beating a Super-Agent - a standard Friday night.
+	"WHERE IS THE SERUM?!" he roared.
+	"Fuck... you..." the Agent wheezed, spitting out blood. Connor growled, morphed a blade from his arm, and impaled the Agent. With that, he felt his phone ringing - his burner. He answered it.
+	"Privet, tovarishch!" he began, smirking. "Can't find the serum - must have been a diversion. How are you and Sparky?"
+	"You're right about that, bratan." Ivan replied, his voice betraying his concern. "A squad of Super-Agents was just spotted heading from a garage in Belson towards Redbridge. Sparky's... well, he's a little tied up at the moment."
+	As Ivan said this, he looked over. Sparky bit a head off, and howled. "I can do this all night!"
+	"You'd best follow them and see what they're up to." Ivan chuckled.
+	"On it." Connor replied, like a soldier on mission.
 
+	Back in Redbridge, the bus suddenly came to a stop.
+	"The hell?" Trey tilted his head.
+	"Roadworks, maybe?" Amy suggested. That idea was dashed by the sound of a gunshot.
+	"FUCK!" the group practically yelped in unison. The bus wheels deflated, and screams tore into the air.
+	A trio of Super-Agents stormed in. They trained their guns on the gang, and grinned maliciously.
+	"Listen up, all of you." the leader barked. "You're coming with us."
+	The passengers complied, walking timidly out from the bus.
+	"Come on..." Amy whispered, too quiet for anyone else to hear. "Save us..."
+	With that, the leader ordered them all to their knees.
+	"Now!" he began. "I'm not gonna lie to you. You're all in some deep, deep trouble."
+	"Let us go!" Trey shouted. An Agent grabbed him by the throat.
+	"Not your time to speak, monkey-boy." he snarled. Trey looked him in the eye defiantly.
+	"Down!" the leader snapped. The Agent huffed, and released his grip.
+	"Now then..." he continued. "You've all heard of this 'Werewolf' fella?"
+	Silence.
+	"No? Maybe you will by the night's end. See, you should all rejoice - even the mulattos, cripples, and freaks among you." he said, faux-magnanimously gesturing to the gang in particular - hardly the picture of Aryan purity - and grinned. "You have all been spared the hangman's noose, by our great and gracious Commandant. Instead, you will all suffer... a beating."
+	He chuckled. "Start with him."
+	Immediately, the Agents pounced on Trey, and savagely beat him. Ever defiant, he fought back, digging his thumbs into one Agent's eye. The Agent replied by slamming Trey's head against the ground, concussing him.
+	"Trey! No!" the others begged.
+	Amy stood, and tried to grab one. "Leave him alone, you're killing him!"
+	The Agent replied by throwing her in the air. She landed on her back, and spluttered.
+	"Her next! The half-caste wench." the leader snarled, pointing at Bea. She closed her eyes. Chloe jumped in front of her.
+	"LEAVE US ALONE!" she roared. The Agents laughed.
 
+	With that, a bestial snarling noise filled the air.
+	"*+GET. AWAY. NOW.+*" Connor barked. His visor glowed a bright blood-red, and his costume morphed claws and spikes throughout his armour. His nickname had always been the Werewolf - but now, he looked the part, too.
+	"Finally." the leader grinned. "Welcome back, traitor!"
+	Connor stood still, and then he was a blur. He pounced on the leader, and delivered a haymaker that send him skidding on the tarmac.
+	The other agents holstered their guns, and drew machetes instead - ones so sharp, they rang through the air just by being held.
+	Connor and the Agents engaged in a brutal melee. The hostages scattered - some hopped the road barriers into the woodland nearby, others sprinted into the carriageway and futilely tried to flag down help.
+	Chloe and Bea helped Amy and Trey to their feet, rushing them to cover behind the bus. Amy rose, and couldn't help but peek over the window - wanting to see her brother in action.
+	Meanwhile, Connor's fight grew in viciousness.
+	An Agent's blade slashed his torso, and hot blood poured from the wound. Connor didn't even flinch - he grinned. He delivered a knee to the Agent's gut, before headbutting him with the force of a speeding truck. The Agent stumbled back, and released his grip on the blade. Connor grabbed it, and in one slash, took off the Agent's head.
+	The second Agent siezed the moment. He charged forward while Connor recovered, and drove his blade through his abdomen.
+	Blood spat out from Connor's mouth. He morphed his mask so he could let it pour out rather than choke him.
+	"NO!" Amy screamed, trying her utmost not to say "Connor!"
+	But Connor wasn't done - far from it. His visor flashed red again - deeper, more savagely. He raised his arms out sideways, clenched his fists, and slammed them together on either side of the Agent's head.
+	The sound was truly sickening - a mix of explosive force and bloody squelching. The Agent's head popped like a grape. His hands rose, trying in vain to locate his skull. Connor dug his hands into the now-open neck-stump, and pulled. In short order, the Agent's body was bisected - a gruesome tear running from neck to groin.
+	The leader grimaced, realising he'd lost. He stood, and held his arms open.
+	"Do your worst, then, traitor!" he dared.
+	Connor sauntered over, and nonchalantly snapped the leader's neck - denying him the satisfaction of a grisly death.
+	With that, Connor panted, absolutely soaked in blood. He gripped the machete's handle, and pulled, spraying gore all over the bus. He tore it from his torso, and dropped it on the ground.
 
+	Finally, his friends came out from behind the bus. They went pale upon seeing the carnage.
+	"Shit." Connor thought.
+	"*Are... Are you all alright?*" he asked, putting on a stock American accent.
+	"I... You... You're the Werewolf..." Chloe began, shocked.
+	Amy looked up, and gave him a knowing nod.
+	"Who are you?" Trey asked, panting.
+	"I'm no one." Connor shook his head, still hiding his voice. "You're all safe now."
+	He turned to leave.
+	"Wait!" Chloe shouted. She approached Connor slowly, timidly, scared... but she could tell he wasn't there to hurt them.
+	"You saved us... why?" she asked.
+	Connor paused. "No. I killed these monsters. That's what I do. I'm... no-one's saviour."
+	"You're wrong." Chloe replied, finding her voice. "You're our saviour. I don't know who you are, but I just want to say... thank you."
+	Connor nodded, and leapt into the air, before running off.
+	"What... What the hell was all that?!" Trey began, panting.
+	"Fuck if I know..." Amy replied. "Is everyone okay?"
+	"Yeah... I'm alright." Bea caught her breath.
+	"What was he doing here anyway?" Trey wondered, still in shock.
+	"Who cares? If he hadn't shown up, we'd be dead. Maybe he's just... passing through?" Amy replied, covering.
+	"I heard stories... rumours about that... thing. He... oh god, look at the bodies." Trey panted, his face pale.
+	"Well... He did save us. Sure, it's grim, but... he saved our lives. And you saw how they fought - they were no more human than him." Bea countered.
+	Chloe stood there, deep in thought.
 
+	A half-hour passed. Connor used the time to clean himself of blood, and morph new clothes to hide his injuries.
+	Sparky and Ivan arrived at his house.
+	"Did you have a big fight?" Sparky asked innocently, cleaning his jaws of blood.
+	"Hah... big one, buddy." Connor chuckled. He looked up at Ivan.
+	"That was no random act of violence, was it?" he asked.
+	Ivan shook his head grimly.
+	"What happend?" Sparky tilted his head.
+	Connor took a deep breath.
+	"Paladin went after our friends. They stopped a bus, shot the driver, and beat up Trey and Amy."
+	"Oh no! We have to go there now!" Sparky cried.
+	"It's okay, buddy..." Connor sighed. "I killed the Agents. Still... we need to get there. I'll tell them I saw the attack on the news, and realised it was their bus."
+	Ivan handed Connor a USB stick.
+	"Found this on one of them. Can you take a look when you get a chance?" he asked.
+	"Of course." Connor nodded.
+	"Good man. Do svidaniya." Ivan smiled.
 
+	Naismith stood outside the bus, the area cordoned off. FIs took photos of the mangled bodies.
+	"So, to be clear..." he began, addressing the gang. "These assailants came aboard, attacked you--" he pointed at Trey and Amy, "And then they were killed by the Werewolf?"
+	"That's correct, officer." Bea nodded confidently. Naismith stroked his chin.
+	"Miss Derrington - do you think they were targeting you?" he asked.
+	Chloe thought for a moment. "I don't think so. They never really threatened me specifically."
+	"Still... they're the same kind of men we--" he caught himself. "Sorry, Miss Derrington - can I have a word in private?"
+	Chloe nodded, and joined him away from the group.
+	"These men..." he whispered. "They were superhumans - just like the ones your lab autopsies. Are you 100% *positive* they weren't here to harm you?"
+	Chloe shrugged. "I'm a scientist, sir. I'm *never* 100% positive. But I don't think they were after me. The, um... the leader said 'Finally' when the Werewolf arrived - so I'm guessing we were just bait. Unlucky, I suppose."
+	Naismith nodded. "Okay. Well, we'll be sending these ones to Morland too - I'm not too sure on the legality of having you autopsy them, but I'm sure your Legal department can hash that out."
+	Chloe smiled faintly. Naismith headed to the group.
+	"Okay everyone, you're free to go." he said. They thanked him, and left the cordon. There, Connor was arguing with a PC.
+	"Please, my friends are in there!" he begged.
+	"Sir, I'm afraid no-one from the public can enter until the officers have finished." the PC replied.
+	Chloe rushed over, and embraced him. Sparky jumped up, and wrapped his paws around her. The rest of the group came over, and formed a mass-hug.
+	As the group walked on, Trey went a little slower than the rest, deep in thought.
+	Then, a terrible thought crossed his mind.
+	"No..." he whispered to himself. "He can't be..."
 
+	Back in the Commandant's office, a terrified subordinate entered.
+	"Sir, the squad... they all died." he began, gulping.
+	"Good." the Commandant leant forward. "If they died, they were weak. There is no room in the New Order for weaklings."
+	"Yes, sir, Commandant, sir." the subordinate stuttered. "This also confirms some of our earlier suspicions."
+	"Agreed." the Commandant nodded, his voice like gravel. "He took the bait far too quickly. For him to know immediately that a squad was sent out... It's the KGB."
+	He paused, looking down at a dossier with pictures of Connor's friends. He chuckled slightly.
+	"Let him think he's winning. Let him think he's free. Soon enough, he'll come crawling back. It is the nature of man to seek power."
 
-		Over in Belson, Chloe began looking over the lab rats they'd been applying serum to.
-	"By the way, Jones..." she began, her brow furrowed. "Where are we getting all this from?"
-	"Downstairs - that's all I know." Jones shrugged. "Anyway, findings?"
-	"Applying it to adults has had a number of effects. Major increases in musclemass, bone density, endurance... and some small cognitive improvements."
-	"Any drawbacks?"
-	"Increased aggression, and signs of pain - courtesy of the paradrenaline, no doubt. Also, they become completely sterile. Their germ cells have completely random numbers of chromosomes, or sometimes none at all. Even stranger, the males appear to have a tiny number of inert egg cells developing in their testes, while the females have inert sperm cells in their ovaries. Likely, the mutations have confused their stem cells. That fits with my theory that their mutations are imperfect because their brain can't direct their generative cells properly."
-	Jones nodded, stroking his chin. "What about the tests on pregnant rats?"
-	Chloe shuddered slightly. "Injecting pregnant rats directly led to terminations of their pregnancies. Accepting the mutations makes you unable to bear children at all, it seems. As for in-utero exposure to the fetuses directly... Most of them simply spontanaeosly abort. A large number of the mother rats suffer severe aneurysms, too. It looks like serum-injected fetuses produce massive amounts of paradrenaline, which gets into the mother's system and causes the haemorrhaging. A couple of births have happened so far - all stillbirths... except for one."
-	She showed him a tiny rat in an incubator. Despite all the other rats being albino as was common for lab-rats, including its parents - this one had healthy melanin levels.
-	"Her mother died during birth, same as most. But she's the only one that survived in-utero exposure." she explained. "Rat pregnancies don't take long, and they give birth in litters - meaning we could produce several in a short amount of time. Still, there have been over 200 in-utero exposures, and she's the only one who survived."
-	"Amazing..." Jones gasped. "Have you tested its DNA yet?"
-	Chloe winced slightly at the use of 'It.' "No, not yet. She's still so fragile, I... I don't want to start taking samples until she gets a little bigger."
-	"I understand..." Jones nodded. "But this has to be done. I'll take the sample - if anything goes wrong, it's my fault alone, okay?"
-	Chloe sighed, but nodded silently, and left. Jones stuck a big needle into the tiny rat, and drew some blood into a vial.
-
-
-
-
+Werewolf Saviour
 
 
 
@@ -186,8 +251,7 @@ more superhero-y plot moments:
 
 
 alternate solution to the demons and vampires:
-	galaxy-wise, there is a three-way cold war between the Conclave, the Nasper Empire, and the Zotan State. All want to occupy Sol due to its strategic position
-	The Judge was sent to Earth as an infiltrator for the Conclave, with their task being [figure this out]
+	the judge *thought* they'd arrived on time, but instead arrived 5000 years later due to veil shenanigans. The old Lulamarian Empire has long since faded thanks to the Withering; the state religion now abandoned by the empire, while the Zotans have converted to Malkaea-worship. After the Zotans deployed a planetkiller, the conflict has escalated. both sides want Earth due to its sector's strategic location. The Judge's own faith has fallen into complete irrelevance - modern Goglogthans commit 'idolatry' through worship of their Genetors, the Lulamarians have abandoned all religion after their crisis, and the subject races have largely abandoned Lulamarian-worship.
 	chloe doesn't become a vamp - instead, after capturing a psi-amp from an mkultra black site, it detonates while she's reverse-engineering it, badly wounding her and putting her into a coma. she is saved using super-serum from connor, and develops psionic powers as a result of the event
 
 
@@ -246,6 +310,7 @@ optimates lore: different mook types:
 	giant/Jotunn - agent with increased stature and strength
 	Titan - giant in power armour
 	Psi-Agent - telepathic super-agent
+	Teplar - cyber-psi agent
 	Hound - Junior-type mutant
 	Fiend - Hound in powersuit
 	Transcendant - Moxidar-level mutates
@@ -256,18 +321,6 @@ Bevan and Connor don't work for MI5 - they work for MI0 - rather, Military Intel
 
 
 
-rewrite the first date - have it in an arcade instead of a tennis court
-
-
-
-
-Need the following dialogue in christmas somehow
-
-
-
-when Ivan shows Connor the panic room, have Connor ask him to look into Amy's family
-
-have Amy at some point express wistfullness about her origins
 
 
 
@@ -293,12 +346,7 @@ new powers and lore for the Werewolves:
 
 
 
-While Ivan and Sparky are out, have Amy send Chloe and Bea away, then check the police radio in the panic room
-	Then, have her pick up on an arson attack in downtown Redbridge that the cops are ignoring in favour of the "Werewolf activity"
-	Have her don the suit there
-While Connor's in Mexico, have Amy and Sparky go on mission; when he gets back and talks to Trey, the TV gives her the Stunlocke name
 Have her in the theatre cutaway gag
-During costume designs, have her customise the stunlocke suit as well
 Have her at the Morland infiltration; have her and Jinx take down the security cameras
 During the siege of morland, have Stunlocke show up; have connor send her and Sparky to clear the underground floor while he saves Chloe
 post-Siege, Amy's suit is out of battery, so she stashes it in the safehouse
@@ -322,11 +370,6 @@ pov of a goon who badly wounds connor by unloading a shotgun to the face and dri
 
 
 new subplot!
-	She ends up covering the city with Sparky while Connor's doing the Murillo job. An ambush by Super-Agents leaves her shaken when she has to kill one (Sparky massacres the others), but she recovers.
-	Sometime later, a news report about a new vigilante in the city comes out. An interview with a thug she knocked out has him say "He hit me in the face, and he stunned me or something. Gave me lockjaw."
-		She cocks an eyebrow. "Stun... Lock... Stunlock! That can be my super-name!"
-		"Nerd." Connor snarks. "Werewolf is way cooler."
-		"Fuck you. From now on, call me Stunlocke. With an E."
 	In the cutaway gag while watching MacBeth, have Amy there too, knocking out a skinhead
 	Have Shannon/Jinx modify the suit to include remote hacking gear - have Stunlocke/Amy come along with Connor while he infiltrates Morland, and when he goes to the lower levels, he sends her to the security room to take out the CCTV
 	During the Morland siege, Connor has her evacuate the lab staff while he saves Chloe. He then has her on bodyguard duty with Sparky while he saves the cops
@@ -401,19 +444,12 @@ subplot: Pawel's sister has gone missing in the National Reception Centre in Dov
 
 
 
-remove all the pop culture references
-
-
 add a bit during the infiltration of Morland where Shannon is on the call, disabling the CCTV remotely
-	She snarks that Connor gets a codename, but she doesn't - this is the origin of Jinx (have it come from "I don't wanna jinx it" or something)
 	Connor uses his super-senses to spot the lab entrance camera - she can't see it, so it must be on a private network; he smashes it and heads in with Chloe
 
 
 
-don't forget to add the Paladin Group lore, as well as Ahnenerbe
-	have a couple of Paladin mercs in Algeria
-	Have Zamaldayev's bodyguards be Paladins
-	Gordon's backstory - he found the Judge when on expedition following an occult signal. His bodyguard detail were Paladins, including the young Davis
+Gordon's backstory - he found the Judge when on expedition following an occult signal. His bodyguard detail were Paladins, including the young Davis
 
 
 
@@ -438,8 +474,6 @@ at some point during the nuclear meltdown, do a homage to Spiderman Lifts the He
 	later, her foot is treated with healing serum (see below)
 
 have chloe develop healing serum - taking connor's regenerative stem cells, and finding a way to reprogram them with host DNA using her plasmid bomb technology. the new serum can heal severe injury and even partially stimulate organ and limb regrowth, but does not turn the subject into a super agent
-
-consider taking out truth-or-dare
 
 specifically, for when the judge mentions vampires - have some incredulity from one person, only for another to say "We're in a room with an alien and a talking dog, but vampires is where you draw the line?"
 

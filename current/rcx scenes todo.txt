@@ -6,10 +6,59 @@ NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final 
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
 
+todo:
+	include a brief moment where connor asks trey what's going on with him and shannon; he shrugs, saying they're in something of a situationship (so the viewer knows what's going on with them)
+
+
+
+have Dr. Rosenbaum appear early in volume 1 needing help from the Werewolf; afterwards, she gives him her number, reasoning that he probably gets in a lot of scrapes and might need an accomplished trauma surgeon on his speed dial. he notes that he can heal, but she says she wants him to have it anyway, just in case. he reluctantly takes it.
+	then, have it be Rosenbaum who provides lung surgery to Olivia after her fight
+
+rosenbaum plotline:
+	Sarah notices a pattern of individuals coming into hospital; largely undocumented migrants, homeless people, or runaways. All of them come in reporting sepsis developing from poorly-healed surgical wounds - and they're all missing a kidney, or half a liver, or a shitload of blood, or something else. Even freakier, though - some have vestigial organs that they shouldn't have - a kidney on one side is missing, but a malformed one is growing next to the healthy other side. One has a heart growing in her abdomen. Another with non-cancerous lung tissue growing in their thighs. She checks with colleagues in the pathology department, who confirm there seems to be a weird outbreak of people growing organs they shouldn't be. She talks to the police about it - they brush her off except for Naismith
+	Naismith tries to look into it, but is shut down by his superiors and ordered to focus on the Werewolf case instead. he tells Sarah, informing her that he can't look into it any more - but covertly gives her all he could dig up on the case
+	Later, she's patching up a crook who was beaten by the Werewolf. He talks about the Werewolf's horrifying powers, and she realises that the case must be connected, somehow. So, she asks the crook where she could find him. He's initially no use "Doc, if I knew where he was, I'd blow the place to smithereens!" but eventually the crook reveals that the Werewolf is connected to the Redbridge Syndicate; she goes to the Horse, and hands the bartender a note, asking him to deliver it to his boss. The note goes to the club owner, who contacts Connor.
+	Connor agrees to look into the case, talking to one of the victims and taking the info to Ivan. Together, they pin the case down to an organ trafficking lab in the sewers.
+		When working with Rosenbaum, have Connor ask questions of one of her patients, but he says he won't say anything, that they'll kill him if he talks. Rosenbaum says there is one patient they could try - she introduces him to one whose so badly malformed they're gonna die. Connor speaks with this one, but she refuses to talk to him as he's too suspicious. He gets Rosenbaum to leave the room, saying he's gonna do "something reckless", and takes off his mask, showing his human face. She (the patient) reveals that the lab that experimented on them is in the sewers somewhere; they abduct people who won't be looked for (homeless, runaways, drug addicts, the mentally ill, undocumented migrants, etc) and grow organs inside them that then get shipped out. She also mentions that once they are no longer of use (due to becoming too unwell from the procedures) they are dumped in the river to die; some wash up and are brought to hospital like her and the few other survivors; most are found as dead bodies. A lot of those taken are homeless residents of the Underhill, the homeless community of Drackhill's vast underground network
+	While in the sewers, Connor and Sparky use their Sonar powers and accidentally attract and are swarmed by a pack of grotesque bat-fish creatures. They fight, but Connor realises their sonar is upsetting them, so they turn it off (hesitantly, as they're blind without it) and the creatures become docile. Connor touches one and accidentally mind merges, revealing they have a minor psychic link, including a mental map of the tunnels that Connor uses with the pigeon sense to find the labs
+	he and sparky press forward, assault the lab, kill the traffickers, and rescue the victims. He carries the victims up back to the street, and covertly follows them back to hospital. on the way, the ambulance convoy is assaulted by a squad of Super-Agents and he takes them out. Finally, the convoy makes it safely to the hospital, and he meets with sarah after they're admitted
+	She thanks him profusely for saving them, and gives him her number, citing that someone in his line of work could probably use a trauma surgeon on call. he deflects modestly, but she pushes him to take it. as he leaves, she smiles softly.
+
+
+Notes for the sewer mutants plot:
+	Later, (in volume 3), while on fireman duty, Connor gets approached by the fire chief and informed of a worrying case. a pair of plumbers went missing while working inside the sewers, then two firemen sent to look for them were attacked and found dead; the fire chief hands over his men's body cam footage, showing them getting swarmed by horrific bat-fish monsters.
+	Connor warns the chief not to enter the sewers, and he goes in and makes his way to their nests. There, he learns that there is some kind of mutagenic psy-emitter in the sewers; it created the batfishes, and also affects the Underhill residents. Most become deformed mutants, but some become Espers too.
+	A mutant cult has formed in the Underhill, and it is extremely xenophobic, their Esper leadership having sicced the batfish on the workers and firemen.
+	The cult is dismantled, after connor and the judge are able to ally with a "heretic" faction who remember their old lives and want to have friendlier relations with outsiders.
+	They agree to hand over the workmen's remains, and never attack humans again, in exchange for regular food deliveries and being placed under Connor's protection
+	This arc is where the Judge decides to change their name to the Heretic.
+	If wanted, this can also be how Adept starts
+	At one point, connor asks how the device works; olivia explains ODIN use devices like this to continuously produce psychic effects, in this case Biomanipulation. Connor asks if they'll get mutated, and she explains no; Espers are naturally resistant to the effect, and can only be mutated by it if they want to be. That's why the cult leadership is Espers; they're the most stable of the muties. It's also why the batfishes are alive; their psychic link is the result of selection pressure
+	Chloe studies the device once it's deactivated; it's only when it explosively reactivates that she becomes Adept
+
+	ODIN placed the device in the Underhill long before the events of the story; the purpose was to subconsciously direct the sewer mutants into an uprising against the city-dwellers, which would then be crushed by Paladin/Gambit Agents - a false flag attack to allow them to seize power amidst the confusion. Junior's attack, Riverside's heroism, were all unforseen. Also, they didn't expect a hero like Connor to resolve the situation largely peacefully by exploiting internal factionalism
 
 
 volume 2 big changes:
 	have shannon involved more in group outings from post-charlie onwards
+
+	add a few scenes where the gang learn about their public presence
+		first, a news report from Zack doing a profile on the various superheroes
+			have Bea express admiration for Stunlocke in particular
+		later, have Bea reveal she's on a forum that goes on about the superheroes
+			funny gag where she reveals theres a shipping war; she says there's a big argument on the forum between "Team Stunlocke" and "Team Whiplash". Connor asks if there's a "Team Werewolf" and Bea grins "Everyone's Team Werewolf." she then reveals that people are shipping the Werewolf with either Whiplash or Stunlocke; Connor and Amy are grossed out
+
+	medicine run
+		shannon reports there's been a string of thefts of critical medicine lately; asks amy and olivia to investigate
+		they follow a lead to a gang of thugs; amy knocks out a bunch and subdues their leader, demanding he talk. he snarks "you ain't the werewolf! i'm not telling you nuffin!" then amy zaps him and says "i can keep doing that until your heart gives out. then, i'll resucitate you, and do it again. start. talking." he immediately spills
+		they find the location of the latest shipment of drugs; amy goes to attack, but shannon chimes in and says their best bet is following it covertly to wherever they're keeping the other drugs; amy reluctantly hides while olivia follows it on her glider. when it arrives at a depot, the girls raid it while shannon puts a call out to naismith
+
+		have this come up post-judge, where dr rosenbaum notes that the vigilantes saved countless lives by retrieving those meds, and so the hospital will provide any equipment chloe needs
+
+
+	during the belson riots, have there be mention of a morland getting looted; have this be where the Skulls start to form
+
+
 
 	move or remove the bus fight - it's a highly traumatic event, the gang can't just walk it off
 		(also, replace the cartoonish head-crush with the more horrific eye-gouge-then-rip-apart)
@@ -174,6 +223,39 @@ Werewolf Saviour
 
 
 
+Volume 3 plans:
+
+	harpy chapter
+		training scene with judge and the werewolves + chloe running tests on the judge and amy
+
+	whisper arc:
+		she initially shows up being pursued by ODIN agents; the gang step in and rescue her. She explains who she is, her powers, and that she's trying to escape ODIN; they offer her safe refuge in Drackhill. Later though, a stinger where she reports her progress to her superior
+		over time, as she works as a superhero to gain their trust, she finds she actually likes it; the freedom, and doing good. eventually, she gets informed that the ODIN attack is imminent; she warns the team and reveals her treachery. they mount a counterattack, but are angry at her. however, connor decides to let her stay
+
+	cancer arc:
+		connor gets injected with something by a super-agent; turns out to be a highly malignant cancer. it rapidly spreads throughout his body, leeching his powers.
+		chloe does tests (tearjerker scene where connor, haggared and weak, sees her struggling to hold it together in front of him, and tells her it's okay for it to affect her too); she finds out that the cancer is disabling his healing factor, and based on how rapidly it's spreading, will reach his brain stem in a few weeks, which will kill him
+
+	Ending:
+		Connor is wasting away with his cancer, and is lured into a trap by the Commandant. He is kidnapped and taken offshore, to a former oil rig. The Commandant dopes him with Skull, and says that enough is enough - it's time to end this. Chloe radios telling him the Kestrel's still down (it got destroyed in an earlier chapter) but they're on their way as fast as they can. The Commandant reveals he's rigged the place with thermobaric charges that are attached to a deadman's switch in his heart - he jeers that Connor won't have the guts to finish him. Connor spits that he'd burn the world to see him dead, and they fight
+		The fight is brutal, and Connor looks like he's gonna die, but Chloe gives him a psychic boost using Biomanipulation over their mindlink to power him up - she passes out from the strain. he fights hard, and finally has the commandant badly wounded. He shoves his hand into the Commandant's chest, and the following exchange happens:
+			"Ah, ah ah..." the commandant gurgles. "forgot about the deadman's switch?"
+			"I'm counting on it. When it goes off, I'll know you're a dead man." connor snarls
+			"hah... i don't think you'll survive tonight, but on the off chance that you do, i want you to know... I was right. might makes right."
+			"shut up."
+			"everything that happens after this... every great and horrible thing that your people do, the monsters they'll become... it'll all be in my name. all the death and destruction that comes will honour ME - your FATHER."
+			"my father?" he tilts his head, eyes aflame. "YOU'RE NOT MY *FATHER!*"
+			He rips out the commandant's heart, and crushes it. the commandant wheezes.
+			"left it... on a timer... go on. tell them... tell them their hero's not coming back..."
+			Connor looks over, and sees the two minute timer. he closes his eyes, and drags himself to it.
+			"Chloe? I... I don't know if you can hear this. Maybe you'll dream it." he begins, choking up.
+			"I promised I'd always be by your side. I swore i'd never let you down. and i... i'm gonna have to break that promise."
+			he sobs, as his body starts to give out.
+			"we've both known for a little while that my time was running out. i... i hoped i'd get a little while longer."
+			"the time we've had together... it's been the best months of my life. i'll always be with you... we're linked, now. tell the others... tell them i couldn't've left the world in safer hands."
+			the timer ticks down, a few seconds left.
+			"i love you."
+			*BOOM---FWOOSH!*
 
 
 
@@ -205,13 +287,6 @@ new stuff from the eidolon raid
 
 
 more superhero-y plot moments:
-	the 'wolfcave' (name pending) - include loads of gadgets and gizmos
-		consider having it not in connor's place, but in a separate safehouse, or even underground
-		Have it in the repair shop. Ivan sets up a holding company in Connor's name, Riverside Holdings, which buys up the lot.
-			have connor explain when they escape there that after vince got nicked, the lot owner hasn't managed to find another tenant, so the lot is vacant. have them siphoning electricity off of the neighbours - have connor reveal he sorted that for vince, which is what convinced him to get him working at A&O
-			The Wolfcave is established in the basement here
-			Have them hide in A&O rather than Dynamite
-			Change the name from A&O to Riverside Repairs
 
 	plot point where a new drug is being sold, derived from paradrenaline
 		connor discovers that Eidolon are making a stimulant based on it
@@ -260,7 +335,6 @@ to help reinforce the altiverse setting, have zeppelins show up every so often
 
 
 set up a catacomb/storm drain network underneath the city; have the hideout be constructed here
-	after the prison break, have the gang hide out in the tunnels
 	have a plotline with homeless going missing (including eliza/harpy) and then set up the Calderfolk arc from there
 
 
@@ -297,7 +371,7 @@ optimates lore: different mook types:
 	giant/Jotunn - agent with increased stature and strength
 	Titan - giant in power armour
 	Psi-Agent - telepathic super-agent
-	Teplar - cyber-psi agent
+	Templar - cyber-psi agent
 	Hound - Junior-type mutant
 	Fiend - Hound in powersuit
 	Transcendant - Moxidar-level mutates
@@ -317,14 +391,7 @@ Bevan and Connor don't work for MI5 - they work for MI0 - rather, Military Intel
 
 
 
-don't have the Judge kill vitale - remove Rocco (or rename matteo), and have the Judge instead string up a bunch of Patriots. Have trey's shooters be one of the pats who lost a brother to the judge's rampage
-
-
-
-
-
 new powers and lore for the Werewolves:
-	Morphing a glidecape for city traversal - combined with grappling hooks. Have Connor get the idea for a hook from his crossbows, and the gliding from his trenchcoat
 	a nightly "hunt" ceremony - the crew run up the tallest tower in the city, and allocate their "hunting grounds" - they reconvene at sunrise to report their hunts. Trey's initiation as a full superhero involves him gliding down the tower for his first solo hunt
 
 
@@ -332,21 +399,6 @@ new powers and lore for the Werewolves:
 
 
 
-
-Have her in the theatre cutaway gag
-Have her at the Morland infiltration; have her and Jinx take down the security cameras
-During the siege of morland, have Stunlocke show up; have connor send her and Sparky to clear the underground floor while he saves Chloe
-post-Siege, Amy's suit is out of battery, so she stashes it in the safehouse
-when Chloe meets the knowers, Amy reveals she's Stunlocke
-
-
-
-
-
-
-
-
-trim down the Chloe's Flat infodump
 
 
 
@@ -357,15 +409,6 @@ pov of a goon who badly wounds connor by unloading a shotgun to the face and dri
 
 
 new subplot!
-	In the cutaway gag while watching MacBeth, have Amy there too, knocking out a skinhead
-	Have Shannon/Jinx modify the suit to include remote hacking gear - have Stunlocke/Amy come along with Connor while he infiltrates Morland, and when he goes to the lower levels, he sends her to the security room to take out the CCTV
-	During the Morland siege, Connor has her evacuate the lab staff while he saves Chloe. He then has her on bodyguard duty with Sparky while he saves the cops
-	During the Judge arc, she tries to keep the city safe-ish while Connor recovers. On the third night, the Judge shows up and breaks the suit, before dislocating her shoulder and gloating that she's not worth killing. She begs Ivan for another suit, but Connor orders her to stay benched while the trio fight the Judge
-	When Ivan contracts for Vince's pardon, he reveals the MkII suit - upgraded and better than before.
-	During the fight with Junior, she's heading to Connor's with the girls to get the suit so she can help - but finds Trey and Shannon there instead
-	She tries to quell the Belson riots while the boys recover - once the outing commences, she joins in
-	When they go to Karelia, she begs to come, but Connor says no - Drackhill needs its hero. Going from dejected to motivated, she agrees to see them soon
-
 	when Amy becomes a Werewolf, she hangs up the Stunlocke suit. Then, during a crisis that calls for all hands on deck, Bea dons the suit, becoming Stunlocke II
 	think about this more - but during the Locke and Key arc, have Bea and Amy fall in love
 		brilliant comedic beat ideas:
@@ -406,14 +449,6 @@ new subplot!
 
 
 
-
-we need more villains! have Dorsey, Morland, and the Cmndnt show up in the background more often. Fuck it, have some MKULTRA bods show up in Vol 1!
-	make a Kingpin expy out of the Grins - the first Supe that Connor doesn't kill
-		Actually, have Messier set up shop in the aftermath of Vitale's death
-
-
-
-
 subplot: Pawel's sister has gone missing in the National Reception Centre in Dover
 	Pawel comes to him with a request: his sister Paulina arrived in the National Reception Centre in Dover two weeks ago, and he's lost all contact with her
 	Connor travels to Dover, and infiltrates the NRC. While exploring the camp, he is approached by an older man, begging him to take his wife. When Connor questions him, the man panics and rushes away. Later, the same thing happens - a woman approaches him, and says she'll do anything he wants if he takes her son away. Upon questioning, she reveals that a smuggling ring can supposedly take people out of the camp, and get them a good job and proper housing. She says they're desperate, and she's willing to take a bad job if it means her son doesn't have to stay any longer.
@@ -429,10 +464,6 @@ subplot: Pawel's sister has gone missing in the National Reception Centre in Dov
 	Afterwards, MI5 threaten retaliation, but Connor counters that as a superhuman, he doesn't work for them - and he could take them on by himself. Their bluff called, they back down - but the government's propaganda machine begins spinning him as a dangerous terrorist in response, damaging his reputation
 	End bittersweet - the NRC and slaver gangs are gone, but Paulina is still missing; new, less overt detention centres will be built; other bad actors will continue to exploit vulnerable migrants; and Connor's burned bridges with MI5 in a big way by threatening to go rogue.
 
-
-
-add a bit during the infiltration of Morland where Shannon is on the call, disabling the CCTV remotely
-	Connor uses his super-senses to spot the lab entrance camera - she can't see it, so it must be on a private network; he smashes it and heads in with Chloe
 
 
 
@@ -472,8 +503,6 @@ make the superheroing more heroic
 	make sure we get a token rescue at least every couple of chapters
 
 
-add a nice moment for Sparky where he cares for a mother cat and her kittens in the rain on Valentine's
-
 for the commandant davis reveal:
 	have chloe reveal his extra 7 chromosomes to the gang, then privately look over a screen that reads "Y/Y - MATCH"
 	later, in private, she explains to connor that she found more than just xeno-chromosomal similarities - specifically, a y-chromosome match, meaning the commandant is connor's father
@@ -493,10 +522,6 @@ todo for book 3:
 
 
 	Next chapter is all about setting up the more supey threats - starting with Harpy
-
-Make Connor more autistic
-	Have him have more awkward touch moments
-	Have him stim when stressed
 
 
 after trey meets alisair (platinum twink), have this exchange (currently copied from valentines)
@@ -618,11 +643,6 @@ Rudi Pavlovich, Roman Polanski expy - have him hiding out in Austria, and Connor
 	- Gary Glitter
 	- Bill Clinton
 
-
-work on Connor & Sparky's telepathy
-	have them accidentally swap bodies for a whole day
-	maybe have trey and connor swap bodies after trey gets his powers
-	could even have anna swap with one of the boys, leading to joke comments about being a woman/man
 
 have a scene where chloe goes for her bi-annual cancer screening
 	overall, integrate VS into her story a little more
@@ -942,19 +962,43 @@ For the finale, two options:
 
 
 
-spinoff series:
-	Two Man Army
-		Buddy-comic with Ivan and Blitz, initially focused on liberating Eurasia; later has them traveling the globe on behalf of Riverside
-			you may question why a communist loyalist commissar with a jovial nature and a more mundane combat style might get on so well with an American gun-for-hire who's always brooding and fights with gimmicks; well they have more in common than you think:
-				both massive gun nuts
-				both have a strong sense of honour and professionalism
-				both are older soldiers who are used to more mundane war, now thrust into a sci-fi superhorror
-				both reject nation and country, fighting instead for their own ideals
+All volumes:
+	Volume 1: Wolves among Sheep
+		Focuses on Connor's traumatic origin, and early career as the Werewolf, as well as meeting Chloe and Sparky
+	Volume 2: Gods among Men
+		connor's crusade deepens, secrets are revealed, ending in the battle of belson
+	Volume 3: Age of Heroes
+		Reeling from Belson, the world wakes up to the new superhuman reality. facing off with ancient conspiracies, new monsters, and more - culminating in the horrifying battle between father and son
+	Interlude:
+		Two Man Army
+			Buddy-comic with Ivan and Blitz, initially focused on liberating Eurasia; later has them traveling the globe on behalf of Riverside
+				you may question why a communist loyalist commissar with a jovial nature and a more mundane combat style might get on so well with an American gun-for-hire who's always brooding and fights with gimmicks; well they have more in common than you think:
+					both massive gun nuts
+					both have a strong sense of honour and professionalism
+					both are older soldiers who are used to more mundane war, now thrust into a sci-fi superhorror
+					both reject nation and country, fighting instead for their own ideals
 
+		Shock Therapy
+			comic focused on Bea's run as Stunlocke II. Primarily focused on her, Amy, Chloe, and Shannon (think of it as a girl squad comic). Enemies are mainly Eidolon, Enisgn-Apex, SIBC, and other megacorps.
 
+		Unbroken
+			The Unbrokens (Eliza/Harpy, Johnny/Twitch, Roach, Chemistress) go through therapy while trying to hunt down Vacher
 
+		ODIN's wolves
+			Sparky, Whiplash, Chloe, and Whisper work together to destroy ODIN once and for all. Arc is seeded when Whisper reveals her betrayal in time for the squad to mount a counterattack. The gang are angry at her, but eventually agree to let her redeem herself, and the all-Esper team mounts an attack on ODIN
 
+		Inheritor
+			Focused on Trey's own arc trying to fill Connor's shoes in an increasingly unstable world. Culminates with the Angola War, where Trey and Bea team up to take out the South African government
 
+		Riverside Youth
+			Focused on the young heroes (Autokine, Envoy, Sentinel, later Mal/Changeling, and Bug Boy)
+	Volume 4: Time of Monsters
+		6 months after the devastating loss of Connor, the Riverside Squad reunites to take the fight against Oxford and the Optimates. But when a new, freakish monster appears on their shores, everything changes
+	Volume 5: War of the Beast
+	Volume 6: Vichy Earth
+	Volume 7: Apocalypse
+	Volume 8: The Republic of Earth
+	Volume 9: Wrath of the Old Gods
 
 
 

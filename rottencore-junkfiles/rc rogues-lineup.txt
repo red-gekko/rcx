@@ -249,7 +249,7 @@ MKUltra
 Prometheus Institute
 
 	Mastermind
-		Name: Eugene van Statten
+		Name: Eugene Neumann
 		Powers:
 			Super-intelligence
 			Power armour

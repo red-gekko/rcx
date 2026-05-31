@@ -28,19 +28,6 @@ FOREWORD
 
 Foreword
 ______________________________
-TLDR
-	The key differences between Rotten Core's history and ours boil down to 3 points:
-		1. Vladimir Lenin was succeeded by a triumvirate, rather than by Stalin. The USSR was much closer to its founding ideals, and the Eastern Bloc was much more unified - the Sino-Soviet split never happened, for example. But by 1994, the bureaucracy founded by Stalin's supporters took over across the Eastern bloc. They ruled for 15 years, when in 2009 the entire bloc collapsed into brutal civil war - imagine the Yugoslav wars, but covering nearly all of Eurasia.
-		2. Huey Long, the founder of modern American populism, survived his 1935 assassination, and went on to become the puppetmaster of the American government throughout the Second World War. However, the development of a corrupt oligarchy from his dirty tricks made him realise it was all for nothing, and he killed himself in 1946, his successor being ousted in the '48 elections by Douglas MacArthur and his clique, leading to a Cold War America even more openly corporatocratic than OTL (basically, imagine Reagan being about as far left as things get.)
-		3. The British Empire fell violently, as anti-independence crackdowns triggered mass revolts. Canada was annexed by the US; Australasia (a police state formed from Australia and New Zealand) became a militaristic hegemon; South Africa initially joined the Axis, and later, backed by the USA, maintained apartheid well into the 2010s; and the Raj became taken over by the Azad Hind movement, leading to oppression, rebellion, and more oppression in its Muslim and Sikh provinces. Ireland, however, remained under British rule; in 2002, a crackdown in Derry was so brutal, it earned the nickname 'The Bogside War.' Thanks to the "Imperial Boomerang," the British domestic government is de-facto anocratic, with a rigged two-party system and a marginalised left wing, similar to the USA.
-	
-	Aside from all of this, many smaller things happened across the world - you can read the Primer to check on the 'modern day,' or just read ahead.
-
-	On behalf of all of us, I hope you enjoy this story, and without further ado...
-	WELCOME TO THE ROTTING WORLD.
-
-A Rotting World
-______________________________
 VOLUME 1
 	______________________________
 	CHAPTER
@@ -972,7 +959,7 @@ VOLUME 1
 
 			Arriving outside his home, he saw a white van parked outside.
 			The same make and model as the one used by the men that killed him...
-			He darted into cover, hiding in an alleyway. He peeked out, spotting the driver open the door and hop out. He pulled out a cigarrette, and leaned back against the van.
+			He darted into cover, hiding in an alleyway. He peeked out, spotting the driver open the door, hop out, pull out a cigarrette, and lean back against the van.
 			Wasting no time, he rushed over. Before the man could react, he wrapped his hands around his neck. He avoided squeezing too hard - he wanted answers, not another kill.
 			"WHAT DO YOU PEOPLE WANT FROM ME?!" he screamed, smacking the man's head against the van.
 			The man desperately gripped at Connor's arms, his face red, as spittle formed around his mouth.
@@ -1889,10 +1876,12 @@ VOLUME 1
 			"I'll do it." Connor said firmly. He hung up. He hesitated, and headed back out.
 
 			It was getting dark now, as Connor made it to Redbridge Cemetery. The headstone read:
-			"LAURA SINEAD BARRETT
-			4/11/1975 - 24/10/1996"
+			
+			LAURA SINEAD BARRETT
+			4/11/1975 - 24/10/1996
+			COME UNTO ME, ALL YE THAT LABOUR AND ARE HEAVY LADEN, AND I WILL GIVE YOU REST
+			
 			19 years, to the day.
-
 			He sat down at the grave.
 			"Hey, mum." he began. "Sorry, no Vince this year... my fault."
 			He cleared his throat.
@@ -3014,7 +3003,11 @@ VOLUME 1
 			"He's a good boy."
 			"He's the best."
 			"Damn right." Sparky chuckled.
-			The three headed inside.
+			"How's your dad, by the way?" Connor tilted his head. "Working tonight?"
+			"Yeah, you know how it is." Trey shrugged. "He's... a little worried about the mortgage. And with my hours being cut at the repair shop, I'm not too sure how I can help."
+			Connor looked away guiltily. He felt Trey's hand softly on his shoulder.
+			"Don't beat yourself up. I'll get another job, it's fine. Now come on - let's pop back in."
+			Connor nodded, and the three headed inside.
 
 			"Hey, howdy!" Trey smiled.
 			"We were just saying - have you heard the story from last night?" asked Bea.
@@ -3032,6 +3025,51 @@ VOLUME 1
 			Connor shuffled nervously again. "They can't find out." he thought to himself. "I can't tell anyone. Not yet."
 			"Did you hear that? We're heroes!" Sparky barked, smiling and licking Connor.
 			"Haha, hey buddy." Connor laughed.
+
+			"Right, so it's not halloween without a spooky story." Amy began, grinning.
+			"Oh, Christ, here we go." Connor grinned, as the group formed a circle.
+			Trey dimmed the lights with a flick of the switch. "Mood established. Proceed, storyteller."
+			Amy leaned forward slightly, hands clasped.
+			"Okay... I have this one on good authority. One of the regulars at the tattoo place... he was working on maintenace under the city."
+			"Under?" Bea tilted her head.
+			"There's an old tunnel network under the city." Connor nodded. "A valley this wet needs plenty of storm drains, not to mention the natural caves formed by underground rivers. And during the Great Depression, there was a public works scheme where they just built a shitload of tunnels for various purposes. Plenty of older houses' basements still join into them. There were plans for a metro line in the 50s, but--"
+			"Nerrrrd." Amy snarked. "Besides, he's underselling it. No one calls it 'the old tunnel network.' They call it..."
+			Trey lowered his voice dramatically. "The *Underhill.*" 
+			Bea and Chloe chuckled. Amy grinned, and continued.
+			"So this guy - we'll call him Andy - he was climbing through an old maintenance tunnel, clearing debris. But then... he accidentally broke an old, crumbling wall. And that's where he found... *them.*"
+			"'Them?'" Chloe tilted her head skeptically.
+			"The Sewer People." Trey nodded reverentially.
+			"The Sewer People." Amy agreed, eyes wide.
+			"...the sewer people." Bea grinned sarcastically.
+			"The Sewer People." they both nodded in unison. They fought back their laughs, and continued.
+			"They've lived there for generations." Trey began. "Ever since the first tunnels were put down there in the 12th century."
+			"Oh, so when *I* start talking about the history, I'm a nerd." Connor snarked.
+			"Go on, then." Trey chuckled. "Tell us about the tunnels."
+			Connor sighed. "They were first built on orders of the Church - this was shortly after the Norman Conquest, and they wanted to win over the people. So they built this massive pipe network, taking fresh water straight from the Calder into a network of public fountains. But if a pipe sprung a leak, they would have to dig up the entire road to get to it - so they instead made these tunnels for easier maintenance access--"
+			"Nerrrrd!" Trey and Amy jeered again. Connor rolled his eyes and laughed.
+			"The first tunnels were small - far too small for adults to squeeze through." she continued. "So they'd send kids instead - as young as 8. They had tiny little lamps made of animal fat, and they had to crawl on their bellies. The smell of burning fat would attract packs of hungry, oversized rats..."
+			"I've seen the rats." Trey added, shuddering. "They're huge, and they're ravenous. I saw a pack of them swarming over a dead fox - it was horrifying."
+			"You guys have some very overactive imaginations." Bea grinned.
+			"It's true." Amy nodded firmly. "Anyway, a lot of these kids ended up getting stuck underground. Some of them - not many, but some - managed to crawl their way into the rivercaves Connor mentioned. There, they would meet other kids... they'd get older, have babies..."
+			"And the Sewer People were born." Trey shivered. "Their skin is so white, it's like chalk. Their eyes are all black, and bulging like fish. And their claws - perfectly evolved for digging - are sharper than swords."
+			"Right." Chloe smirked. "You *do* know you're talking to a biologist, right? People don't just 'evolve' like that."
+			"There's apparently a Werewolf on the loose in this city - I don't think standard biology applies." Bea grinned.
+			"Hey, whose side are you on?" Chloe laughed.
+			Amy chuckled, leaning in. "So, Andy accidentally broke into a Sewer Person nest. He says he shined his light over them, and they... squirmed."
+			"Their skin peeled at the heat of the light." Trey nodded. "And they went... feral."
+			"They charged him. Bit him. Clawed at him." Amy shivered. "He barely made it back to the street, and collapsed."
+			"Wow." Bea grinned. "You guys are funny, I'll give you that."
+			"Here." Amy handed over her phone. "He wanted tattoos to cover up the marks. Just look..."
+			Bea took the phone, and grimaced, showing Chloe. Andy's back was covered in scars - abnormal ones. Not lacerations - these looked like something had sucked the skin off of him.
+			"Oh, God..." Bea shuddered.
+			"There's... definitely an explanation." Chloe smiled nervously.
+			"There is." Connor laughed, unable to keep up the facade. "Andy's a pervert. He got the scars when he and his wife experimented with superglue."
+			"Oh, ew!" Bea giggled. "How do you know that?!"
+			"Because when he explained to Amy how he got the scars, she told us both right away... as soon as she stopped crying with laughter." Trey grinned.
+			The gang erupted in laughs - for Chloe and Bea, slightly relieved ones.
+			"There *is* a population in the Underhill, I should note." Connor sipped his drink. "Not 'Sewer People.' Just... vagrants. The tunnels connect you to plenty of old underground structures, and a lot of them just need a bit of jury-rigging to get power to them. For a lot of homeless people, it's better than sleeping on the street. Which says a lot about the state of this city, really."
+			"Huh." Chloe nodded. "So beneath the ghost story was a sociology lesson."
+			"Ugh, I get enough of those at uni." Bea groaned. The gang chuckled, and refilled their drinks.
 
 		Halloween
 
@@ -4796,7 +4834,35 @@ VOLUME 1
 
 		Fight outside the Horse
 
-	Never-Ending Crusade
+	Crusades, Unending
+	______________________________
+	CHAPTER
+		______________________________
+		SCENE
+
+		Enter, Rosenbaum
+		______________________________
+		SCENE
+
+		Stonewalled
+		______________________________
+		SCENE
+
+		I Need A Hero/Trust Me
+		______________________________
+		SCENE
+
+		Bats Out Of Hell
+		______________________________
+		SCENE
+
+		Hill of Horrors
+		______________________________
+		SCENE
+
+		Killer, Saviour
+
+	Under the Dragon's Hill
 	______________________________
 	CHAPTER
 		______________________________
@@ -5809,9 +5875,10 @@ VOLUME 1
 			Ivan stroked his beard, deep in thought. "A month ago, I would've thought you were crazy. But after what we've seen..."
 
 			He lit a cigar, and offered Connor one. Connor cocked his eyebrow, before taking it.
-			"Never smoked cigars before - but if this is what they're all like, I just might start." he chuckled, taking in the smoke.
 			"Cuban. Very good. Long live Comrade Castro." Ivan smirked.
-			"Viva la revolution." Connor grinned back.
+			"Viva la revolution." Connor grinned back. "You know, nicotine doesn't really affect us anymore."
+			"*That's* why my cravings have been so bad!" Ivan laughed.
+			Connor chuckled, enjoying the moment of levity.
 			"You've been a busy man, haven't you? This has been a very good partnership." Ivan began.
 			"How are our friends at the KGB doing?"
 			"Good, good. They like you - we tell you where these mutant punks are, and you send us their heads - or photos of them, which is good enough. You're a real soldier of the revolution, tovarishch." Ivan nodded.
@@ -6156,9 +6223,9 @@ VOLUME 1
 			"Yeah." she fondly remembered. "Sveta. She looks after my grandad. She's been with us since 2009 - she moved here when the war broke out in the USSR. Hah, one time, a few years ago, I hit my head really hard after a fall. It triggered a seizure, so she ran over and helped me through it. Once I came out of it, she ran through the same concussion checks I just did on you. She taught me them, in case I ever needed to check myself over."
 			"Bless her. I... A guy I work with is Russian. He's told me a couple times how brutal it got." Connor replied, smiling sympathetically. He shuffled again, getting comfortable.
 			"Wow, this bed is really comfy."
-			"It's just a bed." Chloe replied.
+			"It's just a bed." Chloe shrugged.
 			"I know, but... I've never slept on a bed this soft."
-			"I mean, it is nice." Chloe said wistfully. "But this fancy bed, that fancy dresser, my fancy kitchen... they's all just *things.* And I'd be fine without them."
+			"I mean, it is nice." she said wistfully. "But this fancy bed, that fancy dresser, my fancy kitchen... they's all just *things.* And I'd be fine without them."
 			"Huh... It's funny. I watched Vince spend his whole life trying to make us money, and you're saying it's no better off."
 			"Oh, I... Not like that." Chloe corrected herself. "I don't mean to sound ungrateful. Of course, having a good standard of living is important. But anything beyond that, you just... you start to think about the things money can't buy..."
 			"You mean... an island?" he asked, smirking.
@@ -6670,7 +6737,7 @@ VOLUME 1
 			"Well, he saved me from the same gang, remember? So, I don't know... maybe it was retaliation. Anyway, he'd let me stay at his after *I* was attacked, so I took him to mine to do some first aid and let him get some rest. It wasn't anything more than that."
 			Bea leaned back, stroking her chin. "Chlo... why do you get so flustered when we talk about Connor?"
 			"Well..." she began, blushing again. "I'm... embarrassed."
-			"To like Connor?"
+			"To like him?"
 			"No! No, not that. I'm... embarrassed to think I have a shot." she admitted.
 			"What do you mean?!" Bea tilted her head.
 			"Look at him, then look at me." Chloe shrugged.
@@ -6842,7 +6909,7 @@ VOLUME 1
 			"Enter."
 			"My lord." a servant began, opening the door. "Your... guest is here."
 			"Excellent. Send her in."
-			In a few heartbeats, a young woman in a black leather bodysuit approached. Fastened to her belt were a pair of whips, and an assortment of knives which reflected the light like running water. Her upper face was partially covered by a domino mask, but the black veins of a Super Agent peppered her cheeks nonetheless. A dutch braid held her light-blonde hair back, and a knife dangled from the end, tied neatly into the tail.
+			In a few heartbeats, a young woman in a black leather bodysuit approached. Fastened to her belt were a pair of whips, and an assortment of knives which reflected the light like running water. Her upper face was partially covered by a domino mask, but the black veins of a Super Agent peppered her cheeks nonetheless. A Dutch braid held her light-blonde hair back, and a knife dangled from the end, tied neatly into the tail.
 			"Ms. Cunningham, I presume?" Oxford grinned.
 			"That's not who you hired." she replied curtly.
 			"No, quite right... Agent Whiplash. Are you as good as they say?"
@@ -7118,17 +7185,17 @@ VOLUME 1
 			"I heard about that." Chloe added, looking forlorn. "I'm so sorry..."
 			"What's that?" asked Bea, her face full of sympathy.
 			The room quietened a little.
-			"Loads of pregnancies in the city went wrong around that time." Trey said. "Stillbirths, mostly. Loads of women died too."
+			"Loads of pregnancies in the city went wrong around that time." Trey said. "Stillbirths, mostly. A lot of mothers died too."
+			"Funnily enough, that's where I met Yaz - at a support group for Outbreak orphans." Connor nodded. "Her mum got pregnant again shortly after she was born, and..."
 			"Jesus..." Bea muttered.
 			Connor gave an awkward half-shrug. "Yeah. We were the only babies that actually survived. Anyone else born at that time managed to dodge the Outbreak."
 			"I hate that name..." Trey sighed. "It makes it sound like we're a disease."
 			"I'm one too." Amy nodded, smiling sadly. "You're in the room with three anomalies."
 			Chloe blinked. "Wait, seriously?"
 			"Yep. Tiny little local celebrity club." Amy snorted. "Perks include trauma, mummy issues, and occasional Lancet articles."
-			"This was supposed to be an embarrassing story about Trey sharting, I should note." Connor grinned.
-			"Hey, I overshare when I'm drunk. Bite me." Trey snarked back.
 			The gang let out subdued chuckles.
-			"Anyway." he continued. "From there, we became fast friends."
+			"This was supposed to be an embarrassing story about Trey sharting, I should note." Connor grinned.
+			"Hey, I overshare when I'm drunk. Bite me." Trey snarked back. "Anyway... from there, we became fast friends."
 			"And Trey got weirdly guilty about the whole bullying thing." Connor grinned.
 			"I *was* guilty."
 			"Yeah, but normal people buy someone a pint. You apparently offer them one free war crime."
@@ -7476,7 +7543,7 @@ VOLUME 1
 			At that, she launched a throwing knife at him. He caught it by the handle, and looked up, just as her whip smacked across his face.
 			He cartwheeled away to reduce the impact, and stabbed the knife into the ground.
 			"That wasn't very nice. I was still monologuing." he laughed, before his costume thickened with anticipation.
-			"Sorry, darling. Busy schedule." she smirked. She threw a knife into the air, and hit it with her whip. To Connor's amazement, the whip's edge wrapped around the handle and knotted itself perfectly.
+			"Sorry. Busy schedule." she smirked. She threw a knife into the air, and hit it with her whip. To Connor's amazement, the whip's edge wrapped around the handle and knotted itself perfectly.
 			"Whoa... do it again!" he snarked, before pouncing in.
 
 			Whiplash, true to her name, swung out, the knife at the edge slashing across Connor's chest. At the second strike, he grabbed the rope, only for the knife to swing around and stab into his abdomen. He pulled the whip as hard as he could, and Whiplash launched towards him.
@@ -7492,14 +7559,14 @@ VOLUME 1
 			She roared in... no, not pain. Excitement? Surprise? Either way, she spun the whip around, and the knife sank right into his back. Undeterred, he gripped a hold of her arms, and headbutted her as hard as he could.
 			Again, he felt a force pushing back. A normal Super-Agent would've been stunned badly by that - she was barely fazed. She headbutted him right back, with far more force, and sent him sprawling backwards.
 			He panted for breath, as did she.
-			"Oh, baby..." she grinned, licking the blood off of her lips. "No one's ever given me this much before."
+			"Oh, my..." she grinned, licking the blood off of her lips. "Now *this* is a fight..."
 			"Okay, this is getting weird now." he chuckled, rising. "How the fuck are you doing that?"
 			"What? This?" she smirked, before launching her whip at him again. This time, his hand shot out, and he grabbed it. He ripped it towards him, and planted his foot in her torso. She tried, but couldn't keep her grip. He threw it down, and raised his fists.
 			"Never bring a whipknife to a fistfight." he quipped, before charging in.
 			"Oh... excellent." she growled excitedly, putting up her stance.
 			The two super-warriors clashed again, and once more, Connor felt that strange force at his hands. Every strike he made either lost momentum, or glanced away, dealing minimal damage. Meanwhile, he could hardly move to dodge. It was as though the air was thicker for him, and thinner for her.
 			Finally, a haymaker from her sent him spinning to the ground. Landing on his back, she planted her boot on his neck. He gripped her heel, trying desperately to move it, but felt even the tiny gasps of air he could breathe be pulled from his lungs.
-			"That was... exquisite." she panted, grinning sadistically. "Oh, it's such a shame."
+			"That was... very impressive." she panted, grinning sadistically.
 			Connor felt his vision blur. The world was going darker, and he fought for every breath.
 			"Shh... don't fight it. Embrace it." she whispered.
 			"Embrace it." the voice echoed in his skull. "Embrace it..."
@@ -7508,7 +7575,7 @@ VOLUME 1
 			No.
 			NO!
 			His eyes burned a brilliant crimson, as he sent a strike right into her heel. It snapped, and she howled in pain. He sprang up, and sent another to her head. While the force restricted it, it landed, and his knuckles cracked along with her cheekbone. Then, he twisted her to face away, and wrapped her as tight as he could.
-			"This is... no time for a cuddle, darling..." she snarled, gripping her braid. She sank the knife into his chest. Then again. And again.
+			"This is... no time for a cuddle..." she snarled, gripping her braid. She sank the knife into his chest. Then again. And again.
 			He didn't react. He merely shuffled both to the edge of the rooftop, and jumped.
 			As they sailed down to the ground, she tried to use her strange power to cushion their fall.
 			It made a tiny difference, as they smashed down into a car. Metal and glass cut into her skin, and she felt her ribcage give way.
@@ -7844,15 +7911,14 @@ VOLUME 1
 			"Yeah, up near Leeds. Moved here in '98."
 			"Any reason you moved?" she asked.
 			"Eh. I was fed up with things up there, and wanted a change of scenery." he shrugged. "So, you grew up here, then?"
-			"Yeah, that's right." she replied. "My little sister Yaz was born early '96. Then, my mum got pregnant again."
+			"Yeah, that's right." she replied. "I was born in '91. Then, in '96, my mum got pregnant again."
 			Naismith nodded, before realising. "You mean..."
-			"Yeah." she shuddered. "She wasn't one of the ones who died, but she was pretty badly affected. Aneurysm. She's still alive, in a care home. Sometimes, she does little things that tell me she's still in there, somewhere. Our new little brother... he didn't make it."
+			"Yeah." she shuddered. "She wasn't one of the ones who died, but she was pretty badly affected. Aneurysm. She's still alive, in a care home. Sometimes, she does little things that tell me she's still in there, somewhere. My new little brother... he didn't make it."
 			"I'm sorry." Naismith shook his head sadly. "Did they ever find out a cause?"
-			"No, still nothing. There was a big stink in 2012, some major inquiry or something. Hah... that's where Yaz met..." she trailed off.
+			"No, still nothing. There was a big stink in 2012, some major inquiry or something." she trailed off.
 			Naismith awkwardly cleared his throat. "So, um... what about the rest of your family?"
-			"My dad's a deadbeat. Haven't seen him since I was little - he bailed after Mum became ill. My sister Yaz..." she smiled fondly. "Her and I were always close. Sure, I was always a bossy older sister, but we've always been thick as thieves, you know?"
-			Naismith nodded, smiling. Nina smiled back. "So, what about you, sir? Any family?"
-			Naismith hesitated. "Well, me and my brother never got along. Our old man was a drinker - a really mean drunk, to boot. My brother would always suck up to him. He and I don't talk anymore - around about the time I joined the police, he joined a gang of racist thugs. Heh, I suppose it's not like the police up there *aren't* a gang of racist thugs. Anyway, it just so happened that I was called out to respond to his gang harrassing folk. That was my first assignment after I'd completed my AFO training, and... he had a shotgun on him. I ordered him to put it down, and he didn't comply."
+			"My dad's a deadbeat. Haven't seen him since I was little - he bailed after Mum became ill."
+			Naismith nodded sympathetically. "My old man was a drinker - a really mean drunk, to boot. My brother would always suck up to him. He and I don't talk anymore - around about the time I joined the police, he joined a gang of racist thugs. Heh, I suppose it's not like the police up there *aren't* a gang of racist thugs. Anyway, it just so happened that I was called out to respond to his gang harrassing folk. That was my first assignment after I'd completed my AFO training, and... he had a shotgun on him. I ordered him to put it down, and he didn't comply."
 			"Oh, god." Nina shuddered.
 			"He's alive. Double-tap to the gut. And he had a beer-belly even bigger than mine." Naismith grinned. "After that, I decided to move down here. Took the detective course, and here we are."
 			Nina smiled. "So, what made you want to be a police officer?"
@@ -8003,17 +8069,9 @@ VOLUME 1
 			Connor looked in her eyes, and turned pale. "Yaz..." he whispered. He shook himself, and helped her get the pushchair down.
 			The little boy inside carried on crying. Yaz took a deep breath.
 			"You, um... you're looking well." she began. She was wearing a puffer jacket. Her hair was longer, now. The bleach-blonde had faded into a brunette colour, and she looked frighteningly thin.
-			"Thanks." Connor replied bluntly. He went to leave, as her boyfriend stormed over, and shoved him.
-			"Oi! Trying to make a move, are ya?" he snapped.
-			Connor tensed, ready to swing - but relented. "Elliot. Maybe I hit your head too hard last time - you seem to have forgotten your manners." he grinned.
-			Elliot snarled, and turned to Yaz. "Why are you talking to this wasteman?"
-			"Well, he helped me get Jack off the train." she said timidly. Jack carried on crying, but the noise was lesser, now - as if he knew, deep down, that no one was going to help him.
-			Elliot looked into Connor's eyes. "Stay away from my family." he snapped.
-			Sparky barked, making Elliot yelp in fear.
-			"Good boy." Connor grinned, stroking Sparky's head. Elliot left, face reddened.
-			Yaz shook her head. "I'm sorry about him..." she began.
-			"Don't be. Of all the things he's done to piss me off, that ranks pretty lowly compared to, I don't know, sleeping with my girlfriend?" Connor quipped.
+			"Thanks." Connor replied bluntly.
 			Yaz looked down, ashamed. "I... I'm sorry for how things ended between us."
+			Jack carried on crying, but the noise was lesser, now - as if he knew, deep down, that no one was going to help him.
 			Connor sighed, looking down likewise. A high-pitched wail from Jack went right through Connor and Sparky's eardrums, hitting their enhanced senses especially hard.
 			"You need a hand with the wee man?" he asked, trying his hardest to not sound judgemental.
 			"Oh, he... sorry, he gets like this. Sometimes he cries and cries, and just won't stop." she replied, lifting him up and trying to soothe him. The crying lessened ever-so-slightly, but didn't stop.
@@ -8674,7 +8732,7 @@ VOLUME 1
 			"Alright, so..." Naismith began, starting the engine. "Mikhaela's testimony lines up with the description we were given. Even better, forensics got a positive ID on the suspect. Fingerprints and DNA from the blood got a match, and the reg check confirmed the name."
 			"Who?"
 			Naismith handed her a file - a police personnel file.
-			"DCI Geoff Rillington, Vice." Naismith spat. "Positive match for his elimination samples. It all fits. His knowledge of forensics is why he amputated the fingers. He has a bit of a thing for arresting sex workers - which fits the victim pattern."
+			"DCI Geoff Chapman, Vice." Naismith spat. "Positive match for his elimination samples. It all fits. His knowledge of forensics is why he amputated the fingers. He has a bit of a thing for arresting sex workers - which fits the victim pattern."
 			"Dear god..." Nina shuddered. "A cop?"
 			"Yeah. And there's a good chance he knows we're coming. So let's move quick. He's not turned up to work for a few days now - no prizes for guessing why. We get to his house, and we arrest the bastard."
 			"Sounds good." Connor nodded, leaning in from the back seats.
@@ -8686,7 +8744,7 @@ VOLUME 1
 			"It's fine. We could use the backup."
 
 			The car pulled up outside a small house in the north of Belson. Nina and Naismith drew their firearms, while Connor morphed claws from his wrists.
-			"According to the armoury report, he's not checked in his service pistol. So we should assume he's armed." Nina whispered.
+			"According to the armoury report, he's not checked in his service weapons. So we should assume he's armed." Nina whispered.
 			"Good. Then we can say we were provoked." Connor snarled. "I'll take point."
 			"No arguments here." Naismith chuckled. Connor approached, and looked at the door. His eyes flashed red as he scanned it.
 			"What are you doing?" Naismith asked quietly.
@@ -8762,7 +8820,7 @@ VOLUME 1
 			"Huh?" they replied.
 			"MOVE!" he roared, throwing the table in the air and grabbing. Trey and Amy were caught by his left, while Chloe and Bea by his right. He dived out of the way, just as the car slammed into the space previously occupied by the booth.
 			"HOLY FUCK!" Trey gasped, scrambling to his feet.
-			The group scurried back, as the driver side door kicked open. Rillington stepped out. He drew his pistol, and fired into the ceiling.
+			The group scurried back, as the driver side door kicked open. Chapman stepped out. He drew his pistol, and fired into the ceiling.
 			"EVERYBODY LISTEN UP!" he roared. "DO AS I SAY, OR I'LL SHOOT YOU!"
 			Screams filled the air, but people raised their hands in panic. He herded them into the space just ahead from the door.
 			"Now, everyone down on your knees. No sudden movements."
@@ -8777,7 +8835,7 @@ VOLUME 1
 			Connor gave a subtle nod.
 			"Oh, fuck..."
 
-			Rillington stood behind the crowd, facing the main doors. He pulled out a megaphone, and began to speak.
+			Chapman stood behind the crowd, facing the main doors. He pulled out a megaphone, and began to speak.
 			"THIS IS A MESSAGE. TO THE *WEREWOLF!*" he roared. "COME HERE IN 20 MINUTES - OR EVERYONE HERE DIES!"
 			"Oh god, oh god..." Chloe gasped, pale as a ghost.
 			"We'll be okay." Amy whispered, hugging her.
@@ -8788,7 +8846,7 @@ VOLUME 1
 		Strangle a Horse
 		______________________________
 		SCENE
-			"YOU!" Rillington barked at Pawel. "BARRICADE THE DOOR!"
+			"YOU!" Chapman barked at Pawel. "BARRICADE THE DOOR!"
 			"Okay, okay. I'm doing as you say." Pawel nodded, complying.
 			"Hold tight, bratan." Ivan said through Connor's earpiece. "Help is on the way."
 			Connor shuffled over to Amy.
@@ -8797,17 +8855,17 @@ VOLUME 1
 			"You should. We've still got 18 minutes - enough time for your friends to help."
 			Connor sighed. He raised his finger to his ear, and leaned into it, as if he was scratching his earlobe.
 			"Sparky, if you can hear this - I need a distraction. ASAP." he whispered.
-			"Who are you talking to?" Rillington barked, pointing his gun in Connor's face.
+			"Who are you talking to?" Chapman barked, pointing his gun in Connor's face.
 			"I--I was praying." he quickly lied.
-			Rillington laughed. "Good idea."
+			Chapman laughed. "Good idea."
 
-			Another five minutes went by, tensely. Armed police arrived, and Rillington barked his threats through his megaphone.
+			Another five minutes went by, tensely. Armed police arrived, and Chapman barked his threats through his megaphone.
 			"Oh, I can't wait 'til he gets here..." he giggled maniacally.
 			"Please, let us go." Chloe pleaded. "The Werewolf will be here any minute."
-			Rillington turned, scowling. "Do not speak. DO NOT SPEAK!"
+			Chapman turned, scowling. "Do not speak. DO NOT SPEAK!"
 			"Chloe..." Connor whispered. "He's unhinged. Just keep your head down."
 			"We've got to try something!" she protested.
-			Rillington stomped over, and looked at her.
+			Chapman stomped over, and looked at her.
 			"Oh... look at that scar." he whispered. "You're a bad girl, aren't you?"
 			Chloe's face contorted with rage, as did Bea's.
 			"Don't fucking talk to her like that!" she barked.
@@ -8815,19 +8873,19 @@ VOLUME 1
 			"Bea!" Chloe gasped, jumping in the way.
 			"LET THEM GO!" Connor roared, shoving him.
 			"Connor! No!" Trey barked, horrified.
-			Rillington raised his gun, and then...
+			Chapman raised his gun, and then...
 			WHOOSH!
 			A black blur zipped behind them. He turned, his eyes moving frantically.
 			WHOOSH!
 			Another blur, this time in plain view.
-			"Oh... Ohhhh... He's here!" Rillington sang.
+			"Oh... Ohhhh... He's here!" Chapman sang.
 			With that, the lights cut out. People gasped and scrambled, as he turned his flashlight on.
 			"Where are you? Where arrre youuuuu?"
 			Two red orbs burned in the darkness. He pointed his flashlight at them.
 			The Werewolf stood, clad in armour, a vicious growl emanating from him.
 			He looked up at Sparky, who had sprawled into the vents. He nodded, and stepped forward.
 
-			"At last... it is so good to see you!" Rillington grinned.
+			"At last... it is so good to see you!" Chapman grinned.
 			"What are you talking about?" Connor snarled.
 			"This! Us! Finally, we can get them all!"
 			"What?!"
@@ -8840,22 +8898,23 @@ VOLUME 1
 			Connor tilted his head, lost.
 			"I'm a police officer, you know." he mused. "I tried to make a difference, back in 2002, but no matter how many bad girls I throttled, it didn't do anything. But then... you came along. And I realised that's what we needed for our crusade."
 			"Our *what?!*"
-			"Our crusade? Our mission?" Rillington asked, confused. "You know?"
+			"Our crusade? Our mission?" Chapman asked, confused. "You know?"
 			"I don't." Connor shook his head firmly. "We don't have a 'mission.' You're a murderer."
 			"Yes, we do!" he protested. "You go big, I go small! We've been doing this all week! You take out freaks like that Giant, and I go after the... the *filth,* the *scum,* the *bad boys and girls...*"
 			"WE HAVE NOTHING." Connor snapped. "You're a monster who kills innocent people. And now... I'm going to--"
-			Before he could finish, Rillington screamed. He *screamed,* wailing like a banshee.
+			Before he could finish, Chapman screamed. He *screamed,* wailing like a banshee.
 			"NOOO! NO, THIS ISN'T REAL! *YOU'RE WRONG!*"
 			Connor stepped back. Under his mask, he cocked an eyebrow.
 			"No... no... no no no..." he whispered. "We had... we had a mission, we..."
 			He looked up, scowling.
 			"You think they're innocent? All those *bad, bad boys and girls?*"
 			"Enough talk." Connor snarled. His wrists made a notable *shink!* as blades formed out from them. "You can keep crying when I see you in hell."
-			At that, Rillington opened fire. Bullets slammed into Connor's chest, and he tanked them, his eyes aflame.
+			At that, Chapman opened fire. Bullets slammed into Connor's chest, and he tanked them, his eyes aflame.
 			A distraction. He grabbed the nearest body - Amy - and held his pistol to her temple.
 			"NOBODY MOVE!" he screamed. "NO-ONE MOVES, OR THE BITCH GETS IT!"
 			"No!" Connor gasped, freezing solid. "LET HER GO!"
 			At that, Naismith and Nina rushed in, their guns trained on him.
+			"Chapman! Drop your weapon, now!" Naismith barked. "There's no way out!"
 			"Ohh... I will never understand how you can defend these *animals!*" he spat. "Look at her! You can tell she's a *bad--*"
 			"*LET! HER! GO!*" Connor roared. His voice boomed through the room, ringing in people's ears.
 			"Idiot..." Amy snarled. "If you shoot me, there's nothing stopping him from killing you."
@@ -8876,7 +8935,7 @@ VOLUME 1
 			He gasped in shock, looking down at the gun. Amy's ear rang from the blast, but she knew exactly what to do. She leaned her head forward, and slammed it backwards, smearing his nose across his face.
 			Connor pounced forward, as she broke free from his grip. He wrapped his hands around the neck, and squeezed.
 			"*Do you still feel like a big man?*" he asked. His voice was terrifyingly, unnaturally calm. As if he was screaming so loudly, human ears could not register it.
-			He raised him up in the air. Rillington frantically kicked, to no avail.
+			He raised him up in the air. Chapman frantically kicked, to no avail.
 			"Do you? *Do you?*" Connor repeated, his grip tightening.
 			Naismith walked over.
 			"Let him down." he said gently.
@@ -8887,10 +8946,10 @@ VOLUME 1
 			Connor growled like a rabid dog. But then, Amy gently put her hand on his shoulder.
 			"He's right. Let him down." she whispered. "I'm okay. I'm not hurt."
 			Connor's eyes slowly dimmed, still blazing. He finally released his grip.
-			"Gah..." Rillington sputtered. "Coward... you think you're one of them? Admit it... you're more like me. You *enjoy* it."
+			"Gah..." Chapman sputtered. "Coward... you think you're one of them? Admit it... you're more like me. You *enjoy* it."
 			"Shut the fuck up." Naismith barked, pistol-whipping him. He slammed him against the wall, and cuffed him.
 			"It's alright... he'll face justice for this." Amy said softly.
-			Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into Rillington's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
+			Connor hesitated. He turned, and grabbed Naismith's gun. Before anyone could react, he pushed it into Chapman's crossed palms, and fired. His screams filled the air, only to go silent as Connor closed his mouth forcefully.
 			"You took with these hands, and I take them in turn." Connor snarled viciously. "You're right. I do enjoy it. I enjoy cleaning up filth like you."
 			"Alright, enough." Naismith said half-heartedly. He took his gun, and holstered it.
 
@@ -9406,7 +9465,7 @@ VOLUME 1
 			Except for this one moment.
 			The Drackhill Winter Faire.
 			A running joke in the city was that there were cruel gods who controlled the weather. It seemed tonight, they were in a festive mood. The flakes of snow fluttered down into the valley, melting before they could settle. Still, as the gang approached the fairground gates, they grinned at the atmosphere.
-			"Alright, so - Bea and Charlie are in there already, getting coffee." Chloe began. "So, we meet up with them, and find something to do?"
+			"Alright, so - Bea and Charlie are in there already, getting coffee." Chloe began, pulling her scarf a little closer to her face. "So, we meet up with them, and find something to do?"
 			"Ice skating! Let's do ice skating!" Trey cheered.
 			"Ah, someone's had sugar today." Connor snarked.
 			"Ice skating!" Amy grinned. Sparky howled in agreement.
@@ -9482,7 +9541,7 @@ VOLUME 1
 			He smiled, and kissed her.
 			Trey and Amy skated past, and quickly hid their scowls. Instead, they skidded to a halt nearby, looking on at Connor and Chloe.
 			"Lovebirds." Trey grinned.
-			"Ugh, straight people." Amy snarked. "If he doesn't make a move soon, I'm gonna try and convert her."
+			"Ugh, straight people." Amy snarked. "If he doesn't make a move soon, I'm gonna try and convert her to my team."
 			Trey chuckled. "I've got an idea."
 			He hopped over the fence, and quickly returned. Something green was hidden in his fist, and he skated towards the pair.
 			"Mistletoeeee!" he chimed, circling them and holding it above their heads. Their cheeks burned bright red.
@@ -9568,7 +9627,7 @@ VOLUME 1
 			In a second, he pounced, and sent a flurry of hits that made Steve crumple to the ground, wheezing and moaning. He turned, and his hearts quickened.
 			"Stay right there, or... or Santa gets it!" Dave barked, pressing the gun into his temple.
 			Connor's eyes flared red. "Listen to me." he began, his voice echoing with rage. "The only reason you and your friend are not red paste is because I don't want to traumatise these children. If you pull that trigger, that reason becomes void. *Do I make myself clear to you?*"
-			Dave gulped, pale as a sheet. Finally, he relented, dropping his gun. Connor morphed a set of restraints for both men, and kicked a hole into the wall, throwing both out.
+			Dave gulped, white as a sheet. Finally, he relented, dropping his gun. Connor morphed a set of restraints for both men, and kicked a hole into the wall, throwing both out.
 			The children rose, clapping wildly.
 			"That's right, children! A big round of applause for Mr. Werewolf!" Santa cheered.
 			Connor grinned, then morphed a blade from his wrist. He approached Santa menacingly.
@@ -10675,49 +10734,6 @@ VOLUME 1
 	______________________________
 	CHAPTER
 		______________________________
-		FLASHBACK
-			July, 2013. The morning after Connor misunderstood Yaz's wishes.
-			She woke up in her bed. The man next to her - Elliot - gave her a kiss.
-			"I'm gonna go get a drink." she whispered. "You want one?"
-			He shook his head. "I'll sneak out the back."
-			She chuckled, and went downstairs.
-			"Busy night?" Nina asked, grinning and sipping her coffee.
-			Yaz jumped out of her skin. "Oh, I--"
-			"You know..." Nina sighed. "It's a little weird that he's hiding up there. I'm not even a qualified cop yet - I'm not gonna arrest a boy for dating you." she grinned.
-			Yaz laughed nervously. "Y-yeah, I know, it's just..."
-			Nina rolled her eyes. With that, a knock on the door.
-			"I'll get it - you're barely dressed." Nina chuckled, rising. She opened the door, and there stood Connor, holding some flowers and chocolates.
-			"Oh, hi!" he began. "Y-you must be Nina, Yaz's sister? I'm Connor, her boyfriend. Is she in?"
-			Nina tilted her head. "Um, no you're not. Can I help you?"
-			Connor's eyes darted around, unsure. "Uh, pretty sure I am? I, um--Sorry, I know I'm unnanounced. I think I made a bit of a faux-pas last night, and I wanted to make it up to her. Can you--Can you give these to her, and say I'm sorry?" he asked, handing her the gifts.
-			Nina folded her arms. "What did you do?"
-			"Oh, um--" Connor went slightly red. "I think she wanted to hang out as just the two of us, but I misunderstood and had my friend come round. It was my fault, I--I should've realised what she meant."
-			Nina tilted her head, before making the connection. "Uh, Yaz? There's someone here for you!"
-			Yaz arrived, and went pale upon seeing him. "Oh, Connor, I--" she stammered.
-			"Hi, Yaz!" he said cheerfully. "Listen, I... I'm sorry about last night. I misread the signals, and that's on me. I just wanted to give you these--" he handed her the gifts, "--and say I'm sorry."
-			Yaz trembled at this, absently taking the gifts. "Oh, I... Thanks." she finally said.
-			Nina looked at her, shocked.
-			Connor paused, before nodding. "I, um... If you want, we can go out today? There's this faire on in the park I saw - might be nice?"
-			She looked at him, with a deep sadness in her eyes. "I, uh... No, sorry, I think I'm busy today."
-			"Okay!" Connor smiled. "Well, maybe some other time?"
-			"Sure." Yaz looked away, before going inside. Nina looked at her, and shook her head.
-			With that, Elliot came out from the garden gate, arriving in the driveway half-naked. He went pale upon seeing Connor.
-			"Oh." Connor tilted his head. "Morning, Elliot."
-			Yaz began hyperventilating, as Nina facepalmed.
-			"Wait..." Connor began, connecting the dots. "No." he shook his head.
-			"Connor, I--" Yaz began.
-			"You didn't." Connor said, chuckling mirthlessly. "You didn't do that. I know you didn't. I *trust* you Yaz, I *love* you - I know you didn't do that. Tell me you didn't, yeah?"
-			Nina stepped out, placing herself between them. "Okay. Let's just all take a breath, yeah?"
-			Yaz looked away in shame. Connor took a deep breath.
-			"Sorry, mate." Elliot grinned. "Guess she just wanted a real man."
-			Connor looked up, and marched over to him. He went to raise his fists, but whispered. "No." to himself.
-			With that, Elliot launched a punch into Connor's gut. Nina's face hardened as she rushed over, but Connor responded by delivering a haymaker to his jaw, knocking him to the ground.
-			Yaz began openly crying now, as Connor took a deep breath.
-			"Alright, enough!" Nina barked. "Connor, go home - now."
-			Connor looked up, and nodded silently. He looked over at Yaz. He wanted to say something - but couldn't find the words. He sighed, and left.
-
-		Connor catches Yaz
-		______________________________
 		SCENE
 			The sky seemed almost determined to make this morning as miserable as possible. Slushy, cold sleet pelted down into the valley. Despite this, it failed to ruin the Barrett's morning.
 			After all, it was Christmas.
@@ -11139,60 +11155,7 @@ VOLUME 1
 		Derrington Family Christmas
 		______________________________
 		SCENE
-			Back in Redbridge, Nina sat in her living room. Her sister, Yaz, was sat on an adjacent sofa, along with her partner Elliot. Jack, their toddler, was playing with his new toys, babbling to himself. Nina had heavy eyebags forming from lack of sleep. Yaz appeared uneasy. Elliot was on his phone. Nasreen, Nina and Yaz's mother, was asleep and snoring on a reclining chair. She had a blanket around her legs, and was connected to an oxygen tank.
-			Georgie, Nina's cat, treaded over to Jack, who giggled and stroked him. He laid down, enjoying the attention.
-			Elliot decided he was bored of the current movie, and went to change the channel.
-			"Hey, I was watching that..." Yaz protested meekly, but Elliot stared her down, causing her to cower away.
-			"Hah. You're so cute when you pout." he mocked. "I want to watch something else."
-			Nina scoffed. "Um, excuse me, Elliot - this is my house. I think *I'd* be the one to pick the movie."
-			Elliot scowled. "Fine, fine... Whatever. Enjoy your stupid movie." He threw the remote at Nina, narrowly missing her face.
-			"Hey! Watch it!" she snapped at him.
-			"You caught it, didn't you? Fucking hell..." he moaned.
-			"Don't forget I'm a police officer." Nina half-growled.
-			"How could we forget? You never shut the fuck up about it." Elliot snarked.
-			"Right, that's it. Get out of my house, now." Nina snapped.
-			"Fine by me. Come on Yaz. Jack, come on." Elliot replied, standing.
-			Jack protested by huffing, but Elliot was not amused.
-			"Jack. Get up. Now." he said, as though he was scolding a dog.
-			Yaz's voice trembled but grew louder. "Don't talk to him like that." 
-			Her words hung in the air for a moment, before Elliot turned his glare on her. She looked away, her resolve crumbling.
-			Jack sighed and crawled to his feet, before toddling forwards. For a baby, he was remarkably grown up - it was clear he had to be.
-			"No. I asked for you to leave. Yaz and Jack can stay." Nina cut in.
-			"They're my family, they go where I go. Isn't that right, Yaz?" Elliot grinned, looming over her. Avoiding his gaze, Yaz gulped.
-			She opened her mouth to speak, but faltered under Elliot's gaze. "Yes... Yes, that's right." she whispered, her voice barely audible.
-			"No! Yaz, you and Jack can stay." Nina protested, but Elliot cut her off.
-			"I think we just heard Yaz's answer, Nina." Elliot grinned, like a jackal taunting his kill.
-			Jack ran over to Nina and gave her a hug. "Bah-bah, aunnina!" he babbled.
-			The three left, causing Nina to angrily throw a bottle against the wall.
-			Nasreen awoke, and let out a confused groan.
-			"Nothing, mama. Go back to sleep." Nina sighed.
-			Nasreen groaned out affirmatively, and her eyelids sank back closed.
-			Nina squatted down, and cried silently.
-
-			Later that night, she phoned Yaz.
-			"Yaz... I'm sorry I kicked off. But he was being so rude."
-			Yaz replied quietly, as though she was afraid of being heard. "I know, I'm sorry... He's drunk now, passed out upstairs. I've just put Jack to bed."
-			"Why are you even with him?" Nina asked.
-			"Because..." Yaz began. "Well, he's the father of my child. And, well... It's not like anyone else would have me. Me, a teen mum who everyone thinks is a skank. Me, a school dropout with no GCSE's, no A levels, no job. No future." she sobbed. "Elliot is the only one who would have me. How could I leave? And... It's not just about me, Nina. If I leave, where would we go? How would I support Jack? He deserves stability, even if it's... like this."
-			"You'd be better off single than staying with him. Yaz, I've seen too many cases like this. It always starts small - words, looks. But it escalates. I can't sit back and watch it happen to you. Has... Has he ever hurt you or Jack?"
-			"No." Yaz replied, unconvincingly.
-			"Yaz, I'm a police officer. I can help you." Nina began, but Yaz interrupted.
-			"No, Nina, just... No. Look, I'm fine. Honestly, I am."
-			Nina sighed. "You used to be with that really lovely boy... what was his name?"
-			"Connor." Yaz replied, the sadness palpable in her voice. "Yeah, we were... but... I messed it up."
-			Nina sighed. "I remember."
-			Yaz cried silently. "God, I still remember the look of shock on his face. And, well... I want to say it's the worst thing I've ever done, but I wouldn't have Jack if I didn't. Does that make me a horrible person?"
-			"No... No, Yaz. It makes you an idiot for still being with him, but not horrible." Nina sighed. "Look, I'm begging you - get out."
-			"No." Yaz replied firmly. "I... I can't, Nina. Elliot and Jack are all I have. I wish I could, but... I just can't."
-			"You have me too." Nina interjected. "And you can bring Jack here. I love seeing my little nephew."
-			Yaz's voice hardened slightly. "I know you're trying to help, Nina, but you don't get it. Every time I think about leaving, I... I feel like I'm drowning. What if it's worse out there? What if Jack grows up hating me for breaking up his family? I... I'm sorry Nina. But I can't." she cried, and hung up the phone.
-			Nina broke down in tears. Once she managed to get her crying under control, her face hardened with resolve, and she went on her phone and called someone - DI Naismith.
-			"Hello, sir. I'm so, so sorry it's late... Oh yes, merry Christmas to you too, sir. I... I'm worried my sister and her son are being..." she hesitated. "...abused. By her partner. I'm going to file a report - could you, I don't know, see if you can put any pressure on it? I know you're so focused on the Werewolf case, but just having a DI take an interest could help it along... Really? Thank you so much, sir, I--thank you. Goodnight, sir."
-
-		Chowdhury Family Christmas
-		______________________________
-		SCENE
-			"Yeah, goodnight, Nina." Naismith mumbled. He was sat at his table alone, wearing a dirty tank top and shorts. His stubble had grown into a scraggly beard, and he clearly hadn't showered in days. He looked less like a seasoned detective, and more like a homeless man - or the bloated corpse of one. He went to sip from the beer bottle in his hand, only to realise it was empty. He cracked open another one, and began to drink. A tear ran down his cheek.
+			Naismith rolled his shoulders, and mumbled. He was sat at his table alone, wearing a dirty tank top and shorts. His stubble had grown into a scraggly beard, and he clearly hadn't showered in days. He looked less like a seasoned detective, and more like a homeless man - or the bloated corpse of one. He went to sip from the beer bottle in his hand, only to realise it was empty. He cracked open another one, and began to drink. A tear ran down his cheek.
 			He stood up, and went on his laptop. There, he played a recording, dated 15-08-2005.
 			"Hi, Henry! Hope my sexy Detective Constable is doing good today." a woman's voice played. Naismith's eyes welled up at the sound of her voice. "I just called to say that I miss you, and that I love you, and..." she giggled in excitement. "I can't wait to marry you! I'm just going to go to the pharmacy to get some painkillers - I'll see you tonight. I love you... wait, didn't I say that already?" she giggled again. "Doesn't matter. I love you, I love you, I love you! See you tonight, baby." the recording ended with the familiar beep of a voicemail recording. Naismith had tears streaming down his face. He cried, and went to drink another bottle - but his St. Bernard put his paw on the bottle, holding it away from his lips.
 			"Max... Hey, Max..." Naismith slurred. "Let go, buddy... Let me..."
@@ -12893,7 +12856,7 @@ VOLUME 2
 			Another inmate walked in, this time flanked by an officer.
 			"Ah. Nonce wing." Vince scowled. "Oh, sorry - 'Vulnerable Person's Unit.'"
 			Connor looked closer, and recongised him. The broken hands, in particular.
-			"That's the Strangler." he snarled.
+			"That's Chapman. The Strangler." he snarled.
 			"Fuck. The one who nearly shot Amy?" Trey gasped.
 			"He *WHAT?!*" Vince barked.
 			"Hey, hey... deep breaths." Connor quickly cut in. "Look at his hands and believe me when I say, I've already dealt with it."
@@ -13065,9 +13028,7 @@ VOLUME 2
 			Over in Redbridge, in Skye Road Pawz, Amy was working the reception.
 			Nina entered, holding Max on a leash.
 			"Oh? And who's this lovely little man?" Amy cooed.
-			"'Little' might be a stretch." Nina chuckled. "Hi, Amy."
-			"Oh, Nina? You're Yaz's sister, right? Sorry, it's been ages." Amy smiled. "How have you been?"
-			"Yeah, not bad, thanks." she lied. "Listen, um... this is Max, he's my boss's dog. He, um... he was swept up in that purge the other day. I was hoping I could book Max into daycare? I don't want him adopted out, or anything."
+			"'Little' might be a stretch." Nina chuckled. "Listen, um... this is Max, he's my boss's dog. He, um... he was swept up in that purge the other day. I was hoping I could book Max into daycare? I don't want him adopted out, or anything."
 			"No, of course not." Amy shook her head. "We'll get him in, no problem. A full day is £40."
 			Nina nodded, and tapped her card.
 			"See you later, Maxie." Nina smiled. Max barked happily, and was led into the courtyard by Amy.
@@ -14372,8 +14333,6 @@ VOLUME 2
 			"Right." Nina nodded. "And according to Mr. Thorne, you held the knife up against his throat."
 			"It was heat of the moment. I wasn't going to do anything."
 			"Of course." Nina smiled. "Okay, that's enough. We'll call you if we have further questions."
-			As Connor left, Nina sat there for a moment.
-			"Connor..." she sighed.
 
 			With that, the gang regrouped in the police station's lobby. They exchanged words of comfort and smiles.
 			"Thank you, guys... thank you again..." Bea whispered. Chloe hugged her tight.
@@ -14382,29 +14341,6 @@ VOLUME 2
 			"They put him in another cell while they interviewed me." Connor explained, shrugging. "I think she's just getting him now."
 			With that, Nina arrived, holding Sparky on a lead.
 			Sparky pulled, immediately breaking free, and pounced on Bea, licking her face. She laughed, and squeezed him tightly.
-			"Excuse me, Mr. Barrett?" Nina asked. "I'm afraid the forms have glitched out on our system - could I just get you to confirm some information quickly?" 
-			Connor nodded, and turned to his friends. "I'll meet yous outside."
-			They nodded, and went out. Connor returned to the interview room with her.
-			"Sorry..." she said, looking unusually shy. "I need to ask you a favour. I, um... I know you."
-			Connor gulped.
-			"Shit." he thought. "My voice. She must have recognised my voice just like Shannon did."
-			"It's about my sister Yasmin..." she began. At the mention of her name, Connor cringed slightly, while also relaxing - it was a painful memory, but it wasn't *that.*
-			"I thought I recognised you..." he sighed.
-			"I know... I know things didn't end well between the pair of you. But, well... frankly, you might be the only person who can help her. I need to ask you off the record." she tugged at her collar slightly. "You know about her son, Jack?"
-			"I was there at the conception." Connor quipped.
-			Nina smiled sadly. "I think her and Jack are being abused by her partner, Elliot."
-			Connor's eyes widened. "Can't you do something?"
-			"Oh, I've tried - but she's stonewalling me. I've raised a report, but I can't get involved, or I risk predjudicing the inquiry. Few domestic violence cases are as clear-cut as Bea's, so no one's doing anything on it. But, well... I know Elliot is bad news."
-			"I'll say. He slept with someone else's girlfriend." Connor replied grimly.
-			"I know... I know this is a lot to ask. But I'm desperate here." she pleaded. "Can you at least check up on her?"
-			Connor sighed. He thought to himself for a moment.
-			"I'll do it." he finally spoke.
-			Nina exhaled in relief, and let him leave.
-			Connor went on his phone. He found Yaz's number, and unblocked her.
-			"Hey. I just spoke with your sister, she's worried about you and the kid. I once promised you I'd always be there for you; and I don't like to break my promises. If you need me, just call. Regardless of everything that happened, you're still someone who meant a lot to me. If you need a friend, I'm here." he wrote.
-			He hesitated, and added another line.
-			"I've moved place by the way. My new address is 56 Wilbur Ave. If things get too rough and you need a place to stay, just come round."
-			He paused. He closed his eyes, and pressed send.
 
 		Police interviews
 		______________________________
@@ -15191,6 +15127,8 @@ VOLUME 2
 			"It's very simple. You don't kill." he folded his arms.
 			"But you can?"
 			"It's... different." he began uncomfortably. "Super-Agents - they can't be taken down non-lethally. And if I'm running a hitman job, then... well, the world's a better place without the scum I go after. But regular, street-level goons? They're off limits."
+			"There is one thing that's bugging me... in situations where you have to kill, why don't you use guns?"
+			He thought for a moment. "A few reasons. Mainly, because you can't non-lethally shoot someone. And in the cases where I *do* plan to kill, they usually have bulletproof armour that makes them immune to small calibers. If I wanted to shoot a Super-Agent dead, I'd need at least an assault rifle - which isn't something you can just carry around. If I need range, I can morph crossbows."
 			She nodded, absorbing the lecture.
 
 			"Guys, I hate to be the bearer of bad news, but Gambit is TA." Shannon worriedly said over the commline.
@@ -15217,9 +15155,11 @@ VOLUME 2
 			Connor spat blood, as his eyes blazed.
 			"You're on poor form tonight, traitor!" the other taunted. "Or did you think Paladin was gonna keep sending cannon fodder after you?"
 			"We're the next generation, swine. Where so many others devolved and dysregulated, we became more."
-			"Oh, please, keep wittering. It's really doing some damage." Connor snarked, as he gripped the Agent's head.
-			He jerked his hands as hard as he could. The Agent groaned in pain as he shuffled his blade through Connor's intestines, but finally--
+			"Oh, please, keep wittering. It's really doing some damage." Connor snarked, as he drove his thumbs into the Agent's eyes.
+			The Agent groaned in pain as he shuffled his blade through Connor's intestines.
+			A horrifying crunching noise formed, until finally...
 			*SNAP!*
+			Connor held the two halves of the Agent's head, and threw them to the ground. He dug his hands into the now-open neck-stump, and pulled. In short order, the Agent's body was bisected - a gruesome tear running from neck to groin.
 			The Agent went stiff, then limp. The machete fell out of the gaping hole in Connor's belly, and he stepped forward, spitting blood.
 			"I fuckin' hated that guy." the last Agent grinned. "Now *I* get all the glory."
 			"RAAGH!" Amy roared, jumping onto his back.
@@ -15416,8 +15356,8 @@ VOLUME 2
 			"Hey there yourself! Wow, you look..." Connor trailed off, caught off guard.
 			Chloe paused, afraid that she looked bad. She self-consciously tugged at the hem of her shirt.
 			Connor smiled, finishing his sentence. "You look amazing. I love the hair."
-			She blushed. "Oh, yeah... well, can't play arcade games with hair in my face!" With that, they headed inside.
-			They approached the counter.
+			She blushed. "Oh, yeah... well, can't play arcade games with hair in my face!"
+			With that, they headed inside. They approached the counter.
 			"Hi, um... we booked a table for a couple of hours?"
 			"Ah yes - Miss Derrington?" the receptionist asked, checking her screen. Chloe nodded.
 			"Perfect. Here's your wristband, and enjoy!"
@@ -15435,7 +15375,7 @@ VOLUME 2
 			The air began to rush out from the holes beneath his paddle, and his eyes ran up and down, studying it.
 			With that, he heard a click of plastic, and saw the puck slam into his goal.
 			"1, nil." Chloe grinned. "Never let your guard down."
-			"Okay, I see!" Connor chuckled. He pulled out the puck, and they started to play.
+			"Okay, I see! It's like that, huh?" he chuckled. He pulled out the puck, and they started to play.
 			Chloe's reflexes were sharp - she lunged, tapped, and blocked with a grin, laughing as Connor barely managed to counter one of her shots.
 			The timer started audibly ticking. 6-6, neck and neck.
 			Chloe smirked, and served. Connor hit it back, harder than before. She bat it at him, and he went again, back-and-forth... and the puck ended up going too far to his left. He could make it, easily - but no human could. He smiled, and bowed gracefully as it made its way to his goal.
@@ -15463,7 +15403,7 @@ VOLUME 2
 			*SLAM!*
 			The counter rocketed as digits spasmed out and the machine rocked back. Finally, "999" flashed over and over on the screen.
 			"...oh my god." she whispered in awe.
-			Connor grinned giddily as he collected his bundle of tickets.
+			He grinned giddily as he collected his bundle of tickets.
 			"Shall we?"
 
 			Connor wolfed down his cheese-coated chips, washing them down with a thick chocolate milkshake.
@@ -15598,7 +15538,7 @@ VOLUME 2
 			"We've got the field covered. If you really wanna help, give Shannon some help down here. *Not* that kind of help." he quickly corrected.
 			The two cringed and smirked, as the superheroes headed out.
 
-		Date aftermath + Welcome to the Pack
+		Date aftermath/Welcome to the Pack
 		______________________________
 		SCENE
 			The two thugs had the young man cornered. One whacked his club against the wall.
@@ -15646,7 +15586,7 @@ VOLUME 2
 			"Whiplash..." a voice whispered in her ear. She quickly turned, and her eyes darted about.
 			"Who's there?!" she snapped, drawing her bow. Before she could react further, she felt the air shift, and a blade press against her throat.
 			"83... to what do I owe the pleasure?"
-			Her attacke - a male figure, bound up in a kevlar bodysuit and a full-face gas mask - growled. His weapon of choice - a damascened shortsword - caught the light before her jugular.
+			Her attacker - a male figure, bound up in a kevlar bodysuit and a full-face gas mask - growled. His weapon of choice - a damascened shortsword - caught the light before her jugular.
 			"You're coming home, Agent."
 			"I'm *never* coming home--"
 			"*Listen. And. Obey.*"
@@ -15945,7 +15885,7 @@ VOLUME 2
 			The three heroes of Drackhill stood at Ivan's recon point, looking down at the small safehouse.
 			"One operative, armed with blades." he noted, peering through his binoculars. "Whiplash's in the middle, bound up."
 			"Do we have any idea what he's capable of?" Amy asked nervously.
-			"No clue. We have a file on ODIN that's about half a paragraph long." he sighed. "From what she's told me, though, she's an elite of theirs - most can't do what she does. They're still dangerous, though."
+			"No clue. Our intel on ODIN is as sparse as it gets." he sighed. "From what she's told me, though, she's an elite of theirs - most can't do what she does. They're still dangerous, though."
 			Sparky's crimson eyes looked the facility up and down.
 			"Ivan." he barked. Then he pointed with his nose to the edge of the roof, and pointed again at the windows. He barked quickly, as if imitating gunfire.
 			"You... you want me providing cover fire?" he tilted his head.
@@ -16037,13 +15977,13 @@ VOLUME 2
 			"I..." she thought, frozen in her mind. "I... don't want to."
 			"Then don't."
 			She opened her eyes, as did he. He saw through her eyes, and she saw through his. Two became one.
-			The devices attatched to her began to spark. Then, both screamed as their eyes burned violet, before going limp.
+			The devices attatched to her began to spark, as Amy sent lightning through both. They screamed as their eyes burned violet, before going limp.
 			Ivan leapt down from his perch, and observed the scene.
 			"They're... they're alive." he nodded.
 			Amy took a deep breath. "Is it normally this... weird?"
 			"This is one of the stranger days." Ivan quipped. "Base, this is Sokolov. Whiplash is secure."
 			"Nice one." Shannon smiled. "How is she?"
-			"Unconscious. So's Spartacus."
+			"Unconscious. So's Predator."
 			"Damn..." Trey sighed. "You'd better get back here, then."
 			"Prinyal." Ivan nodded. "I'll take Sparky, you take her?"
 			Amy smiled faintly, hoisting their hopefully un-brainwashed friend atop her shoulders, and the pair headed to his car.
@@ -16231,7 +16171,7 @@ VOLUME 2
 			"No worries!" Sparky grinned cheekily.
 			"WHAT THE FU--"
 
-		Post-Murillo + I Hear You
+		Post-Murillo/I Hear You
 
 	Odin's Eye
 	______________________________
@@ -16287,10 +16227,16 @@ VOLUME 2
 			"He's with Amy - she said it's her turn with the big bad wolf."
 			"Bless her." Chloe grinned. "I bet they're curled up fast asleep, right now."
 
-			"Alright, team, here's your assignments for tonight." Shannon nodded. "Troubleshooter, you're on recon duty, as per. Stunlocke, you're on bike patrol across Belson. Predator, you're on glider duty over Caldermouth. Whiplash, given your recent powerup, I've earmarked tonight for training. Try learning how to glide like the Werewolves do!"
+			"Alright, team, here's your assignments for tonight." Shannon nodded. "Troubleshooter, you're on recon duty, as per. Stunlocke, you're on bike patrol across Belson. Predator, you're on glider duty over Caldermouth."
+			"How about me?" Olivia asked.
+			Shannon grinned, handing over a belt-shaped object. At the back, it was thick with composite fabric.
+			"I was up all night with Trey getting this to work." she nodded. "It's a compact, foldable paraglider. Press the button on the clasp to deploy it, and you can use your powers to rapidly inflate it, and manipulate airflow to glide indefinitely. I've earmarked tonight for you to practice with it."
+			Olivia took the belt, and pressed the clasp as instructed. Immediately, it folded out into a small glider with handles on either side.
+			"We've also added some hook-y things to your suit's shoulders." Trey added, demonstrating. "You can clip the glider to those to leave your hands free."
+			"This... this is gonna be really handy." Olivia nodded, a surprised smile cracking over her face. "Uh... thanks, guys."
 			"It's really fun!" Sparky smiled. "And now that you can mess with air, you'll be amazing at it!"
-			"Thanks, buddy." Olivia grinned. "Where's Connor--Sorry, 'Vanguard?'"
-			"He's on a date." Amy beamed. "And unless there's a crisis, he's not getting called away."
+			Olivia grinned. "Where's Connor--Sorry, 'Vanguard?'"
+			"He's on a date." Amy beamed. "And unless there's a crisis, he's *not* getting called away."
 
 			Connor grinned. "Anyway, how have you been while I've been away?"
 			"Yeah, not bad." she shrugged. "Work was tough today."
@@ -16576,7 +16522,8 @@ VOLUME 2
 			"Never doubt my capabilities again, Vanguard." he snarked.
 
 			That evening, Connor pulled up outside Chloe's flat. He texted her, and in short order, she came walking out.
-			He spotted her on the steps of her apartment block, and his twin hearts skipped their beats. She didn't look that different to ususal - she'd tied her hair into a braid, but aside from that, she was the same old Chloe. But something about her made him blush.
+			He spotted her on the steps of her apartment block, and his twin hearts skipped their beats.
+			She didn't look that different to ususal - she'd tied her hair into a braid, and wore a black skirt, tights, and a grey turtleneck jumper. Aside from that, she was the same old Chloe. But something about her made him blush.
 			He hurriedly buttoned up his flannel shirt, hoping to look a little more sophisticated, somehow.
 			"Hey!" she beamed, entering the car and kissing his cheek.
 			"Hey there yourself!" he replied, smiling warmly. "So, you excited?"
@@ -16664,7 +16611,7 @@ VOLUME 2
 			"Thank you for telling me all this..." she whispered. "I know it can't have been easy."
 			"It couldn't have been easier." he replied. "You... It doesn't hurt so much when I'm talking with you."
 			She smiled, warmer this time - and kissed his cheek. The two embraced.
-			"Macbeth will be starting soon." she said.
+			"Macbeth will be starting soon."
 			"You mean the Scottish play?" he grinned.
 			"Yeah, that." she laughed.
 			The pair headed to their seats.
@@ -16688,57 +16635,130 @@ VOLUME 2
 			She smiled back, and kissed him again. They both melted into it.
 			"You can take that as a yes." she grinned. He chuckled.
 			"Goodnight, Connor." she said, blushing.
-			"Goodnight, Chloe." he replied, beaming. He returned to his car, and drove home. 
+			"Goodnight, Chloe." he beamed. He watched as she walked back up the block's steps, a big grin on his face.
 
-			When he arrived, his senses perked up - there was someone inside. They smelled familiar.
-			He headed in. There, he saw Yaz and Jack, sitting on his sofa with Sparky. He sighed.
-			"Yaz..." he said, shocked. "What... How did you get in?"
-			"Connor..." Yaz replied, both happy and sad to see him. "I, uh... Your dog, he let us in. I-I know it sounds weird, but..."
-			Connor looked over at Sparky.
-			"It was raining, and I didn't want the puppy to get cold." he said, motioning at Jack. He was careful to make sure he only spoke to Connor, who nodded and smiled.
-			"Right... So, what can I do for yous both?"
-			"Oh, well, I... we've moved out of Elliot's. He, uh... he hit Jack. I... I don't mind him hitting me, but..." she replied, tearing up.
-			"Buh-buh, dada!" Jack said, clearly glad to be free of his dad. He was only 1, but even he knew, deep down, how sick Elliot was.
-			"I see... And what about your sister?"
-			"She, uh... she's working tonight. She was going to rush out, but I told her not to worry, since you'd texted me. I... I'm sorry for barging in on you like this." Yaz explained.
-			"It's fine. Like you said, I texted you." Connor replied, folding his arms. He walked to the kitchen.
-			"Drink?" he asked coldly.
-			"Oh, I... No thank you. Um... do you mind if I heat up Jack's milk?"
-			"Go for it. Microwave's in here."
-			Yaz walked over to the kitchen. In the more well-lit area, the black eye on her face was visible.
-			"He did that?" he asked, pointing.
-			"Y-yeah." she replied, wincing slightly.
-			"Need me to fuck him up for you?" he growled.
-			"Not yet, at least." she said, half-chuckling. Connor allowed himself a smirk.
-			"Here." he said, fetching her some butter and a warm, wet dishcloth. "Rub the butter on your cheekbone, and press the cloth over it. That'll help with the swelling."
-			"Thank you..." she smiled, taking the items.
-			Connor stood uncomfortably.
-			"You, uh... You've done well for yourself. Um... How's Vince? And Amy?" she asked, unsure.
+			The rain had picked up, now - it pelted down into the valley, as usual. Despite that, it failed to put a damper on one Werewolf's mood.
+			"WOOOOO!" Connor cheered, soaring through the skies in his glider. He felt an updraft ahead, and sailed atop it, grinning wildly.
+			"Someone's in a good mood." Olivia chuckled, gracefully sailing by his side on her paraglider.
+			"How could I not be? The city's in a good place, my social life is the best it's ever been, and I'm a mile above ground." he laughed back, doing a spin through a cloud.
+			She grinned. "I'll admit... the gliding--well, flying in my case... it's pretty fun."
+			"It is, isn't it?!" he beamed. "There aren't many perks to this job... but being able to take to the sky is definitely one of them."
+			"I feel bad for Amy - Ivan too, I guess. They're stuck on the ground." she chuckled. "Oh, by the way - you could probably improve your glider's aerodynamics with a little tinkering."
+			"Hey, I like it as it is." he snarked, gesturing at the membraneous wing-cape.
+			"We should change your name from 'Werewolf' to 'Flying Squirrel.'" she quipped back.
+			"Oh, you're getting better at banter. That's a good sign." he laughed. "Alright, enough playtime - we should start *actually* patrolling the city."
+			The pair dived down through the clouds, sailing across the cityscape.
+			"I'll take Belson - Predator's mission just finished, and Stunlocke's got the evening off." Olivia reported.
+			"Yeah - Amy's meeting with Chloe, largely to talk about me behind my back." Connor grinned. "I'll take Redbridge - we haven't done a good sweep of the place for a while."
+			"Copy that. See you back at base."
+
+			The rain was coming down harder now, turning the city's streets into rivers of reflected light. He glided low over Redbridge, scanning for trouble.
+			Nothing yet. Just the usual - a few drunks, a couple arguing, a fox rooting through a bin. The city's streets were much safer to walk since he began his crusade - but it seemed no one at all wanted to fuck with the Werewolf's home turf.
+			Then, he saw her.
+			A young woman huddled in an alleyway doorway, a blanket wrapped around her shoulders and a small child in her lap. A suitcase sat beside her, sodden and crumbling. She wasn't begging or calling for help - she was just there, shivering, trying to keep the kid dry under a torn umbrella.
+			He hesitated for less than a second, and landed on a rooftop across the street. He peered over the edge, getting a look at her.
+			Then his hearts skipped their beats.
+			
+			Yaz.
+
+			In moments, he morphed back into civilian clothes, and descended to street level. He stood at the alleyway, and froze.
+			What would he say?
+			What *could* he say?
+			Why did he still care?
+			*Did* he still care?
+			He took a deep breath, and swallowed, before approaching.
+
+			"Connor?" she gasped upon seing him. Her eyes went wide - shock, then shame, then something like relief. "Oh god. Oh god, I..."
+			"What are yous doing out here?" he asked as he knelt down, pulling off his jacket and draping it over her shoulders. "It's freezing. The wee man'll catch his death out here."
+			"I didn't... I didn't know where else to go." her voice cracked. "I lost my job. Got evicted. I've been ringing everyone I can but no one's helping me. We've been sleeping in the car, but it got towed this morning and I..."
+			Jack stirred in her lap, whimpering.
+			Connor looked at them both. The anger he'd carried for so long was still there, somewhere. But right now, it didn't matter.
+			"Come on." he stood, offering his hand. "You're not staying out here."
+			"Connor, I can't ask you to--"
+			"You didn't ask. I'm offering."
+			He picked up the suitcase with his other hand. "Let's go."
+			Yaz hesitated, then took his hand.
+
+			Connor paid the taxi driver's fare, and helped her take Jack and her suitcase into his house. He quickly scanned it, and smiled when he saw who was in there.
+			"Hi, Connor!" Sparky barked, before spotting Yaz and Jack. "Oh, they're here!"
+			Connor checked their reactions, and let out a sigh of relief when he realised they didn't hear.
+			"Don't worry, only you can hear me." Sparky whispered. "Actually, why am I whispering?" he barked.
+			"Guys, this is my dog Sparky - you've met him before." Connor began. "Sparky, this is Yaz and Jack - they're gonna stay here tonight."
+			"Hi, Yaz! Hi, Jack!" Sparky yipped, licking both. "Come in - it's nice and warm in here!"
+			"Hah, hi Sparky..." Yaz nodded softly.
+			"Goggie!" Jack cheered, reaching out. "Biggoggie!"
+			"No, 'doggie.' Close, though." Sparky winked, trotting off to his bone. Connor opened up Yaz's suitcase, and sighed.
+			"Sorry - all your stuff's ruined." he began. "I've got whole milk in the fridge - will that be okay for the wee man?"
+			"Yeah, that'll be fine." she smiled gratefully. She looked awful - exhausted, gaunt, her clothes worn and faded. He hesitated again.
+			"There's food for you, as well." he sighed.
+			"Th-thank you, Connor. I..."
+			"It's fine." he said curtly. She nodded, and headed into the kitchen.
+			"Biggoggie! Biggoggie!" Jack grinned, stroking Sparky's fur.
+			"'Sparky.'" he smiled, licking the human-pup. "Try it."
+			"...parkie."
+			"Not bad! You're a fast learner."
+			"Are you... talking to him?!" Connor hissed.
+			"He's a puppy. You think he even has the vocabulary to tell anyone?" Sparky grinned. "At most, they'll assume he's got an active imagination."
+			"Actimagination!" Jack babbled.
+			"...ah."
+			"Kids are like parrots." Connor chuckled. "Just be mindful, alright?"
+			"Mineful, awwight?" 
+			He grinned, heading into the kitchen.
+			"Hey." he began, his voice pained slightly. "So... what happened?"
+			She took a shaky breath. "I lost my job three months ago. I've been trying to find work, but... there's nothing. I got evicted last week. We've been sleeping in the car. I've sold everything I could. But now Jack might get ill, and..."
+			"You should've called me. I could've helped." he said.
+			"I... I had no right to ask for your help." she shook her head.
+			"No, you had no right to keep your kid in the freezing cold for the sake of pride!" he snapped. "Didn't you even think about him?!"
+			"I... I..." she trembled, tears streaming down her cheeks.
+			Connor took a deep breath. "I'm sorry, that was... that was cruel. I know it must've been hard."
+			She smiled faintly, still crying. "I never wanted any of this for him. Any of it. But if I gave him up... I don't think I'd ever see him again."
+			"Why not?"
+			She sniffled, and wiped her eyes. "Shortly after he was born, I... I had post-partum psychosis. I'm okay now, but I did some... some really stupid things, that Social Services heard about. I never hurt him, not once, but I..."
+			Connor's eyes caught the scarring on her arms, and he felt a lump in his throat.
+			"And let me guess..." he began. "Three strikes and you're out?"
+			"It's a stupid rule." she shuddered. "But... yeah, pretty much."
+			He sighed deeply. "Look, I... I'll talk to Tommy. The old community centre's getting reopened this week, but in the meantime, I'm sure there'll be a place for you guys to crash. Once it's open, you'll have first dibs."
+			"You... you'd do that for me?"
+			"For your kid, yes." he nodded curtly.
+			She smiled softly - as if she expected worse. "Thank you. I mean it."
+			"Don't mention it."
+			She took a deep breath, and looked around.
+			"So, um... you've done well for yourself." she began, changing the subject. "Um... How's Vince? And Amy?"
 			"Vince is in jail. Amy's good. She's working in an animal sanctuary now." Connor replied bluntly.
-			"Oh... I'm sorry to hear that. But, well, that's good with Amy." Yaz said, trying to make small talk.
-			"Yep." Connor nodded.
+			"Oh... I'm sorry to hear that. But, well, that's good with Amy."
+			"Yep." he nodded.
 			Yaz coughed slightly. "Listen, Connor... I... I know things didn't end well between us."
 			"Didn't end well? Is that how you want to phrase it?" Connor shot back, his voice trembling with pain.
-			"I... I'm sorry. I am so sorry for how things ended. I..." she whispered, choking back tears. "I knew this wasn't fair to you, but... when Jack cried after Elliot hit him, I realised I couldn't stay. I didn't know where else to go."
-			"Well, I'm shocked to hear Elliot Whittaker is a scumbag." Connor retorted, crossing his arms.
-			A silence filled the room. Connor took a deep breath.
-			"I... I'm sorry. That was uncalled for. You... I'm not mad you came. I just... it's a lot."
-			He went into living room while Yaz stood there, thinking. He sat on the sofa. Jack had started cuddling Sparky, who had wrapped his tail around him.
-			"Big doggie! Big doggie!" Jack cheered excitedly.
-			"Haha, yeah... big doggie." Connor nodded sadly.
-			Sparky looked over at Connor. "Why are you so sad?" he asked.
-			Connor sighed, and leant in so that Yaz wouldn't hear him. "That's Yaz... my ex. She... she cheated on me a while back. It's... it's not easy seeing her again."
-			Sparky frowned. "I get it. Is the puppy yours?" he asked.
-			"Hah, no... his father is the man who she... he's someone else." Connor explained. He looked down at Jack, seeing the red mark where Elliot must have hit him.
-			"Dada gone!" Jack said. "Got big doggie now!"
-			Connor smiled softly. "Yeah. Big doggie now."
-			He turned to Sparky.
-			"How was your night with Chloe?" he asked.
+			"I... I'm sorry. I am so sorry for how things ended. I..." she whispered, choking back tears. "I've thought about it every day. What I did to you. You didn't deserve that. I was young and stupid and scared, and I made the worst choice of my life."
+			Connor said nothing. He just stared at the floor.
+			"I'm not asking for forgiveness." she continued. "I just... I needed you to know that I'm sorry."
+			A long silence.
+			Connor finally spoke. "You hurt me. A lot. I don't forgive you. Not yet. Maybe not ever."
+			He looked up at Jack, who had started cuddling Sparky. "But the wee man didn't do anything wrong, other than being conceived right in front of me."
+			She looked down, ashamed. He chuckled.
+			"Relax - that was a joke."
+			She let herself have a soft laugh. "That's fair enough."
+			He nodded. "Either way, I'm not going to let a kid sleep rough if I can help it."
+			She smiled gratefully. "I'm gonna go feed Jack."
+			He bowed his head. "That's cool. I'm gonna take Sparky out for some air. I'll see you in a moment."
+
+			Connor sat on his garden chair, head in his hands.
+			"You okay?" Sparky asked.
+			"I don't know." he sighed. "It's... it's not easy seeing her again."
+			"Is the puppy yours?"
+			Connor let out a tired laugh. "Hah... no. His dad is... um, so you know how wolves form mating pairs?"
+			"Yes?" he tilted his head.
+			"Well, how would a wolf react if they saw their mate... 'mating' with someone else?"
+			Sparky paused. "I don't know. I've haven't mated yet."
+			Connor chuckled. "Well, to put it simply... she betrayed my trust to be with someone else. That someone else was Jack's father."
+			Sparky looked away, confused. "But you're with Chloe now. So why does it matter?"
+			"It..." he began, before sighing. "I don't know. It just... still hurts."
+			Sparky nodded. "Speaking of, how was your night with Chloe?"
 			"Good." Connor smiled warmly. "How about you and Tommy's outing?"
 			"I think he might have made toilet while I was fighting." Sparky shrugged.
-			Connor chuckled. He stood, and headed outside for a smoke. While smoking, he picked out his phone. He saw a text from Chloe.
+			Connor chuckled. He stood, and picked out his phone. He saw a text from Chloe.
 			"Heya, thanks again for tonight. I really enjoyed spending time with you. See you soon xxx" she'd sent.
-			Connor smiled. He called her.
+			Connor smiled, then frowned. His finger hovered over the call button, before he closed his eyes and pressed it.
 			"Hey... I need to tell you something." he began.
 
 		Yaz arrives
@@ -16768,27 +16788,27 @@ VOLUME 2
 			"Answer it! Answer it!" Amy chanted encouragingly.
 			"Okay!" Chloe grinned, answering. "Hey, Connor! Thanks again for tonight."
 			"Hey... I need to tell you something." he began.
-			"Oh... Is everything okay?" Chloe asked, looking scared.
+			"Oh... Is everything okay?" Chloe asked, looking worried.
 			"Yeah, everything's fine... Just... I wanted to tell you this before you found out from somewhere else."
 			The colour drained from Amy's face. "Don't do it," she thought. "Don't tell her who you really are. Not yet..."
 			"Okay, yeah no worries." Chloe said, nervous. "What's up?"
-			"Um... my ex, Yaz. She's just turned up at my place. Her boyfriend was beating her, so she came here." Connor answered, a lump in his throat.
+			"Um... my ex, Yaz. I found her rough sleeping in the rain, with her kid." Connor answered, a lump in his throat.
 			"Oh..." Chloe nodded. "I see... Um... Is everything okay? Do you need anything?"
-			"Yeah, it's fine, but... She needs somewhere to stay tonight, and her sister will pick her up tomorrow morning, first thing."
+			"Yeah, it's fine, but... She needs somewhere to stay tonight, and she'll first thing."
 			"And you threw her ass to the curb, yes?" Amy growled.
 			"Amy?" Connor said, surprised. "Oh, sorry - I didn't realise you were there..."
 			"Connor." Amy said, firmly. "Tell me you turned her away. That bitch deserves nothing from you."
 			Chloe looked at Amy, taken aback slightly.
-			"I... Amy, her kid was with her. I can't have a kid out in the cold like that." he answered
+			"I... Amy, her kid was with her. I can't have a kid out in the cold like that."
 			Amy hesitated. "I... No, you're right. I'm sorry."
-			"Anyway... I thought I should tell you. And, I swear, I'm only doing this because her kid needs somewhere safe. And if you're not comfortable with her being her, I can--"
+			"Anyway... I thought I should tell you. And, I swear, I'm only doing this because her kid needs somewhere safe. And if you're not comfortable with her being here, I can--"
 			Chloe took a deep breath. "Connor... Thank you for telling me. I... I need you to know, I trust you. Like I told you before, never choose to not do the right thing because of me. Whatever happened between the two of you, like you said - you can't leave a kid out in the cold like that."
 			Connor breathed out. "Thank you. I just... I didn't want you to--to think I was hiding anything from you."
-			He sighed in guilt, praying for the day where he could tell her who he was.
+			He sighed in guilt, praying for the day where he could tell her who - what - he was.
 			Chloe smiled. "Hey, um... Say no, if you want to."
 			"Hm?"
-			"Well, I... I know you, Connor. And I know that, just because I've told you I trust you, you'll still worry that I'm worrying. Like, I know that nothing will happen between you. But, if you like - I can come round? Not because I don't trust you, because I do. And if you need space here, that's totally fine. But I just... If I'm there, then you'll know that I know. You know?" she said, catching her breath - she forgot to breathe throughout that.
-			"I... Yeah, that would be really, really good, if you wouldn't mind. I... It would be great to have you here." he replied. Chloe breathed out in relief, and put her jacket on.
+			"Well, I... I know you, Connor. And I know that, just because I've told you I trust you, you'll still worry that I'm worrying. Like, I know that nothing will happen between you. But, if you like - I can come round? Not because I don't trust you, because I do. And if you need space here, that's totally fine. But I just... If I'm there, then you'll know that I know. You know?" she said, catching her breath.
+			"I... Yeah, that would be really, really good, if you wouldn't mind. I... It would be great to have you here." he audibly smiled. Chloe breathed out in relief, and put her jacket on.
 			Amy paused, and looked at her. "Hey... It's okay to be a little jealous. Just... Don't worry about Connor. I swear on everything I hold dear, my brother would never do anything to--"
 			Chloe smiled, and cut her off. "I know. I... I mean, I'm supposed to feel jealous, right? My new boyfriend's ex turns up at his house... But... I don't feel jealous. It's the opposite - seeing him care for pepole who need it, even when it hurts him... It's one of the things I lo--like about him."
 			Amy smiled, and grabbed her motorbike keys. "You good to go?" she asked. Chloe hesitated.
@@ -16900,15 +16920,13 @@ VOLUME 2
 			Chloe looked at him sadly. "I'm so sorry, I--I keep dredging things up today..."
 			"No, you're not." he cut her off. "*I'm* thinking about the past a lot. It's not a problem." he smiled reassuringly.
 			Yaz re-entered the living room, with a still-crying Jack. "Sorry about this." she said, trying to rock him gently while humming.
-			"Hey, it's okay! Calm down!" Sparky said, chatting like a Husky. Jack's crying seemed to lessen at that.
+			"Hey, it's okay! Calm down!" Sparky said, chatting like a husky. Jack's crying seemed to lessen at that.
 			"Hey, that works." Connor tilted his head. "Sparky, keep talking to him."
 			"Oh, okay. Um, I don't know what to say, but, uh... Hello? I'm Sparky? I already told you that, I guess. Um... I'm a superhero? Whatever that means."
 			Jack was still sobbing, but it was calmer now - less ear-piercing.
 			Yaz gently placed Jack down with Sparky, who curled around him, wrapping him up in his tail, and started licking him gently.
 			"This is what my mum did when I was a pup!" Sparky explained to Connor. Connor smiled warmly, and shuffled over, stroking Sparky's head.
 			Yaz knelt down, wiping Jack's eyes. The tears were still rolling down, but he was quietly gurgling and sniffling instead.
-			"I think he misses his dad..." she sighed.
-			At the word 'dad,' Jack started crying louder again.
 			Connor paused, then began to hum lowly.
 
 			"In a neat little town they call Belfast,
@@ -16935,16 +16953,14 @@ VOLUME 2
 			Connor smiled, and turned back to face Yaz. "I spent years hating you, Yaz. But... I think I'm done with that now. Nothing can change what you did, but... I forgive you."
 			Yaz smiled sadly. "You... You're right. And... I can't bring myself to regret what I did, only how it hurt you. If I didn't, I wouldn't have Jack. And he's my world. That little boy..." she said, tearing up.
 			"You'd do anything for your son, wouldn't you?" Chloe asked, her eyes full of empathy.
-			"Yes. In a heartbeat." Yaz replied.
+			"Yes. In a heartbeat."
 			Connor sighed, but of relief. Catharsis.
 			"Connor, I have to ask... why did you agree to help me?"
 			He thought for a moment. Finally, he spoke.
 			"I... I want to say it's because of the kid. That I'm only doing this because I don't want to see a kid on the streets tonight. But... that would be a lie."
 			Connor took a deep breath, and Chloe put a reassuring hand on his shoulder. He smiled, and rubbed her hand.
-			"I'm helping you... because you're in trouble and you asked. And sometimes, on a good day... That's all that matters. My uncle always said... 'Always try to be nice, but never, ever fail to be kind'. And I... I'm doing this because it's right. Because... Because it's kind."
-			The words hung in the air. Yaz didn't respond immediately, and for a moment, the only sound was Jack's soft breathing from the bedroom.
-			Then she smiled, her eyes slightly teary. "You're... You're a good man, Connor. I know it's too late for us... But I wish you all the best."
-			"You too, Yaz." Connor replied, smiling sadly. "I... I'm here if you need anything."
+			"I'm helping you... because you're in need. And sometimes, on a good day... That's all that matters. My uncle always said... 'Always try to be nice, but never, ever fail to be kind'. And I... I'm doing this because it's right. Because... Because it's kind."
+			The words hung in the air. Yaz didn't respond immediately, and for a moment, the only sound was Jack's soft breathing.
 			Yaz nodded, and picked up Jack, who nuzzled into her. They headed upstairs to bed. Connor turned to Chloe.
 			"That was... That was beautifully said, Connor." she said, smiling proudly.
 			"Hah... you think so?" he asked.
@@ -17059,6 +17075,10 @@ VOLUME 2
 			"Good man." Ivan nodded.
 
 		Connor and Ivan assassinate Zamaldayev
+		______________________________
+		SCENE
+
+		Medicine Run/Return from Chechnya
 		______________________________
 		SCENE
 			It was Friday now, and the gang arrived at Drackhill University for the open day. Trey pulled up in the car park.
@@ -17219,7 +17239,7 @@ VOLUME 2
 			He left the room.
 			Catherine stood still for a moment, before she noticed something on her cheek - a tear.
 
-			That night, the gang were walking to the bus station from the Laughing Fox, after a big pub crawl.
+			That night, the gang were walking to the bus station from the Laughing Fox, after a big pub crawl. They opted for a casual route along the riverside.
 			"Woop woop!" Trey cheered drunkenly.
 			"I'm not going to sing any Irish rebel songs, so don't ask." Connor smirked.
 			"Come on, bro..." Trey laughed. "Just one more song about how you hate the British."
@@ -17227,14 +17247,16 @@ VOLUME 2
 			The group laughed at Connor's joke.
 			"So, you guys up to much tomorrow?" Connor asked.
 			"I've got work - a late shift." Chloe smiled.
-			"You've been working flat out lately." Amy commented.
+			"You've been working flat out lately." Shannon noted.
 			"Yeah, it's been a lot - but the pay's good!" Chloe smiled happily.
-			"I'm bored out of my mind." Trey shrugged.
-			"Speaking of - they're reopening the repair shop soon." Connor smiled. "I might take the first shift with you."
-			"Oh great, here I thought we'd got rid of ya!" Trey snarked. Connor playfully punched his arm.
-			"At least you can have a lie in." Amy shrugged.
-			"Even if he were working tomorrow, he'd still have a lie-in." Bea smirked. "How many shots did you have?"
-			"Too many..." Trey groaned.
+			"Well, we're back at the repair shop first thing. Got some more cars that need fixing." Trey sighed.
+			"I'm on the double shift tomorrow." Amy nodded, giving Connor a covert look, as if to say "Get some rest - I'll handle patrol."
+			"Well, I guess I'll have to entertain myself." Bea grinned.
+			"Oh, by the way." Chloe began, hiding a smirk. "I've always wondered why the river is called 'Calder.'"
+			"Oh, I'm glad you asked!" Connor chuckled. "The name comes from the Brythonic 'Caled Dwr,' meaning 'Hard water.' It refers to the high mineral content of the water, a result of both the overall minerals of the valley, and the water source being the lake at the peak of Wyrmrock. Despite most places here having Saxon-style names, rivers tend to keep their original---"
+			"NERRRRD!" the others roared, giggling widly. Connor rolled his eyes and laughed.
+			"I'm so sorry. They begged me to." Chloe grinned, kissing his cheek.
+			He smirked, and kissed her back.
 
 			"Fuck off!" a drunk man shouted at a pigeon, as he stumbled across the street.
 			"Oop, manic night, mate?" Trey grinned.
@@ -17252,11 +17274,12 @@ VOLUME 2
 			Satisfied he was fine, she sat down next to him.
 			"You sure you're okay?" she asked, trembling.
 			"Yeah, I'm fine - are you alright?" he asked.
-			"I'm fine... I'm not the one who dived into freezing canal water." she replied, leaning into him. "You still feel nice and warm, though."
-			She kissed his cheek. "You're a hero."
-			Connor chuckled. "Hah, hero? I don't know..."
-			Bea chuckled. "Look out, Werewolf - there's a new hero on the block."
-			Connor chuckled and blushed. "Hah... I just went on instinct."
+			"I'm fine... I'm not the one who dived into freezing canal water." she grinned.
+			"Hey, it's the Calder, not the Colder." he quipped.
+			She rolled her eyes, leaning into him. "You still feel nice and warm, though."
+			"You know you can just say I'm *hot.*" he grinned devilishly.
+			She blushed, and kissed his cheek. "You're a hero.
+			Connor chuckled modestly. "Hah... I just went on instinct."
 			"Well, you saved a life - so your instincts are clearly pretty good." Chloe smiled. The two leant their foreheads against each other, and then kissed.
 
 		Splash/Catherine and William argue
@@ -17671,10 +17694,8 @@ VOLUME 2
 			"Agreed." Amy nodded, rushing to her suit.
 			"Amy... this'll be dangerous." Connor warned.
 			"I don't care. If Chloe's in danger, I'm going." she snapped, drawing the Vibroblade.
-			"That's not what I meant." he sighed. "There's a better way you can help?"
-			"How?"
-			Shannon approached, carrying a large, boxy device - it looked like a bulky handgun.
-			"I call it the Pulsar." she explained. "We got the schematics off of a hack on Eidolon's servers. Anyway - it hooks up to your suit's battery. You can stun people at short range with it, softening them up for the others."
+			Shannon approached, carrying a large, boxy device. It looked like a flare gun - oversized barrel, angular frame, thick, insulted grip -  with a bulky rear housing mounted at the back.
+			"I call it the Pulsar." she explained. "It's still a prototype - I got the schematics off of a hack on Eidolon's servers. Anyway - it hooks up to your suit's battery. You can stun people at short range with it, or short-circuit electrical equipment."
 			She took it gingerly. Then her brows creased, and she nodded firmly.
 			"You'd best get going." Shannon said. "Ivan's out of town at the moment - and Olivia's not on shift tonight. It's just you guys."
 			"Let's do this." Sparky growled lowly.
@@ -17712,11 +17733,12 @@ VOLUME 2
 			The pair burst into a squad of Super-Agents. The Agents opened fire, but the heroes were on them in an instant.
 			The fight was brutal. Connor ripped a knife from one Agent and used it to slit the man's throat before turning on another. Sparky tore through two more in one swipe.
 			Amy charged forward, the bullets pinging and ricocheting off of her suit. She ripped out the Pulsar, and fired.
-			Immediately, she felt it charge up. A ball of superpressurised air formed at the edge of the barrel, which shot forward. It slammed into the Agent, and he convulsed violently, before Sparky ripped off his head.
+			The weapon kicked in her hand with a sharp capacitor whine. At the muzzle, a compressed pulse of ionised gas burst into existence, wreathed in flickering red and white arcs. The projectile shot forward, trailing a shimmering tunnel through the air. For a split milisecond, the ionised channel connected the barrel to the Agent's body - then the discharge hit.
+			A jagged arc of electricity cracked down the channel and slammed into the Agent, locking his body rigid. He convulsed violently, before Sparky ripped off his head.
 			Connor grabbed a grenade from a fallen Agent's belt, stuffing it into the man's mouth and kicking him into another, killing them both.
 			Finally, a swipe from the Vibroblade opened a sucking hole on the last Agent's chest. Connor's punch went right through.
 			With the carnage over, Connor dug a bullet from his hide, his breath ragged.
-			"Sparky. Go downstairs. Kill them, and secure the labs. I'll go to the hostages." Connor ordered.
+			"Predator. Go downstairs. Kill them, and secure the labs. I'll go to the hostages." Connor ordered.
 			Sparky barked in acknowledgment, running off to carry out his task.
 			"Stunlocke - you okay?"
 			She looked up. "Y-yeah."
@@ -17748,7 +17770,8 @@ VOLUME 2
 		SCENE
 			Connor ascended the stairs, taking a moment to un-morph his mask and wipe his nose. The bullet to the head didn't crack his skull, but it still hurt.
 			"Stunlocke - escort the hostages out of the reception. I'm going up." he said over the radio.
-			"Copy that. I'll rejoin Predator once I'm done." she audibly nodded.
+			"Copy that. I'll rejoin Predator once I'm done." she audibly nodded. "Are you gonna be okay?"
+			"I have to be. Chloe needs me."
 			"Vanguard - this is Whiplash. I took to the sky as soon as I heard the news."
 			"You're a voice for sore ears." Connor smiled. "What's your status?"
 			"I'm gliding over the roof. There's an Agent holding a girl at gunpoint. Want me to intervene?"
@@ -17757,12 +17780,12 @@ VOLUME 2
 			He took a deep breath, re-morphed his mask, and headed up to the rooftop. There, he saw Banner, clad in armour, pointing his gun at Chloe.
 			"Ah! Welcome back, Traitor!" he laughed.
 			Connor responded by morphing a crossbow on his wrist, and aimed it directly at Banner's head. It was a message - if you hurt her, you will have half a second to regret it.
-			"+*LET. HER. GO.*+" he roared, his voice slamming into Banner's chest like a sonic weapon.
+			"*LET. HER. GO.*" he roared, his voice slamming into Banner's chest like a sonic weapon.
 			Chloe thought to herself - if that voice ordered her to jump from that rooftop, she would. She shook her head, glad that the voice was directed at Banner instead.
 			Banner sneered, clearly rattled but not broken. He straightened, and chuckled darkly. "Hah... Nice try."
-			He holstered his weapon with a deliberate slowness, as if dismissing Connor's power. "You think you can intimidate me with your little tricks? Come then, Traitor - show me Paladin's wrath!"
-			Connor's eyes glowed a deep, furious red, the power of the Rage flooding his veins. His muscles tightened, rippling with supernatural strength. His voice boomed again, louder this time, shaking the very air around them. "+*PALADIN GAVE ME MY _STRENGTH_*+" he roared. The ground beneath them seemed to tremble as the force of his words resonated. "+*THE WRATH... IS _MINE ALONE_!*+"
-			With a primal roar, he charged. He threw a punch with such force that the air seemed to crack around it - aided, no doubt, by Olivia's power from above. Banner barely managed to block, but the impact sent him sliding back. Connor pressed the attack, launching another punch, then a devastating uppercut that could take a human's head off. Each swing felt like it could tear through steel, each blow a promise of death.
+			He holstered his weapon with a deliberate slowness, as if dismissing Connor's power. "You think you can intimidate me with your little tricks? Come then, Traitor - show me your wrath! SHOW ME YOUR RAGE!"
+			Connor's eyes glowed a deep, furious red. His muscles tightened, rippling with supernatural strength. With a primal roar, he charged.
+			He threw a punch with such force that the air seemed to crack around it - aided, no doubt, by Olivia's power from above. Banner barely managed to block, but the impact sent him sliding back. Connor pressed the attack, launching another punch, then a devastating uppercut that could take a human's head off. Each swing felt like it could tear through steel, each blow a promise of death.
 			Chloe looked on, horrified and transfixed by the scene. But only one thought was in her mind.
 			In his rage, Connor didn't bother to hide his voice. Sure, he may have been shouting with a supernatural growl, but still...
 			"That voice..." she whispered, trembling - not wanting to realise the implications.
@@ -17808,7 +17831,7 @@ VOLUME 2
 			"Connor... Connor, what... What do I do?" she asked, tears streaming down her cheek.
 			"Agh... Ah... I... Help..." he spluttered out, trying to stand. Chloe helped him up. He shouted in pain as he rose, but found his footing.
 			"Connor, you... You're alive..." she whispered, in shock.
-			With that, the police exited the building. "Area secure, sir!" Nina barked. "All hostages save one have been located. Captive hostile has been subdued."
+			With that, the police exited the building. "Area secure, sir!" Nina barked. "All hostages save one have been located."
 			"I..." Chloe began. "You'd better go. If they find you..."
 			"Chloe, I..." Connor started, but she raised her hand, silencing him.
 			"We'll talk about this later, okay? I... I'll see you later." she said, and hugged him. Though his back was in agony, he hugged her too.
@@ -17875,8 +17898,6 @@ VOLUME 2
 			Nina smiled. She walked with Chloe to the front door, and knocked. Connor answered.
 			"Hi, Connor - I've got someone here who'd like to see you."
 			With that, Chloe ran to him and hugged him tightly. Connor winced - his back still hurt - but returned the embrace.
-			"I just wanted to say, thank you again for helping Yaz and Jack. They're both staying with me now. Hah, Jack keeps going on about the 'big doggie'!" Nina smiled.
-			Connor nodded. "I'm just glad they're not in any danger anymore."
 			Sparky came up to the door.
 			"Hi Chloe!" he smiled. Chloe leant down and stroked his ears.
 			With that, Nina left, and Chloe entered the shop.
@@ -17931,7 +17952,7 @@ VOLUME 2
 			"I'm sorry..." Connor began, but his phone rang. He checked it, and it was Naismith.
 			"It's Naismith - the detective on my case. I'd better take this."
 			"Fine." Chloe nodded. He answered.
-			"Werewolf! There's men here - just like the men at the labs. They're slaughtering us - I think they're after a prisoner we took. Please, help us!" he screamed.
+			"Werewolf! There's Agents here, they're slaughtering us! Please, help us!" he screamed.
 			Connor's face turned pale. "I'm on my way." he growled. "The police station..." he turned to her.
 			"Go - go save people." she nodded. "Our issues can wait - people need you."
 			"Sparky - stay here. If any of these bastards come for Chloe, you know what to do."
@@ -17974,9 +17995,10 @@ VOLUME 2
 			She crouched beside him, her breath ragged. "You're hit!"
 			Naismith grimaced but waved her off. "Nina..." he grunted, his face pale. "Get the civilians out of here. I'll hold them off."
 			"No, sir!" Nina replied firmly. "I'm not leaving you! None of us are!"
-			The rest of the team echoed her sentiment, their voices a chorus of resolve. But before any more words could be exchanged, the gunfire stopped, leaving only the tense silence of anticipation.
-			From the shadows ahead, a low chuckle broke the stillness. "Well, well, well..." The gunmen's leader stepped into view, his face a mask of cruel amusement. "Look who it is. The boy's playing soldier. Today must be my lucky day - two traitors in one place."
-			And then Connor emerged, stepping forward from the darkness, his figure imposing even as he limped slightly. His eyes, glowing a fierce red, locked onto the leader.
+			The rest of the team echoed her sentiment. But before any more could be said, the gunfire stopped, leaving only the tense silence of anticipation.
+			From the shadows ahead, a low chuckle broke the stillness. The gunmen's leader turned to the door.
+			"Look who it is." he growwled lowly.
+			Connor emerged, stepping forward from the darkness, his figure imposing even as he limped slightly. His eyes, glowing a fierce red, locked onto the leader.
 			"Get away from these people. Now." he snarled.
 			The leader smirked, looking him up and down. "Hah! Look at you - you can barely stand! You're crippled! How will you hope to stop us?"
 			Connor gripped his back, chuckling through the pain. "Think about how mad your precious Commandant will be when he learns his goons were pasted across the walls by a cripple who could barely stand."
@@ -17993,7 +18015,7 @@ VOLUME 2
 			The command shattered the silence. A barrage of bullets ripped through the air, tearing into his body.
 			The pain was overwhelming. He tried to stay still, to endure it, but the sheer volume of gunfire was too much.
 			His legs gave way, and he collapsed to the ground, blood pouring from his torso.
-			The leader turned away, and addressed his men. "Now. Kill them, and find the prisoner. The Commandant will want to deal with his failure personally--"
+			The leader turned away, and addressed his men. "Now - kill them all."
 			But then, a wheezing sound broke through. He froze. Slowly, he turned around, disbelief flooding his face as he saw Connor rising to his feet. Blood still poured from his wounds, but the fire in his eyes was unmistakable - Connor was alive.
 			"Traitor..." the leader growled, his voice filled with venom. "You are making an annoying habit out of not dying when you are meant to."
 			Connor staggered, his legs trembling as his blood-soaked body fought to stay upright. Every breath felt like fire, but he forced himself forward.
@@ -18004,12 +18026,11 @@ VOLUME 2
 			But just as he was about to pull the trigger, a shout echoed across the station.
 			"NO!" Naismith, bloodied and struggling to stand, rushed forward, his hand shaking as he drew his own weapon. He fired.
 			Bang. The bullet hit the leader square in the eye, the force of the shot knocking him back.
-			The leader howled in pain, stumbling as he pulled out his blade, enraged. With a swift motion, he lunged at Naismith, driving the knife deep into his chest. He raised him by the blade, his eyes blazing with fury. "Insolent wretch!" he growled.
+			The leader howled in pain, stumbling as he pulled out his blade, enraged. With a swift motion, he lunged at Naismith, driving it deep into his chest. He raised him by the blade, his eyes blazing with fury. "Insolent wretch!" he growled.
 			With a snarl, Connor grabbed the leader by the shoulder, impaling him through the back. The leader screamed in agony, dropping Naismith as the blade sank deeper.
 			Connor didn't hesitate. He pulled the blade free, slashing the leader's throat with a savage swipe. The leader gasped, choking on his own blood, but before he could react, Connor delivered an uppercut, impaling the leader's head through the jaw. The force of the blow was enough to lift him off his feet.
 			With a savage yank, Connor ripped the leader's head off in one fluid motion. The body stood for a second, twitching as it reached for its missing head, before falling lifelessly to the floor. The head made a sickening splat as it hit the ground.
 			Connor stood over the body, breathing heavily, his eyes still burning with fury. He clutched his back - it wasn't even half healed.
-			"How much more can I take..." he muttered, spitting out blood and bile.
 			"SIR!" Nina barked, running over to a bleeding-out Naismith. Connor joined her.
 			Naismith was in a bad way. He could barely breathe, blood poured from his mouth... this was serious.
 			"Hey, come on, Detective... come on, you've still got a few more times to show up and annoy me before you go." Connor said, worriedly. Naismith chuckled through the sputtering. Connor looked up, and recognised FI Rogerson.
@@ -18038,8 +18059,8 @@ VOLUME 2
 			"Then you have nothing to fear. I am not so unreasonable as to kill a subordinate for telling me what I need to hear." he grinned, gesturing to the chair in front of him.
 			The Agent cautiously took the chair. The Commandant rose.
 			"Sir, I'm afraid the squad we sent to secure the Morland data were all killed. The Traitor was badly injured, but survived. Miss Derrington is still at large, too. Surveilance indicates that she's staying at the Traitor's residence, with subject 6 acting as her bodyguard."
-			The Commandant nodded. "And what of the kill-team sent after the coward?"
-			"The Coward used his cyanide capsule once he heard the kill-team's assault, but..." the Agent hesitated, "the Traitor killed them all, as well."
+			The Commandant nodded. "And what of the kill-team sent to the police station?"
+			The Agent hesitated. "The... the traitor killed them all, as well."
 			"Despite his injuries?" 
 			"Yes, sir. I... I wish that was the only bad news I had, sir. We have disovered that Morland had been selling Serum behind our backs."
 			"WHAT?!"
@@ -18681,8 +18702,7 @@ VOLUME 2
 			"Um... Does anyone know why Ward's called us in?" Lloyd asked nervously.
 			"To give us all commendations and cushy desk jobs?" Rogerson quipped. "Hey, a man can dream right?"
 			Naismith chuckled. With that, Ward entered. The team snapped to attention.
-			"As you were." she said, smiling. "Thank you all again for coming in on short notice. I won't sugar-coat it. It's a fucking mess in this city." she began.
-			"The attack on the station - 17 officers lost their lives. And our prisoner - the Super-Agent we captured, the one they came to kill - committed suicide in his cell. So, 17 good men and women died for nothing."
+			"As you were." she said, smiling. "Thank you all again for coming in on short notice. I won't sugar-coat it. It's a fucking mess in this city." she began. "The attack on the station - 17 officers lost their lives."
 			Ward's face looked more grim than ever. The team looked down at their feet.
 			"As if that's not bad enough, I've heard word from station chiefs. Over 40 letters of resignation have been sent in across all departments. Officers are terrified that they could be next. That's not even getting into the fact that so many officers either resigned or were arrested following the Dorsey fiasco." she continued.
 			Naismith winced at the news.
@@ -19481,7 +19501,7 @@ VOLUME 2
 			Her bow was already drawn.
 			She didn't aim in any conventional sense. The arrow left the string and curved through the chaos in a smooth, deliberate arc, slipping between two Super-Agents and punching through a visor seam. The target dropped without time to react.
 			A second Agent rushed her. Olivia snapped her wrist and a whip cracked out, snapping around his rifle mid-swing. She twisted, and the air itself seemed to assist the motion - wrenching the weapon aside and pulling the Agent off balance. A follow-up pulse of compressed air struck him square in the torso and threw him back into a concrete wall.
-			A throwing knife was already in her hand. It left in a fluid motion, slipped through moving armour gaps and buried itself in an exposed joint, dropping another Agent mid-step. 
+			A throwing knife was already in her hand. It left in a fluid motion, slipped through moving armour gaps and buried itself in an exposed joint.
 			A third closed in fast, trying to overwhelm her at close range. Olivia met him with a sharp burst of wind that broke his footing, then followed with a whip strike that wrapped around his neck and, with a sickening crunch, ended him.
 
 			Amy fired her Pulsar at an armed Agent, before her Vibroblade sliced the head off of another. But then, she felt a slam into her chest.
@@ -19977,16 +19997,16 @@ VOLUME 2
 			"Ivan Sokolov, KGB." he smiled, shaking her hand. "Nice to meet you."
 			He turned. "Connor, I've brought the dossier on our new target." he said, brandishing a folder.
 			"Who's the target?" Connor asked. "And, by the way... my friends are here for moral advice."
-			Ivan smiled. "Smart thinking. Keeps you human, that way. Anyway, here's the mark - his name is Brian Campbell."
+			Ivan smiled. "Smart thinking. Keeps you human, that way. Anyway, here's the mark - his name is Brian Murphy."
 			Connor's blood froze. "Say that name again." he whispered, shocked.
 			"Connor?" Chloe asked, putting her hand on his shoulder.
 			"Who's that?" Sparky growled, sensing Connor's pain.
 			Connor shuddered. "Ivan. Say that name again."
 			Ivan nodded sympathetically. "Ah. I was worried you'd have heard of him before."
-			"Wait... *that* Campbell?" Amy asked, her pupils constricting in horror.
+			"Wait... *that* Murphy?" Amy asked, her pupils constricting in horror.
 			"Who?" Shannon tilted her head.
-			"Brian Campbell..." Connor growled, his voice full of rage. "Ivan... tell them. I can't put it into words."
-			"Da." Ivan nodded. "Brian Campbell. Leader of the Orange Volunteer Army - group of Loyalists from Glasgow who moved over to Derry in the early 2000s." he explained.
+			"Brian Murphy..." Connor growled, his voice full of rage. "Ivan... tell them. I can't put it into words."
+			"Da." Ivan nodded. "Brian Murphy. Leader of the Orange Volunteer Army - group of Loyalists who were 'active' in Derry in the early 2000s." he explained.
 			Chloe gasped. "You mean... the Bogside War?"
 			"Those motherfuckers made the RUC and the UVF look like the Salvation Army." Connor snarled, sitting down and staring into the distance. "The Tans, that's what the OVA was. The fucking Black and Tans."
 			Trey sighed, and shook his head. "Were they involved in the... the *you know?*"
@@ -19998,7 +20018,7 @@ VOLUME 2
 			Connor read the document.
 			"Commandant,
 			I thank you for the latest shipment. Our good men have become stronger, faster, and better. We're ready for the Second Round.
-			Yours, Srg. Campbell."
+			Yours, Srg. Murphy."
 			Connor scowled. "Commandant... He's with Paladin?"
 			"Da..."
 			Connor turned to face his friends. "Tell me not to kill him. Please. Tell me I shouldn't kill him."
@@ -20761,7 +20781,7 @@ VOLUME 2
 			"It's how it goes, I guess..." William pinched the bridge of his nose. "Well, at least Sveta will be here when he gets back."
 
 			While outside, Connor checked his phone. A text.
-			"Bratan. It's on. Tomorrow morning. Hog and Hounds. Campbell there. Vulnerable." it read.
+			"Bratan. It's on. Tomorrow morning. Hog and Hounds. Murphy there. Vulnerable." it read.
 			He supressed a grin of excitement, and headed back inside.
 			"Connor, please, take a seat." William smiled softly. Connor nodded, and did so.
 			"Right, so... I know this probably feels a little awkward..." William began. "But... we just wanted to ask a few questions about you. To get to know you better."
@@ -20922,20 +20942,20 @@ VOLUME 2
 			The room was dark, cold, and dingy. A man was tied up and being beaten. He had a black bag over his head.
 			Another man entered the room, this time with black veins over his eyesockets, and an overall demeanour that screamed 'killer.'
 			"So..." he began. "You gonna talk yet?"
-			"Fu... Fuck you, Campbell." the beaten man spat.
+			"Fu... Fuck you, Murphy." the beaten man spat.
 			"Kill him."
 			Without a word, the beater grabbed the man's head, and pulled. With a disgusting squelch, the head popped off.
 			"What should we do with the body?" the beater asked, still holding the head.
-			"Feed 'im to Junior." Campbell grinned.
+			"Feed 'im to Junior." Murphy grinned.
 			His henchman nodded. He took the body, and headed into a cellar.
 			It was dark, and eerie down there. No noise save for an awful, grunting, panting sound. Whatever was in there, it was big. And definitely not human.
 			"D-dinner, Junior." the henchman stammered, throwing the body down.
 			"RAAGH!" the creature screamed back, before a skinless, giant claw gripped the corpse from the shadows, and pulled it in. Vile chewing noises filled the air, and the man quickly left, only to see the door was now locked.
 			"Hey... hey! Who locked the door?! Let me out! LET ME OUT!"
-			Campbell sauntered to a glass pane on the door, and grinned sadistically.
+			Murphy sauntered to a glass pane on the door, and grinned sadistically.
 			"Oh, but he's still hungry? Aren't you, Junior?"
 			"Please, sir... please, I'm begging you..."
-			"Dinner time." Campbell nodded. He walked away as the screams and tearing noises echoed in the air, smiling savagely.
+			"Dinner time." Murphy nodded. He walked away as the screams and tearing noises echoed in the air, smiling savagely.
 
 		William turns
 		______________________________
@@ -20991,7 +21011,7 @@ VOLUME 2
 			Connor brushed her cheek. "Thank you. And it's okay."
 			"I'd, um... I'd best let you get off. Sparky will be waiting." she said softly.
 			Connor nodded. "Yeah... You're back at uni tomorrow, right?"
-			"Yeah..." she replied nervously. "I'll be done by half 3. What time do you think you'll be finished with Campbell?"
+			"Yeah..." she replied nervously. "I'll be done by half 3. What time do you think you'll be finished with Murphy?"
 			"No idea." Connor shrugged. "I'll call you when I'm done, and we'll go from there?"
 			Chloe nodded, and Connor rose. He headed to the door, and she pulled him close.
 			"I love you." she said, smiling warmly.
@@ -21140,8 +21160,8 @@ VOLUME 2
 			Tommy grinned savagely. "I feel a lot better, now."
 			He sat down, and continued his paperwork.
 
-			Connor and Sparky stood outside a run-down pub - the Hog and Hounds. One of the last Patriot strongholds, and where Campbell had moved in.
-			He took a deep breath through his nose, and his eyes flashed red. He saw Campbell's heartbeat. There was something else, too - a cluster of hearts - two, by the looks of it.
+			Connor and Sparky stood outside a run-down pub - the Hog and Hounds. One of the last Patriot strongholds, and where Murphy had moved in.
+			He took a deep breath through his nose, and his eyes flashed red. He saw Murphy's heartbeat. There was something else, too - a cluster of hearts - two, by the looks of it.
 			"Looks like they might have a Giant." Connor sighed.
 			"They're not so tough, these days." Sparky grinned. "And besides, this time, we've got each other."
 			"Good point." Connor smiled. He walked into the pub, and approached the bar.
@@ -21150,9 +21170,13 @@ VOLUME 2
 			Sparky barked in acknowledgement, and headed out to the front.
 			"Sorry for snapping, just... my boss is very clear on how things get run here." the barman nodded.
 			"No worries." Connor smiled. He looked over, and spotted the only other patrons - a group of tough-looking men.
+			"I'll have a whiskey and cola." he nodded. The barman poured it, and Connor looked back at the men.
+			"Where are you from, lad?" one asked. He had a thick Belfast accent - one of Murphy's boys.
+			"I grew up in Ulster." Connor bowed his head, hiding a grin.
+			"Which are ya? Fenian?" another snarled.
 			He grinned, and sipped his drink. Then, he started to hum, and tap a rythmn on the bar.
 			"I was born in a Dublin street, where the Loyal drums did beat..." he began softly.
-			"Oi! You'd better not be singin' what I *think* you're singin'!" the biggest man barked. He had a thick Glasgwegian accent - clearly one of Campbell's boys.
+			"Oi! You'd better not be singin' what I *think* you're singin'!" the biggest man barked.
 			Connor chuckled, and stood.
 			"The 'loving' English feet, they walked all over us..." he continued.
 			The big man drew a switchblade. "Bite your tounge, lad. Or I'll cut it out."
@@ -21172,17 +21196,17 @@ VOLUME 2
 			Connor chuckled, as a backroom door opened. A gunman came out, and put his pistol right up to Connor's head.
 			"Oh, is this the part where your boss tortures me, then shoots me?" he laughed. "Come on, then. I wanna see him."
 
-			Down in the basement of the pub, Campbell poured himself a glass of Scotch. "Come in, come in." he beckoned.
+			Down in the basement of the pub, Murphy poured himself a glass of whiskey. "Come in, come in." he beckoned.
 			Connor entered, with Sparky at his heel. The henchman still had his gun trained on Connor's head.
-			"So... who might I ask is causing such a ruckus upstairs?" Campbell asked, taking a sip.
-			Connor turned, effortlessly disarmed the henchman, and pistol-whipped him. Then, he trained the gun on Campbell.
-			"I ask a second time, who the fuck are you?" Campbell snapped, rising.
+			"So... who might I ask is causing such a ruckus upstairs?" Murphy asked, taking a sip.
+			Connor turned, effortlessly disarmed the henchman, and pistol-whipped him. Then, he trained the gun on Murphy.
+			"I ask a second time, who the fuck are you?" Murphy snapped, rising.
 			"You killed my granny." Connor replied, his voice trembling and his hearts pounding.
 			I've killed plenty of grannies, lad."
 			"You killed one called Barrett."
-			"You know how many Fenians have that surname? You're really not being very specific." Campbell grinned.
+			"You know how many Fenians have that surname? You're really not being very specific." Murphy grinned.
 			Connor snarled, then smiled fiendishly. "Brilliant. Oh, BRILLIANT!" he roared. "You know what that means? I've gotta take my time! I've gotta explain to you what you did - so that means you're gonna die slowly!"
-			Campbell put his hands up. "Okay, okay, listen... I know who you are."
+			Murphy put his hands up. "Okay, okay, listen... I know who you are."
 			"Yeah, who then?"
 			"I saw you. After the car went up in flames. I was on the mission to kill Eamon. I saw that little boy, running to save his granny. Oh, it'd break my heart... If I gave a fuck."
 			Connor physically growled with rage, as did Sparky.
@@ -21191,20 +21215,20 @@ VOLUME 2
 			"But you know what was funnier?" he sputtered. "Knowing who you really are. Knowing where you came from! Oh, to be your father!"
 			"What do you know about my father?!" Connor snapped.
 			"Connor..." Sparky said, wary. "Footsteps. They're bigger than the Giants."
-			"That he could make gods!" Campbell roared. "And I could only make *monsters!*"
+			"That he could make gods!" Murphy roared. "And I could only make *monsters!*"
 			"What the hell are you talking about?!" Connor screamed.
 			"Connor!" Sparky barked, looking at the door and assuming a fighting stance.
-			"You'll see now!" Campbell jeered.
+			"You'll see now!" Murphy jeered.
 			"CONNOR!"
-			"Oh, JUNIOR!" screamed Campbell. "*DINNER TIME!*"
+			"Oh, JUNIOR!" screamed Murphy. "*DINNER TIME!*"
 			Connor turned his head.
 
 			English is a funny language. Lots of specific words - defenestrate, bamboozled, saturnine - but there weren't really any words to describe *this.*
 			A bipedal, giant dog fetus? A skinless 8-foot gorilla with the mouth of a crocodile? Neither quite covered it, but that was as close as you could really get.
-			In shock, Connor released his grip on Campbell's throat.
+			In shock, Connor released his grip on Murphy's throat.
 			He and Sparky took their stances, and morphed up their armour.
 			"Junior" stretched upwards, its hulking mass snapping the doorframe around it.
-			"_+*GGGRAAAGGHH!!*+_"
+			"*GGGRAAAGGHH!!*"
 
 		Tans/Gary arrives
 		______________________________
@@ -21243,7 +21267,7 @@ VOLUME 2
 			Bea relaxed slightly. "What happened then?"
 			"He reassured me that it was fine, that he could wait, and then he went to get some rest before today."
 			"Oh, he's in Belson now?"
-			"Yeah. He's going through a lot with that Campbell guy, and then with me, and my family... I--I feel like a bitch." she sighed.
+			"Yeah. He's going through a lot with that Murphy guy, and then with me, and my family... I--I feel like a bitch." she sighed.
 			"No, you're not." Bea said, firmly and caringly. "You're allowed to not want things."
 			"That's the problem..." Chloe sighed. "I *do* want it."
 			Bea smiled softly.
@@ -21268,9 +21292,9 @@ VOLUME 2
 			"What's he look like?" the first gunman asked, peering in through the window. "I see a boy and a girl in there."
 			"Okay, well, shoot the boy." Gary shrugged. "Let's go."
 
-			The air stood still in the office. Campbell caught his breath, and the two Werewolves stared down Junior.
+			The air stood still in the office. Murphy caught his breath, and the two Werewolves stared down Junior.
 			Connor used his super-senses to scan the beast. Whatever Junior was, its very breath made the ground shudder.
-			"Sparky..." Connor growled. "Make sure Campbell doesn't try anything funny. He's mine."
+			"Sparky..." Connor growled. "Make sure Murphy doesn't try anything funny. He's mine."
 			"You're not fighting that thing on your own." Sparky growled back.
 			With that, Junior gripped Connor's torso in one clawed hand, and slammed him upwards, through the ceiling and back into the pub. Connor landed on the ground, dazed badly.
 			"JESUS CHRIST!" the barman screamed, running out. Connor forced himself to his feet, stumbling. Junior leapt out of the Connor-shaped hole in the floor, ripping it wider and collapsing debris onto Sparky and Cambpell.
@@ -21307,11 +21331,11 @@ VOLUME 2
 			"I'm fine..." Sparky nodded. "What is this thing?"
 			"Something that can bleed." Connor snarled firmly. "Let's do what we do best. Let's kill this fucking monster."
 			The two charged just as Junior did, and they met with an impact that caused nearby windows to shatter.
-			Junior growled viciously, and ran out towards the square. As it did, Campbell made it out from the rubble, wounded.
-			Connor turned to face Campbell.
+			Junior growled viciously, and ran out towards the square. As it did, Murphy made it out from the rubble, wounded.
+			Connor turned to face Murphy.
 			"Connor, that thing's on a rampage! We have to stop it!" Sparky roared.
 			Connor hesitated. "FUCK!" he screamed, and ran after Junior alongside him.
-			Campbell merely chuckled, and hid away in a dumpster.
+			Murphy merely chuckled, and hid away in a dumpster.
 
 			"Oh my god..." Chloe began, the world going still from her panic.
 			"Chloe..." Bea began, dragging her away to somewhere private. "It's alright, he'll be okay."
@@ -21607,7 +21631,7 @@ VOLUME 2
 			Cutting. Burning. Injections. So many injections.
 			He saw through Junior's eyes, as the little boy watched his own reflection twist and change on the glass of the vat he was being kept in.
 			He felt the horror of a small child, looking down at his arms and seeing them turn into an abomination's claws.
-			He saw his father Campbell sreaming in fury, as even more super-serum flowed into the boy's body. It seemed they'd drained all the kid's blood, and replaced it with serum. And it seemed Campbell was enraged that his son was a monster, and not a god.
+			He saw Murphy sreaming in fury, as even more super-serum flowed into the boy's body. It seemed they'd drained all the kid's blood, and replaced it with serum. And it seemed Murphy was enraged that his son was a monster, and not a god.
 			He felt the pain, the fear, the rage flowing through the kid's head, as he slaughtered through Beslon just moments before, trying desperately to get the pain to stop. The same pain in the skull that tormented Connor.
 			"I'm..." Connor's voice cracked. "I'm sorry."
 			"Please... Help me..." Junior asked once more.
@@ -21663,7 +21687,7 @@ VOLUME 2
 			"Fuck..." she whispered softly.
 
 			19:43 PM, GMT.
-			In a fairly high-end flat in Caldermouth, Professor Lowenthal poured himself a glass of scotch. He drank it, savouring the taste. Then, a knock at his door.
+			In a fairly high-end flat in Caldermouth, Professor Lowenthal poured himself a glass of whiskey. He drank it, savouring the taste. Then, a knock at his door.
 			"Right on cue..." he muttered, approaching. He looked through the keyhole, sighed, and opened it.
 			"Come in..." he shrugged. A man in a hoodie entered.
 			"Thank you..." the man nodded. He had a subdued Chinese accent - like a man who had lived in Britain for decades.
@@ -21712,7 +21736,7 @@ VOLUME 2
 
 			"So that just leaves Amy. Our beloved Subject 302. No wonder you're here." Lowenthal sighed.
 			"If Gordon's going to react to Belson like I expect, then I need to protect her." Zhao shuddered. "I'm not having her be a tool in all of this. Not again."
-			"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of scotch. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
+			"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of drinkf. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
 			"No way." Zhao shook his head firmly. "Amy is still human. Unactivated. Unspoiled. We can't..."
 			"*We* might not be able to stop it. The noose is tightening, old friend." Lowenthal sipped his drink.
 			"Dig a trench, Dr. Zhao. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
@@ -21830,8 +21854,8 @@ VOLUME 3
 			"As far as we can tell, that monster--" Bevan began.
 			"Junior." Connor interrupted. "His name was Junior. And he had blue eyes and brown hair, and he was gonna be 7 in May. He was a victim too."
 			The others looked at him, confused. Bevan nodded deferentially.
-			"As far as we can tell, Junior was already going to be released, sooner or later. Documents recovered from Campbell's gang implies he wanted to prove himself to Paladin though mass murder."
-			"Where's Campbell now?" Connor asked, rising slightly.
+			"As far as we can tell, Junior was already going to be released, sooner or later. Documents recovered from Murphy's gang implies he wanted to prove himself to Paladin though mass murder."
+			"Where's Murphy now?" Connor asked, rising slightly.
 			"Missing. I wish I could say 'presumed dead,' but..."
 			Connor sighed, and turned to Chloe. "Can I see Sparky?"
 			"Yeah, of course." she smiled, helping him up.
@@ -21917,7 +21941,20 @@ VOLUME 3
 			Connor looked away. She put her hand on his cheek, pulling his face back.
 			"You saved so many lives, today. And I know that doesn't make you feel any better... but it's the truth."
 			He smiled softly, putting his hand up to hers. She pulled him in for a kiss, and the two laid down.
-			She fell asleep almost as soon as her head hit the pillow. He simply looked up at the ceiling, deep in thought.
+			*Bzz! Bzz! Bzz!*
+			"Oh, piss off..." Chloe groaned, grabbing her phone.
+			"What's up?" Connor asked.
+			"My... my dad keeps calling." she sighed.
+			"You... you should probably answer." Connor nodded softly. "He's probably just worried."
+			She looked away, and took a deep breath, before calling back.
+			"Chloe?! Oh god, please tell me you're--"
+			"I'm fine - I'm really busy at the moment." she said, clenching her jaw. "I'll talk to you later."
+			"Oh, I--Okay, sweetheart, just please be caref--"
+			*Click!*
+			Connor paused before speaking. "You don't have to be mad at him."
+			"I know. I just... am. When he's ready to apologise, I'll listen."
+			Connor smiled softly. "You'd better get some rest."
+			She took out her hearing aids, and fell asleep almost as soon as her head hit the pillow. He simply looked up at the ceiling, deep in thought.
 
 		Back in the saddle
 		______________________________
@@ -21956,7 +21993,7 @@ VOLUME 3
 			Connor shrugged back.
 			"Anyway..." Bevan began. "You'd better get at least *some* rest. Miss Derrington tells me, the more you sleep, the quicker you heal. And we're going to need you soon - I can feel it."
 			"Any news on that front?" Connor asked.
-			"The Optimates are running scared." Bevan nodded. "Today, the world is waking up to a new order - one where superhumans and monsters can battle in their homes. And people are afraid - and they want the men who did this to suffer. I expect right now, co-conspirators are quietly cutting ties to avoid being caught up in your - our - retribution. And benefactors are popping their heads from the shadows. Make no mistake - what Campbell did was an atrocity, but more than that - it was a fuck-up."
+			"The Optimates are running scared." Bevan nodded. "Today, the world is waking up to a new order - one where superhumans and monsters can battle in their homes. And people are afraid - and they want the men who did this to suffer. I expect right now, co-conspirators are quietly cutting ties to avoid being caught up in your - our - retribution. And benefactors are popping their heads from the shadows. Make no mistake - what Murphy did was an atrocity, but more than that - it was a fuck-up."
 			Connor nodded. "I get the feeling that that doesn't mean we don't have to worry about the Optimates - just now, we have to worry about a hundred other cabals as well."
 			"That is also true." Bevan sighed. "How are our friends downstairs?"
 			"Trey's one of us now." Connor sighed. "Sparky's gonna be fine. Ivan's in a bad way, but he's awake. Tough bastard. I just popped in on Olivia - she's sleeping, but she'll be okay."
@@ -22431,7 +22468,7 @@ VOLUME 3
 			Oxford turned to face him, and smiled affably. "Take a seat, Mr. Davis."
 			The Commandant nodded, and sat down. His huge frame made the seat creak as he took it.
 			"So... Mr. Davis." he began, sitting down across from the monster of Paladin. "This... 'final victory' of yours hasn't been going well, now, has it?"
-			"I--Campbell's actions have caused us a great deal of difficutly, sir." the Commandant nodded. "I've got my men doing their best to search for him--"
+			"I--Murphy's actions have caused us a great deal of difficutly, sir." the Commandant nodded. "I've got my men doing their best to search for him--"
 			"Enough." Oxford muttered disdainfully. "Enough excuses. You are the Commandant of PaladinCorp - it is *your* job to manage things. Now, I tolerated your... 'ideological inflexibilities' for a while, because you were useful. But now, you're becoming more trouble than you're worth."
 			"Sir, I--" the Commandant began, and Oxford's eyes flashed from their yellowish-brown to a brilliant violet. Suddenly, the Commandant began choking, as the air in his lungs forcefully evacuated.
 			"Do not interrupt me." Oxford snapped, his voice echoing like a choir. The Commandant rattled in pain, as his face turned red. Finally, Oxford released his supernatural grip, and the Commandant gasped for air.
@@ -22583,7 +22620,7 @@ VOLUME 3
 			Chloe looked at her hair, and smiled warmly. It had been braided into fishtail, with loose strands at the front having been curled to dangle by her temples. Meanwhile, she had opted for a low-key makeup regimen - one that emphasised, rather than concealed. She took a deep breath.
 			"Do you think it looks good?" she asked.
 			"*Do I think it looks good?!*" Bea replied incredulously. "Chlo, you look *stunning.* You're gonna blow him away."
-			Chloe chuckled, rising. She wore a red A-line dress, with black flats and a leather jacket.
+			Chloe chuckled, rising. She wore a red, sleeveless turtleneck dress, with black flats, tights, and a leather jacket.
 			"Oh, you're gonna knock him dead." Bea grinned, before walking out of the bedroom into her living room.
 			Shannon and Amy, who were reclined on her sofa, immediately greeted her with a joint "Ooooh!"
 			Chloe chuckled and blushed. "What do you guys think?"
@@ -22629,7 +22666,7 @@ VOLUME 3
 			"Sparky's on patrol tonight, as well - little mite has volunteered so I won't get called away." Connor smiled.
 			"Hey, love is in the air or whatever you humans say." Sparky quipped. "Just hope I don't get distracted by anyone in heat..."
 			"That is *gross.*" Trey stuck his tongue out, cackling. Sparky playfully bat at him with his paws.
-			"I'm on patrol too." Amy nodded. "Olivia's still in physio, and Ivan's swanned off to Russia - so we'll cover the city together."
+			"I'm on patrol too." Amy nodded. "Olivia's still in recovery, and Ivan's swanned off to Russia - so we'll cover the city together."
 			"Thanks, sis." Connor smiled. "Any problems--"
 			"I'll phone *Trey,* not you." she said firmly, before grinning. "Anyway - fuck off, lovebirds. You're gonna be late."
 			"Wow, you can just *feel* the love, eh?" Connor grinned.
@@ -22996,7 +23033,7 @@ VOLUME 3
 			"Hey, oldies." Trey grinned. Phil shot up and embraced him.
 			"Whoa, hey." Trey smiled, hugging his father back. "Missed you too."
 			"How was it?" Vince asked, giving Connor a fatherly pat of the back.
-			"Not bad. We're just passing through - we've gotta go meet with Bevan - the MI5 fella." Connor explained. "That probably means we're getting sent on a mission; so, Tommy - any more problems with the Patriots?"
+			"Not bad. We're just passing through - we've gotta go meet with Bevan - the MI0 fella." Connor explained. "That probably means we're getting sent on a mission; so, Tommy - any more problems with the Patriots?"
 			"Nothing." Tommy shook his head. "The Grins and us have basically nudged them out of business, and your team has taken out all their top earners. After the riots last week, I think they're mostly done - touch wood."
 			"Good." Vince nodded. "One less problem, at least."
 			"That's that, then." Connor smiled. "Well, no rest for the wicked."
@@ -23010,6 +23047,27 @@ VOLUME 3
 		Training
 		______________________________
 		SCENE
+			Olivia's eyes snapped open to a knock on the door. She struggled and strained, rising to a seated position.
+			"Rise and shine." Connor grinned, entering.
+			"Hah... hey." she stretched. "How long have I been out?"
+			"Nearly a week." Connor admitted. "We had to keep you sedated - you don't heal as fast as us."
+			"Shit... how did the fight go?" she asked.
+			"Badly. But I managed to stop it." he nodded, sitting by her bedside. "The bigger news - Trey's one of us."
+			"How do you mean?"
+			"I mean, he has the same mutations me and Sparky do. And they've been activated."
+			"Oh..." Olivia gasped. "That's... very big news."
+			"Anyway - how are you feeling?"
+			"I can barely move..." she groaned. "Wish I could heal as fast as you."
+			"Surely there's some Esper doohickey that lets you heal, right?" he quipped.
+			"There is - Biomanipulation. Also known as Somakinesis. But I never studied that one." she nonchlantly shrugged.
+			"...ODIN might be screwed up, but we could definitely use some of their study material." Connor stroked his chin. "That reminds me - could I learn to use other powers? I *am* technically an Esper, after all."
+			"It'd be tricky." she shook her head. "You'd need to spend a lot of time - and I mean a *lot* - to develop even basic abilities. It's not like learning a new skill, or even a new language."
+			"Damn. There goes my plans of becoming a god." he grinned.
+			Another knock at the door.
+			"Connor?" Bevan began. "We need to talk. Urgently."
+			"See you around." he smiled.
+			"Likewise." Olivia nodded, lying back down.
+
 			The sun was starting to set now, and Chloe and Bea descended the steps of the university halls, heading towards the bus stop.
 			"Ugh, I'm so glad the module's nearly over." Bea grinned.
 			"I'm not. I'm so far behind on my coursework, it's... worrying." Chloe shuddered. "I think I'm gonna need to spend some more late nights in the library."
@@ -23054,7 +23112,7 @@ VOLUME 3
 			"Fuck..." Amy gasped. "Alright, I'll help--"
 			"No." he shook his head. "I need you here."
 			"Are you fucking kidding me?! I proved myself last--"
-			"Amy." he said softly. "I'm not leaving the city unattended. I can't go unless it's in safe hands."
+			"Amy." he said softly. "I'm not leaving the city unattended. I can't go unless it's in safe hands. Drackhill doesn't need the Werewolves right now - but it *does* need its hero. Do you understand?"
 			She paused, and looked up. "I... Okay. You can trust me."
 			"Thank you..." he whispered. "We'll be back soon, Stunlocke."
 			She smiled sadly, watching as they all left for the chopper.
@@ -23314,6 +23372,54 @@ VOLUME 3
 		Battle of Karelia - Part 2
 		______________________________
 		SCENE
+			"GRGRGRGGRGRGAAAGH!" the thug screamed as lightning coursed through his veins. He fell to the ground, and Amy sighed.
+			"Jinx, this is Stunlocke. That's the last one." she reported.
+			"Nice work." Shannon smiled, her face appearing within Amy's visor. "How's that upgrade working for you?"
+			"Battery's still at 70%." Amy grinned. "And the HUD is a nice touch."
+			"Thanks. I'm putting together an op on an Eidolon facility - if you and the guys manage to pull it off, I should get some pretty nifty goodies for that suit of yours."
+			"Thanks." she nodded, looking out into the distance.
+			"What's up?"
+			"How do you know something's up?"
+			"Because we're on video call? You know I can see your face too, right?"
+			"There's a webcam in this thing?"
+			"I spare no expense for the city's heroes." Shannon grinned.
+			Amy chuckled. "I just... I don't know. Learning about my... about what I really am."
+			"You're still Amy. Still Stunlocke."
+			"Should I be?"
+			"Hm?"
+			Amy sighed. "I have the potential to be just as powerful as Connor, Trey, and Sparky. Instead, I use that potential to shock up goons. I could be out there, in Karelia, fighting--"
+			"Even if you were a Werewolf right now, we'd still need someone doing what you're doing." Shannon shook her head. "Connor said it best - the city needs its hero."
+			"I suppose." she shrugged. "But I could still be the hero the city needs as a Werewolf. And I could do so much more, too."
+			"Well, when Chloe gets back, you guys can figure out how to... I dunno, switch the powers on or whatever. Though to be fair, I think I heard her say she wants to run some tests on you to find out what a Werewolf's biology looks like pre-activation."
+			"Hah. Ever the scientist." Amy smirked. "Anyway, how's Olivia doing?"
+			"She's resting right now. I've not told her what's going on in Karelia, just to be safe." Shannon nodded. "We reckon she'll be up and about tomorrow, though."
+			"That's good. We could use the extra hands." Amy sighed. "Anyway, I'd better get back to it."
+			"See you later, Stunlocke." Shannon smiled.
+			"In a while, Jinx." Amy grinned.
+
+			Phil took a deep breath, sat in his car. He steeled himself, grabbed the bouquet of roses in the passenger seat, and headed out. He walked towards a grave he knew well.
+			"Hey, babe..." he began, looking at the headstone.
+
+			KERRY LOUISE MORGAN
+			04/07/1968--09/12/1996
+			Loving Wife, Daughter, and Mother.
+
+			Tears streamed down his cheeks - even 19 years later, the pain was still raw.
+			"I..." he spluttered, sinking to his knees. "I promised you I'd protect our baby boy, and... and now I... can't."
+			He sobbed, and looked up to the sky.
+			"Please, baby... please give me a sign... anything, just to--to know that I'm doing the right thing, I... I can't do this on my own..."
+			He looked back down, now crying even harder than before.
+			Then, he felt a gentle hand on his shoulder. He startled slightly, but relaxed when he saw the face.
+			"Hey, mate." Vince nodded softly. "It's alright. Let it all out."
+			"I... I can't do this, Vince. I can't cope with him swannin' off halfway around the world and putting his life on the line, I... I can't lose him, too!"
+			"I know... I know..." Vince whispered, hugging him.
+			"What do I do?" he asked, through pained breaths.
+			Vince sighed, looking out into the distance.
+			"Be there for him. Talk to him. Give him... Give him something to come back home for."
+
+		Drackhill Reels
+		______________________________
+		SCENE
 			Connor woke from his healing coma, launching a globule of blood and bile from his face. He snapped up, and looked around frantically. Immediately, he spotted his friends, and relaxed.
 			"You're okay, you're okay." Chloe rushed over.
 			Trey came too. He had morphed a neck-brace, and was still in his costume - minus the mask. Sparky dragged himself over, his mouth still toothless and torn.
@@ -23443,19 +23549,161 @@ VOLUME 3
 			"You're not seriously suggesting that we *ally* with that... that *thing?*" Ivan pulled his head back.
 			"I don't know if we can trust them or not." Connor said finally. "But I do know that when they spoke to us just now, they weren't lying."
 			"I felt that too." Trey nodded. "This... telepathy thingy, it's weird. But I could tell they were telling the truth."
-			"Me too." Sparky concurred. "But just because they're being honest doesn't change what they did!"
+			"Me too." Sparky added. "But just because they're being honest doesn't change what they did!"
+			"I know." Connor sighed. "But the Major's right - we share an enemy. Beggars can't always be choosers."
+			"What are you suggesting?" Chloe tilted her head.
+			Connor stroked his chin. "We bring them back to Drackhill. I know, it's a big risk - but we killed them before, and that was without Trey, and with Amy and Olivia tied up fighting Super-Agents. If they try anything funny - and I mean *anything* - they won't have long to regret it."
+			Bevan nodded. "Connor's right. You can take them on again. But after seeing that interrogation... I don't think you'll need to."
+			Connor took a deep breath. "I'll go offer our terms."
+
+			The Judge sighed at Connor's approach.
+			"I thought I said I was done talking, youngblood."
+			"Then listen." Connor folded his arms. "You wanna fight this Lord? Destroy the Optimates? Kill the Commandant?"
+			"With every fibre of my being." they snarled.
+			"Then come back to Drackhill with me."
+			"Hm?"
+			Connor hesitated. "We're both Moxidar. And we share an enemy. For now, I'm guessing that's enough."
+			The Judge rose on their still-healing legs, and stared into his eyes.
+			"You follow *our* orders. You don't kill any humans. And if you fuck with my friends, I'll kill you again. But the Optimates? They're fair game."
+			A savage grin cracked over their face.
+			"'Fair game.'" they growled excitedly. "I like that."
+			"Can you abide by my terms?"
+			The grin only widened.
+			"You're bold, youngblood. If I had dictated to my elders like this..."
+			They took a deep breath, and their eyes flashed.
+			"I accept your terms. Norai Hekhna Zer-Shal."
+			"By Blood and Hate, We Serve." Connor whispered in translation. "I can live with that."
 
 		Leaving Karelia
 		______________________________
 		SCENE
+			Amy's helm clicked open as she pulled it from her head. She shook her hair free.
+			"Damn..." Bea grinned. "You know, Stunlocke was always the cooler hero, in my humble opinion."
+			"I'll miss it." Amy sighed. "But hey, who needs a Pulsar when you can just punch someone through a wall."
+			Bea chuckled. "Do you need a hand getting out of that thing, or?"
+			"Oh, offering to undress me now?" Amy chuckled. Bea blushed slightly.
+			"Guys!" Shannon rushed in. "The Kestrel's touching down - they're back."
+			"I'll go get Vince and Phil." Bea nodded. "See you out there!"
+			Amy waved her off, and headed outside with Shannon.
+
+			The Kestrel's engines slowly stopped roaring as she landed in the Riverside car park. The pilot made sure to land her in the lines of a parking bay, grinning as the landing pods folded out.
+			The back door swung downwards, and the humans of Riverside looked up as the squad stepped out.
+			"Hey!" Amy smiled, hugging Connor.
+			"Whoa, hey!" he grinned. "Where's Amy, and what have you done with her?"
+			"Shut up, fuckface."
+			"*There* she is!"
+			"Good to see you, lad." Vince beamed.
+			"Hey, dad!" Trey cheered, hugging Phil.
+			"Hey, my boy..." Phil embraced him.
+			"Hi guys! How was the city while we were away?" asked Sparky.
+			"Not bad, bud!" Shannon smiled. "Amy did good."
+			Bea and Chloe didn't speak - they just hugged, melting into it.
+			"Wait a sec..." Amy looked up, as Ivan, Bevan, and the final passenger disembarked.
+			The Judge rolled their shoulders, taking a deep breath of air.
+			Amy ripped the Pulsar from her belt, and fired.
+			"Amy, no!" Connor barked. Too late.
+			The Judge's eyes blazed crimson. They snarled, but placed their hands on their face, and took a calming breath.
+			"Youngblood. Good reflexes, I'll admit." they grinned.
+			"What the *FUCK* is he doing here?!" Amy growled.
+			"Uh--they. They're on our side now." Trey quickly added.
+			"...WHAT?!"
+			"Let's talk inside." Connor beckoned. "Amy?"
+			She held the Pulsar, still aimed at their chest - but relented, and headed in.
+			Connor approached the Judge.
+			"That one fears me." they somberly noted.
+			"Can you blame her? You punched a hole through her brother's chest, and sicced a bunch of Super-Agents on her."
+			They looked away. "They have a warrior's heart, to attack me like that."
+			"Yeah... she really does." Connor nodded. "Anyway... you'll be staying here. At least one of us will be watching you at all times. Remember my terms."
+			"I did not save your life just to end it later, youngblood." they cocked an eyebrow. "You will find no quarrel with me."
+			"Good."
+
+			"...so, the Judge is what, our secret alien dad?!" Amy tilted her head.
+			"That's... well, it's a bit more complicated, but kinda?" Chloe shrugged. "Their blood was used as the first super-serum on Earth. I suspect it was implanted in-vivo to you three."
+			"So they're the one that killed my Kerry..." Phil growled.
+			"The Optimates killed her, dad." Trey said softly. "And now the Judge wants to kill them."
+			"For now, we make sure at least one of us is with them." Chloe sighed. "From what I can tell though, they're an alien of their word."
+			Vince stroked his beard.
+
+			It was late, now. The Judge had been given a pillow and blanket to sleep on the sofa with. They scoffed, but took their place.
+			They began making a sign with their hands - a prayer - before cursing and taking a seat. They ran their hands over their scalp.
+			"False one... false one..." they whispered, shaking back and forth.
+			"Oi." a voice called out. They looked up.
+			"You resemble Connorbarrett." they nodded. "Are you of their genestock?"
+			"If that's how aliens ask 'are you family,' then yes." Vince growled, stepping forward.
+			"What do you want, human?" they tilted their head.
+			"My nephew... he's a good boy. He's got a big heart." he began, with the devil in his eye. "You hurt him. Badly. Now he may be willing to let that slide, but I'm not."
+			"Oh? What do you intend to do?"
+			Vince's lip curled. "If you hurt him again... if you dare to touch a hair on his head... I'll kill you. I don't care what planet you're from, or how strong you are. I will kill you."
+			The Judge's brow furrowed at the insult. They scanned him up and down, before bowing their head in respect.
+			"I believe you."
+			Vince nodded firmly, and left. The Judge leaned back, and closed their eyes, deep in thought.
+
+		Return
 
 	The Last Judgement
 	______________________________
 	CHAPTER
 		______________________________
 		SCENE
+			"RAAAGH!" Connor roared, his fist crashing through the air and landing squarely in Trey's chest.
+			Trey let out a wheeze, before sending a stab to Connor's gut. He pulled back, but just barely, and the skin broke.
+			Trey grinned, and pressed his attack. He sent a spinning kick that smacked aside Connor's head, dazing him - before a backflip that kicked him upside the chin.
+			Connor snarled, and charged forwards. He wrapped Trey in a bear hug, and squeezed tightly.
+			As Trey's bones cracked, he let out a savage growl, before morphing spikes from his back. They cut into Connor's chest, but his grip only tightened. Finally, he slammed him into the ground, before stomping on his head.
+			Trey was dazed, but not done. He spinned, kicking Connor in the backside and rising. The two clenched their fists, and struck - both hands crashing into each other. They felt their bones finally break, and stumbled forward, their heads knocking into each other. Their crimson eyes met, and both leaned back, before a headbutt so strong it shook the air around them. Finally, they both collapsed, bloodied and broken.
+			"Pathetic." the Judge sneered, arms folded. "*These* are the heroes of Earth?"
+			"Hey, fuck you." Connor panted, staggering to his knees. "We lasted ten minutes - that's more than you did."
+			"Very funny, youngblood." they tutted. "At least the Wolf shows promise."
+			Sparky stumbled into view, before falling to the ground. "Yeah... the Judge doesn't pull their punches in training."
+			"Nor should I. The purpose of training is to harden your body and strengthen your soul."
+			"Jesus..." Trey chuckled. "And I thought *your* training regimen was a lot."
 
+			Chloe peered through the microscope, looking at the Judge's tissue samples.
+			"Anything I can do to help?" asked Bea.
+			She smiled. "I'm okay. Just trying to figure out how their biology works."
+			"Anything interesting?"
+			Chloe chuckled. "A lot. I've found plenty of analogues for terrestrial proteins - overall, Golgothan DNA seems to follow the same rules as humans. There are a few differences though - for example, Golgothans have hyperactive scar tissue. Moxidari can heal scars, but regular Golgothans must be covered in them by the time they get old. Which isn't long, as their telomeres are on the shorter side - again, being a Moxidar means that's not a problem, but based on my estimations, a Golgothan probably doesn't live much longer than 50 years."
+			Bea nodded her head, intrigued. "That must be pretty lonely, then. Being the only long-lived person in your entire society."
+			Chloe paused. "That explains a lot about the Judge, actually. It definitely explains why they were so willing to throw their lot in with us."
+			At that, Amy came in, wearing a patient's gown.
+			"All done?" Chloe asked.
+			"Ugh..." she groaned. "I've never had a CT scan before, and I don't intend to have another."
+			"There'll be one more, once we've got your powers working." Chloe smiled. "I'm gonna pick the Judge's brains later on how all *that* works."
+			Amy sighed softly.
+			"What's wrong?" Bea asked.
+			"N-nothing."
+			"Amy..." she pressed.
+			She sighed again, sitting down.
+			"You don't want them?" Chloe tilted her head.
+			"It's not that. It's... the Judge. How after everything they did, we're all supposed to just let them into our lives now."
+			Chloe gave a sympathetic smile. "I know. I'll admit, I'm not too happy having them around. But... Connor's right. We need all the help we can get. And they've kept to their word - if they wanted to attack, they could've."
+			"I know." Amy leaned back. "But I still hate them."
+			Bea gently brushed her arm. At that, the Moxidari came back in.
+			"Hey, guys." Connor groaned, stretching.
+			"Jesus." Bea shuddered, catching their bruises. "What happened?"
+			"Training." Trey nodded. "The Judge says that we get stronger over time if we get hurt, so we stopped pulling our punches."
+			"I hope we get stronger soon." Sparky chuckled, flopping onto the floor.
+			"The results will take time." the Judge nodded. "Go and rest. You will feel better in the morning."
+			"Can't. There's patrols that need doing." Connor began.
+			"Then I shall watch your city." the Judge bowed his head. "Do not fear, I shall honour your terms."
+			"You're not gonna let that thing *actually* go on patrol, right?" Amy scowled. "They killed people! Strung them up by their guts!"
+			"Amy's right." Connor nodded. "I don't want you patrolling unsupervised until I can be sure you're not gonna go too far."
+			The Judge's face contorted slightly, but they relented, and turned to Amy. "Perhaps, then, I can be supervised by you?"
+			Amy scoffed. "You might've pulled the wool over Connor's eyes, but there's no way in hell I'm trusting you."
+			"Amy..." Connor said softly.
+			"No." she snapped. "You're the leader or whatever, so you can do what you want. But I'm *not* going *anywhere* with them."
+			The Judge hesitated, but then had an idea. "You are aware of our vulnerability to certain noises, yes?"
+			Amy tilted her head, as they grabbed an earpiece.
+			"Have your Fabricator modify this device such that it can deliver those frequencies. If you disapprove of my actions, activate it. I will be incapacitated and at your mercy - and electricity is another thing we are weak to. Use your shock-pistol to further stun me, and claim my head with your blade."
+			"You'd... willingly make yourself vulnerable like that?" Connor cocked an eyebrow.
+			"I am... unused to human customs. But I can tell that your trust is earned." they bowed their head again.
+			Amy hesitated. "You so much as look at me funny, and I'm mounting your head on a wall."
+			"Understood. Jazh korahl i'Rezuul."
+			"I serve at your command." Connor muttered in translation. "Up to you, sis."
+			She looked the alien up and down, and sighed.
+			"Fine."
 
+		Training Day
 		______________________________
 		SCENE
 

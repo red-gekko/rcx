@@ -120,7 +120,7 @@ VOLUME 1
 			"Fuck me..." he muttered, before shuffling like a zombie towards the kitchen space, and making himself a coffee. His accent had a funny quality - it was never sure where it was from. He sounded like a local, but had strong Irish influences as well. As for his tone, it was flat - intonations were largely neutral, as though he put far more stock into words than their presentation.
 			He sipped from the cup, and allowed the bitter taste to snap him into reality. He walked to the window and considered a cigarette, then shook his head. He opened it and leant out, breathing in through the nose to absorb the city's smell.
 			Drackhill. Once a major industrial hub, set to be the economic capital of the south-west. The city sat comfortably in the Drackhill Valley, nestled between Dartmoor and the coast. Connor's flat was on the western side of Drackhill - a poor, neglected township called Redbridge.
-			He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. He saw the wealthy, uptight centre of Caldermouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls. He cracked a slight grin, watching two airships pass each other by.
+			He craned his head, and looked across the river. He could see the old, dilapidated industrial district of Belson. His eyes followed the river towards the coast, resting on the wealthy centre of Caldermouth. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes up the great hill in the centre of the city - Wyrmrock. The city's ancient namesake, from an old tale of dragons and trolls. He cracked a slight grin, watching two airships pass each other by.
 			He sniffed at his armpit, and grimaced, before heading into the bathroom, stripping, and hopping into the shower.
 			Hopping wasn't hyperbole - fully awake, he vaulted the bathtub's side and used his toes to soften his descent. He grinned at his own lameness.
 			The hot--well, lukewarm--water flowed over his skin, washing away the sweat and the stink. He reached for the shower gel, and focused on the important bits - hair, armpits, groin. He vigorously rubbed a spot on his arm, only for the sleep-dust in his eyes to clear, and he realised it was just his freckles. He chuckled.
@@ -1994,10 +1994,10 @@ VOLUME 1
 			"I... Sorry, sir, I know the objective was to come up with a vaccine idea rather than treatment, but I just thought--" Chloe began.
 			Lowenthal raised his hand. "Oh no, dear - your idea there was brilliant. No, I fear *you're* wasted in this lecture hall! You're far beyond the rest of the class."
 			"Sir?" Chloe asked, still timid.
-			"Have you ever heard of a company called 'Morland Genetics'?" Lowenthal asked.
+			"Have you ever heard of a company called 'Vitalis?'" Lowenthal asked. "They're a medical research company."
 			"I... Yes, sir, I've heard of them. Their head office is in Belson, isn't it?" she replied, unsure.
 			"I'm going to put in the good word, and see if we can get you a work placement there." Lowenthal smiled.
-			"You will?" Chloe gasped. "Sir, I... Morland's such a big, successful company - are you sure I'd be any good there?"
+			"You will?" Chloe gasped. "Sir, I... Vitalis is such a big, successful company - are you sure I'd be any good there?"
 			"Absolutely." Lowenthal nodded. "The placement would be for three days a week. Working there will count towards your academic credits here, as well. And, you'll get paid!"
 			"Sir, I..." Chloe thought for a moment. "I'd be honoured." she smiled.
 			"Excellent." Lowenthal smiled back. "Take care now, Miss Derrington."
@@ -2834,18 +2834,20 @@ VOLUME 1
 			"There - by the coast. That's Angleport, the seaside town. They have a massive stony beach there, plus a bunch of coves that pirates used to use back in the day. Can you see the dockyard?"
 			She squinted, and shook her head. "I don't think I can make it out."
 			Connor shivered slightly. He wasn't sure if it was down to his heightened senses, or if her glasses were for more than just reading. He banished the thoughts, and carried on.
-			"I think it's a bit foggy, to be fair. Anyway, closer to home, we've got the whole city." he said, pointing down to the city below. "There's Redbridge, where I'm from. You can tell because it looks awful." he grinned.
-			She chuckled, then pointed to across the river. "And that's Caldermouth, isn't it?"
-			"Look at you, all local, like." Connor smirked. "And then there's Belson between them. I can smell it from here."
+			"I think it's a bit foggy, to be fair. On the other side of the valley, there's Rexton - it's a seaside town. It's a little closer to us."
+			She smiled as she squinted. "I can see that one."
+			"Anyway, closer to home, we've got the whole city." he said, pointing down to the city below. "There's Redbridge, where I'm from. You can tell because it looks awful." he grinned.
+			She chuckled, then pointed to where the river met the coast. "And that's Caldermouth, isn't it?"
+			"Look at you, all local, like." Connor smirked. "And then there's Belson, just across. I can smell it from here."
 			"Am I correct in saying there's a rivalry between your two districts?" she asked.
 			"Rivalry is putting it mildly. Belson's home to the Patriots - a bunch of skinhead cun---I mean, skinhead pricks." he corrected himself, blushing at his foul language. She merely giggled.
 			"And Redbridge has a large immigrant population. So, naturally, the Patriots always try to screw around in our town." he explained.
 			"Oh, my..." she said, eyes widening. "That sounds horrible."
-			"It is." Connor nodded grimly. "But things should hopefully look up, soon. Anyway, over there..." he continued, pointing to a segment of the town where the buildings gradually became sparser, leading into moorland, "...is Blackmarsh. Massive stretch of peat bogs - pretty decent farmland further east."
-			She giggled again, then blushed slightly. "What about that town over there?"
+			"It is." Connor nodded grimly. "But things should hopefully look up, soon. Anyway, over there..." he continued, tracing his finger down closer to the mountain, where the buildings gradually became sparser, leading into moorland, "...is Blackmarsh. Massive stretch of peat bogs - pretty decent farmland further east."
+			"What about that town over there?"
 			"That's Wickermast." Connor nodded. "Home to the local nuclear power plant, a nail factory, and some big weapons manufacturer. Just north of it are the Wyrmwoods - the forests on the western side of the mountain."
 			She smiled warmly. "Anywhere else you can see from here?"
-			He pointed down at a small spot in the distance. "It's hard to make out, but that's Danwich. Hardly anyone lives there, but there's loads of old ruins - Vince used to take me to the castle there. Just south of it is Rexton - bunch of mansions and old people. And it's too foggy to see - but a short way off the coast is Mercy Isle. There's an old monastery there. Long since abandoned."
+			He pointed down at a small spot in the distance. "It's hard to make out, but that's Danwich. Hardly anyone lives there, but there's loads of old ruins - my uncle used to take me to the castle there. Just south of it is Rexton - bunch of mansions and old people. And it's too foggy to see - but a short way off the coast is the Undervalley. When the Ice Age ended, the lower valley was flooded completely - the old hilltops have instead become islands. You've got Hatfell - a tourist trap if you ask me; Bromney - a fishing village; and Mercy Isle. Aside from the naval base, there's an old monastery there. Long since abandoned."
 			"That's cool." she smiled warmly. She watched as the airship above began to slowly descend into the valley.
 			"Damn... you can get a good view of the blimps from here." she grinned.
 			"Technically, that's a zeppelin." Connor began. "Blimps use non-rigid frames, a bit like balloons."
@@ -4839,6 +4841,25 @@ VOLUME 1
 	CHAPTER
 		______________________________
 		SCENE
+			"It doesn't make any sense."
+			Judith Rosenbaum - Judi to her friends - had uttered those words at least a hundred times that week.
+			The city's most senior trauma surgeon sat in the cold air, staring a hundred miles away. She still wore her scrubs, with only a cotton hoodie to keep warm.
+			"Hey, Judi." a young nurse began, taking a seat next to her.
+			She nodded softly, brushing a greying lock away from her face.
+			"There was nothing more you could have done." the nurse said softly.
+			"Exactly. I gave my all, and he still died." Judi shivered.
+			The nurse smiled sadly, placing a hand on her shoulder.
+			"When you're ready to talk, we're here for you."
+			Judi's eyes welled up as she cast her gaze back into the distance.
+			"It doesn't make any sense..." she whispered.
+
+			"It doesn't make any sense." Naismith groaned. "Every time we get one answer, we find five more questions."
+			"There must be two of them." Nina nodded. "How else could they have intervened in the Horse, but also attacked in Belson?"
+			"And then there's the shootings... I reckon that's a third guy." Naismith stroked his chin. "So, there's at least three of them."
+			"Did we get anything on the cyber-freak?" she tilted her head.
+			"Nothing. By the time FIs were on the scene, his body was gone." Naismith sighed. "All we've got are bystander footage."
+			Nina contemplated for a moment, before perking up. "Oh, by the way - new case came in. There's been a few bodies found in the Calder. Forensics are struggling to get any IDs, but the pattern is concerning."
+			"Great... *another* serial killer on the loose." Naismith grimaced. "Alright, let's have a look."
 
 		Enter, Rosenbaum
 		______________________________
@@ -4856,7 +4877,7 @@ VOLUME 1
 		______________________________
 		SCENE
 
-		Hill of Horrors
+		Fee, Fi, Fo, Fum
 		______________________________
 		SCENE
 
@@ -4941,7 +4962,7 @@ VOLUME 1
 			Connor stood his ground, his jaw clenching. "I see the medal, you Tan fuck. Did you enjoy yourself--"
 			"Come on, let's go." Chloe cut in, grabbing his arm. "Now."
 			Connor took a deep breath, staring into the soldier's soul. He nodded, and they moved.
-			"Real brave, kid!" the soldier jeered. "Mouthing off at *real men* who fought for your freedoms!"
+			"Real brave, kid!" the soldier jeered. "Mouthing off at real men who fought for your freedoms!"
 			Connor's head snapped around, but Chloe jerked his arm.
 			"Don't." she said firmly. He sighed, and carried on walking. The trio came to a halt and leaned against a wall.
 			"Fuckin' Tan. Fought for my chains, more like!" he hissed.
@@ -5428,7 +5449,7 @@ VOLUME 1
 			A pause.
 			"Commandant, with respect, I am trying to keep a lid on things, but I--"
 			Shouting came over the phone.
-			"Yes, Commandant. I will call Morland immediately. Do not worry, I will not fail. No one will know about Progeny."
+			"Yes, Commandant. I will call Vitalis immediately. Do not worry, I will not fail. No one will know about Progeny."
 			Muttering was then heard from the phone.
 			"Thank you, Commandant. Hail Victory."
 
@@ -5505,7 +5526,7 @@ VOLUME 1
 			"Hail Victory." the Commandant nodded, and left. He pulled out his phone.
 			"Agent. Reach out to our proxies in the Patriots. Have them wait for a young woman with glasses and black hair."
 
-			Later that evening, Chloe finished her shift at Morland. She pulled out her phone, and called Bea.
+			Later that evening, Chloe finished her shift at Vitalis. She pulled out her phone, and called Bea.
 			It rang for a solid minute, before Bea finally answered.
 			"Hey, girl! How was work?" she asked.
 			"Hey! Yeah, good! Really busy though. We've been looking at some synthetic steroid-analogues." Chloe replied. She went to continue speaking, but Bea interjected.
@@ -5523,7 +5544,7 @@ VOLUME 1
 			"Yo, dickhead, what's--"
 			"Chloe's being attacked!"
 			"What?! Where is she?"
-			"Outside her work... argh, what was it called?! "Mor-" something... Morland Genetics!"
+			"Outside her work... argh, what was it called?! "Vita-" something... Vitalis!"
 			"That's the big tower building in Belson - we're close by!" Connor said, his hearts pounding. "SPARKY!" he roared.
 			"Let's go!" Sparky barked back, rushing to his side.
 			The two sprinted at full speed - fast enough that when Connor turned the corner to head down the street, he had to skid and catch himself to retain his momentum. They spotted the alleyway, where Chloe was with two men - Connor motioned for Sparky to jump up and go around while he took the front.
@@ -5873,8 +5894,11 @@ VOLUME 1
 			"Chto?" Ivan tilted his head.
 			"I can't explain it..." Connor said, brow furrowed. "But somehow, we have this 'bond.' When we sleep next to each other, we always end up having the exact same dream. Sometimes, when we touch each other, we'll see flashes of the other's thoughts. And weirdest of all... the other night, we managed to fully join our minds together. I could see his memories, and he could see mine. When we stopped, there was a short moment where we couldn't tell which one we were."
 			Ivan stroked his beard, deep in thought. "A month ago, I would've thought you were crazy. But after what we've seen..."
+			"Tell me about it. Oh, did you get my report on the big fucker in the Underhill lab?"
+			"Da. It's a shame those... those *things* got to the body before the cops did. They didn't even leave bones behind."
+			"Damn." Connor shuddered. "Hungry fuckers."
 
-			He lit a cigar, and offered Connor one. Connor cocked his eyebrow, before taking it.
+			Ivan chuckled. He lit a cigar, and offered one. Connor cocked his eyebrow, before taking it.
 			"Cuban. Very good. Long live Comrade Castro." Ivan smirked.
 			"Viva la revolution." Connor grinned back. "You know, nicotine doesn't really affect us anymore."
 			"*That's* why my cravings have been so bad!" Ivan laughed.
@@ -5968,10 +5992,10 @@ VOLUME 1
 
 			"One more thing." Connor sighed. "My little mauling session - it was because my friend Chloe was attacked outside her work by those skinheads."
 			Ivan raised an eyebrow.
-			"Her work being a place called Morland Genetics." Connor continued.
+			"Her work being a place called Vitalis." Connor continued.
 			"Obaldet... That's the lab the police have been using." Ivan gasped. "So, what, you think the Optimates were involved?"
 			"If the Patriots are just a proxy for the Optimates..." he shrugged. "It's not that big a leap."
-			"Fascists of a feather." Ivan nodded. "Well, there's three posibilities. Number one, just a coincidence. Your friend was a lone woman walking in Belson, it happens. Number two, the Optimates want to strike at Morland, derail the investigation. But... then why not use Super-Agents? Or just infiltrate and steal?"
+			"Fascists of a feather." Ivan nodded. "Well, there's three posibilities. Number one, just a coincidence. Your friend was a lone woman walking in Belson, it happens. Number two, the Optimates want to strike at Vitalis, derail the investigation. But... then why not use Super-Agents? Or just infiltrate and steal?"
 			"Number three?" Connor tilted his head.
 			"This was a warning to you. Hence why they used normal humans instead; they wanted to scare you, not kill her."
 			Connor looked away, pale now. "It's my fault, then..." he whispered.
@@ -5981,9 +6005,9 @@ VOLUME 1
 			Connor smirked slightly. "That how you rallied the troops in your big hat?"
 			Ivan chuckled. "There's something else, too. I know here in this capitalist dystopia--"
 			"Oh, here we go." Connor faux-jeered.
-			Ivan laughed gregariously. "Okay, I know here in your 'Free liberal democracy'" he began, generously using scare-quotes, "you like to contract with private companies, but... doesn't it seem strange to you that the police so easily employed Morland?"
+			Ivan laughed gregariously. "Okay, I know here in your 'Free liberal democracy'" he began, generously using scare-quotes, "you like to contract with private companies, but... doesn't it seem strange to you that the police so easily employed Vitalis?"
 			"Something this big, with superhumans - you'd think it'd be MI5, right?" Connor tilted his head.
-			"My contact's suspicious about this whole thing. We have no evidence, but... something stinks. I'll make sure we keep a close eye on Morland - for your Chloe's safety."
+			"My contact's suspicious about this whole thing. We have no evidence, but... something stinks. I'll make sure we keep a close eye on Vitalis - for your Chloe's safety."
 			"Thank you." Connor nodded, relieved.
 			"See you soon, tovarishch." he smiled.
 			"Call me if anything changes." Connor nodded back.
@@ -6326,7 +6350,7 @@ VOLUME 1
 
 			In short order, he pulled up back outside Chloe's block. She came rushing out, all dressed up ready for work. Sparky groggily trotted beside her.
 			"Heya, thanks again for doing this..." she smiled, entering the car.
-			They drove to Morland Genetics, and parked up.
+			They drove to Vitalis, and parked up.
 			"Thanks again for last night... you really saved me." Connor smiled.
 			"Hey, eye for an eye, right?" Chloe smiled back.
 			"That reminds me - I've got the evening free - did you wanna try sparring tonight?"
@@ -6345,7 +6369,7 @@ VOLUME 1
 			Connor looked at Sparky, beaming with pride. "You know, you've grown into such a wise young wolf." he said.
 			"Well, I can't take all the credit. I have a pretty good role model." Sparky replied, smirking.
 
-		Waking up round Chloe's/Morland gets involved
+		Waking up round Chloe's/Vitalis gets involved
 		______________________________
 		SCENE
 			Chloe walked into the lab, and saw a middle-aged man standing there, reading on a laptop.
@@ -6440,7 +6464,7 @@ VOLUME 1
 		Chloe studies the hand
 		______________________________
 		SCENE
-			That evening, Connor pulled up outside Morland. He had a gym bag in the back seats.
+			That evening, Connor pulled up outside Vitalis. He had a gym bag in the back seats.
 			Chloe left the block, wearing a t-shirt, joggers, and trainers - dressed to spar.
 			"Hey!" she smiled.
 			"Hey, hey!" Connor replied. "You ready?"
@@ -6464,7 +6488,7 @@ VOLUME 1
 			"The Commandant?!" Connor gasped, his hearts skipping a beat.
 			"Yeah. Um... do you know him?" she asked cautiously.
 			"I--" he stammered, quickly trying to recompose himself. "PaladinCorp are a... they're a mercenary group. If they've sent a 'Commandant' here..."
-			"Mercenaries?" she gasped. "Oh, God... what would they want with Morland Genetics?"
+			"Mercenaries?" she gasped. "Oh, God... what would they want with Vitalis?"
 			"It's probably nothing." he quickly covered, hating the lie.
 			"How do you know about them?"
 			He looked away, before sighing. "They were involved, back home. They gave weapons and training to Loyalist paras."
@@ -6675,13 +6699,13 @@ VOLUME 1
 			"Nyet, thank *you.*" Ivan grinned. "That dossier was just what we needed."
 			Connor smirked. "You should meet Tommy. I have a feeling yous two would get on famously."
 			Ivan chuckled. "I'm sure we will all go for vodka when this is over, tovarishch."
-			Connor paused, hesitant. "You remember us talking about Morland Genetics?"
+			Connor paused, hesitant. "You remember us talking about Vitalis?"
 			Ivan nodded.
 			"...Some fellas from PaladinCorp turned up there today. Including the Commandant."
 			"Bozhe moy..." Ivan gasped. "That is... very, very bad..."
 			"You're telling me." Connor sighed. "My friend, Chloe - I can't have her in the crossfire if things go bad."
 			"Chyort..." Ivan muttered. "You mentioned her before. The one who was attacked?"
-			"That's her. She works at Morland - she's on university placement there. She's been assigned to my case for some reason."
+			"That's her. She works at Vitalis - she's on university placement there. She's been assigned to my case for some reason."
 			"Could she be involved?" Ivan quizzed, but Connor immediately shook his head.
 			"No. Absolutely not. For one thing, given their ideology, there's no way they'd recruit a disabled woman. Second, she's just... not like that. She's too kind to be a fascist stooge."
 			"Okay... But you said she's in university, da? Why would she be assigned to this case?"
@@ -6897,7 +6921,7 @@ VOLUME 1
 
 		Naismith vs. Connor - Aftermath
 
-	Blind Spots
+	Weak Points
 	______________________________
 	CHAPTER
 		______________________________
@@ -7817,9 +7841,9 @@ VOLUME 1
 			Naismith thought for a moment. "It sounds like I'm doing your dirty work for you."
 			"No. You're responding to a threat from a serial killer, right?" Connor interjected. "A known, wanted criminal told you where he plans to strike. So, you have a duty to arrive on the scene, no? Also, you kind of owe me for trying to kill me last week. And besides - there's some Super-Agent bodies in it for you."
 			"Super-What?!" Naismith asked incredulously.
-			"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Morland, right?"
+			"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Vitalis, right?"
 			"How do you know about that? Our work with them is top-secret..."
-			"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Morland. And there'll be more to send them tonight. Are you in, or not?"
+			"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Vitalis. And there'll be more to send them tonight. Are you in, or not?"
 			Naismith sighed. "...fine. I'll be there."
 			Connor breathed a sigh of relief. He hopped out of the car.
 			Naismith rested his head on the steering wheel, and sighed again.
@@ -7975,10 +7999,10 @@ VOLUME 1
 		______________________________
 		SCENE
 			"Good work tonight, bratan." Ivan smiled proudly at his comrade. "That *gigantskiy urod* was a tough bastard."
-			"What the fuck was it?" Connor tilted his head.
+			"It's not the first time we've tangled with one of those." Connor tilted his head. "What the fuck was it?"
 			"'Project Jotunn.'" Ivan began clinically.
 			"Seriously?" Connor grinned. "Do these psychos have a contractual obligation to pick the most melodramatic names?"
-			Ivan chuckled. "Don't get me started. Fenrir, Progeny, Crusader... Anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
+			Ivan chuckled. "Don't get me started. Fenrir, Progeny, ODIN, Crusader... Anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
 			"Great. So aside from the mutant spooks, cyber-knights, and psychic assassins... we now have fuckin' giants in the mix."
 			"Giants that they're going to make stronger next time... I'll go back to my people, see what I can find."
 			Connor turned down to Sparky, who was chewing a bone happily.
@@ -8240,7 +8264,7 @@ VOLUME 1
 
 		Telling Ella
 
-	Aliiances
+	Law and Disorder
 	______________________________
 	CHAPTER
 		______________________________
@@ -8366,10 +8390,10 @@ VOLUME 1
 
 			The evening was going exactly as planned.
 			The glittering of chandeliers lit up the massive, high-rise ballroom. A quartet played near the balcony doors, while a swarm of tuxedos and gowns mingled. In darker corners, high-stakes games of politics and commerce were being played; while an old man in his finest suit tapped his spoon on his champagne glass.
-			"If I could have your attention, ladies and gentlemen?" he began. "I'd just like to thank you all for coming this evening. With your continued support, the Rhodes Foundation has continued to promote the development of open markets, lower taxes, less regulation, and more economic freedom."
+			"If I could have your attention, ladies and gentlemen?" he began. "I'd just like to thank you all for coming this evening. With your continued support, the Maxwell Society has continued to promote the development of open markets, lower taxes, family values, and economic freedom."
 			"And plenty of subsidised champagne!" one other man cheered.
 			The attendees roared with laughter, and raised their glasses.
-			"Well, then! To Rhodes! To free markets! And to--OH MY GOD!"
+			"Well, then! To Maxwell! To free markets! And to--OH MY GOD!"
 			People craned their necks, and then ducked out of the way, as a hulking black mass smashed through the expensive glass wall. Shards exploded across the marble floor as Connor skidded across the tiles and rolled to a stop, smashing into a table. His membranous glider morphed back into him, as he rose, arching his back and feeling it click.
 			Some screamed. Some fainted. Others simply stood, like deer in headlights.
 			"Ugh... practice makes perfect, I suppose." he shrugged. "Ooh, food."
@@ -8386,7 +8410,7 @@ VOLUME 1
 			"These are nice!" he smiled between mouthfuls.
 			"Aha!" Connor grinned. "More of those next time, please?"
 			"SECURITY?!" the old man screamed at last.
-			"Our cue." Connor chuckled. He rushed to the balcony, and leapt off from it. Stretching out, he rode the winds away.
+			"Ah, our cue." Connor chuckled. He rushed to the balcony, and leapt off from it. Stretching out, he rode the winds away.
 			"Sorry about the mess!" Sparky barked happily, before likewise gliding away.
 			The great and the good looked on in horror.
 			"What the hell was that?"
@@ -8486,7 +8510,7 @@ VOLUME 1
 			The smaller man approached nervously. "Here's another £50 as an apology, and to ensure future shipments continue. Don't mind Mike - he's out of a job."
 			"Well, he has a lucrative career ahead of him as an opera singer." Trey laughed, re-entering the car, before driving back home.
 
-			In the bowels of Morland Genetics, the Autopsy Suite's lights shone eerily. In the centre, a table with the Giant's headless corpse strewn over it. A man wearing white scrubs and a surgical mask approached, along with Chloe, who was dressed the same.
+			In the bowels of Vitalis, the Autopsy Suite's lights shone eerily. In the centre, a table with the Giant's headless corpse strewn over it. A man wearing white scrubs and a surgical mask approached, along with Chloe, who was dressed the same.
 			"Okay, so, I'm guessing you've never done an autopsy before?" the man began, taking out his tools.
 			"Uh, no... this is my first." said Chloe, uncomfortable.
 			"Well, not to make light of it, but they're not normally this big." the man chuckled. Above the mask, Chloe's eyes creased - she was smirking. Satisfied he'd relaxed her a little, the man pulled out a circular saw.
@@ -8785,7 +8809,7 @@ VOLUME 1
 			"Eh." she shrugged. "I liked those jobs, but... yeah, working with dogs all day is a dream come true."
 			"Plus, it'll help with the veterinary course you wanted to do." Chloe nodded.
 			Amy sighed. "I'm still not sure if I'm gonna apply or not."
-			"You could do an apprenticeship?" she suggested. "Like my job at Morland."
+			"You could do an apprenticeship?" she suggested. "Like my job at Vitalis."
 			"That's a good idea!" Bea nodded.
 			Amy leaned back. "I'll think about it."
 			At that, Connor arrived at the table.
@@ -10248,7 +10272,7 @@ VOLUME 1
 
 		Designing a costume
 
-	Truths and Titans
+	A Good Person
 	______________________________
 	CHAPTER
 		______________________________
@@ -10843,8 +10867,8 @@ VOLUME 1
 			Amy's face turned pale. "Oh my god... but why? I mean, she's only a uni placement student - why would they have her working such an important case?"
 			"That's what I wondered when I found out. I mean, she's brilliant in biotechnology, but still... We think they put her there as a human shield." Connor replied, his voice cold.
 			"What do you mean?" Amy asked.
-			"Well, I have a tendency to smash the places connected to them. If she's there, there's no way I'm starting a fight there. Whatever it is they're doing at Morland Genetics, they need me to stay out of it. And I can't look into it without putting her at risk. I can't even tell her without putting her at risk."
-			"That, or they're using her as bait." Amy added, her face betraying fear. "If she's involved, you're going to be focused on Morland. Maybe something's going to happen there, and they can hold her ransom through that."
+			"Well, I have a tendency to smash the places connected to them. If she's there, there's no way I'm starting a fight there. Whatever it is they're doing at Vitalis, they need me to stay out of it. And I can't look into it without putting her at risk. I can't even tell her without putting her at risk."
+			"That, or they're using her as bait." Amy added, her face betraying fear. "If she's involved, you're going to be focused on Vitalis. Maybe something's going to happen there, and they can hold her ransom through that."
 			Connor slumped into his chair, pale as a ghost. "Whatever the reason is, it cannot be a good one. And it's all because of me..."
 			"No." Amy interrupted. "It's because of who-the-fuck these people are. Do *not* cut them any slack here. I know you have feelings for Chloe, deny it all you like. But she's my friend too. And I will not let these bastards hurt her. Which means..." Amy paused for breath. "It means you need to find out what's going on. They've put her in harms way to stop you from learning something, right? So, learn it. The most dangerous place for Chloe right now is at arm's reach. It is not safe to let them continue. So, don't let them." she said authoritatively.
 			Connor sighed, a mix of relief and fear. "I won't." he vowed.
@@ -11176,11 +11200,11 @@ VOLUME 1
 			"Yes, who's calling?"
 			Naismith put the phone down for a moment. The world froze around him. His face filled with dread.
 			"No. Not this part. I don't want to see this part. No. No!" he begged, before resuming his previous expression and putting the phone back to his ear.
-			"This is Dr. Sarah Rosenbaum, calling from Drackhill A&E. Are you alone at the moment?" she asked. 
+			"My name's Judith Rosenbaum, I'm calling from Drackhill A&E. Are you alone at the moment?" she asked. 
 			"I... How can I help you, Doctor?" he asked, trembling.
 			"I'm very sorry, Mr. Naismith. Your fiancee, Ms. Janine Ratcliffe, was hit by a car earlier today. We did everything we could, but I'm afraid she was pronounced dead at the scene. I'm very sorry for your loss." she explained, her voice full of sympathy.
-			She thought to herself, "This isn't why I became a doctor."
-			"I... Dead? No, that can't be, she was just..." he looked away from the phone. She was just here. Alive.
+			"I... Dead? No, that can't be, she was just..." he looked away from the phone.
+			She was just here. Alive.
 			"I'm very sorry, sir. Her body is currently in the A&E unit. As she was not on the organ donor register, it falls to next of kin - that being you - to decide what happens to her body. You don't have to decide anything now - I advise you to seek out family and friends, and seek comfort from that." she said kindly.
 			"I... thank you, doctor. I... I'll..." he sobbed. "I'll come to the hospital tomorrow morning."
 			"Thank you, Mr. Naismith. Please take your time, and look after yourself. Once again, I'm very sorry for your loss."
@@ -11535,7 +11559,7 @@ VOLUME 2
 			"Indeed." Ivan grimly nodded. "Zamaldayev has a direct line to Paladin's leader, and the Optimates' attack dog."
 			In the letter, Zamaldayev thanked the Commandant for his provision of Super-Serum to the Chechen Secret Service - and detailed how he used these new super-soldiers to wipe out a village of Kumyk people. His fist clenched.
 			"What's the KGB offering in return?" Connor asked. Ivan smirked.
-			"They've offered to dig up dirt on Morland." Ivan answered. "That's right, they'll find out why your Chloe was put on the case."
+			"They've offered to dig up dirt on Vitalis." Ivan answered. "That's right, they'll find out why your Chloe was put on the case."
 			Connor smiled. "Well, I would have killed this piece of shit either way, but if you insist..."
 			"One small thing." Ivan added. "We're only supposed to kill his Super-Agents. We need to bring Zamaldayev to Leningrad - I'll handle that part. KGB want to have a few words before they bury him."
 			Ivan sighed and looked out into the horizon. He removed his sunglasses, revealing his black-veined eyes. The cost of Connor's salvation by serum was more than just physical.
@@ -11989,7 +12013,7 @@ VOLUME 2
 			"Me, too." Ivan smirked. "My first assignment in the KGB - me and some comrades in Abkhazia blew up a separatist depot."
 			"Great, so I'm the superhero here, and I've not done it yet." Connor snarked. "Let's hear it."
 			Shannon grinned, and revealed her document - a blueprint floorplan.
-			"This is the layout of the Gambit field lab." she began. "Like our now-hospitalied friend Jimmy said, it's a barn conversion."
+			"This is the layout of the Gambit field lab." she began. "Like our now-hospitalised friend Jimmy said, it's a barn conversion."
 			"Paladin work through those, a lot." Connor nodded. "When they tortured me, they held me in one. Him, too."
 			"I guess they really like barns." Sparky shrugged.
 			"Oh, I'm so sorry." she said sadly.
@@ -12029,7 +12053,7 @@ VOLUME 2
 			Connor's lip curled, and he forced his eyes not to burn red. "What exactly are we testing them for?"
 			"Uh--isn't that your purview, sir?"
 			"*I* know." he bluffed. "I want to know what *you* know."
-			"Of course." another man jumped in. "The eggheads in Morland have made this."
+			"Of course." another man jumped in. "The eggheads in Vitalis have made this."
 			He opened a locked cabinet, and pulled out an esoteric device. It looked like it would be worn on the head, and had a variety of probes and needles attached.
 			"It measures brain activity, so we can identify any Espers and send them over to ODIN. It also tests their DNA, identifying any compatible sequences for augmentation."
 			"With super-serum?" Connor pressed. The leader gave a funny look.
@@ -12299,8 +12323,8 @@ VOLUME 2
 			"If you hadn't spoken to the Werewolf... these kids would still be here. I'm with you, sir. And we'll stop them."
 			Naismith smiled. "Well, then, PC Chowdhury - back to work, eh?"
 			"Sir!" she replied proudly. An FI approached.
-			"Excuse me, sir, ma'am..." he said nervously. "We were briefed to send all mutant bodies to Morland, but as of the state of them, there's no way to tell who's mutated and who's normal."
-			"Send them all over." Naismith replied. "Morland can test their DNA and find out who's who."
+			"Excuse me, sir, ma'am..." he said nervously. "We were briefed to send all mutant bodies to Vitalis, but as of the state of them, there's no way to tell who's mutated and who's normal."
+			"Send them all over." Naismith replied. "Vitalis can test their DNA and find out who's who."
 			"Sir!" the FI nodded, clicking his heels and walking on.
 
 			The Werewolves glided back to their back garden, landing with a thud to the ground.
@@ -12398,7 +12422,7 @@ VOLUME 2
 			Morland pulled out his phone, and called a number - the Commandant.
 			"Commandant, sir - we've found something. The source of these 'Rages' - we're calling it Paradrenaline."
 			"Who's 'we', Morland?" the Commandant asked.
-			"Um... Miss Derrington discovered it." Morland admitted.
+			"Um... Miss Derrington discovered it." he admitted.
 			"Excellent. For a cripple, she has some use for us." the Commandant chuckled. "Anything else?"
 			"Yes. A substance she calls 'XJK5.' It sounds like its effects are similar to the truth serums we had before Zhao trashed everything..."
 			"Good. Each finding brings us closer to rebuilding what he stole."
@@ -12707,7 +12731,7 @@ VOLUME 2
 			"Hey..." he smiled softly. "How are you doing?"
 			"How am *I?*" Chloe asked incredulously, before chuckling softly. "Well, I'm not in prison at least."
 			Connor smirked. "Yeah, can't say I recommend it. How'd you even get here?"
-			"Technically, you still have the right to visitation - but the visitor has to be security cleared. Me working for Morland meant I passed their checks pretty quickly." she shrugged.
+			"Technically, you still have the right to visitation - but the visitor has to be security cleared. Me working for Vitalis meant I passed their checks pretty quickly." she shrugged.
 			"Thank God. It's... it's really good to see you."
 			She smiled, then sighed. "How are you holding up? Have they been treating you well enough?"
 			"The ones that didn't, soon learned to." he replied evasively. "I'm alright, Chloe. I'm safe."
@@ -13465,7 +13489,7 @@ VOLUME 2
 			"No, no. Not like that. You'll just lie." Connor grinned viciously.
 			Ivan jabbed him with a small syringe, marked "XJK5."
 			"What is that?" Branson asked, his expression turning more vacant.
-			"A gift from our friends in Morland." Ivan smirked.
+			"A gift from our friends in Vitalis." Ivan smirked.
 			"Now..." Connor turned to Ivan. "I'll be good cop, you be bad cop."
 			"You know I can hear you?" Branson snarked.
 			Connor responded by kicking Branson's chair to the ground. He pushed a rag over Branson's face, and poured the jug of water onto him. Branson screamed and blubbed, kicking frantically.
@@ -13812,7 +13836,7 @@ VOLUME 2
 
 			Chloe awoke with a sharp intake of breath through her nostrils. She went to speak, but strained against a tube in her throat.
 			Sveta rushed over. "Shh, dorogaya... don't speak."
-			She looked around. She was in a hospital bed. William and Catherine were stood there. William looked forlorn. Catherine looked away.
+			She looked around, and realised she was in a hospital bed. William and Catherine were stood there. William looked forlorn. Catherine looked away.
 			A nurse walked over, and removed the tube. Chloe coughed, and took a deep breath.
 			"Hi, Chloe." the nurse began. "How are you feeling?"
 			Chloe closed her eyes, and tears rolled out of them.
@@ -14136,7 +14160,7 @@ VOLUME 2
 			Professor Lowenthal interrupted her.
 			"Sorry, Chloe - can I have a word?"
 			She nodded silently, and sat down at his desk.
-			He smiled softly. "How are things at Morland? Are you settling in okay?"
+			He smiled softly. "How are things at Vitalis? Are you settling in okay?"
 			"Yeah, things are good." she replied absently.
 			"I heard a glowing review from your supervisor." he began. "He said you made a finding during an autopsy that everyone else missed?"
 			Chloe shrugged modestly. "It was pure chance. Honestly, it was more reasonable to assume they were spare kidneys rather than adrenal glands."
@@ -14752,23 +14776,23 @@ VOLUME 2
 			"Anyway..." Ward continued. "It would seem that, well, to be blunt... the case isn't going well, is it?" she asked, studying their reactions.
 			"The progress has been... Limited, ma'am." Nina said awkwardly.
 			"Ma'am, if I may?" Naismith began. Ward nodded.
-			"Well, Ma'am, I know Dorsey's rap sheet is already a mile long... but he was hindering our inquiry. It was his decision to bring in a private company, Morland Genetics, as opposed to escalating this to a government agency." Naismith explained, trying not to seem like he was making excuses.
+			"Well, Ma'am, I know Dorsey's rap sheet is already a mile long... but he was hindering our inquiry. It was his decision to bring in a private company, Vitalis, as opposed to escalating this to a government agency." Naismith explained, trying not to seem like he was making excuses.
 			"You have the floor, Inspector." Ward motioned for him to continue, intrigued to see where this would go.
-			"Well, we were forbidden from directly collaborating with Morland, Ma'am. In addition, we were not permitted to investigate any leads regarding the targets of the Werewolf - our only task was to locate, identify, and either capture, or eliminate him." Naismith began. "Knowing that Dorsey was involved in illicit sexual activity, with a trafficking ring that appears to have ties to a criminal conspiracy the Werewolf has been targeting... I would like to formally request that the remit of our investigation be expanded, and that we be permitted full access to Morland's work, Ma'am."
+			"Well, we were forbidden from directly collaborating with Vitalis, ma'am. In addition, we were not permitted to investigate any leads regarding the targets of the Werewolf - our only task was to locate, identify, and either capture, or eliminate him." Naismith began. "Knowing that Dorsey was involved in illicit sexual activity, with a trafficking ring that appears to have ties to a criminal conspiracy the Werewolf has been targeting... I would like to formally request that the remit of our investigation be expanded, and that we be permitted full access to Vitalis's work, ma'am."
 			Ward leant back in her chair, deep in thought. Finally, she spoke.
 			"You are asking to be allowed to investigate his victims?" she asked.
 			"I am asking to be allowed to consider all avenues in the pursuit of justice, Ma'am." he replied.
 			"And you, Constable? What are your views?" Ward asked, turning to Nina - eager to hear her opinion.
 			"Ma'am." Nina replied, preparing to speak. "While our mission of course remains to identify the vigilante known as the Werewolf and bring him to justice, it is clear that there are several criminal elements at play that need to be investigated."
-			Ward smiled. She turned, now adressing both. "And why do you wish to have full access to Morland?"
+			Ward smiled. She turned, now adressing both. "And why do you wish to have full access to Vitalis?"
 			"Ma'am..." Naismith began, choosing his words carefully. "I don't know if you've read the reports on the... on the capabilities of both the Werewolf, and his enemies?" he asked, realising he didn't use the word "victims."
 			"I have, Inspector. And I agree, they are troubling." Ward answered.
 			"Ma'am, if I may?" Nina asked timidly.
 			"Be my guest, Constable." Ward replied.
-			"Thank you, Ma'am. While it is unfortunate that the late Chief Constable chose to bring in Morland, we are now bound to work with them, or we risk the data they have collected being leaked. Were we to be working with a government laboratory, we would have access to their findings without question or delay. I believe the same should apply here, Ma'am."
+			"Thank you, Ma'am. While it is unfortunate that the late Chief Constable chose to bring in Vitalis, we are now bound to work with them, or we risk the data they have collected being leaked. Were we to be working with a government laboratory, we would have access to their findings without question or delay. I believe the same should apply here, Ma'am."
 			Ward smiled - impressed by Nina's courage. "Very good points, Constable. However, as you know, this is no ordinary genetic analysis being done. The data on these 'superhumans' is highly classified, confidential information - incredibly dangerous, if it made its way into the wrong hands."
 			"Be that as it may, Ma'am... Without that data, we are unable to effectively discharge our duties." Nina stood firm.
-			Ward smirked - she passed the test. She nodded. "I will see to it that you both have full access. And I shall arrange a briefing from Morland to be performed within the week."
+			Ward smirked - she passed the test. She nodded. "I will see to it that you both have full access. And I shall arrange a briefing from Vitalis to be performed within the week."
 			"Thank you, Ma'am." both officers replied, breathing a sigh of relief.
 			"One more thing." Ward began. "It has not escaped my attention that you both have impressive service records - particularly, Constable, given your relative lack of time here. Therefore, I will contact Chief Tulloch to make it official, but in the time being, I am hereby granting you both promotions. PC Chowdhury, I am hereby making you an acting Police Sergeant. DI Naismith, I am hereby making you an acting DCI."
 			"I... Thank you, Ma'am! I won't let you down!" Nina replied, her face alight with pride.
@@ -15218,7 +15242,7 @@ VOLUME 2
 		Stunlocke's First Raid
 		______________________________
 		SCENE
-			That day was a tense one in Morland Genetics, as Chloe frantically went over some notes. She sipped her coffee cup, her eyes bagged slightly - it was clear she hadn't slept well. Another person, an older, heavyset man in formal attire, entered the room.
+			That day was a tense one in Vitalis, as Chloe frantically went over some notes. She sipped her coffee cup, her eyes bagged slightly - it was clear she hadn't slept well. Another person, an older, heavyset man in formal attire, entered the room.
 			"How's it going, Miss Derrington?" he asked. Chloe jumped, not having expected company.
 			"Oh, Mr. Morland, sir! Yes, I'm ready for the meeting." she replied, nervously.
 			"Excellent. You've been told which topics are... off-limits, yes?"
@@ -15240,10 +15264,10 @@ VOLUME 2
 			Two yellow eyes, looking in from above. 
 			Wolf eyes.
 
-			Sparky crawled through the ventilation shafts, his paws making little noise. He made his way to Morland's office. There, Morland was on the phone.
+			Sparky crawled through the ventilation shafts, his paws making little noise. He made his way to the office. There, Morland was on the phone.
 			"Commandant, I swear - Progeny is a complete mystery. Every discovery we make, 10 more questions follow."
 			"Then get to the answers, Morland - I didn't call you to hear excuses. Do not let me down." a voice replied coldly.
-			"Of course, sir. Hail Victory." Morland replied, before hanging up. He slumped back in his chair and sighed. "Mad bastard..." 
+			"Of course, sir. Hail Victory." he replied, before hanging up. He slumped back in his chair and sighed. "Mad bastard..." 
 			Sparky paused. For a moment, he considered ripping out Morland's throat then and there--no. He banished the thought, suppressing his urges.
 
 			He prowled onwards, making his way to a laboratory. There, he saw a scientist with a dictaphone.
@@ -15272,7 +15296,7 @@ VOLUME 2
 			"Oh, good to meet you, officer. And, PS Chowdhury - good to see you again." Chloe replied nervously.
 			"Ah yes, good to see you too, Chloe. How is Bea doing?" Nina asked.
 			"She's okay. I mean, she's coping." Chloe answered. Nina smiled.
-			"Anyway... We were hoping to learn more about Morland's work in relation to these... Superhumans." Naismith began. Chloe nodded.
+			"Anyway... We were hoping to learn more about Vitalis's work in relation to these... Superhumans." Naismith began. Chloe nodded.
 			"Yes, of course..." she clicked the projector to reveal a slide. "Here, we can see the autopsy results from the Giant."
 			At the mention of the Giant, both officers shuddered slightly.
 			"As you can see, the Giant's internal organs were highly abnormal. Two hearts, three lungs..." Chloe began.
@@ -15283,7 +15307,6 @@ VOLUME 2
 			"The substance doesn't just enhance aggression - it seems to be linked to cellular regeneration. I suspect it's contributing to the superhuman healing abilities we've observed, especially in the Werewolf. But it's also a double-edged sword - too much can lead to severe neural disruption."
 			"Right... and was this 'paradrenaline' ever found in the bodies of the other superhumans?" Naismith asked.
 			"I..." Chloe began, fearful of Morland's words. As she clicked to the next slide, her hands trembled slightly. She swallowed hard, glancing at the officers, then at the door as if expecting someone to burst in.
-			"They need to know this. If I don't tell them, more people will die. But if Morland finds out... No. I can't think about that now." she thought to herself.
 			"Yes, officer. In the superhuman bodies, and the hand that was recovered from the explosion. Speaking of..." she changed slides. "Here are the results of testing on the hand. It... It doesn't appear to be anything close to human. We found 61 chromosomes - 23 pairs, and 15 unpaired. As you may know, humans only have 46 chromosomes of 23 pairs. Even the Giant and the Agents only have 47." 
 			Chloe gulped, not wanting to sound like she was making things up. Nina gave her a kindly smile.
 			"We've seen what these things are capable of... and we've seen what the Werewolf is capable of. Whatever he is, he's certainly not human." she said.
@@ -16248,7 +16271,7 @@ VOLUME 2
 			"We couldn't turn it off." she admitted. "It was horrible. We tested it on lab mice, and the poor things became... twisted. New limbs, tendrils, cancerous growths..."
 			Connor pulled her in for a hug. She gratefully returned the embrace.
 			"It just... I get why we're testing on animals, but... it feels cruel. It makes me worry about the company."
-			Connor shuddered - knowing full well that Morland was connected. He forced himself to not react, and took a deep breath.
+			Connor shuddered - knowing full well that Vitalis was connected. He forced himself to not react, and took a deep breath.
 			"How so?" he asked.
 			"Well... they don't care. Or rather, all they seem to care about is how much money they can make off of it." she explained. "I put in a request to terminate the specimens, but it's been turned down. They won't even let me apply additional pain relief, in case it interferes with the studies."
 			Connor offered a sympathetic smile. "I'm sorry..." he said. "That must be horrible. Do... do you still want to work there?"
@@ -16406,14 +16429,14 @@ VOLUME 2
 			"Police Sergeant Nina Chowdhury." she rose with him.
 			"DC Cheryl Moffat." "PC Adrian Lloyd." "FI Lucas Rogerson." the 3 officers stated.
 			"Excellent." Tulloch nodded. "TO-24, this is your objective. You are to investigate the string of killings attached to the 'Werewolf' vigilante. You are also to investigate any criminal elements his activities may be targeting. DCI Naismith, if you would." 
-			Naismith nodded, addressing the team. "Thank you ma'am. PS Chowdhury and I met with Morland Genetics yesterday to analyse the findings on these 'superhumans.' The results were... Well, it's best if you all take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
-			"Thanks to the work of Miss Derrington over at Morland, we've been able to isolate a few key facts. 1: these Superhumans use some kind of substance called Paradrenaline - overloads of which can cause so-called 'Rages.' We believe one such Rage was responsible for the bloodbath at the Auction House." Naismith shuddered.
+			Naismith nodded, addressing the team. "Thank you ma'am. PS Chowdhury and I met with Vitalis yesterday to analyse the findings on these 'superhumans.' The results were... Well, it's best if you all take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
+			"Thanks to the work of Miss Derrington over at Vitalis, we've been able to isolate a few key facts. 1: these Superhumans use some kind of substance called Paradrenaline - overloads of which can cause so-called 'Rages.' We believe one such Rage was responsible for the bloodbath at the Auction House." Naismith shuddered.
 			Moffat shook her head. "Rages?" She paused, then cleared her throat. "No offense, sir - but how are we supposed to capture it?"
 			Naismith looked at her, smiling softly. "None taken, DC Moffat. I agree, capture is going to be tricky - especially given his resistance to injury."
 			"Is it true that he was shot in the face and survived?" Lloyd asked, nervously.
 			"Yes, it's true. He was also gassed with Chlorine, survived an explosion, cut off his own hand only to grow a new one, hell, only last night he was impaled... It's not going to be easy fighting him. Thankfully, he's not interested in fighting police, by the seems of it. In all the incidents where we've shown up on time to get to him, he's only caused minor injuries to a few officers. Given what he's capable of, that should help us all sleep at night."
 			"Wow..." Lloyd said, shocked. "How do you even begin to make something like that?"
-			"Moving on... Within the 61 chromosomes found in the Werewolf's DNA, there are 46 normal human chromosomes. We strongly believe these to be the original chromosomes of... whatever the Werewolf once was. I've asked Morland to isolate them, and provide them to us. From that, we can check them against our own databases, and see if anyone matches."
+			"Moving on... Within the 61 chromosomes found in the Werewolf's DNA, there are 46 normal human chromosomes. We strongly believe these to be the original chromosomes of... whatever the Werewolf once was. I've asked Vitalis to isolate them, and provide them to us. From that, we can check them against our own databases, and see if anyone matches."
 			Silently, Naismith paused. He didn't *want* to find the Werewolf anymore. They were allies now. But he knew he couldn't ignore this lead. He sighed, the weight of the decision settling in.
 			"That's... that must be a joke, right?" Rogerson began. "Sorry, sir. I've worked as a Forensic Investigator for 5 years now, and not once have I seen anything like that."
 			"That's what I thought." Naismith nodded. "But no... it's genuine."
@@ -16434,7 +16457,7 @@ VOLUME 2
 			"I'm Chief Constable Tulloch, as you all know. I'll be mainly hands-off on this investigation - needless to say, Chief Constables micromanaging this case isn't a happy memory. If you need anything, reach out to me - but you'll mainly report to Mayor Ward."
 			"And I'm Rogerson, Forensic Investigator."
 			"You said you'd been an FI for 5 years?" Lloyd asked.
-			"That's right - seen some twisted shit. I was the one who did the first review on the Werewolf's hand - though we weren't calling him that back then. I'm not happy we sent it off to Morland, but I'm glad it's getting looked at, at least. Still, those chromosomes... that's weird. I mean, how can you have that many?" he mused.
+			"That's right - seen some twisted shit. I was the one who did the first review on the Werewolf's hand - though we weren't calling him that back then. I'm not happy we sent it off to Vitalis, but I'm glad it's getting looked at, at least. Still, those chromosomes... that's weird. I mean, how can you have that many?" he mused.
 			"I'm sure we'll find out... whatever he is, we have a mission to complete." Lloyd said nervously.
 			With that, the team continued to mingle. Nina went to one side with Naismith.
 			"That was a great presentation, sir." she said to him, smiling proudly.
@@ -17411,7 +17434,7 @@ VOLUME 2
 			Trey sighed, and patted Connor's back. "You any closer to being able to tell her?"
 			"Maybe." Connor shrugged. "It's not fair on Sparky - he wants to talk to her now that he's able to. And *I* wanna tell her too, of course."
 			"Shannon mentioned you guys were on a mission tomorrow?"
-			"I'm gonna go round Morland. Office should be deserted - she shouldn't be working. We're meeting up tomorrow evening after that - probably end up in the Horse."
+			"I'm gonna go round Vitalis. Office should be deserted - she shouldn't be working. We're meeting up tomorrow evening after that - probably end up in the Horse."
 			Trey chuckled. "Anyway... What are you hoping to find in the labs?"
 			"Intel. Sparky had a looksie over there a couple weeks back. He found some crazy shit - not least of which was a clone of me they'd been keeping."
 			"A clone?! Like, you, but evil?"
@@ -17429,7 +17452,7 @@ VOLUME 2
 		Community Centre Opening
 		______________________________
 		SCENE
-			It was late Sunday afternoon, and Connor stalked his way through Morland Genetics.
+			It was late Sunday afternoon, and Connor stalked his way through Vitalis.
 			"Jinx, this is Vanguard. I'm in the building." he whispered over his commline.
 			"Copy that." Shannon nodded. "I've put the CCTV on loop - but it can't hurt to make sure the security room is handled, still."
 			"This is Troubleshooter. Already dealt with." Ivan reported, standing over the snoring guard and holding a chloroform-soaked rag.
@@ -17539,7 +17562,7 @@ VOLUME 2
 			The way he moved. The way he spoke. He was someone who reminded her far too much of... No.
 			She shook her head, banishing the thought. "Get it together, Chloe." she whispered. "Focus."
 
-		Connor sneaks into Morland
+		Connor sneaks into Vitalis
 		______________________________
 		SCENE
 			It was late, now. Back at Connor's place, he was holding boxing pads as Chloe struck them. She seemed distracted.
@@ -17551,7 +17574,7 @@ VOLUME 2
 			"You did? Are you okay?"
 			"Yeah, I'm fine... I, um--I helped him." she admitted.
 			"In what way?" he asked, smiling softly.
-			"He, um... he was looking for information. About his powers, I guess. Anyway, I... I figured, he saved me, and... well, if he was investigating Morland, that just confirmed my suspicions that something was up. Anyway... we used my keycard to get further into the lab, and we found..." she paused, still in shock. Connor put a comforting hand on her shoulder. She smiled.
+			"He, um... he was looking for information. About his powers, I guess. Anyway, I... I figured, he saved me, and... well, if he was investigating Vitalis, that just confirmed my suspicions that something was up. Anyway... we used my keycard to get further into the lab, and we found..." she paused, still in shock. Connor put a comforting hand on her shoulder. She smiled.
 			"We found these... things. Clones. They grew them from the Werewolf's tissue. But they were... they were in agony. They were twisted." she shuddered at the memory. "The Werewolf could hear them, somehow. They begged us to kill them. So, we did."
 			"I get it." Connor nodded. "You did the right thing... but, are you safe? What if someone finds out you helped him?"
 			"Don't worry... he removed all evidence that I helped him. Sure, there'll be questions when they see the place, but no one will know it was me." she replied, smiling slightly.
@@ -17688,7 +17711,7 @@ VOLUME 2
 			At the same time, Connor was sat in the repair shop basement with the rest of the squad. He was on his laptop reviewing some files.
 			"Oh, shit!" Shannon gasped.
 			"What's up?" Connor tilted his head.
-			"Reports just came in - there's an attack going on in Morland."
+			"Reports just came in - there's an attack going on in Vitalis."
 			"WHAT?!" Connor gasped.
 			"Let's go." Sparky barked firmly.
 			"Agreed." Amy nodded, rushing to her suit.
@@ -17718,7 +17741,7 @@ VOLUME 2
 			"For fuck's sake..." he muttered before answering. "Hello?"
 			"Bratan - big news."
 			"Oh, hey Ivan - let me guess..."
-			"Yes - Morland's under siege. Get there now. I'm in London at the moment - long story. I'll see you soon, tovarishch."
+			"Yes - Vitalis's under siege. Get there now. I'm in London at the moment - long story. I'll see you soon, tovarishch."
 			Finally, Connor arrived. He felt his phone ringing, and looked at the scene - the entrance to the labs. DCI Naismith was there, ringing him. Upon spotting him, he hung up. Connor approached.
 			"Werewolf." Naismith nodded. The armed officers in TO-24 aimed their guns at him.
 			"Hold your fire!" he barked.
@@ -17761,7 +17784,7 @@ VOLUME 2
 			Connor heard a ringing in his ears. Time slowed to a crawl. Hot blood poured from his nose. He shook his head.
 			"I'm coming, Chloe." he whispered.
 
-		Siege of Morland - Part 1
+		Siege of Vitalis - Part 1
 
 	Getting Closer
 	______________________________
@@ -17838,7 +17861,7 @@ VOLUME 2
 			"The cops will wanna question you." he choked. "When they're done, get them to drop you off at the repair shop. I'll explain everything, I promise."
 			She nodded hesitantly, and he hobbled off into the distance.
 
-		Siege of Morland - Part 2
+		Siege of Vitalis - Part 2
 		______________________________
 		SCENE
 			An hour later, Chloe was in the police interview room. Nina was sat with her.
@@ -17882,7 +17905,7 @@ VOLUME 2
 			"But his body was missing - did he survive?" Naismith asked, eager for information.
 			"He, um... I pulled his body down and laid it flat. I... I just planned to give CPR. But he got up, and..." her mind flashed to Connor's agony again.
 			"He was in pain. So, I helped him up, and then he left. I... I didn't see where he went." she finished.
-			"That all checks out..." Naismith said, reviewing his notes. "Well, Chloe - you're free to go. We'll contact you if we need anything. Morland will be closed for the time being - I'm sure your boss will let you know once we've cleared out."
+			"That all checks out..." Naismith said, reviewing his notes. "Well, Chloe - you're free to go. We'll contact you if we need anything. Vitalis will be closed for the time being - I'm sure your boss will let you know once we've cleared out."
 			"Thank you..." Chloe said, still unsure.
 			"Interview terminated at 22:28." Moffat nodded, switching off the recorder.
 			"Chloe, do you need a lift home?" Nina asked.
@@ -18058,7 +18081,7 @@ VOLUME 2
 			"No, sir." the Agent replied quickly.
 			"Then you have nothing to fear. I am not so unreasonable as to kill a subordinate for telling me what I need to hear." he grinned, gesturing to the chair in front of him.
 			The Agent cautiously took the chair. The Commandant rose.
-			"Sir, I'm afraid the squad we sent to secure the Morland data were all killed. The Traitor was badly injured, but survived. Miss Derrington is still at large, too. Surveilance indicates that she's staying at the Traitor's residence, with subject 6 acting as her bodyguard."
+			"Sir, I'm afraid the squad we sent to secure the Vitalis data were all killed. The Traitor was badly injured, but survived. Miss Derrington is still at large, too. Surveilance indicates that she's staying at the Traitor's residence, with subject 6 acting as her bodyguard."
 			The Commandant nodded. "And what of the kill-team sent to the police station?"
 			The Agent hesitated. "The... the traitor killed them all, as well."
 			"Despite his injuries?" 
@@ -18110,7 +18133,7 @@ VOLUME 2
 			"Plague." Connor replied. He took a deep breath. "It's a cabal of fascist elites, trying to take over the world. PaladinCorp is connected to them - so are the Patriots, so is Eidolon Dynamics. Zamaldayev's men, they were augmented by them into Super-Agents. And they're planning something big, I can tell."
 			"Oh my god..." Chloe replied, shocked. "And they made you?"
 			"Yes. They took me and made me into... this. And I still don't know why."
-			She paused, taking it all in. "Was Morland connected?"
+			She paused, taking it all in. "Was Vitalis connected?"
 			"I... yeah. Greg Morland is one of their higher-ups. The serum production there just confirms it."
 			"Connor... I work there, you... you should have told me."
 			"I know... I'm so, so sorry. If I knew they would have done this, I would have. But... I thought that, by not telling you, I could keep you safe. That's why I didn't want you involved when I snuck in the other night. I didn't want to paint a target on your back." he said, remorse palpable.
@@ -18120,7 +18143,7 @@ VOLUME 2
 			Connor's face fell. "I... I get it if you can't. If this is too much, Chloe, I understand."
 			"Too much?" Chloe's voice rose. "You're bleeding out on the sofa after digging out bullets like splinters, and you think I'm worried about 'too much?'"
 			She paced the room, hands tugging at her hair. "You... The whole time I've known you, you've been lying to me. I wouldn't even be so upset if we were still just friends... but we're supposed to be together! Yesterday, when you were at the labs, the first thing I did afterwards was tell you. Was it all just a game? Was it some kind of joke to you?"
-			"No!" he said, tears in his eyes. "I wanted to tell you, I swear. I hated hiding this from you. I just... I thought that by not telling you, I could keep you safe. I could keep my--our--life seperate from the Werewolf. I knew Morland was connected to them, but I had no idea they would do this."
+			"No!" he said, tears in his eyes. "I wanted to tell you, I swear. I hated hiding this from you. I just... I thought that by not telling you, I could keep you safe. I could keep my--our--life seperate from the Werewolf. I knew Vitalis was connected to them, but I had no idea they would do this."
 			She sighed, looking deep into his eyes. She was torn.
 			"I..." she began, taking a deep breath. "I can't. I need some time to... to process all of this."
 			Connor nodded, his eyes tearing up. "I understand."
@@ -18240,7 +18263,7 @@ VOLUME 2
 			"So what happened after all that?" asked Shannon.
 			"Connor was waiting outside, begging to be let in - the police took me to the station, and then they brought me here." Chloe explained.
 			"How did you get those bruises?" Bea asked him, pointing at the marks from the night.
-			"I sprinted to Morland - the roads were locked down, so driving wasn't an option. While running, I slipped and fell - whacked myself pretty badly." he said, clenching his jaw at another lie.
+			"I sprinted to Vitalis - the roads were locked down, so driving wasn't an option. While running, I slipped and fell - whacked myself pretty badly." he said, clenching his jaw at another lie.
 			"Anyway... Connor's said I can take Sparky with me back to mine, so I feel safe." she explained.
 			Bea smiled warmly. "That's a great idea. No one's gonna mess with him."
 			Sparky smiled happily. "Too right."
@@ -18398,7 +18421,7 @@ VOLUME 2
 			"It's alright! They're just normal humans, they're no threat to me. And, um... I haven't killed any, and I'm not planning on." he said. "I can work and talk, besides - this is important."
 			She let out a chuckle. "You're in the middle of a gunfight, and what, you're more focused on our issues?"
 			"Well, yeah." he said, again audibly shrugging, before another thumping sound came over the phone.
-			She smiled warmly, endeared. "Listen, Connor... You focus on what you're doing, okay? Meet me at Morland at 8 PM - we can go in and have a look around. After that... we'll go back to yours, and chat, yeah?"
+			She smiled warmly, endeared. "Listen, Connor... You focus on what you're doing, okay? Meet me at Vitalis at 8 PM - we can go in and have a look around. After that... we'll go back to yours, and chat, yeah?"
 			Connor smiled. "Thank you. I don't deserve that - but thank you. I'll see you at 8--" another gunshot.
 			"OW! I'm *trying* to have a moment here, you *prick!*" he barked, before clearing his throat. "I'll see you at 8!"
 			Chloe laughed. "See you there."
@@ -18406,7 +18429,7 @@ VOLUME 2
 		Harbour battle/phone call
 		______________________________
 		SCENE
-			Chloe and Sparky stood nervously across the street from Morland. The place was deserted, with no police in sight - likely, they were reeling from the attack the night before. Connor arrived, and she rushed over and embraced him. He returned the embrace, taking a deep breath.
+			Chloe and Sparky stood nervously across the street from Vitalis. The place was deserted, with no police in sight - likely, they were reeling from the attack the night before. Connor arrived, and she rushed over and embraced him. He returned the embrace, taking a deep breath.
 			"Hey." he began.
 			"Hey..." she whispered softly.
 			"I've done a quick sweep - the area's secure." Sparky nodded.
@@ -18483,7 +18506,7 @@ VOLUME 2
 			"Yeah..." Connor nodded, before Sparky stopped him.
 			"Put your hand to his head." he said.
 			Connor looked at him, before nodding. He knelt down, and placed his palm on the creature's head.
-			Immediately, he felt a memory - though not his own. He could see the memories of this thing's torment at Morland's hands. It was the smallest of the clones - degenerate beyond degenerate. Cast off and forgotten.
+			Immediately, he felt a memory - though not his own. He could see the memories of this thing's torment at Vitalis's hands. It was the smallest of the clones - degenerate beyond degenerate. Cast off and forgotten.
 			He pulled his hand away, and tears streamed down his face.
 			"Connor?" Chloe asked, shaking slightly.
 			"I saw it..." he whispered. "I saw it's memories."
@@ -18520,7 +18543,7 @@ VOLUME 2
 			"Will do. Thanks... For a brutal serial killer, you're half decent." Naismith replied, his smirk audible.
 			"And for a stuck-up fed, you're not so bad." Connor snarked back. With that, he headed home.
 
-		Investigating Morland
+		Investigating Vitalis
 		______________________________
 		SCENE
 			Chloe sat comfortably on Connor's sofa, sorting through the data on his laptop. She searched a keyword - 'Esper' - and found a few results.
@@ -18684,7 +18707,7 @@ VOLUME 2
 			"Well, you definitely make it work. You must work out constantly to keep those muscles." she smiled.
 			"Actually..." he began, "I barely work out these days. I go for jogs with Sparky, but that's a mix of patrolling the city, and burning off our energy. I think my muscles just automatically build themselves."
 			"Sounds like steroids on steroids." Chloe quipped, eliciting chuckles from both.
-			"Come to think of it... I've been given leave from Uni since the incident at Morland - I'm going back after my birthday. When we come back, would you... Would you like to come to the labs there with me?" she asked.
+			"Come to think of it... I've been given leave from Uni since the incident at Vitalis - I'm going back after my birthday. When we come back, would you... Would you like to come to the labs there with me?" she asked.
 			"Yeah, that'd be good - I was also thinking, can we see what happens when I burn myself? Like, there must be something that gets released there which counteracts the Paradrenaline." Connor nodded, curious himself.
 			"That's a very good idea." Chloe replied, eager to find a way to stop him from needing to harm himself. "Maybe there's some mutated endorphin-analogue that flushes the paradrenaline from your brain... Hah, I'm rambling again." she caught herself.
 			Connor smiled brightly. "I love it when you talk nerdy." he grinned.
@@ -18727,7 +18750,7 @@ VOLUME 2
 			"Ma'am. Apologies, Mr. Sokolov."
 			"No need. Our knowledge is incomplete. Much of this is theory - hard-earned, but unproven. In truth, we are grasping at shadows, hoping the light reveals something useful. Skepticism is good. Trust nothing without verification. Hah, you'd be good in KGB, Rogerson." Ivan quipped.
 			"So, as you were saying, Mr. Sokolov." Ward interjected.
-			"Yes, ma'am. The attack at Morland and here was devastating - but Paladin also lost their top Agents. They'll likely start using increasingly unstable strains of mutant to fight us - in particular, unhinged, psychotic creatures, almost forever trapped in a Rage. Such things would be... highly problematic for TO-24 to face on its own. Therefore, I and the Werewolf will be available to the police, to face these monsters for you."
+			"Yes, ma'am. The attack at Vitalis and here was devastating - but Paladin also lost their top Agents. They'll likely start using increasingly unstable strains of mutant to fight us - in particular, unhinged, psychotic creatures, almost forever trapped in a Rage. Such things would be... highly problematic for TO-24 to face on its own. Therefore, I and the Werewolf will be available to the police, to face these monsters for you."
 
 			In an extravagant country home, an old man stood at his balcony, looking out at stretches upon stretches of land.
 			The study room behind him had a coat of arms hanging on the walls - the coat of the House of de Vere - the Earls of Oxford.
@@ -18924,7 +18947,7 @@ VOLUME 2
 			"You know me." Connor smirked. "I'll do my best to come back with all my limbs."
 			Chloe chuckled. "How about all your internal organs?"
 			"Best not push our luck." Connor quipped back, and both of them chuckled.
-			"Predator - you're on guard duty. I'm still not convinced Paladin won't send out a hit." he ordered. "Stunlocke, Whiplash - keep on patrol, but stay out of Belson in case the target's avoiding your routes. I'll stick to rooftop hopping - gliding and biking are too overt. Troubleshooter's back from London now, so he'll report to base and find some site to recon. Jinx, work with Chloe and Trey on the data we got from Morland for now."
+			"Predator - you're on guard duty. I'm still not convinced Paladin won't send out a hit." he ordered. "Stunlocke, Whiplash - keep on patrol, but stay out of Belson in case the target's avoiding your routes. I'll stick to rooftop hopping - gliding and biking are too overt. Troubleshooter's back from London now, so he'll report to base and find some site to recon. Jinx, work with Chloe and Trey on the data we got from Vitalis for now."
 			"Sir, yes sir." Amy grinned proudly. "Good hunting, Vanguard."
 
 		The Judge Awakens
@@ -19116,8 +19139,8 @@ VOLUME 2
 			"Holy shit..." Moffat said.
 			"No..." Nina added, her face pale.
 			"He's not dead." Naismith replied. "Come on, we have to get him to the hospital."
-			Ivan rose. "I'm going to get a friend - someone who knows this man's biology better than anyone on Earth. Get him safe. If he doesn't make it out alive, we're all *fucked,* understood?"
-			"Come on, team. Mr. Sokolov, we'll meet you at Drackhill General - ask for a Dr. Rosenbaum - she's trustworthy." Naismith replied.
+			Ivan rose. "I'm going to get a friend - someone who knows this man's biology better than anyone on Earth. Get him safe. There's a surgeon who he has history with - Judith Rosenbaum. Have her handle the admin. If he doesn't make it out alive, we're all *fucked,* understood?"
+			"Come on, team. Mr. Sokolov, we'll meet you there." Naismith nodded.
 
 			Back at the safehouse, Chloe was making a meal in the staff kitchen - a cheesy pasta bake. She made a point of dropping some grated cheese on the floor every time she put some in the dish.
 			"I keep this up, there won't be much cheese for us!" she laughed.
@@ -19131,9 +19154,9 @@ VOLUME 2
 			"Hahah... I wish I could understand you." she said wistfully, before rising and continuing with dinner.
 
 			TO-24 arrived in A&E. They headed to the reception.
-			"DCI Naismith, TO-24. Get me Dr. Sarah Rosenbaum." Naismith ordered.
-			Dr. Rosenbaum arrived. "Henry, it's been a... oh my goodness, is that..." she gasped upon seeing the Werewolf's body.
-			"Yes it is. And he's still alive, Sarah. He needs help."
+			"DCI Naismith, TO-24. Get me Dr. Judith Rosenbaum." Naismith ordered.
+			Judi arrived. "Henry, it's been a... oh my goodness, is that..." she gasped upon seeing the Werewolf's body.
+			"Yes it is. And he's still alive, Judi. He needs help."
 			"I... Right, this way." she beckoned, as they brought his gurney away.
 
 			Chloe was eating a bowl of the pasta bake, along with Sparky.
@@ -19175,7 +19198,7 @@ VOLUME 2
 			Chloe and Ivan sat in the car together, driving to the hospital. Chloe was frantically going through her research notes on her laptop while Ivan drove.
 			"So..." Ivan began, breaking the ice. "You known Connor long?"
 			"Since October." Chloe replied absently.
-			"And... you've been staying with him since the incident at Morland?"
+			"And... you've been staying with him since the incident at Vitalis?"
 			"Yeah." she said, again focused on her laptop. A tear ran down her cheek, and pooled in her scar. She wiped her eyes, and continued working.
 			"Anything useful on that?" he asked, pointing at her screen.
 			"I don't know. I'm looking at the analysis we did on the cells from his severed hand. They were weird - like they were in hibernation. I'm comparing that to the data we found on the clones in the facility. It looks like, when Connor's cells are deprived of oxygen, they enter a dormant state - and also, they can use anaerobic respiration to keep working where needed, but it's slower, and the lactic acid buildup can eventually kill them. According to this, when one clone's lungs became unviable from the cancers, it still continued to be active for 5 days until it finally died." she explained.
@@ -19186,14 +19209,14 @@ VOLUME 2
 			"[Well, it sounds like you're saying we need to get him oxygen so his cells can wake up and heal him properly, right?]"
 			"[Yes, that's right.]"
 
-			In the hospital, Dr. Rosenbaum looked at Connor's body, confused. Naismith was with her.
+			In the hospital, Judi looked at Connor's body, confused. Naismith was with her.
 			"So... He's healing?" she asked.
 			Naismith nodded. "See the movement? He's at least alive."
 			"Okay... I don't know how to speed up his healing, but we can at least keep an eye on his vitals." she said, hooking up EEG stickers to Connor's head. To do so, she pulled off his mask - blessedly, his face was mangled beyond recognition.
 			Naismith looked at his face, and shook his head. "At least no one will ID you from that, mate." he said grimly.
-			"I have to ask, Henry..." Rosenbaum began. "What is that on your eyes?"
+			"I have to ask, Henry..." Judi began. "What is that on your eyes?"
 			"I, um..." he sighed. "I was dying. He saved me."
-			Rosenbaum swallowed, and took a deep breath. "Well, let's return the favour." she nodded.
+			Judi swallowed, and took a deep breath. "Well, let's return the favour." she nodded.
 			Naismith nodded back, and left the room, returning to his squad.
 			"Sir." Nina whispered, still in shock.
 			"Nina... You can all go home now. There's nothing we can do." Naismith said sadly.
@@ -19207,7 +19230,7 @@ VOLUME 2
 			With that, they arrived. Naismith stood.
 			"Chloe? What are you doing here?"
 			"I, um... I didn't tell you this before, officer. But I've been working for the Werewolf for a little while now. I've told no-one, but Ivan here wanted my help trying to patch him up." Chloe said, as confidently as she could muster.
-			"Well, great... It's good to have some specialist expertise. Dr. Rosenbaum just left, she's been adding EEG machines to his room. Go take a look - we'll wait out here. Let us know whatever kind of equipment you think you'll need." Naismith replied, glad to see her.
+			"Well, great... It's good to have some specialist expertise. Ms. Rosenbaum just left, she's been adding EEG machines to his room. Go take a look - we'll wait out here. Let us know whatever kind of equipment you think you'll need." Naismith replied, glad to see her.
 			"Thanks..." Chloe said, mentally preparing herself to see Connor's state.
 			Nothing could have prepared her.
 			
@@ -19221,10 +19244,10 @@ VOLUME 2
 			"This is a specialist of ours." Ivan cut in. "Chto vam nuzhno, Chloe?"
 			Chloe paused. "Mne nuzhno oborudovaniye dlya dializa, i apparaty, kotoryye oni ispol'zuyut dlya podderzhaniya kisloroda v krovi do perelivaniya." she answered.
 			"She needs dialysis equipment, and blood oxygenators." Ivan relayed.
-			"Got it. Dr. Rosenbaum?" Ward asked, turning to Rosenbaum.
+			"Got it. Ms. Rosenbaum?" Ward asked, turning.
 			"Yes, ma'am?"
 			"I need dialysis equipment and blood oxygenators. And..." Ward's voice turned to a conspiratorial whisper, "This is all covered by the Official Secrets Act. Do not divulge to anyone who is staying here."
-			"Don't worry, ma'am." Rosenbaum replied. "Strictly confidential. I'll get those devices now."
+			"Don't worry, ma'am." Judi nodded. "Strictly confidential. I'll get those devices now."
 
 			Chloe tried to jury-rig the machines to supply oxygen to Connor's bloodstream in lieu of working hearts or lungs.
 			"Your circulatory system is doing good... Your backup heart must be working extra hard. But if I don't get this oxygen transfer working, you won't heal in time. Think, Chloe..." she muttered to herself, overlooking his stats.
@@ -21078,7 +21101,7 @@ VOLUME 2
 			Still, it was back to the grindstone for TO-24.
 			"Thanks again, everyone, for coming in on short notice. I figured this shouldn't wait." FI Rogerson began.
 			"What's up, Lucas?" Naismith asked, tilting his head slightly.
-			"Well, sir... As you all may remember, Morland's scientists managed to isolate 46 human chromosomes from the Werewolf's DNA."
+			"Well, sir... As you all may remember, Vitalis's scientists managed to isolate 46 human chromosomes from the Werewolf's DNA."
 			Naismith took a deep breath. "Not this..." he thought.
 			"Well, once we had those sent over, I put in a request for the genetics lab to check the chromosomes for any link on the police database." Rogerson continued. "They've just contacted me, informing me that, while the chromosomes themselves aren't on any national database, someone linked to them is."
 			He clicked the projector, and the slide changed. Vince's mugshot appeared.
@@ -21112,11 +21135,9 @@ VOLUME 2
 			"No way. The Werewolf's out to destroy Paladin. Why would his uncle be with them?" Naismith shook his head.
 			"Sir, I..." Nina spoke up. "I know him."
 			"You do?"
-			"Yes. He, um... He's my little sister's ex."
-			"The one who was beating her?!" Naismith gasped.
-			"No, no - he was her partner before him. He, um... he helped her when she left him." Nina explained, trembling. "What's more... you remember Chloe Derrington?"
-			"Of course, she's the only one at Morland who spoke to us." he nodded. "Hang on..."
-			"Yeah, he's her boyfriend." Nina nodded.
+			"Yes." she nodded. "I was processing a DV case, and he was a friend of the vic, who rescued her. Looking back... he ripped the suspect's door off of its hinges. It adds up... What's more... you remember Chloe Derrington?"
+			"Of course, she's the only one at Vitalis who spoke to us. And she works with the Werewolf." he nodded. "Hang on..."
+			"Yeah, he's her boyfriend." Nina nodded. "She asked to be dropped off to see him right after the attack on Vitalis."
 			"Does she know?" Moffat asked.
 			"No idea." Nina shrugged.
 			"If she doesn't, we kind of have a moral duty to tell her." Moffat said, her brow furrowing.
@@ -21673,8 +21694,6 @@ VOLUME 2
 			"Major?" the voice on the other end began. "The Belson situation... it's over."
 			"Thank god. I had a feeling our man'd pull through." the Major nodded. His voice was a mix of Received Pronounciation and Welsh. "How's Mr. Sokolov?"
 			"Critical, but stable. Same for the wolf. Mr. Barrett is badly injured and unconscious, but he doesn't seem like he needs immediate intervention."
-			"Good. Has the site in Belson been secured?"
-			"Yes, sir. Morland Genetics is now a fully operational MI5 field office. We've finished installing the equipment in the labs - so we're ready to admit our new 'patients' as soon as they arrive. We've used the Kestrel to ferry them across - with sedative gas canisters in place, should Barrett wake up disoriented."
 			"Excellent. And his friends?"
 			"We have a team in place to pick up Miss Derrington. But... there's been a complication."
 			"There always is. The key is that Connor has people he knows, people he trusts, with him when he wakes up. We need Miss Derrington - we need her anyway to manage the recovery - and we'll also need Miss Jefferson, Miss Zhao, and Mr. Morgan."
@@ -22981,7 +23000,7 @@ VOLUME 3
 			"Oh, I'm sorry." she gave a sympathetic look.
 			"I, um... I imagine you kept yourself busy." he said coyly.
 			"How do you mean?" she tilted her head.
-			He cleared his throat. "Well... I know that, after what happened in Belson, I imagine the various security agencies were knocking at your door, seeing as you worked in Morland."
+			He cleared his throat. "Well... I know that, after what happened in Belson, I imagine the various security agencies were knocking at your door, seeing as you worked at Vitalis."
 			"Oh, right." she nodded. "Um... I'm not sure I'm allowed to speak about it."
 			"Of course, of course." he shook his head. "I just wanted to ask - have you heard from your supervisor? Jones, wasn't it?"
 			"No, nothing." she shrugged. "Should I have?"
@@ -23078,7 +23097,7 @@ VOLUME 3
 			"Figures." she sighed, giving Bea a hug before hopping in.
 			As the cab drove off, Chloe piped up.
 			"Did they say what they need me for?" she asked.
-			"Not to me." Phil shrugged. "They asked I pick you up, though - I think they'd rather it be me than some MI5 spooks."
+			"Not to me." Phil shrugged. "They asked I pick you up, though - I think they'd rather it be me than some spooks."
 			After a short trip, they pulled up outside. She thanked him, and headed into the labs.
 
 			"I don't know how many times I need to repeat myself." Connor said, his voice raised slightly. "NO ONE GETS THE FUCKING SERUM!"

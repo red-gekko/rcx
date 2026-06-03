@@ -1,0 +1,150 @@
+
+OKB-X
+	
+LSA-15
+	4x4 Light Utility Vehicle
+	Based off of the UAZ-469
+
+TG-12
+	6x6 transport truck
+	Based off of the Ural-4320
+
+TG-12R
+	Self-propelled multiple rocket launcher variant of the TG-12
+	Based off of the BM-21
+
+SPA-60
+	8x8 troop transport APC
+	Based off of the BTR-90
+
+SPA-60R
+	Self-propelled multiple rocket launcher variant of the SPA-60
+
+MBP-9
+	12x12 amphibious IFV
+	Based off of the BMP-2
+
+OBT-81
+	main battle tank
+	based off of the T-80
+
+GIZ-4
+	multirole combat jet
+	based off of the MiG-35
+
+VAZ-133
+	transport jetplane
+	based off of the An-140
+
+MAR-11
+	reonnaissance plane
+	based off of the Sokol Altius
+
+KVZ-22
+	helicopter-gunship and transport chopper
+	based off of the Mi-24
+
+
+Valiant Motors
+
+UV4
+	4x4 LUV
+	Based off of the Jeep
+
+UV6
+	6x6 transport truck
+	based off of the M939
+
+K44
+	Multiple rocket launching truck
+	based off of the M270
+
+K1139
+	Self-propelled howitzer
+	based off of the M109A6
+
+KN24
+	12x12 APC
+	based off of the M2 Bradley
+
+KP7
+	main battle tank
+	based off of the M1 abrams
+
+NL-46
+	attack helicopter
+	based off of the Apache
+
+NL-59
+	transport and utility chopper
+	based off of the Black Hawk
+
+NL-73
+	tandem-rotor cargo copter
+	based off of the Chinook
+
+H53
+	multirole combat jet
+	based off of the F35
+
+J3
+	bomber plane
+	based off of the B1
+
+NX7781
+	VTOL chopper
+	based off of the V22 Osprey
+
+D19-5541
+	strategic transport plane
+	based off of the C17 Globemaster
+
+
+Eidolon Dynamics
+
+X18A4 series Autonomous Military Drones
+
+Spiders
+	8-legged robots designed for utility work and light maintenance. Can also deliver electrical shocks offensively
+
+Longlegs
+	Spider drones capable of transforming into Zippers. Changes shock probes for semiauto gun
+
+Sentries
+	Rotating auto-targeting emplaced machine guns
+
+Rocket Sentries
+	Large anti-vehicle and siege weapons capable of delivering multiple missile strikes
+
+Speeders
+	Car-sized rapid combat vehicles, equipped with a sentry gun and small howitzer
+
+Jackals
+	four-legged small robots, equipped with sentry turret
+
+Bears
+	oversized Jackals, equipped with twin miniguns
+
+Rushers
+	Light unmanned IFVs, equipped with a minigun and a howitzer
+
+Twin Rushers
+	As above, equipped with two of each weapon for engaging multple hostiles
+
+Slammers
+	Unmanned mobile missile platforms, with homing missiles and miniguns for support fire
+
+Zippers
+	small unmanned quadcopters, with semi-auto gun attached
+
+Strikers
+	Unmanned quadroter helicopters, armed with a machine gun at the nose and rocket launchers on the wings
+
+Breakers
+	heavy plane-shaped UAVs, with machine gun and rocket launcher modules in the wings
+
+Cerberus
+	special infantry transport and support vehicle; able to rapidly switch between three modes:
+		Flier: VTOL-capable heavy jetplane, similarly shaped to a manta ray. Provides rapid transport, capable of transcontinental flights at Mach 4. Equipped with arnaments, but power diversion to the mobility systems disables rocket and energy-weapon attacks
+		Tank: High-speed combat vehicle, able to provide suppression fire and rocket attacks while driving.
+		Turret: X-shaped siege platform, full access to all weapon systems and fully autonomous targeting. Immobile

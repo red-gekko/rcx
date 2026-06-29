@@ -6,21 +6,80 @@ NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final 
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
 
-todo:
-	include a brief moment where connor asks trey what's going on with him and shannon; he shrugs, saying they're in something of a situationship (so the viewer knows what's going on with them)
+
+move the car toss from fetch to connor's escape
+	have it happen after he shapeshifts and passes out; the agents are scouring the city for him, and one finds him in the alleyway. he panics, and runs away with superhuman speed. a convoy of SUVs turn up, driving after him. one slams into him; they flip a few times before scraping to a halt as the other slams the brakes on. the agents hop out of their car to get visuals; and connor roars, red-eyed and morphed, and throws the suv at them. both explode.
+
+	during naismith's look at the body, nina mentions there've been a lot of weird reports from last night; a pair of SUVs containing armed gunmen seemingly crashed into each other in a way that doesn't make sense, and firefighters reported a burn victim grip their leader by the throat before running away faster than a car. naismith is skeptical, but says they'll keep an open mind
+	dorsey and the mayor pull strings to keep the crash and connor's neck lift out of the news, but they can't keep the beheading quiet, as its already been reported on. they cover the crash up as a normal crash, not disclosing the presence of firearms; and they cover up the burned warehouse as a drug lab, while blackmailing the fire station's counselors into gaslighting the fire crew into dismissing what they saw
+	note - a drone doesn't happen here. keep the one at fetch with sparky, but change the method of defeat from a car toss to something else
 
 
+a scene sometime between warehouse frenzy and whiplash officially joining the team, where connor is badly wounded and she takes him to her hideout - Belson clock tower. they talk a little about her life, and he asks her to join the team fully; says they'll make sure no one else has to go through what they went through
+
+
+big change - remove vivienne, have Chloe's family be a branch of the royal family.
+	Family tree: (X = dead; I = illegitimate, or otherwise excluded from sucession (applies to descendents too))
+		Queen Victoria (X)
+			King John II (X)
+				Queen Mary III (X)
+					King Percival (X)
+						King Michael
+							James, Prince of Wales
+								Princess Iona
+								Prince Pierre
+								Princess Henrietta
+							Prince Lucian, Duke of Sussex
+								Princess Maria
+								Prince Karl
+						Prince Archibald, Duke of Ulster
+							Princess Carina
+							Princess Janet
+						Serena, Princess Royal
+							Prince Malcolm
+							Prince Quentin
+							Princess Alicia
+						Princess Juliet
+							Prince Franklin
+					Maud, Princess Royal (X)
+						Lorraine Fitzpatrick
+						Benjamin Fitzpatrick
+						George Fitzpatrick
+						Clementine Fitzpatrick						
+					Princess Adelaide (X)
+						Oliver Derrington
+							William Derrington
+								Victor Derrington
+								Chloe Derrington
+						Anita Derrington (I) (X)
+							Patrick Jefferson
+								Beatrice Jefferson-Blake
+								Theresa Jefferson-Blake
+
+
+
+have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
+
+add a scene in chapter 3 where Oxford chews the commandant out
+
+
+at some point after sparky's rescue, have naismith interview the priest
+
+
+
+have connor show the gang around the motel before he ambushes naismith for the auction
+
+foreshadow connor's smoke bombs with a triplet gag
+	finally, when held up by the cops in hospital, he fires a smoke bomb from his bolt at the cops - it disorients them properly, and he escapes.
 
 have Dr. Rosenbaum appear early in volume 1 needing help from the Werewolf; afterwards, she gives him her number, reasoning that he probably gets in a lot of scrapes and might need an accomplished trauma surgeon on his speed dial. he notes that he can heal, but she says she wants him to have it anyway, just in case. he reluctantly takes it.
 	then, have it be Rosenbaum who provides lung surgery to Olivia after her fight
 
 rosenbaum plotline:
-	judi notices a pattern of individuals coming into hospital; largely undocumented migrants, homeless people, or runaways. All of them come in reporting sepsis developing from poorly-healed surgical wounds - and they're all missing a kidney, or half a liver, or a shitload of blood, or something else. Even freakier, though - some have vestigial organs that they shouldn't have - a kidney on one side is missing, but a malformed one is growing next to the healthy other side. One has a heart growing in her abdomen. Another with non-cancerous lung tissue growing in their thighs. She checks with colleagues in the pathology department, who confirm there seems to be a weird outbreak of people growing organs they shouldn't be. She talks to the police about it - they brush her off except for Naismith
-	that night, connor is fighting in Belson. one crook just hightails and runs - connor chases, and the crook vaults over a railing without thinking, falling several floors down and breaking his pelvis. connor calls him an ambulance and then bails
-	Naismith tries to look into it, but is shut down by his superiors and ordered to focus on the Werewolf case instead. he tells judi, informing her that he can't look into it any more - but covertly gives her all he could dig up on the case
 	Later, she's providing post op care to the pelvis crook. He talks about the Werewolf's horrifying powers, and she realises that the case must be connected, somehow. So, she asks the crook where she could find him. He's initially no use "Doc, if I knew where he was, I'd blow the place to smithereens!" but eventually the crook reveals that the Werewolf is connected to the Redbridge Syndicate; she goes to the Horse, and hands the bartender a note, asking him to deliver it to his boss. The note goes to the club owner, who contacts Connor.
 	Connor agrees to look into the case, talking to one of the victims and taking the info to Ivan. Together, they pin the case down to an organ trafficking lab in the sewers.
 		When working with Rosenbaum, have Connor ask questions of one of her patients, but he says he won't say anything, that they'll kill him if he talks. Rosenbaum says there is one patient they could try - she introduces him to one whose so badly malformed they're gonna die. Connor speaks with this one, but she refuses to talk to him as he's too suspicious. He gets Rosenbaum to leave the room, saying he's gonna do "something reckless", and takes off his mask, showing his human face. She (the patient) reveals that the lab that experimented on them is in the sewers somewhere; they abduct people who won't be looked for (homeless, runaways, drug addicts, the mentally ill, undocumented migrants, etc) and grow organs inside them that then get shipped out. She also mentions that once they are no longer of use (due to becoming too unwell from the procedures) they are dumped in the river to die; some wash up and are brought to hospital like her and the few other survivors; most are found as dead bodies. A lot of those taken are homeless residents of the Underhill, the homeless community of Drackhill's vast underground network
+	brief cutaway where Sparky asks Connor if they can get Ivan to help; smash cut to a pedo priest on the phone with a "Mr. Hughes," when a knock at the door. He answers it on the chain - Ivan snaps it open, grabs his face, pulls it through and squeezes the door shut, choking the life out of him while he quotes Ezekiel 25:17 at him in Russian ("Ya budu besposhchaden..." he scowled, "i nakazhu ikh v gneve." "Gagh... gugh... pah... please..." "I kogda ya sovershu vozmezdie... oni uznayut, chto ya Gospod'." *SNAP!*). He steps in, looks at the phone's contacts, and strokes his beard worriedly. Smash cut back to drackhill, and Connor says "He's busy doing wetwork - we're on our own."
 	While in the sewers, Connor and Sparky use their Sonar powers and accidentally attract and are swarmed by a pack of grotesque bat-fish creatures. They fight, but Connor realises their sonar is upsetting them, so they turn it off (hesitantly, as they're blind without it) and the creatures become docile. Connor touches one and accidentally mind merges, revealing they have a minor psychic link, including a mental map of the tunnels that Connor uses with the pigeon sense to find the labs
 	he and sparky press forward, assault the lab, kill the traffickers, and rescue the victims.
 		Have a Giant/Jotunn appear here; Connor and Sparky are completely blindsided, but when connor is at the Giant's mercy, it growls "Any last words, traitor?" Connor's eyes light up and he grins "Behind you" and a swarm of batfish attack. The giant is distracted, allowing Connor to disembowel it and then behead it. The Batfish start eating it - Connor is grossed out while Sparky thinks it's normal, and they press forward.
@@ -36,7 +95,7 @@ rosenbaum plotline:
 			rosenbaum: "Stop! Please, everyone stop!" (she gets in between the cops and connor)
 			N: "HOLD FIRE! HOLD FIRE! judi, what are you doing? get away from him!"
 			"henry, please! i know what he's done in the past... but he saved lives tonight. please, i'm begging you, don't do this!"
-			at that, connor spots sparky perched on the roof of an ambulance. he winks, and Sparky dives in, disorienting the armed police. both then run away.
+			at that, connor throws a smoke bomb at the squad, disorienting the armed police. both then run away.
 			naismith rises, brushing off the dirt. "i should arrest you for interfering in an arrest." he growls.
 			"then do it."
 			he sighs. "come on, everyone. let's make damn sure no one attacks this hospital."
@@ -54,13 +113,14 @@ rosenbaum plotline:
 			"give it an hour, i'll be fine."
 			"maybe one day, you won't *have* an hour - you'll need something to keep you going within ten minutes. or maybe, someone you care about gets hurt, and you can't go to hospital without them asking awkward questions. call me, and I can help out."
 			"what makes you think i have people I care about?"
-			"I saw the way you helped that man out of the ambulance. you can deny it all you like, but as long as there's one person in this city, there's someone you care about."
+			"I saw the way you helped that man out of the ambulance. the way you gently carried him. you can deny it all you like, but as long as there's one person in this city, there's someone you care about. that's who you are."
 			connor hesitates. "alright. i'll think about it"
 			he takes the number, and lets himself out. she watches him leave, and smiles softly.
 		make sure Ivan's reference of Jotunn happens after this - maybe in the open of the next chapter, or when he reveals the Optimates later
 
 
 Notes for the sewer mutants plot:
+	as the squad roster grows, more people stay in the motel. they expand the underground section, eventually breaking into an underhill segment - kicking off the cult arc
 	Later, (in volume 3), while on fireman duty, Connor gets approached by the fire chief and informed of a worrying case. a pair of plumbers went missing while working inside the sewers, then two firemen sent to look for them were attacked and found dead; the fire chief hands over his men's body cam footage, showing them getting swarmed by horrific bat-fish monsters.
 	Connor warns the chief not to enter the sewers, and he goes in and makes his way to their nests. There, he learns that there is some kind of mutagenic psy-emitter in the sewers; it created the batfishes, and also affects the Underhill residents. Most become deformed mutants, but some become Espers too.
 	A mutant cult has formed in the Underhill, and it is extremely xenophobic, their Esper leadership having sicced the batfish on the workers and firemen.
@@ -73,6 +133,16 @@ Notes for the sewer mutants plot:
 
 	ODIN placed the device in the Underhill long before the events of the story; the purpose was to subconsciously direct the sewer mutants into an uprising against the city-dwellers, which would then be crushed by Paladin/Gambit Agents - a false flag attack to allow them to seize power amidst the confusion. Junior's attack, Riverside's heroism, were all unforseen. Also, they didn't expect a hero like Connor to resolve the situation largely peacefully by exploiting internal factionalism
 
+extra bases!
+	once the Underhill becomes attached to Riverside, have it become a network of safehouses for the gang
+	have the Horse occaisonally be used as well
+	have Belson Clock Tower be a base for Whiplash; later, Harpy bunks with her
+	Have Mercy Isle's old monastery and lighthouse become a base for Mordred when the order shows up; it covers the Brynmore Isles, as well as support for Angleport and Rexton
+	Have a safehouse in Dunmere Dam; also covers Wickermast, Danwich, and Blackmarsh
+	Have a cave in Wyrmrock to use as a perch; have it behind a waterfall
+	An office in Rydon Tower, Caldermouth; providing cover for both it and Torbrook
+
+
 
 volume 2 big changes:
 	have shannon involved more in group outings from post-charlie onwards
@@ -82,6 +152,7 @@ volume 2 big changes:
 			have Bea express admiration for Stunlocke in particular
 		later, have Bea reveal she's on a forum that goes on about the superheroes
 			funny gag where she reveals theres a shipping war; she says there's a big argument on the forum between "Team Stunlocke" and "Team Whiplash". Connor asks if there's a "Team Werewolf" and Bea grins "Everyone's Team Werewolf." she then reveals that people are shipping the Werewolf with either Whiplash or Stunlocke; Connor and Amy are grossed out
+			later shannon sends him yaoi of him and Ivan, to his horror and ivan's delight
 
 	medicine run
 		shannon reports there's been a string of thefts of critical medicine lately; asks amy and olivia to investigate
@@ -264,10 +335,62 @@ Volume 3 plans:
 
 	harpy chapter
 		training scene with judge and the werewolves + chloe running tests on the judge and amy
+		that night, amy takes the judge on patrol; while out (she's driving while they follow on the rooftops) she explains that night-time street crime is minimal since their crusade, so they're going after a weapons deal.
+			amy takes recon point while the judge barges in.
+			"Hail, miscreants! You are in violation of our commandments. Lay down your arms and you will not be ha--"
+			*ratatatatat!*
+			judge morphs a shield "Youngblood! They have not laid down their arms!"
+			"Then make them. Remember - nothing permanent."
+			"As you command." they snarl
+			while fighting, they get hit by a molotov cocktail. they Rage, holding the attacker by the throat and snarling. amy sends a quick buzz through their ear and orders them to drop the goon. they comply reluctantly
+			later, she asks if they were gonna kill the thug. they admit they would've; that was the first time they ever resisted their Rage. she sighs, before admitting she'd hoped they didn't comply, so she had an excuse to kill them. they hesitate, before saying "I am sorry for what I have done. It was shameful. Sinful. Dishonourable. I shall do whatever it takes to atone."
+			she hesitates too. "well... i'm not over how you nearly killed my brother - or me, for that matter. but... that's a good start, i suppose."
+		judge asks connor why he doesn't kill humans
+			"Why do you demand we spare those miscreants? At first, I thought it was weakness, but then I saw your tenacity when you slew me. Why?"
+			Connor thinks for a moment. "Because we don't *have* to kill them. So we don't."
+			"Many of them have slain innocents - the same innocents you swear to protect."
+			"Whether or not someone *deserves* to die is a question of philosophy. Whether *I* have the right to kill them is a question of practicality. If I can't stop someone from hurting others *without* killing them - say, a Super-Agent that'll never surrender or allow themselves to be subdued; a murderer far away and the only way to stop them is with a gun; or a rich pervert who can corrupt the legal system and get away with their obscenities... those, we have to kill. But we always make sure that we're taking the path of least harm. Sure, sometimes we slip up. Sometimes the Rage gets to us. Sometimes we go to the dark place, and allow ourselves a moment of cruelty. But we have to try, always."
+		the next evening, before sunset, connor tells chloe to meet him at a bench outside Rydon Tower. She arrives, looking around for him, before he does a superhero landing behind her in costume; then he takes her, and rushes up the tower with her. they go to Mercy Isle and back
+		while out, he spots a mugging going on - he drops her off on a rooftop and deals with it. he finds the mugger broke their victims phone, so he grabs the mugger's phone and crushes it in his hand; it explodes and burns his hand, but he just stare into the mugger's eyes unflinching. once the mugger is tied up, he rejoins chloe, who says "is it bad that i found watching that a little... well, attractive?" and he grins "chloe, that was part of why i did it"
+		upon returning to riverside, he notes to the team that while nighttime street crime has gone down, daytime crime has gone up. Bea notes that it makes sense - they've made it so criminals are too afraid to do crime while they're on patrol, but haven't changed the socioeconomic factors that drive them to crime in the first place; connor agrees, and says he'll talk with Russo about negotiating allowing the Syndicate to operate its social outreach in Belson.
+
+	funny moment - while sparring, connor grapples trey. he tries to morph spikes to throw him off, but just ejects goop all over him. cue plenty on innuendos when connor moans getting gooped on by trey, without a hint of irony
+
+	Amy is convinced to become a Werewolf when she fights Twitch, who drains her suit's batteries and beats her half to death before Connor goes apeshit and nearly kills him - she wants to save people, not need to be saved
+
+	Trey and Amy join the pack fully at the same time; connor shows them how to glide, and they make it to the top of rydon tower. he says they're ready, and sends them on a mission together; the same goon who inspired amy to take the name stunlocke gets taken down by them; while Naismith drags him away "You can't let psychos like her go on a rampage! We still have rights! And him, the poncey fucker over there doing backflips all night! Remember the good old days, when it was just normal?!"
+	Amy smirks. "Rampage." she points to herself. "Backflip."
+	Trey tilts his head, before grinning widely. "that works."
+
+	bea becomes stunlocke while the others are out on patrol; riverside gets attacked by Gambit who are being sent by Eidolon tracing a hack on their servers to Shannon (unaware it's the Werewolf den) - Bea and shannon are there; while held hostage bea complains she needs the toilet; going on about her supposed IBS until one guard cracks and takes her to the storeroom where the toilet is; he uncuffs her, she goes in, and covertly puts on the stunlocke suit, then hits him with the Pulsar; the HUD tells her the battery is low and she's on power saver; so she deactivates the electroshock features and kicks the gambit asses
 
 	whisper arc:
 		she initially shows up being pursued by ODIN agents; the gang step in and rescue her. She explains who she is, her powers, and that she's trying to escape ODIN; they offer her safe refuge in Drackhill. Later though, a stinger where she reports her progress to her superior
 		over time, as she works as a superhero to gain their trust, she finds she actually likes it; the freedom, and doing good. eventually, she gets informed that the ODIN attack is imminent; she warns the team and reveals her treachery. they mount a counterattack, but are angry at her. however, connor decides to let her stay
+
+	mordred arc
+		have the Order of Lazarus on Mercy Isle - think St Dumas mixed with League of Assassins. They have a champion who calls himself Mordred - he's an Azrael expy. Have him join the squad for a while, before going his own way as an auxilliary member
+
+	confronting Oxford;
+		Connor shows up alone, ordering Oxford to surrender to him. Oxford grins.
+			"My boy... how I overestimated your intelligence."
+			His eyes flash, and Connor starts choking
+			"Did you really think I could make the Commandant quiver in fear, and pose as Kakhral's great messiah, if my own power were not... extraordinary?"
+			he leans in
+			"Did you really think you could beat me?"
+			connor chokes
+			"don't worry now. I'm not going to kill you, Mr. Barrett! You're far too valuable an asset. Not to mention how much money we spent making you..."
+			he grabs his had.
+			"Listen. And. Obey."
+			"NEVER!"
+			*psychic explosion*
+			the two fight, with Oxfords powers less strong against him.
+			"Maybe I'm not the only stupid one! Did you really think we didn't know you were an Esper?! Did you really think, after fighting ODIN for this long, I didn't practice a few tricks of my own?!"
+			"Very astute, boy... but you cannot stop me!"
+			"I know I can't. That's why I brought backup."
+			All of Riverside shows up to the rescue.
+			Oxford is outmatched, so he teleports away, detonating his house's self destruct. the heroes are wounded, and return home - Oxford is declared a supervillain, and so he has no choice but to head to a very old hideout of his... which is where we get full confirmation (foreshadow it with portraits of his ancestors looking identical to him) that he's an immortal
+
 
 	cancer arc:
 		connor gets injected with something by a super-agent; turns out to be a highly malignant cancer. it rapidly spreads throughout his body, leeching his powers.
@@ -298,12 +421,47 @@ Volume 3 plans:
 
 
 
-
-
 scene where whiplash fails a mission, and returns terrified and timid
 	flinching at everything
 	connor initially snarks upon her report that history sshows she'll join them, and she's trembling
 	he then reassures her, and they reattempt the mission together, showing her she's with a new family now
+
+have a mission in Auburn City (see below) - the gang discover that a large number of super-agents come from Greenland, and deduce that they must be recruits from Auburn.
+	The gang go undercover, posing as inmates. only the Werewolves go - Espers can't defend themselves without showing off their powers, Super-Agents are too visible by default, and Bea/Stunlocke and Shannon/Jinx are normal human girls who would't be safe there.
+	First, Connor starts doing cage fights for the gang leaders, hoping to impress the enforcers and get recruited by them - so he can then find out how the mercs are getting poached.
+	Second, Trey takes the dangerous industrial work, secretly coordinating with mission control to plant backdoors in their network
+	Third, Amy begins training some of the female inmates in self defence, while hunting down and terrorising the men who oppress them.
+	Over time, Trey also manages to foment unrest among the work crews he ingratiates himself with; his and Amy's strategies end up synergising into a looming revolt.
+	The enforcers, now worried and desperate for more manpower, approach Connor offering him a position. he takes it, but mentions he heard rumours that some enforcers get "the good stuff" that makes them better fighters. he's taken to the serum facility, now confirming all he needs to know. he assaults the facility, while trey and amy launch their uprising.
+	Once done, the city is largely in ruins - but the criminal elite and the enforcers, as well as APEX, are all gone. The heroes help rebuild the hothouse (as the American government now puts the city under blockade), while they get their allied governments (primarily the USSR remnant, as well as Algeria and Germany) to begin airdropping supplies again - as well as airlifting inmates out, granting them asylum (however, the dangerous inmates, or those with credible accusations of abuse, are instead taken into secure facilities in host nations to be rehabilitated first)
+	This also makes the heroes enemies of the state in the US's eyes, which results in Interpol disavowing them and forcing them underground - so, now with nothign to lose, they prepare to topple the US government - setting up future arcs
+
+Auburn City
+	A grim American gulag, built in Greenland. Anyone sentenced to life or death throughout the American Empire can be shipped here, instead.
+	The city takes its name from Auburn Prison, one of the first for-profit prisons in the US.
+
+	Auburn, GL. Founded in 1952 by executive order from President Douglas MacArthur, following the official integration of Greenland as a territory of the United States.
+	Within the US, the Sterns-Johnson Act was passed that same year, determining to "cleanse the United States of filth and degereracy". It established the following rules for "deportation"
+	Anyone sentenced to death in a court of law whereupon they have been duly convicted may instead opt for "deportation", being shipped to Auburn. In certain cases however, the DOJ can reject this plea (if there isn't enough room, or if they want to make an example of them). Naturally, most capitally-convicted people opt for life in Auburn instead; in practice the only people executed in the US mainland are political dissidents, as they don't want to risk sending potential revolutionaries into the powder keg.
+	Anyone convicted of "endangering public decency" - which can include anything from sex work, drug dealing, organised criminal involvement, or even illegal gambling - is placed in a lottery upon their conviction. If their number comes up, rather than serving their sentence as normal, they instead are sentenced to life without parole in Auburn, as a "lesson" to others.
+	Anyone deported also forfeits their US citizenship, even if it is their only citizenship, or they were born citizens.
+	As a result, Auburn is filled with gangsters, psychopaths, and petty crooks who are in over their heads. Most children born in Auburn are either the result of the complex's rampant "comfort industry", or the result of violent conception. Those born in Auburn are stateless; infant mortality is very high, as are complications during pregnancy. Auburn's local laws state that no-one without US citizenship is allowed to leave - so children born there will live their whole (often short) lives within the city.
+	Prisoners spend most of the day working, often in extreme conditions. As the hybrid of a plantation, company town, and gulag, the currency prisoners are paid in is a form of scrip; this is needed to pay for their measly rations of food, clothes, and the like. Shelter is not provided automatically by the prison - inmates must find shelter, often being forced to trade scrip, or provide services, to whoever excercises authority over their area. Prisoners typically live in poorly-made tent towers, often with little to no sanitation.
+	Prison gangs are a fact of life in the city. Those who rule these gangs act as petty lords, often collecting "tribute" from their vassals, which they use to bribe guards and live lives of relative luxury.
+	The guards themselves are as unhinged as the prisoners. Many are former prisoners who were recruited by the enforcers; regulations are minimal, and the guards' only duties are to ensure that prisoners perform their labour, and do not revolt. Enforcers typically take several slaves under their "protection" - to some inmates, this is preferable to being left to the predation of the gangs, or freezing out of the tents.
+	City security is fairly lax - anyone attempting to escape would simply freeze to death before they could make it to any form of human settlement. Contact with the outside world is minimal - massive SnowCat trucks bring in imports (primarily human material) and take away exports. Food is primarily produced in the Hothouse, a greenhouse dome on the city limits. Work in the hothouse is only for the most privileged of inmates - people have literally killed for a spot in the Hothouse.
+	For a while, the USSR would airdrop supplies of food and medicine into the city, as a middle finger to the Americans. However, once the Eurasian War began, shipments ceased.
+	By far, the most important industry in the city is its mining. The APEX corporation (for American Professional EXtractions) owns the massive mining complexes and oil rigs in the area. Pollution is simply allowed to flow into the city.
+	Meanwhile, several factories own sweatshops in the city, such as Acuminata, the world's monopoly on soft drinks; meanwhile, the Valiant Motor Company makes several parts using cheap Auburn labour.
+	Auburn's population sits at 110,000 - and has done for decades. Unofficial policy is to match "deportation rates" to the mortality rate.
+	Over 30% of Auburn inmates die within their first year. After five years, that jumps to 62%. The ten-year mortality rate is a whopping 94%. The longest-serving inmates are not the petty kings - as they often get stabbed in the back. Instead, the longest-serving inmantes are those in the middle; who keep their head down, and remain useful to those in power.
+	As of 2015, the longest-serving inmate is Jason Moreno - he was arrested in 1982 at age 15 for shoplifting. Courts decided to try him as an adult, and his number came up. Moreno is now the foreman of the Hothouse - and as the man who decides which inmates are selected to work there, he is far too important to kill.
+	The second-longest-serving inmate is known as "Paulie" - his surname is unknown, as his mother abandoned him shortly after birth. He was born in 1989, and is the oldest 'local' in the city, at 26 years old.
+	'Locals' are very rare, as infant mortality is extreme. Infanticide is rampant, as mothers cannot bear to bring children into such a city. Children who survive typically do so by being taken in by less savage prisoners, who all chip in scrip to ensure they are fed. As things like baby formula are never imported to the city, it is rare for such foundlings to survive past infancy - compounded by the extreme pollution and freezing cold interfering with development. Estimates put the number of 'locals' at 1.7% of the population.
+	The city's demographics are largely similar to the US prison system back on the mainland - except, when white people appeal their selection for "deportation", they are 40x more likely to be successful than people of colour. That likelihood is still small enough to be less than 1%, though.
+	The disproportionately male population has led to the city being a severely unsafe place for women, in particular. Enforcers turn a blind eye to such "indulgements."
+	The American government is in discussions with several allied nations - most notably the Union of South Africa and Rhodesia, the Commonwealth of Australasia, and the United Kingdom; for those countries to deport their own underclasses to the city as well. Disturbingly, the Americans have unofficially requested that these countries' selection processes be skewed towards their female criminals, to 'ensure improved social harmony through representative demographics'; there are several within the US government who wish to see a population boom in the city - as that means more workers.
+
 
 
 
@@ -380,25 +538,51 @@ set up a catacomb/storm drain network underneath the city; have the hideout be c
 
 
 
-new powers as the plot demands!
-	We've got gliding - make sure it comes up often
-	The crossbow idea should come from somewhere
-		if it comes from Whiplash, have her jest that he's stealing all her stuff
-	The grappling:
-		either keep it as a shock twist for the Junior fight, or have him figure it out sooner
-		how it works: crossbow launched suction cup on a chord, using the adhesion powers he uses to scale walls
+list of morphing powers:
+	clothing and costume
+		can quickly form new clothes, repair damage, clean, or change into costume
+	blades
+		several options - throwing knives, wrist-mounted swords, or handheld weapons. can use more exotic forms, like chain-tied knives, axes, or spears
+	adhesion
+		several micro-hooks form at the contact surface, allowing super-grip
+	armour
+		can expel more substance into the costume to thicken it
+	crossbows
+		can morph wrist-mounted crossbows, allowing for ranged attacks. can use blunter bolts for incapacitation, or sharp ones for kills
+	grappling/rope
+		can morph rope from the body; can be used with crossbows to form a grapple gun, swing from buildings, or restrain enemies
 	shields
 		use these when both defense and agility are needed - should typically be forearm bucklers rather than full ballistic shields unless he's covering someone else
+	gliding
+		morphs a cape that can rigidify on-command, and uses super-senses to detect updrafts and wind tunnels. can also use grappling to gain extra velocity (through pendulum swings or rapid reeling); can also use wall-running to gain altitude, or push self off of walls for extra speed
 	caltrops
-		use these in the car chase during Belson Strangler - they can also be used for area denial
-	lockpicks
-		use these when stealth is needed
+		area denial weapons, as well as anti-vehicle traps
 	shock absorbers
 		handwave his ability to land on his feet from a glide by saying he morphs honeycomb pads on his boots, which dissolves after landing
 	parachute
 		use this when he needs a slow descent, rather than gliding
 	bolas
 		use these for non-lethal capture - can morph them into hogties or cuffs once he catches them
+	net launchers
+		use these for wide-area non-lethal ranged capture
+	restraints
+		gags, blindfolds, handcuffs, hogties, or even hanging people by their ankles from the ceiling
+	vaulting pole
+		used for short-range hops
+	water-walking
+		pads that keep him at surface level as long as he's sprinting
+	trip-lines
+		clotheslines used as traps
+	prosthetic makeup
+		change unmasked appearance
+	first aid kit
+		tourniquets, splints, bandages and more
+	multitools
+		lockpicks, screwdrivers, spanners, crowbars
+	smoke bombs
+		release a burst of morphing substance as an aerosol, creating a short-lived cloud
+	pseudomorph
+		thin mannequin shaped like him to act as a decoy
 	sound funnel
 		don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
 
@@ -869,7 +1053,8 @@ add a bit more humour; jokes include:
 		Connor admits it happened when he said "Hey wouldn't it be funny if we misunderstood the assignment and showed up as visigoths" and trey dared him to - Connor agreed as long as Trey joined in
 		Another sensible one asks "Do you guys ever think before you pull these jokes?" and Trey says "Yeah we normally think 'Heehee, this'll be funny'"
 		Connor quips "And to be fair, we're normally right"
-
+		then, another character shows up also in visigothic clothes, before going "ah - oops"
+	chloe and bea show up wearing the same outfit, and are bemused. they then wonder if boys have the same reaction, before an imagine spot of trey and connor showing up in the same outfit, before pointing and going "oi oiiiiiiiiii!"
 
 Have more downtime with other characters post-reveals.
 	Overall, have the gang see more of Connor's powers in non-fight settings. Have him lift stuff for them, spot things in the faraway, etc
@@ -961,6 +1146,12 @@ Have a good long think about the Inspos of the story.
 	Line of Duty
 		Police procedural elements
 		Corruption and Org. Crime
+	Connor's own inspos
+		Batman (dark nocturnal protector)
+		Venom (shapeshifting bioweapon)
+		Red Hood (red and black colour scheme, troubled childhood, willingness to kill)
+		Wolverine (traumatic past, willingness to kill, bioweapon)
+		Spider-Man  (traumatic past, quippiness, agility)
 
 
 
@@ -1021,10 +1212,13 @@ All volumes:
 			comic focused on Bea's run as Stunlocke II. Primarily focused on her, Amy, Chloe, and Shannon (think of it as a girl squad comic). Enemies are mainly Eidolon, Enisgn-Apex, SIBC, and other megacorps.
 
 		Unbroken
-			The Unbrokens (Eliza/Harpy, Johnny/Twitch, Roach, Chemistress) go through therapy while trying to hunt down Vacher
+			The Unbroken (Eliza/Harpy, Johnny/Twitch, Roach, Chemistress) go through therapy while trying to hunt down Vacher
 
 		ODIN's wolves
 			Sparky, Whiplash, Chloe, and Whisper work together to destroy ODIN once and for all. Arc is seeded when Whisper reveals her betrayal in time for the squad to mount a counterattack. The gang are angry at her, but eventually agree to let her redeem herself, and the all-Esper team mounts an attack on ODIN
+
+		Heretics
+			Thrax and Mordred team up to stop the Order from summoning a demonic entity. they succeed, but Oxford uses the ritual to contact Malkaea
 
 		Inheritor
 			Focused on Trey's own arc trying to fill Connor's shoes in an increasingly unstable world. Culminates with the Angola War, where Trey and Bea team up to take out the South African government
@@ -1079,6 +1273,9 @@ In general Gordon lore
 rogue's gallery notes:
 	Pied Piper - shows up in London leading an army of rats to take control of the city. He's taken down fairly easily. Connor takes the piss out of his name, pointing out that the pied piper killed rats, that was the whole point
 	Upon breaking free from jail, he renames himself Lord Verminous, teaming up with Bug Boy. Connor quips that at least he didn't call himself Pest Controller
+	Syphax the Destroyer - a demon who in ancient times would posess female Espers and torment them (at the time he was active, witchcraft was seen as feminine) - a sisterhood in the Order of Lazarus created a ritual to bind him; as Conditional Magic (as Morded calls it) is more potent, they made it so the ritual requires 5 women; if a man is present, then all present forfeit their souls. In modern times, ODIN send a strikeforce of Psi-Agents to take out the sisterhood and turn Syphax into a weapon; however, Syphax instead posesses the lead Psi-Agent, slaughters his soldiers, and escapes. It reads its host's mind, and learns that the strongest mortals are in Riverside - so, it goes there, and after a short battle, posesses Trey. While fighting a demonic Trey, Mordred telepathically tells Chloe of the ritual - Thrax is swatted aside by the demon-empowered Moxidar, while Mordred desperately uses his Demonology to barely contain Syphax's power.
+	Those present at the time are Chloe (Adept), Bea (Stunlocke), Gwen (Whiplash), Eliza (Harpy), and Shannon. Shannon asks what happens if a man does the ritual, and Mordred explains. She hesitates, but the others encourage her, and she gingerly steps into place. Mordred dives out of the way, and they manage to soulbind Syphax and free Trey. Now, Syphax is bound in Riverside, being housed in the old Psi-Amp.
+	Shannon starts getting chatty with Syphax, who appreciates having some friendly conversation after 50,000 years. Much later, when Riverside is under attack yet again, Psi-Agents storm Shannon's workshop. Syphax's Psi-Amp detonates, killing them all. Shannon later questions if he likes her - he denies it, saying "It would be a waste to see one of such sharpness of mind be slain by these miscreants", then "if you died, I'd just be sat here for another eternity without any stimulating conversation" before finally admitting yes, he'd be sad if she was hurt. She repairs a captured Combat Mech, and retrofits the amp into it, creating a robotic host for Syphax - he refuses to actually join the team, instead becoming Shannon's bodyguard (essentially, he's a defender of Riverside, not a field agent as that'd be too OP)
 
 
 

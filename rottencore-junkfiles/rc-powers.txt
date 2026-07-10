@@ -18,6 +18,7 @@ Summary of Powers:
 			Capable of breathing toxic air or water temporarily; can survive without oxygen through anaerobic respiration.
 				[side effect - anaerobic respiration will eventually cause cryptobiosis, a coma-state. Cannot use full strength without oxygen either]
 			Blood vessels are capable of closing rapidly, massively reducing blood loss
+			Multilpe windpipes and chambered lungs allow constant breath - one lung breathes out while another breathes in while another supplies oxygen to the bloodstream
 		Digestive/Urological System:
 			Can digest just about any organic matter. Multi-chambered stomach allows ruminant behaviour and easy toxin removal.
 			Liver and kidneys hyper-optimised. As long as healing factor is active, toxins are largely harmless in the bloodstream.
@@ -36,7 +37,7 @@ Summary of Powers:
 
 	Physical enhancements:	
 		Tissue Enhancements: Superior strength due to extreme muscle density. Can lift armoured vehicles, deliver punches with the force of 10 jackhammers, and leap 10 metres vertically. Flesh can receive gunshots from small arms fire and only result in bruising. Armour-piercing rounds like explosive rounds or CNT-tipped bullets can cut through flesh. Like bones, muscles are reinforced with CNT fibres.
-		Bone Enhancements: Bones are increased in density and reinforced with CNT fibres - like rebar in concrete. Breaking these bones requires extreme force - up to 10x that of a regular human. Bones are also optimised to direct impact force to the joints - most 'breaks' are in fact dislocations.
+		Bone Enhancements: Bones are increased in density and reinforced with chitin and CNT fibres - like rebar in concrete. Breaking these bones requires extreme force - up to 10x that of a regular human. Bones are also optimised to direct impact force to the joints - most 'breaks' are in fact dislocations. Due to reinforcement, despite major increase in density, bones are actually lighter per volume than traditional human bones.
 		Physical feats:
 			With heavy exertion, lifted the front of a BMP-3 over its head, flipping it over after considerable effort. Exertion was equivalent to a human lifting an extreme weight. A BMP-3 typically weighs 18-22 tonnes.
 			With moderate exertion, lifting and holding an entire Jeep above its head. Exertion was equivalent to a human lifting a relatively heavy set of weights.

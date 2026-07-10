@@ -53,7 +53,7 @@ ETIOLOGY, EPIDEMIOLOGY, & PATHOPHYSIOLOGY
   CMDD (Chronic Melanogenic Dysregulation Disorder), a 'cousin disorder' where only the TYR mutations are inherited, is seemingly more common in southern Africa, particularly South Africa, though like VS in Eastern Europe, this may be the result of the specific variant being discovered in South Africa in the mid 90's. Hypotheses suggest that CMDD, which like VS provides minor resistance to HIV and other retroviruses, has resulted in a selection bias similar to sickle-cell anemia in malaria-prone regions. However, this has not been proven.
   Active cases of CMDD are believed to be prevalent in ~1 in 62,000 individuals, making it slightly rarer than AVS.
 
-  Congenital VS is negligibly more common in female individuals, with a ratio of 52:48. This appears to be because male fetuses with AVS are slightly more likely to be stillborn. It is unclear why this is, especially as male sufferers of AVS do not appear to have more severe symptoms than female sufferers.
+  Congenital VS is negligibly more common in female individuals, with a ratio of 51:49. This appears to be because male fetuses with AVS are slightly more likely to be stillborn. It is unclear why this is, especially as male sufferers of AVS do not appear to have more severe symptoms than female sufferers.
 
   Due to misdiagnosis, lack of screening capacity, and social stigma, it is difficult to accurately estimate the number of inactive Carriers worldwide. Global averages suggest 1 in 7,000.
 

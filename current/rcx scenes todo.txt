@@ -6,6 +6,36 @@ NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final 
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
 
+remove Naismith's early skepticism, as the evidence quickly suggests something superhuman is afoot
+	have him interview the priest between walking sparky and creek
+		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before, and they have a tense discussion and connor leaves a little less burdened
+
+		after interviewing the priest, naismith says to Nina that they got reports a couple nights ago that someone in a red hood shot a guy in Belson and broke another's arm - and the surviving witnesses say he had glowing red eyes, too
+	have him and nina analyse cctv footage of the burning building rescue in the migraines/IES
+	remove the scene where they get put on the case - replace it with Nina informing Naismith that the mercs they were investigating point to a weapons and drugs shipment in Belson - so they do a stakeout which is how they catch Connor after the machine gun fight
+	have them discuss Connor's change from hoodie to kevlar, questioning if it's the same guy
+		after Hog and Hounds, have Naismith realise the "Church Demon," the "Red Hood Guy," the "Werewolf," and the "Kevlar Man" are all the same guy
+	once they see Connor has regrown his hand, they conclude that the Burned Man and the Werewolf are the same guy too
+
+
+replace the Patriots with the Skulls; have Skull (the drug) get its name from a remnant of the Skulls synthesising it and using it to rebuild their empire.
+
+
+emphasise connor's inherent terrifying nature
+	have him regularly aura farm to enhance his legend
+	have Trey design a sigil for Connor to start using
+	have Connor go berserk against some regular thugs - he doesn't kill them, but is way more brutal than normal, sparing one for last to scream his questions
+
+
+add a sequence post handing evidence to nina where gambit cops swarm the van; as they're being dragged out, one cop says "sir, permission to go... extrajudicial." - at that, Connor breaks free, grabs that one's gun, and orders for them to drop their weapons or he shoots. (work on this idea)
+
+
+consider toning down the racism of the world - make sure it's present, but have the Optimates and the Skulls be more social-darwinist than neo-nazi; keep racism but less blatant
+
+
+consider replacing connor's new costume with the wakeup-in-clocktower sequence - have him start with the costume fully finished
+	this also means for connor and trey's first joint mission, he morphs up his own costume from imagination
+
 
 move the car toss from fetch to connor's escape
 	have it happen after he shapeshifts and passes out; the agents are scouring the city for him, and one finds him in the alleyway. he panics, and runs away with superhuman speed. a convoy of SUVs turn up, driving after him. one slams into him; they flip a few times before scraping to a halt as the other slams the brakes on. the agents hop out of their car to get visuals; and connor roars, red-eyed and morphed, and throws the suv at them. both explode.
@@ -394,7 +424,7 @@ Volume 3 plans:
 
 	cancer arc:
 		connor gets injected with something by a super-agent; turns out to be a highly malignant cancer. it rapidly spreads throughout his body, leeching his powers.
-		chloe does tests (tearjerker scene where connor, haggared and weak, sees her struggling to hold it together in front of him, and tells her it's okay for it to affect her too); she finds out that the cancer is disabling his healing factor, and based on how rapidly it's spreading, will reach his brain stem in a few weeks, which will kill him
+		chloe does tests (tearjerker scene where connor, haggared and weak, sees her struggling to hold it together in front of him, and tells her it's okay for it to affect her too); she finds out that the cancer is disabling his healing factor, immune to chemo, and based on how rapidly it's spreading, will reach his brain stem in a few weeks, which will kill him
 
 	Ending:
 		Connor is wasting away with his cancer, and is lured into a trap by the Commandant. He is kidnapped and taken offshore, to a former oil rig. The Commandant dopes him with Skull, and says that enough is enough - it's time to end this. Chloe radios telling him the Kestrel's still down (it got destroyed in an earlier chapter) but they're on their way as fast as they can. The Commandant reveals he's rigged the place with thermobaric charges that are attached to a deadman's switch in his heart - he jeers that Connor won't have the guts to finish him. Connor spits that he'd burn the world to see him dead, and they fight
@@ -411,11 +441,16 @@ Volume 3 plans:
 			"Chloe? I... I don't know if you can hear this. Maybe you'll dream it." he begins, choking up.
 			"I promised I'd always be by your side. I swore i'd never let you down. and i... i'm gonna have to break that promise."
 			he sobs, as his body starts to give out.
-			"we've both known for a little while that my time was running out. i... i hoped i'd get a little while longer."
+			"we've both known for a little while that my time was running out. i... i hoped i'd get a bit longer."
 			"the time we've had together... it's been the best months of my life. i'll always be with you... we're linked, now. tell the others... tell them i couldn't've left the world in safer hands."
 			the timer ticks down, a few seconds left.
 			"i love you."
 			*BOOM---FWOOSH!*
+			to hammer home his death, we focus in on his bloodied, ragged skeleton sinking beneath the waves, his one remaining red eye slowly dimming before going dark
+
+		consider having this instead be a heroic sacrifice - maybe the commandant places the bombs in a residential area, and instead of a deadman's switch, it's a way to ensure if connor kills him, he dies too. the commandant sadistically leaves enough time for connor to get the bombs out to sea in a nearby vtol - but the craft only has enough fuel for one trip.
+		once the bombs are dropped into the sea, connor crashes the vtol, and radios the team, before the explosion tears the craft apart and 'kills' him
+		consider it being a more deadly weapon than thermobaric charges - maybe an antimatter bomb that would destroy a massive chunk of new york if he doesn't get rid of it
 
 
 
@@ -585,6 +620,16 @@ list of morphing powers:
 		thin mannequin shaped like him to act as a decoy
 	sound funnel
 		don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
+
+
+new gadgets for whiplash/gwen:
+	retractable buckler - she uses her powers to direct projectiles to it
+	pump-action crossbow for short range
+	boomerang
+	bolas - can also be used like a flail
+
+
+
 
 optimates lore: different mook types:
 	super-agent - basic serum user
@@ -1272,7 +1317,32 @@ In general Gordon lore
 
 rogue's gallery notes:
 	Pied Piper - shows up in London leading an army of rats to take control of the city. He's taken down fairly easily. Connor takes the piss out of his name, pointing out that the pied piper killed rats, that was the whole point
+
+
 	Upon breaking free from jail, he renames himself Lord Verminous, teaming up with Bug Boy. Connor quips that at least he didn't call himself Pest Controller
+
+	She-Wolf - a woman Connor saves from the sewers who was given serum, she develops an insane obsession with him
+		consider having it so he gives her a transfusion instead
+		she becomes obsessed, and steals a gun and commits a massacre of Skulls to impress him
+		Naismith investigates, with Dorsey blaming the Werewolf, but he's skeptical
+		later, connor ambushes him and explains it wasn't him
+		the next night, a terrified mook delivers a phone to johnny - it has a location and time for a meetup
+		connor goes, and meets the woman. while trying to talk her down as she goes on about their love, he says she needs help, and she snaps that he thinks she's crazy, before saying she knew there was another girl, and flashbangs him before escaping
+		later that night, while connor is hunting for her, he has sparky covertly keeping an eye on chloe. however, he gets a call from amy - who's being held hostage by shewolf
+		connor shows up, and after a tense standoff, admits that amy's his sister, not his girlfriend
+		she heads to the roof. amy tells him to be careful, and he sighs
+		he meets her there, and they talk some more. she opens up a little about her ex-partner, and how she was diagnosed with Pathological Attachment Disorder. connor realises the true extent of her infatuation, and reluctantly hugs her. she squeezes him, before her eyes roll back, and he reveals that he's holding a syringe
+		over at ivan's place, he delivers her, and they check her over with dr rosenbaum and confirm she's comatose - connor jabbed her with a massive dose of ketamine. ivan has KGB staff provide round-the-clock medical care and sedation, until they can think of a permanent solution
+
+		come volume 3 (after the Birds of Prey chapter), connor explains the situation to chloe, and asks for her help. they wake her up, but to their dismay she goes on a rampage and escapes. she comes back, kidnapping chloe and planning to kill her for getting between them. connor arrives, and she reveals a bomb in the room, planning to take them all out together. connor tanks the explosion, while amy subdues shewolf. now dealt with, they resedate her.
+
+		later, after connor gets jabbed with the virus that weakens him enough to give him cancer, chloe develops a drug that weakens superagents to human levels (if given to a human, it wold cause severe atrophy and then death). they use this on shewolf, and then send her to a psych ward.
+		(this same study is what develops the retrovirus they use on the commandant)
+
+		(note on the retrovirus - connor jabs the commandant with it during a major battle. later, when connor's cancer starts getting really bad, they identify a number of black sites that the commandant could be recovering in, reasoning that he may have treatment that could save connor - while raiding these, connor gets captured)
+
+		later, maybe during Unbroken, She-Wolf joins the team
+
 	Syphax the Destroyer - a demon who in ancient times would posess female Espers and torment them (at the time he was active, witchcraft was seen as feminine) - a sisterhood in the Order of Lazarus created a ritual to bind him; as Conditional Magic (as Morded calls it) is more potent, they made it so the ritual requires 5 women; if a man is present, then all present forfeit their souls. In modern times, ODIN send a strikeforce of Psi-Agents to take out the sisterhood and turn Syphax into a weapon; however, Syphax instead posesses the lead Psi-Agent, slaughters his soldiers, and escapes. It reads its host's mind, and learns that the strongest mortals are in Riverside - so, it goes there, and after a short battle, posesses Trey. While fighting a demonic Trey, Mordred telepathically tells Chloe of the ritual - Thrax is swatted aside by the demon-empowered Moxidar, while Mordred desperately uses his Demonology to barely contain Syphax's power.
 	Those present at the time are Chloe (Adept), Bea (Stunlocke), Gwen (Whiplash), Eliza (Harpy), and Shannon. Shannon asks what happens if a man does the ritual, and Mordred explains. She hesitates, but the others encourage her, and she gingerly steps into place. Mordred dives out of the way, and they manage to soulbind Syphax and free Trey. Now, Syphax is bound in Riverside, being housed in the old Psi-Amp.
 	Shannon starts getting chatty with Syphax, who appreciates having some friendly conversation after 50,000 years. Much later, when Riverside is under attack yet again, Psi-Agents storm Shannon's workshop. Syphax's Psi-Amp detonates, killing them all. Shannon later questions if he likes her - he denies it, saying "It would be a waste to see one of such sharpness of mind be slain by these miscreants", then "if you died, I'd just be sat here for another eternity without any stimulating conversation" before finally admitting yes, he'd be sad if she was hurt. She repairs a captured Combat Mech, and retrofits the amp into it, creating a robotic host for Syphax - he refuses to actually join the team, instead becoming Shannon's bodyguard (essentially, he's a defender of Riverside, not a field agent as that'd be too OP)

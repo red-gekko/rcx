@@ -6,12 +6,73 @@ NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final 
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
 
+
+
+
+
+
+add some more circus freaks to the now-gang of circus freaks:
+	Spookee - a clown. Uses electric joybuzzers in combat
+	The Gemini Twins - a pair of conjoined twins - one large, dimwitted, and with a cephalothorax; the other lithe, limber, and sprouting from the back
+	Nitwit - A hulking brute with a tiny head, who fights with a large carnie hammer
+	Goblin - a tiny (4ft tall) man with green skin, yellow eyes, and bat-like ears
+	Troll - a huge (10ft tall) blue-skinned man with a childlike mind
+	Tangle - a four-armed wrestler
+	Sulita (romanian for javelin) - knife thrower, contortionist
+	Mr. Magnus Magnifico - stage magician, uses smoke for disappearing acts
+
+
+
+dont forget to add connors new power - acid spit. he can contract his stomach to shoot out acid from the mouth. this is incredibly unpleasant and so he usses it sparingly
+	the acid is so strong because he can digest bone and cellulose btw
+
+
+
+
+include a brief mention of chapman in the naismith flashback, where he goes to vice to assign the case, looking for then-dci chapman - the desk jockey explains chapman is on bereavement leave, as his wife was murdered last week
+
+
+
+
+
+maybe shift the beginning of the story (and connor's bday) to september instead of october. gives us an extra month to justify some b-plot expansion, as well as adding a month of connor knowing chloe for their relationship to not feel rushed
+	given this means Sparky will be with connor for the best part of a month before Halloween, you can deepen some moments between them
+	Since the Werewolf won't be widely known before Halloween, the gang's first few outings would have to be almost entirely supervillain-focused. To that end, use the rogue's gallery below for some fodder
+	Also, consider having Pig Head happen the week of halloween - just before the burning building
+	Have Flashbang be the first boss fight that happens; after beating him, Connor decides to interrogate, only to be interrupted by Naismith
+		Later, after his cyberware is analysed by Eidolon, it's concluded he cannot be separated from it without dying. Dorsey has him housed in the VPU of Wickermast, with plans to kill him should he talk. oxford orders the commanant not to have him killed - let him rot in the VPU for a few months, and they can find a way to spring him out covertly
+	Last pre-halloween boss fight, before Pig Head - have Connor encounter the Troll
+
+to summarise timeline changes
+
+	CHAPTER
+	>connor breaks into a Skull base, but finds a lead that he sends to Ivan
+	>the week before Halloween, a cannibal larder is discovered in Blackmarsh, with two pig farmers butchered and their pigs missing
+	>the wereolvess are stalking the scene while naismith investigates; however the NCA (national crime agency) takes over, saying they believe the killer is the notoroious Pig Head, and ordering Naismith to leave it
+	>Connor and Sparky, using super-smell, track a blood trail to Pig Head's hideout.
+	>while chasing, connor calls Ivan and ask him about Pig Head - where the Chris P Bacon joke happens - also have connor note that there's no way he's calling this guy Pig Head - "Even Grom's a better codename than Pig Head!"
+	Pig Head releases Super-Swine. Sparky kills the Super-Swine while Connor fights piggy
+	once arrested, Pig Head is reported on the TV as having had extreme plastic surgery done, including grafting a pig's face to his head. Newspeople question how that's even possible; but Pig Head isn't being forthcoming (long story short, it was Vacher)
+	>have the chapel be assaulted by super-agents who wanna know what Connor told Fr Declan (see below)	
+	OTL halloween
+
+	Make sure there's plenty of social-life B-plot going on - enough for at least 2 chapters between In Sheep's Clothing and The Werewolf (might have to rename it to Pigs To Slaughter; Hogs to the Trough needs a rename too)
+
+
+
+with all the extra B-plot material, consider splitting chapters up - or just saying fuck it, and releasing scene-by-scene
+
+
+
+
 remove Naismith's early skepticism, as the evidence quickly suggests something superhuman is afoot
 	have him interview the priest between walking sparky and creek
-		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before, and they have a tense discussion and connor leaves a little less burdened
-
 		after interviewing the priest, naismith says to Nina that they got reports a couple nights ago that someone in a red hood shot a guy in Belson and broke another's arm - and the surviving witnesses say he had glowing red eyes, too
-	have him and nina analyse cctv footage of the burning building rescue in the migraines/IES
+
+		before the second confession, have Paladin spooks come to interrogate Declan to find out what Connor told him (hoping Connor confessed some intel) - Declan refuses to break the seal of the confessional until they threaten a kidnapped child, at which he painfully says that "the man" told him he was kidnapped and tortured, and was now on a quest of vengeance. he says "that's all i know, i swear1" At that, Connor arrives, rings the church bells, descends from the rafters and kills the Agents, impaling one with a crucifix
+		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before; Declan admits he's struggled to take confessions after breaking the seal of the confessional to save the child; Connor says that if Declan had allowed a child to die over it he'd be enraged. he asks how the kid's doing, and declan says he's better; connor points out that the seal of confession usually only applies if the penitent is confessing before god; as an atheist it arguably doesn't apply; declan quips that its not normally him receiving absolution in that booth. they have a brief chat about connor's mission, and connor leaves feeling more relieved
+		the second confession can go in Underhill or in She-Wolf - whichever needs more padding
+	have him and nina analyse cctv footage of the burning building rescue in the migraines/IES (or in Honest Work) - have them mention the only thing they've seen survive such burns is the Burned Man
 	remove the scene where they get put on the case - replace it with Nina informing Naismith that the mercs they were investigating point to a weapons and drugs shipment in Belson - so they do a stakeout which is how they catch Connor after the machine gun fight
 	have them discuss Connor's change from hoodie to kevlar, questioning if it's the same guy
 		after Hog and Hounds, have Naismith realise the "Church Demon," the "Red Hood Guy," the "Werewolf," and the "Kevlar Man" are all the same guy
@@ -27,7 +88,47 @@ emphasise connor's inherent terrifying nature
 	have Connor go berserk against some regular thugs - he doesn't kill them, but is way more brutal than normal, sparing one for last to scream his questions
 
 
-add a sequence post handing evidence to nina where gambit cops swarm the van; as they're being dragged out, one cop says "sir, permission to go... extrajudicial." - at that, Connor breaks free, grabs that one's gun, and orders for them to drop their weapons or he shoots. (work on this idea)
+change the prison break sequence
+
+	NOTE
+		maybe delete Agent J et al; have Goblin be the one to recognise connor, and the breakout crew are the syndicate, Goblin, Troll
+		have the gang escape in a prison van - hence why it fits everyone including Troll. Connor still ends the situation by clambering and jumping, but remove the chopper
+		Once escaped, instead of the revolutionary meetup in the underhill, just have them tag along into Riverside. have vince and amy have a heart-to-heart here too, before the gang splits up - the Syndicate crew of Tommy, Vince, and Pawel take a car and go hideout in the Wyrmwoods, while Connor, Shannon, Trey and Sparky take the workvan (fitted with Connor's gadgets) and do the DCC thingy. Goblin and Troll take a campervan, saying they're gonna head out into the moors outside of the valley; since they are the most recognisable, the heat is worse for them. connor bids them good luck
+		the next day, all the news is talking about is "Goblin and Troll escape along with Syndicate members and protestors" - thereby keeping Connor et al's names out of the press.
+		When questioned later, Connor explains that it was all Goblin's idea, who got the idea after seeing him fight Pig Head and realised that with Goblin's brains, Troll's brawns, and Connor's balance of both, they had a shot at escaping. Connor decided to go for it, and that's how it happened (not technically a lie)
+
+
+
+	first, have the gang be cut off by a phalanx of armed guards - they are forced to surrender, and are thrown in the VPU
+	Within the VPU, have various rogues that connor hasn't killed be present (write these into previous episodes, and see below); have the gang be forced to wear shock collars like the other inmates
+		the shock collars work by applying a zap to the back of the neck, paralyzing the inmate. Connor tries using his strength to tear the collar off, but the shock makes him convulse too much
+		When Connor gets in a fight with Pig Head, Agent J recognises his fighting style and approaches him. J proposes a deal - he help the trio escape, in exchange Connor lets J go into hiding without bothering him. Connor hesitantly accepts
+		(J's plan is to organise a mass escape - noting that'll cover connor's escape without compromising his identity, as he'll make sure his own fake ID takes the fall for it)
+	after the failed escape, a protest outside city hall is held; Bea wants to go but Charlie pressures her to not go; Chloe does go, but the cops open fire with rubber bullets and start mass arresting the protestors. Amy (in the Stunlocke suit) and Sparky (in costume) show up to defend the protestors, and most escape before Gambit shows up with live rounds - Sparky helps Amy run away from them. The protestors who were arrested are thrown in Wickermast on Terrorism Act charges
+	the next night, Connor grabs a guard's sidearm and shoots his collar off, before holding the guard hostage and demanding the control guard opens the door. the guard doesn't, so connor knocks out his hostage and shoots at the control room window - the bullet bounces off. enraged, he charges upwards, and shoots the door lock. the guard draws his gun, but Connor shoots it out of his hands and makes him cuff himself. Then, he releases all the supervillains except Pig Head and Chapman
+	the door opens, and connor grabs trey and shannon, rips off their collars, and bolts. a gang of other guards show up, connor aims his gun and orders them to cuff themselves. then, he captures the control room and frees the syndicate, Naismith, and Casale. He tells everyone to grab hostages too, and they head to the exit
+	a phalanx of guards is there, so they send their hostages walking through first, then connor shoots the sprinklers above, while Flashbang hits them with his namesake. in the chaos, Connor and She-Wolf dive forwards, and uses a riot shotgun as a club, knocking down the phalanx
+	J grabs a shotgun, but connor warns "don't make me put you back in there!" and he chuckles, dropping it
+	The gates ahead have been sealed off, so Troll rips them open (have something like "You're up, big guy!")
+	Vince hotwires a car and bundles his gang in, creating a diversion; Troll goes storming off into the woods with Goblin, Flashbang blasts and then sneaks away. Connor, Shan, Trey, She-Wolf, and J rush out, diving into a nearby car. trey hotwires it, and they drive
+	they make it to the main road when the cops catch up. a car pulls up beside them, preparing to ram into them. trey slams on the breaks and turns around, trying to shake them off
+	now pursued by three cars, connor clambers to the roof, and shoots out the wheels of one. he aims at the other, but his gun clicks as he realises he's out of ammo. he roars, J clambers beside him, and they each leap onto the cars, smashing the windscreens and crashing it. Connor grabs a megaphone and an assault rifle, and barks to the police chopper that they need to either pull out or get their parachutes ready. he fires a warning shot that hits the chopper's side, so the police sniper within fires back. then, connor shoots the rotor, and the pilot and sniper dive out as it spins and crashes.
+	trey pulls over, and they drive as fast as they can - connor takes the wheel, cutting the car lights and using his night vision to plot their route
+	connor calls Ivan. Ivan incredulously congratulates connor, before giving him a location
+	the gang take refuge in a safehouse in the underhill. the rest of the escapees arrive too - J reveals he contacted them to help organise a resistance - explaining he needs Dorsey's martial law lifted so he can leave the country safely.
+	Connor (in his Werewolf costume so the others don't twig his secret ID) announces to the escapees that they need to counterattack quickly. with that, Ivan, Whiplash, Amy (in the suit) and Sparky arrive. Connor and Vince pull Amy aside and tell her not to do this, but she's adamant, and they relent.
+		(make sure to include a brief interaction between Flashbang and Whiplash here btw - since in other circumstances, Flashbang would be going after her as a rogue Esper)
+	The agreed plan is this: Troll will attack a Skull warehouse full of drugs; Goblin will infiltrate the police hangar and blow up their choppers to blind them; Whiplash will infiltrate the police station and give Shan/Jinx a backdoor; Flashbang and J will go after a Paladin Agent site; Amy/"Robot" will handle street patrols; She-Wolf will do a sweep of the docks to damage any active trafficking operations; while Connor, Sparky, and Ivan go and interrogate the DCC. Meanwhile, civvies like Naismith, Casale, and the Syndicate are ordered to go to ground and find any intel they can manage
+	after this wild night, Dorsey uses it to declare martial law, locking down the city. Bea reluctantly agrees that charlie was right to tell her not to get involved, while Ward declares a general strike in resistance - and is thrown in jail for it
+	rest of chapter plays out as before
+	just before leaking the intel to Zack, Amy tells Connor that Chloe is worried about him. He agrees to meet her "where we first met" - they have a heartfelt reunion at the library. Connor explains he can't stay long, but he's okay - he says Trey's meeting his dad too. Chloe asks how he got out, and he nonchalantly says there was a mass supervillain breakout and he just followed along. He says soon, it'll all be sorted, and admits he's "helping the Werewolf" with the uprising, but can't say more
+	when explaining the escape to the girls, connor explains that it was all J's idea - after Connor beat up Pig Head, J supposedly saw potential in him (not technically a lie) and ordered him to help out during the escape
+	once all is said and done, vince turns himself back in, as although all the terrorism act charges have been dropped (as well as any charges from their escape), he's still a convict. he gets to meet Bea and Chloe here though, and has a bittersweet farewell with his kids
+	in the aftermath, Ivan explains he had the supervillains recruited - he's had an elite squad called the Redeemers formed; they are going to engage in operations out in the USSR; once they're proven to be trustworthy (as well as once they can get some more favours with MI5/Zero), they'll return to Drackhill as a reservist unit
+		Later, once Zero sanctions them officially in vol 3, the Redeemers begin helping out.
+			have She-Wolf, now recovering from post-Serum insanity, change her name to something more independent (name pending) - she still adores Connor, but not pathologically, recognising it'll never work
+
+	later on, have Connor and Amy drop by the prison to catch up. They explain that Amy's working as Stunlocke more long-term now, while Vince says that during the chaos, Pig Head ate Chapman.
 
 
 consider toning down the racism of the world - make sure it's present, but have the Optimates and the Skulls be more social-darwinist than neo-nazi; keep racism but less blatant
@@ -37,60 +138,16 @@ consider replacing connor's new costume with the wakeup-in-clocktower sequence -
 	this also means for connor and trey's first joint mission, he morphs up his own costume from imagination
 
 
-move the car toss from fetch to connor's escape
-	have it happen after he shapeshifts and passes out; the agents are scouring the city for him, and one finds him in the alleyway. he panics, and runs away with superhuman speed. a convoy of SUVs turn up, driving after him. one slams into him; they flip a few times before scraping to a halt as the other slams the brakes on. the agents hop out of their car to get visuals; and connor roars, red-eyed and morphed, and throws the suv at them. both explode.
 
-	during naismith's look at the body, nina mentions there've been a lot of weird reports from last night; a pair of SUVs containing armed gunmen seemingly crashed into each other in a way that doesn't make sense, and firefighters reported a burn victim grip their leader by the throat before running away faster than a car. naismith is skeptical, but says they'll keep an open mind
-	dorsey and the mayor pull strings to keep the crash and connor's neck lift out of the news, but they can't keep the beheading quiet, as its already been reported on. they cover the crash up as a normal crash, not disclosing the presence of firearms; and they cover up the burned warehouse as a drug lab, while blackmailing the fire station's counselors into gaslighting the fire crew into dismissing what they saw
-	note - a drone doesn't happen here. keep the one at fetch with sparky, but change the method of defeat from a car toss to something else
+during naismith's look at the body, nina mentions there've been a lot of weird reports from last night; a pair of SUVs containing armed gunmen seemingly crashed into each other in a way that doesn't make sense, and firefighters reported a burn victim grip their leader by the throat before running away faster than a car. naismith is skeptical, but says they'll keep an open mind
+dorsey and the mayor pull strings to keep the crash and connor's neck lift out of the news, but they can't keep the beheading quiet, as its already been reported on. they cover the crash up as a normal crash, not disclosing the presence of firearms; and they cover up the burned warehouse as a drug lab, while blackmailing the fire station's counselors into gaslighting the fire crew into dismissing what they saw
+note - a drone doesn't happen here. keep the one at fetch with sparky, but change the method of defeat from a car toss to something else
 
 
 a scene sometime between warehouse frenzy and whiplash officially joining the team, where connor is badly wounded and she takes him to her hideout - Belson clock tower. they talk a little about her life, and he asks her to join the team fully; says they'll make sure no one else has to go through what they went through
 
 
-big change - remove vivienne, have Chloe's family be a branch of the royal family.
-	Family tree: (X = dead; I = illegitimate, or otherwise excluded from sucession (applies to descendents too))
-		Queen Victoria (X)
-			King John II (X)
-				Queen Mary III (X)
-					King Percival (X)
-						King Michael
-							James, Prince of Wales
-								Princess Iona
-								Prince Pierre
-								Princess Henrietta
-							Prince Lucian, Duke of Sussex
-								Princess Maria
-								Prince Karl
-						Prince Archibald, Duke of Ulster
-							Princess Carina
-							Princess Janet
-						Serena, Princess Royal
-							Prince Malcolm
-							Prince Quentin
-							Princess Alicia
-						Princess Juliet
-							Prince Franklin
-					Maud, Princess Royal (X)
-						Lorraine Fitzpatrick
-						Benjamin Fitzpatrick
-						George Fitzpatrick
-						Clementine Fitzpatrick						
-					Princess Adelaide (X)
-						Oliver Derrington
-							William Derrington
-								Victor Derrington
-								Chloe Derrington
-						Anita Derrington (I) (X)
-							Patrick Jefferson
-								Beatrice Jefferson-Blake
-								Theresa Jefferson-Blake
-
-
-
 have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
-
-add a scene in chapter 3 where Oxford chews the commandant out
 
 
 at some point after sparky's rescue, have naismith interview the priest
@@ -110,7 +167,9 @@ rosenbaum plotline:
 	Connor agrees to look into the case, talking to one of the victims and taking the info to Ivan. Together, they pin the case down to an organ trafficking lab in the sewers.
 		When working with Rosenbaum, have Connor ask questions of one of her patients, but he says he won't say anything, that they'll kill him if he talks. Rosenbaum says there is one patient they could try - she introduces him to one whose so badly malformed they're gonna die. Connor speaks with this one, but she refuses to talk to him as he's too suspicious. He gets Rosenbaum to leave the room, saying he's gonna do "something reckless", and takes off his mask, showing his human face. She (the patient) reveals that the lab that experimented on them is in the sewers somewhere; they abduct people who won't be looked for (homeless, runaways, drug addicts, the mentally ill, undocumented migrants, etc) and grow organs inside them that then get shipped out. She also mentions that once they are no longer of use (due to becoming too unwell from the procedures) they are dumped in the river to die; some wash up and are brought to hospital like her and the few other survivors; most are found as dead bodies. A lot of those taken are homeless residents of the Underhill, the homeless community of Drackhill's vast underground network
 	brief cutaway where Sparky asks Connor if they can get Ivan to help; smash cut to a pedo priest on the phone with a "Mr. Hughes," when a knock at the door. He answers it on the chain - Ivan snaps it open, grabs his face, pulls it through and squeezes the door shut, choking the life out of him while he quotes Ezekiel 25:17 at him in Russian ("Ya budu besposhchaden..." he scowled, "i nakazhu ikh v gneve." "Gagh... gugh... pah... please..." "I kogda ya sovershu vozmezdie... oni uznayut, chto ya Gospod'." *SNAP!*). He steps in, looks at the phone's contacts, and strokes his beard worriedly. Smash cut back to drackhill, and Connor says "He's busy doing wetwork - we're on our own."
-	While in the sewers, Connor and Sparky use their Sonar powers and accidentally attract and are swarmed by a pack of grotesque bat-fish creatures. They fight, but Connor realises their sonar is upsetting them, so they turn it off (hesitantly, as they're blind without it) and the creatures become docile. Connor touches one and accidentally mind merges, revealing they have a minor psychic link, including a mental map of the tunnels that Connor uses with the pigeon sense to find the labs
+	While in the sewers, Connor and Sparky use their Sonar powers and accidentally attract and are swarmed by a pack of grotesque bat-fish.
+		Bat-fish are shaped like large eels, with lamprey mouths and bat wings that double as fins while swimming
+	They fight, but Connor realises their sonar is upsetting them, so they turn it off (hesitantly, as they're blind without it) and the creatures become docile. Connor touches one and accidentally mind merges, revealing they have a minor psychic link, including a mental map of the tunnels that Connor uses with the pigeon sense to find the labs
 	he and sparky press forward, assault the lab, kill the traffickers, and rescue the victims.
 		Have a Giant/Jotunn appear here; Connor and Sparky are completely blindsided, but when connor is at the Giant's mercy, it growls "Any last words, traitor?" Connor's eyes light up and he grins "Behind you" and a swarm of batfish attack. The giant is distracted, allowing Connor to disembowel it and then behead it. The Batfish start eating it - Connor is grossed out while Sparky thinks it's normal, and they press forward.
 		They find a pit where the victims are being held. They're terrified of him, but he manages to calm them and help lift them out of the pit. he then leads them to a maintenance shaft
@@ -169,7 +228,7 @@ extra bases!
 	have Belson Clock Tower be a base for Whiplash; later, Harpy bunks with her
 	Have Mercy Isle's old monastery and lighthouse become a base for Mordred when the order shows up; it covers the Brynmore Isles, as well as support for Angleport and Rexton
 	Have a safehouse in Dunmere Dam; also covers Wickermast, Danwich, and Blackmarsh
-	Have a cave in Wyrmrock to use as a perch; have it behind a waterfall
+	Have a cave in Wyrmrock to use as a perch; have it behind a waterfall; it's a winding cave system that's perfect for storage
 	An office in Rydon Tower, Caldermouth; providing cover for both it and Torbrook
 
 
@@ -202,157 +261,40 @@ volume 2 big changes:
 		(also, replace the cartoonish head-crush with the more horrific eye-gouge-then-rip-apart)
 
 
+villains of the week - some B-plot ideas to be used on sparser episodes:
+	a young person reaches out saying their father, a dockworker, was found dead from an overdose; they suspect foul play. have Bea be interning at a solicitors that takes the case; the child explains that the father had suspicions about his boss smuggling drugs. connor hits up Russo who says it's not his man; connor goes to confront him, but is ambushed by Super-Skulls (this is the beginning of the Skull reveal)
+	a sniper is active in the city, taking out Grins. Ivan takes point on the investigation, and it evolves into a sniper duel
+	a master of venoms, who uses neurotoxins to take out connor, forcing the weaker heroes to take point)
+	Flashbang - a cyborg assassin who can perform flashbang attacks from his body.
+		He's hired to take out Connor - he's typically hired to take on rogue Espers and other superhumans.
+		Natch, he's able to badly stun Connor, and he throws a shock collar on him - he then sets it to full, and throws him into an SUV, intent on bringing Connor back to Paladin
+		However, before he can leave, Naismith arrives, and opens fire. Flashbang hits back, but a stray bullet destroys the collar's switch. Connor goes frenzy, and beats Flashbang within an inch of his life, before leaving him for Naismith - explaining he wants to know what Flashbang knows
+		Flashbang is thrown in the VPU of HMP Wickermast, keeping his silence. Later, during the second prison break, he helps the gang escape
+	The Changeling - a nondescript, androgynous humanoid who can change appearance at will, impersonating others almost flawlessly. They must be in contact range for this, as they need to use their psionics (which are tactile in nature) to get a copy of the target's personality (this also lets them replicate things like fingerprints etc)
+	Stinger - a mutant assassin who can fire venomed quills from their body potent enough to even take other superhumans down
+	Agent J - a mutant hitman with minor super-strength/toughness, as well as near-unparalleled martial arts prowess
+		After J is thrown in VPU, he aids in the prison escape
+	The Troll - A hulking, dimwitted humanoid mutant, with dark blue skin. Prone to violent temper tantrums
+	The Goblin - a diminutive, crafty greenskin. Piggybacks on Troll and is the brains of their duo
+	Somniac - a psychic with the power to make people sleepwalk and control them in this state, as well as make them fall asleep through eye contact
+	Felix - a master contortionist and escape artist
+	Serial killers:
+		A madman who kidnaps people and tortures them to death with power tools (have TO-39/the cops take this case to make it more perilous)
+		A taxidermist and apprentice of Vacher
+		an "angel of death" shipman-style character; have Judi involved heavily in this case
+		A crazy priest who burns people alive
+		Mr. Clean - a crime scene cleaner who also "handles" witnesses
+		A crazed vet who goes on a bombing and shooting spree
+		A snuff film maker
+		A former pig slaughterer who cracked and turned to cannibalism - he's been given plastic surgery from Vacher to look like a pig, and uses a serum variant to create Super-Swine attack pigs
+			he's called "Pighead", but the heroes categorically refuse to call him that - nicknames like "notorious P.I.G.," "Luke Skyporker," "Amy Swinehouse," "Albert Einswine," "Snoop Hog," "Stephen Porking," "Harry Trotter," "Gordan Hamsey," "Boarbra Streisand," "Piggy Stardust," "Ham Solo," "Kevin Bacon--wait, that one's taken," "Meryl Sheep---fuck, wrong farm," "Hamlet," "The Baconator," "Oink Floyd," "Napoleon Boarnaparte," "Hamela Anderson," "Piggy Azalea," "Hamuel L. Jackson," "Pigolas Cage," etc
+			At one point, Connor's getting a briefing, and Ivan says "Pig Head, real name Christopher Percival Bacon."
+			"Chris P. Bacon? Are you fucking kidding me?"
+			"Yes, of course I am. His real name's Laszlo Aubrey." (reference to Pyg (and laszlo from ))
+			When Connor takes Pig Head down, he's about to finish him off, but Naismith & co. arrive and open fire, so Connor shrugs "if you don't want pork skewer, that's your problem" and bolts. pig head is taken to hospital under sedation, and then moved to the VPU
+		A rich psycho who hunts tramps for sport
+		a psychologist who gets off on convincing their patients to commit suicide; maybe have this the one who gaslit the firemen
 
-parts to put in:
-
-
-
-the bus fight:
-
-______________________________
-SCENE
-	That night, in a darkly lit office, sat the Commandant. He smoked a cigar, and looked at his computer, his silver-grey eyes illuminated by the screen.
-	A Super-Agent entered.
-	"Report." the Commandant nodded.
-	"The operations in Drackhill have come to a standstill, Commandant." the Agent replied. "The traitor... He has been a constant thorn in our side."
-	The Commandant leant forward. "I don't want excuses, Agent."
-	"No, sir, Commandant, sir." the Agent stammered nervously. Super-Agents were conditioned to not fear death - which meant the Commandant could offer something worse.
-	"We need to distract him. Make him focus on the closer-to-home." the Commandant began. "Tell Morland to make preparations. And..." he paused, then smirked. "Send a squad after his friends. According to our surveillance, Connor will be out tonight, patrolling the city - and one of his friends has just purchased bus tickets. Have our Agents come for them. Do not kill them. But wound them. Bait him out. Make him learn that when he goes and plays the hero, the people he loves get hurt."
-	The Agent tilted his head. "You want us to leave them alive, sir?"
-	"Yes." the Commandant nodded. "Do not, under any circumstances, kill them. Otherwise, I can guarantee he'll be knocking on our door with bright-red eyes, and it's too soon in the plan for that to happen. By the same token, do not reveal his identity."
-	The Agent nodded. "You can count on me, Commandant, sir."
-
-	The gang, minus Connor, were sat on a bus headed into town.
-	"Sooo... tell us how it went!" Bea asked Chloe excitedly.
-	"Hah, I mean, I think it went well..." she replied, blushing.
-	Trey laughed heartily. "You totally kissed, didn't you?!"
-	Chloe smirked, and blushed *hard.* Upon seeing this, the group roared in cheers.
-	"Go on! Get in!" Amy beamed.
-	"Haha, I mean... Thank you guys. For everything." Chloe smiled shyly.
-	Bea hugged her. "I'm happy for you, Chlo."
-	"Go on, tell us - did he embarrass himself?" Trey grinned.
-	"Well, he didn't shart, so there's that." Chloe quipped, triggering roars of laughter.
-	"It's a shame he's busy tonight - we could see him blushing too." Bea grinned cheekily.
-	"Ahh, work's work, isn't it?" Trey shrugged. "Poor little mite - stuck twiddling his thumbs while we all live it large."
-
-	Across town was Connor, in a warehouse, beating a Super-Agent - a standard Friday night.
-	"WHERE IS THE SERUM?!" he roared.
-	"Fuck... you..." the Agent wheezed, spitting out blood. Connor growled, morphed a blade from his arm, and impaled the Agent. With that, he felt his phone ringing - his burner. He answered it.
-	"Privet, tovarishch!" he began, smirking. "Can't find the serum - must have been a diversion. How are you and Sparky?"
-	"You're right about that, bratan." Ivan replied, his voice betraying his concern. "A squad of Super-Agents was just spotted heading from a garage in Belson towards Redbridge. Sparky's... well, he's a little tied up at the moment."
-	As Ivan said this, he looked over. Sparky bit a head off, and howled. "I can do this all night!"
-	"You'd best follow them and see what they're up to." Ivan chuckled.
-	"On it." Connor replied, like a soldier on mission.
-
-	Back in Redbridge, the bus suddenly came to a stop.
-	"The hell?" Trey tilted his head.
-	"Roadworks, maybe?" Amy suggested. That idea was dashed by the sound of a gunshot.
-	"FUCK!" the group practically yelped in unison. The bus wheels deflated, and screams tore into the air.
-	A trio of Super-Agents stormed in. They trained their guns on the gang, and grinned maliciously.
-	"Listen up, all of you." the leader barked. "You're coming with us."
-	The passengers complied, walking timidly out from the bus.
-	"Come on..." Amy whispered, too quiet for anyone else to hear. "Save us..."
-	With that, the leader ordered them all to their knees.
-	"Now!" he began. "I'm not gonna lie to you. You're all in some deep, deep trouble."
-	"Let us go!" Trey shouted. An Agent grabbed him by the throat.
-	"Not your time to speak, monkey-boy." he snarled. Trey looked him in the eye defiantly.
-	"Down!" the leader snapped. The Agent huffed, and released his grip.
-	"Now then..." he continued. "You've all heard of this 'Werewolf' fella?"
-	Silence.
-	"No? Maybe you will by the night's end. See, you should all rejoice - even the mulattos, cripples, and freaks among you." he said, faux-magnanimously gesturing to the gang in particular - hardly the picture of Aryan purity - and grinned. "You have all been spared the hangman's noose, by our great and gracious Commandant. Instead, you will all suffer... a beating."
-	He chuckled. "Start with him."
-	Immediately, the Agents pounced on Trey, and savagely beat him. Ever defiant, he fought back, digging his thumbs into one Agent's eye. The Agent replied by slamming Trey's head against the ground, concussing him.
-	"Trey! No!" the others begged.
-	Amy stood, and tried to grab one. "Leave him alone, you're killing him!"
-	The Agent replied by throwing her in the air. She landed on her back, and spluttered.
-	"Her next! The half-caste wench." the leader snarled, pointing at Bea. She closed her eyes. Chloe jumped in front of her.
-	"LEAVE US ALONE!" she roared. The Agents laughed.
-
-	With that, a bestial snarling noise filled the air.
-	"*+GET. AWAY. NOW.+*" Connor barked. His visor glowed a bright blood-red, and his costume morphed claws and spikes throughout his armour. His nickname had always been the Werewolf - but now, he looked the part, too.
-	"Finally." the leader grinned. "Welcome back, traitor!"
-	Connor stood still, and then he was a blur. He pounced on the leader, and delivered a haymaker that send him skidding on the tarmac.
-	The other agents holstered their guns, and drew machetes instead - ones so sharp, they rang through the air just by being held.
-	Connor and the Agents engaged in a brutal melee. The hostages scattered - some hopped the road barriers into the woodland nearby, others sprinted into the carriageway and futilely tried to flag down help.
-	Chloe and Bea helped Amy and Trey to their feet, rushing them to cover behind the bus. Amy rose, and couldn't help but peek over the window - wanting to see her brother in action.
-	Meanwhile, Connor's fight grew in viciousness.
-	An Agent's blade slashed his torso, and hot blood poured from the wound. Connor didn't even flinch - he grinned. He delivered a knee to the Agent's gut, before headbutting him with the force of a speeding truck. The Agent stumbled back, and released his grip on the blade. Connor grabbed it, and in one slash, took off the Agent's head.
-	The second Agent siezed the moment. He charged forward while Connor recovered, and drove his blade through his abdomen.
-	Blood spat out from Connor's mouth. He morphed his mask so he could let it pour out rather than choke him.
-	"NO!" Amy screamed, trying her utmost not to say "Connor!"
-	But Connor wasn't done - far from it. His visor flashed red again - deeper, more savagely. He raised his arms out sideways, clenched his fists, and slammed them together on either side of the Agent's head.
-	The sound was truly sickening - a mix of explosive force and bloody squelching. The Agent's head popped like a grape. His hands rose, trying in vain to locate his skull. Connor dug his hands into the now-open neck-stump, and pulled. In short order, the Agent's body was bisected - a gruesome tear running from neck to groin.
-	The leader grimaced, realising he'd lost. He stood, and held his arms open.
-	"Do your worst, then, traitor!" he dared.
-	Connor sauntered over, and nonchalantly snapped the leader's neck - denying him the satisfaction of a grisly death.
-	With that, Connor panted, absolutely soaked in blood. He gripped the machete's handle, and pulled, spraying gore all over the bus. He tore it from his torso, and dropped it on the ground.
-
-	Finally, his friends came out from behind the bus. They went pale upon seeing the carnage.
-	"Shit." Connor thought.
-	"*Are... Are you all alright?*" he asked, putting on a stock American accent.
-	"I... You... You're the Werewolf..." Chloe began, shocked.
-	Amy looked up, and gave him a knowing nod.
-	"Who are you?" Trey asked, panting.
-	"I'm no one." Connor shook his head, still hiding his voice. "You're all safe now."
-	He turned to leave.
-	"Wait!" Chloe shouted. She approached Connor slowly, timidly, scared... but she could tell he wasn't there to hurt them.
-	"You saved us... why?" she asked.
-	Connor paused. "No. I killed these monsters. That's what I do. I'm... no-one's saviour."
-	"You're wrong." Chloe replied, finding her voice. "You're our saviour. I don't know who you are, but I just want to say... thank you."
-	Connor nodded, and leapt into the air, before running off.
-	"What... What the hell was all that?!" Trey began, panting.
-	"Fuck if I know..." Amy replied. "Is everyone okay?"
-	"Yeah... I'm alright." Bea caught her breath.
-	"What was he doing here anyway?" Trey wondered, still in shock.
-	"Who cares? If he hadn't shown up, we'd be dead. Maybe he's just... passing through?" Amy replied, covering.
-	"I heard stories... rumours about that... thing. He... oh god, look at the bodies." Trey panted, his face pale.
-	"Well... He did save us. Sure, it's grim, but... he saved our lives. And you saw how they fought - they were no more human than him." Bea countered.
-	Chloe stood there, deep in thought.
-
-	A half-hour passed. Connor used the time to clean himself of blood, and morph new clothes to hide his injuries.
-	Sparky and Ivan arrived at his house.
-	"Did you have a big fight?" Sparky asked innocently, cleaning his jaws of blood.
-	"Hah... big one, buddy." Connor chuckled. He looked up at Ivan.
-	"That was no random act of violence, was it?" he asked.
-	Ivan shook his head grimly.
-	"What happend?" Sparky tilted his head.
-	Connor took a deep breath.
-	"Paladin went after our friends. They stopped a bus, shot the driver, and beat up Trey and Amy."
-	"Oh no! We have to go there now!" Sparky cried.
-	"It's okay, buddy..." Connor sighed. "I killed the Agents. Still... we need to get there. I'll tell them I saw the attack on the news, and realised it was their bus."
-	Ivan handed Connor a USB stick.
-	"Found this on one of them. Can you take a look when you get a chance?" he asked.
-	"Of course." Connor nodded.
-	"Good man. Do svidaniya." Ivan smiled.
-
-	Naismith stood outside the bus, the area cordoned off. FIs took photos of the mangled bodies.
-	"So, to be clear..." he began, addressing the gang. "These assailants came aboard, attacked you--" he pointed at Trey and Amy, "And then they were killed by the Werewolf?"
-	"That's correct, officer." Bea nodded confidently. Naismith stroked his chin.
-	"Miss Derrington - do you think they were targeting you?" he asked.
-	Chloe thought for a moment. "I don't think so. They never really threatened me specifically."
-	"Still... they're the same kind of men we--" he caught himself. "Sorry, Miss Derrington - can I have a word in private?"
-	Chloe nodded, and joined him away from the group.
-	"These men..." he whispered. "They were superhumans - just like the ones your lab autopsies. Are you 100% *positive* they weren't here to harm you?"
-	Chloe shrugged. "I'm a scientist, sir. I'm *never* 100% positive. But I don't think they were after me. The, um... the leader said 'Finally' when the Werewolf arrived - so I'm guessing we were just bait. Unlucky, I suppose."
-	Naismith nodded. "Okay. Well, we'll be sending these ones to Morland too - I'm not too sure on the legality of having you autopsy them, but I'm sure your Legal department can hash that out."
-	Chloe smiled faintly. Naismith headed to the group.
-	"Okay everyone, you're free to go." he said. They thanked him, and left the cordon. There, Connor was arguing with a PC.
-	"Please, my friends are in there!" he begged.
-	"Sir, I'm afraid no-one from the public can enter until the officers have finished." the PC replied.
-	Chloe rushed over, and embraced him. Sparky jumped up, and wrapped his paws around her. The rest of the group came over, and formed a mass-hug.
-	As the group walked on, Trey went a little slower than the rest, deep in thought.
-	Then, a terrible thought crossed his mind.
-	"No..." he whispered to himself. "He can't be..."
-
-	Back in the Commandant's office, a terrified subordinate entered.
-	"Sir, the squad... they all died." he began, gulping.
-	"Good." the Commandant leant forward. "If they died, they were weak. There is no room in the New Order for weaklings."
-	"Yes, sir, Commandant, sir." the subordinate stuttered. "This also confirms some of our earlier suspicions."
-	"Agreed." the Commandant nodded, his voice like gravel. "He took the bait far too quickly. For him to know immediately that a squad was sent out... It's the KGB."
-	He paused, looking down at a dossier with pictures of Connor's friends. He chuckled slightly.
-	"Let him think he's winning. Let him think he's free. Soon enough, he'll come crawling back. It is the nature of man to seek power."
-
-Werewolf Saviour
 
 
 
@@ -391,6 +333,8 @@ Volume 3 plans:
 	Trey and Amy join the pack fully at the same time; connor shows them how to glide, and they make it to the top of rydon tower. he says they're ready, and sends them on a mission together; the same goon who inspired amy to take the name stunlocke gets taken down by them; while Naismith drags him away "You can't let psychos like her go on a rampage! We still have rights! And him, the poncey fucker over there doing backflips all night! Remember the good old days, when it was just normal?!"
 	Amy smirks. "Rampage." she points to herself. "Backflip."
 	Trey tilts his head, before grinning widely. "that works."
+
+	while searching for zhao, they dig up a 731 war criminal who is living in a japanese retirement home; the gang go to investigate; Amy and Trey go to the nursing home while Connor goes looking into further potential 731 connections (ends up getting in trouble with the yakuza as a pulpy bplot)
 
 	bea becomes stunlocke while the others are out on patrol; riverside gets attacked by Gambit who are being sent by Eidolon tracing a hack on their servers to Shannon (unaware it's the Werewolf den) - Bea and shannon are there; while held hostage bea complains she needs the toilet; going on about her supposed IBS until one guard cracks and takes her to the storeroom where the toilet is; he uncuffs her, she goes in, and covertly puts on the stunlocke suit, then hits him with the Pulsar; the HUD tells her the battery is low and she's on power saver; so she deactivates the electroshock features and kicks the gambit asses
 
@@ -647,6 +591,46 @@ optimates lore: different mook types:
 
 
 Bevan and Connor don't work for MI5 - they work for MI0 - rather, Military Intelligence Directorate Section Nil; or "Section Zero"
+
+
+
+
+
+
+
+
+
+
+"Vigilant" and "Wildemann" arcs
+	At some point after their falling out (likely when Connor discovers the Lobotomites (name pending)), Neumann turns Connor into one too. As Connor begs, saying he doesn't want this, Neumann says "I'm sorry, my friend... but the future of the human race is at stake. What is one man's desire to that?" and does it, saying "You'll thank me later." to himself. When Connor awakens, he asks how he feels - "Like a new man." Lobotomite!Connor says. He returns to Riverside (have this happen during the South Africa War) and they are enraged with Neumann; but Connor assures them that he's okay - in fact, even better.
+	This causes trouble for his relationships; for example, he admits that though, intellectually, he knows he loves Chloe, he doesn't *feel* it like he used to. Overall, his compassion is still his driving motive, but dulled by the nanites.
+	While in SAF, Bedlam (in jail after the Bedlam Incident) (btw, have Bedlam be a former nanoscientist who developed the nanites that made the Lobotomite serum as well as the uplifter for Milo; and have his Bedlam Serum be the inverse; more emotion and no logic) suggests his serum be used on Connor to cure him.
+	chloe asks connor to let her restore his emotions, and he says "I do not want that to be done" "why not? You didn't want to be like this, either." "I... my judgement was clouded by my emotions."
+	Chloe hesitantly does it - she has Trey and Amy hold him down while she injects him; again he begs her not to do it.
+	Unfortunately, it doesn't work like she thought - Bedlam falsified the data. Instead, it turns him into a Bedlamite, who goes on a Frenzy and escapes the facility.
+	They try to hunt him down, but cannot find him. Until one day, they attack a SAF base only to find it smoldering, with one wounded survivor whispering "Die Wildemann, die Wildemann..."
+	Eventually they manage to track him down - turns out, the nanites are fighting each other. The Lobotomites take over in the night, while the Bedlamites work in the day - his circadian rythmn has adapted to them, with his logical brain sleeping at day, and his emotional brain sleeping at night.
+	To be fair, this whole thing means Connor is tearing an absolute swathe through the SAF forces, as he can infiltrate them at night, while slaughtering in the day; never tiring. Wildemann, being so much more tied to the limbic system and the overall Id, is a far more dangerous combatant; while Vigilant, using connor's octopus-like neurons, repurposes his PNS to reinforce the CNS, massively boosting his cognition. being hyperlogical and eidetic, Vigilant can execute plans without a single hitch.
+	But it's absolute hell on him, as he's torn between two mental states that cannot reconcile. Worse, he gets a small glimpse of his old self at dawn and dusk, midway through transition - enough to know that something is deeply wrong, but unable to do anything about it
+	Finally however, he comes across a Namibian village that's been depopulated. Enraged, both personas are able to agree on one thing - they must be stopped. However, this quickly descends into an argument - Vigilant seeks to covertly assassinate the top brass and then stage a coup to minimises collateral damage; Wildemann wants to drive them out of Namibia by force, even if scattering them might mean more chaos in the long run. The argument is so bad that neither side can even take over properly - the circadian rythmn stops working, and Connor is paralysed with indecision - before he strikes himself in the head hard enough to shake both personas. The new plan is made - Wildemann will control the body, wreaking havoc; while Vigilant will control the head, directing the body and keeping tabs on the goings-on. They strike the SAF HQ, and destroy it.
+	Finally reconciled, both personas are able to agree that balance is required - so they have Chloe remove both sets of nanites. However, there is a lingering effect - Connor is able to consciously tap into the personas when needed. In practical terms, this means he can trigger Frenzy at will, while also being able to meditate and tap into the hyperlogical thinking needed to solve complex problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1100,6 +1084,30 @@ add a bit more humour; jokes include:
 		Connor quips "And to be fair, we're normally right"
 		then, another character shows up also in visigothic clothes, before going "ah - oops"
 	chloe and bea show up wearing the same outfit, and are bemused. they then wonder if boys have the same reaction, before an imagine spot of trey and connor showing up in the same outfit, before pointing and going "oi oiiiiiiiiii!"
+	connor and trey hanging out, and trey asking if their powers have any use in the bedroom. connor is grossed out, but shrugs and suggests shapeshifting can be used for exotic equipment.
+		"other than that, the main way our powers would intersect is us having to be very careful not to rip our partner apart"
+		"oh, shit. can that happen?"
+		"I... don't think so, no. but... probably best that they go on top, just in case. oh, and we're super-flexible. that's gotta count for *something...*"
+		"*gasp* we can suck our own dicks!"
+		"ew"
+		"have you tried?"
+		"no!"
+		beat.
+		connor looks around, then bends.
+		"oh shit - yeah, I could reach that"
+		"could lick your balls, too."
+		"EW! Why are you making it weird?"
+		"WHAT THE FUCK ARE YOU DOING?!"
+		they look up, and see Amy stood there in shock.
+		"Hey Amy!" trey grins. "turns out, when you get your powers, you can lick your own--"
+		*shk!*
+		"OW!"
+		Connor reveals his crossbow.
+		"Toes! I was gonna say toes!"
+		"Were you, now?" Amy folds her arms.
+		"...there's at least one universe out there where I was gonna say toes."
+	romeo and juliet joke from connor - chloe notes they're watching that play next
+	if the escapeess meet up from jail, have connor jest "welcome to the Drackhill Resistance Movement" - Ivan chimes in "As People's Chairman for the All-Valley Communist Party, allow me to set the stage"
 
 Have more downtime with other characters post-reveals.
 	Overall, have the gang see more of Connor's powers in non-fight settings. Have him lift stuff for them, spot things in the faraway, etc
@@ -1196,6 +1204,7 @@ Have a good long think about the Inspos of the story.
 		Venom (shapeshifting bioweapon)
 		Red Hood (red and black colour scheme, troubled childhood, willingness to kill)
 		Wolverine (traumatic past, willingness to kill, bioweapon)
+		Daredevil (super-senses, angst and guilt, endurance despite suffering)
 		Spider-Man  (traumatic past, quippiness, agility)
 
 
@@ -1257,7 +1266,7 @@ All volumes:
 			comic focused on Bea's run as Stunlocke II. Primarily focused on her, Amy, Chloe, and Shannon (think of it as a girl squad comic). Enemies are mainly Eidolon, Enisgn-Apex, SIBC, and other megacorps.
 
 		Unbroken
-			The Unbroken (Eliza/Harpy, Johnny/Twitch, Roach, Chemistress) go through therapy while trying to hunt down Vacher
+			The Unbroken (Eliza/Harpy, Johnny/Twitch, Roach, Chemistress) go through therapy while trying to hunt down Vacher. The "Showstoppers" (the old circus gang, made of Goblin, Troll, Nitwit, Sulita, Tangle, Gemini, Magnifico, Spookee) also join up with the Unbroken; a line like "Us freaks gotta stick together, right?"
 
 		ODIN's wolves
 			Sparky, Whiplash, Chloe, and Whisper work together to destroy ODIN once and for all. Arc is seeded when Whisper reveals her betrayal in time for the squad to mount a counterattack. The gang are angry at her, but eventually agree to let her redeem herself, and the all-Esper team mounts an attack on ODIN
@@ -1270,6 +1279,8 @@ All volumes:
 
 		Riverside Youth
 			Focused on the young heroes (Autokine, Envoy, Sentinel, later Mal/Changeling, and Bug Boy)
+				some notes: add a team pet called "Spike", a 'Korlox'; an alien species of reptillian rhinobear with venomous spines. Spike isn't sapient, but is very intelligent for his species, with Thrax saying that typical Korloxes "have only three brain cells - one for eating, one for killing, and one for copulation"
+
 	Volume 4: Time of Monsters
 		6 months after the devastating loss of Connor, the Riverside Squad reunites to take the fight against Oxford and the Optimates. But when a new, freakish monster appears on their shores, everything changes
 	Volume 5: War of the Beast
@@ -1321,27 +1332,80 @@ rogue's gallery notes:
 
 	Upon breaking free from jail, he renames himself Lord Verminous, teaming up with Bug Boy. Connor quips that at least he didn't call himself Pest Controller
 
-	She-Wolf - a woman Connor saves from the sewers who was given serum, she develops an insane obsession with him
-		consider having it so he gives her a transfusion instead
+
+	villain for just before She-Wolf - Snakebite
+		a few ideas:
+			have connor ironically mention to amy that he wishes he didn't have his powers sometimes - he wishes he didn't have to have the responsibility to use them
+			why is Sparky indisposed? simple! have snakebite shoot him too (they're together on patrol) and capture him while connor's unconscious. think about his motive for taking sparky but not connor 
+				ivan sees them being loaded into separate vans, and reluctantly chooses to save connor instead of sparky. that way, there's a moment of tension where connor rages at ivan, saying he should've saved sparky instead, but ivan points out he can't hear sparky, so it makes more sense to save connor and they then work together to rescue sparky, as oppossed to saving sparky and then struggling to coordinate a rescue of connor
+			consider having connor, while interrogating snakebite on sparkys whereabouts (or on his employers, if sparky is held in the rooftop/tower block snakebite is beaten in), do a forced mind merge. absolutely play up the violation of it, with snakebite bleeding from the nose and begging connor to get out of his head.
+			ivan and sparky both awaken in connors flat. connor rushes to sparkys side, who is upset at being captured again, explaining he was conscious enough to know he was in a cage. connor says no matter what, he'll always come and find him
+
+		have clara's rescue happen at the beginning
+		include the "i wanna know what your fucking deal is" gag when out with the gang at the horse - after trey picks up a twink with a "break the ice" pickup line, connor remarks he had no idea pickup lines were a thing and jokes the above
+		naismith interrogates the boyf as below the next afternoon; connor shows up and finds out shes gone
+		Snakebite is a contract killer - he's Agent J and Stinger rolled into one. First encountered when Connor gets shot on patrol - he prepares for a fight as the bullet only caused minor damage, but then collapses, desperately gasping over the radio "ivan... ivan i need help!"
+		cut to ivan arriving at the scene, with Connor naked and still. he calls dr rosenbaum for medical advice as he gets him to the flat. she says it sounds like a neurotoxin, and tells him to dig out the bullet and test it, while also helping him breathe via chest compressions
+		he wakes up confused in ivan's flat. he's wearing a dressing gown - ivan explains he was naked when he found him. he explain that the bullet was laced with a neuromuscular blocking agent (NMBA), similar to curare or cobra venom. connor points out that he should be immune; ivan retorts that there's enough toxin in his system to take out a herd of elephants. he tries shapeshifting, but it doesn't work. he feels weak too - almost human again. ivan explains what happened, and that it's not safe for him to go back out - connor retorts that a crazy sniper is on the loose - "you know, aside from you" he quips - and takes the crusader suit for a spin; saying "commissioning that suit was fucking prescient"
+		ivan refuses to let him go out alone - so they wait until nightfall, and go out together. first, they track Snakebite down to a field site full of Super-Agents - connor and ivan kill them but snakebite escapes, and the suit runs out of power. they scale to a rooftop, connor takes the suit off (he's wearing his old urban combat costume) and they give chase (connor's strength has returned to super-agent levels)
+		they manage to follow Snakebite to a rooftop perch - but he shoots at them, and they barely manage to evade. Ivan tries to get a good shot, but can't. he asks connor how long it took for the toxin to take effect; connor says about 30 seconds, ivan grins and nods, before jumping out of cover
+		snakebite's first shot hits ivan in the leg. ivan ignores it and snipes the stinger out of snakebite's hand (he hits the hand, not the gun btw) - he aims for a killshot, but collapses. connor verifies hes still breathing, and he sputters for connor to take his grappling hook and finish this
+		connor makes it to the rooftop, and fights him in hand to hand. eventually, connor subdues him, and has him at his mercy. rather than killing him, he grabs the stinger and shoots him in the gut. snakebite chokes, then finally goes paralytic. a group of skulls arrive, armed and dangerous - so connor knocks them out in a hardfought battle, throws snakebite into a lift, sends it downwards, and fights his way down the stairs. by the end, he's staggering and bleeding, but graps snakebite, throws him outside, and steals a skull's car, before driving off just before the cops show up. he brings snakebite to a&e (now recovered enough to shapeshift again) and tells judi he needs to be kept microdosed with NMBAs, to stop his super-agent powers from working. she asks about dosing schedules etc - he gives her one of his bullets and says "one of them made him like this - so base it off that, i guess"
+		ivan wakes up two days later - connor helps him up and debriefs him
+
+
+	She-Wolf - a woman Connor saves who was given serum, she develops an insane obsession with him
+		touching moment in this chapter for after amy learns the truth where she walks in on connor using his supersenses and he stares at her for a bit, before saying how seeing her so completely (the flakes of her skin, the fibres of her irises, the weaving of her clothes, to each strand of hair) reminds him how much he should appreciate her.
+		have her be a love martyr being nearly killed by her boyfriend; connor hears them and dives in through a window;
+			her wound comes from the boyf dragging her by the hair to the mirror and insulting her, before shoving her into it
+			connor shoves the boyf back. the man begs for mercy - connor, eyes aflame, goes "put your hands on me." when he refuses, he screams "PUT YOUR HAAAAAANDS ON MEEEE" and the man punches - connor replies with a smash to the gut and then the chin, breaking the man's jaw; snaps both forearms hard enough to get the bone sticking out. then, he sees she's bleeding out, so improvises a transfusion
+			the cops have been called, and try to shoot connor; he ducks out of the window
+			naismith interviews the boyf; he tries to spin it as connor attacked them both; naismith doesn't buy it for a second and turns off the guy's pain relief to nina's discomfort; the guy cracks, and naismith leaves it off.
+			in the car, nina chews him out; he asks if she's actually defending that scum; she says no, but that's not the point - as police officers, they're meant to do one thing only - enforce the law. vigilante justice isn't their job. naismith agrees what he did was unlawful, but not immoral - she points out that half the problem with police is that they get to make unilateral decisions on morality; after all, what's stopping him from deciding a random homeless person is deserving of that kind of treatment; he says he would never do that because that would be immoral - she says "exactly. it's all down to your own conscience. now i've not been a cop for long, but if there's one thing i've learned - its that people can do terrible things." he relents
+			later, he meets up with connor, who is asking about clara. he says she escaped; connor snaps and reveals that he gave her a transfusion. they argue, and naismith says he can't do this anymore. connor snaps harder, saying that the city is sick, and needs people like them to save it from itself. he asks what gives them the right to do the horrible things they do for the 'greater good' - why the ends justify the means. connor pauses, then says that it's not a right - it's a responsibility. they are aware of the horrors going on, so they have a duty to do all they can to stop it
 		she becomes obsessed, and steals a gun and commits a massacre of Skulls to impress him
 		Naismith investigates, with Dorsey blaming the Werewolf, but he's skeptical
 		later, connor ambushes him and explains it wasn't him
 		the next night, a terrified mook delivers a phone to johnny - it has a location and time for a meetup
-		connor goes, and meets the woman. while trying to talk her down as she goes on about their love, he says she needs help, and she snaps that he thinks she's crazy, before saying she knew there was another girl, and flashbangs him before escaping
+		connor goes, and meets the woman. while trying to talk her down as she goes on about their love, he says she needs help, and she snaps that he thinks she's crazy, worrying that her therapist has been talking to him. he tries to talk her down, but she snaps, saying "there's someone else isn't there? oh, always her!" and scowls that he's 'cheating' on her with 'the bitch [he] always save[s]", and runs away. connor gives chase, but she shoots out the tires of a lorry, causing a multicar pileup on a crosroads - he is forced to save people and let her escape
+			(he gets ivan and shannon to dig into her - finds out her therapist as below)
+				therapist is reluctant, but connor says what shes done and asks if she wants more on her conscience. she relents, and explains the backstory
+					clara was abused by her stepfather as a child, and when her mum found out, she killed him. raised bouncing from home to home, clara craves validation and affection. she has a pathological inability to self-actualise; instead latching onto a person and basing her entire identity around them. connor explains she's latched onto him after he beat up her ex (who the therapist was worried about); the therapist notes the name "she-wolf" means she's fully latched onto him. he asks how he can help her; she says she needs psychiatric help. connor notes that she can't be held safely in a psych ward - before lighting up in realisation
 		later that night, while connor is hunting for her, he has sparky covertly keeping an eye on chloe. however, he gets a call from amy - who's being held hostage by shewolf
 		connor shows up, and after a tense standoff, admits that amy's his sister, not his girlfriend
 		she heads to the roof. amy tells him to be careful, and he sighs
 		he meets her there, and they talk some more. she opens up a little about her ex-partner, and how she was diagnosed with Pathological Attachment Disorder. connor realises the true extent of her infatuation, and reluctantly hugs her. she squeezes him, before her eyes roll back, and he reveals that he's holding a syringe
-		over at ivan's place, he delivers her, and they check her over with dr rosenbaum and confirm she's comatose - connor jabbed her with a massive dose of ketamine. ivan has KGB staff provide round-the-clock medical care and sedation, until they can think of a permanent solution
+		over at ivan's place, he delivers her, and they check her over with dr rosenbaum and confirm she's comatose - connor jabbed her with ketamine and Snakebite toxin. Judi admits her to the trauma ward, prescribing NMBAs and antipsychotics, then having her admitted to a psychiatric ward. she explains they're gonna push hard for a plea of insanity; she's clearly a victim here
 
-		come volume 3 (after the Birds of Prey chapter), connor explains the situation to chloe, and asks for her help. they wake her up, but to their dismay she goes on a rampage and escapes. she comes back, kidnapping chloe and planning to kill her for getting between them. connor arrives, and she reveals a bomb in the room, planning to take them all out together. connor tanks the explosion, while amy subdues shewolf. now dealt with, they resedate her.
+		quotes for She-Wolf:
+			"Your blood runs through my heart... every moment, I feel closer to you"
 
-		later, after connor gets jabbed with the virus that weakens him enough to give him cancer, chloe develops a drug that weakens superagents to human levels (if given to a human, it wold cause severe atrophy and then death). they use this on shewolf, and then send her to a psych ward.
-		(this same study is what develops the retrovirus they use on the commandant)
+		she wolf real name; clara hart
 
-		(note on the retrovirus - connor jabs the commandant with it during a major battle. later, when connor's cancer starts getting really bad, they identify a number of black sites that the commandant could be recovering in, reasoning that he may have treatment that could save connor - while raiding these, connor gets captured)
+		(summary of events)
+			the hero, known as the vigilante "Werewolf", saved a civilian and gave her an emergency blood transfusion.
+			She already suffered from BPD, being in an abusive relationship beforehand (more like the traditional Harley model); the side-effects of having mutant blood in her system not only gave her mild powers, but also worsened her already difficult mental health.
+			She takes the name "She-Wolf", and initially goes on a killing spree to try and "impress" him (she's targeting a gang he also goes after, except he tries to be non-lethal where possible); she later manages to get in touch by leaving a burner phone with a crippled mook, who the hero finds and then calls the only contact.
+			she is nervous, almost like a teenager, and asks to meet him on a rooftop.
+			he does, and finds she's set up a romantic dinner for them; he asks who she is and she's confused, simply saying "i-i'm your girlfriend, silly!"; the hero is confused, and as she talks and explains her past, he realises she isn't mentally well - however when he tries to talk her down by saying "it's okay, I know it's not your fault - you're not well", she snaps hard, accusing him of thinking she's crazy, before "realising" (in scare quotes) that he must be "cheating" on her with someone else - she says "I know! It's that other little bitch you keep saving!" Then, she drops a flashbang, and vanishes
+			When the hero comes to, he panics that she's gone after his crush, Chloe - so he sends his sidekick to maintain covert surveillance of her while he digs into She-Wolf's backstrory - eventually digging up her old therapist
+			He ambushes her in her office, and demands access to her records etc - the therapist refuses on principle, but explains that what he's describing sounds an awful lot like erotomania
+			the hero then gets a call - from his sister, who he *also* regularly rescues, but obviously doesn't think of in a romantic light
+			She-Wolf, however, is unaware of his secret identity, so assumed it was his sister who he loved - she's holding her hostage
+			the hero turns up, and in order to talk her down, takes off his mask
+			she drops her weapon and walks towards him dreamily, saying he's "even more beautiful than [she] imagined" - the hero then lets her embrace him, only to inject her in the back - she passes out, and with the immediate threat over, keeps her sedated until he can find a cure for her powers (as with them, she's not safe to be placed in a psych ward or prison)
 
-		later, maybe during Unbroken, She-Wolf joins the team
+		once she is discharged, she takes the codename "Sovereign", resolving to stop chasing after someone she cannot be with, and instead being the kind of hero to the innocent that she fell in love with in the first place
+			the name idea comes from connor saying "[she is] sovereign of [her] own destiny"
+
+
+	later, after connor gets jabbed with the virus that weakens him enough to give him cancer, chloe develops a drug that weakens superagents to human levels (if given to a human, it wold cause severe atrophy and then death). they use this on shewolf, and then send her to a psych ward.
+	(this same study is what develops the retrovirus they use on the commandant)
+
+	(note on the retrovirus - connor jabs the commandant with it during a major battle. later, when connor's cancer starts getting really bad, they identify a number of black sites that the commandant could be recovering in, reasoning that he may have treatment that could save connor - while raiding these, connor gets captured)
+
+
+
 
 	Syphax the Destroyer - a demon who in ancient times would posess female Espers and torment them (at the time he was active, witchcraft was seen as feminine) - a sisterhood in the Order of Lazarus created a ritual to bind him; as Conditional Magic (as Morded calls it) is more potent, they made it so the ritual requires 5 women; if a man is present, then all present forfeit their souls. In modern times, ODIN send a strikeforce of Psi-Agents to take out the sisterhood and turn Syphax into a weapon; however, Syphax instead posesses the lead Psi-Agent, slaughters his soldiers, and escapes. It reads its host's mind, and learns that the strongest mortals are in Riverside - so, it goes there, and after a short battle, posesses Trey. While fighting a demonic Trey, Mordred telepathically tells Chloe of the ritual - Thrax is swatted aside by the demon-empowered Moxidar, while Mordred desperately uses his Demonology to barely contain Syphax's power.
 	Those present at the time are Chloe (Adept), Bea (Stunlocke), Gwen (Whiplash), Eliza (Harpy), and Shannon. Shannon asks what happens if a man does the ritual, and Mordred explains. She hesitates, but the others encourage her, and she gingerly steps into place. Mordred dives out of the way, and they manage to soulbind Syphax and free Trey. Now, Syphax is bound in Riverside, being housed in the old Psi-Amp.
@@ -1358,6 +1422,13 @@ multiverse arc! different AUs:
 	Hound of God - AU where Connor is an actual Werewolf. Chloe also becomes a vamp much sooner, and the main villains are the vampires
 
 	Vichy Earth - The Zotan Empire invaded in 1999, swiftly conquering Earth and subjecting it to brutal slavery and apartheid. Connor was shot dead by Zotan soldiers in 2015, but reanimated as a Moxidar, and joined the resistance
+
+	Expyverse - a few different verses where Connor is a blatant expy of another supe
+		Batman expy - in this verse, the barretts are very wealthy. eamon donates heavily on the side to the IRA and CDF, which is why he and geraldine were killed. connor went to live in Drackhill with Vince, who was not a crook but instead a wealthy CEO of Vulcan Ironworks. Vince later adopts Amy, who was considered a problem child after she killed her previous foster carer (vince thought that the two traumatised survivors of the outbreak might get on - he was right); and after Phil dies in a hate crime, vince fosters Trey as well. when connor is 18, vince is murdered in a mugging while the pair are out - this also has connor shot to death but he reanimates and destroys the mugger. now even more traumatised, connor inherits the position of CEO from Vince, and becomes the vigilante Vanguard, vowing to stop the crime and corruption in his city by any means necessary. in the process he discovers Super-Agents, and uses corporate warfare against Vitalis, while still meeting and falling in love with Chloe. This version also uses power-armour along with his powers, being the most physically dangerous of them all
+		Spider-Man expy - this Connor had a knack for science, and went to Uni instead of being a mechanic/thief, which is where he met Chloe. His powers were activated when he pushed a kid out of the way of a car - while horribly injured, he healed remarkably quick and was discharged the following day. now empowered but with significantly less emotional baggage, he becomes the vigilante The Mutant. Notably, he's the only one with a full no-kill code; despite the increased risk, he will go out of his way to non lethally takedown super-agents, and works with chloe to develop a suppressor serum much faster than OTL
+		Daredevil Expy - this variant undergoes far more trauma than even the standard does. after being taken away from laverty, the optimates kill vince in front of him and kidnap him and the others as children, turning them into Werewolves far sooner than OTL. by age 18, they've only recently broken free, having been held in prison for years up until this point, along with Sparky and 217. twisted up inside, they become embodiments of pure terror in order to make others feel what they feel. they also don't kill - but they do mutilate, then inject with serum, to ensure their prey live forever in agony and fear. very prone to a good torture sesh. a big part of their arcs is learning to be humans again, as they are taken in by Father Declan (the first human to offer them kindness in a long time) and he helps them cope with their trauma, to become less unspeakably violent, and to be more involved with the community (which also helps them track down criminals)
+		Wolverine Expy - this version of Connor was kept for much longer than a week, eventually becoming something not unlike Wildemann, before breaking out with Sparky. The two became urban legends, until Connor eventually regained his sanity and they returned to his old life - but could never truly reintegrate with people who hadn't seen him in years, and could never recognise the Beast (his new name)
+		Red Hood Expy - this version saw Vince gunned down by a thug at a young age - he stole the gun and killed the assailant. for a year or so after, he became the vigilante Akimbo - his powers activated when he was gunned down, only to reanimate. now superpowered, he kept his old vigilante identity and costume, being an extremely ruthless antihero. the only one of them to use guns
 
 
 

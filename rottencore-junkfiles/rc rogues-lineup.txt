@@ -4,30 +4,32 @@ Werewolf Squad
 	Vanguard
 		Connor Barrett
 
-	Predator
+	Spartacus
 		Sparky
 
-	Acrobat
+	Backflip
 		Trey Morgan
 
-	Skirmisher
+	Rampage
 		Amy Zhou
 
-	Heretic
+	Heretic (formerly Judge)
 		Thrax
+
+	All have powers:
+		Super physical attributes and super-senses, healing factor, minor shapeshifting (can transform clothing, armour, weapons, tools, etc), locomotive powers (gliding via shapeshifted wing-cape; grapple swinging via shapeshifted grappling hooks, etc), low-level empathic powers ()
 
 Riverside
 
-	Troubleshooter
+	Verdict
 		Ivan Sokolov
 		Powers:
 			Super-Agent physicals
 			Unparalleled eyesight + superhuman aiming skills
 
-	Countess
+	Adept
 		Name: Chloe Derrington
 		Powers:
-			Vampire
 			Psionic powers
 				Biomanipulation
 				Telekinesis
@@ -43,14 +45,19 @@ Riverside
 		Powers:
 			Powered armour suit
 			Stun gauntlets
-			Grappling hooks
-			Wrist mounted guns (can be modified to fire non-lethal rounds)
+			Stun escrima sticks that can combine into a bo staff
+			High-frequency Vibroblade
+			"Pulsar" PEP gun
+			EMPs
+			Onboard hacking devices
 
 
 	The Marshal
 		Name: Frank Ryder
 		Powers:
 			Superhuman aiming skills (short range only)
+			skill with revolvers, lassos, etc
+			Super-Horse for riding
 			Peak physical condition
 
 	Blackjack
@@ -69,8 +76,8 @@ Riverside
 	Jinx
 		Name: Shannon Taylor
 		Powers:
-			Modified powersuit
 			Hacking gear
+			Mission control (non-field combat)
 			Deployable combat drones and SPYD3R bots
 
 Riverside Youth
@@ -85,8 +92,8 @@ Riverside Youth
 				Psi blades
 				Limited precognition/danger sense
 
-	Sentinel
-		Name: Sentinel
+	Paragon
+		Name: Paragon
 		Powers:
 			Robot body
 			Jetpack
@@ -94,7 +101,7 @@ Riverside Youth
 			Modular components
 			Can upload to backup bodies
 
-	Changeling
+	Terror Toma
 		Name: Mal
 		Powers:
 			Complete shapeshifting
@@ -117,6 +124,11 @@ Riverside Youth
 			Minor biomanipulation
 			Psychic control over his "bugs"; biomanipulative fusion of parasitoid wasps and fire ants
 			Self-biomanipulation; slightly superhuman physicals
+
+	Spike
+		Name: Spike
+		Powers:
+			team pet of the Riverside Youth, a "Korlox", described as a "reptilian rhinobear" with venemous spines.
 
 Unbroken
 
@@ -167,28 +179,71 @@ Unbroken
 				Blood toxins
 				and more!
 
-	217
+	She-Wolf, Sovereign
+		Name: Clara Hart
+		Powers:
+			Super-Agent physicals
+		Gimmick:
+			Suffers from erotomania, causing severe infatuation and attachment issues
+
+	217, Redclaw
 		Name: 217
 		Powers:
 			Werewolf physicals
+			Wolf body
 
-MKUltra
+Showstoppers
+
+	Goblin
+		Powerset: Tiny (around 4ft), green skinned, crafty, skilled with explosives, and very agile
+
+	Troll
+		Powerset: Huge (around 8ft), blue skinned, super-strength even for his size, but dimwitted
+
+	Nitwit
+		Powerset: Large (6ft 6inch), extremely wide chest and shoulder span (2x the width of his hips), super-strength, but suffers from microcephaly. Uses a carnival hammer in combat
+
+	Sulita
+		Powerset: Extreme skill in knife throwing; contortionist
+
+	Tangle
+		Powerset: Four arms, and minor super-strength
+
+	The Gemini Twins
+		Powerset: Conjoined twins - one thick-muscled, but blind; the other limber, weak, and sprouting from his brother's back. They identify in the collective
+
+	The Marvellous Mister Magnus Magnifico!
+		Powerset: Stage magician; mainly uses smoke bombs, blade-edged playing cards, and hidden weapons
+
+	Spookee the Clown
+		Powerset: An electric joybuzzer, and a laughing gas spraycan
+
+ODIN
 
 	Whiplash
-		Name: Olivia Cunningham
+		Name: Gwen Blake
 		Powers:
 			Trajectory manipulation
-			Whips
-			Throwing knives
-			Bow and arrow
+			Aerokinesis
+			Weapons:
+				Whips
+				Throwing knives
+				Bow and arrow
+				Buckler shield that can be thrown
+				Grappling hook
+				paraglider
+				combat fans
+				boomerangs
+				bolas
+				nonlethal flail
 			Super-Agent physicals
 
 	Whisper
 		Name: Laila Soubir
 		Powers:
 			Invisibility (via photokinesis)
+			Imperceptibility/Obfuscation
 			Super-Agent physicals
-			post-Awakening: Imperceptibility/Obfuscation
 
 	Impact
 		Name: Elliot Myers
@@ -204,19 +259,25 @@ MKUltra
 			Humidification (draws in ambient moisture to her vicinity)
 			Super-Agent physicals
 
-	Blink
+	Skip
 		Name: Vihaan Gupta
 		Powers:
 			Teleportation
 			Portal creation
 			Super-Agent physicals
 
+	Somniac
+		Name:
+		Powers:
+			Can make people fall asleep via eye contact
+			Can make people sleepwalk on command
+			Can trap people in nightmares
+
 	Flux
 		Name:
 		Powers:
 			Chronokinesis
-				Can reverse time up to 38 seconds backwards
-				Can see up to 24 hours ahead with semi-decent accuracy
+				Can reverse time up to 3.14 seconds backwards
 				Can speed up their relative timestream - from outside they're going 4x as fast, from their perspective everything is running at 25% speed
 				Can put others in a "stasis field" for a few minutes
 				Can read the history of things in their immediate vicinity; essentially psychometry
@@ -229,7 +290,7 @@ MKUltra
 			Immunity to radiation sickness beyond a repulsive physical appearance
 			Super-Agent physicals
 
-	Mirage
+	Phosphene
 		Name:
 		Powers:
 			Hallucinations/Illusions
@@ -254,6 +315,8 @@ Prometheus Institute
 			Super-intelligence
 			Power armour
 			Robotic drones
+			"Lobotomite" serum that turns people into perfect logical minds like himself
+		Motive: totalitarian utilitarian
 
 	Edge
 		Name: Kenji Yamazaki
@@ -285,7 +348,7 @@ The Commission
 		Powers:
 			Cyborg body
 			Jetpack
-			Wrist-mounted guns
+			Wrist-mounted flamethrowers
 			Shoulder-mounted grenade launcher
 			Trick grenades
 
@@ -294,6 +357,29 @@ The Commission
 		Powers:
 			Super-Giant physicals (10ft tall, >100t lifts)
 			Cybernetic harness
+
+	Flashbang
+		Name:
+		Powers:
+			Cyborg body
+			Ability to produce flashbang effect
+
+	Switchblade
+		Name:
+		Powers:
+			Cyborg body
+			Retractable, rotatable blades
+
+	Skull King
+		Name: Ramon Murillo
+		Powers:
+			Super-Skull phyicals
+			Army of loyal Super-Skulls
+
+	Wraith/The Faceless
+		Name: Unknown
+		Powers:
+			Can take the appearance of anyone they mind-merge with, down to specifics like fingerprints
 
 	Monarque
 		Name: Henri Renard
@@ -307,6 +393,7 @@ The Commission
 		Powers:
 			Super-Agent physicals
 			Stealth mastery
+			Experienced cat burglar
 			Gadgets
 
 	King Kaliber
@@ -332,13 +419,8 @@ The Commission
 		Powers:
 			Super-Agent physicals
 			Mastery of explosives
-		Motive: Chaos; rulebraking; The Purge
-
-	Tangle
-		Name:
-		Powers:
-			Super-Agent physicals
-			Four arms
+			Genius in nanotech; invented a serum that turns people into presapient animals
+		Motive: Chaos; rulebraking; anarcho-primitivism
 
 	Lord Verminous/Pied Piper
 		Name: Mike Hamlin
@@ -354,7 +436,7 @@ The Commission
 	Knightmare
 		Name:
 		Powers:
-			Encased in a full-body knight's armour
+			Encased in a full-body knight's power armour
 
 Blood Court
 
@@ -387,6 +469,31 @@ Blood Court
 			Vampirism
 			Genius intellect
 
+	Syphax the Destroyer
+		Name: Syphax
+		Powers:
+			Ancient demon warlord
+			Cyber-Demon chassis
+			Knowledge of Dark Magic
+
+	Shepherd
+		Name: Hector Guerra
+		Powers:
+			Vampirism
+			True Faith (defends from demons, reduced Vampire vulnerabilities)
+
+	Mordred
+		Name: Paul Harper
+		Powers:
+			Knightly power armour
+			knowledge of demonology
+			Arcanokinesis (psy blades, psiblasts, etc)
+
+	Sandalphon
+		Name: Jeremy Caine
+		Powers:
+			Knightly power armour, with jetpack
+
 Optimates
 
 	Dominus
@@ -407,3 +514,14 @@ Optimates
 			Biomanipulation/'Fleshcrafting'
 			Super-Agent physicals
 			Several body doubles prevent permanent death
+			Hypnotic powers
+
+Independent
+	
+	Pig Head
+		Name: Lazlo Aubrey
+		Powers:
+			super-agent physicals
+			Porcine features
+			Army of Super-Pigs that answer to him
+			Becomes more powerful via cannibalism

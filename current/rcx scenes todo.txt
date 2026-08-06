@@ -23,30 +23,14 @@ add some more circus freaks to the now-gang of circus freaks:
 
 
 
-dont forget to add connors new power - acid spit. he can contract his stomach to shoot out acid from the mouth. this is incredibly unpleasant and so he usses it sparingly
-	the acid is so strong because he can digest bone and cellulose btw
 
 
 
 
-include a brief mention of chapman in the naismith flashback, where he goes to vice to assign the case, looking for then-dci chapman - the desk jockey explains chapman is on bereavement leave, as his wife was murdered last week
-
-
-
-
-
-maybe shift the beginning of the story (and connor's bday) to september instead of october. gives us an extra month to justify some b-plot expansion, as well as adding a month of connor knowing chloe for their relationship to not feel rushed
-	given this means Sparky will be with connor for the best part of a month before Halloween, you can deepen some moments between them
-	Since the Werewolf won't be widely known before Halloween, the gang's first few outings would have to be almost entirely supervillain-focused. To that end, use the rogue's gallery below for some fodder
-	Also, consider having Pig Head happen the week of halloween - just before the burning building
-	Have Flashbang be the first boss fight that happens; after beating him, Connor decides to interrogate, only to be interrupted by Naismith
-		Later, after his cyberware is analysed by Eidolon, it's concluded he cannot be separated from it without dying. Dorsey has him housed in the VPU of Wickermast, with plans to kill him should he talk. oxford orders the commanant not to have him killed - let him rot in the VPU for a few months, and they can find a way to spring him out covertly
-	Last pre-halloween boss fight, before Pig Head - have Connor encounter the Troll
 
 to summarise timeline changes
 
 	CHAPTER
-	>connor breaks into a Skull base, but finds a lead that he sends to Ivan
 	>the week before Halloween, a cannibal larder is discovered in Blackmarsh, with two pig farmers butchered and their pigs missing
 	>the wereolvess are stalking the scene while naismith investigates; however the NCA (national crime agency) takes over, saying they believe the killer is the notoroious Pig Head, and ordering Naismith to leave it
 	>Connor and Sparky, using super-smell, track a blood trail to Pig Head's hideout.
@@ -67,15 +51,10 @@ with all the extra B-plot material, consider splitting chapters up - or just say
 
 remove Naismith's early skepticism, as the evidence quickly suggests something superhuman is afoot
 	have him interview the priest between walking sparky and creek
-		after interviewing the priest, naismith says to Nina that they got reports a couple nights ago that someone in a red hood shot a guy in Belson and broke another's arm - and the surviving witnesses say he had glowing red eyes, too
-
-		before the second confession, have Paladin spooks come to interrogate Declan to find out what Connor told him (hoping Connor confessed some intel) - Declan refuses to break the seal of the confessional until they threaten a kidnapped child, at which he painfully says that "the man" told him he was kidnapped and tortured, and was now on a quest of vengeance. he says "that's all i know, i swear1" At that, Connor arrives, rings the church bells, descends from the rafters and kills the Agents, impaling one with a crucifix
 		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before; Declan admits he's struggled to take confessions after breaking the seal of the confessional to save the child; Connor says that if Declan had allowed a child to die over it he'd be enraged. he asks how the kid's doing, and declan says he's better; connor points out that the seal of confession usually only applies if the penitent is confessing before god; as an atheist it arguably doesn't apply; declan quips that its not normally him receiving absolution in that booth. they have a brief chat about connor's mission, and connor leaves feeling more relieved
 		the second confession can go in Underhill or in She-Wolf - whichever needs more padding
-	have him and nina analyse cctv footage of the burning building rescue in the migraines/IES (or in Honest Work) - have them mention the only thing they've seen survive such burns is the Burned Man
-	remove the scene where they get put on the case - replace it with Nina informing Naismith that the mercs they were investigating point to a weapons and drugs shipment in Belson - so they do a stakeout which is how they catch Connor after the machine gun fight
-	have them discuss Connor's change from hoodie to kevlar, questioning if it's the same guy
-		after Hog and Hounds, have Naismith realise the "Church Demon," the "Red Hood Guy," the "Werewolf," and the "Kevlar Man" are all the same guy
+		moments for second confesssion:
+			when declan asks what connor thinks is going on, he says "I think I died that night. That heaven didn't want me, and hell spat me back out - except I brought some of it back with me."
 	once they see Connor has regrown his hand, they conclude that the Burned Man and the Werewolf are the same guy too
 
 
@@ -96,6 +75,7 @@ change the prison break sequence
 		Once escaped, instead of the revolutionary meetup in the underhill, just have them tag along into Riverside. have vince and amy have a heart-to-heart here too, before the gang splits up - the Syndicate crew of Tommy, Vince, and Pawel take a car and go hideout in the Wyrmwoods, while Connor, Shannon, Trey and Sparky take the workvan (fitted with Connor's gadgets) and do the DCC thingy. Goblin and Troll take a campervan, saying they're gonna head out into the moors outside of the valley; since they are the most recognisable, the heat is worse for them. connor bids them good luck
 		the next day, all the news is talking about is "Goblin and Troll escape along with Syndicate members and protestors" - thereby keeping Connor et al's names out of the press.
 		When questioned later, Connor explains that it was all Goblin's idea, who got the idea after seeing him fight Pig Head and realised that with Goblin's brains, Troll's brawns, and Connor's balance of both, they had a shot at escaping. Connor decided to go for it, and that's how it happened (not technically a lie)
+		consider, instead of hiding out in a van, they take refuge in the basement of Fr. Declan's church
 
 
 
@@ -150,62 +130,11 @@ a scene sometime between warehouse frenzy and whiplash officially joining the te
 have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
 
 
-at some point after sparky's rescue, have naismith interview the priest
 
 
 
 have connor show the gang around the motel before he ambushes naismith for the auction
 
-foreshadow connor's smoke bombs with a triplet gag
-	finally, when held up by the cops in hospital, he fires a smoke bomb from his bolt at the cops - it disorients them properly, and he escapes.
-
-have Dr. Rosenbaum appear early in volume 1 needing help from the Werewolf; afterwards, she gives him her number, reasoning that he probably gets in a lot of scrapes and might need an accomplished trauma surgeon on his speed dial. he notes that he can heal, but she says she wants him to have it anyway, just in case. he reluctantly takes it.
-	then, have it be Rosenbaum who provides lung surgery to Olivia after her fight
-
-rosenbaum plotline:
-	Later, she's providing post op care to the pelvis crook. He talks about the Werewolf's horrifying powers, and she realises that the case must be connected, somehow. So, she asks the crook where she could find him. He's initially no use "Doc, if I knew where he was, I'd blow the place to smithereens!" but eventually the crook reveals that the Werewolf is connected to the Redbridge Syndicate; she goes to the Horse, and hands the bartender a note, asking him to deliver it to his boss. The note goes to the club owner, who contacts Connor.
-	Connor agrees to look into the case, talking to one of the victims and taking the info to Ivan. Together, they pin the case down to an organ trafficking lab in the sewers.
-		When working with Rosenbaum, have Connor ask questions of one of her patients, but he says he won't say anything, that they'll kill him if he talks. Rosenbaum says there is one patient they could try - she introduces him to one whose so badly malformed they're gonna die. Connor speaks with this one, but she refuses to talk to him as he's too suspicious. He gets Rosenbaum to leave the room, saying he's gonna do "something reckless", and takes off his mask, showing his human face. She (the patient) reveals that the lab that experimented on them is in the sewers somewhere; they abduct people who won't be looked for (homeless, runaways, drug addicts, the mentally ill, undocumented migrants, etc) and grow organs inside them that then get shipped out. She also mentions that once they are no longer of use (due to becoming too unwell from the procedures) they are dumped in the river to die; some wash up and are brought to hospital like her and the few other survivors; most are found as dead bodies. A lot of those taken are homeless residents of the Underhill, the homeless community of Drackhill's vast underground network
-	brief cutaway where Sparky asks Connor if they can get Ivan to help; smash cut to a pedo priest on the phone with a "Mr. Hughes," when a knock at the door. He answers it on the chain - Ivan snaps it open, grabs his face, pulls it through and squeezes the door shut, choking the life out of him while he quotes Ezekiel 25:17 at him in Russian ("Ya budu besposhchaden..." he scowled, "i nakazhu ikh v gneve." "Gagh... gugh... pah... please..." "I kogda ya sovershu vozmezdie... oni uznayut, chto ya Gospod'." *SNAP!*). He steps in, looks at the phone's contacts, and strokes his beard worriedly. Smash cut back to drackhill, and Connor says "He's busy doing wetwork - we're on our own."
-	While in the sewers, Connor and Sparky use their Sonar powers and accidentally attract and are swarmed by a pack of grotesque bat-fish.
-		Bat-fish are shaped like large eels, with lamprey mouths and bat wings that double as fins while swimming
-	They fight, but Connor realises their sonar is upsetting them, so they turn it off (hesitantly, as they're blind without it) and the creatures become docile. Connor touches one and accidentally mind merges, revealing they have a minor psychic link, including a mental map of the tunnels that Connor uses with the pigeon sense to find the labs
-	he and sparky press forward, assault the lab, kill the traffickers, and rescue the victims.
-		Have a Giant/Jotunn appear here; Connor and Sparky are completely blindsided, but when connor is at the Giant's mercy, it growls "Any last words, traitor?" Connor's eyes light up and he grins "Behind you" and a swarm of batfish attack. The giant is distracted, allowing Connor to disembowel it and then behead it. The Batfish start eating it - Connor is grossed out while Sparky thinks it's normal, and they press forward.
-		They find a pit where the victims are being held. They're terrified of him, but he manages to calm them and help lift them out of the pit. he then leads them to a maintenance shaft
-		sharp cut to street level - the girls are out drinking, and see the manhole cover begin to shift. Amy jeers that it's the 'sewer people', but goes pale when the Werewolf crawls out - and they're even more shocked when he helps the survivors escape. he barks to the people on the street to call an ambulance
-		a convoy of ambulances arrive, and the Werewolves covertly follow on the rooftops. the convoy is intercepted by black SUVs on front and back, and super-agents jump out. Sparky takes the back while Connor takes the front (cinematic scene of him crashing down before they open fire, barking "HEY! WHY DON'T YOU PICK ON SOMEONE YOUR OWN SIZE?!" and then slicing through them); once they're dead, he shunts their SUVs out of the way and barks to the ambulance driver "GO! I WILL PROTECT YOU!"
-		cut to Naismith and Nina with armed police ready to engage, but the ambulance crews say over the radio that the Werewolf is helping them, begging for the cops to instead secure the hospital against further attack. naismith reluctantly orders "All units, converge on the hospital. Repeat, converge on the hospital" to Nina's silent pride
-		Once the people are secure, Naismith and his units show up and train their guns on Connor. following exchange:
-			N: "Stop right there! Hands where I can see them."
-			C: "See all those people? They'd be DEAD if it weren't for me."
-			"I'm not here for the people you've helped. I'm *here* for the people you killed. I don't know what you think you are, but you're not above the law."
-			"heh... the law? The same law that made it so the people hurt by this couldn't speak without fear of state violence? The same law that had you forget about what was going on here to go after me instead? THE SAME LAW, THAT IGNORES *SCUM* LIKE THE PATRIOTS WHILE POINTING GUNS AT ANYONE TRYING TO STOP THEM? *THAT LAW?!*"
-			rosenbaum: "Stop! Please, everyone stop!" (she gets in between the cops and connor)
-			N: "HOLD FIRE! HOLD FIRE! judi, what are you doing? get away from him!"
-			"henry, please! i know what he's done in the past... but he saved lives tonight. please, i'm begging you, don't do this!"
-			at that, connor throws a smoke bomb at the squad, disorienting the armed police. both then run away.
-			naismith rises, brushing off the dirt. "i should arrest you for interfering in an arrest." he growls.
-			"then do it."
-			he sighs. "come on, everyone. let's make damn sure no one attacks this hospital."
-			they take positions around the hospital, prepared for another attack. none comes.
-
-			later, judi goes back home. she switches on the lights, and sees connor standing there. she gasps.
-			"sorry, doc." he says softly. "i just... wanted to hear how the captives were doing."
-			"much better, thanks to you." she smiles. "i... i know what people say about you, but... you're alright in my book."
-			"hah... thanks." he prepares to leave.
-			"wait..." she begins, hesitates, and writes something on a prescription pad. "my number."
-			he tilts his head. "shouldn't i buy you a drink first?" he quips
-			she chuckles. "my guess is, someone in your line of work could probably use access to someone in my line of work. call that number any time - i'll patch you up discreetly."
-			"i can heal just fine without--"
-			"you're still limping slightly. and there's enough of a wheeze in your voice to suggest lung damage."
-			"give it an hour, i'll be fine."
-			"maybe one day, you won't *have* an hour - you'll need something to keep you going within ten minutes. or maybe, someone you care about gets hurt, and you can't go to hospital without them asking awkward questions. call me, and I can help out."
-			"what makes you think i have people I care about?"
-			"I saw the way you helped that man out of the ambulance. the way you gently carried him. you can deny it all you like, but as long as there's one person in this city, there's someone you care about. that's who you are."
-			connor hesitates. "alright. i'll think about it"
-			he takes the number, and lets himself out. she watches him leave, and smiles softly.
-		make sure Ivan's reference of Jotunn happens after this - maybe in the open of the next chapter, or when he reveals the Optimates later
 
 
 Notes for the sewer mutants plot:
@@ -287,7 +216,7 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		A crazed vet who goes on a bombing and shooting spree
 		A snuff film maker
 		A former pig slaughterer who cracked and turned to cannibalism - he's been given plastic surgery from Vacher to look like a pig, and uses a serum variant to create Super-Swine attack pigs
-			he's called "Pighead", but the heroes categorically refuse to call him that - nicknames like "notorious P.I.G.," "Luke Skyporker," "Amy Swinehouse," "Albert Einswine," "Snoop Hog," "Stephen Porking," "Harry Trotter," "Gordan Hamsey," "Boarbra Streisand," "Piggy Stardust," "Ham Solo," "Kevin Bacon--wait, that one's taken," "Meryl Sheep---fuck, wrong farm," "Hamlet," "The Baconator," "Oink Floyd," "Napoleon Boarnaparte," "Hamela Anderson," "Piggy Azalea," "Hamuel L. Jackson," "Pigolas Cage," etc
+			he's called "Pig head", but the heroes categorically refuse to call him that - nicknames like "notorious P.I.G.," "Luke Skyporker," "Amy Swinehouse," "Albert Einswine," "Snoop Hog," "Stephen Porking," "Harry Trotter," "Gordan Hamsey," "Boarbra Streisand," "Piggy Stardust," "Ham Solo," "Kevin Bacon--wait, that one's taken," "Meryl Sheep---fuck, wrong farm," "Hamlet," "The Baconator," "Oink Floyd," "Napoleon Boarnaparte," "Hamela Anderson," "Piggy Azalea," "Hamuel L. Jackson," "Pigolas Cage," etc
 			At one point, Connor's getting a briefing, and Ivan says "Pig Head, real name Christopher Percival Bacon."
 			"Chris P. Bacon? Are you fucking kidding me?"
 			"Yes, of course I am. His real name's Laszlo Aubrey." (reference to Pyg (and laszlo from ))
@@ -1339,7 +1268,13 @@ rogue's gallery notes:
 			why is Sparky indisposed? simple! have snakebite shoot him too (they're together on patrol) and capture him while connor's unconscious. think about his motive for taking sparky but not connor 
 				ivan sees them being loaded into separate vans, and reluctantly chooses to save connor instead of sparky. that way, there's a moment of tension where connor rages at ivan, saying he should've saved sparky instead, but ivan points out he can't hear sparky, so it makes more sense to save connor and they then work together to rescue sparky, as oppossed to saving sparky and then struggling to coordinate a rescue of connor
 			consider having connor, while interrogating snakebite on sparkys whereabouts (or on his employers, if sparky is held in the rooftop/tower block snakebite is beaten in), do a forced mind merge. absolutely play up the violation of it, with snakebite bleeding from the nose and begging connor to get out of his head.
+				dont have snakebite die here - instead, he's a contractor, not a paladin. MI0 (operating through MI5) take him in custody afterwards
+				connor arranges with judi so that if he ever brings in any other superhumans alive, she should dose them with nmbas
 			ivan and sparky both awaken in connors flat. connor rushes to sparkys side, who is upset at being captured again, explaining he was conscious enough to know he was in a cage. connor says no matter what, he'll always come and find him
+
+			in "should've been me," have a cut to sparky in captivity. the entire gang - connor, amy, chloe, trey, bea, ivan, his mum, 217, everyone - come to rescue him. but before they approach the cage, they fizzle out, and the mauled guards return. he whimpers, closing his eyes and trying to pretend he's safe
+
+			when connor gets sparky's whereabouts off of snakebite and crawls out of the tower, he goes to the location hes being held in, and, now having recovered enough (and sufficiently pissed off), goes full Rage and slaughters the guards. have this all happen from Sparkys pov, hearing slicing and tearing noises, watching the guards run over, open fire, and then sees gore sraying out from the corner. finally, connor arrives and tears open the cage, and sparky passes out (to wake up round connors)
 
 		have clara's rescue happen at the beginning
 		include the "i wanna know what your fucking deal is" gag when out with the gang at the horse - after trey picks up a twink with a "break the ice" pickup line, connor remarks he had no idea pickup lines were a thing and jokes the above
@@ -1417,7 +1352,7 @@ rogue's gallery notes:
 multiverse arc! different AUs:
 	Kid Wolf - Connor is kidnapped at 15 going-on-16, rather than 18-19. Chloe and Bea are also students at his secondary school
 
-	Mirrorverse - Gender-flipped version of Rotten Core. Sophie Barrett, her LI Lucas Derrington, and their friends Ben Jefferson, Daniel Zhou, and Kelly Morgan, take the fight against the Optimates
+	Mirrorverse - Gender-flipped version of bloodhound. Sophie Barrett, her LI Lucas Derrington, and their friends Ben Jefferson, Daniel Zhou, and Kelly Morgan, take the fight against the Optimates
 
 	Hound of God - AU where Connor is an actual Werewolf. Chloe also becomes a vamp much sooner, and the main villains are the vampires
 

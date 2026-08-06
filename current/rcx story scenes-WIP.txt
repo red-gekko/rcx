@@ -1,8 +1,183 @@
 
 ______________________________
+CODEX
+	______________________________
+	EPISODE
+		______________________________
+		FOREWORD
+			The following series contains strong language right from the fucking start.
+			This is a work of fiction, set in an alternate-history world. A narrative timeline of events, and in-universe fiction primers, can be found in this chapter. A quick summary of the setting can be found at the end of this chapter - feel free to skip ahead if you just want the basics.
+			References to historical figures, organisations, institutions, or events, should be understood in this context.
+			Great effort has been made to ensure that references to real people are only used when talking about individuals who are dead, both in-universe and out. References to these people are purely fictional. It is not, for example, a factual assertion of the author that Nicolae Ceausescu was assassinated by the KGB in the late 80s.
+			Any resemblance between living characters in this story, and real persons, living or dead, is purely coincidental.
+			No part of this story is intended to depict factual events or make claims about real individuals.
+			References to real-life organisations, companies, agencies, or existing media, should never be taken as factual statements about those topics.
+			Satirical elements and social commentary are integral to the narrative and should not be interpreted as factual assertions by the author.
+
+			If you feel this novel has made damaging remarks about yourself or an organisation you represent, or that we have infringed on properties you hold the rights to, you can reach out via [https://bloodhoundbook.github.io/legal/].
+
+			This story contains discussion and depiction of topics and themes some viewers may, and indeed should, find disturbing. These include, but are not limited to: abuse, racial violence, sexual assault, bigotry, mistreatment of children, and more.
+			A full trigger warning is available at [https://bloodhoundbook.github.io/content-warning/].
+
+			No animals were harmed in the making of this novel. A couple of fascists, however...
+
+			This story is dedicated to my dogs, Caesar and Hermes, without whom I would have had the time to write the sequel by now.
+
+			With special thanks to my fiancee Evie, for her inspiring sarcasm and admirable tolerance.
+
+			The old world is dying.
+			The new world struggles to be born.
+
+			Now is the time of monsters.
+
+		Foreword
+		______________________________
+		PROLOGUE
+			It is autumn, 2015. The world stands on the brink - undone by events decades in the making.
+
+			In 1908, President Theodore Roosevelt made the monumental decision to seek a third term. He won that election in a landslide - his Second Square Deal reforms streamlined the American government, empowering the executive. Satisfied, he stood down at the 1912 election, and Woodrow Wilson took the reins of power.
+			That same year, the Tunguska Event terrified locals. None yet knew of the true horrors to come.
+
+			Then, in 1914, a Serbian man shot an Austrian archduke. Almost as soon as German boots crossed into Liege, the British government announced its declaration of war. American businessmen grinned unanimously, making a fortune selling guns and munitions to the Entente.
+			1917 was a tumultuous year. Russia had fallen, with fighting between Socialist forces and reactionary remnants.	Yet at the same time, the Ottoman Empire fell to the Arab revolt. American soldiers landed in the trenches of Saint-Mihel, and began to turn the tide against the German juggernaut.
+
+			By 1918, an exhausted continent signed the Treaty of Versailles.
+			A wise man once said "The only fair deal is one where no-one is happy."
+			A much wiser man once said "This is not a peace. It is an armistice for 20 years."
+
+			Imperialism carried on as if nothing had happened - as if it didn't just result in an entire generation being fed into the meat-grinders.
+			In Ireland, hopeful revolutionaries who had been fighting since Easter, 1916 - and 800 years before then - believed they were going to win. Their hopes were dashed by chance - a string of unlikely British victories, along with the assassination of IRA leadership, ended in a smouldering Eire with the Union Jack still flying over the ashes of Dublin.
+			The Imperial Boomerang was in full effect - the Empire's totalitarianism abroad fostered totalitarianism at home. Strikes were outlawed, the nascent Labour Party was disbanded, and the British State - and its disgustingly wealthy owners - reigned supreme.
+			Across the Empire, things were no different. Egypt faced a brutal crackdown and was forced under direct rule from London; Canada had prison camps built specifically for the internment of Quebecois nationalists; the colonies of Oceania were reforged into the Commonwealth of Australasia, whose first Act of Parliament was the "White Australasia Policy" and the 'pacification' of indigenous rebels; the combined Dominion of South Africa absorbed Namibia and Rhodesia, with criminals across the Empire being deported to the 'frontier' - the goal being the elimination of the Black Native as a sovereign force.
+			Perhaps most dystopian of all, for the peoples of the Raj, nothing changed at all.
+			In fact, the only Imperialist quagmire avoided was in Arabia. Focus on consolidation of its existing Empire meant the British had no interest in Sykes-Picot - instead viewing a unified Hashemite kingdom as a valuable proxy state. The "Hashemite Kingdom of Arabia," stretching from Palestine to Baghdad and Damascus to Sana'a, had as much independence as you could want - aside from every major corporation in the kingdom being a British, American, or French subsidiary.
+
+			And yet, as the British Empire tightened its grip on its quicksilver colonies, and as the French struggled to reconcile Liberté, Egalité, and Fraternité with Autorité, Iniquité, and Vanité, the Russian Empire was consigned to the history books. The Russian Civil War ended in a victory for the Soviet Red Army - a coaltion force of Bolsheviks, Mensheviks, Orthodox Marxists, Radical Socialists, Liberals and Anarchists who had had a Damascene conversion, and more - all eventually coagulating into the Communist Party of the Soviet Union.
+			Then, in a mansion in Gorki in 1924, Vladimir Lenin breathed his last. He was succeeded by a troika of Nikolai Bukharin, Leon Trotsky, and Grigory Zinoviev. Josef Stalin, and his Bonapartist clique, were ousted after his disastrous performance in the Polish-Soviet war - but his cronies began the work of infiltrating the state apparatus.
+			The war had brought Eurasia to its knees. But thankfully, careful industrialisation, organised collectivisation, the New Economic Policies, and decentralised leadership managed to prevent a food shortage in Ukraine and Kazakhstan from becoming a full-fledged famine.
+
+			The Great Depression shattered the American spirit, but from the ashes, Senator Huey Long built a national machine with his "Share Our Wealth" program.
+			President Franklin D. Roosevelt responded with his own New Deal, but the political landscape was fractured. In 1934, the shadowy "Business Plot" to overthrow the government was exposed and thwarted by the heroic testimony of General Smedley Butler, revealing the rot at the heart of American capital.
+			In 1935, a son of a judge shot Long in the chest - hitting his pocketbook. Long's bodyguard immediately slew the assassin, but the Kingfish's paranoia and megalomania only grew. Convinced of a vast right-wing conspiracy out to get him - not entirely without merit, it must be said - he knew exactly what to do. The 1936 elections were looming, and he approached FDR with a choice - Give me power, or I'll run as a spoiler.
+
+			The Democratic Party wanted nothing to do with Long's populist policies, but Roosevelt knew he couldn't win with Long in the running - so he approached him, covertly. He expected an egomaniac who would demand the Vice Presidency for himself - but instead, he fell into the traps of a shrewd political operator.
+			Long demanded appointment as head of the WPA, the key agency of the New Deal - and demanded that said appointment be made a cabinet position. He also demanded General Butler be made Secretary of War.
+			Roosevelt was surprised, but agreed hastily to the terms, leading to the resignation of his Vice President, Garner. In response, Long made one additional demand - appoint Henry Wallace as VP.
+			The 1936 election was won by the new administration in a landslide. America experienced a shift in politics not seen since the Reconstruction era, with increasing civil rights, redistribution of wealth, and the ascent of radical new figures.
+			As the Share Our Wealth platform overtook the New Deal, America began a parallel process - economic justice, and a growing patronage network, with the Kingfish at the top.
+
+		Roosevelt to Roosevelt
+		______________________________
+		PROLOGUE
+			But while the USA saw exposure of fascist plots, and the USSR saw a new age of democratic socialism, the European Continent went rabid.
+			In Italy, the home of the word 'Empire,' Benito Mussolini's Blackshirts marched on Rome, forging a fascist model others were eager to follow. Their brutal conquest of Ethiopia, their genocidal actions in Libya, their annexation of Albania, and their puppeteering of Greece, made them seem like the kings of the New Order in Europe.
+			That is, until another king entered the castle. In Germany, the Nazi Party rose to power on a tide of resentment, its growth fueled by a brutal campaign of street violence and a new, escalating terror campaign by the radicalized KPD. 
+			Hitler was well aware of the growing resentment to capitalism, and so he used an ancient trick to Empire - blame someone else. Every rich pig in German high society was quick to blame all the problems of their robber-baronism on a secret, Jewish cabal. Antisemitism was the greatest tool of German capital - an imaginary group of devious financiers, obscuring the very real group of devious financiers, all swearing fealty to the Fuhrer.
+
+			The Soviet Union, seeing full well the growing fascist movements, did not sit idly by like the isolationists in Washington. It provided arms and advisors to communist proxies in the Chinese Civil War and watched Poland closely, forging a pact with France in the face of British indifference to the inevitable war.
+			The eruption of civil war in Spain doused Europe in gasoline. The Republican forces saw support from France and the USSR, along with tepid aid from America; meanwhile the goons of General Franco saw aid from Germany and Italy, along with similarly tepid support from Britain. At the same time, the great Polish Peasant Strike of 1937 devolved into a fratricidal free-for-all, with populist militias fighting the Sanationist regime, and infighting between the rebel forces; some gleefully accepting Moscow's support, others chafing under Soviet direction. The battle lines were drawn.
+			In 1938, those lines were crossed, and the spark was lit; German forces swept into Czechoslovakia and Poland, citing border incidents with Soviet clients. That same year, the Nazi regime quietly initiated Aktion T4 - the murder of the disabled, and Phase 1 of the coming nightmares.
+
+			Britain, under Chamberlain and fearing a resurgent USSR more than Hitler, declared neutrality. Backbencher Winston Churchill failed to mobilise a pro-war movement - none of his Tory peers wanted to fight and die for Russian Communists, and his own imperialist demagoguery made him no friends among the proscribed socialists.
+
+			Isolated, Paris fell within months, a puppet regime installed at Vichy. Madrid followed, with direct intervention from Wehrmacht troops crushing the remaining Republican forces.
+			America, under an increasingly frail FDR and a secretly-dying Butler, extended Lend-Lease to the desperate Soviets, despite the protestation of the isolationist Long. In response, German U-boats began sinking Atlantic convoys, which only enraged the American public and further wounded the Isolationist movement.
+			If the Kingfish wanted to keep his crown, he needed to adapt.
+
+			In the Pacific, Japan's hunger for empire only grew. Its proxy war in China, coupled with total humiliation in Khalkin Gol, led to the sidelining of the Army, with the immense Zaibatsu corporations backing the Imperial Navy's ambitions for Pacific dominance. The army was instead ordered to focus on China, while the 'real war' would be fought at sea. Plans were drawn up for operations to begin in Feburary, 1940.
+			The resentment, along with extremist racism endemic to the army, lead to horrific atrocities across China. From sickening experiments in Manchuria that would make Frankenstein pale, to unspeakable brutality in Nanjing - if an alien force was looking at Eurasia, they'd see two increasingly disgusting genocides, spreading like wildfire.
+			While the IJA committed crime after crime, the IJN struck across the pacific - first, seizing French territories in Indochina; then, taking Indonesia from the occupied Dutch; and last, attacking British and American holdings - culminating in its occupation of the Phillipines and a sponsored uprising of Hindu nationalists in the Raj - and at the same time, a shocking invasion of Hawaii.
+
+			A vengeful Congress, shepherded by Butler, declared war on the Axis - against a U-Boat campaign in the Atlantic, and a mass-expansion in the Pacific. Long knew he couldn't fight for isolation anymore - so he, ever the masterful spin doctor, got to work re-framing the war as a continuation of his campaign against Wall Street - a fight against fat cats, at home and abroad, who would dare to threaten the American people.
+			The crowds went wild. The Kingfish had done it again.
+			And then, in June of 1940, Smedley Butler went to the doctor with complaints of stomach pains. It was cancer. He resigned from the administration, and spent his last few weeks at home with his family, praying that his work would be done.
+			The stresses of war, a hostile underling, and rage from Wall Street, took their toll on Roosevelt. First a small stroke, then a major one, and like Wilson before him, the President was bedbound.
+			Long knew the administration would be paralysed as long as FDR's heart was still beating. And so, to ensure his now-puppet Wallace could ascend to the highest office, the unthinkable was ordered. Rumours say it was Long himself who smothered the old man - but there was never any proof of foul play.
+
+			On the Eastern Front, the full might of the Wehrmacht plunged deep into Soviet territory. The conflict became one of annihilation, and the Nazi regime's genocidal ambitions escalated into the industrialised horror of the Holocaust. 6 million Jewish people, 1.5 million Roma and Sinti, hundreds of thousands of dissidents - all burned in the charnel houses of Europe. In parallel, Generalplan Ost, and Organisation Todt, depopulated Eastern and Central Europe, as hunger policies caused famine to rip through the Bread Basket, while forced labour claimed millions of lives to feed the German war machine.
+			Fascist forced mobbed outside of Leningrad, Moscow, and 'Fortress Crimea', but the Red Army, ever defiant, made the invaders pay for every inch. The German advance was finally, and decisively, broken in the ruins of Volgograd.
+
+			The American war machine, now ruthlessly organizsd by Long's shadow network, awoke. Its first great victory was the bloody liberation of occupied Hawaii. For London, however, the Raj slowly slipping from its grasp sent a message across the Empire - "They can be beaten."
+			A wave of mass strikes and demonstrations in Canada was the first sign of the British Empire's death rattle. The Governer-General authorised a crackdown on any revolutionary impulse within the country, leading to masses of refugees arriving in the Northern USA.
+			The de-facto Long administration, made up of isolationists-turned-hawks, smelled blood. The American people were largely sympathetic to their northern neighbours, and so, the unthinkable happened - the execution of War Plan Crimson. American invasion of Canada.
+
+			The invasion was swift - the US Army was welcomed into Ottawa with only token resistance. To the Canadians' horror, however, the Americans decided that independence was not their destiny - instead, the Provinces of Canada became incorporated as States. The anti-Empire movement was split - some supporting American statehood, with most demanding total independence - and a not-insignificant Loyalist minority only added further fuel to the fire.
+			Losing Canada and the Raj sent a clear message across the Empire - Australasia was next, declaring unilateral independence; while South Africa threw out the British, and welcomed the Germans - becoming a non-belligerent Axis pact member. The African colonies broke free in near-unison, while the Caribbean saw American occupation replace British dominance. Ireland tried once again to break free, but the British, now no longer needing to station forces away from the Isles, had another idea.
+			Driven mad by the unstoppable collapse of its Empire, and fueled by rabid hatred towards the birthplace of anti-Imperial action, the punishment of Ireland made the failed Independence War seem tame in its bloodshed. Having taken out its frustrations on the Emerald Isle, Britain sued for peace with the American juggernaut.
+			Come the 1944 elections, President Long swore his oath of office to crowds of cheering supporters. Vice President Wallace stood beside him, secretly hating his puppeteering ways.
+
+			Back in Europe, the Nazi forces floundered against the Soviet walls. Pushed back to Berlin, with uprisings across Western Europe and a looming American invasion, the Soviets decided to end this war with flair. Twice in a century, they'd faced German aggression - this time, with the crime of crimes being committed against their citizens. They were determined that the German people would never again threaten them.
+			Thousands of theoretical physicists had escaped the Reich and its proxies. While a few went to America or Britain, both countries' deepening authoritarianism made a different destination appeal - Moscow.
+			Codenamed the "Chelyabinsk Project," a new type of weapon was designed. It was clear that, as long as Berlin stood, the Axis stood with it. The Soviet army had lost millions in the war, and taking Berlin would only bleed them dry - and they needed troops to secure the fracturing Reich, let alone their Eastern flank.
+			On the 18th of May, 1946, a single plane flew above Berlin. All anti-air defences in the city were destroyed by successive bombing campaigns - a reverse-Blitz of epic proportion. The plane flew as high as it could, and dropped a single bomb, targeted at the Reich chancellery building, and the Fuhrerbunker beneath.
+			In an instant, a light beyond light engulfed the square, blinding all for miles who dared to look at it. A massive fireball swirled out, and a mushroom cloud formed above the centre of the Reich. Shockwaves ripped up the ground beneath, with famous monuments being reduced to ash, rubble, and memories.
+			Not since the Thirty Years' War had Berlin seen such devastation.
+			Hundreds of thousands of civilians were vaporised alongside the Reich. Demoralised and terrified, the remaining holdouts surrendered immediately. The leadership of the Nazi Party, who had merely 4 years prior been the kings of Europe, were missing, presumed dust.
+			Across Eurasia, Japan failed to fight a two-front war. With Soviet troops now free to cross into Manchuria, their army folded, as the Red Flag raised above Beijing and Seoul. Terrified of Soviet occupation, the Imperial government surrendered to the Americans.
+
+			In Washinton, the end of the war with a planet-cracking bullet point led to panic among the new elite of Long's network. Wallace's clique believed that the USSR were potential allies, and that they should secure the future of the world by formalising this alliance. Meanwhile, General Douglas MacArthur, who had grown in power and influence throughout the war, wanted to steal the secret superweapon that had melted Berlin, and use it again - on Moscow.
+			Long, tired, pained, and jaded, couldn't hope to reconcile the two bitter foes. Realising his pursuit of high office was all for nothing, and his dirty tricks had only enabled the same hawkish technocrats to take the reins, the President wrote a note, placed it in his desk, and went for a walk into the woods, alone. He was never found.
+
+			Wallace's ascent was marked by instability, with MacArthur's clique accusing him of murdering Long. Wallace managed to organise the post-war order of Europe, and stepped down at the 1948 elections, placing the keys to the Oval Office into the hands of President MacArthur, and Vice President Robert Taft. The New Deal, the Share Our Wealth project, the age of Every Man a King, was gone. In its place was the beginning of a new war.
+
+			A very, very... Cold one.
+
+		The Second World War
+		______________________________
+		PROLOGUE
+			Backed by the resentful oligarchy, America began its divine mission: to contain a socialist bloc that stretched from Madrid to Seoul.
+			Europe fractured: France, Iberia, and much of the East aligned with Moscow, while Britain built a rival coalition of anti-communist states in northern Europe - the European "Democratic" Union.
+
+			In 1962, the Hashemite Kingdom of Arabia fell to Ba'athist revolutionaries. Religious and ethnic tensions still smouldered underneath, suppressed by the watchful eye of the Party.
+			China, guided by the orthodox Wang Ming after Mao's quiet ouster, threw its lot in with the Soviets. Nixon never went to China, and as it industrialised, the Soviet bloc seemed unstoppable. Even India and Arabia quietly bowed to the communist juggernauts.
+
+			Ireland remained under British rule. Another, slighly more successful revolt, led to devolution for Connaught, Leinster, and Munster - collectively known as the Autonomy. Ulster, however, was still ruled straight from London, with gerrymandering allowing the Protestant minority to hold a majority of power.
+			The Troubles never ended. The Catholic provinces had substantial Loyalist minorities, imported over by the Brits after its brutal depopulation strategy of 1944. No Irish state could be born without mass-terrorism from its Loyalist subjects - a fifth column, and a hallmark of British imperial strategy: Divide and Rule.
+
+			Surprisingly, the two superpowers managed to avoid a nuclear arms race. Wallace had hobbled the early efforts of the so-called "Manhattan" project, while the Soviets had no interest in building superweapons instead of train lines. While both powers continued research into peaceful nuclear power, and secretly maintained a tiny arsenal of weaponry, neither openly pointed global annihilation at the other.
+
+			Elsewhere in the nascent anti-communist bloc, the capitalist nations pursued reactionary politics to divide their working class. Apartheid carried on alive and well in South Africa. Australasia became a brutal police state, propping up puppet states in Papua and Indonesia. In the States, the Civil Rights Act of 1947 was still on the books, but was swiftly undermined by crypto-racist policies that restored segregation in all but name.
+
+			Come 1994, Chairman Mikhail Gorbachev was ousted in a soft coup by Marshal Dimitry Kruglov. At long last, Stalin's progeny had taken the throne. The simmering rot in the Soviet state had reached its top, and Kruglov's cronies soon enriched themselves, becoming no different to the oligarchs of America they decried.
+			The rest of the Soviet Bloc embraced this change, and Bonapartist leaders took power across Eurasia. In Poland, General Jaruzelski declared martial law, outlawing strikes and crushing dissent. In the Balkans, leaders like Milosevic and Boban took power in regional republics, claiming ethnic loyalty over class solidarity.
+			Socialists across the globe were horrified at this shift, while separatist movements and religious extremists chafed under centralised rule.
+
+			In 2002, mass uprisings in Derry escalated into the brutal "Bogside War." Loyalist paramilitaries, openly backed by the British state, bombed schools and massacred civilians. Britain's authoritarian grip only tightened in the aftermath - an inevitability of colonialism coming home to roost.
+			Ulster Catholics decided their time was up. They emigrated - either southwards to the Autonomy, or further out to Iberia. Many ended up using their experience in seperatist warfare to aid regional paramilitaries like the ETA.
+
+			And then, in 2009, Eurasia fell into anarchy. Continued instability, growing nationalist movements, and the assassination of Kruglov by rebels caused the mighty USSR to collapse. Its satellites followed suit - Poland came under a fundamentalist Catholic Junta, the Balkan Federation collapsed into a practical race war, and China fell into a familiar era of warlord cliques - Xinjiang, Tibet, Manchuria, Qinghai, and a weakened central remnant.
+
+			By 2015, Britain and the United States stand as hollowed-out powers - right-wing kleptocracies where democracy is theatre, wealth is power, and resistance is futile.
+			
+			The world is on the verge of a new, horrifying order.
+			Earth is a land of decaying empires and failed states, rotten to the core.
+
+			The old world is dying. The new world struggles to be born.
+
+			Now is the time of monsters.
+
+		Time of Monsters
+		______________________________
+		TLDR
+			The key differences between Rotten Core's history and ours boil down to 3 points:
+				1. Vladimir Lenin was succeeded by a triumvirate, rather than by Stalin. The USSR was much closer to its founding ideals, and the Eastern Bloc was much more unified - the Sino-Soviet split never happened, for example. But by 1994, the bureaucracy founded by Stalin's supporters took over across the Eastern bloc. They ruled for 15 years, when in 2009 the entire bloc collapsed into brutal civil war - imagine the Yugoslav wars, but covering nearly all of Eurasia.
+				2. Huey Long, the founder of modern American populism, survived his 1935 assassination, and went on to become the puppetmaster of the American government throughout the Second World War. However, the development of a corrupt oligarchy from his dirty tricks made him realise it was all for nothing, and he killed himself in 1946, his successor being ousted in the '48 elections by Douglas MacArthur and his clique, leading to a Cold War America even more openly corporatocratic than OTL (basically, imagine Reagan being about as far left as things get.)
+				3. The British Empire fell violently, as anti-independence crackdowns triggered mass revolts. Canada was annexed by the US; Australasia (a police state formed from Australia and New Zealand) became a militaristic hegemon; South Africa initially joined the Axis, and later, backed by the USA, maintained apartheid well into the 2010s; and the Raj became taken over by the Azad Hind movement, leading to oppression, rebellion, and more oppression in its Muslim and Sikh provinces. Ireland, however, remained under British rule; in 2002, a crackdown in Derry was so brutal, it earned the nickname 'The Bogside War.' Thanks to the "Imperial Boomerang," the British domestic government is de-facto anocratic, with a rigged two-party system and a marginalised left wing, similar to the USA.
+			
+			Aside from all of this, many smaller things happened across the world - you can read the Primer to check on the 'modern day,' or just read ahead.
+
+			On behalf of all of us, I hope you enjoy this story, and without further ado...
+			WELCOME TO THE ROTTING WORLD.
+
+		A Rotting World
+
+	A World Half Full
+
+Bloodhound
+______________________________
 VOLUME 1
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The morning sun dragged itself up from the horizon, shining softly over Geneva. Cold autumnal winds swept through the World City, scattering orange leaves like glitter on a child's drawing. Zeppelins floated through the skies, while jetplanes crisscrossed above them. Down below, the people moved like ants.
@@ -530,7 +705,7 @@ VOLUME 1
 
 	Beginnings
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It was springtime, 2006. Connor was riding his little push-bike. His uncle Vince pushed him along, as a young Amy and a small Staffy pup stood to the sidelines.
@@ -880,9 +1055,7 @@ VOLUME 1
 			"No need." Naismith cut in. "Look here."
 			He pointed to the cadaver's knuckles, where "1 4 8 8" was scrawled in ink.
 			"So?" the FI asked, confused.
-			"Those are Nazi tattoos." Naismith said nonchalantly.
-			"They are? I mean, that weird circle thing, sure, but..."
-			"1488 is a Nazi number."
+			"1488 is a Nazi number." Naismith said nonchalantly.
 			"Nazi number?" the FI pulled his head back. "How?"
 			"14 for the Fourteen Words - a racist slogan. And the 8th letter of the alphabet is H. 88 - HH. Heil Hitler."
 			"The Skulls do have a lot of outright neo-fascist members - especially Stoker's faction." the FI nodded. "We found a knuckleduster on his person too. We're checking for prints, see if we can ID this guy."
@@ -892,7 +1065,7 @@ VOLUME 1
 			For a moment the tent was silent, rain pattering on the canvas above.
 			"Sorry..." she said shyly. "Looking at the numbering on his knuckles... made me notice the similarity."
 			"Well spotted." Naismith nodded, kneeling closer.
-			"That's why you thought it was a gunshot at first." he realised. "Fragments of jawbone broke off at such a high velocity, they cut through the brain like bullets. That's why the exit wounds look unusual."
+			"That's why we thought it was a gunshot at first." he realised. "Fragments of jawbone broke off at such a high velocity, they cut through the brain like bullets. That's why the exit wounds look unusual."
 			The FI sighed. "It makes no sense. You can't just punch someone's head off."
 			Naismith didn't answer right away. He rubbed at the stubble on his chin, eyes narrowing, running the thought through. "No." he said at last. "But we've yet to find another explanation that fits."
 			"Okay... so the suspect is, what, Heracles?" the FI joked.
@@ -1102,12 +1275,14 @@ VOLUME 1
 			"Not just armed - military-types." Naismith began. "FIs found these weird black veins around their eyes. Several gunshots were reported in Belson last night - matching the type of rifles they were carrying."
 			"Did we get anything on CCTV?"
 			"We did..." he grimaced, playing the first video.
-			Nina went pale as she watched the squad of masked gunmen pour their ammo into a young man's body. She went paler as he collapsed - and rose again, before scaling the wall and sprinting away.
+			Nina went pale as she watched the squad of masked gunmen pour their ammo into a hooded young man's body. She went paler as he collapsed - and rose again, before scaling the wall and sprinting away.
 			"This happened only a stone's throw away from Tomlinson's murder." Naismith stroked his chin.
 			"I'm guessing we're not suspecting the gunmen here?"
 			"I'm more suspecting whoever just took a volley of rifle rounds to the gut and sprinted off is the kind of person with the strength to..."
 			"You mean... you think it *was* a punch that killed Tomlinson?"
 			He hesitated. "One thing at a time."
+			"His hoodie. You reeckon he's with the Hoods?"
+			"It makes the most sense." Naismith sighed. "But Crane seemed surprised when he saw the photo. If it *was* them, it must be a rogue element. It's not like them to sanction a hit like this. Hah, not like them to field superhumans, either."
 			"How do you think this connects to the burned man?"
 			"Forensics recovered a few rifles from the Blackmarsh site." he sighed. "They're all the same type. My theory - the boy in the hoodie caused the fire, and they went after him. How he connects to the burned man, I don't know."
 			"Here - traffic cam footage of the crash..." Nina nodded. She watched, and gasped.
@@ -1125,7 +1300,7 @@ VOLUME 1
 
 	Reanimation
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The Commandant took a deep breath, as he gingerly opened the door.
@@ -1627,7 +1802,7 @@ VOLUME 1
 
 	Oh, the Inhumanity
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The sky burned a brilliant orange as the sun crawled into the sea.
@@ -1972,7 +2147,7 @@ VOLUME 1
 			"Starving." he grinned.
 			She clicked finger-guns at him, and began microwaving some food.
 
-			He went into his bedroom, sat down on the bed, laid  down, and closed his eyes.
+			He went into his bedroom, sat down on the bed, laid down, and closed his eyes.
 			The drumming in his skull made his eyes throb, but he took deep, deep breaths, and centred himsself.
 			He was shaken from the pain by a drunken sister stumbling into the room.
 			"Dinner time..." she slurred, setting a plate on his lap.
@@ -2101,7 +2276,7 @@ VOLUME 1
 			"Hey, lad, it's Vince. Sorry, I know these prison phones are crap. Just wanted to say happy birthday, my lad. I... I know things have been tricky since I got nicked, but... I love you. And I'm very proud of the man you've become. Anyway, I... I gotta go, these phones are dogshite. But still... I hope I can see you soon, lad."
 			Connor's eyes teared up at the message.
 			He leant back and sighed, wiping his face. He looked at his phone again, and saved the message.
-			#He hesitated, and then put on a pair of headphones. He played a compilation of screaming babies. The noise was deeply irritating. He got to work disassembling the clock.
+			He hesitated, and then put on a pair of headphones. He played a compilation of screaming babies. The noise was deeply irritating. He got to work disassembling the clock.
 			While disassembling, his irritation peaked. He struggled to loosen a fastening, and nearly broke it in his haste. He leant back, and took deep breaths.
 			"Stay in control... Stay in control..." he muttered to himself. He finished disassembling the clock, and then reassembled it from memory.
 			Pain. Discomfort. Overwhelming frustration. And he didn't break a fragile clock.
@@ -2294,7 +2469,7 @@ VOLUME 1
 
 	Breaking Point
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			If you asked someone to draw a kindly professor, they would draw Isaac Lowenthal.
@@ -2910,7 +3085,7 @@ VOLUME 1
 
 	In Sheep's Clothing
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-2012. Chloe and Bea were at school, walking away from their last lesson of the day.
@@ -3149,7 +3324,7 @@ VOLUME 1
 		Walk in the park
 		______________________________
 		SCENE
-			"Forgive me, father, for I have sinned."
+			"Bless me, father, for I have sinned."
 			Father Declan smiled softly. "How long has it been since your last confession?"
 			"Seven months."
 			"May the Lord be in your heart and help you to confess your sins with true sorrow." Declan answered gently.
@@ -3183,7 +3358,7 @@ VOLUME 1
 			Declan raised his hand, unseen beyond the screen.
 			"God, the Father of mercies, through the death and resurrection of His Son has reconciled the world to Himself and sent the Holy Spirit among us for the forgiveness of sins. Through the ministry of the Church may God grant you pardon and peace, and I absolve you from your sins, in the name of the Father, and of the Son, and of the Holy Spirit. Go in peace."
 			The man rose, and Declan took a deep breath, before leaving the booth.
-			"Father Declan?" a young man began, approaching. "The, um... the police are here to see you. They're in your study."
+			"Father Declan?" a young boy began, approaching. "The, um... the police are here to see you. They're in your study."
 			Declan nodded. "Thank you, Kenneth. Please can you look after the church until I return?"
 			"Of course, Father."
 			Declan smiled, and headed into the back of the chapel. He hesitated, and opened the door.
@@ -3205,11 +3380,11 @@ VOLUME 1
 			"We'd be here all week." Naismith chuckled. "Have a good day, Father."
 
 			"Shame about Declan." Nina began as they sat in the car.
-			"Eyewitnesses confirmed the guy in the red hood entered the booth - and then when he came out, he was clad in armour." Naismith stroked his chin. "They reported the armour was spiky, and chitinous. So, different to the armour Stoker reported was worn by the man who killed his assailants."
+			"Eyewitnesses confirmed a guy in a red hood entered the booth - and then when he came out, he was clad in armour." Naismith stroked his chin. "They reported the armour was spiky, and chitinous. So, different to the armour Stoker reported was worn by the man who killed his assailants."
 			"Stoker talked to you?"
 			"A little." Naismith shrugged. "Still... it doesn't add up. Why would our suspect go into the confessional, and then get changed while talking to the priest?"
 			"Our eyewitnesses must be mistaken." Nina shook her head.
-			"Nah... that's the thing. The guy in the red hood - he's been spotted all over. Some contruction workers reported their foreman was assaulted by him the morning we found Tomlinson. He then leaped from a rooftop. Plus, there was a fatal shooting in Belson on Friday night - surviving eyewitness says their attacker wore a red hood. Worse... they say his eyes were bright red, just like our 'Church Demon.'"
+			"Nah... that's the thing. The Hoods have always been covert - but this new guy, he's been spotted all over. Some contruction workers reported their foreman was assaulted by him the morning we found Tomlinson. He then leaped from a rooftop. Plus, there was a fatal shooting in Belson on Friday night - surviving eyewitness says their attacker wore a red hood. Worse... they say his eyes were bright red, just like our 'Church Demon.'"
 			"So, we reckon the Demon is the same guy who wore the red hood?" Nina tilted her head. "What about the guy Stoker saw?"
 			"It makes the most sense. What we need now... is to track down the Burned Man. We get him, and we might be able to establish a connection."
 
@@ -3432,7 +3607,7 @@ VOLUME 1
 
 	Packmates
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The morning sunlight peeked in through the curtains, shining down on the sleeping pair of mutants. Their flesh trembled and twisted in their sleep - as though their alien biology healed better this way. They were both half-smiling - clearly sharing a good dream.
@@ -4154,7 +4329,7 @@ VOLUME 1
 
 	Monsters
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			For the first time in weeks, Drackhill actually had a nice, sunny afternoon. Naturally, the UV-starved residents of the valley had flocked to Rexton Bay to get some much-needed vitamin D. The gang were no exception.
@@ -4221,17 +4396,17 @@ VOLUME 1
 			"What?!"
 			"Listen. Your target is a man named Omar Hattab. Algerian general with a chip on his shoulder. Plotting to overthrow the government, institute a military dictatorship, and go to war with Tunisia. Government can't do anything, Western agencies are backing him, the KGB can't touch him - but you can."
 			"Why should I do this?"
-			"Aside from him plotting a coup and a war? The payout's 2 million. Plus, we'll be owed by some power players."
+			"Aside from him plotting a coup and a war? The payout's 3 million. Plus, we'll be owed by some power players."
 			"You're asking me to kill a man, potentially the next leader of Algeria, for money?"
 			"No." Ivan replied curtly. "I'm asking you to prevent a war that would kill hundreds of children, you'll just so happen to be rewarded for it."
 			"Nice appeal to my morals. You're still asking me to kill for money."
 			"Fine, yes - but he deserves it. And you need the cash."
-			"What would the police say, if they saw some poor boy from the slums suddenly getting 2 million?"
+			"What would the police say, if they saw some poor boy from the slums suddenly getting 3 million?"
 			"They've thought of that. A shell company would be created, and the money paid to it - you just so happen to be its managing director. The money'll be tied up in assets - it'll take time to liquidate, but you'll be measurably better off."
 			"Who's paying the money?"
 			"Construction firm. They could lose billions in contracts, so they're having Hattab taken out."
 			"Can't the government arrest him?"
-			"With who's army? His own?"
+			"With whose army? His own?"
 			Connor steeled himself. "When do I head out?"
 			"Not long - so get some sleep. Taxi will meet you outside at 6am. Will take you to a private airfield."
 			"How does the KGB have this kind of mission going? Thought you guys'd be tied up with the civil war."
@@ -4704,7 +4879,7 @@ VOLUME 1
 
 	Sandstorm
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			As the morning sun rose over the valley, it gave only a sliver of light to the people below - for dark, rainy clouds had gathered, as if in jest.
@@ -4761,9 +4936,7 @@ VOLUME 1
 			"Report, Dorsey." the Commandant said gruffly.
 			"The City Council's put pressure on me to find a certain vigilante killer - the traitor." Dorsey said, a hint of nerves in his voice.
 			"How much do they know?"
-			"We managed to keep the worst out of the press - they don't know the truth about the car, or the fire, or the beheading. We've assigned a counselor - Dr. Ruth Kitt - to the fire crew who found him. She's been put to work convincing them that what they saw wasn't real."
-			"Can we trust Kitt?"
-			"Yes sir. She's implicated from '08 - she won't talk."
+			"We managed to keep the worst out of the press - they don't know the truth about the car, or the fire, or the beheading. Our... 'associate,' Dr. Vacher, has assigned himself as the fire crew's therapist. He's going to gaslight them - make them think they didn't see anything."
 			"Good. How about the other coverups?"
 			"We've explained the car incident as a regular crash - and kept the fact that the men were armed quiet. Still... they know about Tomlinson's murder."
 			"Do they know the 'how?'"
@@ -4791,15 +4964,7 @@ VOLUME 1
 			"Not food." Connor whispered sharply.
 			"I know." Sparky grinned. He sat down, and looked at the rabbit pens, smiling giddily. As they hopped around, he laughed like a child. Connor couldn't help but crack a big smile too.
 
-			That evening, in a cluttered desk in Drackhill police station, DI Naismith sipped his coffee. PC Chowdhury nervously approached.
-			"DI Naismith, sir?" she said timidly.
-			Naismith stood, and smiled. "Good to see you again, PC Chowdhury. How can I help?"
-			Nina smiled back. "The vigilante killings? We've been assigned to the case."
-			"They've got PCs doing admin work now? Bloody budget cuts." Naismith chuckled.
-			"Tell me about it, sir." Nina replied, still smiling, placing the files on Naismith's desk. "Sir." she nodded respectfully as she left.
-			Naismith read through the files - the words "Vigilante Killings," "Redbridge Gangs," "Unnatural strength and stamina," and "Experimental steroid usage?" were visible. He sighed. 
-
-		Enter, Naismith
+		Meditating
 		______________________________
 		SCENE
 			A white van pulled up in a pub car park. The rain spattered down onto the city, providing an ambient noise as the van door slid open. Out hopped a group of men, with shaved heads and tell-tale leathers identifying them as Stoker's former goons. They sauntered into the pub - the Hog and Hounds.
@@ -5241,7 +5406,7 @@ VOLUME 1
 
 	He's a Devil, He's a Hero
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			"Boss. We've got a problem."
@@ -5376,7 +5541,7 @@ VOLUME 1
 			"Yes! Okay, yes!"
 			"Thank you."
 			Connor dropped down, landing his knee on the man's head. His eyes rolled back, and he stopped struggling.
-			Connor picked him up by the scruff, and dragged him out to the front. Amy did the same, and before long, they'd cleared the cafe of its interlopers.
+			He picked him up by the scruff, and dragged him out to the front. Amy did the same, and before long, they'd cleared the cafe of its interlopers.
 
 			"Nice work." she smirked, before kneeling down. "Did they hurt you, buddy?"
 			"They wish! Lucky we had to play pretend." he grinned.
@@ -5396,23 +5561,312 @@ VOLUME 1
 		Skullcrusher
 		______________________________
 		SCENE
+			"Jesus fuckin' Christ."
+			Naismith stepped outside of the room, pulled down his forensic mask, and took a deep breath. Blackmarsh's damp air was surprisingly refreshing, considering what he'd just seen.
+			"Evening, sir." Nina nodded as she approached. "How bad is it?"
+			"Bad. Very, very bad." he shuddered, ushering her in.
+			"Holy..." she gasped at the sight.
+			A lifeless older couple stared vacantly at them. Both were suspended in the air, on meathooks. Several chunks of flesh had been removed.
+			"They were found by their son this afternoon." Naismith explained. "He says he came over to surprise them, but instead saw... this."
+			"Where's his legs?" Nina grimaced, pointing.
+			"We found leg-bones outside. The flesh... we're still trying to locate it."
+			"God..." she whispered. "Who were these people?"
+			"Joanna and Paul Falkener." he began. "54 and 56, respectively. They were pig farmers - hence the presence of meathooks and butchery implements. The son, Eric, is being questioned upstairs."
+			"Do we have any idea who might want to kill these people?"
+			"Well... the pigs have gone missing." he shrugged. "They were very clearly let out of their pens. So, I'm suspecting this was a pig-theft."
+			"Still... why string them up in the larder?" she shuddered.
+			"Excuse me." a man began, walking down the stairs. "DI Naismith? I'm Investigator John Macintosh, NCA."
+			"NCA?" Nina tilted her head. "What's the NCA doing here?"
+			"We have reason to believe the Falkeners were killed by an individual we've been tracking."
+			"What individual?" Naismith asked.
+			Macintosh showed a blurry photograph.
+			"A serial killer... known as Pig Head."
+			A moment of silence.
+			"...Pig Head? You're serious?" Naismith chuckled grimly.
+			"Yeah, blame the Gazette for the nickname." Macintosh sighed. "We're taking it from here."
+			"Seriously?"
+			"Yeah, seriously. Now, I'd be very grateful if you could give us anything."
+			"The dogs are out, but I doubt we'll find any trail in this soddin' rain." Naismith shrugged. "The bodies are days old, at least."
+			"Well, it can't hurt to look." Macintosh nodded. "Tell your canine handlers to report to me, please."
+			"Sir, yes, sir." Naimith muttered as the man left.
+
+			"You get all that?" Connor asked, turning to Sparky. The twin Werewolves were perched on a tree branch overlooking the Falkener's farm.
+			"The dogs down there can't pick up the trail. But maybe we can?" his wolf-brother suggested.
+			"I still can't believe they're calling him 'Pig Head.'" Connor snarked. "I'll follow the trail, see if I can find this guy. Are you okay to handle city patrol?"
+			"Can't I stay here with you?" Sparky asked. "Hunting this Pig Head guy might be fun!"
+			Connor hesitated. "Yeah, okay. But once we're done, we're still doing patrol."
+			"Deal!"
+			The pair waited for a gap in the surveillance, and swept in through the shadows.
+			Sparky quickly found the trail - faint, very faint - but the smell of the stolen pigs seemed to be leading northwards.
+			"That's towards the Wyrmwoods." Connor noted, his eyes glowing as he scanned the soaked ground. "If this Pig Head guy took the pigs with him, he probably has a cabin out there."
+			"Let's go!" Sparky yipped, as they started to move with the trail. Connor put two fingers to his earpiece.
+			"Hey, Verdict - I don't suppose the KGB has access to National Crime Agency files, huh?"
+			"We can *get* access. What do you need?"
+			"Is there anything on a serial killer called 'Pig Head?' And for the record, that's the last time I'm gonna use that stupid name. Even 'Grom' is a better codename."
+			"Yes... he's well known in the intelligence world. His real name is Christopher Percival Bacon."
+			"...wait. Chris P. Bacon? Are you fucking with me?!"
+			"Of course I'm fucking with you!" Ivan laughed jovially. "No, they have no name or alias on this guy. But apparently, he targets pig farmers. According to surviving witnesses, he wears some kind of pig mask... well, they say he has a pig's head, but the NCA think it's a mask."
+			"The NCA probably think I'm just a guy who eats spinach." Connor quipped. "Alright... let's see if we can track down the Notorious P.I.G."
+			"Says here the guy's deranged." Ivan noted. "Watch yourself."
 
 		Larder
 		______________________________
 		SCENE
+			The pair came to a stop outside a log cabin in the middle of nowhere. Their eyes burned, as they scanned the site.
+			"The pigs are all milling about in a den underground." Sparky noted. "Pigs and humans are surprisingly similar - I'm struggling to figure out who Pig Head might be."
+			"Amy Swinehouse'll be in there *somewhere.*" Connor shrugged.
+			"You're gonna keep calling him funny names, aren't you?"
+			"Of course I am." Connor chuckled. "OI! Luke Skyporker! You in?!"
+			He saw a humanoid heartbeat quicken, before it raced towards a cabinet.
+			"Alright... go time." Connor grinned.
+			A kick ripped out from him, smashing down the door. The twin Werewolves stormed in, and rushed downstairs.
+			There, Connor's own hearts fluttered in horror.
+			Not from the fact that this 'cellar' was a lot bigger than he'd expected - it was more like a man-made cave.
+			Not from the several corpses dangling from even more meathooks - well, not *just* them. Those were pretty spooky too.
+			Not from the several squealing, very clearly angry pigs.
+			Not from the butcher's table with several *more* corpses, who had been filleted.
+			Not even from the altar with several candles - and the skull of a pig held in place, in reverance; in a way that uncomfortably reminded him of Sunday Mass.
+			No, the freakiest part... was the hulking lump of a man, grotesque and rotund - with a pig's head.
+			"Okay... the name actually makes a bit more sense now." he shuddered. "So... I guess a joke about 'long pork' would be in bad taste, eh?"
+			Pig Head snorted angrily through his snout, chewing and swallowing a chunk of raw human meat.
+			"Haha! Taste... I didn't even plan that one, it just... *ahem.* I make jokes when I'm nervous."
+			"You... We heard stories about you..." Pig Head growled. The way his mouth moved as he spoke - in a surprisingly articulate way - only further unnerved the Werewolves.
+			"'We?'" Connor pressed.
+			"The Pigs speak of you."
+			Connor cleared his throat again, looking down at the herd of swine. A particularly grumpy-looking sow was staring at him intently.
+			"Um... they spoke of me?"
+			"Can they talk, too?" Sparky tilted his head. "Hi! Um... My name is 'Not the Big Bad Wolf.' That's right! You can build as many straw houses as you like."
+			"That was good. That was really good." Connor grinned. "We should quip more often."
+			"You kill the stink." Pig Head nodded.
+			"The... stink?"
+			"Yes... you've killed so many of them. We are impressed."
+			"You're talking about Super-Agents?"
+			The Pig tilted his Head. "Super-what?"
+			"Wait... you mean humans, don't you?"
+			"Yes..." he--or it, maybe--grinned savagely. "But why? The Pigs don't know, not yet. Is it friend or foe?"
+			"Listen... you've killed people. But you're also... clearly ill. So, I'll give you this one offer. Surrender, now."
+			A wet, honking snort noise fllled the cave. "Foe? Foe! FOE! The Pigs scream! PIGS SCREAM! Hungry. HUNGRY. HUNGRYYYY!"
+			"I'll take that as a 'no.'" Connor chuckled darkly. "Okay, then, Hamuel L. Jackson - let's dance, motherfucker."
+			The pigs around them became agitated - very agitated. Then, they pounced.
+
+			The first hog to jump in was young, and had a spring in his trotters. He moved with suprising agility, clamping his tusks on Connor's forearm.
+			The suspicious sow chose to take on Sparky - bull-rushing into his hide and trying her best to gore him.
+			Connor sent a kick to his pig's underbelly, sending it flying back and crashing down. He heard a cacophony of cries - tucked away in the corner were a gaggle of piglets - younger siblings to their hotheaded brother.
+			"Sparky!" he barked. "Careful not to kill, okay?"
+			"Oh, but when we buy bacon from the shop, that's fine." he snarked. "Alright."
+			He turned on his side, and swept the sow's legs out from under her.
+			"KRRRRUUUUUURRR!" Pig Head roared, charging in. He spun around, and drove something down.
+			It didn't hurt. Not really, not at first. The second swing was similar.
+			Then both hit his nervous system, and he howled in pain.
+			Pig Head pulled his arms back, wrenching his twin cleavers from Connor's clavicles.
+			He knelt down, and crossed his arms, morphing a bandage over the tears to stop the bleeding. Then, his eyes blazed.
+			"Alright, Piggy Stardust. You want a fight? I'll give you a fight."
+			Pig Head responded with a guttural snort that might have been laughter. He raised both cleavers, the blades glinting in the dim candlelight.
+			Connor shifted mass from his blood to his fists, thickening them into calcified bludgeons. He pounced forward like a cannonball, and drove a devastating uppercut to the swine-faced maniac.
+			"STOP FIGHTING ME!" he squealed. "YOU'RE ON MY SIDE! KILLING THE HUMANS!"
+			"I kill *monsters,* porky." Connor snapped back. "You kill innocent people. That's not remotely the same."
+			"Not innocent! They're all bad! ALL BAD!" Pig Head cried. "They hurt the Pigs! Made ME hurt the Pigs! BAD, BAD PIG HEAD!"
+			He bashed himself in the face with a rock, as Connor grimaced.
+			"TWENTY YEARS! TWENTY YEARS I LISTENED TO THEM SCREAM! AND NO ONE CARED! NO ONE!"
+			The cleavers glinted in the candlelight, as he swung them towards the Werewolf.
+			Connor snarled as they cut into his hide, slicing his abdomen. He raised his hammerfists and brought them down, and heard a satisfying *CRACK!* as Pig Head's right elbow buckled.
+			"GAAAGGH! KRRRRUUUUUUUURRR!" the monster screamed. He brought down the other cleaver, and it narrowly missed Connor's head.
+			"Who were you?" he asked, catching his breath. "And what happened to you?"
+			Pig Head sobbed, crawling towards the altar.
+			"I'm sorry. I'm sorry. I'm sorry." it whispered to the skull.
+			"Hey, Connor?" Sparky barked, having just bodyslammed another boar. "Can we wrap this up?"
+			"Who were you?" Connor pressed.
+			"Evil. Bad. BAD!" the porcine hulk blubbered. "I hurt the pigs! And they knew! Every night, they screamed into my ears! I couldn't take it!"
+			"So... you were what, an abbatoir?"
+			"Murderer. Call it what it was. Murder."
+			"You've murdered a lot of people recently, Hamlet." Connor scowled.
+			"AND THEY DESRVED IT! ALL OF THEM!"
+			Connor readied his fists for another bout. "Alright, former abbatoir turned psycho cannibal, I get that bit. I even get the whole 'haunted by dead pigs, goes after pig farmers' schtick. But... and I mean this respectfully... what the fuck is up with your face?"
+			"Kind man..." the swineface smiled. "Taught me how to listen to the Pigs. Then he stuck his knives in my face and made me... better."
+			Pig Head reached for his snout, and honked it like a clown's nose. He let out an oink, and giggled.
+			Connor's eyes flicked to the pig skull on the altar. Then back to the man in front of him.
+			"Totenshweine over there. Was it---"
+			"He. He is the biggest screamer. Tells me exactly what I need to do." Pig Head whispered, before picking up the skull and giving it a kiss on the forehead.
+			Connor looked at the man - the broken, twisted, surgically-altered man - and felt something shift in his chest. Not pity, exactly. But close.
+			"One more chance. Come quietly, and maybe we can get you the help you *actually* need."
+			"NOOO! NO! SHUT UP!" Pig Head screamed, lunging forward. "SHUT UP SHUT UP SHUT UP!"
+			Connor met him head-on.
+			
+			Pig Head's cleavers carved chunks out of the walls, the floor, anything in their path. Connor's wristblades sparked against the metal, each impact jerking his arms.
+			"Alright..." Connor snarled. "No more 'last chances.'"
+			His wwristblades reformed into the chitinous gauntlets, and he parried a cleaver-swing with a heavy strike.
+			The air shook from the impact force. His bludgeon cracked and weakened - while the cleaver's blade snapped, and Pig Head's arm flew backwards.
+			He pressed his advantage - stomping his foot on the monster's knee, feeling it pop from the force.
+			A leap up, delivering the mother of all headbutts to Pig Head's chin. 
+			hen, push-stepping off of the shoulders, he brought the hammers down on his enemy's snout.
+			Cartilage crunched. Pig Head howled - not in rage this time, but in pain. Real, human pain.
+			Connor somersaulted over his rotund quarry, landing on the altar. He held the skull aloft.
+			"Hey, Oink Floyd! Surrender now, or Daddy Pig gets it!"
+			"PLEASE!" he screamed, his voice cracking and weak with blood-filled sinuses. "PLEASE! I'M SORRY! I'M--"
+			Connor hesitated. The Rage was there, pounding in his skull, demanding he finish it. But the man was broken. Beaten. Bleeding.
+			He threw the skull forwards. Pig Head leapt forward, catching it. He looked up, and...
+			Connor's boot crashed into his temple. His eyes rolled back, before another strike - this one to the back of the neck, right were spine meets skull. Then, Connor jumped in the air in a backflip - and drove his knees into the back of the lungs. Finally, he grabbedd the tuft of hair at the scalp, yanked the killer's head in the air, and slammed it back down into the corner of the altar. The stone cracked, as Pig Head finally went limp.
+			"Sparky!" Connor called out. "How are the pigs?"
+			"Calming down!" Sparky reported. "Now he's stopped screaming, they're just... milling about."
+			"Well, I guess if Napoleon Boarnaparte isn't issuing orders, then--"
+			"Okay, stop. He's unconscious, he can't appreciate the puns anymore." Sparky sighed.
+			"Alright, alright - you know, trying to stop me will only make it worse? It's the Boarbra Streisand eff---"
+			*SHK!*
+			"OW! Okay, fair." Connor chuckled, plucking a bolt from his arm. "I didn't even know you could do the crossbow trick."
+			Sparky grinned, as the back-mounted ballista dissolved and re-absorbed into his hide.
+
+			Before another moment of victory could pass, the moment was killed.
+			"ARMED POLICE! SHOW ME YOUR HANDS!" Naismith roared.
+			"Oh, look! More pigs!" Connor quipped. His and Sparky's armours thickened, as they bull-rushed forwards, knocking the officers down.
+			Naismith stumbled to his feet, frantically giving chase--no. They were already long gone.
+			"Jesus Christ..." he spat, before heading back downstairs.
+			"This... is a lot to process." Nina shuddered.
+			"Hey, leave it to the NCA. They wanna deal with the paperwork here? Let 'em." he chuckled darkly.
+
+			"Why didn't you kill him?" Sparky asked, as the two arrived in the city's outskirts.
+			Connor paused for a moment. "Because people like that... they're not responsible for what they're doing, not really. Okay, he hurt a lot of people - but from his perspective, he was saving sentient beings that were being tortured and murdered. And he was ill."
+			"We need to find out who changed his face." Sparky nodded. "That's the real criminal here."
+			"Agreed." Connor nodded. "Now... we'd better go on patrol."
+			"Ugh..." Sparky groaned.
+			"Fair's fair."
+			"You got all the cool fighting! I had to play sheepdog with a bunch of things that very much weren't sheep!"
+			"How do you think I feel? It's gonna be a good week or so before I can stomach a bacon sarnie again."
+			The two locked eyes, then burst into laughter.
+			At the back of Connor's mind though, a gnawing feeling persisted.
+			Why wasn't he horrified? Why wasn't he in shock?
+
+			Why was this normal, now?
 
 		Porky Pies
 		______________________________
 		SCENE
+			The final notes of the organ faded into silence. Father Declan stood at the altar, watching the last few parishioners filter out into the cold night air.
+			Danny, a boy of perhaps twelve, moved through the pews with practiced efficiency, collecting hymn books and straightening kneelers.
+			"Come now, Danny." an older woman began. "I'm sure our dinners have already gotten cold."
+			"Oh, I--" Danny stammered. "I offered to help Father Declan close up."
+			"Did you, now?"
+			"Yes." he smiled. "If I'm going to be a priest when I'm older, I'd better get used to this kind of work."
+			"Well, the best priests always listen to the nuns." Declan smiled, approaching. "Don't worry, Mary - I shan't keep him long."
+			She chuckled. "Well, I'm here anyway. I'll sort the collection money in the office."
+			"You'd better not pocket any!" Danny grinned cheekily.
+			"Wicked boy!" Mary gasped, before giggling. "A good priest never makes unsubstantiated accusations."
+			"Also, don't think this gets you out of homework." Declan smirked.
+			"Aww!" Danny groaned, before heading off to put out the candles.
+			The church fell quiet. The only sound was the faint hum of the heating system and the soft squeak of Danny's shoes.
+			"Father? Can I ask you something?"
+			Declan hung his sermonal vestments on a hanger, before turning to the boy. "Clearly, you can. You just did."
+			Danny rolled his eyes. "May I, then?"
+			"Of course you may." Declan smiled.
+			"The man in the confessional. The one who... you know."
+			He gestured vaguely at where the confessional booth once stood.
+			"Danny..."
+			"Was it true? Was it really a monster in there?"
+			"Daniel." Declan said firmly. "You know full well, anything that happened in that booth was between the penitent and God. And all of it is protected by the Seal of the Confessional."
+			"I know..." Danny sighed. "But... does that happen often? When I become a priest, will it happen to me, too?"
+			Declan took a breath, before kneeling down.
+			"Listen... sometimes, people who are... deeply troubled, will come to the booth seeking help; from you, or from God. And sometimes, sadly, deeply troubled people can lash out. It's not for us to sit in judgement on that - only to help them, to the best of our ability."
+
+			The door swung open.
+			Declan looked up, expecting a latecomer. Instead, six figures in black tactical gear marched down the centre aisle. Their eyes were dark with pulsing veins.
+			Declan's blood went cold.
+			The leader pulled down his balaclava, and smiled savagely.
+			"Father Declan. We need to talk."
+			Two of his men grabbed Danny. Another dragged Sister Mary from the sacristy, her hands bound.
+			"Take your hands off him!" she shouted.
+			The leader ignored her. "The Werewolf came to you. He told you things. I want to know what."
+			Declan gulped. "I---I can't. The Seal--"
+			A stike to the face stopped the sentence from finishing.
+			"I don't give a fuck about your rules, Chaplain." the leader barked. "Talk."
+			"...you'll have to kill me." he defiantly scowled.
+			"Okay. Okay." the leader nodded. "Number Four?"
+			"Yes, sir?"
+			"On the count of three, shoot the boy."
+			"Sir."
+			"NO! No, please don't!" Mary screamed, as Danny froze in terror.
+			"Her next. One."
+			"Please! Please don't do this."
+			"Two."
+			"ALRIGHT! I'll talk." Declan barked, ashamed.
+			"Thank you." the leader grinned. "So?"
+			"He... he told me he'd killed 12 men, and planned to kill more. He said people had taken him, and... twisted him inside. And that they were going to do it again."
+			"Anything else?"
+			"No, I swear."
+			Number Four pulled the hammer on his gun.
+			"As God is my witness, I swear."
+			"Very well." the leader grinned. "Alright boys - take aim."
+			"NO! Please, shoot me if you must, but let them go!" Declan roared.
+			"Oh, lookie here! A good old fashoined matyr! There's comfier ways to sainthood, Chaplain."
+			The leader drew his pistol, smirking devilishly.
+			He pulled back the slide, loading the round.
+			Declan closed his eyes.
+			He fully expected that, when they reopened, he'd be in hell.
+			But there was one "demon" that wasn't having that.
+
+			*DING-DONG, DING-DONG. DING-DONG-DING-DONG!* the church bells rang, the noise ripping through the air.
+			The Agents raised their weapons, flashlights on.
+			"Come out!" the leader barked.
+			A laughing noise - a guttural, demonic laughing noise cackled through the hall.
+			Connor darted from rafter to rafter, his twinned windpipes flexing.
+			One kept the laughing, while the other began to speak.
+			"Deliver the poor and needy. Rid them out of the hand of the wicked." he recited.
+			"So... you betrayed your true purpose, to become a preacher boy? Is that it?" the leader snarled.
+			The laughter wouldn't stop. The other voice continued.
+			"I will be merciless, and punish them in anger. And when I exact vengeance, they shall know that I am the Lord."
+			The words boomed throughout the chapel, as the laughter grew more unhinged.
+			"LIGHT HIM UP!" the leader roared.
+			The Agents' guns erupted in a hail of fire, as bullet after bullet dug into the rafters and ceiling.
+			"Cease fire! Cease fire!"
+			The Agents frantically searched with their flashlights, looking for their prey.
+			Declan had knee-walked over to the others - and, like true Catholics, it seemed he and Mary were competing for who would be the human shield.
+			"Circle formation! Back to back! Don't let him get the drop on us!"
+			The Agents quickly moved into position, searching through panicked breaths.
+			In the middle of the circle, a large metal grate stood. Its purpose was to drain mopwater from the church floor, as well as provide easy maintenance access to the supply pipes.
+			Humans weren't meant to fit in there. Indeed, the only real access point within the Werewolf's reach was another gutter on the upper floor, which connected to a chute that brought dirt and soap down into the wider drainage network.
+			And yet... hypermobile joints, combined with a pain tolerance that thought nothing of dislocating ones shoulders...
+			"The righteous shall rejoice when he seeth the vengeance."
+			At that, the grate burst open, and a red-eyed demon roared out.
+			The Agents turned quickly.
+			Not quickly enough.
+			Connor's first strike disemboweled Number Four. The second took off Number Six's head. The third was a slice, then an impalement stab, over Number Two's chest.
+			The Agent's guns roared for a split second, before uselessly clicking.
+			"DAMN IT! RELOADI---" Number Five barked, before a wristblade turned his throat into set dressing.
+			Connor turned quick, sending his blade upwards. It stabbed upside Number Three's head, poking out the top of his skull. A quick rip tore the head off surprisingly cleanly.
+			Finally, the leader drew his machete.
+			"Come get some, Traitor!"
+			Connor's eyes blazed, as he charged.
+			The leader's swipe slashed open his throat.
+			Usually, that ends a fight.
+			Oh, the fight ended, sure.
+			The leader's shocked expression quickly went vacant, as Connor's blades drove into his ribcage. Then they swept out, and the gory paste that was once a Super-Agent fell to the floor.
+			Connor huffed. Heaved. He pulled out his Coagulator, and quickly sprayed his neck with it.
+			Then, he breathed properly again.
+			"Are... are you..." Declan gasped, pale. "Are you alright?" he finally spluttered.
+			"You mean, apart from the unwanted tracheotomy?" Connor would've quipped. Instead, he let out a rasp, before sighing - well, "sighing," and putting a thumb up.
+			"I... I'm sorry, I... I'm so sorry." Declan cried.
+			Connor put a gentle hand on Declan's shoulder, then patted it. He turned, and saw Mary and Danny looking up at him.
+			Mary was pale as a sheet. All her knowledge of theology couldn't prepare her for this.
+			Danny, however, looked up in awe.
+			"Are you... Azrael?" he asked.
+			Connor chuckled. The Angel of Death. Incidentally, not recognised as such by the Catholic church - Danny was a heretic in the making, it seemed.
+			And yet, it was clear the child meant no harm by it. To Danny, his saviour was a monster - a holy, righteous monster.
+			Connor heaved a bloody breath, stepping forwards.
+			The wounds from Pig Head's wrath had reopened in the carnage. He was supposed to be dead.
+			Indeed, he walked through the valley of the shadow of death.
+			No one was with him. Neither rod nor staff comforted him.
+			But as his crimson eyes dimmed, and he melted into the night, he feared no evil.
 
 		Last Rites
 		______________________________
 		SCENE
-
+			The afternoon sun fluttered through Connor's window - before a cloud choked it away.
+			His eyes slowly, miserably forced themselves to open.
+			"Ugh..." he groaned, rising. His wounds were mostly healed, with only minor bruising left to see.
+			"Hey..." Sparky yawned. "Can we have breakfast?"
+			"Sure." Connor chuckled. "Go on into the living room, I'll get myself ready."
 			He checked his phone, and saw a text from Amy.
 			"Hey, bro - you and doggo were snoring loudly, so i didnt wake you. anyway, theres a halloween party @ treys tonight - you coming? bring sparky pls <3"
-			Connor looked at the text, and smiled softly. He looked over at Sparky.
-			"Hey, bud - I've been invited out tonight - it's a Halloween party at my friend's house. Do you wanna come with?" he asked.
+			Connor looked at the text, and smiled softly. He shambled into the bathroom, washed his face, and looked over at Sparky.
+			"Hey, bud - I've been invited out tonight - it's a Halloween party at Trey's house. Do you wanna come with?" he asked.
 			"Ooh! I saw a film about Halloween on the telly the other night! Can we dress up?" Sparky asked, excited.
 			"Haha, we sure can - what use is having shapeshifting powers if you can't look the part, eh?" Connor smirked. He morphed into a creepy monk outfit. He looked at his reflection, and smiled.
 			"Wow, you look very scary!" Sparky barked encouragingly. He morphed too, equipping a harness with bat wings.
@@ -5428,10 +5882,9 @@ VOLUME 1
 			"Trick or Treat!" Connor smirked.
 			"Connor!" Amy shouted, running over and hugging him. Then, she pushed him away jokingly, and nuzzled into Sparky.
 			"Hi, Amy! You look cool!" he beamed.
-			"Hey, bro--oh. My. GOD! 
-			 He was dressed as a zombie, with several impressive make-ups - likely done by Amy.
+			"Hey, broski." Trey smiled. "Long time no see." He was dressed as a zombie, with several impressive make-ups - likely done by Amy.
 			"I'm sorry guys... I've been meaning to come out more, but yeah, busy busy. Working with Tommy - you know how it is." Connor said, shifting his weight uncomfortably.
-			Amy sighed. "You gotta get out of that shit, Connor. While you still can." she said, her voice full of nothing but concern this time.
+			Amy sighed. "You gotta get out of that shit, Connor. While you still can."
 			The image of Vince's arrest flooded his mind. "It's different. I'll... I'm not going to make that mistake again."
 			"You be careful, bro..." Trey said, likewise concerned.
 			"I will. Don't worry." Connor nodded reassuringly. He joined his friends in the living room.
@@ -5441,9 +5894,7 @@ VOLUME 1
 			"Hi! Hello Chloe! I missed you!" Sparky said, rushing up to her.
 			"Oh no way, hey Sparky!" Chloe giggled, stroking him.
 			"Aww, I love him! He's adorable!" Bea said, stroking Sparky's ears.
-			"Hello! I'm Sparky! What's your name?" Sparky barked happily.
-			"Aww, I love the way he barks! So cute!" Bea squeed. Connor smiled.
-			"Hey guys!" Bea exclaimed happily.
+			"Hey guys!" Amy cheered.
 			"Dios mio! Un vampiro!" Trey faux-screamed.
 			Bea hissed teasingly.
 			"Oh no!" Chloe laughed, realising that her and Amy were wearing the same outfit.
@@ -5475,7 +5926,7 @@ VOLUME 1
 			Amy leaned forward slightly, hands clasped.
 			"Okay... I have this one on good authority. One of the regulars at the tattoo place... he was working on maintenace under the city."
 			"Under?" Bea tilted her head.
-			"There's a tunnel network under the city." Connor nodded. "A valley this wet needs plenty of storm drains, not to mention the natural caves formed by underground rivers. The valley's bedrock is mostly clay and limestone, which is perfect for tunnelling. That's also why the inner city has so many high-rises - there's a surplus of building materials, and space comes at a premium the closer you get to Caldermouth. During the Great Depression, there was a public works scheme where they just built a shitload of tunnels for various purposes. Plenty of older houses' basements still join into them. There were plans for a metro line in the 50s, but--"
+			"There's a tunnel network under the city." Connor nodded. "A valley this wet needs plenty of storm drains, not to mention the natural caves formed by underground rivers. The valley's bedrock is mostly clay and limestone, which is perfect for tunnelling. That's also why the inner city has so many high-rises - there's a surplus of building materials, and space comes at a premium the closer you get to Caldermouth. During the Great Depression, there was a public works scheme where they just built a shitload of tunnels for various purposes. Plenty of older houses' basements still join into them, and most major car parks are built underground. There were plans for a metro line in the 50s, but--"
 			"Nerrrrd." Amy snarked. "Besides, he's underselling it. No one calls it 'the old tunnel network.' They call it..."
 			Trey lowered his voice dramatically. "The *Underhill.*" 
 			Bea and Chloe chuckled. Amy grinned, and continued.
@@ -5496,9 +5947,12 @@ VOLUME 1
 			"It's true." Amy nodded firmly. "Anyway, a lot of these kids ended up getting stuck underground. Some of them - not many, but some - managed to crawl their way into the rivercaves Connor mentioned. There, they would meet other kids... they'd get older, have babies..."
 			"And the Sewer People were born." Trey shivered. "Their skin is so white, it's like chalk. Their eyes are all black, and bulging like fish. And their claws - perfectly evolved for digging - are sharper than swords."
 			"Right." Chloe smirked. "You *do* know you're talking to a biologist, right? People don't just 'evolve' like that."
-			"There's apparently a Werewolf on the loose in this city - I don't think standard biology applies." Bea grinned.
+			"There's apparently a Werewolf on the loose in this city, and he just went toe-to-toe with a guy with a pig's head - I don't think standard biology applies." Bea grinned.
 			"Hey, whose side are you on?" Chloe laughed.
-			Amy chuckled, leaning in. "So, Andy accidentally broke into a Sewer Person nest. He says he shined his light over them, and they... squirmed."
+			"You guys heard about the Pig Head?" Connor cocked an eyebrow.
+			"Yeah, it was all over the news." Trey nodded. "Only in this city, could we have a man-pig cannibal killer the *night* before Halloween."
+			Connor chuckled awkwardly. Amy grinned, leaning in.
+			"So, Andy accidentally broke into a Sewer Person nest. He says he shined his light over them, and they... squirmed."
 			"Their skin peeled at the heat of the light." Trey nodded. "And they went... feral."
 			"They charged him. Bit him. Clawed at him." Amy shivered. "He barely made it back to the street, and collapsed."
 			"Wow." Bea grinned. "You guys are funny, I'll give you that."
@@ -5519,7 +5973,7 @@ VOLUME 1
 
 	Pigs to the Slaughter
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			Autumnal evenings in Drackhill were often grim, and tonight's, it seemed, would be no different.
@@ -5659,8 +6113,7 @@ VOLUME 1
 			"It's not that... it feels like they're growing back. Like I'm teething." Connor shuddered.
 			"You can grow back teeth?" Ivan cocked an eyebrow.
 			"Oh, that's normal. All my teeth fell out when I was a pup, but they grew back pretty quickly!" Sparky chimed in.
-			"I, uh... I think that's different." Connor chuckled, before turning.
-			"That and I just washed them with acid."
+			"I, uh... I think that's different." Connor chuckled, before turning. "That, and I just washed them with acid."
 			"Ah. That sounds painful."
 			"You're more surprised by regrowing teeth than you are by acid spit?" Connor cocked an eyebrow.
 			"I'm learning to role with all this hernya." Ivan shrugged. "I'll see you soon, chuvak."
@@ -6281,7 +6734,7 @@ VOLUME 1
 
 	Crusades, Unending
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It was the 5th of November, 2015, and the evening sun began to sink beneath the sea.
@@ -6324,7 +6777,7 @@ VOLUME 1
 			The man stumbled into Naismith, tripping him up. He hit his head on the grass, and heaved the drunkard off of him.
 			"POLICE! GET BACK!" he barked, scowling. He shoved partygoers out of his way, his eyes darting to try and find his target.
 			Then, he spotted it - a black hood, walking away.
-			"Got you, you little--" he snarled, grabbing the man by the shoulders. Then, he sighed deeply, looking at the unmasked man in his black hoodie and cargo trousers.
+			"Got you, you little--" he snarled, grabbing the man by the shoulders. Then, he sighed deeply, looking at the unmasked man in his black hoodie, cargo trousers, and decidedly non-kevlar shirt.
 			"Oh, uh... sorry, sir." he nodded quickly, before carrying on his chase.
 			Connor grinned cheekily, pulling his freshly-morphed clothes tighter, watching as his hunter fumbled desperately through the crowd.
 			"No worries, officer." he chuckled. The hoodie slowly shimmered into red, as he melted into the night.
@@ -6389,6 +6842,8 @@ VOLUME 1
 			"It doesn't make any sense." Naismith groaned. "Every time we get one answer, we find five more questions."
 			"There must be two of them." Nina nodded. "How else could they have intervened in the Horse, but also attacked in Belson?"
 			"And then there's the shootings... I reckon that's a third guy." Naismith stroked his chin. "So, there's at least three of them."
+			"Maybe the Burned Man and the Hood Guy were different after all." she shrugged.
+			"That doesn't explain the dog." Naimith sighed.
 			"Did we get anything on the cyber-freak?" she tilted her head.
 			"Nothing. By the time FIs were on the scene, his body was gone." Naismith sighed. "All we've got are bystander footage."
 			Nina contemplated for a moment, before perking up. "Oh, by the way - new case came in. There's been a few bodies found in the Calder. Forensics are struggling to get any IDs, but the pattern is concerning."
@@ -6403,13 +6858,13 @@ VOLUME 1
 			"You're afraid of him." he noted softly.
 			"I saw him get shot in the chest six times, and he... he didn't even flinch." she sighed. "Don't get me wrong, I'm grateful he was there, but... the thought of something like that being out there is pretty spooky."
 			He looked away, hiding his shame.
-			"You know something, don't you?" she cocked an eyebrow. "He works with the Hoods, doesn't he?"
+			"You knew he had superpowers already, didn't you?" she cocked an eyebrow.
 			Connor hesitated. Amy could always tell when he was lying - he had to be strategic.
 			"He, um... Yeah, kind of. It's... I'm not supposed to say, but--"
 			"Come on." she grinned, leaning in. "If you've got some tea about a superhero, I wanna know."
 			"Superhero?" he tilted his head. "I thought you were afraid of him?"
 			"Newsflash, idiot - people aren't pefectly rational machines." she snarked.
-			"Fuck you." he chuckled. "Alright, I'll say this. He's going after some spooks - still not sure exactly who. The Skulls are connected to those guys - so we share an enemy."
+			"Fuck you." he chuckled. "Alright, I'll say this. He's going after some spooks - still not sure exactly who. The Skulls are connected to those guys - so we share an enemy. That's why Tommy's in contact with him. That's why he went after Dobel."
 			"Damn. Have you ever spoken to him?" she asked.
 			He shook his head. "Tommy has. They meet semi-regularly; mainly, Tommy gives him Skull spots to hit."
 			"And what does the Werewolf get in return?"
@@ -6642,9 +7097,7 @@ VOLUME 1
 			Tommy stood there for a moment - worried he'd be sending his protege-turned-superhero into a trap.
 			He sighed, and pulled out his phone.
 
-			Judi stood in the cold air at the roof, shivering and pulling her coat tighter. She looked down at her watch.
-			"2:03 AM." she muttered. "Where are you..."
-			At that, she gasped as something hit the ground, before black smoke hissed out of it. She coughed and covered her eyes, before the cloud faded away.
+			Judi stood in the cold air at the roof, shivering and pulling her coat tighter. Then, she gasped as something hit the ground, before black smoke hissed out of it. She coughed and covered her eyes, before the cloud faded away.
 			Before her, the Werewolf stood tall, his eyes aflame.
 			"You---You came..." she stammered.
 			He grinned under his mask, amazed that his appearing act worked. "It's not often I get a call from Crane telling me someone *wants* to see me. Normally, they scream as they run away."
@@ -6653,25 +7106,345 @@ VOLUME 1
 			"Last night's is better. The one from earlier... she's very ill. We're keeping her comfortable."
 			"Damn it..." he growled. "Have you seen what's inside them?"
 			"You *have?*" she tilted her head.
-			"Uh... super-senses." he gestured awkwardly to his eyes.
+			"Uh... super-senses." he gestured awkwardly to his eyes. "Half-grown organs. Any idea what could cause that?"
+			"Not at all." she shook her head. "But... maybe the patients will talk to you. Tell us where they were taken."
+			"You have one in mind?"
+			"The woman your brought in earlier." Judi began. "The others, they're too scared to talk - many of them are undocumented immigrants, or runaways, or small-time criminals. But... she's dying. And she knows she's dying. So, maybe she'll talk to the man who saved her?"
+			"It's worth a try." Connor nodded. "Where's she staying?"
+			"In a room with a window. I trust that won't be a problem?"
+			"Not at all." Connor grinned, morphing his grapples. Judi watched in awe, before heading downstairs.
+
+			Nabira took a deep breath, as she heard a knock on the door.
+			"Y--yeah?" she rasped. Judi walked in.
+			"Hi, Nabira. I'm just going to do some checks, if that's okay?"
+			Nabira hacked a bloody cough. "What's the point?"
+			"We just..." Judi began, before sighing. "There's someone who needs to see you."
+			She walked over, and slid the window open. Nabira gasped through her oxygen mask as her red-eyed saviour crawled in.
+			"Y-you..." she whispered.
+			"Hi, Nabira. How are you feeling?"
+			"Gah... dying." she sighed.
+			"I need to know what happened to you. Can you tell me?"
+			"No... no, they... you're with them..." she shuddered.
+			"I'm not."
+			"You are! You look just like them! That mask!"
+			Connor sighed, then looked around shiftily.
+			"Doc... I need the room."
+			"What are you going to do?"
+			"Something reckless."
+			Judi hesitated, but stood and left.
+			Connor took a moment, before his mask rippled and melted away.
+			"My name's Connor." he whispered. "And these people hurt me too. They made me like this. Can you help me stop them from hurting anyone else?"
+			Nabira took a moment. Then, another.
+			"They... they take vulnerable people." she began. "They nabbed me from the National Reception Centre in Dover."
+			"And brought you all the way to Drackhill? Did you see any landmarks - anything that might help me identify the area?"
+			"No... it was... underground." Nabira nodded. "We could smell the sewers, even inside our cages."
+			"The Underhill..." Connor realised. "That's why we never found it on patrol. Also explains why you were in the Calder - they must've dumped you into the storm drains."
+			He paused for a moment.
+			"Was there anything else that could help me pinpoint it?"
+			"They didn't take us far, when they dumped us." she said. "I think it was just outside the lab."
+			"So, it's gotta be in the bay. Torbrook's Underhill is too small - they'd need enough space for a lab, storage, and for supply intake. So, it's gotta be in Caldermouth." he nodded. "Do you know what they were doing to you?"
+			"We were drugged... but I know they were taking things out of our bodies."
+			"Organ harvesting, then. Probably something Hox-related... I guess we'll learn that later." he smiled. "Thank you, Nabira. I promise, I'll stop them."
+			"Wait..." she said weakly. "My family, back home. Can... can you tell them what happened to me?"
+			He paused, before nodding. Nabira wrote out their address back home in Oromia, and handed it to him.
+			He hesitated, before taking her hand, and cloing her eyes, as did she. His consciousness brushed against hers, and they took a look into each other.
+			Two became one.
+			He saw her - young, fresh-faced, and exciteable, as she left home for a new beginning in Egypt.
+			He saw the way her bosses treated her - abusive, exploitative - and felt her fears of returning home; of admitting her dream had failed.
+			He watched as she made the dangerous crossing over the Mediterranian, making port in Italy. She was far from the only migrant to arrive like this - the Eastern Bloc's then-recent implosion meant millions of souls were fleeing fratricidal carnage from all over Eurasia. The Italian Republic couldn't house that many people, even if the reactionary government wanted to.
+			But she couldn't turn back now. Not after this long. After all, if she went home *now,* then everything she'd suffered would've been for nothing, right?
+			So, she made way to France. Again, she was a nomad - forced to move from camp to camp, before settling in Calais.
+			But just across the sea - there was another place. One that claimed to be a tolerant, democratic society. How bad could it be?
+			He saw the way the British authorities treated her in the NRC. How they forced her into space not fit for a dog, let alone a human. How she actually appreciated the confinement come winter, huddling up amongst her fellow "inmates" - all of whom had only committed the crime of seeking a better life.
+			How that man came to her with an offer - a job out in the west, and freedom from that hellhole. Of course she accepted. Who wouldn't?
+			He saw what they did to her in the lab. How they tortured her. Cut her. Reshaped her.
+			It was hard to distinguish from his own memories.
+			Too much. Too much.
+			One became two.
+			He pulled back, as tears streamed down his cheeks. He looked down at her - at Nabira Baalu Debebe. At the woman whose life he just lived.
+			She looked down at her hand, likewise crying. She looked up - at Connor Sebastian Barrett. At the man whose life she just lived.
+			Connor sniffled slightly. "I'll tell them, don't worry."
+			"Thank you..." she smiled. With that, he rose, reformed his mask, and departed.
 
 		I Need A Hero/Trust Me
 		______________________________
 		SCENE
+			"Alright..." Connor began, standing on a rooftop. "See the manhole cover down there?"
+			"That's our point of entry?" Sparky tilted his head. "You're sure the lab is down there?"
+			"From everything I could get out of Nabira, I'm pretty sure." Connor nodded. "Ivan managed to dig up some blueprints of the city's drainage system - that manhole is the closest to the Calder terminals."
+			"Where is Ivan? Will he be helping us?"
+
+			The Coburg Hotel was a home away from home for the upper crust of Britain.
+			Situated a stone's throw away from Canary Wharf, many a politician and financier enjoyed a nice night there - often together.
+			Britain deserved more subtle metaphors. Alas, alas.
+			One such financier, Thomas Cobb, smiled as his key was slid over the counter.
+			"Mr. Cobb?" a man in a tuxedo nodded. "Your... 'guest' is waiting for you in the room."
+			A sick grin cracked over Cobb's face. He bowed his head, and headed upstairs.
+			The tuxedoed man walked away, heading to a storage cabinet, and pulling out a small phone.
+			"Mr. Hughes? It's Fogle. Mr. Cobb has arrived, sir."
+			Noise came from over the line.
+			"Yes, sir. We've placed hidden cameras in the room, and instructed the boy to provide us with any... 'samples' that may be produced. Cobb Industries will be under your effective control by sunrise."
+			He cut off the call, and took a breath. Then, he felt a cold metal tube press into his temple.
+			"Only whispering." Ivan ordered. "Any loud noises, and I'll kill you. Understood?"
+			Fogle swallowed a lump in his throat, and nodded.
+			"Who's the perv you just set up?"
+			"Thomas Cobb."
+			"Who do you work for?"
+			"...Alan Hughes."
+			"What room is Mr. Cobb staying in?"
+			"542. The penthouse suite."
+			"Thank you."
+			*FFFT!*
+			Fogle's limp body flopped to the floor. Ivan holstered his silenced pistol, and stepped out from the shadows. He stole the phone, and quickly straightened his bow tie.
+
+			Cobb had a devious smile on his face, as he opened the door to his bedchambers.
+			There, a trembling young boy was sat on a padded chair, looking up. His wrists and ankles were bound with duct tape.
+			"Good evening." Cobb grinned. "I assume you're here for me?"
+			"Y-yes?"
+			"SPEAK UP!"
+			"Yes, sir!" the boy whimpered.
+			"Good. Good lad."
+			Cobb stepped forward, as the boy's breath quickened. But as he reached for his belt, the door thumped with a knock.
+			"Maintenance!" a voice called out. "There's a problem with the power supply."
+			Cobb scowled, storming towards the door. He gripped the handle, and twisted it open.
+			"I *TOLD* you I'm not to be disturb---"
+			Ivan grabbed Cobb's tie, and yanked him forwards. Then, he slammed the door, closing right on the monster's neck.
+			Cobb struggled. He sputtered. He tried to form a word. "Please," maybe? Or, "Have mercy," perhaps?
+			Ivan's grip only tightened, pulling the door closer to its hinges. Cobb went red, then blue.
+			"Gagh... gugh... puh... pleashe..." he dribbled.
+			*SNAP!*
+			Ivan let the door swing back open, as Cobb's lifeless body fell to the ground. Blood leaked from the sides of his neck, as Ivan took a step in.
+			The boy continued to hyperventilate.
+			"It's okay. It's okay." Ivan whispered gently, pulling a knife. He cut the kid's restraints, and the boy pounced, wrapping his arms around his saviour.
+			Ivan took a moment. Then, he gingerly placed a hand on the boy's back.
+			"You're safe." he nodded softly. He rose, pulled a phone from Cobb's body, and looked through the contacts.
+			"Popalsya..." he smirked, before pocketing it, and kneeling back down.
+			"Listen, kid. I have to go - but I'm going to talk to some friends of mine, okay? Make sure you end up someplace safe. Until then, I want you to go downstairs, and find a policeman. Can you be brave for me, and do that?"
+			The boy nodded. Ivan smiled softly, and left.
+
+			"He's on a mission. Some wetwork job out in London." Connor shrugged. "Besides, a sniper isn't much use in a storm drain anyway."
+			"Just us, then. Shall we get going?"
+			"Let's do it."
+			The twin Werewolves came down from their perch. The street was nice and quiet for a change - letting them move towards the manhole. Connor hooked his fingers underneath, and shifted it with ease. Then, the two descended.
+
+			"Eugh, gross!" Sparky grimaced, as the stench of stale wastewater filled his nostrils.
+			"I knew it would reek, but Jesus..." Connor shuddered. "It's overpowering. Can you see at all?"
+			"Not even a little." Sparky shook his head. "Normally when it's this dark, I can still see a little, but..."
+			"Well... we'd better echolocate." Connor nodded. He unhinged his jaw, and an eerie, alien song fell out.
+			He listened, as it echoed off the walls of the drain. Drackhill's undercity was vast, with its storm drains old and wide. The two waded through the waist-high waters - Sparky elected to walk on his back legs for a change, to save himself from even more disgust.
+			"I guess this sonar power is pretty handy after all." Connor chuckled through his free windpipe.
+			"Now we just need to find them." Sparky nodded. "You know which way you're going?"
+			"Yeah - straight ahead. This particular pipe leads out into the bay - where most of the bodies were found. My thinking is, the lab will have some electromagnetic signals we can pick up once we're nearby."
+			"Ugh. Next time we go diving like this, remind me to remind you to bring a light."
+			Connor grinned. "Electric lights would make us miss the lab's signals. Sorry, buddy - we're stuck whistling as we wade through shit."
+			"I hate being a superhero." Sparky whined.
+			Then, they both stopped in their tracks.
+			"Do you feel that?" Sparky asked.
+			"Something moving. Small, fast... and a lot of them. I'm picking up electrical signals too - drones, maybe?"
+			"No, they're definitely alive - I can hear their heartbeats." Sparky nodded. "They're angry."
+			Connor's jaw tightened. "Angry at what?"
+			Before Sparky could answer, the air changed. The sonar waves Connor had been emitting suddenly returned to him. Something had answered back.
+			A screech tore through the tunnel.
+			It was high-pitched - the sound of a thousand nails dragged across a thousand chalkboards, amplified by the curved concrete walls. Connor clutched his head, the noise burrowing into his skull like a drill. Beside him, Sparky let out a pained yelp, his paws pressing against his ears.
+			"WHAT THE FUCK IS THAT?!" Connor roared, but his own voice was swallowed by the cacophony.
+			Then, they came.
+			A swarm of... things... poured out from a nearby junction. Their skin was alabaster white, and leathery. Their eyeless heads had snakelike nostrils, and flower-shaped, lamprey mouths. From their dolphin-like tails, arcs of blue-white electricity crackled and danced across the water's surface.
+			Their wings were a clear sign of their chiropteran heritage, but these beasts were no bats. If any god had made such things, it did so out of whatever spare parts were lying around that day. Presumably, it shared an origin with the platypus.
+			The first one struck Connor from above. Its 'mouth' clamped onto his forearm. He screamed, as raw electricity coursed through his veins, seizing his muscles, making his costume ripple and spasm against his skin.
+			"CONNOR!" Sparky barked, but he had his own problems - three of the creatures had descended on him, their tails whipping against his flanks. His howl of pain echoed through the tunnel, distorted by the constant, shrieking sonar.
+			Connor ripped the bat-creature from his arm, flesh tearing as its teeth came free. He slammed it against the wall, but more were coming.
+			Dozens? Hundreds? Who could say? The best his sonar could give him against such a chorus was "more."
+			He threw a punch, connecting with one's torso. It shrieked and released a pulse of electricity through its tail, the current traveling through the water and into Connor's legs. He collapsed to his knees, gasping, as all four lungs emptied.
+			He rose, trying to stop them from pressing their attack - but they flew away from him, flocking over to Sparky. He took a deep breath, and the alien song returned - as did his harriers.
+			"The sonar!" he realised. "Sparky! Stop singing!"
+			"But we're blind without it!"
+			"Just trust me!"
+			Sparky closed his now-red eyes, and did as his best friend asked.
+			The chorus coming from the bat-creatures faltered. Their screeching died down to a confused, almost mournful keening. They stopped attacking, hovering in the air like confused children, before becoming completely docile.
+			"They use echolocation as well." Connor explained. "We must've sounded like a threat to them."
+			"Okay... but how are we gonna find the lab? We can't even use the electrosense with these things around!"
+			Connor looked at the bat-creatures, and an idea came to him. He reached out with his hand, gently brushing the head of one - and he opened his mind's eye.
+			This wasn't a union of sapient beings. It wasn't how he could talk to Sparky. It wasn't how he could see through Nabira's eyes. The bat-creature's mind was alien; it didn't even understand *time.*
+			But one thing that it did have... was spatial memory.
+			A collage of echoes. Distances measured in wingbeats. Databases of tunnels that smelled like home or danger.
+			"Wow..." Connor gasped. "They use the pigeon-sense just like us. It's how they find their way through these tunnels."
+			"Can you find out where the lab is?"
+			Connor focused, as the link deepened. Despite the intrusion, the creature seemed unbothered - as if having another consciousness inside its mind was normal.
+			"I think I've got it. Their roost isn't too far from here - in an abandoned section of tunnel. There's an area nearby - they avoid that spot like the plague, all I get when I access that memory is a feeling of dread. Probably the place, right?"
+			"It's worth a look." Sparky nodded. "Lead the way."
+			Connor let his mind's eye close, and the creature pulled away. He smiled - and for a moment, he could've sworn it smiled back.
+			The bat-creatures took flight, fluttering back to their roost. Behind them, the twin Werewolves continued their wading.
 
 		Bats Out Of Hell
 		______________________________
 		SCENE
+			The tunnel opened up into a wider chamber - an abandoned metro station that had clearly been reoccupied.
+			One door in particular stood out - it was lit. A keypad stood next to it, providing a tiny shimmer of light within the pitch darkness.
+			"Great. Any idea for the code?" Sparky grinned.
+			Connor peered in, his eyes blood-red.
+			"Yeah, actually. Four keys are more worn than the others."
+			"Really?" Sparky grinned. "That works. Any idea what order they're in?"
+			"Nah. But hey, there's only 24 possible combinations."
+			"Boring!" Sparky chuckled, before slamming the door open with a strike.
+			"...that works too." Connor laughed, as they entered.
+			"Intruders!" a Super-Agent sentry barked. He readied his gun, and Connor responded with a quick-morphed crossbow bolt to the eye.
+			His partner fared no better, as Sparky's claws cut into his abdomen. Connor decapitated his own prey, while Sparky took out his throat.
+			"This is definitely the place." Connor nodded grimly.
+			Inside, the lab was a converted maintenance space - pipes ran along the ceiling, and the walls were lined with medical equipment.
+			Before they could take in the sights, however, they felt a thundering charge towards them.
+			"Oh grand." Connor groaned. "Another monster."
+			A nearby door gave way - as did the wall around it. The pair threw up their guards, but were launched back into the metro. As they rose, they saw their attacker, and shuddered.
+			"Fee, fi, fo, fum." it chuckled menacingly. It was huge - at least 8 feet tall - and broad too. Its eyes were black-veined, and it wore a massive version of the standard Super-Agent getup.
+			"What the fuck are you?" Connor gasped.
+			The Giant didn't answer - instead, it charged again.
+			The two Werewolves moved as one - Connor driving low, aiming for the Giant's knees, while Sparky launched high, claws extended toward its throat.
+			The Giant's eyes tracked them both, and it moved.
+			Connor's strike connected with the Giant's left knee - and it was like punching a concrete pillar. For the first time in a long time, his fist *hurt.*
+			The Giant didn't even flinch. Instead, it grabbed Sparky mid-pounce, catching the wolf by the scruff and hurling him into the far wall. Sparky hit with a sickening crack.
+			Connor roared, surging forward.
+			He threw everything he had into a barrage of strikes - jabs to the gut, hooks to the ribs, a spinning elbow that caught the Giant across the jaw. His wristblades carved shallow trenches across its chest.
+			Then, the behemoth sent a backhand that cracked the air.
+			Connor felt the impact crash into his ribs, as they bent under the force. He sailed through the air, smacking into a concrete wall. He fell down to the ground, as pebbles followed him.
+			The Giant laughed - a wet, grinding sound.
+			Connor forced himself to his knees, spitting blood. His eyes blazed red. Then, he pounced again.
+			The Giant sent a haymaker that Connor barely dodged. His response was a slash to the gut - one that left a thin red line over the monster's abdomen.
+			Not enough. Not nearly.
+			The Giant grabbed him by the ankle, swinging him like a child's toy. Connor slammed into a metal cabinet, the impact rattling his bones. He bounced off, hit the floor, and rose again.
+			"Sparky!" he barked. "Now!"
+			Sparky rose, blood streaming from his muzzle, his eyes aflame. He launched himself at the Giant's legs, claws raking across its tendons.
+			The Giant stumbled, roaring in fury. Connor pressed the advantage, driving his blade into its chest, carving toward the heart.
+			It worked. His blade punched into the monster's heart.
+			So *why the fuck didn't it die?!*
+			Under the mask, Connor went pale. This thing had two hearts - just like him.
+			The Giant grinned, spat blood, and caught him by the throat.
+			Its grip was iron. Connor's windpipes buckled, his vision blurring at the edges. The Giant rose, lifting Connor off the ground, and twisted. The tendons in his neck screamed. Any second now, the vertebrae would start to snap.
+			"Any last words?" the Giant sneered.
+			Connor's jaw unhinged, as one windpipe sang. The other choked out three words.
+			"Right behind you."
+			Behind it, the tunnel filled with leathery wings and crackling blue light.
+			The bat-creatures descended like a biblical plague.
+			The Giant dropped Connor, and swatted a few away. More came. They latched on, taking chunks of red meat and globules of hot blood with each bite.
+			Tasty, it seemed. Very nourishing.
+			The Giant screamed as electric stinger-tails whipped at its hide. Connor dragged himself away, letting the swarm do the work.
+			Sparky rose, his eyes blazing. He charged through the chaos, lunging at the Giant's exposed throat, claws extended.
+			The wolf's jaws snapped around the Giant's throat. Then he twisted.
+			The Giant's head came free with a wet, grinding sound - like a tree limb tearing from its trunk. It hit the floor with a wet thud, rolling to a stop at Connor's feet. The body stood frozen for a long moment, like it hadn't quite realized it was dead, before collapsing with a thunderous impact.
+			Sparky landed beside the corpse, panting, his muzzle painted with black blood. He spat out a chunk of flesh and looked at Connor, his eyes still glowing.
+			"I hate this job," he wheezed. "I really hate this job."
+			Connor laughed - a ragged, desperate sound - and clapped his packmate on the shoulder. "Come on. The lab's just ahead."
+			They left the Giant's body to the bat-creatures, who greedily devoured their well-earned meal.
+			Connor ripped a flaslight from an Agent's corpse, and led the way.
+
+			Deeper, now. The pair's red gazes came across their target - a cluster of heartbeats.
+			A pit. The lab rats were being kept in a pit.
+			"Please... no more..." one weakly groaned.
+			"Don't hurt us... please..."
+			"I'm sorry... I won't scream anymore..."
+			"It's okay." Connor said softly, kneeling down. "Let me help you, please."
+			"Another trick?" one whispered.
+			"Don't... don't do it..."
+			But one timidly approached. His eyes were pained by the light - as if he hadn't seen it in far too long. He was flithy, and scabbed, and emaciated - but alive. Gingerly, he took Connor's hand.
+			"Come with me, please." Connor whispered. "I'm one of you, okay?"
+			"How can we know that?" one asked.
+			Connor paused, before dropping into the pit, and placing their hands on his chest - one on each heart.
+			They gasped, before nodding. Then, one by one, they let themselves be carried out.
+
+			Above the lab, on the street, three girls were wandering - aimlessly, drunkenly.
+			"Wooo!" Bea cheered. "Who said Caldermouth didn't have any good pubs?!"
+			"I did." Amy snarked. "Posh spice over here thinks that shithole was nice."
+			"The cocktails were good!" Bea meekly protested. "Weren't they, Chlo?"
+			"I wouldn't know - you drank the entire pitcher." Chloe quipped, before giggling. "I'm supposed to be the sensible one, and here I am, wasting my salary on the world's blandest vodka."
+			"How come you always drink vodka, by the way?" Amy tilted her head.
+			"It was my first drink." Chloe shrugged. "We, uh... we have a lot of Russian family."
+			"Well, I'll drink to that." Amy grinned. "Come on - there's a nightclub over in Celt Square that does suicide shots."
+			"*Now* you're talking." Bea laughed.
+			"Wait a sec." Chloe cut in, stepping forward.
+			"What? What's wrong?"
+			"There. In the middle of the street." she pointed.
+			A manhole cover - it was shuffling slightly, as if being pushed.
+			"Uh oh, the Sewer People are coming for us." Bea grinned. "Probably just some maintenance worker."
+			"No, maintenance workers would leave the cover open." Chloe shook her head. "We should go help!"
+			Before they could move, however - a strike made the cover ring like a bell, as it knocked into the air and crashed back down. The girls gasped - and went pale, as they saw the creature emerge.
+			"Come on!" Connor called out, as the first of the lab rats crawled out from the ladder. "Let's keep moving, guys!"
+			"Oh my god." Chloe covered her mouth. "Is that--"
+			Amy rushed over. "H-hey!" she stammered. "Can we help at all?"
+			Connor froze, looking at her.
+			"Shit." he thought. "Shit, shit, shit."
+			"Uh... yeah." he nodded, masking his voice with both windpipes. "Call an ambulance - a lot of them. Tell them there's been a mass casualty event."
+			"Got it." Amy nodded, pulling out her phone.
+			"Sparky - I need you to sneak off. The others are here." Connor whispered - too quiet for a human to hear.
+			"Got it. I'll start tonight's patrol." he audibly nodded, skulking away.
 
 		Killer, Saviour
 		______________________________
 		SCENE
+			Before long, a group of ambulances had arrived. The paramedics struggled to make sense of the situation, but managed to organise a transport operation. Firemen had come too - providing truck transport for those who didn't need immediate care. Ready now, the convoy began to drive.
+			Sirens blasted, as they snaked through Drackhill's roads, making the long route back to the hospital.
+			As they approached a crossroads, a pair of black SUVs pulled out in front of the lead vehicle.
+			"CLEAR THE ROAD!" its driver roared, blaring his sirens. "NOW!"
+			The doors swung open - and uniformed, masked men with guns alighted.
+			"Fuck!" the driver gasped, before something else came - slamming into the ground behind the men.
+			"HEY!" Connor roared. "WHY DON'T YOU PICK ON SOMEONE YOUR OWN SIZE?!"
+			His wristblades ginted in the light, as he danced through the Agents. Blood hissed from each body, and heads rolled. He kicked the SUV's boot, denting it and shunting it to the side.
+			"COME ON! I'LL PROTECT YOU!" he barked.
+			The driver swallowed a gulp, and moved forward.
+
+			Judi rushed down the steps of A&E, helping to carry the patients inside.
+			Connor rushed in, carrying one who was bleeding.
+			"Got an urgent one here! Let's go!" he barked, quickly spraying her with the Coagulator and rushing back out.
+			There, he saw a squad of armed officers.
+			"Armed police." Naismith said grimly. "Hands where I can see them."
+			Connor scowled, his eyes flaring.
+			"See all these people? They'd be dead if it weren't for me."
+			"We're not here for the people you've helped. We're here for the ones you've killed." Naismith snapped back. "I don't care who or what you are - you are *not* above the law."
+			Connor chuckled mirthlessly.
+			"Oh, the law." he began. "The same law that made it so the people hurt by this couldn't speak without fear of state violence? The same law that had you forget about what was going on here to go after me instead? THE SAME LAW, THAT IGNORES *SCUM* LIKE THE SKULLS, WHILE POINTING GUNS AT ANYONE TRYING TO STOP THEM? *THAT LAW?!*"
+			The officers trained their guns on him - and he readied his blades.
+			"Wait! Please, stop this!" Judi barked, rushing in between them.
+			"HOLD YOUR FIRE!" Naimsmith roared. "Judi, what are you doing? Get away from him!"
+			"Henry, please! I know what he's done in the past... but he saved lives tonight. Please, I'm begging you, don't do this!"
+			Connor snarled, before raising his crossbow, and firing.
+			The bolt's head had been replaced - intstead of a sharp tip, it was some kind of globule. It hissed on impact, as black smoke sprayed into the air. The officers scrambled to get away, to try and see - but no. The Werewolf was gone.
+			Naismith coughed, and stepped forward.
+			"I should arrest you." he growled.
+			"Then do it."
+			He let out a sigh. "Alright, people, come on. That convoy was already attacked - let's make damn sure no one else dies tonight. I want a secure perimiter. No one approaches the hospital without us knowing about it. Nina, I want you liasing with hospital security for any weak spots. Simmons, go on overwatch in the north gate. Michaels, I want..."
+
+			It was the early hours, now. Judi took a deep breath, as she opened her flat's door.
+			"Hey, doc." Connor waved.
+			"Oh fuck!" she gasped, before chuckling.
+			"Sorry - I just wanted to check in."
+			"How do you know where I live?"
+			"You approached Crane and asked for a meet. You think I didn't do a background check before showing up?"
+			"Fair enough. Anyway, how can I help you?"
+			He smiled. "I just wanted to make sure the patients were okay."
+			"Much better, thanks to you." she smiled. "I... I know what people say about you, but... you're alright in my book."
+			"Hah... thanks, doc." he nodded, before preparing to leave.
+			"Wait." she cut in, before scribbling something on a notepad. "My number."
+			"Shouldn't I at least by you a drink?" he quipped.
+			She let out a laugh - the kind you make when you've just crawled out of hell, and can finally breathe again.
+			"My guess is, someone in your... 'line of work,' could probably use access to someone in my line of work. Call that number any time, and I'll patch you up - discreetly, of course."
+			"I can heal just fine without--"
+			"You're still limping slightly. And there's enough of a wheeze in your voice to suggest lung damage."
+			He chuckled. "Give it an hour, I'll be fine."
+			"Well, maybe one day, someone you care about - someone who can't heal like that, and you can't go to hospital without them asking awkward questions. Call me, and I can help out."
+			"What makes you think I have people I care about?"
+			She smiled softly. "I saw the way you helped that woman out of the ambulance. The way you gently carried her. You can deny it all you like, but as long as there's one person in this city, there's someone you care about. *That's* who you are."
+			"You're talking like I'm some kind of saviour, rather than a killer."
+			"Maybe you're both." she shrugged.
+			He hesitated, before taking the number, and bowing his head. She watched him leave, and smiled softly.
+
+			"God *DAMN* IT!" the Commandant roared.
+			"I'm sorry, sir. All livestock were lost." his aide bowed his head. "Unfortunately, we were unable to recover the remains of Project Jotunn, as well."
+			The Commandant scowled.
+			"Get Agent Weiss here. Now. Tell him to set the trap."
+			"Yes, sir."
 
 		Above the Law
 
 	Under the Dragon's Hill
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			Morning came, then afternoon, as Connor jogged through the high street. A voice caught his ear.
@@ -6954,7 +7727,7 @@ VOLUME 1
 			The flesh had been severed. Only bone left - too strong for even his knife to saw through.
 			He grimaced, pale as a ghost, and his stomach heaved.
 			*HACK-ptoo!*
-			The bone hissed as the acid bit through it. After a while, it wa weak enough.
+			The bone hissed as the acid bit through it. After a while, it was weak enough.
 			*SHK-SHK!*
 			*SHHK!*
 			*SNAP.*
@@ -7005,19 +7778,19 @@ VOLUME 1
 			Fear. Pain. Rage. All swirling through his mind, like he was pulling the depths of the ocean to the surface. He reached inwards, and Sparky let him in.
 			This 'mind-bond' they had was utterly alien to both. The flashes, the shared dreams... and now this. Connor stretched his mind's eye into Sparky's subconsciousness, and watched. He saw himself, bursting out of a steel door, drenched in blood and howling in pain. He felt Sparky's memories, his emotions, his senses... the link grew stronger. Sparky saw through Connor's eyes, and Connor through Sparky's. The line where one ended and the other began had blurred into oblivion.
 			Connor saw the torment Sparky had faced. Horrific surgeries. Agonising tests. He watched as the rest of Sparky's litter died, until only he was left.
-			Sparky saw Connor's own pain. The torments. And others, too. He saw the moment Vince was arrested. He saw the days in the Bogside where Connor's grandfather beat him. He saw a blazing inferno in a car, with his grandmother's burning corpse hanging out. And deeper still, he watched through Connor's eyes as drove a knife through an older man's head.
+			Sparky saw Connor's own pain. The torments. And others, too. He saw the moment Vince was arrested. He saw the days in the Bogside where Connor's grandfather beat him. He saw a blazing inferno in a car, with his grandmother's burning corpse hanging out. And deeper still, he watched through Connor's eyes as drove a fire poker through an older man's head.
 			It was too much. The two pulled back, and rubbed their skulls, regaining their senses of self. After a short while, they both opened their eyes, and looked down - as though visibly checking which one they were.
 			"You okay?" Connor asked.
 			"Yeah, I... I'm Sparky, right?" he replied.
-			"Yeah. Which means I'm Connor... Alright, I'm okay now. What... What the hell was that?"
-			"I don't know." Sparky shrugged. "It felt like we became one person for a moment."
-			Connor nodded, and closed his eyes again.
+			"Yeah. Which means I'm Connor... Alright, I'm okay now."
+			"Me and 217 did that once. It feels like we became one person for a moment."
+			"I did the same thing with Nabira the other day." Connor nodded, and closed his eyes again.
 			"Who was that man?" Sparky asked.
 			"Which one?"
-			"The one you stabbed. I felt that memory..." Sparky explained.
+			"The one you stabbed. I felt that memory..."
 			Connor sighed. "James Laverty." he finally said, half-spitting the name. "He... he was mine and Amy's foster-carer."
-			"What's a foster-carer?" Sparky tilted his head.
-			"They're supposed to be caregivers." Connor explained. "A bit like what I am to you. Someone who isn't your parent, but raises you anyway. But he... he was a monster."
+			"What's a foster-carer?
+			"They're supposed to be caregivers. A bit like what I am to you. Someone who isn't your parent, but raises you anyway. But he... he was a monster."
 			Worse, deeper memories washed into Connor's mind. Flashes of Laverty... and what he did to Amy. He reached his hand back out, and rejoined his mind with Sparky.
 			Sparky took in the flashes, then pulled his head back in disgust.
 			"Good work." he nodded. "But you were a pup back then?"
@@ -7253,20 +8026,23 @@ VOLUME 1
 
 			The Commandant sat in his office, taking a sip of water. His hands shook slightly, as his visitor came in.
 			"Lord Oxford." he nodded.
-			"I thought I made myself clear, George." Oxford scowled. "Your purpose was to kill him *quietly.*"
+			"Oh, George..." Oxford began, in tranquil fury. "You *have* made an error, haven't you?"
+			"S-sir, it's under control."
+			"Is it? It certainly doesn't seem that way. I thought I made myself clear, George." Oxford scowled. "Your purpose was to kill him *quietly.*"
 			"For killing one of us, that *is* quiet, sir." the Commandant began. "The data we collected in the attack will also be invauluable to future operations."
 			"You blew up a warehouse." Oxford snarled. "No. No more. Continue operations in Drackhill, and defend sites from his attacks where possible, but do not seek to directly engage. I'll contact ODIN, and see if we can arrange a... lighter touch."
 			"But sir, he'll bleed us dry of operatives--"
 			"I. Do. Not. Care." Oxford snapped, his eyes flaring violet. "Do as you are told, or be replaced with one who will."
 			"Y-yes sir." the Commandant nodded hurriedly.
-			"Good." Oxford smiled affably. "Good day, George."
-			"Sir..." the Commandant caught his breath.
+			Oxford growled. "It seems you're in need of some education in the consequences of disobedience. Come, we have much to... 'discuss.'"
+			"I--"
+			The Commandant tried to stay still. Tried not to follow. He couldn't.
 
 		Morning of truth
 
 	Helping Hands
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			A heavyset man in a business suit sat at his desk. A large, muscular man entered.
@@ -7872,7 +8648,11 @@ VOLUME 1
 			"Fuck..." she gasped. "Are you alright, sir?"
 			"I'm fine." he sighed, looking out into the distance.
 			"I can't believe it... he's still got two hands." she noted.
-			Naismith nodded. "Maybe my gut was right. Maybe it *was* a fake we found. Anyway... You busy tonight?"
+			Naismith nodded. "Maybe my gut was right. Maybe it *was* a fake we found."
+			"Or... it would tie up a few loose ends."
+			"Hm?"
+			"Well..." Nina began. "If he can grow back a hand in a day - then he could recover from burn wounds in an hour."
+			"Shit..." Naismith realised. "That explains the Burned Man. The only real question is his little wolfy buddy. Anyway... You busy tonight?"
 			"I'm still on shift for an hour. Why?"
 			He rolled his shoulder, feeling it click.
 			"...it looks like we have a new CHIS."
@@ -7959,7 +8739,7 @@ VOLUME 1
 
 	Blood-Soaked Saviour
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			15 minutes had passed. Chloe had sat Connor down on a bench and was looking at his injuries.
@@ -8302,8 +9082,9 @@ VOLUME 1
 			He reopened his eyes, and pulled out something else - a set of boxing gloves, a thick headguard, and some shinpads too.
 			"Alright, I'm ready!" Chloe audibly smiled.
 			He turned, and his eyes widened a little.
-			It wasn't that she was wearing anything unusual - it was a pretty standard outfit. A black, full-length unitard, with a turtleneck top. But it was the way it clinged to her skin--no. Stop it.
-			She blushed as she caught his case, and nervously pulled the cuffs over her hands.
+			It wasn't that she was wearing anything unusual - it was a pretty standard outfit. A black, full-length unitard, with a turtleneck top. 
+			But it was the way it clinged to her skin, specifically. Connor couldn't help but think, for someone so shy, she was surprisingly toned--no. Stop it.
+			She blushed as she caught his gaze, and nervously pulled the sleeves over her hands.
 			"That's perfect." he quickly nodded, hoping to whatever gods existed that he hadn't been staring for too long. "Um--where'd you get it?"
 			He had to fight the urge to facepalm as the world's stupidest question left his lips. It was a harder fight than his tussle with Weiss, but he just about managed.
 			"Oh, I--from the shop." she answered, before a similar urge gnawed at her. "I--Well, I bought it for a dance class, a year ago."
@@ -8693,11 +9474,7 @@ VOLUME 1
 			"Still, sir..." she paused. "Don't ever pull a stunt like that again. You could have been killed."
 			"No I couldn't've." Naismith retorted. "He doesn't kill cops. He barely kills gangsters. He basically only kills these... these fuckin' 'superhumans.'"
 			"He's still a murderer, sir. He could have made an exception for you."
-			Naismith closed his eyes, and nodded. "I know... But at least now, do you believe me?"
-			"Believe you?"
-			"That he's superhuman."
-			Nina paused. She didn't want to. But...
-			"Yes, sir." she finally spoke. "I believe you."
+			Naismith closed his eyes, and nodded. "I know..."
 
 			Meanwhile, Connor crawled back into the flat, where Sparky was waiting.
 			"Are you okay?" Sparky asked, rushing over.
@@ -8732,7 +9509,7 @@ VOLUME 1
 
 	Weak Points
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			If someone asked you to draw a stately manor house, you'd draw this one.
@@ -9482,7 +10259,7 @@ VOLUME 1
 			"Esper. That was the term they used." she shrugged. "You still need to be trained, though. Most of our 'powers' are far too complicated to use right off the bat. For example, I can manipulate trajectories, but I never trained in general telekinesis. For my... line of work... you need a more subtle touch."
 			"Am I an 'Esper?'" he tilted his head. "I can do this... weird mind-merge thingy."
 			She stroked her chin. "Describe it to me."
-			"Well, I can understand what my dog is saying." he nonchalantly shrugged. "He's got the same powers as me. Also, if I'm touching someone, I can understand them, no matter what language they speak - and vice versa, too. I can also read people's emotions - and tell if they're lying."
+			"Well, I can understand what my dog is saying." he nonchalantly shrugged. "He's got the same powers as me. Also, if I'm touching someone, I can understand them, no matter what language they speak - and vice versa, too. I can also read people's emotions - and tell if they're lying. I've even... even managed to see into their memories - and them into mine. Like we become one person for a moment."
 			"Tactile telepathy." she nodded. "That's one of the first things they teach you. Makes sense - if you've never been trained, that's probably the only thing you'd be able to do off the bat."
 			Connor cleared his throat. "So, this... psychic laboratory, or whatever - who are they?"
 			"ODIN." she shrugged. "Operational Directorate for Investigative Neurokinetics. They were originally a CIA black project called MKULTRA; when they realised they were *actually* on to something, they went solo."
@@ -9524,7 +10301,7 @@ VOLUME 1
 
 	Whiplash
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was July 2013.
@@ -10105,9 +10882,28 @@ VOLUME 1
 
 	Law and Disorder
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
+			"Lord Oxford, sir." the servant nodded. "Your 'guest' has arrived."
+			"Thank you, Quentin." Oxford smiled affably. "Bring him in."
+			Quentin nodded again, and swiftly ushered the second man in.
+			He wore a tactical, all-black outfit - and clearly, had no understanding of aristocratic etiquette. He sauntered into the study without even taking his hat off.
+			"Mr. Oxford." the guest nodded.
+			"Agent." Oxford chuckled. "Or should I say, 'Snakebite?'"
+			"Hey, it's a good codename." he smirked.
+			Oxford grinned. "I have a job for you."
+			"Go on."
+			The lord slid over a pair of files.
+			"Subject: Progeny One." he pointed at the first. "AKA, Vanguard."
+			His finger moved to the second. "Subject: Fenrir Six. AKA, Spartacus."
+			'Snakebite' cocked an eyebrow. "Ah. You want 'em dead?"
+			"No, not quite." Oxford smiled. "I want you to use those lovely little darts of yours. Paladin will handle the extraction; though I'd like you to remain in the area, just in case."
+			He hesitated. "What's the offer?"
+			"Twenty million pounds - ten for each. But make sure you capture both. If either manage to escape - you are not to leave Drackhill until it's been secured."
+			"Got it, boss." the Agent nodded. "Out of interest... have you heard anything from Whiplash?"
+			"No. I have to assume Vanguard killed her." Oxford shrugged. "So, be careful. Don't make the same mistakes she did."
+			Snakebite stifled a twitch of the lip, and took the files.
 
 		Saving Clara
 		______________________________
@@ -10158,7 +10954,7 @@ VOLUME 1
 		______________________________
 		SCENE
 
-		A Moment of Relief
+		How's She Doing/A Moment of Relief
 		______________________________
 		SCENE
 
@@ -10178,7 +10974,7 @@ VOLUME 1
 
 	Snakebite
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was the middle of December, 2005. The sun was finally setting after a long, warm summer's day.
@@ -10946,7 +11742,7 @@ VOLUME 1
 
 	The Belson Strangler
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-March, 2002. A young Connor sat in his room, in a house on the Bogside. Other sections of the district were bombed-out ruins - the dreadful Bogside War was beginning, unbeknownst to the little boy. He was drawing on a piece of paper.
@@ -11571,7 +12367,7 @@ VOLUME 1
 
 	Inferno
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			Chloe and Sparky approached the cafe. Chloe had changed from her jogging outfit to jeans and a hoodie - specifically, the one Connor gave her - and she was walking with Sparky next to her. Sparky was wearing his collar, but he wasn't leashed. As they walked, an older woman sneered at them both.
@@ -12188,7 +12984,7 @@ VOLUME 1
 
 	Cold Comfort
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was November, 2011, and snowflakes were falling down onto the crisp schoolyard in Drackhill.
@@ -12767,7 +13563,7 @@ VOLUME 1
 
 	A Good Person
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -12799,7 +13595,7 @@ VOLUME 1
 
 	Heartache
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			The year was 2009. A 35-year-old woman stepped off of the bus, and walked towards a big, fancy house. Her shoulder-length black hair was tucked neatly into a ponytail, framing her pale skin and deep brown eyes that shone with quiet determination. Her right arm was bandaged, with another bandage poking out from her shirt onto the base of her neck. She took a deep breath and rang the doorbell.
@@ -12953,7 +13749,7 @@ VOLUME 1
 		______________________________
 		SCENE
 			Connor sat on a chair, wearing a baggy hoody and an ID tag.	He was looking down, slightly nervous.
-			The door buzzed, and    widened the second he saw Connor. Wordlessly, Vince pulled him in for the deepest of hugs.
+			The door buzzed, and Vince's widened the second he saw his nephe. Wordlessly, he pulled him in for the deepest of hugs.
 			Both men had tears streaming down their cheeks. Connor gripped his uncle tightly.
 			"How have you been, lad?" Vince asked, smiling warmly.
 			"I've... a lot's happend."
@@ -13290,7 +14086,7 @@ VOLUME 1
 
 	Families
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The sky seemed almost determined to make this morning as miserable as possible. Slushy, cold sleet pelted down into the valley. Despite this, it failed to ruin the Barrett's morning.
@@ -13839,7 +14635,7 @@ Wolves Among Sheep
 ______________________________
 VOLUME 2
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The moon shone brightly through the pouring rain, shimmering in the valley below.
@@ -14339,7 +15135,7 @@ VOLUME 2
 
 	The King's Gambit
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-2005, and a young Connor was sat in a police room. He was wearing plain clothes that were far too big for him - and his hands were covered in dried blood. He was flanked by two middle-aged women - a solicitor and a safeguarding officer. He stared into the middle distance, unaware of his surroundings.
@@ -14883,7 +15679,7 @@ VOLUME 2
 			Naismith approached Connor and the little girl. "Hey, hey little one. It's okay, you're safe now."
 			"Te rog nu ma rani!" she cried, terrified at the clear voice of an older man.
 			Connor reassured her. "It's okay." he whispered. "He won't hurt you. He's a friend."
-			With that, the little girl stumbled over to Naismith, who picked her up and walked outside with her. He gave the Werewolves a knowing nod of tacit approval, before leaving. They  leapt with superhuman strength, sticking to the ceiling like spiders.
+			With that, the little girl stumbled over to Naismith, who picked her up and walked outside with her. He gave the Werewolves a knowing nod of tacit approval, before leaving. They leapt with superhuman strength, sticking to the ceiling like spiders.
 
 		Auction Slaughter
 		______________________________
@@ -15087,7 +15883,7 @@ VOLUME 2
 
 	Purging
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was a warm summer's evening in 1995. Vince Barrett sat on a barstool in the White Hawk pub in Redbridge, sipping a pint of Guinness. He was younger - 23 years old - but looked the part of a rough mobster. His hair was cropped short, and a thick red beard hung from his face.
@@ -15698,7 +16494,7 @@ VOLUME 2
 
 	Tyrants
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It was your average evening in Belson.
@@ -16351,7 +17147,7 @@ VOLUME 2
 
 	Rebels
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was autumn, 2012. Chloe was sat in her bedroom. Her scar was present - and far, far worse than the present day. It looked as though someone had taken a carving knife from her left eye down to the corner of her jawbone. She stared a thousand yards ahead, her expression vacant.
@@ -16374,7 +17170,7 @@ VOLUME 2
 			Again, silence.
 			"I'm coming in." he said, opening the door. He entered, and saw the room was empty.
 			Sveta and Catherine arrived too.
-			"Where has she gone now?"  Catherine sighed.
+			"Where has she gone now?" Catherine sighed.
 			Luna rushed to Chloe's bathroom door, and pawed at the door.
 			William walked over, and knocked.
 			"Chloe, darling? Are you in there?"
@@ -17042,7 +17838,7 @@ VOLUME 2
 
 	Hurt
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The sky rippled a brilliant orange as the sun headed toward the sea.
@@ -17092,14 +17888,20 @@ VOLUME 2
 			"She did?"
 			"Girls talk, you know." she snarked. "It was more me asking her what you guys were talking about. After she told me about... well, you-know-who, I figured hey, since we're sharing - but she told me you beat me to the punch on that."
 			Connor gave a soft look. "It's pretty awkward - telling the girl you like that you've killed someone."
-			"It was a vulnerable evening." Trey cut in. "A lot of trauma-dumping going around. And hey, it sounds like she took it in stride."
+			"It was a vulnerable evening." Trey cut in. "A lot of trauma-dumping going around."
+			"You know about..." Connor cocked an eyebrow.
+			"I was there too." he explained. "Or rather, I walked in just as she was telling Amy. I went to leave, but she said I could stay."
+			"Don't you have super-senses? How come you didn't hear any of this?" Amy snarked.
+			"I try to block them out most of the time." he shrugged. "Besides, I don't wanna invade people's privacy. If I wanted to do that, I'd mind-probe you all."
+			"...you can probe people's minds?" Trey tilted his head. "Anyway, circling back... it sounds like Chloe took what you told her in stride."
 			"So that's one kill explained, then. All I need to do is explain the other 116, and then we should be golden." Connor snarked.
-			He looked at the hideout's incident tracker, and sighed.
+			"By the way... Chloe said we probably shouldn't tell Bea about Laverty just yet. Give her a week or so to get her head straight, and all." Amy added.
+			Connor nodded, before looking at the hideout's incident tracker, and sighing.
 			"It feels like fixing up a dam. Plug one leak, and five more spring up. I mean, it's great the cops are gone and Gambit's forced to hide, but I'm spending so much time focused on the Super-Agents, I don't really have the time to deal with normal crime."
 			"That's a job for the police." Trey noted.
 			"The same police force I singlehandedly dismantled last week, right?" Connor tilted his head. "Besides, they weren't doing much on that front anyway. But the city's too big for just a few of us. If we could even get Whiplash to fully commit to us, I might have enough time to do the odd patrol, but... we need to prioritise."
 			Amy sighed, and put a hand on his shoulder. "It's the ugly maths of war, isn't it? Let one fire burn so you can put out a hundred others later... it sucks to be the one to make that call. But we trust you to make it."
-			"Thanks, guys." he shrugged.  "Anyway, I only swung by to make sure the safehouse is coming along well. I'd best get back to it."
+			"Thanks, guys." he shrugged. "Anyway, I only swung by to make sure the safehouse is coming along well. I'd best get back to it."
 			"Take it easy, Werewolf." Trey smiled.
 			Amy watched as he left. She tried not to, but couldn't help as her eyes glanced over the Crusader-pattern combat suit.
 
@@ -17588,7 +18390,7 @@ VOLUME 2
 
 	Fragile Hearts
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			April, 1996. A young woman got off a bus. She had a travel bag with her. As she stepped off, a younger Vince, in his 20s, rushed over and hugged her. She hugged him back.
@@ -18258,7 +19060,7 @@ VOLUME 2
 
 	A Pack of Heroes
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			Grozny, Chechen ASSR. 18th of February, 2009.
@@ -18848,7 +19650,7 @@ VOLUME 2
 
 	Odin's Eye
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was the 1st of June, 2003. The sun shone over Derry, and in the Bogside, a small house stood.
@@ -19138,7 +19940,10 @@ VOLUME 2
 			"N-not like that." Chloe stammered. "I-I don't think I'm ready for that yet. And Connor's never pushed for that, either."
 			Bea smiled. "That's good. I mean, good that he's not pushed for it."
 			Chloe smiled, and looked ahead.
-			"Chlo..." Bea asked. "What's on your mind?"
+			Bea gave a sad smile. "Also, Amy told me about that 'Laverty' guy last night. I had no idea... we were up half the night drinking, just... trauma dumping at each other, I suppose."
+			"Hey, if me and Connor are any indication, that means you guys will start dating." Chloe chuckled.
+			Bea stifled a blush, as they walked on.
+			"Chlo... What's on your mind?"
 			"Hm?" Chloe tilted her head.
 			"I can tell when something's bothering you - what is it?" she pressed.
 			Chloe sighed. "I just... when he got back from Raj's, he was really shaken up. He mentioned Ireland - I think it triggered some bad memories. And... I *want* to talk to him about it, to learn more - but I don't wanna open up old wounds for him. Hell, I wouldn't appreciate it if he started badgering me about Francis. But... I wanna be better at supporting him. It's tricky, is all."
@@ -19154,7 +19959,7 @@ VOLUME 2
 			Bea tilted her head. "That's a little biased. For the Catholics, it implied they should be happy with what they got, while it acts as though the Protestants have legitimate reasons to be afraid."
 			Chloe smirked. "You sound just like him, you know."
 			"Oh, give over." Bea grinned. "Besides, religion isn't really the main issue, is it?"
-			"Yeah, you're right." Chloe nodded. "How did Connor put it? "I don't care if the nation oppressing me believes in Cthulhu, I care that they're oppressing me." I think people say it's about religion so they don't have to think about it any further - it's just crazy people fighting over silly things, rather than a genuine political conflict."
+			"Yeah, you're right." Chloe nodded. "How did Connor put it? "I don't care if the nation oppressing me believes in Cthulhu, I care that they're oppressing me." I think people say it's about religion so they don't have to think about it any further - it's just 'crazy people fighting over silly things,' rather than a genuine political conflict."
 			"Now who sounds like him?" Bea laughed. Chloe smirked.
 			The film continued. As you'd expect, it delivered typical both-sides depictions of the conflict. And then, the narrator said something big.
 			"Peace negotiations came to a screeching halt with the assassination of former CDF leader Eamon Barrett."
@@ -19458,7 +20263,7 @@ VOLUME 2
 
 	Fire and Pain
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			Across town, Chloe and Amy were hanging out at the Laughing Fox, sipping their drinks.
@@ -19982,7 +20787,7 @@ VOLUME 2
 
 	Warzones
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It was a crisp Saturday morning. The sun had been up for a few hours now, and brought a rare warmth to the city.
@@ -20385,7 +21190,7 @@ VOLUME 2
 			"Agreed." Amy nodded, rushing to her suit.
 			"Amy... this'll be dangerous." Connor warned.
 			"I don't care. If Chloe's in danger, I'm going." she snapped, drawing the Vibroblade.
-			Shannon approached, carrying a large, boxy device. It looked like a flare gun - oversized barrel, angular frame, thick, insulted grip -  with a bulky rear housing mounted at the back.
+			Shannon approached, carrying a large, boxy device. It looked like a flare gun - oversized barrel, angular frame, thick, insulted grip - with a bulky rear housing mounted at the back.
 			"I call it the Pulsar." she explained. "It's still a prototype - I got the schematics off of a hack on Eidolon's servers. Anyway - it hooks up to your suit's battery. You can stun people at short range with it, or short-circuit electrical equipment."
 			She took it gingerly. Then her brows creased, and she nodded firmly.
 			"You'd best get going." Shannon said. "Ivan's out of town at the moment - and Gwen's not on shift tonight. It's just you guys."
@@ -20458,7 +21263,7 @@ VOLUME 2
 
 	Getting Closer
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			Connor ascended the stairs, taking a moment to un-morph his mask and wipe his nose. The bullet to the head didn't crack his skull, but it still hurt.
@@ -20873,7 +21678,7 @@ VOLUME 2
 
 	Gunshots
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			That morning, Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
@@ -21199,7 +22004,7 @@ VOLUME 2
 			"I---Yeah, actually." she gasped. "When we met Charlie with Bea. You were warning me - I'm not sure how, but... I knew what you were saying."
 			"Since his power boost, he can do it at range." Connor added. "Gwen calls it 'tactile telepathy' - I mostly use it when I'm interrogating someone. I can tell if they're lying through it."
 			"...I think I just thought of, like, 15 different experiments I'm gonna run on you guys."
-			Connor smiled. He lifted the fetus-thing,  took a syringe of pain relief, and injected it. It shuddered, and went completely still.
+			Connor smiled. He lifted the fetus-thing, took a syringe of pain relief, and injected it. It shuddered, and went completely still.
 			"Shh..." he whispered. Sparky let out a mournful howl.
 			Chloe hugged both again. Connor took a deep breath, and resumed his professional demeanour.
 			"Okay, one more thing - this place was connected to the Optimates. So, we need to go to your boss's office." he said.
@@ -21273,7 +22078,7 @@ VOLUME 2
 			Connor snickered. "A couple days later, I reforged it into this."
 			He drew the coagulator, and pulled out its cartridge.
 			"Is that haemostatic gel?" she tilted her head.
-			"Ever the scientist." he grinned. "I... I took a life that didn't need to be taken with this. So now, I can save lives with it instead.  Plug holes, instead of making them."
+			"Ever the scientist." he grinned. "I... I took a life that didn't need to be taken with this. So now, I can save lives with it instead. Plug holes, instead of making them."
 			She smiled softly. "At least you can't shoot yourself with it." she quipped.
 			He chuckled, then laughed heartily, before taking a deep breath.
 			"It helped, in a way. Amy's call, I mean. Giving yous all a lift made me feel... human."
@@ -21315,7 +22120,7 @@ VOLUME 2
 
 	Truth & Reconciliation
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It had been a chaotic few days - but days, nonetheless. The sun dragged itself out from the horizon, whispering over the valley.
@@ -21722,7 +22527,7 @@ VOLUME 2
 
 	Judgement Day
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was early hours of the 10th of October, 1996. 03:27 AM.
@@ -21919,8 +22724,7 @@ VOLUME 2
 			In the hospital, Judi looked at Connor's body, confused. Naismith was with her.
 			"So... He's healing?" she asked.
 			Naismith nodded. "See the movement? He's at least alive."
-			"Okay... I don't know how to speed up his healing, but we can at least keep an eye on his vitals." she said, hooking up EEG stickers to Connor's head. To do so, she pulled off his mask - blessedly, his face was mangled beyond recognition.
-			Naismith looked at his face, and shook his head. "At least no one will ID you from that, mate." he said grimly.
+			"Okay... I don't know how to speed up his healing, but we can at least keep an eye on his vitals." she said, hooking up EEG stickers to Connor's head.
 			"I have to ask, Henry..." Judi began. "What is that on your eyes?"
 			"I, um..." he sighed. "I was dying. He saved me."
 			Judi swallowed, and took a deep breath. "Well, let's return the favour." she nodded.
@@ -21963,7 +22767,7 @@ VOLUME 2
 			"I can see your cells trying to repair the tissue there. But if your metabolic system can't keep up with the damage, you're going to crash."
 			She poked her head out the door. "I need an IV drip, and a load of food paste." she said. Ivan nodded, and before long, the required material was delivered.
 			She looked over his EEG stats.
-			"Your brain is running, but anaerobic respiration isn't perfect. It's like... parts of you are burning out to keep you alive. Looks like only the amygdala is actually running...  Your brain is intact, even after all this damage. I thought the trauma would've wiped you out, but you're still going. Your body is literally fighting to stay alive." she observed.
+			"Your brain is running, but anaerobic respiration isn't perfect. It's like... parts of you are burning out to keep you alive. Looks like only the amygdala is actually running... Your brain is intact, even after all this damage. I thought the trauma would've wiped you out, but you're still going. Your body is literally fighting to stay alive." she observed.
 			"Even broken like this, your body's incredible. It's like it doesn't know how to give up. Heh... You're just as stubborn as ever." she chuckled grimly.
 			"Brainwaves are minimal, but consistent. If I can get enough oxygen in your system for your brain to wake up a little more, it'll be able to start directing your healing again, and we'll have a virtuous cycle there... *If* I can handle the oxygen."
 			She shook her head. "No. I can do this. I have to."
@@ -22534,7 +23338,7 @@ VOLUME 2
 
 	Broken Hearts and Bones
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The gang sat in the prison's hospital waiting room. Connor was pacing wildly. Amy was scratching her hands nervously, with Bea trying to comfort her. Trey was tapping his foot, arms folded. Chloe was stroking Sparky, looking at Connor with sympathy. Shannon sat with the group, holding her shoulders nervously.
@@ -23265,7 +24069,7 @@ VOLUME 2
 
 	Thicker than Water
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The next morning, Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
@@ -23373,6 +24177,7 @@ VOLUME 2
 			"You'd think, but sadly no." he sighed, as they burned blood-red.
 			"Breathe underwater?"
 			"Haven't tried it. Don't really want to."
+			"Given how strong your lungs are, you could probably extract a little bit of oxygen from water." Chloe shrugged. "But yeah... don't rely on it."
 			"Fly?"
 			"Oh, if only!" he snarked.
 			"You can glide!" Amy grinned. "I have to drive everywhere."
@@ -23386,7 +24191,18 @@ VOLUME 2
 			"Yeah, yeah." Amy grinned. "My superpower is being a badass bitch."
 			Bea looked at them all, incredulously.
 			"Um... read minds?"
-			"Only if I'm touching them. And I can only get surface-level stuff, unless we're doing a proper mind-merge. I haven't tried that on hostiles or humans yet, though - only between me and Sparky."
+			"Only if I'm touching them. And I can only get surface-level stuff, unless we're doing a proper mind-merge."
+			"Can you give me a reading?" Chloe asked, holding out her hand.
+			He took it, and closed his eyes. "Wow, Chloe. That is--oh, Jesus. And here, I thought you were so innocent, too--oh, that's a lot of blood. And why am I wearing a toga?"
+			She pulled her hand back, and playfully smacked him.
+			"No, but... what did you actually see?" she asked.
+			"I didn't *see* anything. But... I could get some things." he began. "Slight nervousness - mainly due to being unsure how it'd work. There was a small hit of dopamine when I took the hand. Minor annoyance mixed with amusement as I started joking. Also, you're slightly uncomfortably cold - but you don't want to make a scene, so you haven't said anything."
+			She blushed, scratching the back of her head. "That's... very interesting."
+			He smiled, and took off his jumper, morphing it into a scarf.
+			"Take it. It's fresh, so it's right at my body temperature."
+			She hesitated, but smiled, and took it.
+			"Alright then, what am I thinking about right now?" Amy grinned, grabbing his hand.
+			"A brontosaurus." Connor chuckled. "Oh - I just caught that. You were quickly trying to think of a number, but instead thought of the letter A."
 			Bea's grin returned. "Smoke bombs? That's gotta be fake."
 			"Oh no, I can do those." he smirked, as his glove hissed into black fog. "Real bombs too. But I won't do that now, because it's a lot of effort. Also a bomb."
 			"Okay, I get it." she laughed. "Next you'll tell me you can spit acid, or something."
@@ -23494,7 +24310,7 @@ VOLUME 2
 			"I--No, grandad, it's me, Chloe." she said, trying her hardest to not let her upset be audible.
 			"Chloe..." he smiled. "I'm sorry, sweetheart. I can barely see anything these days. Blind as a bat, I am. You sound different... how are your speech lessons going?"
 			Chloe sighed silently, then smiled faintly. "Th-they're g-going well." she said, putting on her old stammer.
-			"That's great news, darling. You'll get there, I promise. You know, your uncle Danny had a stammer, too. Wait..." he rubbed his temples. "No, sorry. I'm thinking of my uncle Percy. Your uncle Danny... no, Sylvia's dad was called Danny..."
+			"That's great news, darling. You'll get there, I promise. You know, your uncle Roger had a stammer, too. Wait..." he rubbed his temples. "No, sorry. I'm thinking of my uncle Percy. Your uncle Roger... no, Sylvia's dad was called Roger..."
 			He forced a chuckle. "What am I like, eh? It should be me in school, not you."
 			"Don't worry, g-grandad." she took his hand. "It's... it's perfectly normal to get confused."
 			"There you go, sweetheart." he beamed. "That was perfect! I'm so proud of you."
@@ -23766,10 +24582,16 @@ VOLUME 2
 			Chloe smiled, and brushed his arm.
 			"I just... I need you to know, that I *do* trust you. I know it wouldn't be like... like before." she whispered.
 			Connor brushed her cheek. "Thank you. And it's okay."
+			She grabbed his hand, and pulled it to her collarbone.
+			"No, I... I want you to check. I want you to use that... 'tactile telepathy' thingy, and I want to know that you know that I trust you."
+			He hesitated, but nodded, and closed his eyes.
+			She meant it. He could see flashes - tiny, brief glimpses of anxiety. There were synaptic connections that those thoughts were linking to - and none of them on him.
+			She felt his consciousness brush up against hers, and closed her eyes too. They let the moment hang - not quite merged, not quite separate.
+			She could feel his heartbeats, as closely as if they were in her chest. He could feel her breathing, as if he had two lungs again.
 			"I'd, um... I'd best let you get off. Sparky will be waiting." she said softly.
-			Connor nodded. "Yeah... You're back at uni tomorrow, right?"
+			Connor nodded. "You're back at uni tomorrow, right?"
 			"Yeah..." she replied nervously. "I'll be done by half 3. What time do you think you'll be finished with Murphy?"
-			"No idea." Connor shrugged. "I'll call you when I'm done, and we'll go from there?"
+			"No idea." he shrugged. "I'll call you when I'm done, and we'll go from there?"
 			Chloe nodded, and Connor rose. He headed to the door, and she pulled him close.
 			"I love you." she said, smiling warmly.
 			"I love you too." he replied, resting his forehead on hers.
@@ -23779,7 +24601,7 @@ VOLUME 2
 
 	Snowfall
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was late September, 1996. Phil and Kerry Morgan were visting Drackhill Maternity Clinic. There, an old Chinese doctor called them in.
@@ -24510,7 +25332,7 @@ VOLUME 2
 
 			"So that just leaves Amy. Our beloved Subject 302. No wonder you're here." Lowenthal sighed.
 			"If Gordon's going to react to Belson like I expect, then I need to protect her." Zhao shuddered. "I'm not having her be a tool in all of this. Not again."
-			"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of drinkf. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
+			"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of drink. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
 			"No way." Zhao shook his head firmly. "Amy is still human. Unactivated. Unspoiled. We can't..."
 			"*We* might not be able to stop it. The noose is tightening, old friend." Lowenthal sipped his drink.
 			"Dig a trench, Dr. Zhao. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
@@ -24523,7 +25345,7 @@ Gods Among Men
 ______________________________
 VOLUME 3
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		FLASHBACK
 			WAKE UP.
@@ -25133,7 +25955,7 @@ VOLUME 3
 
 	Awakening
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			It was close to sunset out in Texas. A couple of armed sentries stood outside a stately manor house, smoking.
@@ -25704,6 +26526,25 @@ VOLUME 3
 			Finally, she broke away, and rested her head on his.
 			"You okay?" he asked.
 			"Yeah." she whispered happily. She took a deep breath, and they held each other until the rain died down.
+			"I have one more question." she began.
+			"Anything." he smiled.
+			"Why don't you use your telepathy on me more often?"
+			"Well, I..." he stammered. "It would be wrong. That's your mind, and... I'm not gonna go snooping through it without your consent."
+			She smiled softly, and brushed his cheek.
+			"What am I thinking now?"
+			He closed his eyes, and squeezed her hand.
+			"You trust me?" he asked, as if he didn't know.
+			She kissed him, and then looked into his eyes.
+			"Do you trust me?" she finally asked.
+			"Yes."
+			"Then... do it."
+			Their eyes closed in unison - and their minds' eyes opened.
+			Two became one. Their hearts beat in rythmn.
+			They bared their souls to one another. She saw him completely - and he saw her. She was him, and he was her.
+			Traumatic memories threatened to surface, like sharks surrounding a life raft. But in the radiance of this union, they were ignored.
+			No. No memories. The past wasn't important to them, not now. All that mattered was them.
+			They sat like this for a lifetime. They sat like this for seconds.
+			Finally, they pulled back, and locked eyes once more.
 			"I love you." she said softly.
 			"I love you too." he smiled, holding her tight.
 
@@ -25758,8 +26599,17 @@ VOLUME 3
 			"No, and for the last time, that's not how humans work." Connor laughed.
 			"Did you shart?" Trey winked.
 			"We're immune to laxatives, so if you spiked me at any point, it failed."
-			The trio laughed.
-			"Anyway... where are we going?" Trey asked, tilting his head.
+			The trio laughed. Connor hesitated, before speaking up.
+			"We mind-merged." he said. "As in, a full merge."
+			"Wow." Sparky beamed. "What was it like?"
+			"It... it was good." he smiled. "Unburdening."
+			"So... does that mean she knows your entire life story now?" Trey cocked an eyebrow.
+			"No, it... it's not like that. I mean, she could've taken memories if she wanted, but it's more... we became each other, for a moment. We saw ourselves through the other's eyes, we felt every feeling the other was having."
+			"Sounds... really sweet." Trey smiled. "Like, unusually so. It's weird for something that wholesome to happen to us."
+			"Tell me about it." Connor grinned. "I'm just glad I didn't accidentally put on a slideshow of my time in the cage."
+			Trey paused. "Isn't that something you wanna do? Wouldn't that help you unload? I mean, she can do the same with her traumas, right?"
+			"It was Valentine's, I... *we* didn't wanna spoil it." Connor shrugged. "The time for the mother of all trauma-dumps will come. But last night... might've been the first time for her where she could relax fully. Where... where *he* wasn't in the back of her mind."
+			"That's good. That's really good." Trey beamed. "Anyway... where are we going? I forgot."
 			"What, you thought being hungover would get you out of training?" Connor chuckled. "It's time for a proper challenge."
 			Trey groaned, then laughed.
 
@@ -25914,7 +26764,7 @@ VOLUME 3
 
 	Heartfelt
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
@@ -26228,6 +27078,7 @@ VOLUME 3
 			"I'm fine. Chloe re-set my neck. Still feel like shit, but nowhere near as bad as you guys."
 			Connor thought for a moment, and morphed. The black tar poured out of his skin and formed around his 'face,' forming a prosthetic jaw.
 			"Nice." Trey grinned. "Don't think she'll be kissing you for a little while, though."
+			"That, and I did the acid trick. So realistically, I'd have to wait 12 hours anyway." Connor snarked.
 			Chloe chuckled, and wrapped her arms around him. He smiled warmly, resting his head against hers.
 			"That thing was..." she began, lost for words.
 			"He could've killed Junior in five minutes flat." Connor grimaced. His words were slurred from the crudeness of his jaw.
@@ -26436,7 +27287,7 @@ VOLUME 3
 
 	The Last Judgement
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 			"RAAAGH!" Connor roared, his fist crashing through the air and landing squarely in Trey's chest.
@@ -26507,21 +27358,21 @@ VOLUME 3
 
 	Bird of Prey
 	______________________________
-	CHAPTER
+	EPISODE
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 
 Age of Heroes
 ______________________________
 VOLUME 4
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -26535,7 +27386,7 @@ VOLUME 4
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -26549,7 +27400,7 @@ VOLUME 4
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -26565,7 +27416,7 @@ Time of Monsters
 ______________________________
 VOLUME 5
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -26580,7 +27431,7 @@ VOLUME 5
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 
@@ -26595,7 +27446,7 @@ VOLUME 5
 
 
 	______________________________
-	CHAPTER
+	EPISODE
 		______________________________
 		SCENE
 

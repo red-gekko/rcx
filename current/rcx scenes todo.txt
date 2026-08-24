@@ -8,14 +8,62 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
+plot hole where connor mentions the taser pain on bonfire night - but as of current writing, connor wasnt tased.
+but the taser, motorbike, and superswim scene *is* pretty cool!
+solution: find a scene to add the superswim escape to. remove the taser mention from bonfire night.
+go into old version of the scene to find taser
+	taser scene (flesh it out, add a morph power for rapid swimming that connor uses; he washes up on Torbrook's silty beach):
+			Connor sprinted down the alley, but before he could fully escape, a motorcycle cop zipped into view. The officer tased him from behind, sending a shock of agony through his body.
+			Connor recoiled, gasping, the pain sharper than the bullet wound. But his instincts kicked in, and he fought through it, turning just in time to kick the officer in the face. The officer's helmet shattered, and he slumped unconscious.
+			"Kill! Kill! Kill!"
+			Connor shook his head, banishing the voice. "Not humans." he muttered.
+			He grabbed the officer's motorbike, revved the engine, and sped off into the night, weaving through traffic with reckless abandon. The chase was on, but Connor knew how to lose them. He sped toward the pier, and with one final burst of energy, drove straight off the edge.
+			The cold water swallowed him whole. He swam through the murky depths, his body already healing the minor injuries.
+			Within moments, he surfaced, gasping for air, and quietly made his way back to shore.
+
+
+
+
+also, while in prison, have Connor approach Dobel. Dobel is panicking, but Connor hugs him and says "I forgive you," before squeezing hard at the neck and saying if he ever threatens his sister's life again, he'll make him *wish* he was dead
+
+
+
+
+
+
+spend a little more time with Connor at Derrington House. in the evening of arrival, have him explore a little bit and see a massive painting of chloe's ancestors.
+some time later, maybe during oliver's memorial or victor's upcoming wedding, have connor and chloe visit the stables. connor gets to talk about his cousin mickey
+
+
+add a brief arc where connor can overhear emotional abuse being done in a flat below his. he reports it to social services, but nothing is done; over time, he realises the kid is going hungry, and so reports again; this time they don't even bother to visit. finally, he hears her strike the kid, and bursts in, breaking the hand used to strike the kid, before telling the kid to ask to speak to DI Naismith and tell him what their mother has been doing; later, connor asks that Ivan keep tabs on the kid's wellbeing
+
+
 
 
 remove the Showstoppers. Instead, take it down to just Goblin and Troll. Consider adding the Showstoppers in a later arc, maybe during Unbroken they take over another 'freak show'
 
 
-during car toss, have the agents in bravo vehicle open fire once they realise connor's not dead. handily explains why the cars explode
-
-
+put some complexity back in! have sparky eat people, drag in deer carcasses, and bite connor in a nightmare again
+	biting connor scene (as before, have Connor storm out, hitting a Paladin spot without backup, and getting badly hurt, before they reconcile upon his return) (also, consider making connor's reaction more compassionate here, being frustrated but forgiving him; while pointing out that if that was amy, she'd lose a limb. he calms down and they head out):
+		That night, Connor and Sparky were in their flat. Sparky was asleep, twitching and crying.
+		"Hey, Sparky?" Connor asked.
+		"Sparky, wake up!" he said louder.
+		"Buddy, it's okay! You're just dreaming! Come on, wake up--"
+		As Connor shook him, he bolted up.
+		His eyes were aflame, glowing blood red. The Rage.
+		"NO! NONONO! YOU WON'T HURT ME! YOU WON'T DO THAT AGAIN!" Sparky barked, gnashing his teeth.
+		"Sparky, it's me! It's Connor!"
+		"NO! I WON'T LET YOU!" Sparky howled, and lunged for Connor. He bit Connor's wrist and clamped down.
+		Connor shouted in pain. As the teeth sank in, his pupils constricted down to pinpoints. Visions flashed in his mind - buzzsaws, shock collars, injections, blowtorches...
+		Sparky realised what he'd done. He jumped down and whimpered. The visions left Connor's mind.
+		"Connor, I'm sorry, I'm sor--"
+		Connor raised his fist at Sparky in rage, causing Sparky to flinch and whimper. Seeing this, he relented.
+		"Sit in that fucking dog bed and don't move until I come back." he commanded. Sparky sadly crawled over to his bed.
+		"I'm sorry, I didn't mean to, I'm sorry..." he sobbed.
+		Connor felt his phone vibrate. He checked it - GPS coordinates from Ivan.
+		"I'm going on a mission. I will see you when I return. Do not move an inch from that bed. You hear me?!" he growled.
+		"Yes, Connor, I hear you... I won't move an inch. I'm sorry, I'm sorry..."
+		Connor hesitated, then left.
 
 
 new arc - mourning and guilt
@@ -37,7 +85,33 @@ new arc - mourning and guilt
 
 
 
-a scene with trey getting jumped by Skulls, and dropped off outside Connor's. Connor starts asking him who did it, where they are, etc - amy snaps "the fuck's the matter with you? Your best mate got hate-crimed, and you're grilling him?!" - connor immediately apologises, and has trey sleep it off in his bed with Sparky - that night, connor sneaks out in his Hood costume and beats the everloving fuck out of the crew that did it. the crew leader is crawling away, and connor says "you tell everyone you know - if you come for me or my mates again, i will fucking kill you" - then, he kneecaps the leader, turns to a terrified underling, and says "i was talking to you. understood?"
+a scene with trey getting jumped by Skulls, and dropped off outside the Horse.
+	first, end the chapter before on a cliffhanger where trey is hit by a car and then dragged into the boot
+	connor is working at riverside, and calls phil asking him to poke trey and wake him up. phil says he thought trey was with him, as he didn't come home last night. connor nervously reassures him that hes probably just in someones bed, and will call him with an update
+	connor tracks trey's phone to the roadside; he checks traffic cameras using a KGB backdoor, and sees trey get abducted. panicked, he assaults a super-agent base without backup, and nearly gets badly wounded - but interrogates them, demanding to know where trey is. the superagent spits "who the fuck is trey?" before connor beheads him in anger
+	later, trey is dropped off outside the horse, beaten and bloody. he shambles in, and delivers a message to tommy, who immediately calls connor
+	connor, amy, and trey have gathered round his house, with phil panicking. phil suggests they call the cops, but trey says thatll only make things worse, phil reluctantly agrees
+	Connor starts asking him who did it, where they are, "who was it? Donovan's crew? Weaver's? The Whitpark lot?" etc - amy snaps "the fuck's the matter with you? Your best mate got hate-crimed, and you're grilling him?!" - connor immediately apologises
+	trey asks they stay the night, so he can feel safer. they do - but connor sneaks into his room, ostensibly to check on him - in truth to do a surface reading, so he can see the faces of the gang without trey realising that connor's poking around in his head. once done, he implants some nice images for trey to dream about, and gets ready to leave.
+	amy stops him, and angrily points out that even though he's shown lately to be very good at fighting, this is too dangerous. connor says that she and sparky are there to keep trey safe - he's better used making sure this doesn't happen again. she asks if he can call the werewolf instead, and connor says it doesn't work like that, he can't just phone him - besides, the werewolf didn't rescue him before, so what good is he? (bit of self loathing here). amy cries a little, saying that she already lost him recently, and nearly lost trey today - don't do this. he apologises, and heads out in his Hood costume
+	first, he finds a Skull drug dealer, and interrogates him. the Skull recognises him as Connor - specifically, from when Connor infiltrated keegan slots - he was the one with the switchblade. he spills, and connor heads off to the location, and beats the everloving fuck out of the crew that did it. the crew leader is crawling away, and connor says "you tell everyone you know - if you come for me or my mates again, i will fucking kill you" - then, he kneecaps the leader, turns to a terrified underling, and says "i was talking to you. understood?"
+
+new subplot!
+	after the above fight, the cops arrive, guns out. connor realises he screwed up big time
+	naismith interviews him. naismith mentions that this isn't the first time he's been in trouble with the police, and also about what happened with Dobel. He mntions connor's choice of clothing - connor says "is it a crime to wear a red hoodie?" naismith grins "No, not at all. And yet, and yet..."
+	He points out the similarities to the Hog and Hounds beating the other week, saying "we've been looking everywhere for this 'werewolf,' and now... well, you can imagine what I'm thinking, right?"
+	Connor counters that if he was the werewolf, he A) would've worn his costume, and B) wouldn't've let himself get arrested. Naismith chuckles, and says "well... maybe, just maybe, we can find out who is. interview paused at 11:03" and cuts off the tape.
+	naismith asks connor if he can contact the werewolf. connor says he can't, and naismith leans to resume the tape - connor says "wait!" and acts all shifty, intentionally raising his heartrate and sweating. naismith grins, and beckons to continue.
+	"you really want me to sell him out like that?"
+	"i want you to save your own skin, connor."
+	connor says he can get a message out and arrange a meetup, but the werewolf won't show if connor isn't there. naismith says he should be there then, and connor feigns a panic attack, saying "No! he'll kill me!"
+	Naismith reassures him, saying he'll have full police protection; pushing him further by saying "He's no hero. your mate got beaten up and you had to take the law into your own hands. now, I'm not gonna lose sleep over a bunch of skinheads getting taught a lesson... but i am gonna use this, if i can. come on..."
+	connor "cracks," and says he'll arrange a meetup, and let naismith know the time and the place.
+	that morning, he is released without charge, and returns to the group. he explains the half-truth - he went after the gang that jumped trey, but got arrested. now, he's turned informant for the werewolf. amy and trey are horrified, pointing out that he's selling out the city's hero - connor says tearfully (again, self loathing) "if he was really the hero we thought... he would've saved you" to trey.
+	the next night (add some filler with eileen here), connor is standing shiftily in a car park, when sparky arrives in-costume. sparky slashes connor's face, and then beats up the cops while connor runs away. he uses his super-speed and smoke bombs to dominate the battlefield
+	later, the pair meet up on a rooftop. connor's slashes have already nearly healed. sparky asks why they did this - connor says he knew, given the timing of his disappearance and his recent boost in strength, he needed to throw people off the idea that he was the werewolf - but he feels sick of the lying. sparky sighs, saying he still doesn't fully understand "this game of pretend," but that it's for the best.
+	later, post loss of a hand, have naismith knock round. connor morphs on some prosthetic wounds and bruises, before timidly answering the door. naismith says he's just there for a wellness check, apologises for what happened - saying he had a duty of care towards his CHIS, and that he let his focus on the case blind his judgement. he confirms connor won't be charged for the attack on the skulls, and leaves him in piece, saying to call him if the werewolf comes after him again, and to avoid all contact with him - "i have a feeling this is the kind of man who holds a grudge."
+	after this, amy notes happily that he's a very good liar - but she could spot all of his tells a mile off - which means he really is the same guy; they didn't change that much about him, deep down.
 
 
 
@@ -57,31 +131,17 @@ at some point, amy asks connor how he avoids accidentally morphing dirt into his
 to summarise timeline changes
 
 	CHAPTER
-	>the week before Halloween, a cannibal larder is discovered in Blackmarsh, with two pig farmers butchered and their pigs missing
-	>the wereolvess are stalking the scene while naismith investigates; however the NCA (national crime agency) takes over, saying they believe the killer is the notoroious Pig Head, and ordering Naismith to leave it
-	>Connor and Sparky, using super-smell, track a blood trail to Pig Head's hideout.
-	>while chasing, connor calls Ivan and ask him about Pig Head - where the Chris P Bacon joke happens - also have connor note that there's no way he's calling this guy Pig Head - "Even Grom's a better codename than Pig Head!"
-	Pig Head releases Super-Swine. Sparky kills the Super-Swine while Connor fights piggy
 	once arrested, Pig Head is reported on the TV as having had extreme plastic surgery done, including grafting a pig's face to his head. Newspeople question how that's even possible; but Pig Head isn't being forthcoming (long story short, it was Vacher)
-	>have the chapel be assaulted by super-agents who wanna know what Connor told Fr Declan (see below)	
 	OTL halloween
-
-	Make sure there's plenty of social-life B-plot going on - enough for at least 2 chapters between In Sheep's Clothing and The Werewolf (might have to rename it to Pigs To Slaughter; Hogs to the Trough needs a rename too)
-
-
-
-with all the extra B-plot material, consider splitting chapters up - or just saying fuck it, and releasing scene-by-scene
 
 
 
 
 remove Naismith's early skepticism, as the evidence quickly suggests something superhuman is afoot
-	have him interview the priest between walking sparky and creek
 		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before; Declan admits he's struggled to take confessions after breaking the seal of the confessional to save the child; Connor says that if Declan had allowed a child to die over it he'd be enraged. he asks how the kid's doing, and declan says he's better; connor points out that the seal of confession usually only applies if the penitent is confessing before god; as an atheist it arguably doesn't apply; declan quips that its not normally him receiving absolution in that booth. they have a brief chat about connor's mission, and connor leaves feeling more relieved
 		the second confession can go in Underhill or in She-Wolf - whichever needs more padding
 		moments for second confesssion:
 			when declan asks what connor thinks is going on, he says "I think I died that night. That heaven didn't want me, and hell spat me back out - except I brought some of it back with me."
-	once they see Connor has regrown his hand, they conclude that the Burned Man and the Werewolf are the same guy too
 
 
 replace the Patriots with the Skulls; have Skull (the drug) get its name from a remnant of the Skulls synthesising it and using it to rebuild their empire.
@@ -140,14 +200,9 @@ change the prison break sequence
 consider toning down the racism of the world - make sure it's present, but have the Optimates and the Skulls be more social-darwinist than neo-nazi; keep racism but less blatant
 
 
-consider replacing connor's new costume with the wakeup-in-clocktower sequence - have him start with the costume fully finished
-	this also means for connor and trey's first joint mission, he morphs up his own costume from imagination
 
 
 
-during naismith's look at the body, nina mentions there've been a lot of weird reports from last night; a pair of SUVs containing armed gunmen seemingly crashed into each other in a way that doesn't make sense, and firefighters reported a burn victim grip their leader by the throat before running away faster than a car. naismith is skeptical, but says they'll keep an open mind
-dorsey and the mayor pull strings to keep the crash and connor's neck lift out of the news, but they can't keep the beheading quiet, as its already been reported on. they cover the crash up as a normal crash, not disclosing the presence of firearms; and they cover up the burned warehouse as a drug lab, while blackmailing the fire station's counselors into gaslighting the fire crew into dismissing what they saw
-note - a drone doesn't happen here. keep the one at fetch with sparky, but change the method of defeat from a car toss to something else
 
 
 a scene sometime between warehouse frenzy and whiplash officially joining the team, where connor is badly wounded and she takes him to her hideout - Belson clock tower. they talk a little about her life, and he asks her to join the team fully; says they'll make sure no one else has to go through what they went through
@@ -217,7 +272,6 @@ volume 2 big changes:
 
 
 villains of the week - some B-plot ideas to be used on sparser episodes:
-	a young person reaches out saying their father, a dockworker, was found dead from an overdose; they suspect foul play. have Bea be interning at a solicitors that takes the case; the child explains that the father had suspicions about his boss smuggling drugs. connor hits up Russo who says it's not his man; connor goes to confront him, but is ambushed by Super-Skulls (this is the beginning of the Skull reveal)
 	a sniper is active in the city, taking out Grins. Ivan takes point on the investigation, and it evolves into a sniper duel
 	a master of venoms, who uses neurotoxins to take out connor, forcing the weaker heroes to take point)
 	Flashbang - a cyborg assassin who can perform flashbang attacks from his body.
@@ -241,12 +295,6 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		Mr. Clean - a crime scene cleaner who also "handles" witnesses
 		A crazed vet who goes on a bombing and shooting spree
 		A snuff film maker
-		A former pig slaughterer who cracked and turned to cannibalism - he's been given plastic surgery from Vacher to look like a pig, and uses a serum variant to create Super-Swine attack pigs
-			he's called "Pig head", but the heroes categorically refuse to call him that - nicknames like "notorious P.I.G.," "Luke Skyporker," "Amy Swinehouse," "Albert Einswine," "Snoop Hog," "Stephen Porking," "Harry Trotter," "Gordan Hamsey," "Boarbra Streisand," "Piggy Stardust," "Ham Solo," "Kevin Bacon--wait, that one's taken," "Meryl Sheep---fuck, wrong farm," "Hamlet," "The Baconator," "Oink Floyd," "Napoleon Boarnaparte," "Hamela Anderson," "Piggy Azalea," "Hamuel L. Jackson," "Pigolas Cage," etc
-			At one point, Connor's getting a briefing, and Ivan says "Pig Head, real name Christopher Percival Bacon."
-			"Chris P. Bacon? Are you fucking kidding me?"
-			"Yes, of course I am. His real name's Laszlo Aubrey." (reference to Pyg (and laszlo from ))
-			When Connor takes Pig Head down, he's about to finish him off, but Naismith & co. arrive and open fire, so Connor shrugs "if you don't want pork skewer, that's your problem" and bolts. pig head is taken to hospital under sedation, and then moved to the VPU
 		A rich psycho who hunts tramps for sport
 		a psychologist who gets off on convincing their patients to commit suicide; maybe have this the one who gaslit the firemen
 

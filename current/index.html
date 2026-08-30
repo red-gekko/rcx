@@ -465,7 +465,7 @@
 
             /**
              * Removes trailing scene names from content.
-             * Checks if the last non-empty line looks like a scene name and removes it.
+             * Always removes the last two non-empty lines if they look like a scene name.
              */
             function removeTrailingSceneName(content) {
                 if (!content) return '';
@@ -477,17 +477,35 @@
                     lines.pop();
                 }
                 
-                // If we have at least one line, check if the last one looks like a scene name
-                if (lines.length > 0) {
+                // If we have at least two lines, check if the last two look like a scene name pattern
+                if (lines.length >= 2) {
                     const lastLine = lines[lines.length - 1].trim();
-                    // If it looks like a scene name, remove it
-                    if (isSceneNameLine(lastLine)) {
+                    const secondLastLine = lines[lines.length - 2].trim();
+                    
+                    // Check if the last non-empty line looks like a scene name
+                    // OR if the last two lines follow the pattern: empty line then name
+                    const lastIsName = isSceneNameLine(lastLine);
+                    const secondIsEmpty = secondLastLine === '';
+                    
+                    if (lastIsName) {
+                        // Remove the last line (the scene name)
                         lines.pop();
                         // Remove any new trailing empty lines
                         while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                             lines.pop();
                         }
+                    } else if (secondIsEmpty && isSceneNameLine(lastLine)) {
+                        // Remove the empty line and the scene name
+                        lines.pop(); // Remove the scene name
+                        if (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                            lines.pop(); // Remove the empty line
+                        }
                     }
+                }
+                
+                // Final cleanup of trailing empty lines
+                while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                    lines.pop();
                 }
                 
                 return lines.join('\n');

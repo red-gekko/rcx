@@ -231,7 +231,7 @@
 
     <script>
         /**
-         * Bloodhound Interactive Reader
+         * Bloodhound Interactive Reader - Fixed Version
          * 
          * This script fetches the raw .txt file, parses it into a structured
          * format, and populates the dropdown menus and content area.
@@ -240,7 +240,6 @@
             'use strict';
 
             // Configuration: The path to your text file.
-            // Ensure this file is in the same directory as this HTML file.
             const STORY_FILE_PATH = 'bloodhound story scenes-WIP.txt';
 
             // DOM Element references
@@ -251,13 +250,11 @@
             const statusMessage = document.getElementById('status-message');
 
             // Data storage
-            let storyData = null; // Will hold the parsed structure
+            let storyData = null;
             let allVolumes = [];
 
             /**
              * Sets the status message in the footer.
-             * @param {string} msg - The message to display.
-             * @param {boolean} isError - If true, the message will be styled as an error.
              */
             function setStatus(msg, isError = false) {
                 statusMessage.textContent = msg;
@@ -266,15 +263,12 @@
 
             /**
              * Displays content in the main area.
-             * @param {string} title - The title of the scene.
-             * @param {string} content - The text of the scene.
              */
             function displayContent(title, content) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="loading-message">No content available for this selection.</div>`;
                     return;
                 }
-                // Escape HTML to prevent injection, but preserve basic formatting.
                 const safeContent = content
                     .replace(/&/g, '&amp;')
                     .replace(/</g, '&lt;')
@@ -287,13 +281,13 @@
 
             /**
              * Populates a select element with options.
-             * @param {HTMLSelectElement} selectElement - The <select> element.
-             * @param {Array} items - Array of strings or objects with 'label' and 'value' properties.
-             * @param {string} defaultLabel - The label for the default disabled option.
+             * FIXED: Properly sets value and selected attributes.
              */
             function populateSelect(selectElement, items, defaultLabel = '— Select —') {
-                // Clear current options, but keep the first default one.
+                // Clear current options
                 selectElement.innerHTML = '';
+                
+                // Add default option
                 const defaultOption = document.createElement('option');
                 defaultOption.value = '';
                 defaultOption.textContent = defaultLabel;
@@ -307,30 +301,25 @@
                 }
 
                 selectElement.disabled = false;
+                
                 items.forEach(item => {
                     const option = document.createElement('option');
-                    // If item is an object with 'label' and 'value', use those.
                     if (typeof item === 'object' && item !== null && 'label' in item && 'value' in item) {
                         option.value = item.value;
                         option.textContent = item.label;
                     } else {
-                        // Assume it's a simple string.
                         option.value = item;
                         option.textContent = item;
                     }
                     selectElement.appendChild(option);
                 });
 
-                // Reset selection to the default option.
+                // Reset selection to the default option
                 selectElement.selectedIndex = 0;
             }
 
             /**
-             * Parses the raw text from the story file.
-             * It looks for lines that start with "VOLUME", "EPISODE", and "SCENE".
-             * Content until the next identifier is collected.
-             * @param {string} text - The raw text content.
-             * @returns {Object} A structured object: { volumes: [ { name, episodes: [ { name, scenes: [ { name, content } ] } ] } ] }
+             * FIXED: Parses the raw text from the story file more robustly.
              */
             function parseStory(text) {
                 const lines = text.split(/\r?\n/);
@@ -338,28 +327,22 @@
                 let currentVolume = null;
                 let currentEpisode = null;
                 let currentScene = null;
+                let isCollectingScene = false;
 
-                // Helper to add the current scene if it has content.
                 function finalizeScene() {
                     if (currentScene && currentEpisode) {
-                        // Trim trailing whitespace and remove the scene's own heading line if present.
-                        // The heading line is typically the line that started with "SCENE".
-                        // We'll keep the content as-is; the title is stored separately.
-                        // Trim whitespace from the end.
                         currentScene.content = currentScene.content.trimEnd();
-                        // Only add if there is content (or we want to keep empty scenes).
-                        // We'll keep it for completeness.
                         currentEpisode.scenes.push({
                             name: currentScene.name,
                             content: currentScene.content
                         });
                         currentScene = null;
+                        isCollectingScene = false;
                     }
                 }
 
                 function finalizeEpisode() {
                     if (currentEpisode && currentVolume) {
-                        // Add the episode if it has scenes.
                         if (currentEpisode.scenes.length > 0) {
                             currentVolume.episodes.push({
                                 name: currentEpisode.name,
@@ -372,73 +355,45 @@
 
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
+                    const trimmedLine = line.trim();
 
-                    // Detect a VOLUME header (e.g., "______________________________" then "VOLUME 1")
-                    if (line.trim() === '______________________________' && i + 1 < lines.length && lines[i + 1].trim().startsWith('VOLUME')) {
-                        // Finalize previous structures.
-                        finalizeScene();
-                        finalizeEpisode();
-
-                        const volumeName = lines[i + 1].trim();
-                        // Skip the lines with underscores and the volume name.
-                        i++; // Skip the volume name line.
-                        // Create new volume.
-                        currentVolume = {
-                            name: volumeName,
-                            episodes: []
-                        };
-                        volumes.push(currentVolume);
-                        currentEpisode = null;
-                        currentScene = null;
-                        continue;
-                    }
-
-                    // Detect an EPISODE header (e.g., "______________________________" then "EPISODE")
-                    if (line.trim() === '______________________________' && i + 1 < lines.length && lines[i + 1].trim().startsWith('EPISODE')) {
-                        finalizeScene(); // Finalize any open scene before starting a new episode.
-                        finalizeEpisode(); // Finalize any open episode before starting a new one.
-
-                        const episodeName = lines[i + 1].trim();
-                        i++; // Skip the episode name line.
-                        if (currentVolume) {
-                            currentEpisode = {
-                                name: episodeName,
-                                scenes: []
+                    // Detect VOLUME header
+                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
+                        const nextLine = lines[i + 1].trim();
+                        if (nextLine.startsWith('VOLUME')) {
+                            finalizeScene();
+                            finalizeEpisode();
+                            
+                            const volumeName = nextLine;
+                            i++;
+                            currentVolume = {
+                                name: volumeName,
+                                episodes: []
                             };
-                        } else {
-                            // If there's an episode outside a volume, ignore or create a default volume.
-                            // We'll create a default "Unknown Volume" for robustness.
-                            if (!currentVolume) {
-                                currentVolume = {
-                                    name: 'Unknown Volume',
-                                    episodes: []
-                                };
-                                volumes.push(currentVolume);
-                            }
-                            currentEpisode = {
-                                name: episodeName,
-                                scenes: []
-                            };
+                            volumes.push(currentVolume);
+                            currentEpisode = null;
+                            currentScene = null;
+                            isCollectingScene = false;
+                            continue;
                         }
-                        currentScene = null;
-                        continue;
                     }
 
-                    // Detect a SCENE header (e.g., "______________________________" then "SCENE")
-                    if (line.trim() === '______________________________' && i + 1 < lines.length && lines[i + 1].trim().startsWith('SCENE')) {
-                        finalizeScene(); // Finalize the previous scene before starting a new one.
-
-                        const sceneName = lines[i + 1].trim();
-                        i++; // Skip the scene name line.
-                        if (currentEpisode) {
-                            currentScene = {
-                                name: sceneName,
-                                content: ''
-                            };
-                        } else {
-                            // If there's a scene outside an episode, we should create a default episode.
-                            if (!currentEpisode) {
-                                // If there's no current volume, create one.
+                    // Detect EPISODE header
+                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
+                        const nextLine = lines[i + 1].trim();
+                        if (nextLine.startsWith('EPISODE')) {
+                            finalizeScene();
+                            finalizeEpisode();
+                            
+                            const episodeName = nextLine;
+                            i++;
+                            if (currentVolume) {
+                                currentEpisode = {
+                                    name: episodeName,
+                                    scenes: []
+                                };
+                            } else {
+                                // Create default volume if needed
                                 if (!currentVolume) {
                                     currentVolume = {
                                         name: 'Unknown Volume',
@@ -447,32 +402,66 @@
                                     volumes.push(currentVolume);
                                 }
                                 currentEpisode = {
-                                    name: 'Unknown Episode',
+                                    name: episodeName,
                                     scenes: []
                                 };
-                                // Add this episode to the current volume.
-                                // But we need to make sure we don't add it if it's already there.
-                                const exists = currentVolume.episodes.some(ep => ep.name === currentEpisode.name);
-                                if (!exists) {
-                                    currentVolume.episodes.push(currentEpisode);
-                                }
                             }
-                            currentScene = {
-                                name: sceneName,
-                                content: ''
-                            };
+                            currentScene = null;
+                            isCollectingScene = false;
+                            continue;
                         }
-                        continue;
                     }
 
-                    // If we're inside a scene, add the line to its content.
-                    if (currentScene) {
-                        // Keep the line as is, including leading/trailing spaces.
+                    // Detect SCENE header
+                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
+                        const nextLine = lines[i + 1].trim();
+                        if (nextLine.startsWith('SCENE')) {
+                            finalizeScene();
+                            
+                            const sceneName = nextLine;
+                            i++;
+                            if (currentEpisode) {
+                                currentScene = {
+                                    name: sceneName,
+                                    content: ''
+                                };
+                                isCollectingScene = true;
+                            } else {
+                                // Create default episode if needed
+                                if (!currentEpisode) {
+                                    if (!currentVolume) {
+                                        currentVolume = {
+                                            name: 'Unknown Volume',
+                                            episodes: []
+                                        };
+                                        volumes.push(currentVolume);
+                                    }
+                                    currentEpisode = {
+                                        name: 'Unknown Episode',
+                                        scenes: []
+                                    };
+                                    const exists = currentVolume.episodes.some(ep => ep.name === currentEpisode.name);
+                                    if (!exists) {
+                                        currentVolume.episodes.push(currentEpisode);
+                                    }
+                                }
+                                currentScene = {
+                                    name: sceneName,
+                                    content: ''
+                                };
+                                isCollectingScene = true;
+                            }
+                            continue;
+                        }
+                    }
+
+                    // If we're inside a scene, collect the content
+                    if (isCollectingScene && currentScene) {
                         currentScene.content += line + '\n';
                     }
                 }
 
-                // Finalize any remaining open structures.
+                // Finalize any remaining structures
                 finalizeScene();
                 finalizeEpisode();
 
@@ -480,15 +469,16 @@
             }
 
             /**
-             * Handles the selection of a volume, episode, or scene.
-             * Populates the dependent dropdowns and displays the content.
+             * FIXED: Handles selection changes more reliably.
              */
             function handleSelection() {
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisode = episodeSelect.value;
                 const selectedScene = sceneSelect.value;
 
-                // If no volume is selected, reset everything.
+                console.log('Selection changed:', { selectedVolume, selectedEpisode, selectedScene });
+
+                // If no volume is selected, reset everything
                 if (!selectedVolume) {
                     populateSelect(episodeSelect, [], '— Select Episode —');
                     populateSelect(sceneSelect, [], '— Select Scene —');
@@ -496,49 +486,49 @@
                     return;
                 }
 
-                // Find the volume object.
+                // Find the volume object
                 const volumeObj = storyData.volumes.find(v => v.name === selectedVolume);
                 if (!volumeObj) {
                     setStatus('Error: Volume not found.', true);
                     return;
                 }
 
-                // Update the episode dropdown.
+                // Update the episode dropdown
                 const episodeNames = volumeObj.episodes.map(ep => ep.name);
                 populateSelect(episodeSelect, episodeNames, '— Select Episode —');
 
-                // If no episode is selected, clear scene dropdown and show a message.
+                // If no episode is selected, clear scene dropdown
                 if (!selectedEpisode) {
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     contentArea.innerHTML = `<div class="loading-message">Select an episode to view its scenes.</div>`;
                     return;
                 }
 
-                // Find the episode object.
+                // Find the episode object
                 const episodeObj = volumeObj.episodes.find(ep => ep.name === selectedEpisode);
                 if (!episodeObj) {
                     setStatus('Error: Episode not found.', true);
                     return;
                 }
 
-                // Update the scene dropdown.
+                // Update the scene dropdown
                 const sceneNames = episodeObj.scenes.map(sc => sc.name);
                 populateSelect(sceneSelect, sceneNames, '— Select Scene —');
 
-                // If no scene is selected, show a message.
+                // If no scene is selected, show a message
                 if (!selectedScene) {
                     contentArea.innerHTML = `<div class="loading-message">Select a scene to read.</div>`;
                     return;
                 }
 
-                // Find the scene object.
+                // Find the scene object
                 const sceneObj = episodeObj.scenes.find(sc => sc.name === selectedScene);
                 if (!sceneObj) {
                     setStatus('Error: Scene not found.', true);
                     return;
                 }
 
-                // Display the scene content.
+                // Display the scene content
                 displayContent(sceneObj.name, sceneObj.content);
                 setStatus(`Reading: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`, false);
             }
@@ -564,20 +554,23 @@
                             throw new Error('No volumes found in the text file. Please check the formatting.');
                         }
 
-                        // Populate the volume dropdown.
+                        // Populate the volume dropdown
                         const volumeNames = allVolumes.map(v => v.name);
                         populateSelect(volumeSelect, volumeNames, '— Select Volume —');
 
-                        // Reset the other dropdowns.
+                        // Reset the other dropdowns
                         populateSelect(episodeSelect, [], '— Select Episode —');
                         populateSelect(sceneSelect, [], '— Select Scene —');
 
-                        // Show a welcome message.
+                        // Show a welcome message
                         contentArea.innerHTML = `<div class="loading-message">Select a volume to begin reading.</div>`;
                         setStatus(`Loaded ${allVolumes.length} volume(s).`, false);
 
-                        // Enable the volume select if it was disabled.
+                        // Enable the volume select
                         volumeSelect.disabled = false;
+
+                        // Log parsed structure for debugging
+                        console.log('Parsed story data:', storyData);
                     })
                     .catch(error => {
                         console.error('Failed to load or parse story:', error);
@@ -592,18 +585,33 @@
                             </div>
                         `;
                         setStatus('Error loading story file.', true);
-                        // Disable selects on error.
                         [volumeSelect, episodeSelect, sceneSelect].forEach(sel => sel.disabled = true);
                     });
             }
 
             // --- Event Listeners ---
-            volumeSelect.addEventListener('change', handleSelection);
-            episodeSelect.addEventListener('change', handleSelection);
-            sceneSelect.addEventListener('change', handleSelection);
+            // FIXED: Using 'change' event with proper handling
+            volumeSelect.addEventListener('change', function(e) {
+                console.log('Volume changed to:', this.value);
+                // When volume changes, reset episode and scene selections
+                episodeSelect.selectedIndex = 0;
+                sceneSelect.selectedIndex = 0;
+                handleSelection();
+            });
+
+            episodeSelect.addEventListener('change', function(e) {
+                console.log('Episode changed to:', this.value);
+                // When episode changes, reset scene selection
+                sceneSelect.selectedIndex = 0;
+                handleSelection();
+            });
+
+            sceneSelect.addEventListener('change', function(e) {
+                console.log('Scene changed to:', this.value);
+                handleSelection();
+            });
 
             // --- Initialize ---
-            // Start loading the story.
             loadStory();
 
         })();

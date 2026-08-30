@@ -673,7 +673,7 @@
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {
-                    logDebug(`  Volume ${vi+1}: "${v.name}" - ${v.episodes.length} episodes`);
+                    logDebug(`  Volume ${vi}: "${v.name}" - ${v.episodes.length} episodes`);
                     v.episodes.forEach((e, ei) => {
                         logDebug(`    Episode ${ei+1}: "${e.name}" - ${e.scenes.length} scenes`);
                         e.scenes.forEach((s, si) => {
@@ -691,9 +691,10 @@
                     return;
                 }
 
+                // Volumes: 0‑based indexing (as requested)
                 const volumeLabels = storyData.volumes.map((v, index) => ({
                     id: v.name,
-                    label: `${index + 1} - ${v.name}`
+                    label: `${index} - ${v.name}`
                 }));
                 populateSelect(volumeSelect, volumeLabels, '— Select Volume —');
                 volumeSelect.disabled = false;
@@ -719,6 +720,7 @@
                     return;
                 }
 
+                // Episodes: 1‑based indexing
                 const episodeLabels = volume.episodes.map((e, index) => ({
                     id: e.id,
                     label: `${index + 1} - ${e.name}`
@@ -746,9 +748,10 @@
                     return;
                 }
 
-                const sceneItems = episode.scenes.map(s => ({
+                // Scenes: label = "Scene {number} - {name}"
+                const sceneItems = episode.scenes.map((s, index) => ({
                     id: s.id,
-                    label: s.name
+                    label: `Scene ${index + 1} - ${s.name}`
                 }));
                 populateSelect(sceneSelect, sceneItems, '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;

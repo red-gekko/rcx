@@ -1,5 +1,9 @@
-Rotten Core.
-<br><br>
-A tale of decaying empires and failed states.
-<br><br><br><br>
-The old world is dying.<br><br>The new world struggles to be born.<br><br>Now is the time of monsters.
+# Bloodhound — Interactive Anthology Reader
+
+An interactive web-based reader for the "Bloodhound" anthology series.
+
+## About
+This project presents the "Bloodhound" story in a chapter-verse style format, allowing readers to navigate by Volume, Episode, and Scene.
+
+## Read Online
+The story is available at: [https://redgekko.github.io/rcx/](https://redgekko.github.io/rcx/)

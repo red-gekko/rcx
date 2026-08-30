@@ -308,24 +308,29 @@
             }
 
             /**
-             * Removes the last line from scene content (the trailing scene name)
+             * Removes the last two non-empty lines from scene content
+             * (the trailing scene name and the empty line that follows it)
              */
             function removeTrailingSceneName(content) {
                 if (!content) return '';
                 
                 const lines = content.split('\n');
-                // Remove empty lines from the end first
+                
+                // First, remove all trailing empty lines
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
-                // Remove the last non-empty line (the scene name)
+                
+                // Now remove the last non-empty line (the scene name)
                 if (lines.length > 0) {
                     lines.pop();
                 }
+                
                 // Remove any remaining empty lines at the end
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
+                
                 return lines.join('\n');
             }
 
@@ -389,7 +394,6 @@
                         
                         if (inScene && currentScene && currentEpisode) {
                             let content = sceneContent.join('\n').trimEnd();
-                            // Remove the trailing scene name
                             content = removeTrailingSceneName(content);
                             currentEpisode.scenes.push({
                                 id: `scene-${Date.now()}-${Math.random()}`,

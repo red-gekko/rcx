@@ -42,7 +42,6 @@
             font-family: 'Helvetica', 'Arial', sans-serif;
         }
 
-        /* Navigation */
         .nav-container {
             display: flex;
             flex-wrap: wrap;
@@ -78,7 +77,6 @@
             border-radius: 8px;
             color: #2c2c2c;
             cursor: pointer;
-            transition: border-color 0.2s;
         }
 
         .nav-group select:hover {
@@ -97,7 +95,6 @@
             background-color: #f4f2ef;
         }
 
-        /* Content */
         .content-area {
             padding: 10px 0;
             min-height: 300px;
@@ -148,7 +145,22 @@
             border-top: 1px solid #eae5df;
         }
 
-        /* Responsive */
+        .debug-info {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f5f5f5;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85rem;
+            max-height: 200px;
+            overflow-y: auto;
+            display: none;
+        }
+
+        .debug-info.visible {
+            display: block;
+        }
+
         @media (max-width: 700px) {
             .container {
                 padding: 20px;
@@ -202,6 +214,9 @@
         </div>
 
         <div class="status" id="status">Loading the text file...</div>
+        
+        <button id="debug-toggle" style="margin-top:15px;padding:8px 16px;cursor:pointer;background:#e0d6cc;border:none;border-radius:6px;font-family:inherit;">Show Debug Info</button>
+        <div class="debug-info" id="debug-info"></div>
     </div>
 
     <script>
@@ -215,9 +230,22 @@
             const sceneSelect = document.getElementById('scene-select');
             const contentArea = document.getElementById('content-area');
             const statusEl = document.getElementById('status');
+            const debugInfo = document.getElementById('debug-info');
+            const debugToggle = document.getElementById('debug-toggle');
 
             let storyData = null;
-            let currentSelection = { volume: '', episode: '', scene: '' };
+            let debugLog = [];
+
+            function logDebug(msg) {
+                debugLog.push(msg);
+                console.log(msg);
+                debugInfo.textContent = debugLog.join('\n');
+            }
+
+            debugToggle.addEventListener('click', function() {
+                debugInfo.classList.toggle('visible');
+                this.textContent = debugInfo.classList.contains('visible') ? 'Hide Debug Info' : 'Show Debug Info';
+            });
 
             function setStatus(msg, isError = false) {
                 statusEl.textContent = msg;
@@ -263,67 +291,71 @@
                     select.appendChild(option);
                 });
 
-                // Try to restore previous selection
                 if (currentValue && items.includes(currentValue)) {
                     select.value = currentValue;
-                } else {
-                    select.selectedIndex = 0;
                 }
             }
 
             function parseStory(text) {
+                logDebug('Starting parse...');
                 const lines = text.split(/\r?\n/);
                 const volumes = [];
                 let currentVolume = null;
                 let currentEpisode = null;
                 let currentScene = null;
-                let collecting = false;
+                let sceneContent = [];
+                let insideScene = false;
 
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
                     const trimmed = line.trim();
 
-                    // Check for VOLUME
+                    // Look for volume pattern: underscores then VOLUME X
                     if (trimmed === '______________________________' && i + 1 < lines.length) {
-                        const next = lines[i + 1].trim();
-                        if (next.startsWith('VOLUME')) {
-                            if (currentScene) {
+                        const nextLine = lines[i + 1].trim();
+                        logDebug(`Found potential header: "${nextLine}"`);
+                        
+                        if (nextLine.startsWith('VOLUME')) {
+                            // Save current scene if exists
+                            if (insideScene && currentScene && currentEpisode) {
                                 currentEpisode.scenes.push({
-                                    name: currentScene.name,
-                                    content: currentScene.content.trimEnd()
+                                    name: currentScene,
+                                    content: sceneContent.join('\n').trimEnd()
                                 });
-                                currentScene = null;
-                                collecting = false;
+                                sceneContent = [];
+                                insideScene = false;
                             }
-                            if (currentEpisode) {
+                            // Save current episode if exists
+                            if (currentEpisode && currentVolume) {
                                 currentVolume.episodes.push(currentEpisode);
                                 currentEpisode = null;
                             }
+                            
                             currentVolume = {
-                                name: next,
+                                name: nextLine,
                                 episodes: []
                             };
                             volumes.push(currentVolume);
-                            i++;
+                            logDebug(`Created volume: "${nextLine}"`);
+                            i++; // Skip the next line
                             continue;
                         }
-                    }
-
-                    // Check for EPISODE
-                    if (trimmed === '______________________________' && i + 1 < lines.length) {
-                        const next = lines[i + 1].trim();
-                        if (next.startsWith('EPISODE')) {
-                            if (currentScene) {
+                        
+                        if (nextLine.startsWith('EPISODE')) {
+                            // Save current scene if exists
+                            if (insideScene && currentScene && currentEpisode) {
                                 currentEpisode.scenes.push({
-                                    name: currentScene.name,
-                                    content: currentScene.content.trimEnd()
+                                    name: currentScene,
+                                    content: sceneContent.join('\n').trimEnd()
                                 });
-                                currentScene = null;
-                                collecting = false;
+                                sceneContent = [];
+                                insideScene = false;
                             }
+                            // Save current episode if exists
                             if (currentEpisode && currentVolume) {
                                 currentVolume.episodes.push(currentEpisode);
                             }
+                            
                             if (!currentVolume) {
                                 currentVolume = {
                                     name: 'Unknown Volume',
@@ -331,25 +363,26 @@
                                 };
                                 volumes.push(currentVolume);
                             }
+                            
                             currentEpisode = {
-                                name: next,
+                                name: nextLine,
                                 scenes: []
                             };
-                            i++;
+                            logDebug(`Created episode: "${nextLine}"`);
+                            i++; // Skip the next line
                             continue;
                         }
-                    }
-
-                    // Check for SCENE
-                    if (trimmed === '______________________________' && i + 1 < lines.length) {
-                        const next = lines[i + 1].trim();
-                        if (next.startsWith('SCENE')) {
-                            if (currentScene) {
+                        
+                        if (nextLine.startsWith('SCENE')) {
+                            // Save current scene if exists
+                            if (insideScene && currentScene && currentEpisode) {
                                 currentEpisode.scenes.push({
-                                    name: currentScene.name,
-                                    content: currentScene.content.trimEnd()
+                                    name: currentScene,
+                                    content: sceneContent.join('\n').trimEnd()
                                 });
+                                sceneContent = [];
                             }
+                            
                             if (!currentEpisode) {
                                 if (!currentVolume) {
                                     currentVolume = {
@@ -363,56 +396,59 @@
                                     scenes: []
                                 };
                             }
-                            currentScene = {
-                                name: next,
-                                content: ''
-                            };
-                            collecting = true;
-                            i++;
+                            
+                            currentScene = nextLine;
+                            sceneContent = [];
+                            insideScene = true;
+                            logDebug(`Created scene: "${nextLine}"`);
+                            i++; // Skip the next line
                             continue;
                         }
                     }
 
-                    // Collect scene content
-                    if (collecting && currentScene) {
-                        currentScene.content += line + '\n';
+                    // If we're inside a scene, collect content
+                    if (insideScene && currentScene) {
+                        sceneContent.push(line);
                     }
                 }
 
                 // Final cleanup
-                if (currentScene) {
+                if (insideScene && currentScene && currentEpisode) {
                     currentEpisode.scenes.push({
-                        name: currentScene.name,
-                        content: currentScene.content.trimEnd()
+                        name: currentScene,
+                        content: sceneContent.join('\n').trimEnd()
                     });
                 }
                 if (currentEpisode && currentVolume) {
                     currentVolume.episodes.push(currentEpisode);
                 }
 
+                logDebug(`Parse complete. Found ${volumes.length} volumes.`);
                 return { volumes };
             }
 
             function updateNavigation() {
-                if (!storyData || !storyData.volumes.length) return;
-
-                const volumeNames = storyData.volumes.map(v => v.name);
-                populateSelect(volumeSelect, volumeNames, '— Select Volume —');
-
-                // If we have a saved selection, try to restore it
-                if (currentSelection.volume) {
-                    const volExists = storyData.volumes.some(v => v.name === currentSelection.volume);
-                    if (volExists) {
-                        volumeSelect.value = currentSelection.volume;
-                    }
+                if (!storyData || !storyData.volumes.length) {
+                    logDebug('No story data to update navigation');
+                    return;
                 }
 
-                // Trigger initial update
-                updateEpisodes();
+                const volumeNames = storyData.volumes.map(v => v.name);
+                logDebug(`Updating volume dropdown with: ${volumeNames.join(', ')}`);
+                populateSelect(volumeSelect, volumeNames, '— Select Volume —');
+                volumeSelect.disabled = false;
+
+                // Reset episode and scene
+                populateSelect(episodeSelect, [], '— Select Episode —');
+                populateSelect(sceneSelect, [], '— Select Scene —');
+                contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
+                setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
             }
 
             function updateEpisodes() {
                 const selectedVolume = volumeSelect.value;
+                logDebug(`updateEpisodes called with: "${selectedVolume}"`);
+                
                 if (!selectedVolume || !storyData) {
                     populateSelect(episodeSelect, [], '— Select Episode —');
                     populateSelect(sceneSelect, [], '— Select Scene —');
@@ -422,26 +458,24 @@
 
                 const volume = storyData.volumes.find(v => v.name === selectedVolume);
                 if (!volume) {
+                    logDebug(`Volume not found: "${selectedVolume}"`);
                     populateSelect(episodeSelect, [], '— Select Episode —');
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     return;
                 }
 
                 const episodeNames = volume.episodes.map(e => e.name);
+                logDebug(`Found episodes: ${episodeNames.join(', ')}`);
                 populateSelect(episodeSelect, episodeNames, '— Select Episode —');
-
-                // Restore saved episode selection if possible
-                if (currentSelection.episode && episodeNames.includes(currentSelection.episode)) {
-                    episodeSelect.value = currentSelection.episode;
-                }
-
-                updateScenes();
+                populateSelect(sceneSelect, [], '— Select Scene —');
+                contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
             }
 
             function updateScenes() {
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisode = episodeSelect.value;
-
+                logDebug(`updateScenes called with volume: "${selectedVolume}", episode: "${selectedEpisode}"`);
+                
                 if (!selectedVolume || !selectedEpisode || !storyData) {
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
@@ -456,30 +490,22 @@
 
                 const episode = volume.episodes.find(e => e.name === selectedEpisode);
                 if (!episode) {
+                    logDebug(`Episode not found: "${selectedEpisode}"`);
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     return;
                 }
 
                 const sceneNames = episode.scenes.map(s => s.name);
+                logDebug(`Found scenes: ${sceneNames.join(', ')}`);
                 populateSelect(sceneSelect, sceneNames, '— Select Scene —');
-
-                // Restore saved scene selection if possible
-                if (currentSelection.scene && sceneNames.includes(currentSelection.scene)) {
-                    sceneSelect.value = currentSelection.scene;
-                }
-
-                // If we have a scene selected, display it
-                if (sceneSelect.value) {
-                    displaySelectedScene();
-                } else {
-                    contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
-                }
+                contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
             }
 
             function displaySelectedScene() {
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisode = episodeSelect.value;
                 const selectedScene = sceneSelect.value;
+                logDebug(`displaySelectedScene called with: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`);
 
                 if (!selectedVolume || !selectedEpisode || !selectedScene || !storyData) {
                     return;
@@ -492,51 +518,57 @@
                 if (!episode) return;
 
                 const scene = episode.scenes.find(s => s.name === selectedScene);
-                if (!scene) return;
+                if (!scene) {
+                    logDebug(`Scene not found: "${selectedScene}"`);
+                    return;
+                }
 
-                // Save current selection
-                currentSelection = {
-                    volume: selectedVolume,
-                    episode: selectedEpisode,
-                    scene: selectedScene
-                };
-
+                logDebug(`Displaying scene with ${scene.content.length} characters`);
                 showContent(scene.name, scene.content);
                 setStatus(`Reading: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`);
             }
 
-            // Event handlers - simplified and direct
+            // Event handlers
             volumeSelect.addEventListener('change', function() {
-                currentSelection.episode = '';
-                currentSelection.scene = '';
+                logDebug(`Volume changed to: "${this.value}"`);
                 episodeSelect.selectedIndex = 0;
                 sceneSelect.selectedIndex = 0;
                 updateEpisodes();
             });
 
             episodeSelect.addEventListener('change', function() {
-                currentSelection.scene = '';
+                logDebug(`Episode changed to: "${this.value}"`);
                 sceneSelect.selectedIndex = 0;
                 updateScenes();
             });
 
             sceneSelect.addEventListener('change', function() {
+                logDebug(`Scene changed to: "${this.value}"`);
                 displaySelectedScene();
             });
 
             // Load the story
             function loadStory() {
                 setStatus('Loading story file...');
+                logDebug(`Fetching file: ${STORY_FILE}`);
+                
                 fetch(STORY_FILE)
                     .then(response => {
+                        logDebug(`Response status: ${response.status}`);
                         if (!response.ok) {
                             throw new Error(`HTTP ${response.status}: Could not fetch '${STORY_FILE}'`);
                         }
                         return response.text();
                     })
                     .then(text => {
+                        logDebug(`File loaded, ${text.length} characters`);
+                        // Show first few lines for debugging
+                        const firstLines = text.split('\n').slice(0, 20).join('\n');
+                        logDebug(`First 20 lines:\n${firstLines}`);
+                        
                         const parsed = parseStory(text);
                         storyData = parsed;
+                        logDebug(`Parsed data: ${JSON.stringify(storyData, null, 2)}`);
                         
                         if (!storyData.volumes || storyData.volumes.length === 0) {
                             throw new Error('No volumes found in the file. Check formatting.');
@@ -547,6 +579,7 @@
                     })
                     .catch(error => {
                         console.error('Error:', error);
+                        logDebug(`ERROR: ${error.message}`);
                         contentArea.innerHTML = `
                             <div class="error">
                                 <strong>Error loading story:</strong><br>

@@ -149,6 +149,7 @@
             padding-right: 8px;
             color: #d1d9e0;
             line-height: 2.0;
+            white-space: pre-wrap;
         }
 
         .scene-content::-webkit-scrollbar {
@@ -439,25 +440,15 @@
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
                     return;
                 }
-                // Strip indentation from the content
+                // Strip indentation from the content before displaying
                 const strippedContent = stripIndentation(content);
-                // Split into lines, escape HTML, and join with <br> tags
-                const lines = strippedContent.split('\n');
-                let htmlContent = '';
-                for (let i = 0; i < lines.length; i++) {
-                    let line = lines[i];
-                    // Escape HTML in the line
-                    line = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                    // Add the line content
-                    htmlContent += line;
-                    // Add a <br> after each line except the last
-                    if (i < lines.length - 1) {
-                        htmlContent += '<br>';
-                    }
-                }
+                const safeContent = strippedContent
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;');
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
-                    <div class="scene-content">${htmlContent}</div>
+                    <div class="scene-content">${safeContent}</div>
                 `;
             }
 
@@ -607,7 +598,14 @@
                     const line = lines[i];
                     const trimmed = line.trim();
 
-                    if (trimmed === '') continue;
+                    // ---- FIX: preserve blank lines inside scenes ----
+                    if (trimmed === '') {
+                        // If we are inside a scene, keep this blank line
+                        if (inScene && currentScene) {
+                            sceneContent.push(line); // line is empty string, but we want the blank line
+                        }
+                        continue;
+                    }
 
                     if (trimmed.startsWith('VOLUME')) {
                         logDebug(`Found VOLUME at line ${i+1}: "${trimmed}"`);

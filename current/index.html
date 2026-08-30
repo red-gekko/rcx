@@ -613,7 +613,8 @@
                         episodeCount = 0;
                         sceneCount = 0;
                         saveEpisode();
-                        const volumeName = extractName(trimmed) || `Volume ${volumeCount}`;
+                        // ---- FIX: use volumes.length so generic name matches the dropdown index ----
+                        const volumeName = extractName(trimmed) || `Volume ${volumes.length}`;
                         currentVolume = {
                             name: volumeName,
                             episodes: []
@@ -768,7 +769,7 @@
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {
-                    logDebug(`  Volume ${vi+1}: "${v.name}" - ${v.episodes.length} episodes`);
+                    logDebug(`  Volume ${vi}: "${v.name}" - ${v.episodes.length} episodes`);
                     v.episodes.forEach((e, ei) => {
                         logDebug(`    Episode ${ei+1}: "${e.name}" - ${e.scenes.length} scenes`);
                         e.scenes.forEach((s, si) => {

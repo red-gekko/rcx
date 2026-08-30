@@ -464,46 +464,43 @@
             }
 
             /**
-             * Removes trailing scene names from content.
-             * Always removes the last two non-empty lines if they look like a scene name.
+             * ALWAYS removes the last 2 non-empty lines from scene content.
+             * This handles the trailing scene name and any empty lines.
              */
             function removeTrailingSceneName(content) {
                 if (!content) return '';
                 
                 const lines = content.split('\n');
                 
-                // Remove trailing empty lines
-                while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
-                    lines.pop();
+                // Count how many non-empty lines we have
+                let nonEmptyCount = 0;
+                for (let i = lines.length - 1; i >= 0; i--) {
+                    if (lines[i].trim() !== '') {
+                        nonEmptyCount++;
+                    }
                 }
                 
-                // If we have at least two lines, check if the last two look like a scene name pattern
-                if (lines.length >= 2) {
-                    const lastLine = lines[lines.length - 1].trim();
-                    const secondLastLine = lines[lines.length - 2].trim();
-                    
-                    // Check if the last non-empty line looks like a scene name
-                    // OR if the last two lines follow the pattern: empty line then name
-                    const lastIsName = isSceneNameLine(lastLine);
-                    const secondIsEmpty = secondLastLine === '';
-                    
-                    if (lastIsName) {
-                        // Remove the last line (the scene name)
-                        lines.pop();
-                        // Remove any new trailing empty lines
-                        while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
-                            lines.pop();
+                // If we have at least 2 non-empty lines, remove the last 2
+                if (nonEmptyCount >= 2) {
+                    let removed = 0;
+                    for (let i = lines.length - 1; i >= 0 && removed < 2; i--) {
+                        if (lines[i].trim() !== '') {
+                            lines.splice(i, 1);
+                            removed++;
                         }
-                    } else if (secondIsEmpty && isSceneNameLine(lastLine)) {
-                        // Remove the empty line and the scene name
-                        lines.pop(); // Remove the scene name
-                        if (lines.length > 0 && lines[lines.length - 1].trim() === '') {
-                            lines.pop(); // Remove the empty line
+                    }
+                }
+                // If we only have 1 non-empty line, remove it (edge case)
+                else if (nonEmptyCount === 1) {
+                    for (let i = lines.length - 1; i >= 0; i--) {
+                        if (lines[i].trim() !== '') {
+                            lines.splice(i, 1);
+                            break;
                         }
                     }
                 }
                 
-                // Final cleanup of trailing empty lines
+                // Remove any trailing empty lines
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
@@ -513,30 +510,20 @@
 
             /**
              * Checks if a line looks like a scene name (not content)
+             * Used for detecting explicit scene names on the next line
              */
             function isSceneNameLine(line) {
                 const trimmed = line.trim();
                 if (!trimmed) return false;
                 
-                // Too long to be a name
                 if (trimmed.length > 60) return false;
-                
-                // Starts with quote - this is dialogue, not a name
                 if (trimmed.startsWith('"') || trimmed.startsWith("'")) return false;
-                
-                // Starts with common story opening patterns - this is content
                 if (trimmed.match(/^(The|It|They|He|She|We|I|You|A|An|"|'|As|When|While|After|Before|During|Through|Across|Inside|Outside|Over|Under|Above|Below|Between|Among|Without|Within|Upon|Toward|Through|Throughout|Upon|About|Against|Along|Among|Around|At|Behind|Below|Beneath|Beside|Beyond|By|Down|During|Except|For|From|In|Into|Like|Near|Of|Off|On|Onto|Out|Outside|Over|Past|Since|Through|Throughout|To|Toward|Under|Until|Up|Upon|With|Within|Without)/)) {
                     return false;
                 }
-                
-                // If the line has punctuation like . , ! ? it's probably content
                 if (trimmed.match(/[.,!?;:]/)) return false;
-                
-                // If the line has multiple words and looks like a sentence, it's content
                 const words = trimmed.split(/\s+/);
                 if (words.length > 3) return false;
-                
-                // It's probably a name
                 return true;
             }
 
@@ -558,7 +545,7 @@
                 function saveScene() {
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
-                        // Remove any trailing scene name
+                        // ALWAYS remove the last 2 non-empty lines
                         content = removeTrailingSceneName(content);
                         currentEpisode.scenes.push({
                             id: `scene-${Date.now()}-${Math.random()}`,

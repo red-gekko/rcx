@@ -472,6 +472,24 @@
             }
 
             /**
+             * Checks if a line looks like a scene name (short, no punctuation, etc.)
+             */
+            function isSceneNameLine(line) {
+                const trimmed = line.trim();
+                if (!trimmed) return false;
+                
+                if (trimmed.length > 60) return false;
+                if (trimmed.startsWith('"') || trimmed.startsWith("'")) return false;
+                if (trimmed.match(/^(The|It|They|He|She|We|I|You|A|An|"|'|As|When|While|After|Before|During|Through|Across|Inside|Outside|Over|Under|Above|Below|Between|Among|Without|Within|Upon|Toward|Through|Throughout|Upon|About|Against|Along|Among|Around|At|Behind|Below|Beneath|Beside|Beyond|By|Down|During|Except|For|From|In|Into|Like|Near|Of|Off|On|Onto|Out|Outside|Over|Past|Since|Through|Throughout|To|Toward|Under|Until|Up|Upon|With|Within|Without)/)) {
+                    return false;
+                }
+                if (trimmed.match(/[.,!?;:]/)) return false;
+                const words = trimmed.split(/\s+/);
+                if (words.length > 3) return false;
+                return true;
+            }
+
+            /**
              * Removes trailing scene names based on indentation level.
              * The scene name has the same or less indentation than the SCENE tag.
              */
@@ -591,7 +609,8 @@
                             if (nextLine && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
-                                !nextLine.startsWith('VOLUME')) {
+                                !nextLine.startsWith('VOLUME') &&
+                                isSceneNameLine(nextLine)) {
                                 episodeName = nextLine;
                                 i++;
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
@@ -634,13 +653,16 @@
                         logDebug(`  Scene indent level: ${sceneIndentLevel}`);
                         
                         let sceneName = extractName(trimmed);
+                        // Only use next line if it looks like a name (short, no punctuation, etc.)
                         if (!sceneName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1];
                             const nextTrimmed = nextLine.trim();
                             if (nextTrimmed && 
                                 !nextTrimmed.startsWith('SCENE') && 
                                 !nextTrimmed.startsWith('EPISODE') && 
-                                !nextTrimmed.startsWith('VOLUME')) {
+                                !nextTrimmed.startsWith('VOLUME') &&
+                                nextTrimmed !== '______________________________' &&
+                                isSceneNameLine(nextTrimmed)) {
                                 sceneName = nextTrimmed;
                                 i++;
                                 logDebug(`  Using next line as scene name: "${sceneName}"`);
@@ -688,14 +710,9 @@
                 saveEpisode();
 
                 // THIRD: Double-check by iterating through all scenes and ensuring cleanup
-                // This catches any edge cases where the final scene wasn't cleaned
                 volumes.forEach(volume => {
                     volume.episodes.forEach(episode => {
                         episode.scenes.forEach(scene => {
-                            // Get the indentation of the SCENE tag for this scene
-                            // We can estimate it by looking at the content's indentation
-                            // But for the final scene, we already have the indent level
-                            // Just check if the content ends with a line that has less indentation
                             const lines = scene.content.split('\n');
                             while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                                 lines.pop();
@@ -703,8 +720,6 @@
                             if (lines.length > 0) {
                                 const lastLine = lines[lines.length - 1];
                                 const lastIndent = getIndentLevel(lastLine);
-                                // If the last line has less than 4 spaces of indentation,
-                                // and looks like a name, remove it
                                 if (lastIndent < 4 && lastLine.trim().length < 60) {
                                     const trimmed = lastLine.trim();
                                     if (!trimmed.startsWith('"') && 

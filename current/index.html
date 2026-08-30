@@ -495,16 +495,12 @@
                     if (lastIndent <= sceneIndentLevel && 
                         !lastLine.trim().startsWith('SCENE') && 
                         !lastLine.trim().startsWith('EPISODE') && 
-                        !lastLine.trim().startsWith('VOLUME') &&
-                        lastLine.trim() !== '______________________________') {
-                        logDebug(`    Removing trailing line: "${lastLine.trim()}" (indent: ${lastIndent} <= ${sceneIndentLevel})`);
+                        !lastLine.trim().startsWith('VOLUME')) {
                         lines.pop();
                         // Remove any new trailing empty lines
                         while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                             lines.pop();
                         }
-                    } else {
-                        logDebug(`    Keeping trailing line: "${lastLine.trim()}" (indent: ${lastIndent} > ${sceneIndentLevel})`);
                     }
                 }
                 
@@ -530,7 +526,6 @@
                 function saveScene() {
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
-                        logDebug(`  Saving scene "${currentScene}" with ${content.length} chars, indent level ${sceneIndentLevel}`);
                         // Remove trailing scene name based on indentation
                         content = removeTrailingSceneName(content, sceneIndentLevel);
                         currentEpisode.scenes.push({
@@ -540,11 +535,14 @@
                         });
                         sceneContent = [];
                         inScene = false;
+                        logDebug(`  Saved scene: "${currentScene}" (${content.length} chars)`);
                     }
                 }
 
                 function saveEpisode() {
+                    // First save any open scene
                     saveScene();
+                    // Then save the episode
                     if (currentEpisode && currentVolume) {
                         const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
                         if (!exists) {
@@ -595,8 +593,7 @@
                             if (nextLine && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
-                                !nextLine.startsWith('VOLUME') &&
-                                nextLine !== '______________________________') {
+                                !nextLine.startsWith('VOLUME')) {
                                 episodeName = nextLine;
                                 i++;
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
@@ -638,30 +635,22 @@
                         sceneIndentLevel = getIndentLevel(line);
                         logDebug(`  Scene indent level: ${sceneIndentLevel}`);
                         
-                        let sceneName = `Scene ${sceneCount}`;
-                        // Check if there's an explicit name on the same line or next line
-                        let explicitName = extractName(trimmed);
-                        if (explicitName) {
-                            sceneName = explicitName;
-                        } else if (i + 1 < lines.length) {
+                        let sceneName = extractName(trimmed);
+                        if (!sceneName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1];
                             const nextTrimmed = nextLine.trim();
                             if (nextTrimmed && 
                                 !nextTrimmed.startsWith('SCENE') && 
                                 !nextTrimmed.startsWith('EPISODE') && 
-                                !nextTrimmed.startsWith('VOLUME') &&
-                                nextTrimmed !== '______________________________') {
-                                // Check if the next line has the same or less indentation
-                                // If it does, it's likely a scene name
-                                const nextIndent = getIndentLevel(nextLine);
-                                if (nextIndent <= sceneIndentLevel) {
-                                    sceneName = nextTrimmed;
-                                    i++;
-                                    logDebug(`  Using next line as scene name: "${sceneName}"`);
-                                }
+                                !nextTrimmed.startsWith('VOLUME')) {
+                                sceneName = nextTrimmed;
+                                i++;
+                                logDebug(`  Using next line as scene name: "${sceneName}"`);
                             }
                         }
-                        
+                        if (!sceneName) {
+                            sceneName = `Scene ${sceneCount}`;
+                        }
                         currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
@@ -679,10 +668,29 @@
                     }
                 }
 
-                // Final cleanup - save any remaining scene
+                // Final cleanup - save any remaining scene AND episode
                 logDebug('=== Final cleanup ===');
+                // Make sure we save the final scene with the correct indent level
                 if (inScene && currentScene && currentEpisode) {
                     logDebug(`  Final scene before save: "${currentScene}" with ${sceneContent.length} lines`);
+                    let content = sceneContent.join('\n').trimEnd();
+                    logDebug(`  Final scene content before cleanup: "${content.slice(-200)}"`);
+                    content = removeTrailingSceneName(content, sceneIndentLevel);
+                    logDebug(`  Final scene content after cleanup: "${content.slice(-200)}"`);
+                    currentEpisode.scenes.push({
+                        id: `scene-${Date.now()}-${Math.random()}`,
+                        name: currentScene,
+                        content: content
+                    });
+                    sceneContent = [];
+                    inScene = false;
+                }
+                // Then save the episode
+                saveEpisode();
+
+                // Double-check: if there's still a scene (shouldn't happen), save it directly
+                if (inScene && currentScene && currentEpisode) {
+                    logDebug(`  Emergency save of final scene: "${currentScene}"`);
                     let content = sceneContent.join('\n').trimEnd();
                     content = removeTrailingSceneName(content, sceneIndentLevel);
                     currentEpisode.scenes.push({
@@ -693,7 +701,46 @@
                     sceneContent = [];
                     inScene = false;
                 }
-                saveEpisode();
+
+                // Final emergency: clean up any scene that might have been saved without cleanup
+                // This is the key fix - iterate through all scenes and ensure trailing names are removed
+                volumes.forEach(volume => {
+                    volume.episodes.forEach(episode => {
+                        episode.scenes.forEach(scene => {
+                            // If the scene content ends with a line that looks like a scene name,
+                            // remove it
+                            const content = scene.content;
+                            const lines = content.split('\n');
+                            // Remove trailing empty lines
+                            while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                                lines.pop();
+                            }
+                            // Check if the last non-empty line looks like a scene name
+                            if (lines.length > 0) {
+                                const lastLine = lines[lines.length - 1];
+                                const lastIndent = getIndentLevel(lastLine);
+                                // If the last line has less indentation than the rest of the content,
+                                // it's likely a scene name - remove it
+                                if (lastIndent < 4) {
+                                    // Check if it looks like a name (short, no punctuation)
+                                    const trimmed = lastLine.trim();
+                                    if (trimmed.length < 60 && 
+                                        !trimmed.startsWith('"') && 
+                                        !trimmed.startsWith("'") &&
+                                        !trimmed.match(/[.,!?;:]/)) {
+                                        lines.pop();
+                                        // Remove any new trailing empty lines
+                                        while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                                            lines.pop();
+                                        }
+                                        scene.content = lines.join('\n');
+                                        logDebug(`  Post-cleanup removed trailing name from: "${scene.name}"`);
+                                    }
+                                }
+                            }
+                        });
+                    });
+                });
 
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);

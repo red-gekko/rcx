@@ -141,7 +141,9 @@
             letter-spacing: -0.3px;
         }
 
+        /* Pre tag for preserving whitespace */
         .scene-content {
+            font-family: inherit;
             font-size: 1.15rem;
             white-space: pre-wrap;
             word-wrap: break-word;
@@ -150,6 +152,9 @@
             padding-right: 8px;
             color: #d1d9e0;
             line-height: 2.0;
+            margin: 0;
+            background: transparent;
+            border: none;
         }
 
         .scene-content::-webkit-scrollbar {
@@ -402,6 +407,7 @@
             /**
              * Removes leading indentation from scene content for display.
              * Finds the minimum indentation across all non-empty lines and removes it.
+             * Preserves all blank lines.
              */
             function stripIndentation(content) {
                 if (!content) return '';
@@ -425,7 +431,7 @@
                     return content;
                 }
                 
-                // Remove the minimum indentation from each line
+                // Remove the minimum indentation from each line, but leave empty lines untouched
                 const strippedLines = lines.map(line => {
                     if (line.trim() === '') return line;
                     return line.substring(minIndent);
@@ -447,7 +453,7 @@
                     .replace(/>/g, '&gt;');
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
-                    <div class="scene-content">${safeContent}</div>
+                    <pre class="scene-content">${safeContent}</pre>
                 `;
             }
 

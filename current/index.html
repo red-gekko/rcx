@@ -287,7 +287,6 @@
                 select.disabled = false;
                 items.forEach(item => {
                     const option = document.createElement('option');
-                    // If item has an id, use it as the value
                     if (typeof item === 'object' && item !== null && 'id' in item) {
                         option.value = item.id;
                         option.textContent = item.label;
@@ -299,7 +298,6 @@
                 });
 
                 if (currentValue) {
-                    // Check if the current value still exists in the new options
                     const optionExists = Array.from(select.options).some(opt => opt.value === currentValue);
                     if (optionExists) {
                         select.value = currentValue;
@@ -323,6 +321,7 @@
                 let volumeCount = 0;
                 let episodeCount = 0;
                 let sceneCount = 0;
+                let globalSceneCounter = 0;
 
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
@@ -390,27 +389,23 @@
                             volumes.push(currentVolume);
                         }
                         
-                        // Get episode name (clean it up)
+                        // Get episode name - clean it up, but keep it generic if not specified
                         let episodeName = trimmed.replace(/^EPISODE\s*[:—-]?\s*/, '').trim();
                         if (!episodeName || episodeName === 'EPISODE') {
                             episodeName = `Episode ${episodeCount}`;
                         }
                         
-                        // Check if next line is a name (not a tag)
-                        if (i + 1 < lines.length) {
+                        // Check if next line is a name (not a tag) - but ONLY if the current name is generic
+                        if (i + 1 < lines.length && episodeName === `Episode ${episodeCount}`) {
                             const nextLine = lines[i + 1].trim();
                             if (nextLine && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('VOLUME') &&
                                 nextLine !== '______________________________') {
-                                // Use the next line as the name if it's not a tag
-                                // But only if the current name is generic
-                                if (episodeName === `Episode ${episodeCount}`) {
-                                    episodeName = nextLine;
-                                    i++;
-                                    logDebug(`  Using next line as episode name: "${episodeName}"`);
-                                }
+                                episodeName = nextLine;
+                                i++;
+                                logDebug(`  Using next line as episode name: "${episodeName}"`);
                             }
                         }
                         
@@ -427,6 +422,7 @@
                     if (trimmed.startsWith('SCENE')) {
                         logDebug(`Found SCENE at line ${i+1}: "${trimmed}"`);
                         sceneCount++;
+                        globalSceneCounter++;
                         
                         if (inScene && currentScene && currentEpisode) {
                             currentEpisode.scenes.push({
@@ -454,33 +450,33 @@
                             logDebug('Created default episode');
                         }
                         
-                        // Get scene name
-                        let sceneName = trimmed.replace(/^SCENE\s*[:—-]?\s*/, '').trim();
-                        if (!sceneName || sceneName === 'SCENE') {
-                            sceneName = `Scene ${sceneCount}`;
-                        }
+                        // Get scene name - ALWAYS use generic numbering, never use content
+                        let sceneName = `Scene ${sceneCount}`;
                         
-                        // Check if next line is a name (not a tag)
+                        // Only use the next line as name if it's explicitly provided and not generic
                         if (i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
-                            if (nextLine && 
+                            // Check if the next line looks like a proper scene name (not content)
+                            // A proper scene name is short, doesn't start with common content words
+                            const isLikelyName = nextLine && 
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('VOLUME') &&
-                                nextLine !== '______________________________') {
-                                // Use the next line as the name if it's not a tag
-                                if (sceneName === `Scene ${sceneCount}`) {
-                                    sceneName = nextLine;
-                                    i++;
-                                    logDebug(`  Using next line as scene name: "${sceneName}"`);
-                                }
+                                nextLine !== '______________________________' &&
+                                nextLine.length < 100 && // Names are usually short
+                                !nextLine.match(/^[A-Z][a-z]+/); // Don't use if it looks like a sentence
+                            
+                            if (isLikelyName) {
+                                sceneName = nextLine;
+                                i++;
+                                logDebug(`  Using next line as scene name: "${sceneName}"`);
                             }
                         }
                         
                         currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
-                        logDebug(`Created scene: "${sceneName}"`);
+                        logDebug(`Created scene: "${sceneName}" (Scene ${sceneCount} of ${episodeCount})`);
                         continue;
                     }
 
@@ -562,7 +558,6 @@
                     return;
                 }
 
-                // Create items with id and label for the dropdown
                 const episodeItems = volume.episodes.map(e => ({
                     id: e.id,
                     label: e.name
@@ -591,7 +586,6 @@
                     return;
                 }
 
-                // Find episode by ID
                 const episode = volume.episodes.find(e => e.id === selectedEpisodeId);
                 if (!episode) {
                     logDebug(`Episode not found with ID: "${selectedEpisodeId}"`);
@@ -599,7 +593,6 @@
                     return;
                 }
 
-                // Create items with id and label for the dropdown
                 const sceneItems = episode.scenes.map(s => ({
                     id: s.id,
                     label: s.name

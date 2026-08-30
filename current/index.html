@@ -301,7 +301,6 @@
                 logDebug('=== Starting parse ===');
                 const lines = text.split(/\r?\n/);
                 
-                // Data structure
                 const volumes = [];
                 let currentVolume = null;
                 let currentEpisode = null;
@@ -309,15 +308,9 @@
                 let sceneContent = [];
                 let inScene = false;
 
-                // State machine
-                let state = 'SEARCHING'; // SEARCHING, IN_VOLUME, IN_EPISODE, IN_SCENE
-
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
                     const trimmed = line.trim();
-
-                    // Skip empty lines
-                    if (trimmed === '') continue;
 
                     // Check for VOLUME
                     if (trimmed.startsWith('VOLUME')) {
@@ -332,19 +325,16 @@
                             sceneContent = [];
                             inScene = false;
                         }
-                        // Save current episode if exists
                         if (currentEpisode && currentVolume) {
                             currentVolume.episodes.push(currentEpisode);
                             currentEpisode = null;
                         }
                         
-                        // Create new volume
                         currentVolume = {
                             name: trimmed,
                             episodes: []
                         };
                         volumes.push(currentVolume);
-                        state = 'IN_VOLUME';
                         logDebug(`Created volume: "${trimmed}"`);
                         continue;
                     }
@@ -362,13 +352,11 @@
                             sceneContent = [];
                             inScene = false;
                         }
-                        // Save current episode if exists
                         if (currentEpisode && currentVolume) {
                             currentVolume.episodes.push(currentEpisode);
                             currentEpisode = null;
                         }
                         
-                        // Make sure we have a volume
                         if (!currentVolume) {
                             currentVolume = {
                                 name: 'Unknown Volume',
@@ -377,13 +365,27 @@
                             volumes.push(currentVolume);
                         }
                         
-                        // Create new episode
+                        // Check if the name is on the same line (e.g., "EPISODE - Beginnings")
+                        let episodeName = trimmed;
+                        // If it's just "EPISODE", check the next line for the name
+                        if (trimmed === 'EPISODE' && i + 1 < lines.length) {
+                            const nextLine = lines[i + 1].trim();
+                            // Skip if the next line is a divider or another tag
+                            if (nextLine !== '______________________________' && 
+                                !nextLine.startsWith('EPISODE') && 
+                                !nextLine.startsWith('SCENE') && 
+                                !nextLine.startsWith('VOLUME')) {
+                                episodeName = nextLine;
+                                i++; // Skip the next line since we used it as the name
+                                logDebug(`  Using next line as episode name: "${episodeName}"`);
+                            }
+                        }
+                        
                         currentEpisode = {
-                            name: trimmed,
+                            name: episodeName,
                             scenes: []
                         };
-                        state = 'IN_EPISODE';
-                        logDebug(`Created episode: "${trimmed}"`);
+                        logDebug(`Created episode: "${episodeName}"`);
                         continue;
                     }
 
@@ -400,7 +402,6 @@
                             sceneContent = [];
                         }
                         
-                        // Make sure we have an episode
                         if (!currentEpisode) {
                             if (!currentVolume) {
                                 currentVolume = {
@@ -417,35 +418,52 @@
                             logDebug('Created default episode');
                         }
                         
-                        // Start new scene
-                        currentScene = trimmed;
+                        // Check if the name is on the same line (e.g., "SCENE - Need to Know")
+                        let sceneName = trimmed;
+                        // If it's just "SCENE", check the next line for the name
+                        if (trimmed === 'SCENE' && i + 1 < lines.length) {
+                            const nextLine = lines[i + 1].trim();
+                            // Skip if the next line is a divider or another tag
+                            if (nextLine !== '______________________________' && 
+                                !nextLine.startsWith('SCENE') && 
+                                !nextLine.startsWith('EPISODE') && 
+                                !nextLine.startsWith('VOLUME')) {
+                                sceneName = nextLine;
+                                i++; // Skip the next line since we used it as the name
+                                logDebug(`  Using next line as scene name: "${sceneName}"`);
+                            }
+                        }
+                        
+                        currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
-                        state = 'IN_SCENE';
-                        logDebug(`Created scene: "${trimmed}"`);
+                        logDebug(`Created scene: "${sceneName}"`);
                         continue;
                     }
 
                     // If we're inside a scene, collect content
                     if (inScene && currentScene) {
-                        sceneContent.push(line);
+                        // Skip lines that are just dividers or tags (they shouldn't be in scene content)
+                        if (trimmed !== '______________________________' && 
+                            !trimmed.startsWith('SCENE') && 
+                            !trimmed.startsWith('EPISODE') && 
+                            !trimmed.startsWith('VOLUME')) {
+                            sceneContent.push(line);
+                        }
                     }
                 }
 
-                // Final cleanup - save any remaining scene
+                // Final cleanup
                 if (inScene && currentScene && currentEpisode) {
                     currentEpisode.scenes.push({
                         name: currentScene,
                         content: sceneContent.join('\n').trimEnd()
                     });
-                    logDebug(`Saved final scene: "${currentScene}"`);
                 }
-                // Save any remaining episode
                 if (currentEpisode && currentVolume) {
                     const exists = currentVolume.episodes.some(e => e.name === currentEpisode.name);
                     if (!exists) {
                         currentVolume.episodes.push(currentEpisode);
-                        logDebug(`Saved final episode: "${currentEpisode.name}"`);
                     }
                 }
 
@@ -476,7 +494,6 @@
                 populateSelect(volumeSelect, volumeNames, '— Select Volume —');
                 volumeSelect.disabled = false;
 
-                // Reset episode and scene
                 populateSelect(episodeSelect, [], '— Select Episode —');
                 populateSelect(sceneSelect, [], '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
@@ -579,7 +596,6 @@
             volumeSelect.addEventListener('change', function() {
                 const val = this.value;
                 logDebug(`=== Volume changed to: "${val}" ===`);
-                // Reset dependent dropdowns
                 episodeSelect.selectedIndex = 0;
                 sceneSelect.selectedIndex = 0;
                 updateEpisodes();
@@ -588,7 +604,6 @@
             episodeSelect.addEventListener('change', function() {
                 const val = this.value;
                 logDebug(`=== Episode changed to: "${val}" ===`);
-                // Reset scene dropdown
                 sceneSelect.selectedIndex = 0;
                 updateScenes();
             });
@@ -599,7 +614,6 @@
                 displaySelectedScene();
             });
 
-            // Load the story
             function loadStory() {
                 setStatus('Loading story file...');
                 logDebug(`=== Fetching file: ${STORY_FILE} ===`);
@@ -635,10 +649,7 @@
                                 <strong>Check:</strong><br>
                                 1. The file <code>${STORY_FILE}</code> is in the same folder.<br>
                                 2. The filename matches exactly (case-sensitive).<br>
-                                3. The file has the correct format:<br>
-                                &nbsp;&nbsp;VOLUME 1<br>
-                                &nbsp;&nbsp;EPISODE - Beginnings<br>
-                                &nbsp;&nbsp;SCENE - Need to Know
+                                3. The file has the correct format.
                             </div>
                         `;
                         setStatus('Error loading story.', true);

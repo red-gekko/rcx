@@ -287,42 +287,26 @@
                 select.disabled = false;
                 items.forEach(item => {
                     const option = document.createElement('option');
-                    option.value = item;
-                    option.textContent = item;
+                    // If item has an id, use it as the value
+                    if (typeof item === 'object' && item !== null && 'id' in item) {
+                        option.value = item.id;
+                        option.textContent = item.label;
+                    } else {
+                        option.value = item;
+                        option.textContent = item;
+                    }
                     select.appendChild(option);
                 });
 
-                if (currentValue && items.includes(currentValue)) {
-                    select.value = currentValue;
+                if (currentValue) {
+                    // Check if the current value still exists in the new options
+                    const optionExists = Array.from(select.options).some(opt => opt.value === currentValue);
+                    if (optionExists) {
+                        select.value = currentValue;
+                    } else {
+                        select.selectedIndex = 0;
+                    }
                 }
-            }
-
-            /**
-             * Extracts a clean name from a tag line.
-             * Examples:
-             *   "EPISODE - Beginnings" → "Beginnings"
-             *   "EPISODE: Beginnings" → "Beginnings"
-             *   "EPISODE 1: Beginnings" → "Beginnings"
-             *   "EPISODE" → "Episode 1" (falls back to numbered)
-             *   "SCENE - Need to Know" → "Need to Know"
-             */
-            function extractName(tagLine, type, index) {
-                // Remove the tag prefix (e.g., "EPISODE", "SCENE", "VOLUME")
-                let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]\s*/, '');
-                name = name.replace(/^(VOLUME|EPISODE|SCENE)\s+/, '');
-                name = name.trim();
-                
-                // If the name is now empty or just the tag itself, generate a generic name
-                if (!name || name === tagLine.trim()) {
-                    const typeNames = {
-                        'VOLUME': 'Volume',
-                        'EPISODE': 'Episode',
-                        'SCENE': 'Scene'
-                    };
-                    name = `${typeNames[type] || 'Section'} ${index}`;
-                }
-                
-                return name;
             }
 
             function parseStory(text) {
@@ -336,7 +320,6 @@
                 let sceneContent = [];
                 let inScene = false;
                 
-                // Counters for generating default names
                 let volumeCount = 0;
                 let episodeCount = 0;
                 let sceneCount = 0;
@@ -352,10 +335,12 @@
                     if (trimmed.startsWith('VOLUME')) {
                         logDebug(`Found VOLUME at line ${i+1}: "${trimmed}"`);
                         volumeCount++;
+                        episodeCount = 0;
+                        sceneCount = 0;
                         
-                        // Save current scene if exists
                         if (inScene && currentScene && currentEpisode) {
                             currentEpisode.scenes.push({
+                                id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
                                 content: sceneContent.join('\n').trimEnd()
                             });
@@ -367,14 +352,13 @@
                             currentEpisode = null;
                         }
                         
-                        const volumeName = extractName(trimmed, 'VOLUME', volumeCount);
+                        const volumeName = trimmed.replace(/^VOLUME\s*/, '').trim() || `Volume ${volumeCount}`;
                         currentVolume = {
                             name: volumeName,
                             episodes: []
                         };
                         volumes.push(currentVolume);
                         logDebug(`Created volume: "${volumeName}"`);
-                        episodeCount = 0;
                         continue;
                     }
 
@@ -384,9 +368,9 @@
                         episodeCount++;
                         sceneCount = 0;
                         
-                        // Save current scene if exists
                         if (inScene && currentScene && currentEpisode) {
                             currentEpisode.scenes.push({
+                                id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
                                 content: sceneContent.join('\n').trimEnd()
                             });
@@ -406,31 +390,32 @@
                             volumes.push(currentVolume);
                         }
                         
-                        // Check if the name is on the same line or next line
-                        let episodeName = extractName(trimmed, 'EPISODE', episodeCount);
+                        // Get episode name (clean it up)
+                        let episodeName = trimmed.replace(/^EPISODE\s*[:—-]?\s*/, '').trim();
+                        if (!episodeName || episodeName === 'EPISODE') {
+                            episodeName = `Episode ${episodeCount}`;
+                        }
                         
-                        // If the name is just the tag itself, check the next line
-                        if (episodeName === `Episode ${episodeCount}` && i + 1 < lines.length) {
+                        // Check if next line is a name (not a tag)
+                        if (i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
-                            // Skip if the next line is a divider or another tag
-                            if (nextLine !== '______________________________' && 
+                            if (nextLine && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
-                                !nextLine.startsWith('VOLUME')) {
-                                // Use the next line as the name, but clean it up
-                                let nextName = nextLine;
-                                // Remove any leading/trailing punctuation or formatting
-                                nextName = nextName.replace(/^[:—-]\s*/, '');
-                                nextName = nextName.trim();
-                                if (nextName) {
-                                    episodeName = nextName;
-                                    i++; // Skip the next line
+                                !nextLine.startsWith('VOLUME') &&
+                                nextLine !== '______________________________') {
+                                // Use the next line as the name if it's not a tag
+                                // But only if the current name is generic
+                                if (episodeName === `Episode ${episodeCount}`) {
+                                    episodeName = nextLine;
+                                    i++;
                                     logDebug(`  Using next line as episode name: "${episodeName}"`);
                                 }
                             }
                         }
                         
                         currentEpisode = {
+                            id: `episode-${Date.now()}-${Math.random()}`,
                             name: episodeName,
                             scenes: []
                         };
@@ -443,9 +428,9 @@
                         logDebug(`Found SCENE at line ${i+1}: "${trimmed}"`);
                         sceneCount++;
                         
-                        // Save current scene if exists
                         if (inScene && currentScene && currentEpisode) {
                             currentEpisode.scenes.push({
+                                id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
                                 content: sceneContent.join('\n').trimEnd()
                             });
@@ -461,6 +446,7 @@
                                 volumes.push(currentVolume);
                             }
                             currentEpisode = {
+                                id: `episode-${Date.now()}-${Math.random()}`,
                                 name: `Episode ${currentVolume.episodes.length + 1}`,
                                 scenes: []
                             };
@@ -468,25 +454,24 @@
                             logDebug('Created default episode');
                         }
                         
-                        // Check if the name is on the same line or next line
-                        let sceneName = extractName(trimmed, 'SCENE', sceneCount);
+                        // Get scene name
+                        let sceneName = trimmed.replace(/^SCENE\s*[:—-]?\s*/, '').trim();
+                        if (!sceneName || sceneName === 'SCENE') {
+                            sceneName = `Scene ${sceneCount}`;
+                        }
                         
-                        // If the name is just the tag itself, check the next line
-                        if (sceneName === `Scene ${sceneCount}` && i + 1 < lines.length) {
+                        // Check if next line is a name (not a tag)
+                        if (i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
-                            // Skip if the next line is a divider or another tag
-                            if (nextLine !== '______________________________' && 
+                            if (nextLine && 
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('EPISODE') && 
-                                !nextLine.startsWith('VOLUME')) {
-                                // Use the next line as the name, but clean it up
-                                let nextName = nextLine;
-                                // Remove any leading/trailing punctuation or formatting
-                                nextName = nextName.replace(/^[:—-]\s*/, '');
-                                nextName = nextName.trim();
-                                if (nextName) {
-                                    sceneName = nextName;
-                                    i++; // Skip the next line
+                                !nextLine.startsWith('VOLUME') &&
+                                nextLine !== '______________________________') {
+                                // Use the next line as the name if it's not a tag
+                                if (sceneName === `Scene ${sceneCount}`) {
+                                    sceneName = nextLine;
+                                    i++;
                                     logDebug(`  Using next line as scene name: "${sceneName}"`);
                                 }
                             }
@@ -501,7 +486,6 @@
 
                     // If we're inside a scene, collect content
                     if (inScene && currentScene) {
-                        // Skip lines that are just dividers or tags
                         if (trimmed !== '______________________________' && 
                             !trimmed.startsWith('SCENE') && 
                             !trimmed.startsWith('EPISODE') && 
@@ -514,12 +498,13 @@
                 // Final cleanup
                 if (inScene && currentScene && currentEpisode) {
                     currentEpisode.scenes.push({
+                        id: `scene-${Date.now()}-${Math.random()}`,
                         name: currentScene,
                         content: sceneContent.join('\n').trimEnd()
                     });
                 }
                 if (currentEpisode && currentVolume) {
-                    const exists = currentVolume.episodes.some(e => e.name === currentEpisode.name);
+                    const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
                     if (!exists) {
                         currentVolume.episodes.push(currentEpisode);
                     }
@@ -577,19 +562,23 @@
                     return;
                 }
 
-                const episodeNames = volume.episodes.map(e => e.name);
-                logDebug(`Found ${episodeNames.length} episodes for volume "${selectedVolume}"`);
-                populateSelect(episodeSelect, episodeNames, '— Select Episode —');
+                // Create items with id and label for the dropdown
+                const episodeItems = volume.episodes.map(e => ({
+                    id: e.id,
+                    label: e.name
+                }));
+                logDebug(`Found ${episodeItems.length} episodes for volume "${selectedVolume}"`);
+                populateSelect(episodeSelect, episodeItems, '— Select Episode —');
                 populateSelect(sceneSelect, [], '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
             }
 
             function updateScenes() {
                 const selectedVolume = volumeSelect.value;
-                const selectedEpisode = episodeSelect.value;
-                logDebug(`updateScenes called with volume: "${selectedVolume}", episode: "${selectedEpisode}"`);
+                const selectedEpisodeId = episodeSelect.value;
+                logDebug(`updateScenes called with volume: "${selectedVolume}", episodeId: "${selectedEpisodeId}"`);
                 
-                if (!selectedVolume || !selectedEpisode || !storyData) {
+                if (!selectedVolume || !selectedEpisodeId || !storyData) {
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
                     return;
@@ -602,26 +591,31 @@
                     return;
                 }
 
-                const episode = volume.episodes.find(e => e.name === selectedEpisode);
+                // Find episode by ID
+                const episode = volume.episodes.find(e => e.id === selectedEpisodeId);
                 if (!episode) {
-                    logDebug(`Episode not found: "${selectedEpisode}"`);
+                    logDebug(`Episode not found with ID: "${selectedEpisodeId}"`);
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     return;
                 }
 
-                const sceneNames = episode.scenes.map(s => s.name);
-                logDebug(`Found ${sceneNames.length} scenes for episode "${selectedEpisode}"`);
-                populateSelect(sceneSelect, sceneNames, '— Select Scene —');
+                // Create items with id and label for the dropdown
+                const sceneItems = episode.scenes.map(s => ({
+                    id: s.id,
+                    label: s.name
+                }));
+                logDebug(`Found ${sceneItems.length} scenes for episode "${episode.name}"`);
+                populateSelect(sceneSelect, sceneItems, '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
             }
 
             function displaySelectedScene() {
                 const selectedVolume = volumeSelect.value;
-                const selectedEpisode = episodeSelect.value;
-                const selectedScene = sceneSelect.value;
-                logDebug(`displaySelectedScene called with: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`);
+                const selectedEpisodeId = episodeSelect.value;
+                const selectedSceneId = sceneSelect.value;
+                logDebug(`displaySelectedScene called with: ${selectedVolume} → ${selectedEpisodeId} → ${selectedSceneId}`);
 
-                if (!selectedVolume || !selectedEpisode || !selectedScene || !storyData) {
+                if (!selectedVolume || !selectedEpisodeId || !selectedSceneId || !storyData) {
                     contentArea.innerHTML = `<div class="message">Please make a selection.</div>`;
                     return;
                 }
@@ -632,22 +626,22 @@
                     return;
                 }
 
-                const episode = volume.episodes.find(e => e.name === selectedEpisode);
+                const episode = volume.episodes.find(e => e.id === selectedEpisodeId);
                 if (!episode) {
-                    logDebug(`Episode not found: "${selectedEpisode}"`);
+                    logDebug(`Episode not found with ID: "${selectedEpisodeId}"`);
                     return;
                 }
 
-                const scene = episode.scenes.find(s => s.name === selectedScene);
+                const scene = episode.scenes.find(s => s.id === selectedSceneId);
                 if (!scene) {
-                    logDebug(`Scene not found: "${selectedScene}"`);
-                    contentArea.innerHTML = `<div class="error">Scene "${selectedScene}" not found.</div>`;
+                    logDebug(`Scene not found with ID: "${selectedSceneId}"`);
+                    contentArea.innerHTML = `<div class="error">Scene not found.</div>`;
                     return;
                 }
 
-                logDebug(`Displaying scene "${selectedScene}" with ${scene.content.length} characters`);
+                logDebug(`Displaying scene "${scene.name}" with ${scene.content.length} characters`);
                 showContent(scene.name, scene.content);
-                setStatus(`Reading: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`);
+                setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
             }
 
             // Event handlers

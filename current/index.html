@@ -473,31 +473,32 @@
                 const lines = content.split('\n');
                 
                 // Count how many non-empty lines we have
-                let nonEmptyCount = 0;
-                for (let i = lines.length - 1; i >= 0; i--) {
+                let nonEmptyIndices = [];
+                for (let i = 0; i < lines.length; i++) {
                     if (lines[i].trim() !== '') {
-                        nonEmptyCount++;
+                        nonEmptyIndices.push(i);
                     }
                 }
                 
                 // If we have at least 2 non-empty lines, remove the last 2
-                if (nonEmptyCount >= 2) {
-                    let removed = 0;
-                    for (let i = lines.length - 1; i >= 0 && removed < 2; i--) {
+                if (nonEmptyIndices.length >= 2) {
+                    // Remove the last non-empty line
+                    lines.splice(nonEmptyIndices[nonEmptyIndices.length - 1], 1);
+                    // Recalculate non-empty indices
+                    nonEmptyIndices = [];
+                    for (let i = 0; i < lines.length; i++) {
                         if (lines[i].trim() !== '') {
-                            lines.splice(i, 1);
-                            removed++;
+                            nonEmptyIndices.push(i);
                         }
+                    }
+                    // Remove the new last non-empty line
+                    if (nonEmptyIndices.length > 0) {
+                        lines.splice(nonEmptyIndices[nonEmptyIndices.length - 1], 1);
                     }
                 }
                 // If we only have 1 non-empty line, remove it (edge case)
-                else if (nonEmptyCount === 1) {
-                    for (let i = lines.length - 1; i >= 0; i--) {
-                        if (lines[i].trim() !== '') {
-                            lines.splice(i, 1);
-                            break;
-                        }
-                    }
+                else if (nonEmptyIndices.length === 1) {
+                    lines.splice(nonEmptyIndices[0], 1);
                 }
                 
                 // Remove any trailing empty lines
@@ -505,7 +506,9 @@
                     lines.pop();
                 }
                 
-                return lines.join('\n');
+                const result = lines.join('\n');
+                logDebug(`    removeTrailingSceneName: removed ${content.length - result.length} chars, ${content.split('\n').length - result.split('\n').length} lines`);
+                return result;
             }
 
             /**
@@ -545,8 +548,11 @@
                 function saveScene() {
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
+                        logDebug(`  Before cleanup: "${currentScene}" has ${content.split('\n').length} lines, ${content.length} chars`);
+                        logDebug(`  Last 3 lines of content: "${content.split('\n').slice(-3).join('\\n')}"`);
                         // ALWAYS remove the last 2 non-empty lines
                         content = removeTrailingSceneName(content);
+                        logDebug(`  After cleanup: "${currentScene}" has ${content.split('\n').length} lines, ${content.length} chars`);
                         currentEpisode.scenes.push({
                             id: `scene-${Date.now()}-${Math.random()}`,
                             name: currentScene,
@@ -554,11 +560,11 @@
                         });
                         sceneContent = [];
                         inScene = false;
-                        logDebug(`  Saved scene: "${currentScene}" (${content.length} chars)`);
                     }
                 }
 
                 function saveEpisode() {
+                    logDebug(`  saveEpisode called, inScene: ${inScene}, currentScene: "${currentScene}"`);
                     saveScene();
                     if (currentEpisode && currentVolume) {
                         const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
@@ -685,10 +691,30 @@
                     }
                 }
 
-                // Final cleanup
+                // Final cleanup - save any remaining scene AND episode
                 logDebug('=== Final cleanup ===');
-                saveEpisode();
+                logDebug(`  Final state - inScene: ${inScene}, currentScene: "${currentScene}", sceneContent length: ${sceneContent.length}`);
+                if (inScene && currentScene) {
+                    logDebug(`  Final scene content lines: ${sceneContent.join('\\n').split('\n').length}`);
+                    logDebug(`  Final scene content last 3 lines: "${sceneContent.slice(-3).join('\\n')}"`);
+                }
+                saveEpisode(); // This calls saveScene() first
 
+                // Double-check: if there's still a scene (shouldn't happen), save it directly
+                if (inScene && currentScene && currentEpisode) {
+                    logDebug(`  Emergency save of final scene: "${currentScene}"`);
+                    let content = sceneContent.join('\n').trimEnd();
+                    content = removeTrailingSceneName(content);
+                    currentEpisode.scenes.push({
+                        id: `scene-${Date.now()}-${Math.random()}`,
+                        name: currentScene,
+                        content: content
+                    });
+                    sceneContent = [];
+                    inScene = false;
+                }
+
+                // Log summary
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {

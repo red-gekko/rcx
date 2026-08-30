@@ -307,6 +307,35 @@
                 }
             }
 
+            /**
+             * Checks if a line looks like a scene name (not content)
+             */
+            function isSceneNameLine(line) {
+                const trimmed = line.trim();
+                if (!trimmed) return false;
+                
+                // Too long to be a name
+                if (trimmed.length > 60) return false;
+                
+                // Starts with quote - this is dialogue, not a name
+                if (trimmed.startsWith('"') || trimmed.startsWith("'")) return false;
+                
+                // Starts with common story opening patterns - this is content
+                if (trimmed.match(/^(The|It|They|He|She|We|I|You|A|An|"|'|As|When|While|After|Before|During|Through|Across|Inside|Outside|Over|Under|Above|Below|Between|Among|Without|Within|Upon|Toward|Through|Throughout|Upon|About|Against|Along|Among|Around|At|Behind|Below|Beneath|Beside|Beyond|By|Down|During|Except|For|From|In|Into|Like|Near|Of|Off|On|Onto|Out|Outside|Over|Past|Since|Through|Throughout|To|Toward|Under|Until|Up|Upon|With|Within|Without)/)) {
+                    return false;
+                }
+                
+                // If the line has punctuation like . , ! ? it's probably content
+                if (trimmed.match(/[.,!?;:]/)) return false;
+                
+                // If the line has multiple words and looks like a sentence, it's content
+                const words = trimmed.split(/\s+/);
+                if (words.length > 3) return false;
+                
+                // It's probably a name
+                return true;
+            }
+
             function parseStory(text) {
                 logDebug('=== Starting parse ===');
                 const lines = text.split(/\r?\n/);
@@ -337,12 +366,11 @@
                         sceneCount = 0;
                         
                         if (inScene && currentScene && currentEpisode) {
-                            // Clean the scene content before saving
-                            const cleanedContent = cleanSceneContent(sceneContent);
+                            const content = sceneContent.join('\n').trimEnd();
                             currentEpisode.scenes.push({
                                 id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
-                                content: cleanedContent
+                                content: content
                             });
                             sceneContent = [];
                             inScene = false;
@@ -369,11 +397,11 @@
                         sceneCount = 0;
                         
                         if (inScene && currentScene && currentEpisode) {
-                            const cleanedContent = cleanSceneContent(sceneContent);
+                            const content = sceneContent.join('\n').trimEnd();
                             currentEpisode.scenes.push({
                                 id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
-                                content: cleanedContent
+                                content: content
                             });
                             sceneContent = [];
                             inScene = false;
@@ -396,6 +424,7 @@
                             episodeName = `Episode ${episodeCount}`;
                         }
                         
+                        // Check if next line is an explicit episode name
                         if (i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
                             if (nextLine && 
@@ -403,7 +432,7 @@
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('VOLUME') &&
                                 nextLine !== '______________________________' &&
-                                nextLine.length < 60 &&
+                                isSceneNameLine(nextLine) &&
                                 episodeName === `Episode ${episodeCount}`) {
                                 episodeName = nextLine;
                                 i++;
@@ -426,11 +455,11 @@
                         sceneCount++;
                         
                         if (inScene && currentScene && currentEpisode) {
-                            const cleanedContent = cleanSceneContent(sceneContent);
+                            const content = sceneContent.join('\n').trimEnd();
                             currentEpisode.scenes.push({
                                 id: `scene-${Date.now()}-${Math.random()}`,
                                 name: currentScene,
-                                content: cleanedContent
+                                content: content
                             });
                             sceneContent = [];
                         }
@@ -452,26 +481,26 @@
                             logDebug('Created default episode');
                         }
                         
-                        // ALWAYS use generic scene name
+                        // ALWAYS use generic scene name by default
                         let sceneName = `Scene ${sceneCount}`;
                         
-                        // ONLY use next line if it's a SHORT explicit name
+                        // ONLY use next line if it's clearly a name, not content
                         if (i + 1 < lines.length) {
-                            const nextLine = lines[i + 1].trim();
-                            // Check if it's a name (short, doesn't start with quotes, doesn't look like content)
-                            const isName = nextLine && 
-                                !nextLine.startsWith('SCENE') && 
-                                !nextLine.startsWith('EPISODE') && 
-                                !nextLine.startsWith('VOLUME') &&
-                                nextLine !== '______________________________' &&
-                                nextLine.length < 60 &&
-                                !nextLine.startsWith('"') && // Don't use if it starts with a quote
-                                !nextLine.startsWith("'") && // Don't use if it starts with a quote
-                                !nextLine.match(/^[A-Z][a-z]+/); // Doesn't start like a sentence
+                            const nextLine = lines[i + 1];
+                            const nextTrimmed = nextLine.trim();
                             
-                            if (isName) {
-                                sceneName = nextLine;
-                                i++;
+                            // Check if the next line looks like a name
+                            // It must not start with content patterns
+                            const looksLikeName = nextTrimmed && 
+                                !nextTrimmed.startsWith('SCENE') && 
+                                !nextTrimmed.startsWith('EPISODE') && 
+                                !nextTrimmed.startsWith('VOLUME') &&
+                                nextTrimmed !== '______________________________' &&
+                                isSceneNameLine(nextTrimmed);
+                            
+                            if (looksLikeName) {
+                                sceneName = nextTrimmed;
+                                i++; // Skip the name line
                                 logDebug(`  Using next line as scene name: "${sceneName}"`);
                             }
                         }
@@ -485,7 +514,25 @@
 
                     // If we're inside a scene, collect content
                     if (inScene && currentScene) {
-                        // Skip divider lines
+                        // Check if this line looks like a trailing scene name
+                        // It should have the same indentation as the SCENE line
+                        // and look like a name
+                        if (i === lines.length - 1 || (i + 1 < lines.length && lines[i + 1].trim() === '')) {
+                            // This is the last non-empty line or followed by an empty line
+                            // Check if it looks like a name
+                            const indentMatch = line.match(/^(\s*)/);
+                            const sceneIndent = indentMatch ? indentMatch[1] : '';
+                            
+                            // Check if this line has the same indentation as a typical SCENE line
+                            // We'll check if it's indented similarly to how SCENE was
+                            if (sceneIndent && sceneIndent.length >= 4 && isSceneNameLine(trimmed)) {
+                                // This is likely a trailing scene name - skip it
+                                logDebug(`  Skipping trailing scene name: "${trimmed}"`);
+                                continue;
+                            }
+                        }
+                        
+                        // Skip divider lines and tags
                         if (trimmed !== '______________________________' && 
                             !trimmed.startsWith('SCENE') && 
                             !trimmed.startsWith('EPISODE') && 
@@ -497,11 +544,11 @@
 
                 // Final cleanup
                 if (inScene && currentScene && currentEpisode) {
-                    const cleanedContent = cleanSceneContent(sceneContent);
+                    const content = sceneContent.join('\n').trimEnd();
                     currentEpisode.scenes.push({
                         id: `scene-${Date.now()}-${Math.random()}`,
                         name: currentScene,
-                        content: cleanedContent
+                        content: content
                     });
                 }
                 if (currentEpisode && currentVolume) {
@@ -525,59 +572,6 @@
                 });
 
                 return { volumes };
-            }
-
-            /**
-             * Clean scene content by removing scene names at the end
-             * A scene name is identified as a line that has the same indentation level as "SCENE"
-             * and appears at the end of the scene
-             */
-            function cleanSceneContent(contentLines) {
-                if (!contentLines || contentLines.length === 0) return '';
-                
-                // Join all lines
-                let fullContent = contentLines.join('\n');
-                
-                // Find the indentation level of the SCENE tag (look at the first line that's not empty)
-                let sceneIndent = '';
-                for (let line of contentLines) {
-                    if (line.trim() !== '') {
-                        const match = line.match(/^(\s*)/);
-                        if (match) {
-                            sceneIndent = match[1];
-                        }
-                        break;
-                    }
-                }
-                
-                // If we found an indentation level, check if the last non-empty line matches it
-                if (sceneIndent) {
-                    // Find the last non-empty line
-                    let lastNonEmptyIndex = -1;
-                    for (let i = contentLines.length - 1; i >= 0; i--) {
-                        if (contentLines[i].trim() !== '') {
-                            lastNonEmptyIndex = i;
-                            break;
-                        }
-                    }
-                    
-                    if (lastNonEmptyIndex >= 0) {
-                        const lastLine = contentLines[lastNonEmptyIndex];
-                        // Check if the last line starts with the same indentation as SCENE
-                        // and doesn't start with common content patterns
-                        if (lastLine.startsWith(sceneIndent) && 
-                            !lastLine.trim().startsWith('"') && 
-                            !lastLine.trim().startsWith("'") &&
-                            !lastLine.trim().match(/^[A-Z][a-z]+/)) {
-                            // Remove the last line
-                            contentLines.splice(lastNonEmptyIndex, 1);
-                            // Recursively clean in case there are multiple
-                            return cleanSceneContent(contentLines);
-                        }
-                    }
-                }
-                
-                return contentLines.join('\n').trimEnd();
             }
 
             function updateNavigation() {

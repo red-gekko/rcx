@@ -21,7 +21,7 @@
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1000px;
             width: 100%;
             margin: 0 auto;
             background-color: #161b22;
@@ -32,7 +32,7 @@
         }
 
         h1 {
-            font-size: 2rem;
+            font-size: 2.2rem;
             font-weight: 600;
             letter-spacing: -0.5px;
             color: #f0f6fc;
@@ -132,24 +132,24 @@
         }
 
         .scene-title {
-            font-size: 1.6rem;
+            font-size: 1.8rem;
             font-weight: 500;
-            margin-bottom: 18px;
+            margin-bottom: 20px;
             color: #f0f6fc;
             border-left: 4px solid #f0883e;
-            padding-left: 18px;
+            padding-left: 20px;
             letter-spacing: -0.3px;
         }
 
         .scene-content {
-            font-size: 1.05rem;
+            font-size: 1.15rem;
             white-space: pre-wrap;
             word-wrap: break-word;
-            max-height: 70vh;
+            max-height: 75vh;
             overflow-y: auto;
             padding-right: 8px;
             color: #d1d9e0;
-            line-height: 1.9;
+            line-height: 2.0;
         }
 
         .scene-content::-webkit-scrollbar {
@@ -170,7 +170,7 @@
         }
 
         .message {
-            font-size: 1.05rem;
+            font-size: 1.1rem;
             color: #8b949e;
             font-style: italic;
             padding: 50px 0;
@@ -193,7 +193,7 @@
         }
 
         .status {
-            font-size: 0.8rem;
+            font-size: 0.85rem;
             color: #8b949e;
             text-align: center;
             margin-top: 22px;
@@ -265,7 +265,7 @@
             }
 
             h1 {
-                font-size: 1.6rem;
+                font-size: 1.8rem;
             }
 
             .nav-container {
@@ -278,13 +278,14 @@
             }
 
             .scene-title {
-                font-size: 1.3rem;
+                font-size: 1.4rem;
                 padding-left: 14px;
             }
 
             .scene-content {
-                font-size: 0.95rem;
+                font-size: 1.0rem;
                 max-height: 60vh;
+                line-height: 1.8;
             }
 
             .nav-group select {
@@ -303,15 +304,16 @@
             }
 
             h1 {
-                font-size: 1.3rem;
+                font-size: 1.4rem;
             }
 
             .scene-title {
-                font-size: 1.1rem;
+                font-size: 1.2rem;
             }
 
             .scene-content {
-                font-size: 0.88rem;
+                font-size: 0.92rem;
+                line-height: 1.7;
             }
         }
 
@@ -604,7 +606,6 @@
                         sceneCount = 0;
                         saveEpisode();
                         const volumeName = extractName(trimmed) || `Volume ${volumeCount}`;
-                        // Store the raw name for display with number later
                         currentVolume = {
                             name: volumeName,
                             episodes: []
@@ -678,7 +679,6 @@
                         let sceneName = extractName(trimmed);
                         
                         // If no name on the same line, ALWAYS use "Scene N"
-                        // NEVER use the next line as the scene name
                         if (!sceneName) {
                             sceneName = `Scene ${sceneCount}`;
                         }
@@ -774,10 +774,10 @@
                     return;
                 }
 
-                // Build volume labels with numbers
+                // Build volume labels with numbers starting from 0
                 const volumeLabels = storyData.volumes.map((v, index) => ({
                     id: v.name,
-                    label: `${index + 1} - ${v.name}`
+                    label: `${index} - ${v.name}`
                 }));
                 logDebug(`Updating volume dropdown with: ${volumeLabels.map(v => v.label).join(', ')}`);
                 populateSelect(volumeSelect, volumeLabels, '— Select Volume —');
@@ -808,7 +808,7 @@
                     return;
                 }
 
-                // Build episode labels with numbers
+                // Build episode labels with numbers starting from 1
                 const episodeLabels = volume.episodes.map((e, index) => ({
                     id: e.id,
                     label: `${index + 1} - ${e.name}`
@@ -844,10 +844,10 @@
                     return;
                 }
 
-                // Build scene labels (no numbering needed, they already have numbers)
-                const sceneItems = episode.scenes.map(s => ({
+                // Build scene labels with numbers starting from 1
+                const sceneItems = episode.scenes.map((s, index) => ({
                     id: s.id,
-                    label: s.name
+                    label: `${index + 1} - ${s.name}`
                 }));
                 logDebug(`Found ${sceneItems.length} scenes for episode "${episode.name}"`);
                 populateSelect(sceneSelect, sceneItems, '— Select Scene —');

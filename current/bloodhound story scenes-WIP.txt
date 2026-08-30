@@ -4,7 +4,7 @@ VOLUME - CODEX
 	______________________________
 	EPISODE - A World Half Full
 		______________________________
-		SCENE
+		SCENE - Foreword
 			The following series contains strong language right from the fucking start.
 			This is a work of fiction, set in an alternate-history world. A narrative timeline of events, and in-universe fiction primers, can be found in this chapter. A quick summary of the setting can be found at the end of this chapter - feel free to skip ahead if you just want the basics.
 			References to historical figures, organisations, institutions, or events, should be understood in this context.

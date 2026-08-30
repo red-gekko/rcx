@@ -453,6 +453,9 @@
 
             /**
              * Extracts just the name part from a tag line
+             * e.g., "EPISODE - Inferno" → "Inferno"
+             * e.g., "SCENE - Need to Know" → "Need to Know"
+             * Returns null if no name found.
              */
             function extractName(tagLine) {
                 let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]?\s*/, '');
@@ -469,24 +472,6 @@
             function getIndentLevel(line) {
                 const match = line.match(/^(\s*)/);
                 return match ? match[1].length : 0;
-            }
-
-            /**
-             * Checks if a line looks like a scene name (short, no punctuation, etc.)
-             */
-            function isSceneNameLine(line) {
-                const trimmed = line.trim();
-                if (!trimmed) return false;
-                
-                if (trimmed.length > 60) return false;
-                if (trimmed.startsWith('"') || trimmed.startsWith("'")) return false;
-                if (trimmed.match(/^(The|It|They|He|She|We|I|You|A|An|"|'|As|When|While|After|Before|During|Through|Across|Inside|Outside|Over|Under|Above|Below|Between|Among|Without|Within|Upon|Toward|Through|Throughout|Upon|About|Against|Along|Among|Around|At|Behind|Below|Beneath|Beside|Beyond|By|Down|During|Except|For|From|In|Into|Like|Near|Of|Off|On|Onto|Out|Outside|Over|Past|Since|Through|Throughout|To|Toward|Under|Until|Up|Upon|With|Within|Without)/)) {
-                    return false;
-                }
-                if (trimmed.match(/[.,!?;:]/)) return false;
-                const words = trimmed.split(/\s+/);
-                if (words.length > 3) return false;
-                return true;
             }
 
             /**
@@ -604,13 +589,13 @@
                             volumes.push(currentVolume);
                         }
                         let episodeName = extractName(trimmed);
+                        // Only use next line for episode name if there's no name on the same line
                         if (!episodeName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
                             if (nextLine && 
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
-                                !nextLine.startsWith('VOLUME') &&
-                                isSceneNameLine(nextLine)) {
+                                !nextLine.startsWith('VOLUME')) {
                                 episodeName = nextLine;
                                 i++;
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
@@ -652,25 +637,15 @@
                         sceneIndentLevel = getIndentLevel(line);
                         logDebug(`  Scene indent level: ${sceneIndentLevel}`);
                         
+                        // Get scene name - ONLY from the same line
                         let sceneName = extractName(trimmed);
-                        // Only use next line if it looks like a name (short, no punctuation, etc.)
-                        if (!sceneName && i + 1 < lines.length) {
-                            const nextLine = lines[i + 1];
-                            const nextTrimmed = nextLine.trim();
-                            if (nextTrimmed && 
-                                !nextTrimmed.startsWith('SCENE') && 
-                                !nextTrimmed.startsWith('EPISODE') && 
-                                !nextTrimmed.startsWith('VOLUME') &&
-                                nextTrimmed !== '______________________________' &&
-                                isSceneNameLine(nextTrimmed)) {
-                                sceneName = nextTrimmed;
-                                i++;
-                                logDebug(`  Using next line as scene name: "${sceneName}"`);
-                            }
-                        }
+                        
+                        // If no name on the same line, ALWAYS use "Scene N"
+                        // NEVER use the next line as the scene name
                         if (!sceneName) {
                             sceneName = `Scene ${sceneCount}`;
                         }
+                        
                         currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
@@ -706,7 +681,7 @@
                     logDebug(`  Final scene saved with cleanup applied`);
                 }
                 
-                // SECOND: Save the episode (which will also save any remaining scene)
+                // SECOND: Save the episode
                 saveEpisode();
 
                 // THIRD: Double-check by iterating through all scenes and ensuring cleanup

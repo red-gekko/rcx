@@ -1,10 +1,10 @@
 
 ______________________________
-VOLUME - Wolves Among Sheep
+VOLUME 1
 	______________________________
-	EPISODE - Beginnings
+	EPISODE
 		______________________________
-		SCENE - Need to Know
+		SCENE
 			The morning sun dragged itself up from the horizon, shining softly over Geneva. Cold autumnal winds swept through the World City, scattering orange leaves like glitter on a child's drawing. Zeppelins floated through the skies, while jetplanes crisscrossed above them. Down below, the people moved like ants.
 			Zhao looked both ways at the small road, and crossed quickly. He pulled his coat's hem, trying to keep some warmth.
 			He felt like someone was watching him. But then, he always did.
@@ -79,9 +79,9 @@ VOLUME - Wolves Among Sheep
 			"Hail Victory, sir."
 			"Hail Victory." the Commandant nodded. He switched off his computer, and lit a cigar. He took a long drag, and smiled devilishly.
 
-
+		Need to Know
 		______________________________
-		SCENE - Intro to Drackhill
+		SCENE
 			It was the 25th of September, 2015. A crisp, cold Friday morning.
 			The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a young man, with scruffy, dark-blonde hair. Strands fell across his forehead in no particular order, as though sleep itself had styled them, while a faint ginger stubble shadowed his jaw.
 			Connor Barrett.
@@ -138,9 +138,9 @@ VOLUME - Wolves Among Sheep
 			Trey grinned in response. "Fair point. I'll quit whinging if you come out."
 			Connor rolled his eyes, and nodded.
 
-
+		Intro to Drackhill
 		______________________________
-		SCENE - Amy meets the girls
+		SCENE
 			Friday evenings in the Laughing Fox were hectic, and this one was no different. Amy in particular was lucky to have got the one table in the smoking area that wasn't occupied.
 			Amy's aesthetic was even more pronounced than it had been in the morning. Now, the glint of her septum ring and ear piercings caught in the neon, contrasting sharply with her black lipstick and eyeliner. Her outfit was almost a statement - a black and white checkered blouse, with a short black skirt, black tights, trainers, and a collection of bracelets adorned her wrists.
 			She looked around, and spotted two young girls sat on a bench.
@@ -181,9 +181,9 @@ VOLUME - Wolves Among Sheep
 			Amy stroked her chin.
 			"Actually..."
 
-
+		Amy meets the girls
 		______________________________
-		SCENE - Jake's humiliation
+		SCENE
 			"The Singing Horse."
 			Certainly not the most orthodox of names for a bustling nightclub, but it was one you'd remember.
 			Trey, Connor, and a third young man were sat round a table. The music was quieter in this spot, allowing conversation, however dull and drunken, to take place.
@@ -250,9 +250,9 @@ VOLUME - Wolves Among Sheep
 			"Because he has no friends worth a damn--oh, you were being rhetorical." Connor grinned.
 			"You'll get there one day, my son." Trey winked, and headed off. Connor went down a flight of stairs to a backroom, where he began working on a 3D printer.
 
-
+		Jake's humiliation
 		______________________________
-		SCENE - Enter, Sparky
+		SCENE
 			Just outside the city, a small car pulled up in the dilapidated rural zone of Blackmarsh. The Commandant exited the vehicle, and marched towards an old industrial barn unit - presumably a former dairy farm, now repurposed.
 			Inside, several men with similar uniforms and black-veined eyes were variously loading or unloading trucks with medical equipment, weapons, restraints, and obscure devices and artefacts.
 			He approached their prisoner.
@@ -290,9 +290,9 @@ VOLUME - Wolves Among Sheep
 			He walked away.	As he left, the wolf whispered to itself.
 			"I'm going to kill you."
 
-		
+		Enter, Sparky
 		______________________________
-		SCENE - Singing Horse/Connor's beating
+		SCENE
 			Chloe, Amy, and Bea arrived outside the Singing Horse.
 			At the entrance stood a large, bald, tattooed man, in a bouncer's uniform.
 			"Ladies." he nodded, before lighting up upon recognising Amy.
@@ -381,9 +381,9 @@ VOLUME - Wolves Among Sheep
 			If nothing else, he could take pride in how well he fought such a group. He wished he'd been able to do more, but after all... he was only human.
 			He stumbled back to his flat, and opened the door. He made his way to the kitchen space, and grabbed some butter, before soaking a tea towel in warm water. He rubbed the butter on a lumpy bruise, and pressed the warm towel against it. Before long, the swelling went down.
 
-		
+		Singing Horse/Connor's beating
 		______________________________
-		SCENE - Raj's/Vengeance Planned
+		SCENE
 			The morning sun cut through the sky, and Connor groaned as he hauled himself out of bed.
 			"Mornin'." Amy nodded, eating a bowl of cereal. She choked slightly when she saw him.
 			"The fuck?!"
@@ -443,9 +443,9 @@ VOLUME - Wolves Among Sheep
 			"Keegan Slots. A betting shop owned by the Skulls. Scum like that only care about what's in their pocket..."
 			"So that's where we'll hit 'em." Connor grinned. "I'm on it."
 
-		
+		Raj's/Vengeance Planned
 		______________________________
-		SCENE - In The Pocket, In The Head
+		SCENE
 			It was late, now. A thick-framed man took a long drag on his cigarette, before heading back into the run-down storefront behind him.
 			There, a number of half-cut patrons wasted their paychecks on rigged games. The man chuckled at his marks, and headed to the backrooms.
 			He nodded as he passed a fellow Skull, and walked alone down a dark corridor. He turned the corner, and--
@@ -526,11 +526,13 @@ VOLUME - Wolves Among Sheep
 			"Have someone 'take care' of Pete Lomax. Send these bastards a message."
 			"We'll get it done, boss."
 
-	
+		In The Pocket, In The Head
+
+	Beginnings
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It was springtime, 2006. Connor was riding his little push-bike. His uncle Vince pushed him along, as a young Amy and a small Staffy pup stood to the sidelines.
 			"Okay, my lad!" Vince cheered. "3, 2, 1, GO!"
 			With that, Vince let go. Connor beamed in happiness.
@@ -585,7 +587,7 @@ VOLUME - Wolves Among Sheep
 
 		Torture - Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			"AAAAGH!" Connor screamed, convulsing as electricity burned through his veins. The surge finally ended, and he collapsed down. His torturer spat, and left.
 			Connor curled into a ball, sobbing in pain. His vision faded, and he lapsed into something vaguely resembling sleep.
 			Some time had passed. Could've been seconds, could've been a lifetime. He awoke to the door swinging open.
@@ -635,7 +637,7 @@ VOLUME - Wolves Among Sheep
 
 		Torture - Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			Once again, Connor felt his consciousness flash back in. He was chained to the wall in a stress position.
 			One part of him wanted to give in.
 			Another part dreamed of resistance.
@@ -735,7 +737,7 @@ VOLUME - Wolves Among Sheep
 
 		Reanimation
 		______________________________
-		SCENE - 
+		SCENE
 			Another eon - or a minute - passed. Flashes once again rushed through Connor's mind.
 			Finally, he awoke in a dark alleyway, in the pouring rain. He had just finished eating a live rat with his bare hands.
 			He puked up blood, fur, meat, and bile.
@@ -804,7 +806,7 @@ VOLUME - Wolves Among Sheep
 
 		Headless
 		______________________________
-		SCENE - 
+		SCENE
 			Connor grunted as his conscious mind flickered like a faulty light.
 			His ears pricked up, and he forced himself to his feet.
 			A low, mechanical humming noise whispered above him. His eyes crept upwards, and he saw it.
@@ -880,7 +882,7 @@ VOLUME - Wolves Among Sheep
 
 		Car toss
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a long night.
 			But nights still end, and give way to dawn. The Earth didn't stop spinning, even if it felt like it had.
 			Back in Belson, a man in a creased trenchcoat stood at the scene, rubbing tired eyes beneath short, receding brown hair. He had a detective's badge, a beer belly under his shirt, and stubble from too many late nights. He looked up, and let a spatter of rain fall onto his face. He closed his eyes, sighed, and looked back at the scene.
@@ -934,7 +936,7 @@ VOLUME - Wolves Among Sheep
 
 		Enter, Naismith
 		______________________________
-		SCENE - 
+		SCENE
 			"Oi. Get up."
 			Connor's bloodshot eyes snapped open, as he took a sharp intake of breath.
 			"Get up!" the voice barked again.
@@ -1007,7 +1009,7 @@ VOLUME - Wolves Among Sheep
 
 		Vertigo
 		______________________________
-		SCENE - 
+		SCENE
 			Connor descended the stairs into Tommy's back office. He spotted the door was closed, and so pressed his ear to it.
 			Whatever had been done to him had given him more than just superhuman strength. His hearing was acute - as though he was in the room.
 
@@ -1056,7 +1058,7 @@ VOLUME - Wolves Among Sheep
 
 		Not A Soul
 		______________________________
-		SCENE - 
+		SCENE
 			Amy came home from a long, miserable shift at the cafe. She walked through the door, and her heart almost stopped.
 			"Uh... hey, sis." Connor sheepishly began.
 			She stood there, pale as a ghost, as if she'd seen one. Then, she pounced forward, and hugged him as tight as she could.
@@ -1167,9 +1169,9 @@ VOLUME - Wolves Among Sheep
 
 	Reanimation
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Dark clouds had covered the skies, now. The sun crawled beneath the horizon, as Connor went out for a jog. He'd been running for hours, pushing harder, faster, waiting for the burn to come. But it didn't. His hearts pounded - not from exhaustion, but from something deeper. Restlessness. Fear.
 			Connor closed his eyes as he ran. He didn't need them - he didn't need to *see* the city. He *felt* it.
 			He wanted to pant. Wanted to struggle. Wanted to be weak again.
@@ -1241,7 +1243,7 @@ VOLUME - Wolves Among Sheep
 
 		Beating the Alleyway Mugger
 		______________________________
-		SCENE - 
+		SCENE
 			"...How did a dead cat get in there?" Trey asked the customer.
 			"I dunno!" he said incredulously. "But it stinks, and I'm guessing that's why it keeps overheating."
 			Trey grimaced, and wondered what gods he had offended in a past life to deserve this.
@@ -1302,7 +1304,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor returns
 		______________________________
-		SCENE - 
+		SCENE
 			Back home, Connor was in his bathroom, freshening up. He looked at his reflection. He gently, gingerly placed his hand on the mirror, and sighed deeply.
 			He then stared deeply into his eyes, like he was focusing. He looked closer and closer - trying to hunt for abnormalities.
 			Whatever he was, it wasn't quite human. Was he an alien? Was his body even his own?
@@ -1362,7 +1364,7 @@ VOLUME - Wolves Among Sheep
 
 		Deerstalker
 		______________________________
-		SCENE - 
+		SCENE
 			Night died and birthed day. Day staggered and fell to night.
 			Connor tinkered away on a small electronic device - pretending to still be human. Across the room, Tommy halfheartedly worked on some documents, while looking at his protege - his eyes pained a little, in concern.
 			At that, Pawel burst in. 
@@ -1447,7 +1449,7 @@ VOLUME - Wolves Among Sheep
 
 		Community centre/Aftermath
 		______________________________
-		SCENE - 
+		SCENE
 			Connor woke up. For the first night in a while, not from a nightmare. He looked down at his belly, and the wound was gone. Healed completely.
 			He sighed, and made himself another bodybuilder's shake.
 			It made sense to him. He was *literally* building his body.
@@ -1545,7 +1547,7 @@ VOLUME - Wolves Among Sheep
 
 		Library/Meet-Cute
 		______________________________
-		SCENE - 
+		SCENE
 			That night, in the Singing Horse, the pair approached the bar. There, a young man was serving drinks.
 			"Usual?" the bartender asked.
 			"You know it." Trey smirked.
@@ -1661,9 +1663,9 @@ VOLUME - Wolves Among Sheep
 
 	Oh, the Inhumanity
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The sky burned a brilliant orange as the sun crawled into the sea.
 			Over in Redbridge, Raj was wiping a table covered in coffee stains. Amy left the staff room in casual clothes.
 			"See you tomorrow, Raj!" she called over to him.
@@ -1771,7 +1773,7 @@ VOLUME - Wolves Among Sheep
 
 		Tommy briefing Connor
 		______________________________
-		SCENE - 
+		SCENE
 			Amy arrived at the Singing Horse. She entered, and headed to the bar. With that, Connor and Trey ascended the stairs.
 			Without saying a word, she rushed over and embraced her brother. He hugged her back, enjoying the moment.
 			"Wow, fuck you too." Trey laughed.
@@ -1852,7 +1854,7 @@ VOLUME - Wolves Among Sheep
 
 		Girl's Night
 		______________________________
-		SCENE - 
+		SCENE
 			Meanwhile, in the dimly lit warehouses of Belson Industrial Park, a bunch of men in Skull leathers were inspecting bags of powder.
 			"This is the good shit!" one exclaimed.
 			"Retard." the other snarled. "This is cut to shit. Half of it's flour."
@@ -1919,7 +1921,7 @@ VOLUME - Wolves Among Sheep
 
 		Raiding the Skulls
 		______________________________
-		SCENE - 
+		SCENE
 			Late, now. Very late. Connor's freshly-stolen bike pulled into Riverside's parking space. He dismounted slowly, as his helmet liquefied and reentered his pores. He shuffled in through the door, his shoulders hunched and red hood tight. He opened up the stolen laptop, only to see an encryption wall requiring a PIN.
 			He cursed under his breath, and grabbed a USB stick from a nearby locked drawer. He plugged it in, and rebooted the laptop. A loading bar flashed on the screen.
 			Connor laid back, and closed his eyes. He brought his hands to his ears, and grabbed his head. A high-pitched droning noise flooded his senses.
@@ -2040,7 +2042,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor Suicide
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe and Bea were sitting in Raj's cafe. The windows were taped up where the bricks had come through. Raj was speaking with a contractor for window installations.
 			Bea was clearly hungover - wearing sunglasses, joggers, and a baggy hoodie. Chloe was wearing a grey jumper and black skinny jeans.
 			"Okay, be honest..." said Bea. "How are you not hungover? What drugs are you taking and where can I get some?"
@@ -2110,7 +2112,7 @@ VOLUME - Wolves Among Sheep
 
 		Speaking with Tommy
 		______________________________
-		SCENE - 
+		SCENE
 			Connor and Trey sat on a wall, eating greasy burgers.
 			"This shit is gonna kill us one day." Connor said between chomps. Filling his stomach seemed to keep the pain and the urges at bay. Whatever demon was in his skull, it was as wrathful as it was gluttonous.
 			"Me, maybe." Trey chuckled. "You're looking toned as fuck, bro."
@@ -2222,7 +2224,7 @@ VOLUME - Wolves Among Sheep
 
 		Clockmaking
 		______________________________
-		SCENE - 
+		SCENE
 			It would have been some time in autumn 2007. Connor was ten years old, going-on-11. He was running through the fields, and a small grey Staffy ran by his heels.
 			"Come on, Stella!" Connor cheered. Stella barked back happily.
 			The two leapt over a stream, and continued sprinting.
@@ -2356,9 +2358,9 @@ VOLUME - Wolves Among Sheep
 
 	Breaking Point
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			If you asked someone to draw a kindly professor, they would draw Isaac Lowenthal.
 			He was an old man, probably in his late 60's - and clearly, one who enjoyed teaching enough to stick it out for this long.
 			His hair was unkempt, like Einstein - and his glasses, slightly too big for his face, clashed in a funny way with his small bow-tie.
@@ -2415,7 +2417,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe at Uni
 		______________________________
-		SCENE - 
+		SCENE
 			That night, in Belson, a group of men in Skull leathers were rifling through some boxes. A man in a military uniform oversaw them.
 			"And this'll make us like you?" one of the men asked.
 			"More than that." the uniformed man replied. Bulging black veins jotted his eye sockets. "It'll bring our leader's vision to this city."
@@ -2471,7 +2473,7 @@ VOLUME - Wolves Among Sheep
 
 		The Vigilante
 		______________________________
-		SCENE - 
+		SCENE
 			The Laughing Fox was, for the first time in a while, not heaving with human bodies. A stone's throw from the bar, Trey and Amy were hanging out in a pub, playing pool.
 			Amy potted a stripe, and cursed.
 			"Two shots for me, thank you very much." Trey grinned.
@@ -2562,7 +2564,7 @@ VOLUME - Wolves Among Sheep
 
 		Stoker's Wounds
 		______________________________
-		SCENE - 
+		SCENE
 			Outside now, Connor took a deep breath. But before he could exhale...
 			*FF-WHACK!*
 			He felt his leg buckle. He looked down and saw a bullet had torn right through his thigh and landed in the ground below.
@@ -2617,7 +2619,7 @@ VOLUME - Wolves Among Sheep
 
 		Meeting Ivan
 		______________________________
-		SCENE - 
+		SCENE
 			Connor and Ivan crouched low as they approach their target location. The faint hum of machinery buzzed in the air, and the smell of oil and rust was thick. Ivan pulled a pistol from his coat.
 			"You know how to use?"
 			Connor smirked. "Point at anything that makes a noise?" he quipped.
@@ -2734,7 +2736,7 @@ VOLUME - Wolves Among Sheep
 
 		Saving Sparky and Ivan
 		______________________________
-		SCENE - 
+		SCENE
 			Ivan awoke in the car, jolting upwards.
 			"You're okay." Connor said quickly. "I gave you a syringe of their stuff. It... healed you, I guess."
 			Ivan took a deep breath. His eyesockets now had those tell-tale black veins jutting out down his cheekbones. He sighed, and rubbed his temples. The wolf approached timidly.
@@ -2851,7 +2853,7 @@ VOLUME - Wolves Among Sheep
 
 		I am Spartacus
 		______________________________
-		SCENE - 
+		SCENE
 			The movie came to a close. Connor pulled out the laptop he'd swiped from the warehouse, and opened the lid.
 			"The bad men were using that." Sparky began, recoiling slightly. "Every time they hurt me, they would open it and start hitting it with their fingers."
 			Connor looked at him sadly. "I'm sorry, buddy. Don't worry, it's not going to hurt you. I'm guessing, they wrote up what they did to you on this."
@@ -2976,7 +2978,7 @@ VOLUME - Wolves Among Sheep
 
 	In Sheep's Clothing
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-2012. Chloe and Bea were at school, walking away from their last lesson of the day.
@@ -3008,7 +3010,7 @@ VOLUME - Wolves Among Sheep
 
 		Francis intro
 		______________________________
-		SCENE - 
+		SCENE
 			"Gentlemen." the Commandant began.
 			"What have the events in Drackhill cost us?!" one old man roared. His face, like the others present, was partially obscured by the room's shadows.
 			The Commandant sighed, and rubbed his temples. He looked down the massive oakwood table, and try as he might, he could not shake the image of murdering everyone present.
@@ -3040,7 +3042,7 @@ VOLUME - Wolves Among Sheep
 
 		Conspiracy reacts
 		______________________________
-		SCENE - 
+		SCENE
 			It was like another world.
 			Connor and Sparky were rushing through fields together. Sparky leapt into the air and caught a tennis ball. Connor laughed, and cheered. Stella, his old, long-dead Staffy, was rushing around with them, as though she was a puppy again. Vince, Amy, and Trey all stood nearby, cheering. A number of young wolves revealed themselves from the long grass, playing with each other. Sparky's adoptive mother - a brown mutt - plodded over, and licked him warmly.
 			Then, a horrid crashing noise pierced their minds, which rapidly turned into a gentle fumbling. Connor opened his eyes, and through his super-vision saw Amy struggling with the lock, still drunk. It was the early hours of the morning.
@@ -3105,7 +3107,7 @@ VOLUME - Wolves Among Sheep
 
 		Amy meets Sparky
 		______________________________
-		SCENE - 
+		SCENE
 			Morning came, and Connor awoke to a knocking on his door. He stretched, feeling his joints click, before he opened it.
 			"Morning, dipshit." Amy grinned.
 			"'Good morning, dearest brother. I hope you slept well.'" Connor snarked. "That's how it's supposed to go."
@@ -3216,7 +3218,7 @@ VOLUME - Wolves Among Sheep
 
 		Walk in the park
 		______________________________
-		SCENE - 
+		SCENE
 			"Bless me, father, for I have sinned."
 			Father Declan smiled softly. "How long has it been since your last confession?"
 			"Seven months."
@@ -3283,7 +3285,7 @@ VOLUME - Wolves Among Sheep
 
 		Interviewing the Priest
 		______________________________
-		SCENE - 
+		SCENE
 			Connor and Chloe chased him to a creek, where he was sitting quietly.
 			Connor approached and sat next to him, gently raising his red hood for warmth.
 			"Hey bud." he began. "Don't worry, you were good."
@@ -3410,7 +3412,7 @@ VOLUME - Wolves Among Sheep
 
 		Creek
 		______________________________
-		SCENE - 
+		SCENE
 			That night, Connor was resting on a rooftop with Sparky at his feet. He'd been showing his new packmate around the city - and showing him how humans lived.
 			"Oh, Connor?" Sparky piped up.
 			Connor chuckled - he had spent the last few hours sating his curiosity. It was tiring, but endearing.
@@ -3519,9 +3521,9 @@ VOLUME - Wolves Among Sheep
 
 	Packmates
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The morning sunlight peeked in through the curtains, shining down on the sleeping pair of mutants. Their flesh trembled and twisted in their sleep - as though their alien biology healed better this way. They were both half-smiling - clearly sharing a good dream.
 			Both had mostly healed their burns. Connor woke up, and checked his watch.
 			"09:49. We got back in gone 4AM. So, 5 hours to fully recover from smoke inhalation and third-degree burns. Nice."
@@ -3593,7 +3595,7 @@ VOLUME - Wolves Among Sheep
 
 		Honest Work, Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			The room was modest - a glass table, a few chairs, and certificates on the walls that spoke of a company that took itself seriously. Jones gestured for her to sit, and she did, smoothing her skirt nervously.
 			"So, Chloe - tell me a bit about yourself." he began, leaning back with an encouraging smile. "Your professor, Lowenthal, speaks very highly of you."
 			"Thank you!" she beamed, then caught herself. "I mean - that's very kind of him. Um, well I--I've always been fascinated by biotechnology. The way so many different subjects intersect - it's like you're learning 5 things at once."
@@ -3669,7 +3671,7 @@ VOLUME - Wolves Among Sheep
 
 		Honest Work, Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			"This is bullshit!" Carrie roared.
 			"Ms. Pierce, please calm down." Naismith said - firmly, but softly too. "I'm sorry. Missing persons cases like these can take time."
 			"Well, I know my dad - and I can tell you, he would *not* just up and leave! I'm telling you, this is all down to that piece of shit Dobel--"
@@ -3785,7 +3787,7 @@ VOLUME - Wolves Among Sheep
 
 		Fee, Fi, Fo, Fum, Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			"Jesus... okay, you're a lot stronger than I was expecting. Don't suppose you've got any workout tips?"
 			"Troll strongest there is!" the giant beamed proudly.
 			Connor chuckled, rising. "You've made your point. Feel better now?"
@@ -3901,7 +3903,7 @@ VOLUME - Wolves Among Sheep
 
 		Fee, Fi, Fo, Fum, Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			Connor stretched, feeling his joints click as he dragged himself out of bed.
 			He pulled out his phone, and saw a missed call from Tommy.
 			"Mornin', boss."
@@ -3986,7 +3988,7 @@ VOLUME - Wolves Among Sheep
 
 		Not a job for a Werewolf
 		______________________________
-		SCENE - 
+		SCENE
 			"WHO THE FUCK DID THIS?" Dobel screamed as he kicked a heavy crate.
 			"We're not sure exactly." a man in a snappy suit answered - Dobel's accountant and consigliere.
 			"It was the Hoods, I know that much." Dobel growled. "I'm gonna kill them. I'm gonna kill them all!"
@@ -4104,7 +4106,7 @@ VOLUME - Wolves Among Sheep
 
 		Home Invasion
 		______________________________
-		SCENE - 
+		SCENE
 			Carrie gasped as the sack was pulled off her head, and winced as the tape was ripped from her mouth.
 			"D-Dobel." she stammered, looking up.
 			"Carrie Pierce." the growling gunrunner spat. "You wanna start talking."
@@ -4247,7 +4249,7 @@ VOLUME - Wolves Among Sheep
 
 		Terror at the Docks
 		______________________________
-		SCENE - 
+		SCENE
 			Rain, now. Inside the police station, a pair of tired, diligent officers sat, writing up reports.
 			"Do you suppose it's a coincidence that Dobel sent hitmen after Vince Barrett's kids, and then the 'Werewolf' takes him down?" she pondered.
 			"Coincidence, my arse." Naismith grinned. "This Werewolf... he works for Crane, I'll bet my life on it."
@@ -4295,9 +4297,9 @@ VOLUME - Wolves Among Sheep
 
 	Monsters
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			For the first time in weeks, Drackhill actually had a nice, sunny afternoon. Naturally, the UV-starved residents of the valley had flocked to Rexton Bay to get some much-needed vitamin D. The gang were no exception.
 			Connor tapped a rythmn onto his steering wheel as they waited patiently in traffic. Trey had appointed himself as the car DJ - and thus, he called shotgun, much to Amy's chagrin. She got her revenge by placing herself right behind him, and took great pleasure in kicking the back of his seat. Beside her were Chloe and Bea, both eager to see the shores. Last but not least, Sparky's head rested on the backs of the seats, as he rested in the boot.
 			Finally, they found a car park that hadn't been completely colonised. Connor pulled into a space, and the gang disembarked.
@@ -4395,7 +4397,7 @@ VOLUME - Wolves Among Sheep
 
 		Migraines/IES
 		______________________________
-		SCENE - 
+		SCENE
 			Morning came and bled into afternoon. Swimming through the skies above the Belearic Islands was a small private aeroplane, having left from Drackhill that morning. Inside, Connor was sat wearing a white shirt, green cargo trousers, and boots. Sparky was laid at his feet, panting slightly in the warmth. A man in a suit was talking to them, gesturing to a corkboard filled with photographs and maps.
 			"You okay, buddy?" Connor asked, wary.
 			"I'm in a big metal bird moving faster than anything I've ever seen. Why wouldn't I be?" Sparky replied, shaking slightly.
@@ -4460,7 +4462,7 @@ VOLUME - Wolves Among Sheep
 
 		Hattab briefing
 		______________________________
-		SCENE - 
+		SCENE
 			The fields stretched out endlessly under the burning sun. Connor and Sparky crouched behind a rocky outcrop, their ATV parked a short distance away. The stillness was broken by the distant hum of engines.
 			"They're coming." Connor muttered. Sparky growled softly, his fur bristling.
 			The convoy came into view: three MRAPs rolled in, their dark windows glinting in the sunlight.
@@ -4562,7 +4564,7 @@ VOLUME - Wolves Among Sheep
 
 		Hunting Hattab
 		______________________________
-		SCENE - 
+		SCENE
 			Outside the SPR building, Connor and Sparky stood menacingly. There didn't seem to be a whole mass of soldiers here - more a skeleton crew to secure the site. The pair entered covertly.
 			"Alright..." Connor whispered. "We do this right, and we keep it quiet until we make it to Hattab and the President. After that, we go wild."
 			"Got it." Sparky nodded, smiling. The pair went in, prowling and creeping through the hallways.
@@ -4647,7 +4649,7 @@ VOLUME - Wolves Among Sheep
 
 		Hattab Death
 		______________________________
-		SCENE - 
+		SCENE
 			"Djej, djej taaza! Kouskous bel-djej!" a street vendor called out. That less than an hour prior, rioting civilians had stared down the guns of the 9th Mountain Ranger brigade, only spared by the timely intervention of the Gendarmerie leading to a mutiny and a surrender - none of that mattered.
 			People were hungry, and there was fresh chicken couscous to be eaten.
 			Connor and Sparky approached the vendor, their stomachs growling stronger as they arrived. The smell was so good, they had to stop themselves from simply upturning the stall and eating the lot.
@@ -4720,7 +4722,7 @@ VOLUME - Wolves Among Sheep
 
 		Algiers Square/Adhan
 		______________________________
-		SCENE - 
+		SCENE
 			Bea awoke from a mid-evening nap to a notification on her phone. Groggily, she checked it, and upon reading it, perked up.
 			It was a text from a boy whose name she knew well.
 			Charlie Thorne. He and her had always been on-and-off in school. Deep down, he was always the one that got away to her.
@@ -4792,7 +4794,7 @@ VOLUME - Wolves Among Sheep
 
 		Charlie begins
 		______________________________
-		SCENE - 
+		SCENE
 			Back in Algiers, Ivan and a few other KGB operatives stood in the office of President el-Bennani.
 			"Once more, my eternal thanks." the President said, smiling.
 			"All in a day's work, Mr. President." Ivan nodded deferentially.
@@ -4872,9 +4874,9 @@ VOLUME - Wolves Among Sheep
 
 	Sandstorm
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			As the morning sun rose over the valley, it gave only a sliver of light to the people below - for dark, rainy clouds had gathered, as if in jest.
 			Despite the damp, Connor sat atop his block of flats. Legs crossed, eyes closed - almost meditating. Black veins raied over his eyelids and down to the top of his cheeks.
 			He took a deep breath, and felt his vocal chords move and twist in ways unnatural to a human. Experimenting, he let out a noise.
@@ -4964,7 +4966,7 @@ VOLUME - Wolves Among Sheep
 
 		Meditating
 		______________________________
-		SCENE - 
+		SCENE
 			A white van pulled up in a pub car park. The rain spattered down onto the city, providing an ambient noise as the van door slid open. Out hopped a group of men, with shaved heads and tell-tale leathers identifying them as Stoker's former goons. They sauntered into the pub - the Hog and Hounds.
 			"Pints, please." their leader - a large, burly man with a protuding gut - barked at the barman. He hurriedly poured out their drinks. The men leant against the bar, their eyes darting across the room.
 			"Oi." one snarled. He was a young, skinny man, whose attitude implied he thought he was a hardened thug. He pointed at a young man - one who had committed the apparently unforgivable sin of "being black in public."
@@ -5054,7 +5056,7 @@ VOLUME - Wolves Among Sheep
 
 		Hog and Hounds - Shotgun Scene
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith took a moment as he surveyed the broken bar. He spotted a half-empty pint glass.
 			"Hey, get an FI over here!" he said. "I want this glass checked for saliva."
 			"Sir!"
@@ -5136,7 +5138,7 @@ VOLUME - Wolves Among Sheep
 
 		Hog Aftermath
 		______________________________
-		SCENE - 
+		SCENE
 			In a police interview room sat a young man. His solicitor, an aged man with a sleepy demeanour, was sat next to him. DI Naismith entered, and pressed the 'record' button. Nina sat next to him. She began.
 			"Police Interview of Mr. Colin Nichols, in the presence of his solicitor, Mr. William Burleigh, by Detective Inspector Naismith and Police Constable Chowdhury. For the tape, please identify yourselves."
 			"DI Naismith."
@@ -5187,7 +5189,7 @@ VOLUME - Wolves Among Sheep
 
 		Interrogating Colin
 		______________________________
-		SCENE - 
+		SCENE
 			"Please..." Connor begged. "No more..."
 			"Aww..." the Commandant chuckled. "Okay, my boy. I'll stop."
 			Connor looked down, as he felt the chains around his wrists tighten.
@@ -5216,7 +5218,7 @@ VOLUME - Wolves Among Sheep
 
 		Cold, Dark Ground
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, Connor, Trey, and Sparky were out in the park. Connor was throwing a ball for Sparky.
 			"Hah, he's a really good boy, eh?" Trey smiled warmly.
 			"Yeah - the best." Connor grinned, throwing the ball far.
@@ -5343,7 +5345,7 @@ VOLUME - Wolves Among Sheep
 
 		Fetch with Sparky
 		______________________________
-		SCENE - 
+		SCENE
 			The sun hung in the sky, obscured by dark grey clouds. Drackhill's miserable autumn atmosphere hadn't changed.
 			Connor dragged himself out of bed, his whole body still aching from the drone attack the night before. He pulled out his burner.
 			"Afternoon, tovarishch." Ivan began. "How are you feeling?"
@@ -5498,9 +5500,9 @@ VOLUME - Wolves Among Sheep
 
 	He's a Devil, He's a Hero
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			"Boss. We've got a problem."
 			Antonio "Tony" Casale sighed as he stood from his maple desk, and turned to face the glass panes that let him overlook his warehouse-turned-nightclub. He was a fairly portly man, with balding brown hair and a clean face - which emphasised a prominent grin cut into his left cheek, long since faded to a line.
 			"And that would be, Marcus?" he asked his imposing subordinate. His voice was that of a thick Cockney - and surprisingly high-pitched for a mob boss.
@@ -5542,7 +5544,7 @@ VOLUME - Wolves Among Sheep
 
 		Enter, Casale
 		______________________________
-		SCENE - 
+		SCENE
 			In ancient times, before the old gods were slain by the Christians, the druidic peoples of the Draigpens - the land that would be Drackhill once the Saxon yoke came - believed in an ancient tutelary. A mighty winged serpent, whose flapping of his wings would bring the rains.
 			Now, in the days leading up to Halloween, 2015 - it seemed this beast, vengeful for the insolence of the cross-worshippers, was flapping his wings with vigor.
 			Most people in the valley didn't care for such flowery language, of course. To quote one:
@@ -5652,11 +5654,11 @@ VOLUME - Wolves Among Sheep
 
 		Skullcrusher
 		______________________________
-		SCENE - 
+		SCENE
 
 		Supper with Eileen
 		______________________________
-		SCENE - 
+		SCENE
 			"Jesus fuckin' Christ."
 			Naismith stepped outside of the room, pulled down his forensic mask, and took a deep breath. Blackmarsh's damp air was surprisingly refreshing, considering what he'd just seen.
 			"Evening, sir." Nina nodded as she approached. "How bad is it?"
@@ -5707,7 +5709,7 @@ VOLUME - Wolves Among Sheep
 
 		Larder
 		______________________________
-		SCENE - 
+		SCENE
 			The pair came to a stop outside a log cabin in the middle of nowhere. Their eyes burned, as they scanned the site.
 			"The pigs are all milling about in a den underground." Sparky noted. "Pigs and humans are surprisingly similar - I'm struggling to figure out who Pig Head might be."
 			"Amy Swinehouse'll be in there *somewhere.*" Connor shrugged.
@@ -5840,7 +5842,7 @@ VOLUME - Wolves Among Sheep
 
 		Porky Pies
 		______________________________
-		SCENE - 
+		SCENE
 			The final notes of the organ faded into silence. Father Declan stood at the altar, watching the last few parishioners filter out into the cold night air.
 			Danny, a boy of perhaps twelve, moved through the pews with practiced efficiency, collecting hymn books and straightening kneelers.
 			"Come now, Danny." an older woman began. "I'm sure our dinners have already gotten cold."
@@ -5958,7 +5960,7 @@ VOLUME - Wolves Among Sheep
 
 		Last Rites
 		______________________________
-		SCENE - 
+		SCENE
 			The afternoon sun fluttered through Connor's window - before a cloud choked it away.
 			His eyes slowly, miserably forced themselves to open.
 			"Ugh..." he groaned, rising. His wounds were mostly healed, with only minor bruising left to see.
@@ -6074,9 +6076,9 @@ VOLUME - Wolves Among Sheep
 
 	Pigs to the Slaughter
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Autumnal evenings in Drackhill were often grim, and tonight's, it seemed, would be no different.
 			The sky gods had clearly decided to add some variety to the valley's night - you could almost feel their laughter as hail crashed down from the heavens.
 			Despite this, the city still needed its monstrous heroes. No rest for the virtuous, it seemed.
@@ -6222,7 +6224,7 @@ VOLUME - Wolves Among Sheep
 
 		Project Crusader
 		______________________________
-		SCENE - 
+		SCENE
 			Amy arrived at the booth, with a tray of shots.
 			"Oh, good god." Trey smirked, downing his.
 			"Oi, you greedy cunt. Those were for me." she snarked, before drinking hers.
@@ -6349,7 +6351,7 @@ VOLUME - Wolves Among Sheep
 
 		Normality/Club
 		______________________________
-		SCENE - 
+		SCENE
 			"I don't... I don't know how you do it." Amy slurred, gesturing at Connor - awestruck at his sobriety.
 			Connor laughed, before looking around. "Where's Trey?" he asked.
 			At that, they spotted him - being led by the hands by a man and a woman, who brought him into a taxi.
@@ -6440,7 +6442,7 @@ VOLUME - Wolves Among Sheep
 
 		Walking back to Chloe's
 		______________________________
-		SCENE - 
+		SCENE
 			"Whoa..." Connor said aloud, seeing the lavish space.
 			"Oh?" Chloe asked.
 			"Sorry, nothing... just, your flat is really nice."
@@ -6579,7 +6581,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe's Flat
 		______________________________
-		SCENE - 
+		SCENE
 			Connor woke from his dreamless sleep to the sound of his phone buzzing. He groggily forced his eyes to open, and answered it.
 			"Hey, bro!" Trey began.
 			"Hey..." Connor groaned. "What time is it?"
@@ -6703,7 +6705,7 @@ VOLUME - Wolves Among Sheep
 
 		Day in the life
 		______________________________
-		SCENE - 
+		SCENE
 			The hail of the previous night had subsided. It seemed Drackhill Valley was back to its regularly scheduled downpour of rain.
 			As the sun crawled beneath the waves, Connor and Sparky were running.
 			Not like a normal man and his dog - they were running vertically. Up a tower block, which sat right between Redbridge and Belson.
@@ -6836,9 +6838,9 @@ VOLUME - Wolves Among Sheep
 
 	Crusades, Unending
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It was the 5th of November, 2015, and the evening sun began to sink beneath the sea.
 			Like most evenings lately, though - this one was the beginning of a monster's prowl.
 			Connor overlooked a group of Super-Agents - each one with the tell-tale black-veined eye sockets of genetically enhanced super-soldiers. Scanning the warehousing unit with glowing red eyes, he watched their visible heartbeats become big red bullseyes in his field of view.
@@ -6930,7 +6932,7 @@ VOLUME - Wolves Among Sheep
 
 		Bonfire Night
 		______________________________
-		SCENE - 
+		SCENE
 			"It doesn't make any sense."
 			Judith Rosenbaum - Judi to her friends - had uttered those words at least a hundred times that week.
 			The city's most talented trauma surgeon sat in the cold air, staring a hundred miles away. She still wore her scrubs, with only a cotton hoodie to keep warm.
@@ -7061,7 +7063,7 @@ VOLUME - Wolves Among Sheep
 
 		Enter, Rosenbaum/Nonsense
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith took a long drag of his cigarette, looking out at the river.
 			"Morning, Henry. Those are bad for you, you know." Judi grinned, sitting next to him.
 			"Thanks for the advice, doc." he chuckled, offering her one. She gladly took it.
@@ -7177,7 +7179,7 @@ VOLUME - Wolves Among Sheep
 
 		Stonewalled
 		______________________________
-		SCENE - 
+		SCENE
 			The Singing Horse was bustling, as per usual. Packs of stumbling teenagers flailed over the dance floor.
 			As Judi approached, she chuckled upon seeing a young man hurling his guts out on the street.
 			"That's it. Better out than in." Pawel grinned, patting his back. "Get it all out, and we'll get you back home, okay?"
@@ -7274,7 +7276,7 @@ VOLUME - Wolves Among Sheep
 
 		I Need A Hero/Trust Me
 		______________________________
-		SCENE - 
+		SCENE
 			"Alright..." Connor began, standing on a rooftop. "See the manhole cover down there?"
 			"That's our point of entry?" Sparky tilted his head. "You're sure the lab is down there?"
 			"From everything I could get out of Nabira, I'm pretty sure." Connor nodded. "Ivan managed to dig up some blueprints of the city's drainage system - that manhole is the closest to the Calder terminals."
@@ -7383,7 +7385,7 @@ VOLUME - Wolves Among Sheep
 
 		Bats Out Of Hell
 		______________________________
-		SCENE - 
+		SCENE
 			The tunnel opened up into a wider chamber - an abandoned metro station that had clearly been reoccupied.
 			One door in particular stood out - it was lit. A keypad stood next to it, providing a tiny shimmer of light within the pitch darkness.
 			"Great. Any idea for the code?" Sparky grinned.
@@ -7484,7 +7486,7 @@ VOLUME - Wolves Among Sheep
 
 		Killer, Saviour
 		______________________________
-		SCENE - 
+		SCENE
 			Before long, a group of ambulances had arrived. The paramedics struggled to make sense of the situation, but managed to organise a transport operation. Firemen had come too - providing truck transport for those who didn't need immediate care. Ready now, the convoy began to drive.
 			Sirens blasted, as they snaked through Drackhill's roads, making the long route back to the hospital.
 			As they approached a crossroads, a pair of black SUVs pulled out in front of the lead vehicle.
@@ -7551,45 +7553,45 @@ VOLUME - Wolves Among Sheep
 
 	Under the Dragon's Hill
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 
 		Friendly Neighbourhood Werewolf + Trey's Abduction
 		______________________________
-		SCENE - 
+		SCENE
 
 		Where's My Friend?
 		______________________________
-		SCENE - 
+		SCENE
 
 		Who did this to you?
 		______________________________
-		SCENE - 
+		SCENE
 
 		Payback
 		______________________________
-		SCENE - 
+		SCENE
 
 		Cut a deal
 		______________________________
-		SCENE - 
+		SCENE
 
 		It Was Me
 		______________________________
-		SCENE - 
+		SCENE
 
 		Don't Cross a Wolf
 		______________________________
-		SCENE - 
+		SCENE
 
 		Sorry, So Sorry
 
 	Failure
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Morning came, then afternoon, as Connor jogged through the high street. A voice caught his ear.
 			"Oh, hey!" Bea called over. Connor slowed, turned, and smiled.
 			"Hey, guys!" he waved. She and Chloe walked over.
@@ -7650,7 +7652,7 @@ VOLUME - Wolves Among Sheep
 
 		Remembrance
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a long, long day at the cafe. Too long. Unsurprisingly, Amy's face lit up as she saw Connor and Sparky waiting outside for her.
 			"Oh my goodness!" she beamed, rushing straight over to Sparky. "Hey, buddy! How've you been all day? Did you miss me?"
 			"Yeah! Today's been good. Connor's been teaching me how to read a little better!" he barked back.
@@ -7734,7 +7736,7 @@ VOLUME - Wolves Among Sheep
 
 		Commandant Calls
 		______________________________
-		SCENE - 
+		SCENE
 			Across the city, Connor and Sparky perched atop an industrial unit. Sparky's fur flowed in the cold breeze, and their eyes flashed red as they scanned the fourth unit below.
 			"Electromagnetic signals." Sparky noted. "Some electrical equipment in the walls."
 			"Probably just wiring. Though, I'm not sure - that there looks like a radio receiver." Connor pointed.
@@ -7881,7 +7883,7 @@ VOLUME - Wolves Among Sheep
 
 		The Loss of a Hand
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a hundred years. It had been a couple of seconds.
 			Connor woke up on the roof. As he did, Sparky rushed over, and licked his face frantically.
 			"Are you okay?" he asked, worried.
@@ -7965,7 +7967,7 @@ VOLUME - Wolves Among Sheep
 
 		Trauma-dumping
 		______________________________
-		SCENE - 
+		SCENE
 			It was past midnight now. Connor had been dreading this, but it needed to be done.
 			He opened his flat's door.
 			Immediately, his eyes flashed red for a second. He saw Amy's heartbeat behind her door.
@@ -8094,7 +8096,7 @@ VOLUME - Wolves Among Sheep
 
 		Amy learns the truth
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith and Nina stood in the office of Chief Constable Ronald Dorsey.
 			"DNA analysis on the hand has come back, sir. It's... engimatic, to say the least." Naismith opened.
 			"What do you mean, Naismith?"
@@ -8185,9 +8187,9 @@ VOLUME - Wolves Among Sheep
 
 	Helping Hands
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			A heavyset man in a business suit sat at his desk - and another man entered.
 			"Lord Oxford." the man on the desk began, rising to his feet.
 			"As you were, Morland." the old aristocrat answered. "Report."
@@ -8284,7 +8286,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe's attack
 		______________________________
-		SCENE - 
+		SCENE
 			They made it back to Connor's block of flats. They stood outside the block for a moment, before Chloe pulled Connor in for a hug. While he at first was unsure, he put his arms around her.
 			"I'm sorry." she said. "I know you don't like hugs."
 			"It's okay." Connor smiled. "I don't dislike them - I just never know where to put my arms."
@@ -8390,7 +8392,7 @@ VOLUME - Wolves Among Sheep
 
 		Flat post-attack
 		______________________________
-		SCENE - 
+		SCENE
 			Rays of morning sunlight poked through the blinds in the flat. He woke up, morphed on some clothes, and walked into the living room.
 			"Morning..." Chloe yawned, stretching.
 			"Hah, morning." he smiled. "Make you breakfast?"
@@ -8550,7 +8552,7 @@ VOLUME - Wolves Among Sheep
 
 		Morning in flat
 		______________________________
-		SCENE - 
+		SCENE
 			Sparky leapt in the air from the ground below. He drove his claws into the bark of the tree next to him, and in less than a moment, he had scaled the whole tree. He launched back down, rolled, and panted happily.
 			Amy knelt down and rubbed his belly, smiling.
 			"You're such a good boy, buddy." she cooed.
@@ -8717,7 +8719,7 @@ VOLUME - Wolves Among Sheep
 
 		Ivan reveals the Optimates
 		______________________________
-		SCENE - 
+		SCENE
 			Alan Hughes sat in his luxurious home, sipping from a glass of red wine. He glanced at his phone, and then it rang.
 			"Hello, your honour! ...Good, glad to hear she was to your liking. Another? Of course! What do you want? ...Okay, how old? Hmm... Youngest I can do is 7. Excellent. See you soon."
 			He raised the glass to his lips, but the sound of a *SHNK!* behind him stopped him cold, as a bolt whizzed past him. Slowly, he turned around to see Connor, standing in the shadows, his crossbow aimed directly at his face.
@@ -8812,7 +8814,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor and Trey go for beers
 		______________________________
-		SCENE - 
+		SCENE
 			Connor stood perched on a rooftop, overlooking a warehousing unit. He motioned his hand forward, and Sparky revealed himself.
 			"How many?" Connor asked.
 			"15 men, all armed. 1 Super-Agent, guarding Hughes. 5 women and girls, captive. Also, a funny smell. Not sure what it is - some kind of bleach."
@@ -8896,9 +8898,9 @@ VOLUME - Wolves Among Sheep
 
 	Blood-Soaked Saviour
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			15 minutes had passed. Chloe had sat Connor down on a bench and was looking at his injuries.
 			"What happened?!" she asked, the concern palpable.
 			"Nothing, nothing... just some Skulls." Connor said, swallowing the lies. He hated this. Hated lying to her. But what choice did he have?
@@ -8990,7 +8992,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor in Chloe's Flat
 		______________________________
-		SCENE - 
+		SCENE
 			That night, DI Naismith finished talking to an FI at the scene of Hughes's murder.
 			He turned to Nina.
 			"Any news?"
@@ -9023,7 +9025,7 @@ VOLUME - Wolves Among Sheep
 
 		Naismith finds Hughes's body
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe and Connor awoke together. She opened her eyes slowly, looked at him, and closed them again, smiling.
 			"Oh... Hi, good, uh, morning..." she said, shyly.
 			"Hah... morning." Connor replied, blushing.
@@ -9097,7 +9099,7 @@ VOLUME - Wolves Among Sheep
 
 		Waking up round Chloe's/Vitalis gets involved
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe walked into the lab, and saw a middle-aged man standing there, reading on a laptop.
 			"Morning, Jones!" she smiled cheerfully. "Coffee?"
 			"I'd love one, ta." Jones nodded. She grabbed a pair of coffees from the machine.
@@ -9189,7 +9191,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe studies the hand
 		______________________________
-		SCENE - 
+		SCENE
 			That evening, Connor pulled up outside Vitalis.
 			Chloe left the block, smiling warmly and carrying her gym bag.
 			"Hey!" she beamed.
@@ -9319,7 +9321,7 @@ VOLUME - Wolves Among Sheep
 
 		Sparring lesson
 		______________________________
-		SCENE - 
+		SCENE
 			Elsewhere in Redbridge, a young woman was walking through the city streets. She had her hood up, and looked forlorn. She stood outside the Singing Horse, and hesitated, before entering.
 			She approached the bar. The barman finished mixing up a cocktail, and approached her.
 			"What can I get you, love?" he asked.
@@ -9379,7 +9381,7 @@ VOLUME - Wolves Among Sheep
 
 		Zack tip-off
 		______________________________
-		SCENE - 
+		SCENE
 			It was pitch-black now, and Ella leant against a wall - the same wall Zack was on when he vanished. She constantly looked over her shoulder.
 			Connor prowled in from the shadows in his costume. He crept up to her.
 			"Hi." he said. Ella jumped out of her skin.
@@ -9468,7 +9470,7 @@ VOLUME - Wolves Among Sheep
 
 		Tracking Zack
 		______________________________
-		SCENE - 
+		SCENE
 			Bea woke herself up as she made a rather loud snore.
 			She quickly darted her eyes around the lecture hall, embarassed. The professor, who had been delivering a coma-inducing talk on copyright law, hadn't skipped a beat, thankfully.
 			"Too many all nighters?" a boy next to her asked, chuckling.
@@ -9534,7 +9536,7 @@ VOLUME - Wolves Among Sheep
 
 		Bea & Chloe hangout/Ward advert
 		______________________________
-		SCENE - 
+		SCENE
 			That night, in a dark, disused garage in Belson, two groups of men met.
 			One one hand were a group of thuggish youths - dressed in Skull biker leathers. Their leader, a middle-aged man with several teardrop tattoos and black veins on his eyelids, walked at the front.
 			On the other side were a group of men in tactical clothing - cargo trousers, jackets, and beanies that could quickly be turned to balaclavas. Professionals, no doubt. At their head was Tony Casale himself - his golden tooth glinting as he grinned.
@@ -9619,7 +9621,7 @@ VOLUME - Wolves Among Sheep
 
 		Naismith vs. Connor
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith awoke in a hospital bed. Nina was standing guard.
 			"Nina..." he muttered.
 			"Shh, sir, don't speak." she said, rushing to his side. "You're okay. Just a broken rib, minor concussion, and some bruises."
@@ -9668,9 +9670,9 @@ VOLUME - Wolves Among Sheep
 
 	Weak Points
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			If someone asked you to draw a stately manor house, you'd draw this one.
 			Oxford House. Home of the Earls of Oxford since the end of the English Civil War, where the house of de Vere had been sidelined for its support to the Royalists. Despite this, the family managed to worm their way back into the halls of power.
 			Inside the manor, the Lord sat at his desk, reading his papers.
@@ -9829,7 +9831,7 @@ VOLUME - Wolves Among Sheep
 
 		Trey's Birthday - Zoo/Naismith meets with Tommy
 		______________________________
-		SCENE - 
+		SCENE
 			Later that evening, everyone was drinking and being merry. Trey revealed he bought special dog beer for Sparky to enjoy.
 			"This tastes like static!" Sparky said happily.
 			"Haha, enjoy it mate!" Trey grinned.
@@ -9986,7 +9988,7 @@ VOLUME - Wolves Among Sheep
 
 		Never Have I Ever
 		______________________________
-		SCENE - 
+		SCENE
 			Later that evening, everyone except Connor and Sparky was tipsy. Connor sipped his whiskey and smiled.
 			"How do you do it?" Trey asked. "You always used to be a heavyweight, sure, but lately you've been drinking us all under the table."
 			"Irish blood." Connor smirked. "The Irish are genetically programmed to metabolise whiskey. Other alcohols follow suit." Internally, he wondered - "I can survive chlorine gas. Maybe I can just metabolise alcohol too fast to get drunk?"
@@ -10137,7 +10139,7 @@ VOLUME - Wolves Among Sheep
 
 		Rifles of the IRA
 		______________________________
-		SCENE - 
+		SCENE
 			Connor woke up to the sunlight shining on his face - and to the sound of Trey and Sparky snoring in unison. He looked over, chuckled, and rose out of the blow-up mattress he'd been sleeping in. He nudged Trey with his foot.
 			He heard Trey say "Uh-huhhh..." slowly.
 			"You want coffee?"
@@ -10226,7 +10228,7 @@ VOLUME - Wolves Among Sheep
 
 		Nosebleed
 		______________________________
-		SCENE - 
+		SCENE
 			"Boss." Marcus began. "He's here again."
 			Casale sighed, and rubbed his temples. "Alright, let him in."
 			Marcus nodded, and opened the metal door to the office. Connor, clad in his costume, sauntered in.
@@ -10294,7 +10296,7 @@ VOLUME - Wolves Among Sheep
 
 		Pre-Whiplash
 		______________________________
-		SCENE - 
+		SCENE
 			The rain had finally subsided, but had turned instead to mist. At the street level, Drackhill City's lights had halos around them, as they refracted through the fog.
 			But on the rooftops, the air was clear enough for a flare.
 			The red light shined in the sky, hanging in the air for a few seconds before burning out. Connor was underwhelmed, but morphed on his mask and leaned against an aircon unit. Before long, though, he heard the unmistakable sound of running.
@@ -10375,7 +10377,7 @@ VOLUME - Wolves Among Sheep
 
 		Enter, Whiplash
 		______________________________
-		SCENE - 
+		SCENE
 			Whiplash's eyes shot open, and she instinctively reached out, grabbing the nearest human by the throat.
 			"Gagh!" they choked, before she felt another hand grip her wrist and yank it away. She sat up, and saw the Werewolf - and Judi, who caught her breath.
 			"Easy." Connor growled firmly. Whiplash stared him down, but relented.
@@ -10459,7 +10461,7 @@ VOLUME - Wolves Among Sheep
 
 	Whiplash
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was July 2013.
@@ -10528,7 +10530,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor ignores Yaz
 		______________________________
-		SCENE - 
+		SCENE
 			Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
 			In the back-office, Tommy sat at his desk, while Trey stood.
 			"Look, Trey, you're a good kid... you sure you wanna do this?" he asked.
@@ -10599,7 +10601,7 @@ VOLUME - Wolves Among Sheep
 
 		Planning Forward
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith was in his home - a small terraced house. He woke up to his alarm, with a big, fluffy St. Bernard curled up at his feet. He sat up, yawned, and stroked the dog.
 			"Good boy." he said gently. The old dog raised his head, smiled, and went back to sleep. Naismith looked down at his alarm clock. It was 5AM.
 			He headed downstairs and made himself a coffee. He was wearing a dirty white T-shirt and boxers.
@@ -10640,7 +10642,7 @@ VOLUME - Wolves Among Sheep
 
 		Tipping off Naismith
 		______________________________
-		SCENE - 
+		SCENE
 			The gang had gathered around Trey's again for the afternoon - a rare moment where they were all free from work or university - or, in Connor and Sparky's case, a brief repose before their killings that night. Trey had fetched lunch, and they all enjoyed a nice chilled time in.
 			Or, it would've been chilled, had Bea not decided to put the local news on.
 			"Are you fucking kidding me?!" she snapped at the TV. A debate between the two frontrunners for the mayoral elections - Helen Ward of the United Socialist Party, and incumbent Alan Norris of the British Unionist Party - was playing.
@@ -10706,7 +10708,7 @@ VOLUME - Wolves Among Sheep
 
 		TV Debate/Daycare mention
 		______________________________
-		SCENE - 
+		SCENE
 			That night, Naismith and Nina sat in the car, parked up in Marsh Road. Nina was sipping a coffee cup, as Naismith looked out the window, deep in thought.
 			"So..." she began. "Do you want to tell me why we're here, sir?"
 			"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... If we get there as it happens, maybe we can catch the bastard."
@@ -10786,7 +10788,7 @@ VOLUME - Wolves Among Sheep
 
 		Killing the Giant
 		______________________________
-		SCENE - 
+		SCENE
 			"Good work tonight, bratan." Ivan smiled proudly at his comrade. "That *gigantskiy urod* was a tough bastard."
 			"It's not the first time we've tangled with one of those." Connor tilted his head. "What the fuck was it?"
 			"'Project Jotunn.'" Ivan began clinically.
@@ -10870,7 +10872,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor saves Shannon
 		______________________________
-		SCENE - 
+		SCENE
 			Another long day finally passed, and for a rare treat, Connor and Sparky were resting at home. Connor was working on a clock while Sparky chewed a bone.
 			"Do you need any help?" he asked.
 			Connor chuckled. "Nah, I'm good. Thanks though, buddy." he replied, stratching Sparky's ears.
@@ -10913,7 +10915,7 @@ VOLUME - Wolves Among Sheep
 
 		Meeting Yaz/Adam call
 		______________________________
-		SCENE - 
+		SCENE
 			They arrived outside a disused garage. Connor morphed a knife in his hand.
 			Sparky sniffed the air. "There's definitely a Super-Agent in there."
 			Connor nodded, and kicked in the door.
@@ -11025,9 +11027,9 @@ VOLUME - Wolves Among Sheep
 
 	Law and Disorder
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			"Lord Oxford, sir." the servant nodded. "Your 'guest' has arrived."
 			"Thank you, Quentin." Oxford smiled affably. "Bring him in."
 			Quentin nodded again, and swiftly ushered the second man in.
@@ -11050,7 +11052,7 @@ VOLUME - Wolves Among Sheep
 
 		Saving Clara
 		______________________________
-		SCENE - 
+		SCENE
 			An old car pulled up outside a tenement in south Bristol. Trey left the front door, and stretched.
 			"Special delivery." he chimed, grinning. A large, bald man approached, followed by a smaller man.
 			"About that..." he began, shaking his head. "I'm a little short on money this week, so I appreciate the charity."
@@ -11095,29 +11097,29 @@ VOLUME - Wolves Among Sheep
 
 		Autopsying the Giant/Bristol
 		______________________________
-		SCENE - 
+		SCENE
 
 		How's She Doing/A Moment of Relief
 		______________________________
-		SCENE - 
+		SCENE
 
 		Snakeshot/Chasing Comrades
 		______________________________
-		SCENE - 
+		SCENE
 
 		Should've Been Me
 		______________________________
-		SCENE - 
+		SCENE
 
 		Taking the Tower
 		______________________________
-		SCENE - 
+		SCENE
 
 		Packmates, Always
 
 	Snakebite
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was the middle of December, 2005. The sun was finally setting after a long, warm summer's day.
@@ -11162,7 +11164,7 @@ VOLUME - Wolves Among Sheep
 
 		Old Belson Strangler
 		______________________________
-		SCENE - 
+		SCENE
 			"Ugh... dead tonight, eh?" Lydia chuckled.
 			Maryam grinned in response, pulling the hem of her faux-fur coat and letting out a chilled breath.
 			"Oh, here's one." she pointed. A car pulled up beside the ladies, and the window rolled down.
@@ -11281,7 +11283,7 @@ VOLUME - Wolves Among Sheep
 
 		First Body Found/Flight of the Werewolves
 		______________________________
-		SCENE - 
+		SCENE
 			The morning sun tried its best to poke through the sky. Instead, it merely turned some of the grey clouds from dark to light. Amy, however, was undeterred. She stood outside a mid-sized unit labeled 'Skye Road Pawz' - the local rescue and dog daycare centre. She took a deep breath, and entered.
 			"Hiya!" she began. "I'm here about the trial shift? My name's Amy Zhao."
 			"Excellent timing." the tired older woman at the front desk nodded, putting on a jacket. "My name's Alison. We've just had a call about an abandoned dog by the creek. I know it's a little manic, but fancy tagging along?"
@@ -11354,7 +11356,7 @@ VOLUME - Wolves Among Sheep
 
 		Daycare/Hookman Homage
 		______________________________
-		SCENE - 
+		SCENE
 			Another day came and went - it was dark, now. The city's typical rains had returned, and splashes filled the ears of its residents.
 			DI Naismith, however, appreciated it. As he came out of his car, he looked up, letting the water fall onto his face. He sighed deeply, and walked into the forensic tent with Nina.
 			Both went pale upon seeing the corpse. A young man, no older than 20 - his head slumped the same as before.
@@ -11421,7 +11423,7 @@ VOLUME - Wolves Among Sheep
 
 		Body Found/The Stool Pigeon
 		______________________________
-		SCENE - 
+		SCENE
 			Morning had come and gone. The sun eagerly prepared to hide behind the sea, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
 			"Alright..." he began. "We got a rough description from our... let's call him our informant."
 			"There are worse words." Nina chuckled. Naismith grinned.
@@ -11517,7 +11519,7 @@ VOLUME - Wolves Among Sheep
 
 		Stinging the Strangler/Sparky saves victim
 		______________________________
-		SCENE - 
+		SCENE
 			"Go ahead, Naismith. In your own words." Dorsey began. His voice was shaky with rage.
 			"As I said in my report, sir... The Werewolf intervened during our sting. He stopped the car, but we were able to confirm the suspect was not in fact who we were looking for. The Werewolf left shortly after." Naismith explained. He was in a chair across a fancy oak desk, but it felt like he was cuffed to an interrogation suite. "Then, the killer crashed his car, and the Werewolf saved Ms. Marinova's life."
 			"And you just... let him leave?! After his actions destroyed a storefront, and put a man in the hospital? DO YOU HAVE ANY IDEA WHAT KIND OF *SHITSTORM* THIS'LL CAUSE?!"
@@ -11620,7 +11622,7 @@ VOLUME - Wolves Among Sheep
 		
 		Raid/Dorsey browbeats/Press Conference
 		______________________________
-		SCENE - 
+		SCENE
 			The mood in the city was grim - well, grimmer than usual. Atop Rydon tower, Connor and Sparky overlooked the city.
 			"We need to catch this bastard." he sighed heavily.
 			"We will." Sparky nodded. "It just might take some time."
@@ -11706,7 +11708,7 @@ VOLUME - Wolves Among Sheep
 
 		Strangle a Horse
 		______________________________
-		SCENE - 
+		SCENE
 			"YOU!" Chapman barked at Pawel. "BARRICADE THE DOOR!"
 			"Okay, okay. I'm doing as you say." Pawel nodded, complying.
 			"Hold tight, bratan." Ivan said through Connor's earpiece. "Help is on the way."
@@ -11883,7 +11885,7 @@ VOLUME - Wolves Among Sheep
 
 	The Belson Strangler
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-March, 2002. A young Connor sat in his room, in a house on the Bogside. Other sections of the district were bombed-out ruins - the dreadful Bogside War was beginning, unbeknownst to the little boy. He was drawing on a piece of paper.
@@ -11949,7 +11951,7 @@ VOLUME - Wolves Among Sheep
 
 		Geraldine reads bible
 		______________________________
-		SCENE - 
+		SCENE
 			It was early, now - the night sky slowly became paler, as the sun lazily prepared to rise above the mountain.
 			Over in Redbridge, a dingy, run-down pawn shop stood - Ee-Zee Kash, as it was imaginitively named.
 			And outside, a group of three. They had names - Freddie, Pablo, and Giles - but in the criminal underworld, they had a different name.
@@ -12012,7 +12014,7 @@ VOLUME - Wolves Among Sheep
 
 		Copperheads
 		______________________________
-		SCENE - 
+		SCENE
 			Amanda ran her hands through her hair, her heart beating fast.
 			She grabbed her work bag, and took a deep breath.
 			"Mummy, where are you going?" Kyle - her little boy - asked.
@@ -12107,7 +12109,7 @@ VOLUME - Wolves Among Sheep
 
 		Flat Fire, part 1
 		______________________________
-		SCENE - 
+		SCENE
 			The first floor wasn't as bad as the reception.
 			Of course, that was like saying "The arsenic wasn't as bad as the cyanide."
 			Toungues of flame licked against the walls hungrily, and Connor frantically scanned the flats for heartbeats.
@@ -12193,7 +12195,7 @@ VOLUME - Wolves Among Sheep
 
 		Flat fire, part 2
 		______________________________
-		SCENE - 
+		SCENE
 			Amy stood in the shower, her muscles aching as she let the water run over her.
 			Thankfully, the shower water wasn't too cold - that is, until the hot water ran out.
 			She sighed, and turned it off, buffetting herself with a towel just as Connor walked in.
@@ -12259,7 +12261,7 @@ VOLUME - Wolves Among Sheep
 
 		Hobos in a garage
 		______________________________
-		SCENE - 
+		SCENE
 			Connor soared through the skies of Drackhill, riding atop the winds. He let an updraft give him some altitude, and then slowly dragged himself over the air.
 			He was tired. It was a miserable night. But it was his duty.
 			He came to a stop on a rooftop overlooking his flat's block. He looked over at the husk of a tower, and sighed deeply.
@@ -12392,7 +12394,7 @@ VOLUME - Wolves Among Sheep
 
 		No Rest for the Wicked
 		______________________________
-		SCENE - 
+		SCENE
 			Trey arrived at Riverside Repairs for his shift. He stretched, and changed into his overalls, before walking onto the shop floor.
 			"Morning, Trey." Tommy waved. "This is Shannon. New hire."
 			"Hi!" she smiled warmly. She'd changed since her meeting with the Werewolf - the tips of her hair had been dip-dyed purple, while her previously brown hair was lightened slightly. A little more confident - a little more comfortable.
@@ -12443,7 +12445,7 @@ VOLUME - Wolves Among Sheep
 
 		A New Home
 		______________________________
-		SCENE - 
+		SCENE
 			The frost had begun to settle on the ground in the Drackhill Valley - winter had most certainly come.
 			Chloe was jogging through a woodland while Sparky ran beside her. She made it to a wooden bench, and stopped there, checking her stopwatch, doing some stretches, and sitting down to catch her breath. Sparky walked up to her, smiling.
 			"Hey, buddy!" she said cheerily. "Thanks for coming on this run with me."
@@ -12508,9 +12510,9 @@ VOLUME - Wolves Among Sheep
 
 	Inferno
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe and Sparky approached the cafe. Chloe had changed from her jogging outfit to jeans and a hoodie - specifically, the one Connor gave her - and she was walking with Sparky next to her. Sparky was wearing his collar, but he wasn't leashed. As they walked, an older woman sneered at them both.
 			"That thing should be on lead and in a muzzle."
 			Sparky whimpered slightly, hurt by the words and reminded of his restraints in the lab. Chloe, noticing his discomfort, stroked his head warmly, and they walked on. They arrived at the cafe, greeted by Bea who ran up to them and hugged her.
@@ -12616,7 +12618,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe meets Charlie
 		______________________________
-		SCENE - 
+		SCENE
 			Over by the Riverside, Connor and Trey carried boxes into the unit.
 			"That's the last one." Connor smiled.
 			"Woop woop! Now we have to unpack them..." Trey groaned.
@@ -12816,7 +12818,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor moves in/Draca Hill
 		______________________________
-		SCENE - 
+		SCENE
 			Drackhill is famous for being a grim, dour city. Constant rainfall, poverty, and gang warfare will do that.
 			Except for this one moment.
 			The Drackhill Winter Faire.
@@ -12912,7 +12914,7 @@ VOLUME - Wolves Among Sheep
 
 		Winter Faire - Ice Skating
 		______________________________
-		SCENE - 
+		SCENE
 			The cold wind picked up now, as snowflakes turned to sleet. The city's streets shimmered against the Faire's nights.
 			Dave sighed, sitting awkwardly in the driver's seat of a van, parked right outside a betting shop. He absentmindedly played on his phone, then saw a notification on a dating app.
 			"Ooh, get in." he said to himself, opening it. He began typing out a message, only to be interrupted by a crashing noise.
@@ -13057,7 +13059,7 @@ VOLUME - Wolves Among Sheep
 
 		Winter Faire - Grotto Fight
 		______________________________
-		SCENE - 
+		SCENE
 			"And... done!" Shannon smiled, switching on the small device she'd been tinkering on.
 			"So... okay, explain it again, but this time, like I'm a baby." Tommy grinned.
 			"It's... put simply, it's a magnetic lockpick." she explained. "As in, if you press it against a magnetic lock, it delivers a current strong enough to unlock it for a moment. The current fries it though, so you'd need to take it back here for me to repair it and make it usable again."
@@ -13134,7 +13136,7 @@ VOLUME - Wolves Among Sheep
 
 	Cold Comfort
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was November, 2011, and snowflakes were falling down onto the crisp schoolyard in Drackhill.
@@ -13237,7 +13239,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor and Trey fight/reconcile
 		______________________________
-		SCENE - 
+		SCENE
 			Morning came and bled into afternoon, which lulled into evening. The sun was slowly creeping back down the horizon, as Connor lazed around his new, makeshift home.
 			Then it came. Keys in the door.
 			Connor scanned it, and smiled warmly.
@@ -13310,7 +13312,7 @@ VOLUME - Wolves Among Sheep
 
 		Trey learns the truth
 		______________________________
-		SCENE - 
+		SCENE
 			Ivan spied over the warehousing unit with a pair of electronic binoculars. Next to him, Sparky's burning red eyes scanned through.
 			They both felt the impact behind them, as Connor dropped from his glide onto their rooftop perch.
 			"Evening, tovarishch." Ivan nodded. "You see them?"
@@ -13361,7 +13363,7 @@ VOLUME - Wolves Among Sheep
 
 		Warehouse Frenzy
 		______________________________
-		SCENE - 
+		SCENE
 			Trey leaned back from the computer, amazed. Everything made a hell of a lot more sense now. Then, he heared the jingling of keys, and darted upwards.
 			"Shit. Shit. Shit." he gasped, hurriedly putting the laptop back into the wardrobe. He closed the door, then walked into the garage, just as Amy did.
 			"Yo, dickhead. Are you--oh." she began. "Uh, hey man. Is Connor in?"
@@ -13413,7 +13415,7 @@ VOLUME - Wolves Among Sheep
 
 		Trey and Amy catch up
 		______________________________
-		SCENE - 
+		SCENE
 			"GET OFF ME!" Sparky roared, as lightning coursed through his veins.
 			Connor pushed off the last crate, aching and bleeding. He looked up, and it didn't matter anymore. His packmate needed him.
 			"DIE!" he screamed, lurching forward, his eyes aflame. He slammed into the titan's chest, with enough force to slightly dent its cerametallic carapace. Sparky used his remaining strength to break free.
@@ -13487,11 +13489,11 @@ VOLUME - Wolves Among Sheep
 
 		Whiplash Saviour
 		______________________________
-		SCENE - 
+		SCENE
 
 		Clock Tower
 		______________________________
-		SCENE - 
+		SCENE
 			"Jesus..." she whispered in awe. "You really are hard to kill."
 			"Keep that in mind next time you take a contract against me." he quipped, before spitting out a globule of blood. He stumbled over to Sparky, and hoisted him over his shoulders.
 			"We've gotta go, now. The cops'll be here any second."
@@ -13552,7 +13554,7 @@ VOLUME - Wolves Among Sheep
 
 		Reconciling with Trey
 		______________________________
-		SCENE - 
+		SCENE
 			In the same manner in which the morning sun lazily dragged itself over the valley, Connor lazily dragged himself into the shower.
 			He let the water run over his wounds, which had gone from traumatic perforations to bruises and scuffs. His joints clicked as he heaved out, and dried himself.
 			Then his ears pricked up, as the door opened.
@@ -13713,39 +13715,39 @@ VOLUME - Wolves Among Sheep
 
 	A Good Person
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 
 		Ceilidh with Chloe
 		______________________________
-		SCENE - 
+		SCENE
 
 		Warehouse Massacre
 		______________________________
-		SCENE - 
+		SCENE
 
 		Conscription
 		______________________________
-		SCENE - 
+		SCENE
 
 		Come Meet Me
 		______________________________
-		SCENE - 
+		SCENE
 
 		Romantic Dinner
 		______________________________
-		SCENE - 
+		SCENE
 
 		Patient Confidentiality
 		______________________________
-		SCENE - 
+		SCENE
 
 		Who You Love
 
 	Heartache
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			The year was 2009. A 35-year-old woman stepped off of the bus, and walked towards a big, fancy house. Her shoulder-length black hair was tucked neatly into a ponytail, framing her pale skin and deep brown eyes that shone with quiet determination. Her right arm was bandaged, with another bandage poking out from her shirt onto the base of her neck. She took a deep breath and rang the doorbell.
@@ -13851,7 +13853,7 @@ VOLUME - Wolves Among Sheep
 
 		Chloe meets Sveta
 		______________________________
-		SCENE - 
+		SCENE
 			As the afternoon sun hung above the valley, the Werewolves had decided to spend their rare moment of peace at the garage. It was closed for the day, so in the break room, Sparky sprawled on the sofa watching the TV. Connor was sat at the table, shirtless. Amy had her tattoo kit out, and was straining against his toughened skin. The newsreader was talking on the screen.
 			"And in political news, the government has passed the controversial Terrorism Act, which gives police forces the authority to arrest and detain anyone suspected of terrorism offences for up to 60 days, as well as expanding the use of the Diplock Court system to apply to such cases in mainland Britain. Critics argue that the bill is a glorified method of detaining citizens without trial or probable cause..." it continued.
 			"Fuckin' idiots." Connor muttered. "Diplock Courts? This isn't Belfast, and it's not the bloody 90's."
@@ -13897,7 +13899,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor questions his humanity
 		______________________________
-		SCENE - 
+		SCENE
 			Connor sat on a chair, wearing a baggy hoody and an ID tag.	He was looking down, slightly nervous.
 			The door buzzed, and Vince's widened the second he saw his nephe. Wordlessly, he pulled him in for the deepest of hugs.
 			Both men had tears streaming down their cheeks. Connor gripped his uncle tightly.
@@ -13960,7 +13962,7 @@ VOLUME - Wolves Among Sheep
 
 		Connor sees Vince and reconciles
 		______________________________
-		SCENE - 
+		SCENE
 			A couple days passed the valley by. In Redbridge, the gang coalesced at Trey's house. His dad was out for the day, so Trey was hosting everyone as they chilled. Chloe and Bea were sat next to travel bags.
 			"I'm gonna miss you guys." Amy said wistfully. "Now I have to spend my nights out with these losers!"
 			She gestured at Connor and Trey, who both bowed sarcastically. The others laughed.
@@ -14049,7 +14051,7 @@ VOLUME - Wolves Among Sheep
 
 		Drive to Chloe's/case discussion
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe took a deep breath, as they went around the corner.
 			"Whoa... Jesus." Connor said in awe, as he saw the enormous manorial estate.
 			They drove up to the gates, and Chloe rolled down her window.
@@ -14167,7 +14169,7 @@ VOLUME - Wolves Among Sheep
 
 		At Chloe's house
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, Connor awoke. He yawned - that bed was very soft. Not as soft as Chloe's bed in her apartment, but maybe that was just because he had her with him... he snapped out of it. No time for daydreaming about her.
 			He re-made the bed, morphed a fresh set of clothes, and headed downstairs. He smelled bacon. He walked into the kitchen, and saw a young woman in a maid's outfit, cooking. Next to her, a woman in a nurse's uniform sipped a coffee. A network of lined, aged scars crisscrossed around her arm and neck.
 			"Oh... Good morning! I don't think we've met. I'm Connor." he said, greeting both.
@@ -14230,15 +14232,15 @@ VOLUME - Wolves Among Sheep
 
 		Morning at Chloe's
 		______________________________
-		SCENE - 
+		SCENE
 
 		Reparations
 
 	Families
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The sky seemed almost determined to make this morning as miserable as possible. Slushy, cold sleet pelted down into the valley. Despite this, it failed to ruin the Barrett's morning.
 			After all, it was Christmas.
 			Connor, Amy, and Sparky stood outside the prison. A buzzer went off, and Vince came out. 
@@ -14385,7 +14387,7 @@ VOLUME - Wolves Among Sheep
 
 		Barrett Family Christmas
 		______________________________
-		SCENE - 
+		SCENE
 			That same day, Trey was having dinner at his grandparents' house. Trey's uncle and auntie, as well as his two cousins, were present too, though they kept their distance from him. The house was adorned with crucifixes, Union Jacks, and Jamaican kicknacks - a typical Windrush generation house. While eating, Trey spoke up.
 			"Nana, this is amazing - the turkey is so succulent!" he said cheerfully.
 			His grandmother smiled. "Glad you like it, my boy." she replied in a heavy Jamaican accent.
@@ -14450,7 +14452,7 @@ VOLUME - Wolves Among Sheep
 
 		Morgan Family Christmas
 		______________________________
-		SCENE - 
+		SCENE
 			The aftermath of Christmas dinner at the Jefferson household was peaceful, if a little sluggish. The room practically oozed warmth - the scent of cinnamon and roast goose still clung to the air. Bea lay sprawled across a reclining sofa, her stomach full, her eyelids heavy. Her year-younger sister, Tea, was fast asleep across the room, wrapped in a throw blanket. Their dad had retired upstairs for a nap, and their mum had disappeared into the bath nearly an hour ago, likely dozing there too.
 
 			Her phone buzzed softly on the side table. She blinked slowly, and reached for it.
@@ -14512,7 +14514,7 @@ VOLUME - Wolves Among Sheep
 
 		Jefferson Family Christmas
 		______________________________
-		SCENE - 
+		SCENE
 			In the Derrington household, Olivia and Johnathan finished laying the table together. Chloe entered.
 			"Oh, I wonder what's for dinner." she grinned.
 			"Fish and chips." Olivia quipped.
@@ -14686,7 +14688,7 @@ VOLUME - Wolves Among Sheep
 
 		Derrington Family Christmas
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith rolled his shoulders, and mumbled. He was sat at his table alone, wearing a dirty tank top and shorts. His stubble had grown into a scraggly beard, and he clearly hadn't showered in days. He looked less like a seasoned detective, and more like a homeless man - or the bloated corpse of one. He went to sip from the beer bottle in his hand, only to realise it was empty. He cracked open another one, and began to drink. A tear ran down his cheek.
 			He stood up, and went on his laptop. There, he played a recording, dated 15-08-2007.
 			"Hi, Henry! Hope my sexy Detective Constable is doing good today." a woman's voice played. Naismith's eyes welled up at the sound of her voice. "I just called to say that I miss you, and that I love you, and..." she giggled in excitement. "I can't wait to marry you! I'm just going to go to the pharmacy to get some painkillers - I'll see you tonight. I love you... wait, didn't I say that already?" she giggled again. "Doesn't matter. I love you, I love you, I love you! See you tonight, baby." the recording ended with the familiar beep of a voicemail recording. Naismith had tears streaming down his face. He cried, and went to drink another bottle - but his St. Bernard put his paw on the bottle, holding it away from his lips.
@@ -14743,7 +14745,7 @@ VOLUME - Wolves Among Sheep
 
 		Naismith's Christmas
 		______________________________
-		SCENE - 
+		SCENE
 			The week after Christmas was always a quiet, boring one - a time for rest, and relaxation. 2015's was no different. As the year came to a close, the Singing Horse did what it always did - it hosted a swarm of drunk teenagers.
 			Connor brought a tray of jaegerbombs to their table, eliciting groans from Trey.
 			"Bastard! Absolute bastard!" he moaned. "Bringing over the drink that gets me the most fucked-up, and smiling like he's doing me a favour!"
@@ -14781,13 +14783,13 @@ VOLUME - Wolves Among Sheep
 
 	Year's End
 
-
+Wolves Among Sheep
 ______________________________
-VOLUME - Gods Among Men
+VOLUME 2
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The moon shone brightly through the pouring rain, shimmering in the valley below.
 			It was the first night of the year. Typically, the night after New Year's is quiet, subdued, and peaceful, as people recover from the night before.
 			This night would've been the same - were it not for the fucking alarm bells.
@@ -14915,7 +14917,7 @@ VOLUME - Gods Among Men
 
 		The Hero
 		______________________________
-		SCENE - 
+		SCENE
 			2nd of January, 2016. The air was cold, but at least it wasn't pissing it down with rain as per usual.
 			Connor stood at a motorway service station, with Sparky going toilet on the grass. He picked up Sparky's poop, and binned it.
 			"Connor?" Sparky asked, tilting his head. "Why is it that when we're in the forest, if I poop, you won't pick it up - but when we're out here, or in the dog park, you do?"
@@ -14972,7 +14974,7 @@ VOLUME - Gods Among Men
 
 		Driving to Bea's
 		______________________________
-		SCENE - 
+		SCENE
 			The car arrived outside Bea's house. Chloe and Bea came out to greet the boys, as did Bea's sister Tea. Chloe ran straight to Connor and hugged him, before pulling back.
 			"Oh, I'm sorry, I forgot you don't like hugs..." she said shyly.
 			Connor smiled and hugged her back. He said, in a rehearsed voice, "Privet, Chloe!"
@@ -15058,7 +15060,7 @@ VOLUME - Gods Among Men
 
 		Picking up Bea and Chloe
 		______________________________
-		SCENE - 
+		SCENE
 			Connor sat on a park bench overlooking the river, while Sparky was enjoying a new ball-throwing machine. Ivan approached, and sat next to him.
 			"Privet, tovarishch." he announced himself with. "Good work last night!"
 			"Hah, thanks. Any news on your side?"
@@ -15133,7 +15135,7 @@ VOLUME - Gods Among Men
 
 		Ivan and Connor catch up
 		______________________________
-		SCENE - 
+		SCENE
 			The door creaked as it opened. Connor stepped into the Horse backroom, his costume morphed up. Ivan and Sparky followed in behind him. Tommy and Shannon looked up, relieved at the heroes' arrival.
 			"That was quick." Tommy nodded.
 			"You said it was urgent." Connor shrugged. "Oh, right - you've not met in person until now."
@@ -15221,7 +15223,7 @@ VOLUME - Gods Among Men
 
 		Tracking Gambit
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith rubbed his weary eyes as he signed out of the building. He nodded farewell to Nina, who smiled and waved him off. 
 			Now in his car, he leant back, closed his eyes, and exhaled.
 			"Tough day at the office?" Connor asked, leaning forward from his hidden spot in the back seat.
@@ -15285,19 +15287,19 @@ VOLUME - Gods Among Men
 
 	The King's Gambit
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 
 		.
 		______________________________
-		SCENE - 
+		SCENE
 
 		.
 
 	Public Enemy
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was mid-2005, and a young Connor was sat in a police room. He was wearing plain clothes that were far too big for him - and his hands were covered in dried blood. He was flanked by two middle-aged women - a solicitor and a safeguarding officer. He stared into the middle distance, unaware of his surroundings.
@@ -15531,7 +15533,7 @@ VOLUME - Gods Among Men
 
 		Killing Laverty
 		______________________________
-		SCENE - 
+		SCENE
 			Shannon stormed into the backroom, and swept a table clear, before slamming her laptop onto it.
 			"Alright, here's the plan." she said, before grinning widely. "Sorry, I've always wanted to do that."
 			"Me too." Connor nodded, chuckling.
@@ -15704,7 +15706,7 @@ VOLUME - Gods Among Men
 
 		Infiltration
 		______________________________
-		SCENE - 
+		SCENE
 			Late afternoon, now. The sun seemed eager to dive behind the horizon.
 			Naismith leaned back on his sofa, with Max's head resting on his lap.
 			"Ah... nothing like a good day of doing nothing, eh boy?"
@@ -15748,7 +15750,7 @@ VOLUME - Gods Among Men
 
 		Pre-Raid/Naismith's house
 		______________________________
-		SCENE - 
+		SCENE
 			The two Werewolves perched on a rooftop overlooking Carmine Shipping Company. Their eyes burned scarlet, as they spotted the masses of little bodies, packed together like battery-farmed chickens.
 			"They'd better be here soon." Sparky snarled. "I'm getting hungry."
 			"They'll be here, I'm sure." Connor nodded lowly. "And if not... we'll figure something out once the blood dries."
@@ -15842,7 +15844,7 @@ VOLUME - Gods Among Men
 
 		Auction Slaughter
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith stood outside the "auction house," taking a long drag on a cigarette.
 			Nina approached him. "Sir..." she opened, unsure.
 			"It's a fucking mess in there, Nina." he folded his arms. "But I can't say I feel sorry for them."
@@ -15877,7 +15879,7 @@ VOLUME - Gods Among Men
 
 		Slaughter aftermath
 		______________________________
-		SCENE - 
+		SCENE
 			Night came.
 			In the interview room at the central station, the young girl was sat, with safeguarding officer Farida Khan, and another woman - the interpreter.
 			"Elena." Naismith began. "Thank you for taking the time to see us."
@@ -15924,7 +15926,7 @@ VOLUME - Gods Among Men
 
 		Naismith interviews the kid
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe was in the lab, along with her supervisor. She was delivering a presentation to Gregory Morland, the CEO.
 			"Go ahead, Miss Derrington." Morland smiled.
 			"Right away, sir." she nodded. "So, we've detected an abnormality in some of the Werewolf's blood."
@@ -15971,7 +15973,7 @@ VOLUME - Gods Among Men
 
 		Chloe discovers Paradrenaline
 		______________________________
-		SCENE - 
+		SCENE
 			That night, Dorsey, sat at his desk, was writing on his computer.
 			"You need to stop this. Now." he wrote.
 			"I'm trying, sir. But they secured the whole site. Trying to remove evidence once it's in storage is almost impossible." he received.
@@ -16042,7 +16044,7 @@ VOLUME - Gods Among Men
 
 	Purging
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was a warm summer's evening in 1995. Vince Barrett sat on a barstool in the White Hawk pub in Redbridge, sipping a pint of Guinness. He was younger - 23 years old - but looked the part of a rough mobster. His hair was cropped short, and a thick red beard hung from his face.
@@ -16086,7 +16088,7 @@ VOLUME - Gods Among Men
 
 		Vince meets Tommy
 		______________________________
-		SCENE - 
+		SCENE
 			It was cold now, with icy rain pattering on the ground - as though the heavens had decided the valley wasn't miserable enough. About an hour had passed since the purge of Redbridge, and a big, bulky transport vehicle pulled up outside HMP Northgate, Wickermast. Prison guards stood by, as the back doors of the van opened up. The captured Hoods were shoved out of the vehicle by officers.
 			The urge to kill humans hadn't been this strong in a while, now. He suppressed it with all his willpower, and rose to his feet. Despite being cuffed, he helped Trey stand.
 			Connor's face creased in rage. Despite being cuffed, he helped Trey stand.
@@ -16190,7 +16192,7 @@ VOLUME - Gods Among Men
 
 		Arrival
 		______________________________
-		SCENE - 
+		SCENE
 			Nina arrived at the police station, wearing a hoodie and jeans. She was ushered to the holding cells, where Naismith sat in prison clothes.
 			"Sir..." she began, shocked.
 			"Nina!" he gasped, rushing to the bars. "Listen, I swear, they're..."
@@ -16248,7 +16250,7 @@ VOLUME - Gods Among Men
 
 		Prison Yard
 		______________________________
-		SCENE - 
+		SCENE
 			Morning came, and Amy stood outside the Singing Horse. Without the Hoods to protect it, the Skulls had sacked the place. The windows were shattered, crossbones were sprayed on every wall, drink was poured out on the floors along with urine... A truly sorry sight.
 			"This is our town." she whispered to herself. "Not theirs."
 			She entered, grabbed a mop and a bucket, and began doing what she could.
@@ -16358,7 +16360,7 @@ VOLUME - Gods Among Men
 
 		Charlie gaslights Bea/The King's Gambit
 		______________________________
-		SCENE - 
+		SCENE
 			The morning bell cut through Connor's ears, and he scowled at it. He forced himself out of his bunk.
 			Stoker trembled as he moved. He turned quick, making the fascist thug jump.
 			"Gotcha." he grinned, heading out of the cell.
@@ -16426,7 +16428,7 @@ VOLUME - Gods Among Men
 
 		Vigilante Bingo
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a few days now, and Connor was growing restless. His inner demons wanted a good fight. They wanted the feeling of hitting flesh.
 			Meanwhile, Naismith awkwardly entered the canteen, keeping his head down. Connor sniffed the air, and recognised the scent. He sighed.
 			"Oi! You!" one man roared, slide-tackling Naismith and delivering a volley of punches.
@@ -16558,7 +16560,7 @@ VOLUME - Gods Among Men
 
 		Who's Speaking
 		______________________________
-		SCENE - 
+		SCENE
 			"Just what in the hell is going on?!" newly-elected mayor Helen Ward snapped.
 			"Ma'am." Dorsey began, scowling. "Our department neutralised a dangerous terrorist group. You should be thankful."
 			"Be thankful?! You've abused an already constituionally-dodgy law!"
@@ -16655,9 +16657,9 @@ VOLUME - Gods Among Men
 
 	Tyrants
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It was your average evening in Belson.
 			That is, the weather was grim, the mood was grimmer, and a young man was dragged into an alleyway by a mugger.
 			"You know how this goes! Give me your fucking money!" he snapped.
@@ -16771,7 +16773,7 @@ VOLUME - Gods Among Men
 
 		Ivan and Sparky solo mission
 		______________________________
-		SCENE - 
+		SCENE
 			"Please, take anything you want - just don't hurt us!" the terrified young man begged, shielding his friends.
 			"Aww! Look here, boys! Little man here fancies himself a martyr."
 			"Happy to oblige." another Skull grinned, brandishing a club.
@@ -16853,7 +16855,7 @@ VOLUME - Gods Among Men
 
 		Enter, Stunlocke
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a week since the crackdown. Connor was laid on the top bunk of the bed, as Stoker was timidly lying on his bunk, his mouth still bruised and his teeth still gone.
 			A knock at the door.
 			"Barrett." the officer began. "Visitor."
@@ -16945,7 +16947,7 @@ VOLUME - Gods Among Men
 
 		The Great Escape
 		______________________________
-		SCENE - 
+		SCENE
 			The trio made it to Redbridge under cover of darkness. They arrived at the garage - their home.
 			Immediately, Sparky ran over, saw the three, howled in excitement, and launched into Connor, knocking them both a few feet backwards into the ground.
 			"CONNOR! You're okay! You're safe! Where have you been?! Why hadn't you broken out yet?! How did you escape?!" he barked between licks.
@@ -17000,7 +17002,7 @@ VOLUME - Gods Among Men
 
 		Meetup at Riverside
 		______________________________
-		SCENE - 
+		SCENE
 			It was a calm evening in Upper Caldermouth. Especially in the home of Deputy Chief Constable Peter Branson, who was resting on his sofa.
 			Before he could slip fully into sleep, the door caved in. Connor, Sparky, and Ivan stormed through, costumed up.
 			Branson rose to his feet, but Ivan punched him in the face, knocking him to the ground.
@@ -17131,7 +17133,7 @@ VOLUME - Gods Among Men
 
 		Maiming Branson
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, in the Drackhill city hall, Helen Ward was working on her desk.
 			There was a knock on the door.
 			"Come in." she motioned.
@@ -17178,7 +17180,7 @@ VOLUME - Gods Among Men
 
 		Dorsey Exposed/Enter, Ward
 		______________________________
-		SCENE - 
+		SCENE
 			"Bad news, bratan." Ivan said over the phone.
 			"What now..." Connor sighed, exhausted. The hero of Drackhill had had a long night - and all he truly wanted now was some kip.
 			"Dorsey's had the mayor detained under the Terrorism Act."
@@ -17309,7 +17311,7 @@ VOLUME - Gods Among Men
 
 	Rebels
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was autumn, 2012. Chloe was sat in her bedroom. Her scar was present - and far, far worse than the present day. It looked as though someone had taken a carving knife from her left eye down to the corner of her jawbone. She stared a thousand yards ahead, her expression vacant.
@@ -17406,7 +17408,7 @@ VOLUME - Gods Among Men
 
 		Chloe in hospital post-OD
 		______________________________
-		SCENE - 
+		SCENE
 			It was the morning after Dorsey's death, and Chloe left her lecture hall, glad to be free.
 			She wandered over to Bea's class, and waited patiently.
 			The bell rang, and the class came out. Bea rushed over.
@@ -17448,7 +17450,7 @@ VOLUME - Gods Among Men
 
 		Bea and Chloe argue
 		______________________________
-		SCENE - 
+		SCENE
 			That night, Bea and Charlie sat in a booth in a Caldermouth club called "Infernus."
 			"It's a shame the Horse is still being repaired." Bea began. "That's my favourite place to go in Drackhill!"
 			Charlie rolled his eyes. "Didn't you say that place got ransacked because it was owned by the gang?"
@@ -17569,7 +17571,7 @@ VOLUME - Gods Among Men
 
 		Bea gets spiked
 		______________________________
-		SCENE - 
+		SCENE
 			The gang arrived at the garage-motel, and laid Bea down on the sofa. Chloe put her in a position to avoid her potentially choking on vomit, while Amy was on the phone.
 			"Okay, great, thank you..." she said, hanging up. "Okay, so they said to call back if she gets worse, or doesn't get better by morning. Someone has to be awake with her at all times."
 			"We'll take turns." Chloe nodded. "Whenever you feel like you're going to fall asleep, wake the next person up."
@@ -17628,7 +17630,7 @@ VOLUME - Gods Among Men
 
 		Bea is brought to Connor's
 		______________________________
-		SCENE - 
+		SCENE
 			Bea phased into consciousness that morning. The world slowly slipped into frame for her.
 			"Hey, girl..." Chloe began, gently stroking her hair.
 			"What... What happened last night?" she asked, groggily.
@@ -17672,7 +17674,7 @@ VOLUME - Gods Among Men
 
 		Morning after Spiking
 		______________________________
-		SCENE - 
+		SCENE
 			The gang were all gathered at Chloe's apartment, comforting her and each other. Chloe was under a blanket, eating ice cream. Sparky was laid on her lap, looking up at her. Connor sat next to her, with her head resting on his shoulder. Amy was sat on her other side, stroking her arm softly. Trey was next to Connor, likewise leaning into him.
 			"I just... We have to do *something.*" Chloe lamented.
 			Trey nodded softly. "It's a real shame... But we've done all we can. We just... We have to trust that Bea will see the truth eventually."
@@ -17770,7 +17772,7 @@ VOLUME - Gods Among Men
 
 		Searching the flats
 		______________________________
-		SCENE - 
+		SCENE
 			They made it to Flat 231. Trey banged on the door furiously.
 			"CHARLIE!" he roared. "OPEN UP, YOU FUCKING PRICK!"
 			Connor gently placed his hand on Trey's shoulder. "Perhaps a more direct approach?" he began.
@@ -17821,7 +17823,7 @@ VOLUME - Gods Among Men
 
 		Rescuing Bea
 		______________________________
-		SCENE - 
+		SCENE
 			Nina's eyes had dark circles under them. She was overworked, and needed a break.
 			But not tonight. This was important.
 			She was sat in an interview room. Across the table sat Bea and another woman. Bea was wearing a grey sweatshirt and trackies.
@@ -17898,7 +17900,7 @@ VOLUME - Gods Among Men
 
 		Police interviews
 		______________________________
-		SCENE - 
+		SCENE
 			At Bea's apartment, the gang rallied around her.
 			"Thank you all... I don't know what I'd do without you." she whispered softly.
 			"It's okay..." Chloe replied. "You're safe now."
@@ -18000,9 +18002,9 @@ VOLUME - Gods Among Men
 
 	Hurt
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The sky rippled a brilliant orange as the sun headed toward the sea.
 			For most, this heralded the end of their shift.
 			For the heroes of Drackhill, it was the start.
@@ -18072,7 +18074,7 @@ VOLUME - Gods Among Men
 
 		Riverside Repairs
 		______________________________
-		SCENE - 
+		SCENE
 			The next afternoon, Connor was out for a jog - preparing himself for the upcoming raid that evening. He took a stretch, before pulling out his burner.
 			"Detective." he began.
 			"Most people call 999." Naismith snarked.
@@ -18173,7 +18175,7 @@ VOLUME - Gods Among Men
 
 		Bea meets Connor
 		______________________________
-		SCENE - 
+		SCENE
 			That evening, Connor overlooked the derelict shopping centre-turned-laboratory in Halford. Sparky emerged from the shadows behind him, in costume and hunched on his feet.
 			"Hey, bud." he smiled, stroking Sparky's head. "You're getting better at walking bipedally."
 			"I've had practice." he smiled. "Anyway, I've finished scouting it out."
@@ -18225,7 +18227,7 @@ VOLUME - Gods Among Men
 
 		Halford
 		______________________________
-		SCENE - 
+		SCENE
 			The Werewolves sailed on the valley winds, finally arriving at Rydon Tower.
 			"Haven't done this in a while." Sparky grinned.
 			"We should do it more often." Connor nodded. "It's been too long."
@@ -18306,7 +18308,7 @@ VOLUME - Gods Among Men
 
 		A New Hero
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith and Nina stood in a briefing room with mayor Helen Ward, sitting at her desk. They were standing to attention.
 			"Good evening, both. After the Dorcey fiasco, I've been up to my eyeballs in paperwork - so I've not been able to meet with you both." she began, cringing slightly at Dorsey's name, clearly feeling no sympathy for his death.
 			Nina clicked her heels in respect. Ward nodded and smiled.
@@ -18361,7 +18363,7 @@ VOLUME - Gods Among Men
 
 		Naismith makes DCI
 		______________________________
-		SCENE - 
+		SCENE
 			The next evening, the gang hit the streets on a pub crawl. Trey shambled over to Connor.
 			"La-di-da." he began in a fake Irish accent. "Sing us a song, Paddy!"
 			Connor laughed. "You're lucky I won't stoop to calling you slurs, you know."
@@ -18475,7 +18477,7 @@ VOLUME - Gods Among Men
 
 		Pub Crawl Shooting/Chloe treats his wounds
 		______________________________
-		SCENE - 
+		SCENE
 			It was late, now. The gang had just finished a raucous game of poker, and were starting to settle down.
 			Trey, now more drunk than before, piped up.
 			"Okay. So when are you two actually going to admit it?" he asked, facing Connor and Chloe. They looked up at him, confused.
@@ -18557,7 +18559,7 @@ VOLUME - Gods Among Men
 
 	Fragile Hearts
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			April, 1996. A young woman got off a bus. She had a travel bag with her. As she stepped off, a younger Vince, in his 20s, rushed over and hugged her. She hugged him back.
@@ -18616,7 +18618,7 @@ VOLUME - Gods Among Men
 
 		Laura returns
 		______________________________
-		SCENE - 
+		SCENE
 			It was your typical evening in Drackhill.
 			That is, the rain was pouring, the sun was hiding, and a gaggle of thugs were hauling crate after crate.
 			Each box had fake shipping labels - and very real warning ones.
@@ -18808,7 +18810,7 @@ VOLUME - Gods Among Men
 
 		Stunlocke's First Raid
 		______________________________
-		SCENE - 
+		SCENE
 			That day was a tense one in Vitalis, as Chloe frantically went over some notes. She sipped her coffee cup, her eyes bagged slightly - it was clear she hadn't slept well. Another person, an older, heavyset man in formal attire, entered the room.
 			"How's it going, Miss Derrington?" he asked. Chloe jumped, not having expected company.
 			"Oh, Mr. Morland, sir! Yes, I'm ready for the meeting." she replied, nervously.
@@ -18860,7 +18862,7 @@ VOLUME - Gods Among Men
 
 		Morland's pressure
 		______________________________
-		SCENE - 
+		SCENE
 			Eventually, Sparky found a briefing room. There, Chloe was stood with Naismith and Nina.
 			"Miss Derrington, good to meet you. I'm DI--Sorry, DCI Henry Naismith, and this is PS Nina Chowdhury."
 			"Oh, good to meet you, officer. And, PS Chowdhury - good to see you again." Chloe replied nervously.
@@ -18969,7 +18971,7 @@ VOLUME - Gods Among Men
 
 		Sparky's solo mission/Naismith meets Chloe
 		______________________________
-		SCENE - 
+		SCENE
 			That evening, Connor pulled into the address Chloe gave him - a colourful, bustling, American-style arcade, complete with blinking lights, the smell of pizza and popcorn, and the hum of games and laughter.
 			Outside, Chloe was waiting, her hair braided into pigtails - a playful look he'd never seen on her before. He noticed the faint glint of her hearing aids and smiled.
 			She spotted him and ran over, her eyes lighting up.
@@ -19093,7 +19095,7 @@ VOLUME - Gods Among Men
 
 		Connor and Chloe's first date
 		______________________________
-		SCENE - 
+		SCENE
 			"Soo... tell me how it went!" Bea asked, grinning.
 			Chloe chuckled, leaning back into her sofa. 
 			"Hah, I mean, I think it went well..." she blushed.
@@ -19168,7 +19170,7 @@ VOLUME - Gods Among Men
 
 		Date aftermath/Welcome to the Pack
 		______________________________
-		SCENE - 
+		SCENE
 			The two thugs had the young man cornered. One whacked his club against the wall.
 			"I ain't gonna ask again, little boy. GIVE ME YOUR FUCKIN' MONEY!"
 			"Okay, I'm doing it!" he pleaded in fear.
@@ -19227,7 +19229,7 @@ VOLUME - Gods Among Men
 
 	A Pack of Heroes
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			Grozny, Chechen ASSR. 18th of February, 2009.
@@ -19374,7 +19376,7 @@ VOLUME - Gods Among Men
 
 		Battle of Grozny
 		______________________________
-		SCENE - 
+		SCENE
 			It was the morning after their date, and Connor stood nervous outside Chloe's door. He hesitated, before knocking.
 			In a few moments, she answered, visibly lighting up upon seeing him. "Hey!" she smiled.
 			"Heya! Um, are you free for five minutes?"
@@ -19432,7 +19434,7 @@ VOLUME - Gods Among Men
 
 		Pre-Murillo/Sniffer Dogs
 		______________________________
-		SCENE - 
+		SCENE
 			Across the Atlantic, Connor sat on a high-end jetplane while an American man with a suit and an FBI badge briefed him.
 			"Alright, so--" he began, revealing a map. "Murillo's a paranoid one. He's holed up in a compound out in Baja California - locals call it 'La Villa del Lobo' - the Wolf's Villa. It's heavily guarded, and we believe his office is in the basement. The only way in is through the front door."
 			Connor nodded, grinning. "I have a few ideas."
@@ -19511,7 +19513,7 @@ VOLUME - Gods Among Men
 
 		Villa del Lobo
 		______________________________
-		SCENE - 
+		SCENE
 			The three heroes of Drackhill stood at Ivan's recon point, looking down at the small safehouse.
 			"One operative, armed with blades." he noted, peering through his binoculars. "Whiplash's in the middle, bound up."
 			"Do we have any idea what he's capable of?" Amy asked nervously.
@@ -19626,7 +19628,7 @@ VOLUME - Gods Among Men
 
 		ODIN fight
 		______________________________
-		SCENE - 
+		SCENE
 			Back at Villa del Lobo, Connor re-formed a bolas.
 			"Don't try to run. I'm *very* quick on my feet. I might hate the Optimates... but I'm not out to replace them with *you.*"
 			Murillo sighed. "It's such a shame, really. We could've made such good partners."
@@ -19682,7 +19684,7 @@ VOLUME - Gods Among Men
 
 		Murillo Fight
 		______________________________
-		SCENE - 
+		SCENE
 			Connor stretched as the plane landed in Drackhill Airport. He looked at himself in a mirror, and chuckled - he'd fully healed. He rubbed his ears, and felt them pop as they hit the ground. A small bit of blood leaked out - likely from the battle. He shuddered, wiped his ears, and walked out.
 			It was late night, now. He stepped out from the terminal into the arrivals lounge, and sighed.
 			He saw a cab waiting for him - "Morgan's Taxis." He smiled, and entered.
@@ -19821,7 +19823,7 @@ VOLUME - Gods Among Men
 
 	Odin's Eye
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was the 1st of June, 2003. The sun shone over Derry, and in the Bogside, a small house stood.
@@ -19860,7 +19862,7 @@ VOLUME - Gods Among Men
 
 		Grandparent's Death
 		______________________________
-		SCENE - 
+		SCENE
 			The sun rose above the valley, and after what felt like a short while, set again. Come the evening, Chloe arrived at Riverside.
 			Connor answered, and gave her a deep embrace.
 			"Haha, hey..." he smiled. "I missed you."
@@ -20046,7 +20048,7 @@ VOLUME - Gods Among Men
 
 		Connor bails/Raj fire
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, mayor Ward entered a briefing room, along with an older man in an executive officer's uniform. Immediately, Naismith, Nina, and 3 other officers all stood and clicked their heels.
 			"As you were." Ward said. She approached the projector and began her presentation.
 			"Thank you all for attending. As you know, I am mayor Helen Ward, and this is Acting Chief Constable Paul Tulloch. This is the first meeting of Tactical Operations team 24, or TO-24. Please introduce yourselves." 
@@ -20094,7 +20096,7 @@ VOLUME - Gods Among Men
 
 		Naismith meets TO-24
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe finished her classes for the day, and spotted Bea waiting outside her lecture hall. Smiling, she walked over.
 			"Hey, girl!" Bea smiled. "How was it?"
 			"Ugh." Chloe chuckled. "I mean, I like the Cybernetics module - but I'm definitely more into the genetics, that's for sure."
@@ -20154,7 +20156,7 @@ VOLUME - Gods Among Men
 
 		Bogside war documentary
 		______________________________
-		SCENE - 
+		SCENE
 			"Alright, how's this?" Connor asked, showing his morphed clothes off.
 			"Hmm..." Trey stroked his chin. "It's a bit meh."
 			"Well, what are people supposed to wear to theatres?" Connor tilted his head.
@@ -20269,7 +20271,7 @@ VOLUME - Gods Among Men
 
 		Theatre
 		______________________________
-		SCENE - 
+		SCENE
 			A few hours later, the two walked out into the night, holding hands.
 			"Wow... I'm glad you convinced me. That was awesome!" Connor said, smiling.
 			"Hah, I knew you'd like it. What was your favourite part?" Chloe asked.
@@ -20435,9 +20437,9 @@ VOLUME - Gods Among Men
 
 	Fire and Pain
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Across town, Chloe and Amy were hanging out at the Laughing Fox, sipping their drinks.
 			"Sooo..." Amy began.
 			Chloe blushed. "It was great. We had a really good time."
@@ -20639,7 +20641,7 @@ VOLUME - Gods Among Men
 
 		Yaz is saved
 		______________________________
-		SCENE - 
+		SCENE
 			That Wednesday, Connor and Sparky sat patiently on a plane. Ivan had a whiteboard with several notes on it. He stood and adressed the pair.
 			"Another briefing?" Connor snarked.
 			"Blah blah, Chechnya, blah blah, Russians, blah blah." Ivan jested back. "To summarise, Chechnya was conquered by the Timurids - a Turco-Mongol state in Iran - before Ivan the Terrible--"
@@ -20755,11 +20757,11 @@ VOLUME - Gods Among Men
 
 		Connor and Ivan assassinate Zamaldayev
 		______________________________
-		SCENE - 
+		SCENE
 
 		Medicine Run/Return from Chechnya
 		______________________________
-		SCENE - 
+		SCENE
 			It was Friday now, and the gang arrived at Drackhill University for the open day. Trey pulled up in the car park.
 			"This is so cool!" he began, smirking.
 			"I know, right?" Amy beamed.
@@ -20854,7 +20856,7 @@ VOLUME - Gods Among Men
 
 		Uni Open Day
 		______________________________
-		SCENE - 
+		SCENE
 			That evening, in the Derrington household, William was sat in the garden. Sveta joined him, fresh from attending to Oliver.
 			"Would you like a coffee, William?" she asked.
 			"Oh, no thank you." he half-smiled. "How's my dad doing?"
@@ -20965,9 +20967,9 @@ VOLUME - Gods Among Men
 
 	Warzones
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It was a crisp Saturday morning. The sun had been up for a few hours now, and brought a rare warmth to the city.
 			Chloe, Amy, and Bea arrived outside the Redbridge Community Centre, excited grins on their faces.
 			They entered into the foyer, where Pawel was stood. A banner that read 'GRAND REOPENING' hung from the wall.
@@ -21105,7 +21107,7 @@ VOLUME - Gods Among Men
 
 		Community Centre Opening
 		______________________________
-		SCENE - 
+		SCENE
 			It was late Sunday afternoon, and Connor stalked his way through Vitalis.
 			"Jinx, this is Vanguard. I'm in the building." he whispered over his commline.
 			"Copy that." Shannon nodded. "I've put the CCTV on loop - but it can't hurt to make sure the security room is handled, still."
@@ -21214,7 +21216,7 @@ VOLUME - Gods Among Men
 
 		Connor sneaks into Vitalis
 		______________________________
-		SCENE - 
+		SCENE
 			It was late, now. Back at Riverside, Connor was holding boxing pads as Chloe struck them. She seemed distracted.
 			"Hey, you okay?" he asked.
 			"Huh? Yeah... Yeah, I'm..." she said, lost in thought.
@@ -21324,7 +21326,7 @@ VOLUME - Gods Among Men
 
 		date - sparring practice
 		______________________________
-		SCENE - 
+		SCENE
 			It was a bitter, cold day in Drackhill. Rain pattered against the roof of a covert building in the east of Belson.
 			Within, the Commandant had met with Gregory Morland. He was *not* happy.
 			"YOU HAD YOUR CHANCE, YOU WORM!"
@@ -21440,9 +21442,9 @@ VOLUME - Gods Among Men
 
 	Getting Closer
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			Connor ascended the stairs, taking a moment to un-morph his mask and wipe his nose. The bullet to the head didn't crack his skull, but it still hurt.
 			"Stunlocke - escort the hostages out of the reception. I'm going up." he said over the radio.
 			"Copy that. There's a few wounded here - I'll apply first aid, and join Spartacus when I'm done." she audibly nodded. "Are you gonna be okay?"
@@ -21531,7 +21533,7 @@ VOLUME - Gods Among Men
 
 		Siege of Vitalis - Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			An hour later, Chloe was in the police interview room. Nina was sat with her.
 			"They shouldn't be much longer... Can I get you a drink or anything?" she asked.
 			"Um... Just water, please." Chloe said, still in shock. Nina nodded, and fetched a glass of water. With that, DC Moffat and DCI Naismith entered.
@@ -21584,7 +21586,7 @@ VOLUME - Gods Among Men
 
 		Siege aftermath
 		______________________________
-		SCENE - 
+		SCENE
 			Nina's car pulled up outside the repair shop. Chloe took a deep breath.
 			Nina smiled. She walked with Chloe to the front door, and knocked. Connor answered.
 			"Hi, Connor - I've got someone here who'd like to see you."
@@ -21677,7 +21679,7 @@ VOLUME - Gods Among Men
 
 		Telling the Truth
 		______________________________
-		SCENE - 
+		SCENE
 			Bullets flew overhead, ricocheting off the walls and the metal framework of the station as TO-24 took cover behind a crumbling pillar. 
 			The air filled with the deafening sounds of gunfire.
 			"ALL UNITS! SECURITY STATUS ZERO! TERRORIST ATTACK IN PROGRESS!" Naismith barked over the radio, his voice strained with urgency.
@@ -21769,7 +21771,7 @@ VOLUME - Gods Among Men
 
 		Station battle/Oh Pity
 		______________________________
-		SCENE - 
+		SCENE
 			Back at Riverside, Chloe was sitting on the sofa, with Sparky curled up next to her.
 			"Bea, I'm okay., I'm safe." she said on the phone. "I'm round Connor's now."
 			"Are you sure? I can come over if you like." Bea replied.
@@ -21856,9 +21858,9 @@ VOLUME - Gods Among Men
 
 	Gunshots
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			That morning, Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
 			"[Are you okay, dorogaya?! What happened? Are you safe?]" Sveta answered almost immediately.
 			"[Sveta... I'm fine. I'm not hurt.]" Chloe replied, glad to hear her voice.
@@ -21954,7 +21956,7 @@ VOLUME - Gods Among Men
 
 		Meeting the gang again
 		______________________________
-		SCENE - 
+		SCENE
 			Naismith was laid down in a hospital bed, with machines beeping around him. Nina sat with him, wearing combat gear. Connor arrived, in costume. Nina rose and drew her gun, but stopped upon recognising their saviour.
 			"Sergeant. Congratulations on your promotion." he grinned.
 			"Werewolf..." Nina replied in shock. "What are you doing here?"
@@ -21989,7 +21991,7 @@ VOLUME - Gods Among Men
 
 		Connor checks on Naismith
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe laid in her bed, with Sparky snuggling up to her. She awoke to a knock on the door.
 			Sparky darted his head up, sniffed, and then nodded. "It's okay, they're friendly."
 			Chloe chuckled, and answered the door, to see Sveta standing there.
@@ -22089,7 +22091,7 @@ VOLUME - Gods Among Men
 
 		Harbour battle/phone call
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe and Sparky stood nervously across the street from Vitalis. The place was deserted, with no police in sight - likely, they were reeling from the attack the night before. Connor arrived, and she rushed over and embraced him. He returned the embrace, taking a deep breath.
 			"Hey." he began.
 			"Hey..." she whispered softly.
@@ -22212,7 +22214,7 @@ VOLUME - Gods Among Men
 
 		Investigating Vitalis
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe sat comfortably in the basement, sorting through the data on Connor's laptop. She searched a keyword - 'Esper' - and found a few results.
 			"Hey, um... Sparky?" she began.
 			"Yeah?"
@@ -22298,9 +22300,9 @@ VOLUME - Gods Among Men
 
 	Truth & Reconciliation
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It had been a chaotic few days - but days, nonetheless. The sun dragged itself out from the horizon, whispering over the valley.
 			Chloe was sitting on a bench in the repair shop, sipping a latte. Amy approached.
 			"Hey, girl! How are you holding up?" she asked, hugging Chloe.
@@ -22359,7 +22361,7 @@ VOLUME - Gods Among Men
 
 		Chloe meets the Knowers
 		______________________________
-		SCENE - 
+		SCENE
 			That afternoon, Naismith stood alone in TO-24's briefing room, facing a wall with notes on it. Mayor Ward entered the room. 
 			Naismith clicked his heels and stood to attention, turning to face her. He was wearing sunglasses - to conceal the black-veined eyes of the Super-Agent.
 			"As you were." Ward said. Nasmith's posture relaxed slightly.
@@ -22443,7 +22445,7 @@ VOLUME - Gods Among Men
 
 		TO-24 Meet Ivan/Shopping
 		______________________________
-		SCENE - 
+		SCENE
 			It was late evening now, and Chloe was working on Connor's laptop in the break room, compiling the data they recovered into a single document.
 			As she worked, Connor and Sparky entered through the back. Both were in their costumes, and Connor's was noticably singed. They walked in, grabbed the food Chloe left out for them, and ate.
 			Chloe looked up, and smiled. "How'd it go?" she asked.
@@ -22533,7 +22535,7 @@ VOLUME - Gods Among Men
 
 		back rub/tickling
 		______________________________
-		SCENE - 
+		SCENE
 			It was early morning.
 			Naismith, Ivan, and the rest of TO-24 were observing a brutal crime scene - A man was hanging from a street light, strung up by his own entrails - his mouth had been carved into a smile, and his tongue hanged from a slash in his throat, still attached. Carved into his forehead was the word "PARASITE."
 			"Who was this man?" Ivan asked, stroking his beard.
@@ -22633,7 +22635,7 @@ VOLUME - Gods Among Men
 
 		The Judge Awakens
 		______________________________
-		SCENE - 
+		SCENE
 			That night, Connor was sprinting, leaping from rooftop to rooftop in a patrol. While running, he heard a scream. He sprinted straight towards the source.
 			There, he saw a monster grabbing a man in Skull leathers. The monster let the man go, and turned to face Connor.
 			It was a freak that would make Nosferatu look pretty. Its skin was grey, and its eyes a dark blood-red, blending iris, pupil, and sclera. Its face was only vaguely human - its eyes too far apart, its nose at once too pointy and too flat, its jaw stuttered and spiked. All in all, it could only be described by negation - "Face not-quite-human," "Teeth not-quite-canine," "Frame not-quite-apelike."
@@ -22707,7 +22709,7 @@ VOLUME - Gods Among Men
 
 	Judgement Day
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was early hours of the 10th of October, 1996. 03:27 AM.
@@ -22798,7 +22800,7 @@ VOLUME - Gods Among Men
 
 		Connor's birth
 		______________________________
-		SCENE - 
+		SCENE
 			Lord Oxford sat at his desk, holding a golden cube with apparent fascination. It glimmered in the light in an unnatural way. Standing to attention was the Commandant, frozen in place - like he *wanted* to move, but couldn't. Oxford's irises were pulsating violet, glowing in an ethereal way.
 			The Judge entered, kneeling down in reverence.
 			"Master. The youngblood heathen fought well, but is dead."
@@ -22905,7 +22907,7 @@ VOLUME - Gods Among Men
 
 		Getting Connor to A&E
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe and Ivan sat in the car together, driving to the hospital. Chloe was frantically going through her research notes on her laptop while Ivan drove.
 			"So..." Ivan began, breaking the ice. "You known Connor long?"
 			"Since September." Chloe replied absently.
@@ -23017,7 +23019,7 @@ VOLUME - Gods Among Men
 
 		Connor's recovery
 		______________________________
-		SCENE - 
+		SCENE
 			The morning sun slowly peeked over the horizon, and brilliant orange shined in through the windows of Riverside.
 			As the squad hauled in crates of lab equipment Ivan had requisitioned, Connor's motel room had been repurposed into a hospital bay.
 			Chloe was looking through a microscope at yet another blood sample. Her hair was frazzled, and her eyes bagged - she hadn't slept a wink.
@@ -23168,7 +23170,7 @@ VOLUME - Gods Among Men
 
 		Connor wakes up
 		______________________________
-		SCENE - 
+		SCENE
 			The Riverside Squad stood on a junction in the night-time, ready for war.
 			Ivan adjusted Isabella's scope, and checked her ammunition. Gwen's eyes flexed violet as she made a dust devil at the ground, readying her powers. Amy's gauntlets crackled as she drew the Pulsar and the Vibroblade, holding them like a pirate holds a flintlock and cutlass.
 			Connor and Sparky, meanwhile, felt their costumes ripple and morph with fury. Connor reached to his belt, checking the two metal syringes attached.
@@ -23297,7 +23299,7 @@ VOLUME - Gods Among Men
 
 		Judge vs. Connor 2
 		______________________________
-		SCENE - 
+		SCENE
 			Connor awoke in his bed. He looked around frantically, and realised where he was. He reached for his chest, and felt it had mostly healed - it was sore and mangled, but the hole was gone. He took a deep breath, morphed his clothes, and headed out the door.
 			There, he found Chloe and Sparky asleep in the next room. He sighed softly, walked over, and sat with them.
 			Chloe stirred. She sat up and looked over at him.
@@ -23354,7 +23356,7 @@ VOLUME - Gods Among Men
 
 		Chloe and Connor talk
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, Connor was in the shower. He stood there, letting the water run over his face.
 			While this happened, he saw flashes - glimpses of lost time.
 			He saw the Commandant, and Zhao, cutting him up.
@@ -23512,7 +23514,7 @@ VOLUME - Gods Among Men
 
 		Revealing the truth to the gang
 		______________________________
-		SCENE - 
+		SCENE
 			At the same time, Stoker was in his cell in prison. He was throwing a tennis ball at the wall. His teeth were clearly fakes, and his nose was crooked - holdovers from Connor's treatment of him.
 			A young man entered the cell.
 			"What?" Stoker asked impatiently.
@@ -23551,9 +23553,9 @@ VOLUME - Gods Among Men
 
 	Broken Hearts and Bones
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The gang sat in the prison's hospital waiting room. Connor was pacing wildly. Amy was scratching her hands nervously, with Bea trying to comfort her. Trey was tapping his foot, arms folded. Chloe was stroking Sparky, looking at Connor with sympathy. Shannon sat with the group, holding her shoulders nervously.
 			An orderly approached. "Oi. No dogs allowed." he said, motioning towards Sparky.
 			Connor simply walked up to the orderly and stared him down.
@@ -23655,7 +23657,7 @@ VOLUME - Gods Among Men
 
 		Checking on Vince - 1
 		______________________________
-		SCENE - 
+		SCENE
 			"So..." Vince began. "Chloe, Bea - how long have yous known everyone?"
 			"Since September. We both moved down for Uni." Bea replied.
 			"Ah, awesome - what do yous study?" he asked, leaning forward.
@@ -23736,7 +23738,7 @@ VOLUME - Gods Among Men
 
 		Checking on Vince - 2
 		______________________________
-		SCENE - 
+		SCENE
 			That afternoon, the gang was sat in the repair shop.
 			"Connor, I..." Bea began. "Obviously, we're here for you, but... why did you ask us all to be here?"
 			"Well... This man's coming here to tell me to go and kill someone. And... I want my friends here to hold me accountable. To tell me not to do it if I shouldn't." Connor explained.
@@ -23802,7 +23804,7 @@ VOLUME - Gods Among Men
 
 		Ivan contracts for pardon
 		______________________________
-		SCENE - 
+		SCENE
 			A couple of days had passed, and Chloe woke up in her bed. She stretched, yawned, and headed to the bathroom.
 			She had a shower, and then dried herself off.
 			There, she looked in the mirror. She prepared to put on her usual makeup and hair routine - lots of foundation to conceal her freckles and scar, have her hair down to hide her hearing aids - and stopped.
@@ -23867,7 +23869,7 @@ VOLUME - Gods Among Men
 
 		Chloe's birthday - breakfast
 		______________________________
-		SCENE - 
+		SCENE
 			"So, um..." Connor began. "I know you said not to get you anything too fancy for you, but..." he revealed a small box. "Happy birthday, Chloe."
 			Chloe beamed with excitement, and opened the box. She pulled out a beautiful wristwatch.
 			"Oh my god!" she gasped. "Connor, this must have cost a fortune!"
@@ -23947,7 +23949,7 @@ VOLUME - Gods Among Men
 
 		Chloe's birthday - driving
 		______________________________
-		SCENE - 
+		SCENE
 			It was late afternoon, as Connor and Trey's cars pulled into Chloe's house's driveway.
 			"You okay?" Connor asked her, as she took a deep breath.
 			"Y--Yeah, I'm okay." she stuttered. "Let's go."
@@ -24036,7 +24038,7 @@ VOLUME - Gods Among Men
 
 		Chloe's birthday - at her place
 		______________________________
-		SCENE - 
+		SCENE
 			An hour had passed. Victor's car pulled up in the driveway.
 			Victor, Vivienne, and Catherine exited the car.
 			Victor turned to Vivienne.
@@ -24124,7 +24126,7 @@ VOLUME - Gods Among Men
 
 		Grace
 		______________________________
-		SCENE - 
+		SCENE
 			Everyone began to eat properly, now that the grace pissing-contest was done.
 			"I must say, your home is lovely, Catherine." Vivienne continued.
 			"Why, thank you, Vivienne." Catherine replied, smiling smugly.
@@ -24188,7 +24190,7 @@ VOLUME - Gods Among Men
 
 		Chloe's birthday - dinner
 		______________________________
-		SCENE - 
+		SCENE
 			A few hours passed, and it was late evening, as the group nursed their full bellies. Catherine and Victor had gone to bed, while Vivienne had left for home. Sparky was curled up on the floor with Luna, who had buried herself in him for warmth.
 			"Well, I'd best be off." Sveta said, smiling warmly. "S dnem rozhdeniya, dorogaya."
 			Chloe hugged Sveta tightly. "Beregi sebya, Sveta. Ya lyublyu tebya."
@@ -24282,9 +24284,9 @@ VOLUME - Gods Among Men
 
 	Thicker than Water
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The next morning, Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
 			The sun was only just starting to peek over the horizon. It had snowed in the night, and the garden was frosted over. The light glistened off of the snow, but the air was so cold, it wouldn't even dream of melting. He saw Sparky curled up in Luna's dog bed, cuddling her. The two dogs awoke on his approach.
 			"Morning, Connor!" Sparky smiled. "I think Luna needs toilet."
@@ -24365,7 +24367,7 @@ VOLUME - Gods Among Men
 
 		Morning after Birthday
 		______________________________
-		SCENE - 
+		SCENE
 			"So, welcome to Marlingham town centre!" Chloe began, waving in the direction of the square, holding Luna's lead in her other hand. "It's Sunday, so this is as busy as it gets."
 			The gang looked around the near-deserted centre. Sparky let out a bark, which echoed quite nicely. He grinned.
 			Connor pictured a tumbleweed somehow rolling into the square.
@@ -24470,7 +24472,7 @@ VOLUME - Gods Among Men
 
 		Exploring Marlingham
 		______________________________
-		SCENE - 
+		SCENE
 			Arriving at the Jefferson's house, Bea took a deep breath.
 			"Hey..." she began. "I, um... I haven't told my family about Charlie, yet. Do you guys mind if I do this bit alone?"
 			"Not at all." they all replied in near-unison.
@@ -24543,7 +24545,7 @@ VOLUME - Gods Among Men
 
 		Meeting Oliver
 		______________________________
-		SCENE - 
+		SCENE
 			Arriving back, the group grabbed their clothes and things, packing them into their cars.
 			"Oh, Chloe? Connor?" William asked. They both walked over.
 			"Chloe, your mother and I have been speaking today. I made it clear I wasn't happy with how she'd acted to you, Connor - and so she's agreed to give you a fair chance. I know it's a little strange, but - would you be alright if, before you leave, we sat down and had a little talk?"
@@ -24659,7 +24661,7 @@ VOLUME - Gods Among Men
 
 		The Interview
 		______________________________
-		SCENE - 
+		SCENE
 			"Thief? Old gang?" William asked, his voice sharp.
 			"Yeah, like your partner is a saint." Chloe snarked.
 			"Hey." Catherine said firmly - but surprisingly less venemous than usual. "Your father's right. A boy like that, with that kind of history..."
@@ -24743,7 +24745,7 @@ VOLUME - Gods Among Men
 
 		William turns
 		______________________________
-		SCENE - 
+		SCENE
 			The car pulled up outside Chloe's block of flats. Both took a deep breath. Chloe silently pondered about how this felt more like home, now.
 			"I'll walk you up?" Connor asked, breaking the tension.
 			Chloe smiled, and nodded silently.
@@ -24812,7 +24814,7 @@ VOLUME - Gods Among Men
 
 	Snowfall
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			It was late September, 1996. Phil and Kerry Morgan were visting Drackhill Maternity Clinic. There, an old Chinese doctor called them in.
@@ -24838,7 +24840,7 @@ VOLUME - Gods Among Men
 
 		Kerry's ultrasound/Zhao
 		______________________________
-		SCENE - 
+		SCENE
 			"Though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me... Thy rod, and thy staff; they comfort me."
 			Ian stared a thousand paces into the distance. Wherever his mind was, he begged it wasn't *here.*
 			"We now commit Harriet's body to the ground." the priest said somberly, as a small coffin was lowered down. "Earth to earth, ashes to ashes, dust to dust, in the sure and certain hope, of the resurrection to eternal life."
@@ -24919,7 +24921,7 @@ VOLUME - Gods Among Men
 
 		TO-24 Find Connor
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			09:49 AM, GMT.
 
@@ -25024,7 +25026,7 @@ VOLUME - Gods Among Men
 
 		Tans/Gary arrives
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			10:01 AM, GMT.
 
@@ -25137,7 +25139,7 @@ VOLUME - Gods Among Men
 
 		Battle of Belson, Part 0
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			10:14 AM, GMT.
 
@@ -25212,7 +25214,7 @@ VOLUME - Gods Among Men
 
 		Battle of Belson, Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			10:47 AM, GMT.
 			"LET ME OUT OF HERE!" Vince roared, screaming like a berserker and tearing out of the hospital bed.
@@ -25286,7 +25288,7 @@ VOLUME - Gods Among Men
 
 		Battle of Belson, Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			10:52 AM, GMT.
 
@@ -25412,7 +25414,7 @@ VOLUME - Gods Among Men
 
 		Battle of Belson, Part 3
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			11:09 AM, GMT.
 
@@ -25474,7 +25476,7 @@ VOLUME - Gods Among Men
 
 		Battle of Belson, Denouement Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			Monday, 8th of February, 2016.
 			11:27 AM, GMT.
 
@@ -25553,11 +25555,11 @@ VOLUME - Gods Among Men
 
 	The Battle of Belson
 
-
+Gods Among Men
 ______________________________
-VOLUME - Age of Heroes
+VOLUME 3
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
 		FLASHBACK
 			WAKE UP.
@@ -25612,7 +25614,7 @@ VOLUME - Age of Heroes
 
 		Awakening
 		______________________________
-		SCENE - 
+		SCENE
 			Connor's eye snapped open, his iris a shimmering red before dimming down into its normal steel-grey. He tried to speak, but instead choked on a plastic tube.
 			"Shh, shh, don't try to talk." Chloe rushed over. Sveta was there too, and she pulled out the feeding tubes, before flashing a pen-torch into his eye.
 			"Can you hear me?" she asked.
@@ -25672,7 +25674,7 @@ VOLUME - Age of Heroes
 
 		Waking up
 		______________________________
-		SCENE - 
+		SCENE
 			As soon as he entered the lounge, he was pounced upon by Amy.
 			"Oh my god... I thought you were dead... I thought that thing killed you..." she said hurriedly.
 			"Hey..." Connor sighed, embracing her back. They finally broke apart.
@@ -25766,7 +25768,7 @@ VOLUME - Age of Heroes
 
 		Back in the saddle
 		______________________________
-		SCENE - 
+		SCENE
 			"That is not the point!" Bevan barked into his phone. "The fact is, demonising the man who saved everyone will, at best, turn the public against you. At worst, it means when this happens again, we have nothing!"
 			The phone let out a winding diatribe of noise. The morning sun was now peeking over the horizon again. Despite it all, the day rolled on as normal. Bevan took a deep breath of the fresh, cold air, standing outside the back of the laboratory complex.
 			"No, that is not at all an option! Sending in the army to resolve a situation like that would only mean far more deaths. These things are fast, strong, and tough. We need to fight fire with fire. Hence, the Werewolf option."
@@ -25819,7 +25821,7 @@ VOLUME - Age of Heroes
 
 		Smoking with Bevan
 		______________________________
-		SCENE - 
+		SCENE
 			Connor re-entered the motel. Amy was fast asleep, snoring loudly on a chair. He chuckled, and went into Trey's room.
 			Trey immediately pounced out of his bed and wrapped Connor into his arms.
 			"Hey, bro..." Connor said softly.
@@ -25891,7 +25893,7 @@ VOLUME - Age of Heroes
 
 		Mourning After
 		______________________________
-		SCENE - 
+		SCENE
 			The car pulled up outside Trey's house. Both boys were nursing their bellies. Trey had insisted on driving, on account of being the only one with depth perception. They paused, taking deep breaths.
 			"You okay?" asked Connor.
 			"Yeah, I'm fine." Trey said unconvincingly. "I... I gotta tell my dad."
@@ -25956,7 +25958,7 @@ VOLUME - Age of Heroes
 
 		Showing Phil
 		______________________________
-		SCENE - 
+		SCENE
 			Connor and Trey stood perched on a rooftop, overlooking the streets of Belson.
 			Several thuggish men were smashing up windows, stealing what they could.
 			"We're not in the business of protecting a supermarket's bottom line." Connor noted. "A lot of these people will be scared citizens, thinking the apocalypse is nigh. But the instigators - the Skulls - they gotta be stopped."
@@ -26055,7 +26057,7 @@ VOLUME - Age of Heroes
 
 		Race-Riots
 		______________________________
-		SCENE - 
+		SCENE
 			The volley of shots ended, as the formation of Super-Agents put down their guns.
 			"Good! Now I have your attention." the squad leader grinned. Connor pounced out of the window.
 			"My suit's out of juice..." Amy shuddered.
@@ -26130,7 +26132,7 @@ VOLUME - Age of Heroes
 
 		Squad Attack
 		______________________________
-		SCENE - 
+		SCENE
 			The Commandant stood grimly in a large industrial unit, with squads of Super-Agents behind him.
 			"So..." he began. "His little friend is one of us, as well."
 			One Agent nodded. "Yes, sir. With the death of the hit team, we're running critically low on operatives."
@@ -26167,9 +26169,9 @@ VOLUME - Age of Heroes
 
 	Awakening
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			It was close to sunset out in Texas. A couple of armed sentries stood outside a stately manor house, smoking.
 			"Ugh..." one groaned. "I still don't know why they posted us."
 			"Hey, beats bein' in there." the other chuckled. Then, they spotted a man approaching up the drive. In the dark, with the sun behind him, they couldn't make anything beyond a trenchcoat out.
@@ -26267,7 +26269,7 @@ VOLUME - Age of Heroes
 
 		A New Pack
 		______________________________
-		SCENE - 
+		SCENE
 			The Commandant took a deep breath, before entering the room.
 			There, Lord Oxford was stood, looking at a drawing board.
 			"Sir." he said awkwardly.
@@ -26327,7 +26329,7 @@ VOLUME - Age of Heroes
 
 		Oxford's Orders/DMI reveal
 		______________________________
-		SCENE - 
+		SCENE
 			The Soviet soldier - augmented into a Giant - crawled away from his assailant, desperately holding his guts in his arms. He kicked, snapping the enemy's head back, but it didn't stop the marching avatar of death.
 			"Valiant effort..." the Judge growled. "But not good enough, I'm afraid."
 			The soldier drew his sidearm - a custom, oversized hand cannon - and fired. It knocked the Judge back, but again, nothing more.
@@ -26393,7 +26395,7 @@ VOLUME - Age of Heroes
 
 		Morning in Karelia/Surrender
 		______________________________
-		SCENE - 
+		SCENE
 			The last of the Skulls had been cuffed and taken away, and Naismith turned to the three Werewolves.
 			"Well, well - new hire?" he chuckled.
 			"Hi." Trey waved awkwardly.
@@ -26496,7 +26498,7 @@ VOLUME - Age of Heroes
 
 		Valentine's Day beginning
 		______________________________
-		SCENE - 
+		SCENE
 			Connor's car pulled up outside 'Les Plumes d'Argent' - the poshest restaurant he'd ever seen in his life.
 			"I'm so excited." Chloe beamed. "I haven't eaten here in ages."
 			"You've been here before?" Connor tilted his head.
@@ -26561,7 +26563,7 @@ VOLUME - Age of Heroes
 
 		Valentine's Day, Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			Back in "Les Plumes," Connor and Chloe finished their meals. She had opted for a filet mignon that the waiter had called "exquisite," while he had gone for something more quintessentially 'Connor' - a burger and chips.
 			"I still can't believe they sell those here." he grinned.
 			"I should've gone for it. Exquisite, my arse." Chloe snarked. At the word 'arse,' a couple at a nearby table gasped slightly. She chuckled.
@@ -26618,7 +26620,7 @@ VOLUME - Age of Heroes
 
 		Valentine's - Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe returned to the table, and Connor visibly lit up on seeing her.
 			"So..." she began. "I know we know practically everything about each other, buuuut..."
 			"Oh, Christ." Connor chuckled.
@@ -26762,7 +26764,7 @@ VOLUME - Age of Heroes
 
 		Valentine's - Part 3
 		______________________________
-		SCENE - 
+		SCENE
 			The morning light came in through the curtain blinds. Connor, Chloe, and Sparky were all curled up on the sofa, with the TV still playing.
 			The door opened, and Connor's head shot up, before recognising.
 			"Hey, Trey."
@@ -26827,7 +26829,7 @@ VOLUME - Age of Heroes
 
 		Morning after
 		______________________________
-		SCENE - 
+		SCENE
 			Chloe's lecture came to an end. She stretched, and grabbed her bag.
 			"Oh, Chloe?" Lowenthal called out. "Do you have a minute?"
 			She nodded, and sat down at his desk.
@@ -26903,7 +26905,7 @@ VOLUME - Age of Heroes
 
 		Training
 		______________________________
-		SCENE - 
+		SCENE
 			Gwen's eyes snapped open to a knock on the door. She struggled and strained, rising to a seated position.
 			"Rise and shine." Connor grinned, entering.
 			"Hah... hey." she stretched. "How long have I been out?"
@@ -26979,9 +26981,9 @@ VOLUME - Age of Heroes
 
 	Heartfelt
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
 			The gang stepped down, out of the passenger section. There, they were greeted by Morozov - flanked by two Giants.
 			Connor immediately assumed a fighting stance.
@@ -27069,7 +27071,7 @@ VOLUME - Age of Heroes
 
 		Arriving in Karelia
 		______________________________
-		SCENE - 
+		SCENE
 			The sun was rising now in Karelia, glancing and glistening off of the snowfall. The three Werewolves and their Giant attendees had taken positions in the base of the valley, while Ivan had set up a sniper's nest overlooking them.
 			To begin, Connor let out a low call - a vibration from his throat, similar to their echolocation skills.
 			Trey joined in, and then Sparky did, too - a haunting alien chorus filling the air.
@@ -27156,7 +27158,7 @@ VOLUME - Age of Heroes
 
 		Battle of Karelia - Part 1
 		______________________________
-		SCENE - 
+		SCENE
 			"I always knew I couldn't trust you, alien." the Commandant growled. "You and our boss."
 			"Likewise, abomination." the Judge snarled back. The two monsters circled each other, like beasts fighting over a kill.
 			Connor rose, readying his claws.
@@ -27230,7 +27232,7 @@ VOLUME - Age of Heroes
 
 		Battle of Karelia - Part 2
 		______________________________
-		SCENE - 
+		SCENE
 			"GRGRGRGGRGRGAAAGH!" the thug screamed as lightning coursed through his veins. He fell to the ground, and Amy sighed.
 			"Jinx, this is Stunlocke. That's the last one." she reported.
 			"Nice work." Shannon smiled, her face appearing within Amy's visor. "How's that upgrade working for you?"
@@ -27278,7 +27280,7 @@ VOLUME - Age of Heroes
 
 		Drackhill Reels
 		______________________________
-		SCENE - 
+		SCENE
 			Connor woke from his healing coma, launching a globule of blood and bile from his face. He snapped up, and looked around frantically. Immediately, he spotted his friends, and relaxed.
 			"You're okay, you're okay." Chloe rushed over.
 			Trey came too. He had morphed a neck-brace, and was still in his costume - minus the mask. Sparky dragged himself over, his mouth still toothless and torn.
@@ -27396,7 +27398,7 @@ VOLUME - Age of Heroes
 
 		Karelia - Aftermath
 		______________________________
-		SCENE - 
+		SCENE
 			"What did you see?" asked Chloe.
 			"I'm not sure." Connor admitted. "There was a human - some aristo, by the looks of it - who the Judge *thought* was their messiah. They were an Esper - that's for sure."
 			"Who were they?" Trey tilted his head.
@@ -27436,7 +27438,7 @@ VOLUME - Age of Heroes
 
 		Leaving Karelia
 		______________________________
-		SCENE - 
+		SCENE
 			Amy's helm clicked open as she pulled it from her head. She shook her hair free.
 			"Damn..." Bea grinned. "You know, Stunlocke was always the cooler hero, in my humble opinion."
 			"I'll miss it." Amy sighed. "But hey, who needs a Pulsar when you can just punch someone through a wall."
@@ -27502,9 +27504,9 @@ VOLUME - Age of Heroes
 
 	The Last Judgement
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		SCENE - 
+		SCENE
 			"RAAAGH!" Connor roared, his fist crashing through the air and landing squarely in Trey's chest.
 			Trey let out a wheeze, before sending a stab to Connor's gut. He pulled back, but just barely, and the skin broke.
 			Trey grinned, and pressed his attack. He sent a spinning kick that smacked aside Connor's head, dazing him - before a backflip that kicked him upside the chin.
@@ -27565,31 +27567,31 @@ VOLUME - Age of Heroes
 
 		Training Day
 		______________________________
-		SCENE - 
+		SCENE
 
 
 		______________________________
-		SCENE - 
+		SCENE
 
 	Bird of Prey
 	______________________________
-	EPISODE - 
+	EPISODE
 
 
 	______________________________
-	EPISODE - 
+	EPISODE
 
 
 	______________________________
-	EPISODE - 
+	EPISODE
 
-
+Age of Heroes
 ______________________________
-VOLUME - Lore Codex
+VOLUME 0 - CODEX
 	______________________________
-	EPISODE - 
+	EPISODE
 		______________________________
-		FOREWORD
+		SCENE
 			The following series contains strong language right from the fucking start.
 			This is a work of fiction, set in an alternate-history world. A narrative timeline of events, and in-universe fiction primers, can be found in this chapter. A quick summary of the setting can be found at the end of this chapter - feel free to skip ahead if you just want the basics.
 			References to historical figures, organisations, institutions, or events, should be understood in this context.
@@ -27617,7 +27619,7 @@ VOLUME - Lore Codex
 
 		Foreword
 		______________________________
-		PROLOGUE
+		SCENE
 			It is autumn, 2015. The world stands on the brink - undone by events decades in the making.
 
 			In 1908, President Theodore Roosevelt made the monumental decision to seek a third term. He won that election in a landslide - his Second Square Deal reforms streamlined the American government, empowering the executive. Satisfied, he stood down at the 1912 election, and Woodrow Wilson took the reins of power.
@@ -27653,7 +27655,7 @@ VOLUME - Lore Codex
 
 		Roosevelt to Roosevelt
 		______________________________
-		PROLOGUE
+		SCENE
 			But while the USA saw exposure of fascist plots, and the USSR saw a new age of democratic socialism, the European Continent went rabid.
 			In Italy, the home of the word 'Empire,' Benito Mussolini's Blackshirts marched on Rome, forging a fascist model others were eager to follow. Their brutal conquest of Ethiopia, their genocidal actions in Libya, their annexation of Albania, and their puppeteering of Greece, made them seem like the kings of the New Order in Europe.
 			That is, until another king entered the castle. In Germany, the Nazi Party rose to power on a tide of resentment, its growth fueled by a brutal campaign of street violence and a new, escalating terror campaign by the radicalized KPD. 
@@ -27709,7 +27711,7 @@ VOLUME - Lore Codex
 
 		The Second World War
 		______________________________
-		PROLOGUE
+		SCENE
 			Backed by the resentful oligarchy, America began its divine mission: to contain a socialist bloc that stretched from Madrid to Seoul.
 			Europe fractured: France, Iberia, and much of the East aligned with Moscow, while Britain built a rival coalition of anti-communist states in northern Europe - the European "Democratic" Union.
 

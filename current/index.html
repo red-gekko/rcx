@@ -453,44 +453,41 @@
 
             /**
              * Extracts just the name part from a tag line
-             * e.g., "EPISODE - Inferno" → "Inferno"
-             * e.g., "SCENE - Need to Know" → "Need to Know"
              */
             function extractName(tagLine) {
-                // Remove the tag prefix (EPISODE, SCENE, VOLUME) and any separators
                 let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]?\s*/, '');
                 name = name.trim();
-                
-                // If the name is empty or just the tag itself, return null
                 if (!name || name === tagLine.trim()) {
                     return null;
                 }
-                
                 return name;
             }
 
             /**
-             * Removes the last two non-empty lines from scene content
-             * (the trailing scene name and the empty line that follows it)
+             * Removes trailing scene names from content.
+             * Checks if the last non-empty line looks like a scene name and removes it.
              */
             function removeTrailingSceneName(content) {
                 if (!content) return '';
                 
                 const lines = content.split('\n');
                 
-                // First, remove all trailing empty lines
+                // Remove trailing empty lines
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
                 
-                // Now remove the last non-empty line (the scene name)
+                // If we have at least one line, check if the last one looks like a scene name
                 if (lines.length > 0) {
-                    lines.pop();
-                }
-                
-                // Remove any remaining empty lines at the end
-                while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
-                    lines.pop();
+                    const lastLine = lines[lines.length - 1].trim();
+                    // If it looks like a scene name, remove it
+                    if (isSceneNameLine(lastLine)) {
+                        lines.pop();
+                        // Remove any new trailing empty lines
+                        while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                            lines.pop();
+                        }
+                    }
                 }
                 
                 return lines.join('\n');
@@ -540,10 +537,10 @@
                 let episodeCount = 0;
                 let sceneCount = 0;
 
-                // Helper to save the current scene
                 function saveScene() {
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
+                        // Remove any trailing scene name
                         content = removeTrailingSceneName(content);
                         currentEpisode.scenes.push({
                             id: `scene-${Date.now()}-${Math.random()}`,
@@ -556,11 +553,8 @@
                     }
                 }
 
-                // Helper to save the current episode
                 function saveEpisode() {
-                    // First, make sure any open scene is saved
                     saveScene();
-                    
                     if (currentEpisode && currentVolume) {
                         const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
                         if (!exists) {
@@ -575,19 +569,14 @@
                     const line = lines[i];
                     const trimmed = line.trim();
 
-                    // Skip empty lines
                     if (trimmed === '') continue;
 
-                    // Check for VOLUME
                     if (trimmed.startsWith('VOLUME')) {
                         logDebug(`Found VOLUME at line ${i+1}: "${trimmed}"`);
                         volumeCount++;
                         episodeCount = 0;
                         sceneCount = 0;
-                        
-                        // Save any open episode (which will also save any open scene)
                         saveEpisode();
-                        
                         const volumeName = extractName(trimmed) || `Volume ${volumeCount}`;
                         currentVolume = {
                             name: volumeName,
@@ -598,15 +587,11 @@
                         continue;
                     }
 
-                    // Check for EPISODE
                     if (trimmed.startsWith('EPISODE')) {
                         logDebug(`Found EPISODE at line ${i+1}: "${trimmed}"`);
                         episodeCount++;
                         sceneCount = 0;
-                        
-                        // Save any open episode (which will also save any open scene)
                         saveEpisode();
-                        
                         if (!currentVolume) {
                             currentVolume = {
                                 name: 'Volume 1',
@@ -614,11 +599,7 @@
                             };
                             volumes.push(currentVolume);
                         }
-                        
-                        // Get episode name - extract just the name part
                         let episodeName = extractName(trimmed);
-                        
-                        // If no name on the line, check the next line
                         if (!episodeName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
                             if (nextLine && 
@@ -632,12 +613,9 @@
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
                             }
                         }
-                        
-                        // If still no name, use a generic one
                         if (!episodeName) {
                             episodeName = `Episode ${episodeCount}`;
                         }
-                        
                         currentEpisode = {
                             id: `episode-${Date.now()}-${Math.random()}`,
                             name: episodeName,
@@ -647,14 +625,10 @@
                         continue;
                     }
 
-                    // Check for SCENE
                     if (trimmed.startsWith('SCENE')) {
                         logDebug(`Found SCENE at line ${i+1}: "${trimmed}"`);
                         sceneCount++;
-                        
-                        // Save any open scene
                         saveScene();
-                        
                         if (!currentEpisode) {
                             if (!currentVolume) {
                                 currentVolume = {
@@ -668,38 +642,27 @@
                                 name: `Episode ${currentVolume.episodes.length + 1}`,
                                 scenes: []
                             };
-                            // Don't push to volume yet - it will be saved when the episode ends
                             logDebug('Created default episode');
                         }
-                        
-                        // Get scene name - extract just the name part
                         let sceneName = extractName(trimmed);
-                        
-                        // If no name on the line, check the next line
                         if (!sceneName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1];
                             const nextTrimmed = nextLine.trim();
-                            
-                            // Check if the next line looks like a name
                             const looksLikeName = nextTrimmed && 
                                 !nextTrimmed.startsWith('SCENE') && 
                                 !nextTrimmed.startsWith('EPISODE') && 
                                 !nextTrimmed.startsWith('VOLUME') &&
                                 nextTrimmed !== '______________________________' &&
                                 isSceneNameLine(nextTrimmed);
-                            
                             if (looksLikeName) {
                                 sceneName = nextTrimmed;
-                                i++; // Skip the name line
+                                i++;
                                 logDebug(`  Using next line as scene name: "${sceneName}"`);
                             }
                         }
-                        
-                        // If still no name, use a generic one
                         if (!sceneName) {
                             sceneName = `Scene ${sceneCount}`;
                         }
-                        
                         currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
@@ -707,9 +670,7 @@
                         continue;
                     }
 
-                    // If we're inside a scene, collect content
                     if (inScene && currentScene) {
-                        // Skip divider lines and tags
                         if (trimmed !== '______________________________' && 
                             !trimmed.startsWith('SCENE') && 
                             !trimmed.startsWith('EPISODE') && 
@@ -719,11 +680,10 @@
                     }
                 }
 
-                // Final cleanup - save any remaining scene AND episode
+                // Final cleanup
                 logDebug('=== Final cleanup ===');
-                saveEpisode(); // This calls saveScene() first
+                saveEpisode();
 
-                // Log summary
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {
@@ -854,7 +814,6 @@
                 setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
             }
 
-            // Event handlers
             volumeSelect.addEventListener('change', function() {
                 const val = this.value;
                 logDebug(`=== Volume changed to: "${val}" ===`);

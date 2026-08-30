@@ -604,6 +604,7 @@
                         sceneCount = 0;
                         saveEpisode();
                         const volumeName = extractName(trimmed) || `Volume ${volumeCount}`;
+                        // Store the raw name for display with number later
                         currentVolume = {
                             name: volumeName,
                             episodes: []
@@ -773,9 +774,13 @@
                     return;
                 }
 
-                const volumeNames = storyData.volumes.map(v => v.name);
-                logDebug(`Updating volume dropdown with: ${volumeNames.join(', ')}`);
-                populateSelect(volumeSelect, volumeNames, '— Select Volume —');
+                // Build volume labels with numbers
+                const volumeLabels = storyData.volumes.map((v, index) => ({
+                    id: v.name,
+                    label: `${index + 1} - ${v.name}`
+                }));
+                logDebug(`Updating volume dropdown with: ${volumeLabels.map(v => v.label).join(', ')}`);
+                populateSelect(volumeSelect, volumeLabels, '— Select Volume —');
                 volumeSelect.disabled = false;
 
                 populateSelect(episodeSelect, [], '— Select Episode —');
@@ -803,12 +808,13 @@
                     return;
                 }
 
-                const episodeItems = volume.episodes.map(e => ({
+                // Build episode labels with numbers
+                const episodeLabels = volume.episodes.map((e, index) => ({
                     id: e.id,
-                    label: e.name
+                    label: `${index + 1} - ${e.name}`
                 }));
-                logDebug(`Found ${episodeItems.length} episodes for volume "${selectedVolume}"`);
-                populateSelect(episodeSelect, episodeItems, '— Select Episode —');
+                logDebug(`Found ${episodeLabels.length} episodes for volume "${selectedVolume}"`);
+                populateSelect(episodeSelect, episodeLabels, '— Select Episode —');
                 populateSelect(sceneSelect, [], '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
             }
@@ -838,6 +844,7 @@
                     return;
                 }
 
+                // Build scene labels (no numbering needed, they already have numbers)
                 const sceneItems = episode.scenes.map(s => ({
                     id: s.id,
                     label: s.name

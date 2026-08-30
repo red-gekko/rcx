@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bloodhound - Interactive Reader</title>
     <style>
-        /* --- Reset & Base Styles --- */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -19,19 +18,16 @@
             color: #2c2c2c;
             padding: 20px;
             min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
         }
 
         .container {
-            max-width: 900px;
+            max-width: 1000px;
             width: 100%;
+            margin: 0 auto;
             background-color: #ffffff;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
             border-radius: 12px;
             padding: 30px 40px;
-            margin: 20px auto;
         }
 
         h1 {
@@ -46,25 +42,23 @@
             font-family: 'Helvetica', 'Arial', sans-serif;
         }
 
-        /* --- Navigation --- */
-        .nav-controls {
+        /* Navigation */
+        .nav-container {
             display: flex;
             flex-wrap: wrap;
             gap: 15px;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
             padding: 15px 0;
             border-bottom: 1px solid #eae5df;
-            justify-content: center;
         }
 
         .nav-group {
-            display: flex;
-            flex-direction: column;
             flex: 1;
-            min-width: 150px;
+            min-width: 180px;
         }
 
         .nav-group label {
+            display: block;
             font-size: 0.75rem;
             text-transform: uppercase;
             letter-spacing: 1.5px;
@@ -75,6 +69,7 @@
         }
 
         .nav-group select {
+            width: 100%;
             padding: 10px 12px;
             font-size: 1rem;
             font-family: 'Helvetica', 'Arial', sans-serif;
@@ -83,13 +78,7 @@
             border-radius: 8px;
             color: #2c2c2c;
             cursor: pointer;
-            transition: border-color 0.2s, box-shadow 0.2s;
-            appearance: none;
-            -webkit-appearance: none;
-            background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="%237a6e62" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>');
-            background-repeat: no-repeat;
-            background-position: right 12px center;
-            background-size: 16px;
+            transition: border-color 0.2s;
         }
 
         .nav-group select:hover {
@@ -108,9 +97,10 @@
             background-color: #f4f2ef;
         }
 
-        /* --- Content Area --- */
+        /* Content */
         .content-area {
-            padding: 5px 0 10px 0;
+            padding: 10px 0;
+            min-height: 300px;
         }
 
         .scene-title {
@@ -121,32 +111,26 @@
             border-left: 6px solid #c4b5a5;
             padding-left: 18px;
             font-family: 'Helvetica', 'Arial', sans-serif;
-            line-height: 1.3;
         }
 
         .scene-content {
             font-size: 1.1rem;
             white-space: pre-wrap;
             word-wrap: break-word;
+            max-height: 70vh;
             overflow-y: auto;
-            max-height: 75vh;
             padding-right: 10px;
-            color: #2c2c2c;
         }
 
-        .scene-content p {
-            margin-bottom: 1.2rem;
-        }
-
-        .loading-message {
+        .message {
             font-size: 1.1rem;
             color: #7a6e62;
             font-style: italic;
-            padding: 30px 0;
+            padding: 40px 0;
             text-align: center;
         }
 
-        .error-message {
+        .error {
             color: #b14f4f;
             padding: 20px;
             background-color: #fce9e9;
@@ -154,7 +138,7 @@
             border-left: 5px solid #b14f4f;
         }
 
-        .status-message {
+        .status {
             font-family: 'Helvetica', 'Arial', sans-serif;
             font-size: 0.85rem;
             color: #7a6e62;
@@ -164,33 +148,26 @@
             border-top: 1px solid #eae5df;
         }
 
-        /* --- Responsive Design --- */
+        /* Responsive */
         @media (max-width: 700px) {
             .container {
                 padding: 20px;
             }
-
             h1 {
                 font-size: 1.8rem;
             }
-
-            .nav-controls {
+            .nav-container {
                 flex-direction: column;
-                gap: 10px;
             }
-
             .nav-group {
                 min-width: 100%;
             }
-
             .scene-title {
                 font-size: 1.4rem;
-                padding-left: 12px;
             }
-
             .scene-content {
                 font-size: 1rem;
-                max-height: 70vh;
+                max-height: 60vh;
             }
         }
     </style>
@@ -199,12 +176,11 @@
     <div class="container">
         <h1>Bloodhound — Anthology</h1>
 
-        <!-- Navigation Dropdowns -->
-        <div class="nav-controls">
+        <div class="nav-container">
             <div class="nav-group">
                 <label for="volume-select">Volume</label>
-                <select id="volume-select" disabled>
-                    <option value="">— Select Volume —</option>
+                <select id="volume-select">
+                    <option value="">— Loading —</option>
                 </select>
             </div>
             <div class="nav-group">
@@ -221,52 +197,36 @@
             </div>
         </div>
 
-        <!-- Content Display -->
         <div class="content-area" id="content-area">
-            <div class="loading-message">Loading story content...</div>
+            <div class="message">Loading story content...</div>
         </div>
 
-        <div class="status-message" id="status-message">Loading the text file...</div>
+        <div class="status" id="status">Loading the text file...</div>
     </div>
 
     <script>
-        /**
-         * Bloodhound Interactive Reader - Fixed Version
-         * 
-         * This script fetches the raw .txt file, parses it into a structured
-         * format, and populates the dropdown menus and content area.
-         */
         (function() {
             'use strict';
 
-            // Configuration: The path to your text file.
-            const STORY_FILE_PATH = 'bloodhound story scenes-WIP.txt';
+            const STORY_FILE = 'bloodhound story scenes-WIP.txt';
 
-            // DOM Element references
             const volumeSelect = document.getElementById('volume-select');
             const episodeSelect = document.getElementById('episode-select');
             const sceneSelect = document.getElementById('scene-select');
             const contentArea = document.getElementById('content-area');
-            const statusMessage = document.getElementById('status-message');
+            const statusEl = document.getElementById('status');
 
-            // Data storage
             let storyData = null;
-            let allVolumes = [];
+            let currentSelection = { volume: '', episode: '', scene: '' };
 
-            /**
-             * Sets the status message in the footer.
-             */
             function setStatus(msg, isError = false) {
-                statusMessage.textContent = msg;
-                statusMessage.style.color = isError ? '#b14f4f' : '#7a6e62';
+                statusEl.textContent = msg;
+                statusEl.style.color = isError ? '#b14f4f' : '#7a6e62';
             }
 
-            /**
-             * Displays content in the main area.
-             */
-            function displayContent(title, content) {
+            function showContent(title, content) {
                 if (!content) {
-                    contentArea.innerHTML = `<div class="loading-message">No content available for this selection.</div>`;
+                    contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
                     return;
                 }
                 const safeContent = content
@@ -279,121 +239,118 @@
                 `;
             }
 
-            /**
-             * Populates a select element with options.
-             * FIXED: Properly sets value and selected attributes.
-             */
-            function populateSelect(selectElement, items, defaultLabel = '— Select —') {
-                // Clear current options
-                selectElement.innerHTML = '';
+            function populateSelect(select, items, defaultLabel) {
+                const currentValue = select.value;
+                select.innerHTML = '';
                 
-                // Add default option
                 const defaultOption = document.createElement('option');
                 defaultOption.value = '';
-                defaultOption.textContent = defaultLabel;
+                defaultOption.textContent = defaultLabel || '— Select —';
                 defaultOption.disabled = true;
                 defaultOption.selected = true;
-                selectElement.appendChild(defaultOption);
+                select.appendChild(defaultOption);
 
                 if (!items || items.length === 0) {
-                    selectElement.disabled = true;
+                    select.disabled = true;
                     return;
                 }
 
-                selectElement.disabled = false;
-                
+                select.disabled = false;
                 items.forEach(item => {
                     const option = document.createElement('option');
-                    if (typeof item === 'object' && item !== null && 'label' in item && 'value' in item) {
-                        option.value = item.value;
-                        option.textContent = item.label;
-                    } else {
-                        option.value = item;
-                        option.textContent = item;
-                    }
-                    selectElement.appendChild(option);
+                    option.value = item;
+                    option.textContent = item;
+                    select.appendChild(option);
                 });
 
-                // Reset selection to the default option
-                selectElement.selectedIndex = 0;
+                // Try to restore previous selection
+                if (currentValue && items.includes(currentValue)) {
+                    select.value = currentValue;
+                } else {
+                    select.selectedIndex = 0;
+                }
             }
 
-            /**
-             * FIXED: Parses the raw text from the story file more robustly.
-             */
             function parseStory(text) {
                 const lines = text.split(/\r?\n/);
                 const volumes = [];
                 let currentVolume = null;
                 let currentEpisode = null;
                 let currentScene = null;
-                let isCollectingScene = false;
-
-                function finalizeScene() {
-                    if (currentScene && currentEpisode) {
-                        currentScene.content = currentScene.content.trimEnd();
-                        currentEpisode.scenes.push({
-                            name: currentScene.name,
-                            content: currentScene.content
-                        });
-                        currentScene = null;
-                        isCollectingScene = false;
-                    }
-                }
-
-                function finalizeEpisode() {
-                    if (currentEpisode && currentVolume) {
-                        if (currentEpisode.scenes.length > 0) {
-                            currentVolume.episodes.push({
-                                name: currentEpisode.name,
-                                scenes: currentEpisode.scenes
-                            });
-                        }
-                        currentEpisode = null;
-                    }
-                }
+                let collecting = false;
 
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
-                    const trimmedLine = line.trim();
+                    const trimmed = line.trim();
 
-                    // Detect VOLUME header
-                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
-                        const nextLine = lines[i + 1].trim();
-                        if (nextLine.startsWith('VOLUME')) {
-                            finalizeScene();
-                            finalizeEpisode();
-                            
-                            const volumeName = nextLine;
-                            i++;
+                    // Check for VOLUME
+                    if (trimmed === '______________________________' && i + 1 < lines.length) {
+                        const next = lines[i + 1].trim();
+                        if (next.startsWith('VOLUME')) {
+                            if (currentScene) {
+                                currentEpisode.scenes.push({
+                                    name: currentScene.name,
+                                    content: currentScene.content.trimEnd()
+                                });
+                                currentScene = null;
+                                collecting = false;
+                            }
+                            if (currentEpisode) {
+                                currentVolume.episodes.push(currentEpisode);
+                                currentEpisode = null;
+                            }
                             currentVolume = {
-                                name: volumeName,
+                                name: next,
                                 episodes: []
                             };
                             volumes.push(currentVolume);
-                            currentEpisode = null;
-                            currentScene = null;
-                            isCollectingScene = false;
+                            i++;
                             continue;
                         }
                     }
 
-                    // Detect EPISODE header
-                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
-                        const nextLine = lines[i + 1].trim();
-                        if (nextLine.startsWith('EPISODE')) {
-                            finalizeScene();
-                            finalizeEpisode();
-                            
-                            const episodeName = nextLine;
-                            i++;
-                            if (currentVolume) {
-                                currentEpisode = {
-                                    name: episodeName,
-                                    scenes: []
+                    // Check for EPISODE
+                    if (trimmed === '______________________________' && i + 1 < lines.length) {
+                        const next = lines[i + 1].trim();
+                        if (next.startsWith('EPISODE')) {
+                            if (currentScene) {
+                                currentEpisode.scenes.push({
+                                    name: currentScene.name,
+                                    content: currentScene.content.trimEnd()
+                                });
+                                currentScene = null;
+                                collecting = false;
+                            }
+                            if (currentEpisode && currentVolume) {
+                                currentVolume.episodes.push(currentEpisode);
+                            }
+                            if (!currentVolume) {
+                                currentVolume = {
+                                    name: 'Unknown Volume',
+                                    episodes: []
                                 };
-                            } else {
-                                // Create default volume if needed
+                                volumes.push(currentVolume);
+                            }
+                            currentEpisode = {
+                                name: next,
+                                scenes: []
+                            };
+                            i++;
+                            continue;
+                        }
+                    }
+
+                    // Check for SCENE
+                    if (trimmed === '______________________________' && i + 1 < lines.length) {
+                        const next = lines[i + 1].trim();
+                        if (next.startsWith('SCENE')) {
+                            if (currentScene) {
+                                currentEpisode.scenes.push({
+                                    name: currentScene.name,
+                                    content: currentScene.content.trimEnd()
+                                });
+                            }
+                            if (!currentEpisode) {
                                 if (!currentVolume) {
                                     currentVolume = {
                                         name: 'Unknown Volume',
@@ -402,220 +359,211 @@
                                     volumes.push(currentVolume);
                                 }
                                 currentEpisode = {
-                                    name: episodeName,
+                                    name: 'Unknown Episode',
                                     scenes: []
                                 };
                             }
-                            currentScene = null;
-                            isCollectingScene = false;
-                            continue;
-                        }
-                    }
-
-                    // Detect SCENE header
-                    if (trimmedLine === '______________________________' && i + 1 < lines.length) {
-                        const nextLine = lines[i + 1].trim();
-                        if (nextLine.startsWith('SCENE')) {
-                            finalizeScene();
-                            
-                            const sceneName = nextLine;
+                            currentScene = {
+                                name: next,
+                                content: ''
+                            };
+                            collecting = true;
                             i++;
-                            if (currentEpisode) {
-                                currentScene = {
-                                    name: sceneName,
-                                    content: ''
-                                };
-                                isCollectingScene = true;
-                            } else {
-                                // Create default episode if needed
-                                if (!currentEpisode) {
-                                    if (!currentVolume) {
-                                        currentVolume = {
-                                            name: 'Unknown Volume',
-                                            episodes: []
-                                        };
-                                        volumes.push(currentVolume);
-                                    }
-                                    currentEpisode = {
-                                        name: 'Unknown Episode',
-                                        scenes: []
-                                    };
-                                    const exists = currentVolume.episodes.some(ep => ep.name === currentEpisode.name);
-                                    if (!exists) {
-                                        currentVolume.episodes.push(currentEpisode);
-                                    }
-                                }
-                                currentScene = {
-                                    name: sceneName,
-                                    content: ''
-                                };
-                                isCollectingScene = true;
-                            }
                             continue;
                         }
                     }
 
-                    // If we're inside a scene, collect the content
-                    if (isCollectingScene && currentScene) {
+                    // Collect scene content
+                    if (collecting && currentScene) {
                         currentScene.content += line + '\n';
                     }
                 }
 
-                // Finalize any remaining structures
-                finalizeScene();
-                finalizeEpisode();
+                // Final cleanup
+                if (currentScene) {
+                    currentEpisode.scenes.push({
+                        name: currentScene.name,
+                        content: currentScene.content.trimEnd()
+                    });
+                }
+                if (currentEpisode && currentVolume) {
+                    currentVolume.episodes.push(currentEpisode);
+                }
 
                 return { volumes };
             }
 
-            /**
-             * FIXED: Handles selection changes more reliably.
-             */
-            function handleSelection() {
+            function updateNavigation() {
+                if (!storyData || !storyData.volumes.length) return;
+
+                const volumeNames = storyData.volumes.map(v => v.name);
+                populateSelect(volumeSelect, volumeNames, '— Select Volume —');
+
+                // If we have a saved selection, try to restore it
+                if (currentSelection.volume) {
+                    const volExists = storyData.volumes.some(v => v.name === currentSelection.volume);
+                    if (volExists) {
+                        volumeSelect.value = currentSelection.volume;
+                    }
+                }
+
+                // Trigger initial update
+                updateEpisodes();
+            }
+
+            function updateEpisodes() {
+                const selectedVolume = volumeSelect.value;
+                if (!selectedVolume || !storyData) {
+                    populateSelect(episodeSelect, [], '— Select Episode —');
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
+                    return;
+                }
+
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) {
+                    populateSelect(episodeSelect, [], '— Select Episode —');
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const episodeNames = volume.episodes.map(e => e.name);
+                populateSelect(episodeSelect, episodeNames, '— Select Episode —');
+
+                // Restore saved episode selection if possible
+                if (currentSelection.episode && episodeNames.includes(currentSelection.episode)) {
+                    episodeSelect.value = currentSelection.episode;
+                }
+
+                updateScenes();
+            }
+
+            function updateScenes() {
+                const selectedVolume = volumeSelect.value;
+                const selectedEpisode = episodeSelect.value;
+
+                if (!selectedVolume || !selectedEpisode || !storyData) {
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
+                    return;
+                }
+
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) {
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const episode = volume.episodes.find(e => e.name === selectedEpisode);
+                if (!episode) {
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const sceneNames = episode.scenes.map(s => s.name);
+                populateSelect(sceneSelect, sceneNames, '— Select Scene —');
+
+                // Restore saved scene selection if possible
+                if (currentSelection.scene && sceneNames.includes(currentSelection.scene)) {
+                    sceneSelect.value = currentSelection.scene;
+                }
+
+                // If we have a scene selected, display it
+                if (sceneSelect.value) {
+                    displaySelectedScene();
+                } else {
+                    contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
+                }
+            }
+
+            function displaySelectedScene() {
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisode = episodeSelect.value;
                 const selectedScene = sceneSelect.value;
 
-                console.log('Selection changed:', { selectedVolume, selectedEpisode, selectedScene });
-
-                // If no volume is selected, reset everything
-                if (!selectedVolume) {
-                    populateSelect(episodeSelect, [], '— Select Episode —');
-                    populateSelect(sceneSelect, [], '— Select Scene —');
-                    contentArea.innerHTML = `<div class="loading-message">Select a volume to begin reading.</div>`;
+                if (!selectedVolume || !selectedEpisode || !selectedScene || !storyData) {
                     return;
                 }
 
-                // Find the volume object
-                const volumeObj = storyData.volumes.find(v => v.name === selectedVolume);
-                if (!volumeObj) {
-                    setStatus('Error: Volume not found.', true);
-                    return;
-                }
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) return;
 
-                // Update the episode dropdown
-                const episodeNames = volumeObj.episodes.map(ep => ep.name);
-                populateSelect(episodeSelect, episodeNames, '— Select Episode —');
+                const episode = volume.episodes.find(e => e.name === selectedEpisode);
+                if (!episode) return;
 
-                // If no episode is selected, clear scene dropdown
-                if (!selectedEpisode) {
-                    populateSelect(sceneSelect, [], '— Select Scene —');
-                    contentArea.innerHTML = `<div class="loading-message">Select an episode to view its scenes.</div>`;
-                    return;
-                }
+                const scene = episode.scenes.find(s => s.name === selectedScene);
+                if (!scene) return;
 
-                // Find the episode object
-                const episodeObj = volumeObj.episodes.find(ep => ep.name === selectedEpisode);
-                if (!episodeObj) {
-                    setStatus('Error: Episode not found.', true);
-                    return;
-                }
+                // Save current selection
+                currentSelection = {
+                    volume: selectedVolume,
+                    episode: selectedEpisode,
+                    scene: selectedScene
+                };
 
-                // Update the scene dropdown
-                const sceneNames = episodeObj.scenes.map(sc => sc.name);
-                populateSelect(sceneSelect, sceneNames, '— Select Scene —');
-
-                // If no scene is selected, show a message
-                if (!selectedScene) {
-                    contentArea.innerHTML = `<div class="loading-message">Select a scene to read.</div>`;
-                    return;
-                }
-
-                // Find the scene object
-                const sceneObj = episodeObj.scenes.find(sc => sc.name === selectedScene);
-                if (!sceneObj) {
-                    setStatus('Error: Scene not found.', true);
-                    return;
-                }
-
-                // Display the scene content
-                displayContent(sceneObj.name, sceneObj.content);
-                setStatus(`Reading: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`, false);
+                showContent(scene.name, scene.content);
+                setStatus(`Reading: ${selectedVolume} → ${selectedEpisode} → ${selectedScene}`);
             }
 
-            /**
-             * Loads and parses the story file.
-             */
+            // Event handlers - simplified and direct
+            volumeSelect.addEventListener('change', function() {
+                currentSelection.episode = '';
+                currentSelection.scene = '';
+                episodeSelect.selectedIndex = 0;
+                sceneSelect.selectedIndex = 0;
+                updateEpisodes();
+            });
+
+            episodeSelect.addEventListener('change', function() {
+                currentSelection.scene = '';
+                sceneSelect.selectedIndex = 0;
+                updateScenes();
+            });
+
+            sceneSelect.addEventListener('change', function() {
+                displaySelectedScene();
+            });
+
+            // Load the story
             function loadStory() {
-                setStatus('Loading story file...', false);
-                fetch(STORY_FILE_PATH)
+                setStatus('Loading story file...');
+                fetch(STORY_FILE)
                     .then(response => {
                         if (!response.ok) {
-                            throw new Error(`HTTP error! status: ${response.status} - Could not fetch the file. Ensure '${STORY_FILE_PATH}' exists in the same folder.`);
+                            throw new Error(`HTTP ${response.status}: Could not fetch '${STORY_FILE}'`);
                         }
                         return response.text();
                     })
                     .then(text => {
                         const parsed = parseStory(text);
                         storyData = parsed;
-                        allVolumes = parsed.volumes;
-
-                        if (!allVolumes || allVolumes.length === 0) {
-                            throw new Error('No volumes found in the text file. Please check the formatting.');
+                        
+                        if (!storyData.volumes || storyData.volumes.length === 0) {
+                            throw new Error('No volumes found in the file. Check formatting.');
                         }
 
-                        // Populate the volume dropdown
-                        const volumeNames = allVolumes.map(v => v.name);
-                        populateSelect(volumeSelect, volumeNames, '— Select Volume —');
-
-                        // Reset the other dropdowns
-                        populateSelect(episodeSelect, [], '— Select Episode —');
-                        populateSelect(sceneSelect, [], '— Select Scene —');
-
-                        // Show a welcome message
-                        contentArea.innerHTML = `<div class="loading-message">Select a volume to begin reading.</div>`;
-                        setStatus(`Loaded ${allVolumes.length} volume(s).`, false);
-
-                        // Enable the volume select
-                        volumeSelect.disabled = false;
-
-                        // Log parsed structure for debugging
-                        console.log('Parsed story data:', storyData);
+                        updateNavigation();
+                        setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
                     })
                     .catch(error => {
-                        console.error('Failed to load or parse story:', error);
+                        console.error('Error:', error);
                         contentArea.innerHTML = `
-                            <div class="error-message">
+                            <div class="error">
                                 <strong>Error loading story:</strong><br>
                                 ${error.message}<br><br>
-                                <strong>Make sure:</strong><br>
-                                1. The file <code>${STORY_FILE_PATH}</code> is in the same folder as this HTML file.<br>
-                                2. The file is named exactly <code>${STORY_FILE_PATH}</code>.<br>
-                                3. The file format matches the expected structure (VOLUME, EPISODE, SCENE).
+                                <strong>Check:</strong><br>
+                                1. The file <code>${STORY_FILE}</code> is in the same folder.<br>
+                                2. The filename matches exactly (case-sensitive).<br>
+                                3. The file has the correct format (VOLUME, EPISODE, SCENE).
                             </div>
                         `;
-                        setStatus('Error loading story file.', true);
-                        [volumeSelect, episodeSelect, sceneSelect].forEach(sel => sel.disabled = true);
+                        setStatus('Error loading story.', true);
                     });
             }
 
-            // --- Event Listeners ---
-            // FIXED: Using 'change' event with proper handling
-            volumeSelect.addEventListener('change', function(e) {
-                console.log('Volume changed to:', this.value);
-                // When volume changes, reset episode and scene selections
-                episodeSelect.selectedIndex = 0;
-                sceneSelect.selectedIndex = 0;
-                handleSelection();
-            });
-
-            episodeSelect.addEventListener('change', function(e) {
-                console.log('Episode changed to:', this.value);
-                // When episode changes, reset scene selection
-                sceneSelect.selectedIndex = 0;
-                handleSelection();
-            });
-
-            sceneSelect.addEventListener('change', function(e) {
-                console.log('Scene changed to:', this.value);
-                handleSelection();
-            });
-
-            // --- Initialize ---
             loadStory();
 
         })();
     </script>
-
 </body>
 </html>

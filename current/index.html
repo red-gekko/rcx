@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bloodhound - Interactive Reader</title>
+    <title>Bloodhound — Interactive Reader</title>
     <style>
         * {
             box-sizing: border-box;
@@ -12,182 +12,330 @@
         }
 
         body {
-            font-family: 'Georgia', 'Times New Roman', serif;
-            line-height: 1.7;
-            background-color: #f8f5f0;
-            color: #2c2c2c;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.8;
+            background-color: #0d1117;
+            color: #e6edf3;
             padding: 20px;
             min-height: 100vh;
         }
 
         .container {
-            max-width: 1000px;
+            max-width: 900px;
             width: 100%;
             margin: 0 auto;
-            background-color: #ffffff;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
-            border-radius: 12px;
-            padding: 30px 40px;
+            background-color: #161b22;
+            border-radius: 16px;
+            padding: 35px 45px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            border: 1px solid #30363d;
         }
 
         h1 {
-            font-size: 2.2rem;
-            font-weight: 400;
-            letter-spacing: 1px;
-            color: #1a1a1a;
-            border-bottom: 2px solid #e0d6cc;
-            padding-bottom: 12px;
-            margin-bottom: 25px;
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            color: #f0f6fc;
+            border-bottom: 2px solid #30363d;
+            padding-bottom: 16px;
+            margin-bottom: 28px;
             text-align: center;
-            font-family: 'Helvetica', 'Arial', sans-serif;
+        }
+
+        h1 span {
+            background: linear-gradient(135deg, #f0883e, #f6a85b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
         }
 
         .nav-container {
             display: flex;
             flex-wrap: wrap;
-            gap: 15px;
-            margin-bottom: 25px;
-            padding: 15px 0;
-            border-bottom: 1px solid #eae5df;
+            gap: 14px;
+            margin-bottom: 30px;
+            padding: 16px 0;
+            border-bottom: 1px solid #30363d;
         }
 
         .nav-group {
             flex: 1;
-            min-width: 180px;
+            min-width: 160px;
         }
 
         .nav-group label {
             display: block;
-            font-size: 0.75rem;
+            font-size: 0.7rem;
             text-transform: uppercase;
-            letter-spacing: 1.5px;
+            letter-spacing: 1.2px;
             font-weight: 600;
-            color: #7a6e62;
-            margin-bottom: 4px;
-            font-family: 'Helvetica', 'Arial', sans-serif;
+            color: #8b949e;
+            margin-bottom: 5px;
         }
 
         .nav-group select {
             width: 100%;
-            padding: 10px 12px;
-            font-size: 1rem;
-            font-family: 'Helvetica', 'Arial', sans-serif;
-            background-color: #ffffff;
-            border: 1px solid #d0c8c0;
-            border-radius: 8px;
-            color: #2c2c2c;
+            padding: 10px 14px;
+            font-size: 0.95rem;
+            font-family: inherit;
+            background-color: #0d1117;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 10px;
             cursor: pointer;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            appearance: none;
+            -webkit-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b949e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 14px center;
+            background-size: 12px;
         }
 
         .nav-group select:hover {
-            border-color: #a69482;
+            border-color: #58a6ff;
         }
 
         .nav-group select:focus {
             outline: none;
-            border-color: #8c7a66;
-            box-shadow: 0 0 0 3px rgba(140, 122, 102, 0.15);
+            border-color: #58a6ff;
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.15);
         }
 
         .nav-group select:disabled {
-            opacity: 0.6;
+            opacity: 0.5;
             cursor: not-allowed;
-            background-color: #f4f2ef;
+            background-color: #0d1117;
+        }
+
+        /* Custom scrollbar */
+        .nav-group select::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .nav-group select::-webkit-scrollbar-track {
+            background: #0d1117;
+            border-radius: 4px;
+        }
+
+        .nav-group select::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        .nav-group select::-webkit-scrollbar-thumb:hover {
+            background: #484f58;
         }
 
         .content-area {
-            padding: 10px 0;
-            min-height: 300px;
+            padding: 8px 0 4px 0;
+            min-height: 320px;
         }
 
         .scene-title {
-            font-size: 1.8rem;
-            font-weight: 400;
-            margin-bottom: 20px;
-            color: #3d352c;
-            border-left: 6px solid #c4b5a5;
+            font-size: 1.6rem;
+            font-weight: 500;
+            margin-bottom: 18px;
+            color: #f0f6fc;
+            border-left: 4px solid #f0883e;
             padding-left: 18px;
-            font-family: 'Helvetica', 'Arial', sans-serif;
+            letter-spacing: -0.3px;
         }
 
         .scene-content {
-            font-size: 1.1rem;
+            font-size: 1.05rem;
             white-space: pre-wrap;
             word-wrap: break-word;
             max-height: 70vh;
             overflow-y: auto;
-            padding-right: 10px;
+            padding-right: 8px;
+            color: #d1d9e0;
+            line-height: 1.9;
+        }
+
+        .scene-content::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .scene-content::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .scene-content::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        .scene-content::-webkit-scrollbar-thumb:hover {
+            background: #484f58;
         }
 
         .message {
-            font-size: 1.1rem;
-            color: #7a6e62;
+            font-size: 1.05rem;
+            color: #8b949e;
             font-style: italic;
-            padding: 40px 0;
+            padding: 50px 0;
             text-align: center;
         }
 
         .error {
-            color: #b14f4f;
+            color: #f85149;
             padding: 20px;
-            background-color: #fce9e9;
-            border-radius: 8px;
-            border-left: 5px solid #b14f4f;
+            background-color: rgba(248, 81, 73, 0.08);
+            border-radius: 10px;
+            border-left: 4px solid #f85149;
+        }
+
+        .error code {
+            background-color: rgba(248, 81, 73, 0.12);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.9rem;
         }
 
         .status {
-            font-family: 'Helvetica', 'Arial', sans-serif;
-            font-size: 0.85rem;
-            color: #7a6e62;
+            font-size: 0.8rem;
+            color: #8b949e;
             text-align: center;
-            margin-top: 20px;
-            padding-top: 15px;
-            border-top: 1px solid #eae5df;
+            margin-top: 22px;
+            padding-top: 16px;
+            border-top: 1px solid #30363d;
+            font-family: inherit;
+        }
+
+        .status.error {
+            color: #f85149;
+        }
+
+        /* Debug toggle button */
+        .debug-toggle {
+            margin-top: 16px;
+            padding: 8px 18px;
+            cursor: pointer;
+            background-color: #21262d;
+            color: #8b949e;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+
+        .debug-toggle:hover {
+            background-color: #30363d;
+            color: #e6edf3;
+            border-color: #484f58;
         }
 
         .debug-info {
-            margin-top: 20px;
-            padding: 15px;
-            background-color: #f5f5f5;
-            border-radius: 8px;
-            font-family: 'Courier New', monospace;
-            font-size: 0.85rem;
-            max-height: 300px;
+            margin-top: 16px;
+            padding: 16px 18px;
+            background-color: #0d1117;
+            border-radius: 10px;
+            border: 1px solid #30363d;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.78rem;
+            max-height: 320px;
             overflow-y: auto;
             display: none;
             white-space: pre-wrap;
+            color: #8b949e;
+            line-height: 1.6;
         }
 
         .debug-info.visible {
             display: block;
         }
 
+        .debug-info::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .debug-info::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .debug-info::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        /* Responsive */
         @media (max-width: 700px) {
             .container {
                 padding: 20px;
+                border-radius: 12px;
             }
+
             h1 {
-                font-size: 1.8rem;
+                font-size: 1.6rem;
             }
+
             .nav-container {
                 flex-direction: column;
+                gap: 10px;
             }
+
             .nav-group {
                 min-width: 100%;
             }
+
             .scene-title {
-                font-size: 1.4rem;
+                font-size: 1.3rem;
+                padding-left: 14px;
             }
+
             .scene-content {
-                font-size: 1rem;
+                font-size: 0.95rem;
                 max-height: 60vh;
             }
+
+            .nav-group select {
+                font-size: 0.9rem;
+                padding: 9px 12px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 16px;
+            }
+
+            h1 {
+                font-size: 1.3rem;
+            }
+
+            .scene-title {
+                font-size: 1.1rem;
+            }
+
+            .scene-content {
+                font-size: 0.88rem;
+            }
+        }
+
+        /* Loading animation */
+        .loading-dots::after {
+            content: '';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0% { content: ''; }
+            25% { content: '.'; }
+            50% { content: '..'; }
+            75% { content: '...'; }
+            100% { content: ''; }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Bloodhound — Anthology</h1>
+        <h1>📖 <span>Bloodhound</span></h1>
 
         <div class="nav-container">
             <div class="nav-group">
@@ -211,12 +359,12 @@
         </div>
 
         <div class="content-area" id="content-area">
-            <div class="message">Loading story content...</div>
+            <div class="message">Loading story content<span class="loading-dots"></span></div>
         </div>
 
         <div class="status" id="status">Loading the text file...</div>
         
-        <button id="debug-toggle" style="margin-top:15px;padding:8px 16px;cursor:pointer;background:#e0d6cc;border:none;border-radius:6px;font-family:inherit;">Show Debug Info</button>
+        <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
         <div class="debug-info" id="debug-info"></div>
     </div>
 
@@ -245,12 +393,12 @@
 
             debugToggle.addEventListener('click', function() {
                 debugInfo.classList.toggle('visible');
-                this.textContent = debugInfo.classList.contains('visible') ? 'Hide Debug Info' : 'Show Debug Info';
+                this.textContent = debugInfo.classList.contains('visible') ? '📋 Hide Debug Info' : '📋 Show Debug Info';
             });
 
             function setStatus(msg, isError = false) {
                 statusEl.textContent = msg;
-                statusEl.style.color = isError ? '#b14f4f' : '#7a6e62';
+                statusEl.className = 'status' + (isError ? ' error' : '');
             }
 
             function showContent(title, content) {

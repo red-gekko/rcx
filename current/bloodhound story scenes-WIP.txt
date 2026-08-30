@@ -2,7 +2,7 @@
 ______________________________
 VOLUME 1
 	______________________________
-	EPISODE
+	EPISODE - Beginnings
 		______________________________
 		SCENE
 			The morning sun dragged itself up from the horizon, shining softly over Geneva. Cold autumnal winds swept through the World City, scattering orange leaves like glitter on a child's drawing. Zeppelins floated through the skies, while jetplanes crisscrossed above them. Down below, the people moved like ants.
@@ -528,9 +528,9 @@ VOLUME 1
 
 		In The Pocket, In The Head
 
-	Beginnings
+	
 	______________________________
-	EPISODE
+	EPISODE - Reanimation
 		______________________________
 		SCENE
 			It was springtime, 2006. Connor was riding his little push-bike. His uncle Vince pushed him along, as a young Amy and a small Staffy pup stood to the sidelines.
@@ -1167,9 +1167,9 @@ VOLUME 1
 
 		Questions Without Answer
 
-	Reanimation
+	
 	______________________________
-	EPISODE
+	EPISODE - Oh, the Inhumanity
 		______________________________
 		SCENE
 			Dark clouds had covered the skies, now. The sun crawled beneath the horizon, as Connor went out for a jog. He'd been running for hours, pushing harder, faster, waiting for the burn to come. But it didn't. His hearts pounded - not from exhaustion, but from something deeper. Restlessness. Fear.
@@ -1661,9 +1661,9 @@ VOLUME 1
 
 		Nightclub attack
 
-	Oh, the Inhumanity
+	
 	______________________________
-	EPISODE
+	EPISODE - Breaking Point
 		______________________________
 		SCENE
 			The sky burned a brilliant orange as the sun crawled into the sea.
@@ -2356,9 +2356,9 @@ VOLUME 1
 
 		Confessions
 
-	Breaking Point
+	
 	______________________________
-	EPISODE
+	EPISODE - In Sheep's Clothing
 		______________________________
 		SCENE
 			If you asked someone to draw a kindly professor, they would draw Isaac Lowenthal.
@@ -2976,11 +2976,11 @@ VOLUME 1
 
 		Fenrir files
 
-	In Sheep's Clothing
+	
 	______________________________
-	EPISODE
+	EPISODE - Packmates
 		______________________________
-		FLASHBACK
+		SCENE
 			It was mid-2012. Chloe and Bea were at school, walking away from their last lesson of the day.
 			Chloe's hair was unkempt, hiding her face. Her cheek was unscarred.
 			As they walked, a group of girls walked past and laughed.
@@ -3519,9 +3519,9 @@ VOLUME 1
 
 		Burning building rescue
 
-	Packmates
+	
 	______________________________
-	EPISODE
+	EPISODE - Monsters
 		______________________________
 		SCENE
 			The morning sunlight peeked in through the curtains, shining down on the sleeping pair of mutants. Their flesh trembled and twisted in their sleep - as though their alien biology healed better this way. They were both half-smiling - clearly sharing a good dream.
@@ -4295,9 +4295,9 @@ VOLUME 1
 
 		To Spite Your Face
 
-	Monsters
+	
 	______________________________
-	EPISODE
+	EPISODE - Sandstorm
 		______________________________
 		SCENE
 			For the first time in weeks, Drackhill actually had a nice, sunny afternoon. Naturally, the UV-starved residents of the valley had flocked to Rexton Bay to get some much-needed vitamin D. The gang were no exception.
@@ -4872,9 +4872,9 @@ VOLUME 1
 
 		Algieria Aftermath
 
-	Sandstorm
+	
 	______________________________
-	EPISODE
+	EPISODE - He's a Devil, He's a Hero
 		______________________________
 		SCENE
 			As the morning sun rose over the valley, it gave only a sliver of light to the people below - for dark, rainy clouds had gathered, as if in jest.
@@ -5498,9 +5498,9 @@ VOLUME 1
 
 		Channel One News
 
-	He's a Devil, He's a Hero
+	
 	______________________________
-	EPISODE
+	EPISODE - Pigs to the Slaughter
 		______________________________
 		SCENE
 			"Boss. We've got a problem."
@@ -6074,9 +6074,9 @@ VOLUME 1
 
 		Halloween
 
-	Pigs to the Slaughter
+	
 	______________________________
-	EPISODE
+	EPISODE - Crusades, Unending
 		______________________________
 		SCENE
 			Autumnal evenings in Drackhill were often grim, and tonight's, it seemed, would be no different.
@@ -6836,9 +6836,9 @@ VOLUME 1
 
 		Fight outside the Horse
 
-	Crusades, Unending
+	
 	______________________________
-	EPISODE
+	EPISODE - Under the Dragon's Hill
 		______________________________
 		SCENE
 			It was the 5th of November, 2015, and the evening sun began to sink beneath the sea.
@@ -7551,9 +7551,9 @@ VOLUME 1
 
 		Above the Law
 
-	Under the Dragon's Hill
+	
 	______________________________
-	EPISODE
+	EPISODE - Failure
 		______________________________
 		SCENE
 
@@ -7587,9 +7587,9 @@ VOLUME 1
 
 		Sorry, So Sorry
 
-	Failure
+	
 	______________________________
-	EPISODE
+	EPISODE - Helping Hands
 		______________________________
 		SCENE
 			Morning came, then afternoon, as Connor jogged through the high street. A voice caught his ear.
@@ -8185,9 +8185,9 @@ VOLUME 1
 
 		Morning of truth
 
-	Helping Hands
+	
 	______________________________
-	EPISODE
+	EPISODE - Blood-Soaked Saviour
 		______________________________
 		SCENE
 			A heavyset man in a business suit sat at his desk - and another man entered.
@@ -8896,9 +8896,9 @@ VOLUME 1
 
 		Hughes Death/gassing scene
 
-	Blood-Soaked Saviour
+	
 	______________________________
-	EPISODE
+	EPISODE - Weak Points
 		______________________________
 		SCENE
 			15 minutes had passed. Chloe had sat Connor down on a bench and was looking at his injuries.
@@ -9668,9 +9668,9 @@ VOLUME 1
 
 		Naismith vs. Connor - Aftermath
 
-	Weak Points
+	
 	______________________________
-	EPISODE
+	EPISODE - Whiplash
 		______________________________
 		SCENE
 			If someone asked you to draw a stately manor house, you'd draw this one.
@@ -10459,11 +10459,11 @@ VOLUME 1
 
 		An Unusual Alliance
 
-	Whiplash
+	
 	______________________________
-	EPISODE
+	EPISODE - Law and Disorder
 		______________________________
-		FLASHBACK
+		SCENE
 			It was July 2013.
 			Connor, Yaz, and Trey were hanging out in Connor's living room.
 			Yaz was lying on the sofa, resting her feet on Connor's lap. Her hair was a bleached blonde, and she wore a black jumpsuit. A movie was playing.
@@ -11025,9 +11025,9 @@ VOLUME 1
 
 		Telling Ella
 
-	Law and Disorder
+	
 	______________________________
-	EPISODE
+	EPISODE - Snakebite
 		______________________________
 		SCENE
 			"Lord Oxford, sir." the servant nodded. "Your 'guest' has arrived."
@@ -11117,11 +11117,11 @@ VOLUME 1
 
 		Packmates, Always
 
-	Snakebite
+	
 	______________________________
-	EPISODE
+	EPISODE - The Belson Strangler
 		______________________________
-		FLASHBACK
+		SCENE
 			It was the middle of December, 2005. The sun was finally setting after a long, warm summer's day.
 			Police Constable Henry Naismith - young, fresh-faced, and inquisitive - looked at the scene and grimaced.
 			A woman's body, with a chalk outline. Her neck had been snapped and her eyes were wide open. Bile had pooled at the back of her throat.
@@ -11883,11 +11883,11 @@ VOLUME 1
 
 		Justice?
 
-	The Belson Strangler
+	
 	______________________________
-	EPISODE
+	EPISODE - Inferno
 		______________________________
-		FLASHBACK
+		SCENE
 			It was mid-March, 2002. A young Connor sat in his room, in a house on the Bogside. Other sections of the district were bombed-out ruins - the dreadful Bogside War was beginning, unbeknownst to the little boy. He was drawing on a piece of paper.
 			His grandparents, Eamon and Geraldine, came in through the door. Eamon headed straight for his armchair, and began reading a book. Geraldine sighed, and went upstairs.
 			"Hello, sweetheart." she began.
@@ -12508,9 +12508,9 @@ VOLUME 1
 
 		Jogging in the woods
 
-	Inferno
+	
 	______________________________
-	EPISODE
+	EPISODE - Cold Comfort
 		______________________________
 		SCENE
 			Chloe and Sparky approached the cafe. Chloe had changed from her jogging outfit to jeans and a hoodie - specifically, the one Connor gave her - and she was walking with Sparky next to her. Sparky was wearing his collar, but he wasn't leashed. As they walked, an older woman sneered at them both.
@@ -13134,11 +13134,11 @@ VOLUME 1
 
 		Shannon joins the team
 
-	Cold Comfort
+	
 	______________________________
-	EPISODE
+	EPISODE - A Good Person
 		______________________________
-		FLASHBACK
+		SCENE
 			It was November, 2011, and snowflakes were falling down onto the crisp schoolyard in Drackhill.
 			A young Connor was sat on a wall, eating his lunch. He was on his own.
 			A group of boys approached him. Trey was among them.
@@ -13713,9 +13713,9 @@ VOLUME 1
 
 		Designing a costume
 
-	A Good Person
+	
 	______________________________
-	EPISODE
+	EPISODE - Heartache
 		______________________________
 		SCENE
 
@@ -13745,11 +13745,11 @@ VOLUME 1
 
 		Who You Love
 
-	Heartache
+	
 	______________________________
-	EPISODE
+	EPISODE - Families
 		______________________________
-		FLASHBACK
+		SCENE
 			The year was 2009. A 35-year-old woman stepped off of the bus, and walked towards a big, fancy house. Her shoulder-length black hair was tucked neatly into a ponytail, framing her pale skin and deep brown eyes that shone with quiet determination. Her right arm was bandaged, with another bandage poking out from her shirt onto the base of her neck. She took a deep breath and rang the doorbell.
 			After a short moment, a middle-aged man answered.
 			"Good morning, Mr. Derrington! I, uh, am here for job interview?" she asked, in a thick Russian accent.
@@ -14236,9 +14236,9 @@ VOLUME 1
 
 		Reparations
 
-	Families
+	
 	______________________________
-	EPISODE
+	EPISODE - Year's End
 		______________________________
 		SCENE
 			The sky seemed almost determined to make this morning as miserable as possible. Slushy, cold sleet pelted down into the valley. Despite this, it failed to ruin the Barrett's morning.
@@ -14781,13 +14781,13 @@ VOLUME 1
 
 		New Year's Eve
 
-	Year's End
+	
 
 Wolves Among Sheep
 ______________________________
 VOLUME 2
 	______________________________
-	EPISODE
+	EPISODE - The King's Gambit
 		______________________________
 		SCENE
 			The moon shone brightly through the pouring rain, shimmering in the valley below.
@@ -15285,9 +15285,9 @@ VOLUME 2
 
 		Motel/Naismith is in/Interrogating Jimmy
 
-	The King's Gambit
+	
 	______________________________
-	EPISODE
+	EPISODE - Public Enemy
 		______________________________
 		SCENE
 
@@ -15297,11 +15297,11 @@ VOLUME 2
 
 		.
 
-	Public Enemy
+	
 	______________________________
-	EPISODE
+	EPISODE - Purging
 		______________________________
-		FLASHBACK
+		SCENE
 			It was mid-2005, and a young Connor was sat in a police room. He was wearing plain clothes that were far too big for him - and his hands were covered in dried blood. He was flanked by two middle-aged women - a solicitor and a safeguarding officer. He stared into the middle distance, unaware of his surroundings.
 			"Connor." the solicitor's voice echoed, snapping him into reality.
 			"Connor. Officer Flanagan was asking you a question?" she said softly.
@@ -16042,11 +16042,11 @@ VOLUME 2
 
 		Redbridge Purge
 
-	Purging
+	
 	______________________________
-	EPISODE
+	EPISODE - Tyrants
 		______________________________
-		FLASHBACK
+		SCENE
 			It was a warm summer's evening in 1995. Vince Barrett sat on a barstool in the White Hawk pub in Redbridge, sipping a pint of Guinness. He was younger - 23 years old - but looked the part of a rough mobster. His hair was cropped short, and a thick red beard hung from his face.
 			Across the bar, a 19-year-old man with black hair in punk clothes sipped his lager.
 			The bar was noisy, as expected. And then, all fell silent, as a group of men in Skull leathers stormed in.
@@ -16655,9 +16655,9 @@ VOLUME 2
 
 		Gathering Storm
 
-	Tyrants
+	
 	______________________________
-	EPISODE
+	EPISODE - Rebels
 		______________________________
 		SCENE
 			It was your average evening in Belson.
@@ -17309,11 +17309,11 @@ VOLUME 2
 
 		Connor kills Dorsey
 
-	Rebels
+	
 	______________________________
-	EPISODE
+	EPISODE - Hurt
 		______________________________
-		FLASHBACK
+		SCENE
 			It was autumn, 2012. Chloe was sat in her bedroom. Her scar was present - and far, far worse than the present day. It looked as though someone had taken a carving knife from her left eye down to the corner of her jawbone. She stared a thousand yards ahead, her expression vacant.
 			Downstairs, William was sat at the table, rubbing his temples. Catherine was reading the bible.
 			Sveta came in from Oliver's bedroom. She sat down with them.
@@ -18000,9 +18000,9 @@ VOLUME 2
 
 		Denouement at Bea's
 
-	Hurt
+	
 	______________________________
-	EPISODE
+	EPISODE - Fragile Hearts
 		______________________________
 		SCENE
 			The sky rippled a brilliant orange as the sun headed toward the sea.
@@ -18557,11 +18557,11 @@ VOLUME 2
 
 		About time!
 
-	Fragile Hearts
+	
 	______________________________
-	EPISODE
+	EPISODE - A Pack of Heroes
 		______________________________
-		FLASHBACK
+		SCENE
 			April, 1996. A young woman got off a bus. She had a travel bag with her. As she stepped off, a younger Vince, in his 20s, rushed over and hugged her. She hugged him back.
 			"Laura..." Vince said softly.
 			"Vince..." she replied, hugging tightly.
@@ -19227,11 +19227,11 @@ VOLUME 2
 
 		Patrol
 
-	A Pack of Heroes
+	
 	______________________________
-	EPISODE
+	EPISODE - Odin's Eye
 		______________________________
-		FLASHBACK
+		SCENE
 			Grozny, Chechen ASSR. 18th of February, 2009.
 			Separatist forces led by Islamist warlord Vadim Zamaldayev had captured the city. Recognising their position was untenable, Soviet Loyalists had organised a convoy to escape into Russia proper. But Zamaldayev's forces had spotted them, and mobbed nearby.
 			The evacuation would have been doomed - were it not for the 9th Motor Rifle Division's timely arrival.
@@ -19821,11 +19821,11 @@ VOLUME 2
 
 		Post-Murillo/I Hear You
 
-	Odin's Eye
+	
 	______________________________
-	EPISODE
+	EPISODE - Fire and Pain
 		______________________________
-		FLASHBACK
+		SCENE
 			It was the 1st of June, 2003. The sun shone over Derry, and in the Bogside, a small house stood.
 			Two masked men rushed away from the car, parked in the driveway. One turned to the other.
 			"No surrender, brother." he nodded.
@@ -20435,9 +20435,9 @@ VOLUME 2
 
 		Yaz arrives
 
-	Fire and Pain
+	
 	______________________________
-	EPISODE
+	EPISODE - Warzones
 		______________________________
 		SCENE
 			Across town, Chloe and Amy were hanging out at the Laughing Fox, sipping their drinks.
@@ -20965,9 +20965,9 @@ VOLUME 2
 
 		Splash/Catherine and William argue
 
-	Warzones
+	
 	______________________________
-	EPISODE
+	EPISODE - Getting Closer
 		______________________________
 		SCENE
 			It was a crisp Saturday morning. The sun had been up for a few hours now, and brought a rare warmth to the city.
@@ -21440,9 +21440,9 @@ VOLUME 2
 
 		Siege of Vitalis - Part 1
 
-	Getting Closer
+	
 	______________________________
-	EPISODE
+	EPISODE - Gunshots
 		______________________________
 		SCENE
 			Connor ascended the stairs, taking a moment to un-morph his mask and wipe his nose. The bullet to the head didn't crack his skull, but it still hurt.
@@ -21856,9 +21856,9 @@ VOLUME 2
 
 		Digging out the bullets
 
-	Gunshots
+	
 	______________________________
-	EPISODE
+	EPISODE - Truth & Reconciliation
 		______________________________
 		SCENE
 			That morning, Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
@@ -22298,9 +22298,9 @@ VOLUME 2
 
 		Chloe and Connor talk
 
-	Truth & Reconciliation
+	
 	______________________________
-	EPISODE
+	EPISODE - Judgement Day
 		______________________________
 		SCENE
 			It had been a chaotic few days - but days, nonetheless. The sun dragged itself out from the horizon, whispering over the valley.
@@ -22707,11 +22707,11 @@ VOLUME 2
 
 		Catching the Judge
 
-	Judgement Day
+	
 	______________________________
-	EPISODE
+	EPISODE - Broken Hearts and Bones
 		______________________________
-		FLASHBACK
+		SCENE
 			It was early hours of the 10th of October, 1996. 03:27 AM.
 			A Thursday. There was a spatter of rain, but the night sky wasn't too cloudy. Were it not for the city's light pollution, you'd be able to see the night stars with impressive clarity.
 			The moon was a waning crescent - nearly new.
@@ -23551,9 +23551,9 @@ VOLUME 2
 
 		Vince's Wounds
 
-	Broken Hearts and Bones
+	
 	______________________________
-	EPISODE
+	EPISODE - Thicker than Water
 		______________________________
 		SCENE
 			The gang sat in the prison's hospital waiting room. Connor was pacing wildly. Amy was scratching her hands nervously, with Bea trying to comfort her. Trey was tapping his foot, arms folded. Chloe was stroking Sparky, looking at Connor with sympathy. Shannon sat with the group, holding her shoulders nervously.
@@ -24282,9 +24282,9 @@ VOLUME 2
 
 		I Love You
 
-	Thicker than Water
+	
 	______________________________
-	EPISODE
+	EPISODE - Snowfall
 		______________________________
 		SCENE
 			The next morning, Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
@@ -24812,11 +24812,11 @@ VOLUME 2
 
 		Consent
 
-	Snowfall
+	
 	______________________________
-	EPISODE
+	EPISODE - The Battle of Belson
 		______________________________
-		FLASHBACK
+		SCENE
 			It was late September, 1996. Phil and Kerry Morgan were visting Drackhill Maternity Clinic. There, an old Chinese doctor called them in.
 			"So, any new symptoms?" he asked.
 			"No, all fine, thank you." Kerry smiled.
@@ -25553,15 +25553,15 @@ VOLUME 2
 
 		Battle of Belson, Denouement Part 2
 
-	The Battle of Belson
+	
 
 Gods Among Men
 ______________________________
 VOLUME 3
 	______________________________
-	EPISODE
+	EPISODE - Awakening
 		______________________________
-		FLASHBACK
+		SCENE
 			WAKE UP.
 			The words echoed through Connor's skull.
 
@@ -26167,9 +26167,9 @@ VOLUME 3
 
 		Don't Lose Your Head
 
-	Awakening
+	
 	______________________________
-	EPISODE
+	EPISODE - Heartfelt
 		______________________________
 		SCENE
 			It was close to sunset out in Texas. A couple of armed sentries stood outside a stately manor house, smoking.
@@ -26979,9 +26979,9 @@ VOLUME 3
 
 		Heading to Karelia
 
-	Heartfelt
+	
 	______________________________
-	EPISODE
+	EPISODE - The Last Judgement
 		______________________________
 		SCENE
 			The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
@@ -27502,9 +27502,9 @@ VOLUME 3
 
 		Return
 
-	The Last Judgement
+	
 	______________________________
-	EPISODE
+	EPISODE - Bird of Prey
 		______________________________
 		SCENE
 			"RAAAGH!" Connor roared, his fist crashing through the air and landing squarely in Trey's chest.
@@ -27573,23 +27573,17 @@ VOLUME 3
 		______________________________
 		SCENE
 
-	Bird of Prey
+	
 	______________________________
-	EPISODE
+	EPISODE - PLACEHOLDER
 
 
-	______________________________
-	EPISODE
-
-
-	______________________________
-	EPISODE
 
 Age of Heroes
 ______________________________
 VOLUME 0 - CODEX
 	______________________________
-	EPISODE
+	EPISODE - A World Half Full
 		______________________________
 		SCENE
 			The following series contains strong language right from the fucking start.
@@ -27745,6 +27739,6 @@ VOLUME 0 - CODEX
 
 		Time of Monsters
 
-	A World Half Full
+	
 
 Bloodhound

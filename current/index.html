@@ -666,11 +666,26 @@
                     }
                 }
 
-                // Final cleanup
+                // Final cleanup - save any remaining scene AND episode
                 logDebug('=== Final cleanup ===');
+                // Make sure we save the final scene with the correct indent level
+                if (inScene && currentScene && currentEpisode) {
+                    logDebug(`  Final scene before save: "${currentScene}" with ${sceneContent.length} lines`);
+                    let content = sceneContent.join('\n').trimEnd();
+                    logDebug(`  Final scene content before cleanup: "${content.slice(-200)}"`);
+                    content = removeTrailingSceneName(content, sceneIndentLevel);
+                    logDebug(`  Final scene content after cleanup: "${content.slice(-200)}"`);
+                    currentEpisode.scenes.push({
+                        id: `scene-${Date.now()}-${Math.random()}`,
+                        name: currentScene,
+                        content: content
+                    });
+                    sceneContent = [];
+                    inScene = false;
+                }
                 saveEpisode();
 
-                // Double-check for any remaining scene
+                // Double-check: if there's still a scene (shouldn't happen), save it directly
                 if (inScene && currentScene && currentEpisode) {
                     logDebug(`  Emergency save of final scene: "${currentScene}"`);
                     let content = sceneContent.join('\n').trimEnd();

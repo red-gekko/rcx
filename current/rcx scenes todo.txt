@@ -8,6 +8,35 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
+remove Yaz completely. her arc contributes nothing of note. instead, end the theatre date on a high note with connor soaring through the sky, and begin the next episode in chechnya. the only moment worth keeping is looking after a baby - find something for that to be included with, where connor and sparky care for a baby in the motel, and chloe sees him humming the lullaby
+	solution; instead of after, have this happen *before* the theatre date:
+		1. Tommy is threatening some Skull mook to stay off his territory, when he gets a call from Mikhaela, the sex worker who Sparky saved. She's been evicted, so Tommy tells her to hang tight, he'll be there shortly. He then smacks the Skull again and tells Pawel to dump him somewhere
+		2. Connor is getting ready for his date with Trey, doing the tuxedo thing, when Tommy turns up with Mikhaela and the kid in tow. He asks that connor helps her get checked in; Connor does, while Trey and Shannon covertly cover up any evidence of them being superheroes. Sparky plays with the kid, doing the whole biggoggie speech.
+		3. chloe arrives, and walks into the common room to find connor soothing the kid by singing black velvet band. he hands him off to his mother, and they leave; tommy says he'll take sparky for a walk "as thanks"
+		later, chloe mentions black velvet band asking about it; more clean than connor saying craic randomly
+		end episode on high note soar
+		start next on battle of chechnya; replace opening with the medicine run for padding
+
+below is the water bottle moment: add that to the kid
+
+			Connor sighed, looking down likewise. A high-pitched wail from Jack went right through Connor and Sparky's eardrums, hitting their enhanced senses especially hard.
+			"You need a hand with the wee man?" he asked, trying his hardest to not sound judgemental.
+			"Oh, he... sorry, he gets like this. Sometimes he cries and cries, and just won't stop." she replied, lifting him up and trying to soothe him. The crying lessened ever-so-slightly, but didn't stop.
+			Connor rubbed his eyes, grounding himself. "Here." he said, handing her a bottle of water from his bag. "Give him this."
+			She hesitated, but took the bottle and gave it to him. He began drinking, and started to calm down. By the time he finished sipping, he'd stopped crying entirely, and started to smile softly.
+			"Oh my god..." Yaz beamed. "How did you do that?"
+			"Eh." Connor shrugged. "When kids cry like that, it makes 'em hyperventilate - which freaks them out, and makes them cry even more. Have them drink something, and they're kinda forced to catch their breath."
+			Yaz smiled. "Thanks, Connor. I..." she stopped herself, before she could say "I wish you were his dad."
+
+
+
+
+something to add - oxford has a supercomputer that he uses to social engineer. in one scene before we meet the judge, oxford shows it to them and says "i suppose this would be a child's toy to your people"
+	judge says "our younglings did not posses instruments of recreation; nor would they find computation devices enjoyable. but to your point... it is too subtle. only through faith; inquisition; the relentless extirpation of heresy... only through that can a society be harmonious."
+
+
+
+
 plot hole where connor mentions the taser pain on bonfire night - but as of current writing, connor wasnt tased.
 but the taser, motorbike, and superswim scene *is* pretty cool!
 solution: find a scene to add the superswim escape to. remove the taser mention from bonfire night.
@@ -154,6 +183,13 @@ emphasise connor's inherent terrifying nature
 
 
 change the prison break sequence
+	
+	for Dorsey's state of emergency, have a false flag attack - maybe put in the bridge collapse, along with mass electrical sabotage. dorsey frames Connor for this
+		specifically, a new chapter: "Public Enemy," in between The King's Gambit and Purging
+			in this chapter, there is focus on the upcoming mayoral election, when the bridge collapse happens (note; add some short time between the drop at the end and the inspection; make it like the inspection happens a couple of days later, to justify the extra time in Public Enemy)
+			after the collapse, connor and friends are having lunch together, when connor hears a hissing noise down below. he excuses himself, and quickly suits up and heads down into the metro line, where a nerve gas canister has been deployed. he struggles his way in, making it to the canister and sealing it with biomass before collapsing. the firemen and paramedics are helping evacuate when some cops come up and prepare to execute connor - the chief fireman tells them to back off, and they aim at him, when connor reanimates, knocks the cops out, and heads outside. upon making it out though, shannon tells him to look at the news - he quickly morphs into civvies and darts into a pub, where a newsreader is reporting that the Werewolf committed a nerve gas attack in the metro line, then savagely beat the cops who heroically thwarted the attack. a video is then played of a man in connor's costume, claiming responsibility for the bridge attack as well as the gas, and claiming he's done protecting the inferior mortals, and will instead force them to "listen and obey"
+			connor says the mayor is at the top of his shit list, and so ambushes the mayor in his office late evening. he then shows a live feed of Ivan's scope, pointed right at mayor norris's wife; and demands that the mayor tell him who has been impersonating him; norris answers, but connor can't verify it; connor notes that of course, no one would be a bigger liar than a fascist politician, and warns that if he's lied, connor will come back and kill him. as connor leaves, the city hall explodes to his shock
+			connor rushes in, but when he returns, he sees a breaking news report showing cctv of him walking away and the place blowing up, before they show the actor again
 
 	NOTE
 		maybe delete Agent J et al; have Goblin be the one to recognise connor, and the breakout crew are the syndicate, Goblin, Troll
@@ -297,6 +333,7 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		A snuff film maker
 		A rich psycho who hunts tramps for sport
 		a psychologist who gets off on convincing their patients to commit suicide; maybe have this the one who gaslit the firemen
+		Fr Declan reports that some of his parishoners have sent their kids to a conversion therapy camp, and so trey and shannon go undercover as "patients" seeking conversion in order to gather evidence and help rescue the others
 
 
 

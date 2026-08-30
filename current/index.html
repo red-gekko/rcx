@@ -613,7 +613,8 @@
                         episodeCount = 0;
                         sceneCount = 0;
                         saveEpisode();
-                        const volumeName = extractName(trimmed) || `Volume ${volumeCount}`;
+                        // ---- FIX: use volumes.length so generic name matches the dropdown index ----
+                        const volumeName = extractName(trimmed) || `Volume ${volumes.length}`;
                         currentVolume = {
                             name: volumeName,
                             episodes: []
@@ -636,17 +637,21 @@
                             volumes.push(currentVolume);
                         }
                         let episodeName = extractName(trimmed);
+                        // If no name on the same line, try the next line only if it's not a divider
                         if (!episodeName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
-                            if (nextLine && 
+                            // Check if next line is a valid name (not empty, not a divider, not a tag)
+                            const isDivider = /^_+$/.test(nextLine);
+                            if (nextLine && !isDivider &&
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('VOLUME')) {
                                 episodeName = nextLine;
-                                i++;
+                                i++; // consume the line
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
                             }
                         }
+                        // If still no name, default to "Episode {count}"
                         if (!episodeName) {
                             episodeName = `Episode ${episodeCount}`;
                         }
@@ -764,7 +769,7 @@
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {
-                    logDebug(`  Volume ${vi+1}: "${v.name}" - ${v.episodes.length} episodes`);
+                    logDebug(`  Volume ${vi}: "${v.name}" - ${v.episodes.length} episodes`);
                     v.episodes.forEach((e, ei) => {
                         logDebug(`    Episode ${ei+1}: "${e.name}" - ${e.scenes.length} scenes`);
                         e.scenes.forEach((s, si) => {

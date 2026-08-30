@@ -141,20 +141,14 @@
             letter-spacing: -0.3px;
         }
 
-        /* Pre tag for preserving whitespace */
         .scene-content {
-            font-family: inherit;
             font-size: 1.15rem;
-            white-space: pre-wrap;
             word-wrap: break-word;
             max-height: 75vh;
             overflow-y: auto;
             padding-right: 8px;
             color: #d1d9e0;
             line-height: 2.0;
-            margin: 0;
-            background: transparent;
-            border: none;
         }
 
         .scene-content::-webkit-scrollbar {
@@ -445,15 +439,25 @@
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
                     return;
                 }
-                // Strip indentation from the content before displaying
+                // Strip indentation from the content
                 const strippedContent = stripIndentation(content);
-                const safeContent = strippedContent
-                    .replace(/&/g, '&amp;')
-                    .replace(/</g, '&lt;')
-                    .replace(/>/g, '&gt;');
+                // Split into lines, escape HTML, and join with <br> tags
+                const lines = strippedContent.split('\n');
+                let htmlContent = '';
+                for (let i = 0; i < lines.length; i++) {
+                    let line = lines[i];
+                    // Escape HTML in the line
+                    line = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                    // Add the line content
+                    htmlContent += line;
+                    // Add a <br> after each line except the last
+                    if (i < lines.length - 1) {
+                        htmlContent += '<br>';
+                    }
+                }
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
-                    <pre class="scene-content">${safeContent}</pre>
+                    <div class="scene-content">${htmlContent}</div>
                 `;
             }
 

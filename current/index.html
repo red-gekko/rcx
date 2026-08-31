@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bloodhound — Interactive Reader</title>
     <style>
-        /* ... everything else unchanged ... */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -142,21 +141,20 @@
             letter-spacing: -0.3px;
         }
 
-        /* --- NEW: paragraph styling for hard breaks --- */
+        /* --- NEW: tight line‑height for soft wraps, plus margin for hard breaks --- */
         .scene-content {
-            font-size: 1.55rem;
+            font-size: 1.15rem;
             word-wrap: break-word;
             max-height: 75vh;
             overflow-y: auto;
             padding-right: 8px;
             color: #d1d9e0;
-            line-height: 3.8;          /* normal inter‑line spacing */
+            line-height: 1.0;          /* soft‑wrap lines are tight */
             white-space: normal;       /* allow soft wraps */
         }
 
         .scene-content p {
-            margin: 0 0 0.6em 0;       /* gap after each hard break */
-            /* optional: indent first line? not needed */
+            margin: 0 0 1.2em 0;       /* extra gap after each hard break → total 2.2 line‑height */
         }
 
         .scene-content p:last-child {
@@ -296,7 +294,7 @@
             .scene-content {
                 font-size: 1.0rem;
                 max-height: 60vh;
-                line-height: 1.6;
+                line-height: 1.0;          /* keep tight */
             }
 
             .nav-group select {
@@ -324,7 +322,7 @@
 
             .scene-content {
                 font-size: 0.92rem;
-                line-height: 1.6;
+                line-height: 1.0;
             }
         }
 
@@ -446,7 +444,7 @@
                 return strippedLines.join('\n');
             }
 
-            /* ----- NEW showContent: split on newlines and wrap each non‑empty line in <p> ----- */
+            /* ----- split on newlines and wrap each non‑empty line in <p> ----- */
             function showContent(title, content) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
@@ -456,21 +454,17 @@
                 const stripped = stripIndentation(content);
                 // Split into lines
                 const lines = stripped.split('\n');
-                // Build HTML: each non‑empty line becomes a <p>, empty lines become an extra <p> with a non‑breaking space to preserve vertical rhythm
+                // Build HTML: each non‑empty line becomes a <p>, empty lines become <p>&nbsp;</p> to keep spacing
                 let html = '';
                 for (let line of lines) {
-                    // Trim to check if it's effectively empty, but keep indentation spaces? We'll keep them for now.
                     const trimmed = line.trim();
                     if (trimmed === '') {
-                        // Empty line – we add a paragraph with a non‑breaking space to keep the gap visible
                         html += '<p>&nbsp;</p>';
                     } else {
-                        // Escape HTML entities
                         const safe = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
                         html += `<p>${safe}</p>`;
                     }
                 }
-                // Wrap in the scene-title and content div
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
                     <div class="scene-content">${html}</div>

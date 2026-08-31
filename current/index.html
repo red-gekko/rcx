@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bloodhound — Interactive Reader</title>
     <style>
+        /* ... everything else unchanged ... */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -141,15 +142,25 @@
             letter-spacing: -0.3px;
         }
 
+        /* --- NEW: paragraph styling for hard breaks --- */
         .scene-content {
-            font-size: 1.15rem;
+            font-size: 1.55rem;
             word-wrap: break-word;
             max-height: 75vh;
             overflow-y: auto;
             padding-right: 8px;
             color: #d1d9e0;
-            line-height: 2.0;
-            white-space: pre-wrap;
+            line-height: 3.8;          /* normal inter‑line spacing */
+            white-space: normal;       /* allow soft wraps */
+        }
+
+        .scene-content p {
+            margin: 0 0 0.6em 0;       /* gap after each hard break */
+            /* optional: indent first line? not needed */
+        }
+
+        .scene-content p:last-child {
+            margin-bottom: 0;          /* no extra space after the last line */
         }
 
         .scene-content::-webkit-scrollbar {
@@ -285,7 +296,7 @@
             .scene-content {
                 font-size: 1.0rem;
                 max-height: 60vh;
-                line-height: 1.8;
+                line-height: 1.6;
             }
 
             .nav-group select {
@@ -313,7 +324,7 @@
 
             .scene-content {
                 font-size: 0.92rem;
-                line-height: 1.7;
+                line-height: 1.6;
             }
         }
 
@@ -435,22 +446,38 @@
                 return strippedLines.join('\n');
             }
 
+            /* ----- NEW showContent: split on newlines and wrap each non‑empty line in <p> ----- */
             function showContent(title, content) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
                     return;
                 }
-                // Strip indentation from the content before displaying
-                const strippedContent = stripIndentation(content);
-                const safeContent = strippedContent
-                    .replace(/&/g, '&amp;')
-                    .replace(/</g, '&lt;')
-                    .replace(/>/g, '&gt;');
+                // Strip indentation first
+                const stripped = stripIndentation(content);
+                // Split into lines
+                const lines = stripped.split('\n');
+                // Build HTML: each non‑empty line becomes a <p>, empty lines become an extra <p> with a non‑breaking space to preserve vertical rhythm
+                let html = '';
+                for (let line of lines) {
+                    // Trim to check if it's effectively empty, but keep indentation spaces? We'll keep them for now.
+                    const trimmed = line.trim();
+                    if (trimmed === '') {
+                        // Empty line – we add a paragraph with a non‑breaking space to keep the gap visible
+                        html += '<p>&nbsp;</p>';
+                    } else {
+                        // Escape HTML entities
+                        const safe = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                        html += `<p>${safe}</p>`;
+                    }
+                }
+                // Wrap in the scene-title and content div
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
-                    <div class="scene-content">${safeContent}</div>
+                    <div class="scene-content">${html}</div>
                 `;
             }
+
+            /* ---------- the rest of the script is unchanged ---------- */
 
             function populateSelect(select, items, defaultLabel) {
                 const currentValue = select.value;
@@ -491,12 +518,6 @@
                 }
             }
 
-            /**
-             * Extracts just the name part from a tag line
-             * e.g., "EPISODE - Inferno" → "Inferno"
-             * e.g., "SCENE - Need to Know" → "Need to Know"
-             * Returns null if no name found.
-             */
             function extractName(tagLine) {
                 let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]?\s*/, '');
                 name = name.trim();
@@ -506,41 +527,29 @@
                 return name;
             }
 
-            /**
-             * Gets the indentation level of a line (number of spaces/tabs at start)
-             */
             function getIndentLevel(line) {
                 const match = line.match(/^(\s*)/);
                 return match ? match[1].length : 0;
             }
 
-            /**
-             * Removes trailing scene names based on indentation level.
-             * The scene name has the same or less indentation than the SCENE tag.
-             */
             function removeTrailingSceneName(content, sceneIndentLevel) {
                 if (!content) return '';
                 
                 const lines = content.split('\n');
                 
-                // Remove trailing empty lines
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
                 
-                // If we have lines, check the last non-empty line's indentation
                 if (lines.length > 0) {
                     const lastLine = lines[lines.length - 1];
                     const lastIndent = getIndentLevel(lastLine);
                     
-                    // If the last line has the same or less indentation than the SCENE tag,
-                    // and it's not a SCENE/EPISODE/VOLUME tag, it's a scene name
                     if (lastIndent <= sceneIndentLevel && 
                         !lastLine.trim().startsWith('SCENE') && 
                         !lastLine.trim().startsWith('EPISODE') && 
                         !lastLine.trim().startsWith('VOLUME')) {
                         lines.pop();
-                        // Remove any new trailing empty lines
                         while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                             lines.pop();
                         }
@@ -569,7 +578,6 @@
                 function saveScene() {
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
-                        // Remove trailing scene name based on indentation
                         content = removeTrailingSceneName(content, sceneIndentLevel);
                         currentEpisode.scenes.push({
                             id: `scene-${Date.now()}-${Math.random()}`,
@@ -598,11 +606,9 @@
                     const line = lines[i];
                     const trimmed = line.trim();
 
-                    // ---- FIX: preserve blank lines inside scenes ----
                     if (trimmed === '') {
-                        // If we are inside a scene, keep this blank line
                         if (inScene && currentScene) {
-                            sceneContent.push(line); // line is empty string, but we want the blank line
+                            sceneContent.push(line);
                         }
                         continue;
                     }
@@ -613,7 +619,6 @@
                         episodeCount = 0;
                         sceneCount = 0;
                         saveEpisode();
-                        // ---- FIX: use volumes.length so generic name matches the dropdown index ----
                         const volumeName = extractName(trimmed) || `Volume ${volumes.length}`;
                         currentVolume = {
                             name: volumeName,
@@ -637,21 +642,18 @@
                             volumes.push(currentVolume);
                         }
                         let episodeName = extractName(trimmed);
-                        // If no name on the same line, try the next line only if it's not a divider
                         if (!episodeName && i + 1 < lines.length) {
                             const nextLine = lines[i + 1].trim();
-                            // Check if next line is a valid name (not empty, not a divider, not a tag)
                             const isDivider = /^_+$/.test(nextLine);
                             if (nextLine && !isDivider &&
                                 !nextLine.startsWith('EPISODE') && 
                                 !nextLine.startsWith('SCENE') && 
                                 !nextLine.startsWith('VOLUME')) {
                                 episodeName = nextLine;
-                                i++; // consume the line
+                                i++;
                                 logDebug(`  Using next line as episode name: "${episodeName}"`);
                             }
                         }
-                        // If still no name, default to "Episode {count}"
                         if (!episodeName) {
                             episodeName = `Episode ${episodeCount}`;
                         }
@@ -684,14 +686,10 @@
                             logDebug('Created default episode');
                         }
                         
-                        // Store the indentation level of the SCENE tag
                         sceneIndentLevel = getIndentLevel(line);
                         logDebug(`  Scene indent level: ${sceneIndentLevel}`);
                         
-                        // Get scene name - ONLY from the same line
                         let sceneName = extractName(trimmed);
-                        
-                        // If no name on the same line, ALWAYS use "Scene N"
                         if (!sceneName) {
                             sceneName = `Scene ${sceneCount}`;
                         }
@@ -713,10 +711,8 @@
                     }
                 }
 
-                // Final cleanup - save any remaining scene AND episode
                 logDebug('=== Final cleanup ===');
                 
-                // FIRST: Save the final scene with proper cleanup
                 if (inScene && currentScene && currentEpisode) {
                     logDebug(`  Final scene before save: "${currentScene}" with ${sceneContent.length} lines`);
                     let content = sceneContent.join('\n').trimEnd();
@@ -731,10 +727,8 @@
                     logDebug(`  Final scene saved with cleanup applied`);
                 }
                 
-                // SECOND: Save the episode
                 saveEpisode();
 
-                // THIRD: Double-check by iterating through all scenes and ensuring cleanup
                 volumes.forEach(volume => {
                     volume.episodes.forEach(episode => {
                         episode.scenes.forEach(scene => {
@@ -787,7 +781,6 @@
                     return;
                 }
 
-                // Build volume labels with numbers starting from 0
                 const volumeLabels = storyData.volumes.map((v, index) => ({
                     id: v.name,
                     label: `${index} - ${v.name}`
@@ -821,7 +814,6 @@
                     return;
                 }
 
-                // Build episode labels with numbers starting from 1
                 const episodeLabels = volume.episodes.map((e, index) => ({
                     id: e.id,
                     label: `${index + 1} - ${e.name}`
@@ -857,7 +849,6 @@
                     return;
                 }
 
-                // Build scene labels with numbers starting from 1
                 const sceneItems = episode.scenes.map((s, index) => ({
                     id: s.id,
                     label: `${index + 1} - ${s.name}`

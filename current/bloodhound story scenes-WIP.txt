@@ -693,7 +693,7 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Reanimation
 		______________________________
 		SCENE
-			Springtime, 2006. Warm wind washed over the field, and a young boy was riding his little push-bike. His uncle pushed him along, as a young girl and a small Staffy pup stood to the sidelines.
+			Springtime, 2006. Warm wind washed over the field, and a young boy was riding his little bike. His uncle pushed him along, as a young girl and a small Staffy pup stood to the sidelines.
 			"Okay, Connor!" the man cheered. "3, 2, 1, GO!"
 			With that, he let go. Connor beamed in happiness.
 			"I'm doing it, uncle Vince! I'm doing it!" he cheered. His accent was different - much more Irish. It hadn't been long since he'd moved to England - only 4 years.
@@ -2523,7 +2523,7 @@ VOLUME - Wolves Among Sheep
 			If you asked someone to draw a kindly professor, they would draw Isaac Lowenthal.
 			He was an old man, probably in his late 60's - and clearly, one who enjoyed teaching enough to stick it out for this long.
 			His hair was unkempt, like Einstein - and his glasses, slightly too big for his face, clashed in a funny way with his small bow-tie.
-			Chloe smiled, tuning her hearing aids to the classroom soundfield system. Despite the groaning of a Monday morning, 
+			Chloe smiled, tuning her hearing aids to the classroom soundfield system. Despite the groaning of a Monday morning, she was in her element.
 			"So, class - H. I. V." he said, underlining each letter. "A true scourge of modern medicine. Our greatest weapon - the vaccine - powerless! Or, so we think."
 			He smiled, and looked over the classroom.
 			"I want you all to try and figure out how we could make a vaccine for HIV."
@@ -9072,7 +9072,7 @@ VOLUME - Wolves Among Sheep
 			"Was this because of how you rescued me last night?" she asked, trembling.
 			"No, not at all." he said firmly. "They're just a bunch of pricks. Besides, Sparky and I fended them off. I just took a few licks on the way."
 			"You're badly hurt... we need to get you to a hospital." she insisted.
-			"No, we can't... if we go to the hospital, it'll become a whole legal thing."
+			"No, we can't... if we go to the hospital, it'll become a whole thing."
 			Sparky nuzzled Chloe's side gently. "It's okay, Chloe. Connor will be okay."
 			Her breathing steadied. Though she couldn't hear the wolf's words, he managed to give her the gist of it.
 			"Can you stand?"
@@ -9127,33 +9127,42 @@ VOLUME - Wolves Among Sheep
 			"Amy said I should hit your back if you snore." she grinned.
 			"Ah, my weak spot." he smirked. The two laid down and got comfortable. Sparky flopped down in between their legs. Chloe turned to face him.
 			"Goodnight." she smiled.
-			"Goodnight." Connor replied. As he said this, Chloe leant over and tucked him in.
-			"Oh, hah, thanks..." Connor said, blushing. "What was that for?"
-			"Oh, just, you know, tucking you in before bed. Like mums do. It's not that weird... is it?" she asked. "I mean, it was that or kiss you goodnight." she chuckled, before blushing - not quite sure why she said that.
-			Connor chuckled.
-			"Your mum never did that?" she asked, unsure.
-			"I'm sure she would have if she didn't die when I was born." Connor said nonchalantly. Chloe gasped and covered her mouth.
-			"My uncle tucked me in and kissed me though!" he caught himself. "Well, I mean, on the cheek and stuff. *Not* - Not on the stuff. Just the cheek."
-			The pair chuckled. Connor shuffled a bit.
-			"To be honest, my mum didn't really, either. Our family nurse, Sveta - she was always much more 'motherly' in that sense." she admitted.
+			"Goodnight." he nodded back.
+			Chloe reached over and pulled the duvet a little higher over him.
+			"You know, I'm perfectly capable of operating a blanket." he smirked.
+			"I know. But hey, you're injured. Humour me." she laughed. "Blame our family nurse. I take more after her than I do my own mum."
 			"Family nurse?"
 			"Yeah." she fondly remembered. "Sveta. She looks after my grandad. She's been with us since 2009 - she moved here when the war broke out in the USSR. Hah, one time, a few years ago, I hit my head really hard after a fall. It triggered a seizure, so she ran over and helped me through it. Once I came out of it, she ran through the same concussion checks I just did on you. She taught me them, in case I ever needed to check myself over."
 			"Bless her. I... A guy I work with is Russian. He's told me a couple times how brutal it got." Connor replied, smiling sympathetically. He shuffled again, getting comfortable.
-			"Wow, this bed is really comfy."
-			"It's just a bed." Chloe shrugged.
-			"I know, but... I've never slept on a bed this soft."
-			"I mean, it is nice." she said wistfully. "But this fancy bed, that fancy dresser, my fancy kitchen... they's all just *things.* And I'd be fine without them."
-			"Huh... It's funny. I watched Vince spend his whole life trying to make us money, and you're saying it's no better off."
-			"Oh, I... Not like that." Chloe corrected herself. "I don't mean to sound ungrateful. Of course, having a good standard of living is important. But anything beyond that, you just... you start to think about the things money can't buy..."
-			"You mean... an island?" he asked, smirking.
-			Chloe giggled. "No, not an island."
-			"*TWO* Islands?" he asked, faux-incredulously. They both laughed.
-			"Very funny." she grinned.
-			"Surely... Surely you don't mean *three...*" he gasped.
-			"Hah! Enough!" she laughed, whacking him with a pillow. "Go to sleep, your majesty."
-			"Hah, okay. See you in the morning." he chuckled.
-			"Sweet dreams." she replied.
-			As they slept, they naturally pulled each other into an embrace.
+			"So... I'm guessing you're still wide awake too, right?" she asked awkwardly.
+			"I'll settle soon enough." Connor shrugged. "You?"
+			"Eh, same." she smiled. "Anyway... I've noticed I've told you plenty about my family, but I never ask about yours."
+			"Hah, that's a rabbit hole." Connor grinned.
+			"Don't tell me you've got a toxic mother, too?" she smirked.
+			He took a short breath. "Um... no, she--she died. When I was born."
+			Chloe gasped and covered her mouth. "I---I'm so sorry, I---"
+			"Don't be." he smiled softly. "Anyway, I spent my early years in Derry, as you know. Then... well, then I was fostered, met Amy, and my uncle Vince took us both."
+			She gave a sad smile - like she could tell there was a treasure trove of trauma behind those words - and chose not to pry.
+			Connor cleared his throat, glad for a chance to change the subject.
+			"Now," he thought, "if only I could think of a good topic. Come on, Connor. Ask something profound. Don't let the silence hang."
+			"So, um... where'd you get the bed from?" he asked.
+			"Wow. Nice one. Dickhead." he thought, fighting the urge to facepalm.
+			She cocked an incredulous eyebrow. "From the furniture shop." she said, grinning.
+			"Hah hah. No, just... it's a really nice bed. I might get an upgrade."
+			"I like it. It's like water, but dry." Sparky added, before letting out a snore. Connor stifled a chuckle.
+			"I mean, it is nice." she said wistfully. "But after you've had something for long enough, you stop noticing it."
+			"So, it's like heroin, then. You've gotta keep upping the dose."
+			She turned her head in confusion, before bursting into laughter.
+			"It's true though." she continued. "I mean, I'm not trying to sound pretentious - my accent notwithstanding - but let me just say, having spent my entire life around rich people, they're all miserable."
+			"Eh. I reckon if I had proper, fuck-off money, I'd be happy." Connor grinned.
+			"Oh yeah? What would you buy, then?" she chuckled.
+			"Well... money can't buy you happiness, but it can buy you Ecstasy. So I'd start an MDMA empire."
+			They both cackled, as he stroked his chin in ponderance.
+			"A really big caravan." he finally answered. "Like, a motel on wheels. And I'd get everyone I care about in it, and we'd go on a never-ending road trip."
+			She smiled warmly. "That's... actually really sweet. And hey, it's better than a yacht. That's what most spend it on."
+			"To be fair, my answer was basically a yacht that can go places other than 'wet.'"
+			The two chuckled again, and shuffled as they found comfier spots.
+			It wasn't long before the conversation finally gave way to sleep. Unaware, they pulled each other into an embrace.
 
 		Connor in Chloe's Flat
 		______________________________
@@ -9410,7 +9419,7 @@ VOLUME - Wolves Among Sheep
 			But it was the way it clinged to her skin, specifically. Connor couldn't help but think, for someone so shy, she was surprisingly toned--no. Stop it.
 			She blushed as she caught his gaze, and nervously pulled the sleeves over her hands.
 			"That's perfect." he quickly nodded, hoping to whatever gods existed that he hadn't been staring for too long. "Um--where'd you get it?"
-			He had to fight the urge to facepalm as the world's stupidest question left his lips. It was a harder fight than his tussle with Weiss, but he just about managed.
+			He had to fight the urge to facepalm as the world's stupidest question left his lips. It was a harder fight than his tussle with Troll, but he just about managed.
 			"Oh, I--from the shop." she answered, before a similar urge gnawed at her. "I--Well, I bought it for a dance class, a year ago."
 			"You dance?" he tilted his head - deeply, *deeply* glad for a change of topic.
 			"I went for a lesson. Wasn't really my thing." she chuckled. "Um, how about you?"
@@ -21806,7 +21815,7 @@ VOLUME - Gods Among Men
 			"I..." Chloe looked at him, her face pale. "What are you?"
 			"I don't know. I want to find out."
 			"Are you from space?" she asked, still shocked.
-			"No. I was born here, moved to Derry as a baby, and moved back here at 7. Everything I've told you about my life is true. My sister is still Amy, and my uncle is still Vince. I still met Trey when I was 15, and I still... I still met you. That's all true."
+			"No. I was born here, moved to Derry as a baby, and moved back at 7. Everything I've told you about my life is true. My sister is still Amy, and my uncle is still Vince. I still met Trey when I was 15, and I still... I still met you. That's all true."
 			"When we met... You weren't asking about healing powers just for the fun of it, were you?" she asked.
 			"No. I... I'd just got these powers, and I wanted to figure out how they worked."
 			"When did you get them? And how?"
@@ -21822,11 +21831,11 @@ VOLUME - Gods Among Men
 			"Tell me. How many." she asked, firmly.
 			"158." he finally admitted.
 			Chloe gasped. "And why did you kill them?" she finally said.
-			"The Super-Agents, because there's no safe way to let them live. The humans... most of them were collateral damage. I was lost in the Rage, and they were attacking me - it was instinct. The ones I killed of my own free will..." Connor explained, studying her reaction. "Omar Hattab - a Algerian general plotting a war. Alan Hughes - a perv who sold kids. And Vadim Zamaldayev - a Chechen warlord."
-			At the final mention, she looked surprised. "You killed Zamaldayev?"
+			"The Super-Agents, because there's no safe way to let them live. The humans... most of them were collateral damage. I was lost in the Rage, and they were attacking me - it was instinct. The ones I killed of my own free will..." Connor explained, studying her reaction. "Omar Hattab - a Algerian general plotting a war. Alan Hughes - a perv who sold kids. And Vadim Zamaldayev - a Chechen warlord. A few pervs and mercs in Hughes's network, too."
+			She looked surprised. "You killed Zamaldayev?"
 			"You know about him?"
 			"Yeah, he... Sveta was injured fighting against his group. She told me stories about him..." Chloe trailed off, deep in thought. For all her fears and fury, killing Zamaldayev was justified.
-			"Do you remember how last Wednesday, you wanted to meet up, but I said I was busy? I was in Chechnya at the time." he explained. "I got pretty badly hurt - lost my arm and half my gut. I was still aching on the open day, but I'd mostly healed up by that point."
+			"Do you remember how, earlier this week, you wanted to meet up, but I said I was busy? I was in Chechnya at the time." he explained. "I got pretty badly hurt - lost my arm and half my gut. I was still aching on the open day, but I'd mostly healed up by that point."
 			Chloe's stomach twisted. "How do you live with that?"
 			"It wasn't easy. I looked fine, but the damage was mainly internal."
 			"No, I mean..." she shook her head. "How do you cope with 158 kills?"
@@ -22010,10 +22019,17 @@ VOLUME - Gods Among Men
 			"I don't even know what to say." she whispered, her voice trembling. "How am I supposed to process this?"
 			Connor's face fell. "I... I get it if you can't. If this is too much, Chloe, I understand."
 			"Too much?" Chloe's voice rose. "You're bleeding out on the sofa after digging out bullets like splinters, and you think I'm worried about 'too much?'"
-			She paced the room, hands tugging at her hair. "You... The whole time I've known you, you've been lying to me. I wouldn't even be so upset if we were still just friends... but we're supposed to be together! Yesterday, when you were at the labs, the first thing I did afterwards was tell you. Was it all just a game? Was it some kind of joke to you?"
-			"No!" he said, tears in his eyes. "I wanted to tell you, I swear. I hated hiding this from you. I just... I thought that by not telling you, I could keep you safe. I could keep my--our--life seperate from the Werewolf. I knew Vitalis was connected to them, but I had no idea they would do this."
+			She paced the room, hands tugging at her hair. "You... The whole time I've known you, you've been lying to me. I wouldn't even be so upset if we were still just friends... but we're supposed to be together! Yesterday, when you were at the labs, the first thing I did afterwards was tell you. I trusted you, and you didn't trust me!"
+			He hanged his head in shame. "I wanted to tell you, I swear. I hated hiding this from you. I just... I thought that by not telling you, I could keep you safe. I could keep my--our--life seperate from the Werewolf. I knew Vitalis was connected to them, but I had no idea they would do this."
 			She sighed, looking deep into his eyes. She was torn.
-			"I..." she began, taking a deep breath. "I can't. I need some time to... to process all of this."
+			"You told me about the Hoods. You told me about Laverty. Why? W-was it some kind of game?"
+			"No! No, I... it wasn't. I guess, deep down, it was..."
+			"What? Truth-by-proxy?"
+			He looked up, and nodded.
+			She looked away, wiping her eyes again.
+			"...I've only known you for four months. And I... I *thought* I knew you. I thought you'd shown yourself to me, the--the way *I* did to you. But I really don't know the first thing about you, do I?"
+			"I'm still... I'm still me." he said softly. "And... I'm still me with the mask on, too."
+			"I... I should be angrier." she sighed. "I want to be, I... I can't. I need some time to... to process all of this."
 			Connor nodded, his eyes tearing up. "I understand."
 			She paused, uncomfortable. "Can I stay here tonight? In case they come after me, I..."
 			"Of course." Connor nodded immediately. "You can have whichever room you like."
@@ -22059,7 +22075,7 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			Some night are so horrible, they seem like they'll go on forever. But still, the sun eventually, stubbornly rises above the horizon. The dawn cares little for betrayal.
-			Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
+			Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She sipped a sugary drink, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
 			"[Are you okay, dorogaya?! What happened? Are you safe?]" Sveta answered almost immediately.
 			"[Sveta... I'm fine. I'm not hurt.]" Chloe replied, glad to hear her voice.
 			Sveta breathed a deep sigh of relief. "[Oh, dorogaya... I saw the attack on the news, and I remembered you saying you had an internship in those labs. What happened?!]"
@@ -22534,7 +22550,7 @@ VOLUME - Gods Among Men
 			Chloe nodded. "I don't believe he was trying to deceive me or anything. I just... I'm worried is all. His body might be... whatever it is, but his mind is still human. How's he supposed to cope with this? I mean, he... He kills people. And I know, he has to, but..."
 			"He's a tough cookie." Amy began, smiling wistfullly. "It sucks that Connor kills. But... He'd never kill someone who didn't need killing. And it's up to us - his friends - to help him cope when he does."
 			"Being a superhero ain't like what the movies say." Trey added. "It doesn't just mean saving good people... it means stopping bad people. And these bad people..." he shuddered, "They gotta be stopped. That's just what Connor's like. And hell, if any of us had his powers, we'd be the exact same."
-			"That's the thing." Amy nodded. "The Werewolf isn't a monster, or an anomaly. It's the natural extension of who Connor truly is. You..." she paused, searching for the words. "You know the real Connor. All those times you've seen him, they were real. That's who he is. The funny, kind, loving, annoying, endearingly awkward guy - that's the real Connor."
+			"That's the thing." Amy nodded. "The Werewolf isn't a monster, or an anomaly. It's the natural extension of who Connor truly is. His powers might have been forced on him, but... he chose to be the Werewolf just as much as I chose to be Stunlocke. You..." she paused, searching for the words. "You know the real Connor. All those times you've seen him, they were real. That's who he is. The funny, kind, loving, annoying, endearingly awkward guy - that's the real Connor."
 			Chloe sat back, processing for a moment. "You mean... everything we had... every moment we shared..."
 			"Was real. As real as it gets." Trey nodded.
 			Chloe took a deep breath, and smiled.

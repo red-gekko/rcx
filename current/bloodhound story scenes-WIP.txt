@@ -693,11 +693,11 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Reanimation
 		______________________________
 		SCENE
-			It was springtime, 2006. Connor was riding his little push-bike. His uncle Vince pushed him along, as a young Amy and a small Staffy pup stood to the sidelines.
-			"Okay, my lad!" Vince cheered. "3, 2, 1, GO!"
-			With that, Vince let go. Connor beamed in happiness.
-			"I'm doing it! I'm doing it!" he cheered. His accent was different - much more Irish. It hadn't been long since he'd moved to England - only 4 years.
-			"Go on, Connor!" Amy shouted happily. The pup likewise barked in excitement.
+			Springtime, 2006. Warm wind washed over the field, and a young boy was riding his little push-bike. His uncle pushed him along, as a young girl and a small Staffy pup stood to the sidelines.
+			"Okay, Connor!" the man cheered. "3, 2, 1, GO!"
+			With that, he let go. Connor beamed in happiness.
+			"I'm doing it, uncle Vince! I'm doing it!" he cheered. His accent was different - much more Irish. It hadn't been long since he'd moved to England - only 4 years.
+			"Go on, Connor!" the girl - Amy - shouted happily. The pup likewise barked in excitement.
 			"You're doing great, lad! Keep going!" Vince cheered. He spoke with a native Derry accent - but somewhat muted, as though he was used to toning it down so English people could understand him.
 			Connor continued on for a moment, before he wobbled and fell.
 			"Shite!" Vince cursed as he ran over. "You okay, my lad?"
@@ -709,8 +709,7 @@ VOLUME - Wolves Among Sheep
 			Vince smiled softly, and brushed Connor's hair out of his face.
 			"Listen, lad... you've got this. You're made of strong stuff, you know? You've survived worse than this."
 			Connor looked up, and smiled.
-			As he smiled, his consciousness returned.
-			He was bloody and bruised still. But not from a bike.
+			His consciousness returned. He was bloody and bruised, still. But not from a bike.
 			Blood and cerebrospinal fluid leaked from the gunshot wound in his skull.
 
 			"Where the fuck is he?!" Trey demanded.
@@ -1343,7 +1342,7 @@ VOLUME - Wolves Among Sheep
 			He tried to remember what breathing was like.
 			His lungs filled as he gasped. His lungs emptied as he sighed.
 			Not anymore.
-			One lung rose as another fell. Like a bird in flight, he felt the air flow seamlessly.
+			One set of lungs rose as another fell. Like a bird in flight, he felt the air flow seamlessly.
 			He stopped in his tracks, and gripped his knees, tensing.
 			The images flashed in his mind once more.
 			Pain.
@@ -3141,7 +3140,8 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Packmates
 		______________________________
 		SCENE
-			It was mid-2012. Chloe and Bea were at school, walking away from their last lesson of the day.
+			It was an ordinary afternoon in 2012 - at least, that's how it began.
+			Chloe and Bea were at school, walking away from their last lesson of the day.
 			Chloe's hair was unkempt, hiding her face. Her cheek was unscarred.
 			As they walked, a group of girls walked past and laughed.
 			"Freak show!" one of them jeered.
@@ -3173,7 +3173,7 @@ VOLUME - Wolves Among Sheep
 		SCENE
 			"Gentlemen." the Commandant began.
 			"What have the events in Drackhill cost us?!" one old man roared. His face, like the others present, was partially obscured by the room's shadows.
-			The Commandant sighed, and rubbed his temples. He looked down the massive oakwood table, and try as he might, he could not shake the image of murdering everyone present.
+			The Commandant sighed, and rubbed his temples. He looked down the massive oakwood table, and try as he might, he could not shake the image of murdering everyone present. The urge was strong.
 			"Commandant!" the man at the head of the table barked.
 			"Apologies, sir." he said. "The loss of Subject 6--"
 			"Due to YOUR incompetance!" another old rich man screamed.
@@ -8350,7 +8350,9 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Blood-Soaked Saviour
 		______________________________
 		SCENE
-			A heavyset man in a business suit sat at his desk - and another man entered.
+			The penthouse office smelled of old money and newer sins. Mahogany, leather, and the faint, coppery tang of a cigar that had long since burned out. Lord Oxford's silhouette was framed against the rain-lashed window, his back to the door, as if the city itself was kneeling before him.
+			A heavyset man in a business suit sat at the desk. "Lord Oxford." he said, his voice characteristic of a slavish toady.
+			The old man didn't turn. "As you were, Morland. Report."
 			"Lord Oxford." the man on the desk began, rising to his feet.
 			"As you were, Morland." the old aristocrat answered. "Report."
 			"Our friend Dorsey has contracted us to study all abnormalities within this 'superhuman' case." Morland began.
@@ -9061,9 +9063,12 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Weak Points
 		______________________________
 		SCENE
-			15 minutes had passed. Chloe had sat Connor down on a bench and was looking at his injuries.
-			"What happened?!" she asked, the concern palpable.
-			"Nothing, nothing... just some Skulls." Connor said, swallowing the lies. He hated this. Hated lying to her. But what choice did he have?
+			Connor took a deep breath. He hated this. Hated the lie.
+			Hated pretending that he was a human, and that it hurt.
+			As his flesh twisted and turned, regenerating alveoli and closing perforations, he forced it to hide away.
+			Don't let her know. Don't let her see.
+			"What happened?!" Chloe asked, the concern palpable.
+			"Nothing, nothing... just some Skulls." Connor said, swallowing his shame.
 			"Was this because of how you rescued me last night?" she asked, trembling.
 			"No, not at all." he said firmly. "They're just a bunch of pricks. Besides, Sparky and I fended them off. I just took a few licks on the way."
 			"You're badly hurt... we need to get you to a hospital." she insisted.
@@ -9395,7 +9400,7 @@ VOLUME - Wolves Among Sheep
 			"I'm just gonna go get changed real quick." she nodded.
 			"Yeah, sure." he smiled. "Bathroom's through there."
 			He pulled out an old, yet unrusted chain, and used it to fasten a punching bag to the ceiling. He opened up an old, familiar drawer, and took a deep breath through the nose.
-			In it was a pair trophies - "MMA Boys Championship 2010," and "MMA Girls Championship 2010."
+			In it was a pair trophies - "MMA Boys Championship 2012," and "MMA Girls Championship 2012."
 			He remembered the look of pride on Vince's face as he and Amy won their final bouts. How he drove them straight to the greasiest takeaway he could find, and took them to an amusement park the next day.
 			Of course, he took pains to remind them both that he'd've done the same if they'd failed; but the twinkle in his eyes made them both feel warm.
 			He reopened his eyes, and pulled out something else - a set of boxing gloves, a thick headguard, and some shinpads too.
@@ -10624,8 +10629,7 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Law and Disorder
 		______________________________
 		SCENE
-			It was July 2013.
-			Connor, Yaz, and Trey were hanging out in Connor's living room.
+			August, 2013. School was finally out, and Connor chose to celebrate it with his favouite people; his best friend, and the woman he loved.
 			Yaz was lying on the sofa, resting her feet on Connor's lap. Her hair was a bleached blonde, and she wore a black jumpsuit. A movie was playing.
 			"Ah, no way!" Trey said, grinning. "I thought it was her."
 			"Why would it have been her?" Connor questioned. "She had a solid alibi."
@@ -11190,6 +11194,22 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Snakebite
 		______________________________
 		SCENE
+			Sparky whimpered softly, as he tried and failed to raise his head.
+			The venom was strong. Stronger than anything he'd ever had. His body was weak, as his eyes watered.
+			Outside the cage, Super-Agents looked in, grinning.
+			"Subject 6." one began.
+			"That's... that's not my name..." he tried to whisper. "I'm Sparky. Connor's packmate."
+			"Do you think it can actually understand us?" one asked, stressing the dehumanising pronoun.
+			"It understands well enough. End of the line, pup."
+			Another came, and drove a needle into his hide.
+			He wanted to scream. Wanted to cry.
+			His chest heaved, as blood flushed out of his body, and into vials of fresh serum.
+			He thought back - the venom made the memories hazy. How long had it been?
+			Hours? Decades?
+			No.
+			Two days.
+			Two days ago.
+
 			"Lord Oxford, sir." the servant nodded. "Your 'guest' has arrived."
 			"Thank you, Quentin." Oxford smiled affably. "Bring him in."
 			Quentin nodded again, and swiftly ushered the second man in.
@@ -11282,9 +11302,10 @@ VOLUME - Wolves Among Sheep
 	EPISODE - The Belson Strangler
 		______________________________
 		SCENE
+			Her eyes were still open. That was the worst part.
 			It was the middle of December, 2005. The sun was finally setting after a long, warm summer's day.
 			Police Constable Henry Naismith - young, fresh-faced, and inquisitive - looked at the scene and grimaced.
-			A woman's body, with a chalk outline. Her neck had been snapped and her eyes were wide open. Bile had pooled at the back of her throat.
+			A woman's body, with a chalk outline. Her neck had been snapped. Bile had pooled at the back of her throat.
 			The flash of an FI's camera shook him from his stupor. He pulled out his notebook, and began writing.
 			"Naismith." his superior, DCS Dorsey, nodded. "Alright, give it to me."
 			"Cause of death is the broken neck." he began unsurely.
@@ -12048,7 +12069,11 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Inferno
 		______________________________
 		SCENE
-			It was mid-March, 2002. A young Connor sat in his room, in a house on the Bogside. Other sections of the district were bombed-out ruins - the dreadful Bogside War was beginning, unbeknownst to the little boy. He was drawing on a piece of paper.
+			Sunday. Mid-March, 2002. The Bogside, Derry.
+			Bloody Sunday. Always a Bloody Sunday.
+			Every day was Sunday, these days.
+
+			A young Connor sat in his room, in a house on the Bogside. Other sections of the district were bombed-out ruins - the dreadful Bogside War was beginning, unbeknownst to the little boy. He was drawing on a piece of paper.
 			His grandparents, Eamon and Geraldine, came in through the door. Eamon headed straight for his armchair, and began reading a book. Geraldine sighed, and went upstairs.
 			"Hello, sweetheart." she began.
 			"Granny!" Connor smiled.
@@ -12673,7 +12698,11 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Cold Comfort
 		______________________________
 		SCENE
-			Chloe and Sparky approached the cafe. Chloe had changed from her jogging outfit to jeans and a hoodie - specifically, the one Connor gave her - and she was walking with Sparky next to her. Sparky was wearing his collar, but he wasn't leashed. As they walked, an older woman sneered at them both.
+			Chloe pulled her hoodie tighter around herself. Specifically, it was the red one Connor had gifted her weeks ago, after saving her from a Skull ambush.
+			It helped her feel safeer. But still, it did little to settle the knot forming in her stomach. Something felt off.
+			Sensing his packmate's unease, Sparky brushed up by her leg, and pushed into her.
+			"Hah, thanks buddy." she smiled.
+			As they walked, an older woman sneered at them both.
 			"That thing should be on lead and in a muzzle."
 			Sparky whimpered slightly, hurt by the words and reminded of his restraints in the lab. Chloe, noticing his discomfort, stroked his head warmly, and they walked on. They arrived at the cafe, greeted by Bea who ran up to them and hugged her.
 			"Hey, girl! How was your run?"
@@ -13299,9 +13328,8 @@ VOLUME - Wolves Among Sheep
 	EPISODE - A Good Person
 		______________________________
 		SCENE
-			It was November, 2011, and snowflakes were falling down onto the crisp schoolyard in Drackhill.
-			A young Connor was sat on a wall, eating his lunch. He was on his own.
-			A group of boys approached him. Trey was among them.
+			November 2011. Snow on the ground. And for the first time in a decade, Connor had almost forgotten what day it was. Almost.
+			A group of boys approached him - Trey among them.
 			"What's up, Barrett?" one of the boys asked, putting his hand on Connor's shoulder. He tensed.
 			"Nothing. Please don't touch me." Connor replied bluntly.
 			"Please don't touch meee." the boy said mockingly, tightening his grip.
@@ -14015,7 +14043,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			As the afternoon sun hung above the valley, the Werewolves had decided to spend their rare moment of peace at the garage. It was closed for the day, so in the break room, Sparky sprawled on the sofa watching the TV. Connor was sat at the table, shirtless. Amy had her tattoo kit out, and was straining against his toughened skin. The newsreader was talking on the screen.
-			"And in political news, the government has passed the controversial Terrorism Act, which gives police forces the authority to arrest and detain anyone suspected of terrorism offences for up to 60 days, as well as expanding the use of the Diplock Court system to apply to such cases in mainland Britain. Critics argue that the bill is a glorified method of detaining citizens without trial or probable cause..." it continued.
+			"And in political news, parliament has voted to extend the emergency provisions of the controversial Terrorism Act, which gives police forces the authority to arrest and detain anyone suspected of terrorism offences for up to 60 days, as well as expanding the use of the Diplock Court system to apply to such cases in mainland Britain. Inspired by the similar Patriot Act in the USA, the legislation was initially passed in 2004. Critics argue that the amendment is a glorified method of detaining citizens without trial or probable cause..." it continued.
 			"Fuckin' idiots." Connor muttered. "Diplock Courts? This isn't Belfast, and it's not the bloody 90's."
 			"Alright, Vince, calm down." Amy grinned. Connor chuckled, but it was subdued.
 			"What's that?" Sparky asked, head tilted.
@@ -17472,7 +17500,10 @@ VOLUME - Gods Among Men
 	EPISODE - Hurt
 		______________________________
 		SCENE
-			It was autumn, 2012. Chloe was sat in her bedroom. Her scar was present - and far, far worse than the present day. It looked as though someone had taken a carving knife from her left eye down to the corner of her jawbone. She stared a thousand yards ahead, her expression vacant.
+			Autumn 2012. Chloe was fifteen years old, and she was trying to die.
+			Her scar was present - and far, far worse than the present day. It looked as though someone had taken a carving knife from her left eye down to the corner of her jawbone. She stared a thousand yards ahead, her expression vacant.
+			It had only recently happened.
+			No, not 'happened.' Cancer 'happens.' This was *done* to her.
 			Downstairs, William was sat at the table, rubbing his temples. Catherine was reading the bible.
 			Sveta came in from Oliver's bedroom. She sat down with them.
 			"I'm worried about her." William finally began.
@@ -18720,11 +18751,12 @@ VOLUME - Gods Among Men
 	EPISODE - A Pack of Heroes
 		______________________________
 		SCENE
-			April, 1996. A young woman got off a bus. She had a travel bag with her. As she stepped off, a younger Vince, in his 20s, rushed over and hugged her. She hugged him back.
-			"Laura..." Vince said softly.
-			"Vince..." she replied, hugging tightly.
-			Vince grabbed her travel bag, and the two began walking.
-			"I'm sorry... I'm sorry it was such short notice." she said.
+			April, 1996. Laura Barrett was lost, terrified, and had nowhere else to go.
+			No sooner had she stepped off before a younger Vince, in his 20s, rushed over and hugged her. She hugged him back, sinking into it.
+			"Laura..." he said softly.
+			"Vince..." she whispered the name, like a prayer.
+			He grabbed her travel bag, and the two began walking.
+			"I'm sorry... I'm sorry it was such short notice."
 			"No, not at all. You know I'm always here for you, sis." Vince replied.
 			Laura smiled sadly.
 			"What happened, Laura? What's wrong?"
@@ -18734,7 +18766,7 @@ VOLUME - Gods Among Men
 			"So, listen. You can stay here as long as you need. I'll take the sofa." 
 			"No, no, Vince. I'll take the sofa, it's fine." she protested.
 			"Sis..." Vince began, "It's okay. The bed's crap."
-			The pair had a chuckle at that.
+			The pair had a much-needed chuckle.
 			Vince grabbed a bottle of whiskey.
 			"Glass?" he offered her. She shook her head.
 			"That's the thing, Vince... I..." she began.
@@ -20800,7 +20832,13 @@ VOLUME - Gods Among Men
 		Yaz is saved
 		______________________________
 		SCENE
-			That Wednesday, Connor and Sparky sat patiently on a plane. Ivan had a whiteboard with several notes on it. He stood and adressed the pair.
+			Wednesday, 20th of January 2016.
+			Maybe, just maybe, a date that would be remembered fondly by students of history.
+			Liberation Day.
+			The day a tyrant died.
+			The day that the Chechen National Legion fell, and the Chechen ASSR was reborn.
+			All that was certain, in the early hours of the morning though, as a covert plane rode over the skies of the Caucasus, was that two Werewolves were hungry.
+			Connor and Sparky sat on their seats, furiously scarfing down some pre-battle snacks. Ivan had a whiteboard with several notes on it. He stood and adressed the pair.
 			"Another briefing?" Connor snarked.
 			"Blah blah, Chechnya, blah blah, Russians, blah blah." Ivan jested back. "To summarise, Chechnya was conquered by the Timurids - a Turco-Mongol state in Iran - before Ivan the Terrible--"
 			"You're not that bad!" Sparky barked, confused.
@@ -21604,6 +21642,7 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			Connor ascended the stairs, taking a moment to un-morph his mask and wipe his nose. The bullet to the head didn't crack his skull, but it still hurt.
+			He had to save her. He *had* to.
 			"Stunlocke - escort the hostages out of the reception. I'm going up." he said over the radio.
 			"Copy that. There's a few wounded here - I'll apply first aid, and join Spartacus when I'm done." she audibly nodded. "Are you gonna be okay?"
 			"I have to be. Chloe needs me."
@@ -22019,7 +22058,8 @@ VOLUME - Gods Among Men
 	EPISODE - Truth & Reconciliation
 		______________________________
 		SCENE
-			That morning, Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
+			Some night are so horrible, they seem like they'll go on forever. But still, the sun eventually, stubbornly rises above the horizon. The dawn cares little for betrayal.
+			Chloe woke up with Sparky curled in her legs. She smiled softly, and went to the bathroom. She took out her purse, took her medication, checked her blood sugar, and noticed it was rather low. She took a sip of her lucozade, took a deep breath, and checked her phone. There were 17 missed calls from Sveta. She smiled, and phoned her back.
 			"[Are you okay, dorogaya?! What happened? Are you safe?]" Sveta answered almost immediately.
 			"[Sveta... I'm fine. I'm not hurt.]" Chloe replied, glad to hear her voice.
 			Sveta breathed a deep sigh of relief. "[Oh, dorogaya... I saw the attack on the news, and I remembered you saying you had an internship in those labs. What happened?!]"
@@ -22461,7 +22501,7 @@ VOLUME - Gods Among Men
 	EPISODE - Judgement Day
 		______________________________
 		SCENE
-			It had been a chaotic few days - but days, nonetheless. The sun dragged itself out from the horizon, whispering over the valley.
+			It had been a chaotic few days - but days, nonetheless. The sun dragged itself up, whispering over the valley.
 			Chloe was sitting on a bench in the repair shop, sipping a latte. Amy approached.
 			"Hey, girl! How are you holding up?" she asked, hugging Chloe.
 			"Heya! Yeah, I'm doing okay." she replied, hugging back.
@@ -23714,6 +23754,10 @@ VOLUME - Gods Among Men
 	EPISODE - Thicker than Water
 		______________________________
 		SCENE
+			"He's gonna be okay."
+			Connor must've whispered those words to himself a thousand times.
+			He was a powerful man. A mutant. An Esper. Maybe, just maybe... he could will it into truth.
+
 			The gang sat in the prison's hospital waiting room. Connor was pacing wildly. Amy was scratching her hands nervously, with Bea trying to comfort her. Trey was tapping his foot, arms folded. Chloe was stroking Sparky, looking at Connor with sympathy. Shannon sat with the group, holding her shoulders nervously.
 			An orderly approached. "Oi. No dogs allowed." he said, motioning towards Sparky.
 			Connor simply walked up to the orderly and stared him down.
@@ -24445,8 +24489,9 @@ VOLUME - Gods Among Men
 	EPISODE - Snowfall
 		______________________________
 		SCENE
-			The next morning, Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
-			The sun was only just starting to peek over the horizon. It had snowed in the night, and the garden was frosted over. The light glistened off of the snow, but the air was so cold, it wouldn't even dream of melting. He saw Sparky curled up in Luna's dog bed, cuddling her. The two dogs awoke on his approach.
+			The sun was only just starting to peek over the horizon. It had snowed in the night, and the garden was frosted over. The light glistened off of the snow, but the air was so cold, it wouldn't even dream of melting.
+			Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
+			He saw Sparky curled up in Luna's dog bed, cuddling her. The two dogs awoke on his approach.
 			"Morning, Connor!" Sparky smiled. "I think Luna needs toilet."
 			Connor smiled back, and let both dogs out. Sparky rolled in the snow.
 			"Oh wow!" he exclaimed. "It's like ice cream is falling from the sky!"
@@ -24973,30 +25018,6 @@ VOLUME - Gods Among Men
 	
 	______________________________
 	EPISODE - The Battle of Belson
-		______________________________
-		SCENE
-			It was late September, 1996. Phil and Kerry Morgan were visting Drackhill Maternity Clinic. There, an old Chinese doctor called them in.
-			"So, any new symptoms?" he asked.
-			"No, all fine, thank you." Kerry smiled.
-			"Good, good." the doctor nodded. He looked at the screen, and smiled.
-			"Everything appears on track to have a healthy baby boy. Have you thought of any names yet?" he asked.
-			"Well, he wants to name him after his father." Kerry grinned, motioning at Phil.
-			"I still think Jamal's a good middle name." Phil smirked.
-			"I'm not saying it can't be his middle name!" Kerry laughed. "Anyway, we think we like the name Trevor. Trey for short."
-			"Trevor! That's a wonderful name!" the doctor smiled. They left, and he pulled out his phone.
-			"This is Zhao." he began.
-			"Your report?" a Scandinavian voice replied.
-			"All is well for the Morgans. Progeny is progressing as planned."
-			"The other families?"
-			"I am unable to make any motion on Barrett, without attracting attention from the Commandant. Other women..." Zhao shuddered. "Other subjects appear to be developing Rejection Syndrome. We have covered this up, of course, telling them that no defects have been found."
-			"And how about your own family?"
-			"My... my daughter seems well, thank heavens."
-			"Excellent news." the voice replied. "Carry on."
-			Zhao sighed, and looked down at his phone. A text from his daughter, Mei.
-			"Will be home late - work have called me in. Can't wait to go on maternity!"
-			Zhao smiled softly, before shuddering at what he'd done.
-
-		Kerry's ultrasound/Zhao
 		______________________________
 		SCENE
 			"Though I walk through the valley of the shadow of death, I will fear no evil; for thou art with me... Thy rod, and thy staff; they comfort me."

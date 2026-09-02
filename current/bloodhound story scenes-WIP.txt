@@ -1163,7 +1163,7 @@ VOLUME - Wolves Among Sheep
 			He reached for his laptop, unlocked it, and checked the date. It had been just over a week since he was taken.
 			He took a deep breath, and allowed himself a smile. His sense of time was still disoriented - but the world hadn't moved on too far without him.
 			He checked the news, and some headlines stood out to him.
-			"MAN FOUND DEAD IN BELSON." "FIRE IN BLACKMARSH." "SERIOUS CAR CRASH IN REDBRIDGE."
+			"MAN FOUND DEAD IN BELSON." "FIRE IN BLACKMARSH." "SERIOUS CAR CRASH IN REDBRIDGE, MULTIPLE CASUALTIES."
 			He pulled up his red hood, and headed to the Singing Horse.
 
 		Vertigo
@@ -1624,9 +1624,9 @@ VOLUME - Wolves Among Sheep
 
 			Inside the library sat Chloe and Bea, on their study laptops.
 			"How do you do it?" asked Bea, staring despondently at her books.
-			"Severe social isolationism." Chloe quipped.
+			"Severe social isolationism."
 			"Hey!" Bea grinned.
-			"Okay." Chloe smirked. "Moderate social isolationism."
+			"Okay. Moderate social isolationism."
 			"Thank you. I did my part!"
 
 			Connor, meanwhile, was reading a book at the shelves while pacing. He wasn't a student, and didn't want to sit at some random table with strangers. Trey had misunderstood Connor's interest, and was instead browsing the sci-fi aisle.
@@ -2288,7 +2288,7 @@ VOLUME - Wolves Among Sheep
 			"Happy birthday, bro." Trey smiled.
 			"Thanks, bro." Connor nodded, and left.
 
-			Across town, an older man in an old-fashioned outfit was working on a fobwatch. He was wearing an eyeglass to see better. He looked closer, focused, and smiled in satisfaction.
+			Across town, an ancient man in an old-fashioned outfit was working on a fobwatch. He was wearing an eyeglass to see better. He looked closer, focused, and smiled in satisfaction.
 			"There it is!"
 			He spoke in a thick Hungarian accent, but his English pronounciation was flawless - a clear indication that he'd been living in the UK for a long, long time.
 			The shop bell rang as Connor walked in.
@@ -19236,50 +19236,46 @@ VOLUME - Gods Among Men
 			The pair finished their food, and sat outside on a bench, smiling.
 
 			"You know..." Chloe began, hesitantly. "Bea's been telling me for ages to just ask you out. If you hadn't, I was seriously going to beat you to it."
-			"Hah, really?" Connor replied, eyebrow raised. "That's good to hear."
-			Chloe smiled. "Bea's always been looking out for me. Ever since everything happened with Francis, she's been very suspicious of boys around me, you know? It... It makes me happy that she likes you. It makes me feel more comfortable."
+			"Hah, really?" he grinned, eyebrow raised. "That's good to hear."
 			She looked down slightly. "So, um... What do you normally do on dates?"
 			"Oh, well, I can't say I've had many, haha." he chuckled, scratching the back of his head. "What about you?"
-			"Well, I'm the same. I... I haven't had many dates either. I haven't actually had any since Francis, and before that, the dates I had were all kind of... forced." she said, looking away slightly. Her self-consciousness kicked in - "Why am I talking about Francis so much? He's going to get put off..." she thought.
-			"Forced?" Connor asked, concerned.
-			"Eh, you know how it is... A couple of persistent guys who'd stop at nothing to go out with me. They'd act all nice, and then get upset when I didn't immediately fall for them."
-			"I know the type." Connor nodded in understanding. "The kind who view friendship with women as transactional. I'm sorry you had to put up with that..."
-			"So... My frame of reference for what you're supposed to do on a date... It's not the best." Chloe said shyly. "You know, all the unspoken rules for what you should or shouldn't do."
-			"Well, Trey sharted on a first date - that's probably a big no-no." Connor snarked, eliciting laughter.
-			"Haha! Well, that too. But I meant more for... intimacy and things of that nature."
-			"Well, if anyone is going to be unfamiliar with unspoken rules, it's this guy." Connor grinned, pointing at himself. Chloe chuckled.
-			"Hah, true... I suppose that's one advantage. You're not expecting anything..." she smiled softly. "So, um... You probably have more experience than I do when it comes to relationships..." she began. "Am I being too weird? Like, am I doing this wrong?"
-			Her face turned red.
-			"No, not at all!" Connor shook his head. "Also, I think you're overselling my experience here." he chuckled.
-			Chloe smirked. "Surely you've had plenty of girls fawning over you."
-			Connor laughed. "Oh yeah, 'Sarcastic ginger guys incapable of parsing subtext' are in *huge* demand, you know."
+			"Well, I'm the same. I... I haven't had many dates either. I haven't actually had any since, um... well, you-know-who. And even before that, I wasn't exactly Mrs. Popular, you know?" she said, looking away slightly.
+			"I get you." he nodded softly. "To be honest, I never really had much interest, as a kid. I know, teenage boys are expected to be girl-crazy, but I just... wasn't. I remember Vince thought I was gay, until I explained that I wasn't interested in boys either."
+			She chuckled. "Well, I'm glad I managed to pique your interest."
+			He brushed her hand gently, smiling. "That, and puberty hit me like a fuckin' freight train. I was an ugly fifteen year old. I had to settle for Trey being my prom date."
+			She burst into giggles, and leaned back, releasing some tension in her shoulders. He smiled warmly.
+			Chloe smirked. "Still... I bet, once you finished school, you had plenty of girls fawning over you. Lots of broken hearts, I imagine?"
+			Connor laughed. "Oh yeah, 'Sarcastic gingers incapable of parsing subtext' are in *huge* demand, you know."
 			She chuckled. "Well... It worked on me."
 			He smiled. "I've only had one relationship before." he admitted. "It... didn't end well."
 			"I remember you saying." she began. "On Trey's birthday."
 			"Well remembered. I, um... I wasn't blameless there. I... had trouble with picking up on her needs. And I really, *really* don't want to put you through that. I mean, I know obviously that you won't do the same thing, I..." Connor stumbled over his words, and scratched the back of his head.
 			Chloe smiled, and put her hand on his shoulder. "It's okay, I know what you mean. And I promise, I'll do my best to communicate my needs openly."
 			Connor relaxed. "Thank you. The last thing I want is for you to feel neglected."
-			Chloe blushed, and leant back. "I know you're insecure about the whole subtext thing, but... it's one of the things I really like about you." she began. "When we first met, I was worried I was rambling too much, or being too awkward, but you were so... kind. I know I'm not autistic, so it's different, but... it's refreshing to not have to worry about all the little things us neurotypicals communicate with."
+			Chloe blushed, and leant back. "I know you're insecure about the whole subtext thing, but... it's one of the things I really like about you. When we first met, I was worried I was rambling too much, or being too awkward, but you were so... kind. I know I'm not autistic, so it's different, but... it's refreshing to not have to worry about all the little things us neurotypicals communicate with."
 			Connor smiled, and brushed her shoulder. "That's what I keep telling people. Our method of communication is way more efficient." he grinned.
 			Chloe laughed. "I second that."
 			She paused for a moment. "I, um... Thank you for asking me out."
 			Connor smiled, happily. "Thank you for coming out. I... I'm sorry I didn't ask you sooner."
-			Chloe brushed a strand of her hair. "I'm not gonna lie... I was way too shy to make the first move."
+			She brushed a strand of her hair. "I'm not gonna lie... I was way too shy to make the first move."
 			Connor tilted his head. "Why was that?"
-			She blushed. "I, um... I wasn't sure you'd like me too."
+			"I, um... I wasn't sure you'd like me too."
 			Connor reached out and stroked her cheek. She blushed, and pushed her head into his palm.
 			"Chloe..." he began, steeling himself. "I want--no, I *need* you to know... I really like you. For the longest while, *I* was too shy to make the first move."
 			Chloe chuckled. "So we both liked the other, and thought the other didn't like us back. There's a joke there somewhere."
 			The two lauged, and leant back, holding hands.
 			Chloe broke the silence.
-			"I, uh... I'm sorry I spoke about Francis so much earlier."
-			"What do you mean?" Connor asked, confused.
-			"I mean... once we sat down, I mentioned him twice. I mean, crap, I'm talking about him again now..." she stammered. "I just... I don't want you to think I'm not over it."
+			"I, uh... I'm sorry I spoke about... about *him* earlier."
+			"What do you mean?"
+			"I mean... once we sat down, I mentioned him--I mean, crap, I'm talking about him again now..." she stammered. "I just... I don't want you to think I'm not over it, or something."
 			Connor smiled softly, and stroked her cheek again.
 			"Chloe, it's okay. It's... trauma. And it's perfectly natural for it to play on your mind at a time like this." he nodded understandingly.
 			Chloe smiled, and a tear formed in her eye. "I just... I don't want it to get in the way of us..." she said softly.
-			"It won't." Connor replied. "It might impact things, but that doesn't mean it's getting in the way. We can take this at our own pace. Whatever feels right for both of us - one date at a time. That is, if you'd like to have a second date..."
-			"I would love to. I've really enjoyed our first one, Connor." Chloe replied, blushing. Connor smiled warmly, and brushed a strand of hair behind her ear, deftly avoiding knocking her hearing aids.
+			"It won't." Connor replied. "It might impact things, but that doesn't mean it's getting in the way. We can take this at our own pace. Whatever feels right for both of us - one date at a time."
+			She blushed, looking deep into his eyes. "Well, I might not have much experience with dating... but this has been a really nice one."
+			"Oh, yeah. Easily top ten." Connor grinned.
+			She playfully whacked his arm, and they giggled together.
+			Connor smiled warmly, and brushed a strand of hair behind her ear, deftly avoiding knocking her hearing aids.
 			She gave him a deep, warm smile, and kissed his cheek.
 			"Are you going out tonight?" she asked.
 			"Oh, um--I have work." he replied evasively. "Amy's bike's been playing up, and she's demanded I fix it before doing anything else."
@@ -19296,7 +19292,7 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			"Soo... tell me how it went!" Bea asked, grinning.
-			Chloe chuckled, leaning back into her sofa. 
+			Chloe chuckled, leaning back into her sofa.
 			"Hah, I mean, I think it went well..." she blushed.
 			"You totally kissed, didn't you?" Bea asked, pouring a glass of wine.
 			Her cheeks somehow went even redder, and Bea cheered happily.
@@ -19402,7 +19398,7 @@ VOLUME - Gods Among Men
 			She looked up into the sky, and gasped as she spotted it.
 			A great black mass with red eyes, riding the wind.
 			For a moment, it seemed like it was looking at her. Without thinking, she gave it a gentle wave.
-			Connor let the breeze slow his soar, as he focused his gaze down onto her.
+			Connor let the breeze slow his soar, as he focused his red gaze down onto her.
 			He smiled giddily under his mask, and had to sharply swerve to avoid crashing head-first into a wall.
 			A distraction, sure - but a welcome one.
 			"So... don't think all this superhero business is gonna get you off the hook." Amy audibly grinned over the radio.
@@ -23687,7 +23683,7 @@ VOLUME - Gods Among Men
 			"Um... I'm a superhero too." Amy admitted.
 			"This... is getting weird now." Bea shook her head.
 			"Bea..." Connor began, his voice cracking. "What matters is, the killings weren't me."
-			Chloe interjected. The past few days, he was in the hospital, physically *growing* his chest back, because the monster punched it clean out." she said, rising to Connor's side. "He's the reason those killings have stopped. And don't forget all the people he's saved too. Including us."
+			Chloe interjected. "The past few days, he was in the hospital, physically *growing* his chest back, because the monster punched it clean out." she said, rising to Connor's side. "He's the reason those killings have stopped. And don't forget all the people he's saved too. Including us."
 			Bea folded her arms. "Prove it."
 			"Bea?" Connor asked.
 			"Prove you were injured." she explained.

@@ -1,0 +1,1037 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloodhound — Interactive Reader</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.8;
+            background-color: #0d1117;
+            color: #e6edf3;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1000px;
+            width: 100%;
+            margin: 0 auto;
+            background-color: #161b22;
+            border-radius: 16px;
+            padding: 35px 45px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            border: 1px solid #30363d;
+        }
+
+        h1 {
+            font-size: 2.2rem;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            color: #f0f6fc;
+            border-bottom: 2px solid #30363d;
+            padding-bottom: 16px;
+            margin-bottom: 28px;
+            text-align: center;
+        }
+
+        h1 span {
+            background: linear-gradient(135deg, #f0883e, #f6a85b);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .nav-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 14px;
+            margin-bottom: 30px;
+            padding: 16px 0;
+            border-bottom: 1px solid #30363d;
+        }
+
+        .nav-group {
+            flex: 1;
+            min-width: 160px;
+        }
+
+        .nav-group label {
+            display: block;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            font-weight: 600;
+            color: #8b949e;
+            margin-bottom: 5px;
+        }
+
+        .nav-group select {
+            width: 100%;
+            padding: 10px 14px;
+            font-size: 0.95rem;
+            font-family: inherit;
+            background-color: #0d1117;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            appearance: none;
+            -webkit-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b949e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 14px center;
+            background-size: 12px;
+        }
+
+        .nav-group select:hover {
+            border-color: #58a6ff;
+        }
+
+        .nav-group select:focus {
+            outline: none;
+            border-color: #58a6ff;
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.15);
+        }
+
+        .nav-group select:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            background-color: #0d1117;
+        }
+
+        .nav-group select::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .nav-group select::-webkit-scrollbar-track {
+            background: #0d1117;
+            border-radius: 4px;
+        }
+
+        .nav-group select::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        .nav-group select::-webkit-scrollbar-thumb:hover {
+            background: #484f58;
+        }
+
+        .content-area {
+            padding: 8px 0 4px 0;
+            min-height: 320px;
+        }
+
+        .scene-title {
+            font-size: 1.8rem;
+            font-weight: 500;
+            margin-bottom: 20px;
+            color: #f0f6fc;
+            border-left: 4px solid #f0883e;
+            padding-left: 20px;
+            letter-spacing: -0.3px;
+        }
+
+        .scene-content {
+            font-size: 1.25rem;
+            word-wrap: break-word;
+            max-height: 75vh;
+            overflow-y: auto;
+            padding-right: 8px;
+            color: #d1d9e0;
+            line-height: 1.2;
+            white-space: normal;
+        }
+
+        .scene-content p {
+            margin: 0 0 1.25em 0;
+        }
+
+        .scene-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .scene-content::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .scene-content::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .scene-content::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        .scene-content::-webkit-scrollbar-thumb:hover {
+            background: #484f58;
+        }
+
+        .message {
+            font-size: 1.1rem;
+            color: #8b949e;
+            font-style: italic;
+            padding: 50px 0;
+            text-align: center;
+        }
+
+        .error {
+            color: #f85149;
+            padding: 20px;
+            background-color: rgba(248, 81, 73, 0.08);
+            border-radius: 10px;
+            border-left: 4px solid #f85149;
+        }
+
+        .error code {
+            background-color: rgba(248, 81, 73, 0.12);
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+
+        .status {
+            font-size: 0.85rem;
+            color: #8b949e;
+            text-align: center;
+            margin-top: 22px;
+            padding-top: 16px;
+            border-top: 1px solid #30363d;
+            font-family: inherit;
+        }
+
+        .status.error {
+            color: #f85149;
+        }
+
+        .debug-toggle {
+            margin-top: 16px;
+            padding: 8px 18px;
+            cursor: pointer;
+            background-color: #21262d;
+            color: #8b949e;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.8rem;
+            transition: all 0.2s;
+        }
+
+        .debug-toggle:hover {
+            background-color: #30363d;
+            color: #e6edf3;
+            border-color: #484f58;
+        }
+
+        .debug-info {
+            margin-top: 16px;
+            padding: 16px 18px;
+            background-color: #0d1117;
+            border-radius: 10px;
+            border: 1px solid #30363d;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.78rem;
+            max-height: 320px;
+            overflow-y: auto;
+            display: none;
+            white-space: pre-wrap;
+            color: #8b949e;
+            line-height: 1.6;
+        }
+
+        .debug-info.visible {
+            display: block;
+        }
+
+        .debug-info::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .debug-info::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .debug-info::-webkit-scrollbar-thumb {
+            background: #30363d;
+            border-radius: 4px;
+        }
+
+        .file-load-area {
+            margin-bottom: 20px;
+            padding: 20px;
+            background: #0d1117;
+            border-radius: 10px;
+            border: 2px dashed #30363d;
+            text-align: center;
+        }
+
+        .file-load-area input[type="file"] {
+            display: none;
+        }
+
+        .file-load-area .file-btn {
+            display: inline-block;
+            padding: 12px 28px;
+            background: #238636;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: background 0.2s;
+        }
+
+        .file-load-area .file-btn:hover {
+            background: #2ea043;
+        }
+
+        .file-load-area .file-label {
+            display: block;
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-top: 8px;
+        }
+
+        @media (max-width: 700px) {
+            .container {
+                padding: 20px;
+                border-radius: 12px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            .nav-container {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .nav-group {
+                min-width: 100%;
+            }
+
+            .scene-title {
+                font-size: 1.4rem;
+                padding-left: 14px;
+            }
+
+            .scene-content {
+                font-size: 1.0rem;
+                max-height: 60vh;
+                line-height: 1.0;
+            }
+
+            .nav-group select {
+                font-size: 0.9rem;
+                padding: 9px 12px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            body {
+                padding: 10px;
+            }
+
+            .container {
+                padding: 16px;
+            }
+
+            h1 {
+                font-size: 1.4rem;
+            }
+
+            .scene-title {
+                font-size: 1.2rem;
+            }
+
+            .scene-content {
+                font-size: 0.92rem;
+                line-height: 1.0;
+            }
+        }
+
+        .loading-dots::after {
+            content: '';
+            animation: dots 1.5s steps(4, end) infinite;
+        }
+
+        @keyframes dots {
+            0% { content: ''; }
+            25% { content: '.'; }
+            50% { content: '..'; }
+            75% { content: '...'; }
+            100% { content: ''; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📖 <span>Bloodhound</span></h1>
+
+        <!-- File Load Area -->
+        <div class="file-load-area" id="fileLoadArea">
+            <p style="color: #e6edf3; margin-bottom: 12px;">📂 Load your story file</p>
+            <input type="file" id="fileInput" accept=".txt">
+            <button class="file-btn" onclick="document.getElementById('fileInput').click()">
+                Choose File
+            </button>
+            <span class="file-label">Select: <code>bloodhound story scenes-WIP.txt</code></span>
+        </div>
+
+        <div class="nav-container">
+            <div class="nav-group">
+                <label for="volume-select">Volume</label>
+                <select id="volume-select">
+                    <option value="">— Loading —</option>
+                </select>
+            </div>
+            <div class="nav-group">
+                <label for="episode-select">Episode</label>
+                <select id="episode-select" disabled>
+                    <option value="">— Select Episode —</option>
+                </select>
+            </div>
+            <div class="nav-group">
+                <label for="scene-select">Scene</label>
+                <select id="scene-select" disabled>
+                    <option value="">— Select Scene —</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="content-area" id="content-area">
+            <div class="message">Load a story file to begin reading<span class="loading-dots"></span></div>
+        </div>
+
+        <div class="status" id="status">Ready — please load a story file.</div>
+        
+        <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
+        <div class="debug-info" id="debug-info"></div>
+    </div>
+
+    <script>
+        (function() {
+            'use strict';
+
+            const STORY_FILE = 'bloodhound story scenes-WIP.txt';
+
+            const volumeSelect = document.getElementById('volume-select');
+            const episodeSelect = document.getElementById('episode-select');
+            const sceneSelect = document.getElementById('scene-select');
+            const contentArea = document.getElementById('content-area');
+            const statusEl = document.getElementById('status');
+            const debugInfo = document.getElementById('debug-info');
+            const debugToggle = document.getElementById('debug-toggle');
+            const fileInput = document.getElementById('fileInput');
+
+            let storyData = null;
+            let debugLog = [];
+
+            function logDebug(msg) {
+                debugLog.push(msg);
+                console.log(msg);
+                debugInfo.textContent = debugLog.join('\n');
+            }
+
+            debugToggle.addEventListener('click', function() {
+                debugInfo.classList.toggle('visible');
+                this.textContent = debugInfo.classList.contains('visible') ? '📋 Hide Debug Info' : '📋 Show Debug Info';
+            });
+
+            function setStatus(msg, isError = false) {
+                statusEl.textContent = msg;
+                statusEl.className = 'status' + (isError ? ' error' : '');
+            }
+
+            /**
+             * Removes leading indentation from scene content for display.
+             * Finds the minimum indentation across all non-empty lines and removes it.
+             * Preserves all blank lines.
+             */
+            function stripIndentation(content) {
+                if (!content) return '';
+                
+                const lines = content.split('\n');
+                let minIndent = Infinity;
+                
+                // Find the minimum indentation among non-empty lines
+                for (let line of lines) {
+                    if (line.trim() !== '') {
+                        const match = line.match(/^(\s*)/);
+                        const indent = match ? match[1].length : 0;
+                        if (indent < minIndent) {
+                            minIndent = indent;
+                        }
+                    }
+                }
+                
+                // If no non-empty lines or minIndent is 0, return as-is
+                if (minIndent === Infinity || minIndent === 0) {
+                    return content;
+                }
+                
+                // Remove the minimum indentation from each line, but leave empty lines untouched
+                const strippedLines = lines.map(line => {
+                    if (line.trim() === '') return line;
+                    return line.substring(minIndent);
+                });
+                
+                return strippedLines.join('\n');
+            }
+
+            /* ----- split on newlines and wrap each non‑empty line in <p> ----- */
+            function showContent(title, content) {
+                if (!content) {
+                    contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
+                    return;
+                }
+                // Strip indentation first
+                const stripped = stripIndentation(content);
+                // Split into lines
+                const lines = stripped.split('\n');
+                // Build HTML: each non‑empty line becomes a <p>, empty lines become <p>&nbsp;</p> to keep spacing
+                let html = '';
+                for (let line of lines) {
+                    const trimmed = line.trim();
+                    if (trimmed === '') {
+                        html += '<p>&nbsp;</p>';
+                    } else {
+                        const safe = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                        html += `<p>${safe}</p>`;
+                    }
+                }
+                contentArea.innerHTML = `
+                    <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
+                    <div class="scene-content">${html}</div>
+                `;
+            }
+
+            function populateSelect(select, items, defaultLabel) {
+                const currentValue = select.value;
+                select.innerHTML = '';
+                
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = defaultLabel || '— Select —';
+                defaultOption.disabled = true;
+                defaultOption.selected = true;
+                select.appendChild(defaultOption);
+
+                if (!items || items.length === 0) {
+                    select.disabled = true;
+                    return;
+                }
+
+                select.disabled = false;
+                items.forEach(item => {
+                    const option = document.createElement('option');
+                    if (typeof item === 'object' && item !== null && 'id' in item) {
+                        option.value = item.id;
+                        option.textContent = item.label;
+                    } else {
+                        option.value = item;
+                        option.textContent = item;
+                    }
+                    select.appendChild(option);
+                });
+
+                if (currentValue) {
+                    const optionExists = Array.from(select.options).some(opt => opt.value === currentValue);
+                    if (optionExists) {
+                        select.value = currentValue;
+                    } else {
+                        select.selectedIndex = 0;
+                    }
+                }
+            }
+
+            function extractName(tagLine) {
+                let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]?\s*/, '');
+                name = name.trim();
+                if (!name || name === tagLine.trim()) {
+                    return null;
+                }
+                return name;
+            }
+
+            function getIndentLevel(line) {
+                const match = line.match(/^(\s*)/);
+                return match ? match[1].length : 0;
+            }
+
+            function removeTrailingSceneName(content, sceneIndentLevel) {
+                if (!content) return '';
+                
+                const lines = content.split('\n');
+                
+                while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                    lines.pop();
+                }
+                
+                if (lines.length > 0) {
+                    const lastLine = lines[lines.length - 1];
+                    const lastIndent = getIndentLevel(lastLine);
+                    
+                    if (lastIndent <= sceneIndentLevel && 
+                        !lastLine.trim().startsWith('SCENE') && 
+                        !lastLine.trim().startsWith('EPISODE') && 
+                        !lastLine.trim().startsWith('VOLUME')) {
+                        lines.pop();
+                        while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                            lines.pop();
+                        }
+                    }
+                }
+                
+                return lines.join('\n');
+            }
+
+            function parseStory(text) {
+                logDebug('=== Starting parse ===');
+                const lines = text.split(/\r?\n/);
+                
+                const volumes = [];
+                let currentVolume = null;
+                let currentEpisode = null;
+                let currentScene = null;
+                let sceneContent = [];
+                let inScene = false;
+                let sceneIndentLevel = 0;
+                
+                let volumeCount = 0;
+                let episodeCount = 0;
+                let sceneCount = 0;
+
+                function saveScene() {
+                    if (inScene && currentScene && currentEpisode) {
+                        let content = sceneContent.join('\n').trimEnd();
+                        content = removeTrailingSceneName(content, sceneIndentLevel);
+                        currentEpisode.scenes.push({
+                            id: `scene-${Date.now()}-${Math.random()}`,
+                            name: currentScene,
+                            content: content
+                        });
+                        sceneContent = [];
+                        inScene = false;
+                        logDebug(`  Saved scene: "${currentScene}" (${content.length} chars)`);
+                    }
+                }
+
+                function saveEpisode() {
+                    saveScene();
+                    if (currentEpisode && currentVolume) {
+                        const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
+                        if (!exists) {
+                            currentVolume.episodes.push(currentEpisode);
+                            logDebug(`  Saved episode: "${currentEpisode.name}" with ${currentEpisode.scenes.length} scenes`);
+                        }
+                        currentEpisode = null;
+                    }
+                }
+
+                for (let i = 0; i < lines.length; i++) {
+                    const line = lines[i];
+                    const trimmed = line.trim();
+
+                    if (trimmed === '') {
+                        if (inScene && currentScene) {
+                            sceneContent.push(line);
+                        }
+                        continue;
+                    }
+
+                    if (trimmed.startsWith('VOLUME')) {
+                        logDebug(`Found VOLUME at line ${i+1}: "${trimmed}"`);
+                        volumeCount++;
+                        episodeCount = 0;
+                        sceneCount = 0;
+                        saveEpisode();
+                        const volumeName = extractName(trimmed) || `Volume ${volumes.length}`;
+                        currentVolume = {
+                            name: volumeName,
+                            episodes: []
+                        };
+                        volumes.push(currentVolume);
+                        logDebug(`Created volume: "${volumeName}"`);
+                        continue;
+                    }
+
+                    if (trimmed.startsWith('EPISODE')) {
+                        logDebug(`Found EPISODE at line ${i+1}: "${trimmed}"`);
+                        episodeCount++;
+                        sceneCount = 0;
+                        saveEpisode();
+                        if (!currentVolume) {
+                            currentVolume = {
+                                name: 'Volume 1',
+                                episodes: []
+                            };
+                            volumes.push(currentVolume);
+                        }
+                        let episodeName = extractName(trimmed);
+                        if (!episodeName && i + 1 < lines.length) {
+                            const nextLine = lines[i + 1].trim();
+                            const isDivider = /^_+$/.test(nextLine);
+                            if (nextLine && !isDivider &&
+                                !nextLine.startsWith('EPISODE') && 
+                                !nextLine.startsWith('SCENE') && 
+                                !nextLine.startsWith('VOLUME')) {
+                                episodeName = nextLine;
+                                i++;
+                                logDebug(`  Using next line as episode name: "${episodeName}"`);
+                            }
+                        }
+                        if (!episodeName) {
+                            episodeName = `Episode ${episodeCount}`;
+                        }
+                        currentEpisode = {
+                            id: `episode-${Date.now()}-${Math.random()}`,
+                            name: episodeName,
+                            scenes: []
+                        };
+                        logDebug(`Created episode: "${episodeName}"`);
+                        continue;
+                    }
+
+                    if (trimmed.startsWith('SCENE')) {
+                        logDebug(`Found SCENE at line ${i+1}: "${trimmed}"`);
+                        sceneCount++;
+                        saveScene();
+                        if (!currentEpisode) {
+                            if (!currentVolume) {
+                                currentVolume = {
+                                    name: 'Volume 1',
+                                    episodes: []
+                                };
+                                volumes.push(currentVolume);
+                            }
+                            currentEpisode = {
+                                id: `episode-${Date.now()}-${Math.random()}`,
+                                name: `Episode ${currentVolume.episodes.length + 1}`,
+                                scenes: []
+                            };
+                            logDebug('Created default episode');
+                        }
+                        
+                        sceneIndentLevel = getIndentLevel(line);
+                        logDebug(`  Scene indent level: ${sceneIndentLevel}`);
+                        
+                        let sceneName = extractName(trimmed);
+                        if (!sceneName) {
+                            sceneName = `Scene ${sceneCount}`;
+                        }
+                        
+                        currentScene = sceneName;
+                        sceneContent = [];
+                        inScene = true;
+                        logDebug(`Created scene: "${sceneName}" (Scene ${sceneCount})`);
+                        continue;
+                    }
+
+                    if (inScene && currentScene) {
+                        if (trimmed !== '______________________________' && 
+                            !trimmed.startsWith('SCENE') && 
+                            !trimmed.startsWith('EPISODE') && 
+                            !trimmed.startsWith('VOLUME')) {
+                            sceneContent.push(line);
+                        }
+                    }
+                }
+
+                logDebug('=== Final cleanup ===');
+                
+                if (inScene && currentScene && currentEpisode) {
+                    logDebug(`  Final scene before save: "${currentScene}" with ${sceneContent.length} lines`);
+                    let content = sceneContent.join('\n').trimEnd();
+                    content = removeTrailingSceneName(content, sceneIndentLevel);
+                    currentEpisode.scenes.push({
+                        id: `scene-${Date.now()}-${Math.random()}`,
+                        name: currentScene,
+                        content: content
+                    });
+                    sceneContent = [];
+                    inScene = false;
+                    logDebug(`  Final scene saved with cleanup applied`);
+                }
+                
+                saveEpisode();
+
+                volumes.forEach(volume => {
+                    volume.episodes.forEach(episode => {
+                        episode.scenes.forEach(scene => {
+                            const lines = scene.content.split('\n');
+                            while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                                lines.pop();
+                            }
+                            if (lines.length > 0) {
+                                const lastLine = lines[lines.length - 1];
+                                const lastIndent = getIndentLevel(lastLine);
+                                if (lastIndent < 4 && lastLine.trim().length < 60) {
+                                    const trimmed = lastLine.trim();
+                                    if (!trimmed.startsWith('"') && 
+                                        !trimmed.startsWith("'") &&
+                                        !trimmed.match(/[.,!?;:]/) &&
+                                        !trimmed.startsWith('SCENE') &&
+                                        !trimmed.startsWith('EPISODE') &&
+                                        !trimmed.startsWith('VOLUME')) {
+                                        lines.pop();
+                                        while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
+                                            lines.pop();
+                                        }
+                                        scene.content = lines.join('\n');
+                                        logDebug(`  Post-cleanup removed trailing name: "${trimmed}" from "${scene.name}"`);
+                                    }
+                                }
+                            }
+                        });
+                    });
+                });
+
+                logDebug(`=== Parse Complete ===`);
+                logDebug(`Found ${volumes.length} volumes`);
+                volumes.forEach((v, vi) => {
+                    logDebug(`  Volume ${vi}: "${v.name}" - ${v.episodes.length} episodes`);
+                    v.episodes.forEach((e, ei) => {
+                        logDebug(`    Episode ${ei+1}: "${e.name}" - ${e.scenes.length} scenes`);
+                        e.scenes.forEach((s, si) => {
+                            logDebug(`      Scene ${si+1}: "${s.name}" (${s.content.length} chars)`);
+                        });
+                    });
+                });
+
+                return { volumes };
+            }
+
+            function updateNavigation() {
+                if (!storyData || !storyData.volumes.length) {
+                    logDebug('No story data to update navigation');
+                    return;
+                }
+
+                const volumeLabels = storyData.volumes.map((v, index) => ({
+                    id: v.name,
+                    label: `${index} - ${v.name}`
+                }));
+                logDebug(`Updating volume dropdown with: ${volumeLabels.map(v => v.label).join(', ')}`);
+                populateSelect(volumeSelect, volumeLabels, '— Select Volume —');
+                volumeSelect.disabled = false;
+
+                populateSelect(episodeSelect, [], '— Select Episode —');
+                populateSelect(sceneSelect, [], '— Select Scene —');
+                contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
+                setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+            }
+
+            function updateEpisodes() {
+                const selectedVolume = volumeSelect.value;
+                logDebug(`updateEpisodes called with: "${selectedVolume}"`);
+                
+                if (!selectedVolume || !storyData) {
+                    populateSelect(episodeSelect, [], '— Select Episode —');
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
+                    return;
+                }
+
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) {
+                    logDebug(`Volume not found: "${selectedVolume}"`);
+                    populateSelect(episodeSelect, [], '— Select Episode —');
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const episodeLabels = volume.episodes.map((e, index) => ({
+                    id: e.id,
+                    label: `${index + 1} - ${e.name}`
+                }));
+                logDebug(`Found ${episodeLabels.length} episodes for volume "${selectedVolume}"`);
+                populateSelect(episodeSelect, episodeLabels, '— Select Episode —');
+                populateSelect(sceneSelect, [], '— Select Scene —');
+                contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
+            }
+
+            function updateScenes() {
+                const selectedVolume = volumeSelect.value;
+                const selectedEpisodeId = episodeSelect.value;
+                logDebug(`updateScenes called with volume: "${selectedVolume}", episodeId: "${selectedEpisodeId}"`);
+                
+                if (!selectedVolume || !selectedEpisodeId || !storyData) {
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
+                    return;
+                }
+
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) {
+                    logDebug(`Volume not found: "${selectedVolume}"`);
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const episode = volume.episodes.find(e => e.id === selectedEpisodeId);
+                if (!episode) {
+                    logDebug(`Episode not found with ID: "${selectedEpisodeId}"`);
+                    populateSelect(sceneSelect, [], '— Select Scene —');
+                    return;
+                }
+
+                const sceneItems = episode.scenes.map((s, index) => ({
+                    id: s.id,
+                    label: `${index + 1} - ${s.name}`
+                }));
+                logDebug(`Found ${sceneItems.length} scenes for episode "${episode.name}"`);
+                populateSelect(sceneSelect, sceneItems, '— Select Scene —');
+                contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
+            }
+
+            function displaySelectedScene() {
+                const selectedVolume = volumeSelect.value;
+                const selectedEpisodeId = episodeSelect.value;
+                const selectedSceneId = sceneSelect.value;
+                logDebug(`displaySelectedScene called with: ${selectedVolume} → ${selectedEpisodeId} → ${selectedSceneId}`);
+
+                if (!selectedVolume || !selectedEpisodeId || !selectedSceneId || !storyData) {
+                    contentArea.innerHTML = `<div class="message">Please make a selection.</div>`;
+                    return;
+                }
+
+                const volume = storyData.volumes.find(v => v.name === selectedVolume);
+                if (!volume) {
+                    logDebug(`Volume not found: "${selectedVolume}"`);
+                    return;
+                }
+
+                const episode = volume.episodes.find(e => e.id === selectedEpisodeId);
+                if (!episode) {
+                    logDebug(`Episode not found with ID: "${selectedEpisodeId}"`);
+                    return;
+                }
+
+                const scene = episode.scenes.find(s => s.id === selectedSceneId);
+                if (!scene) {
+                    logDebug(`Scene not found with ID: "${selectedSceneId}"`);
+                    contentArea.innerHTML = `<div class="error">Scene not found.</div>`;
+                    return;
+                }
+
+                logDebug(`Displaying scene "${scene.name}" with ${scene.content.length} characters`);
+                showContent(scene.name, scene.content);
+                setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
+            }
+
+            volumeSelect.addEventListener('change', function() {
+                const val = this.value;
+                logDebug(`=== Volume changed to: "${val}" ===`);
+                episodeSelect.selectedIndex = 0;
+                sceneSelect.selectedIndex = 0;
+                updateEpisodes();
+            });
+
+            episodeSelect.addEventListener('change', function() {
+                const val = this.value;
+                logDebug(`=== Episode changed to: "${val}" ===`);
+                sceneSelect.selectedIndex = 0;
+                updateScenes();
+            });
+
+            sceneSelect.addEventListener('change', function() {
+                const val = this.value;
+                logDebug(`=== Scene changed to: "${val}" ===`);
+                displaySelectedScene();
+            });
+
+            function loadStoryFromText(text) {
+                logDebug(`Loading story from provided text, ${text.length} characters`);
+                
+                try {
+                    const parsed = parseStory(text);
+                    storyData = parsed;
+                    
+                    if (!storyData.volumes || storyData.volumes.length === 0) {
+                        throw new Error('No volumes found in the file.');
+                    }
+
+                    updateNavigation();
+                    setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                    document.querySelector('.file-load-area').style.borderColor = '#238636';
+                } catch (error) {
+                    console.error('Error:', error);
+                    logDebug(`ERROR: ${error.message}`);
+                    contentArea.innerHTML = `
+                        <div class="error">
+                            <strong>Error loading story:</strong><br>
+                            ${error.message}
+                        </div>
+                    `;
+                    setStatus('Error loading story.', true);
+                }
+            }
+
+            // Handle file selection
+            fileInput.addEventListener('change', function(e) {
+                const file = e.target.files[0];
+                if (!file) return;
+                
+                setStatus(`Loading ${file.name}...`);
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    const text = event.target.result;
+                    loadStoryFromText(text);
+                };
+                reader.onerror = function() {
+                    setStatus('Error reading file.', true);
+                };
+                reader.readAsText(file);
+            });
+
+            // Try to load via fetch first (for server environments), fallback to file input
+            function loadStory() {
+                setStatus('Attempting to load story file...');
+                logDebug(`=== Trying to fetch: ${STORY_FILE} ===`);
+                
+                fetch(STORY_FILE)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP ${response.status}: Could not fetch '${STORY_FILE}'`);
+                        }
+                        return response.text();
+                    })
+                    .then(text => {
+                        logDebug(`File loaded via fetch, ${text.length} characters`);
+                        loadStoryFromText(text);
+                    })
+                    .catch(error => {
+                        console.log('Fetch failed, please use file input:', error.message);
+                        setStatus('📂 Please select the story file using the button above.');
+                        contentArea.innerHTML = `
+                            <div class="message">
+                                <p>📂 No story loaded.</p>
+                                <p style="font-size: 0.9rem; color: #8b949e; margin-top: 10px;">
+                                    Click the "Choose File" button above and select:<br>
+                                    <code style="background: #21262d; padding: 2px 8px; border-radius: 4px;">bloodhound story scenes-WIP.txt</code>
+                                </p>
+                            </div>
+                        `;
+                    });
+            }
+
+            // Start the app
+            loadStory();
+
+        })();
+    </script>
+</body>
+</html>

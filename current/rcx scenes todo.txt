@@ -12,6 +12,16 @@ remove Yaz completely. her arc contributes nothing of note. instead, end the the
 	solution; instead of after, have this happen *before* the theatre date:
 		1. Tommy is threatening some Skull mook to stay off his territory, when he gets a call from Mikhaela, the sex worker who Sparky saved. She's been evicted, so Tommy tells her to hang tight, he'll be there shortly. He then smacks the Skull again and tells Pawel to dump him somewhere
 		2. Connor is getting ready for his date with Trey, doing the tuxedo thing, when Tommy turns up with Mikhaela and the kid in tow. He asks that connor helps her get checked in; Connor does, while Trey and Shannon covertly cover up any evidence of them being superheroes. Sparky plays with the kid, doing the whole biggoggie speech.
+			2a. Connor calls chloe, convo below:
+				hey, you!
+				hey, um... i'm really sorry, but something's come up at the motel. don't worry, i'm not bailing again - but i don't know if i'll have time to pick you up *and* get to the theatre on time
+				hey, it's fine! as long as you're still coming to the theatre, it's absolutely fine. is everything alright at the motel?
+				yeah, it's all good, it's just *clears throat* we've had a woman and her kid turn up; she's just been evicted, they're completely broke... and i have room here, so i'm just sorting a room now
+				aww... connor, please don't ever feel like you need to be nervous about doing the right thing because of me, okay? even if this *did* mean you couldn't make it to the theatre, we could work something out.
+				thanks... that really means a lot
+				hey... i've got time to kill if you're not coming here; maybe i can get to yours?
+				uh--yeah, that works!
+				brilliant. i'll see you soon
 		3. chloe arrives, and walks into the common room to find connor soothing the kid by singing black velvet band. he hands him off to his mother, and they leave; tommy says he'll take sparky for a walk "as thanks"
 		later, chloe mentions black velvet band asking about it; more clean than connor saying craic randomly
 		end episode on high note soar
@@ -28,6 +38,21 @@ below is the water bottle moment: add that to the kid
 			"Eh." Connor shrugged. "When kids cry like that, it makes 'em hyperventilate - which freaks them out, and makes them cry even more. Have them drink something, and they're kinda forced to catch their breath."
 			Yaz smiled. "Thanks, Connor. I..." she stopped herself, before she could say "I wish you were his dad."
 
+
+
+add a few lines talking about the hoodie connor gave chloe;
+	first, she sees him wearing a red hoodie and says "oh, you didn't have to buy a new one! i could've given this one back!"
+	connor says "oh, i--" quickly thinking of an excuse "it's fine, this is my spare. i used to wear this one when yours was in the wash. it's cool, don't worry"
+
+	second, have chloe ask if her red hoodie will make her a target in belson
+	connor says "um... well, to be honest, not as much as it does for me"
+	"what do you mean?"
+	"...don't take this the wrong way, but... well, if the Skulls see a woman wearing one of our hoodies, they'll assume you're dating one of us. they know that starting shit with one of our partners would invite a more fierce retaliation than attacking one of us. i know, it's sexist, but... well, they're a skinhead gang, it's to be expected"
+
+
+when sleeping it off in her bed, he mentions (after talking about his supercampervan) how after his grandparents died, his uncle used to take him over to Ireland every so often to see his cousin Mickey - mickey's mum was his granny's sister, and she married Shelta; he says some of his best memories are sat in some patchwork caravan, eating half-cooked sausages and shovelling horse shit. she giggles
+
+don't forget to make sure chloe takes out her hearing aids whenever she sleeps with connor - and he needs to face her so she can lip read
 
 
 flesh out connor's day job;
@@ -125,12 +150,7 @@ put some complexity back in! have sparky eat people, drag in deer carcasses, and
 
 
 new arc - mourning and guilt
-	have tommy tell connor that steve fletcher (the skull connor shot) has his funeral coming up; it might be a chance to help heal from it
-	connor attends, with steve's elderly mother eileen there in a wheelchair. she asks if he knew him, and he says he met him once. she asks if he could come round hers for a coffee and for her to talk about him, he accepts
-	they talk; about steve and about her life, and about connor too. she explains she has a heart problem (google a realistic one) as well; connor agrees to make this a regular thing. she mentions connor reminds her of steve at that age
-		another thing she mentions; she says how steve never believed in "all that rubbish; i raised him better than that" before pausing and going "ah, i suppose it don't matter what he believed. he died for it all the same."
-		connor lies and says they met when some people were picking on him, and steve stopped them. she's surprised, but happy to hear it
-	next time we need some connective scene, have connor visit eileen again
+
 	next time he visits, she's showing off baby photos of steve. connor finally cracks and says "i can't do this" she asks why, and he tearfully admits he killed him. she is shocked. he says he didn't mean to, but steve pulled his gun, and connor in reflex grabbed his own. she tells him to get out - then shouts it. he leaves, but hears her heart fail, so runs back in and calls an ambulance
 	that night, he gets sparky to cover patrol while he visits her in hospital. he says hes sorry, he just wanted to check on her. she tells him he can stay
 	he apologises for giving her a heart attack; she snarks that he must be so big-headed that he thinks a 94-year-old woman with [insert condition here]'s heart attack is somehow his fault. she asks him about what happened, and he answers. she says his mates told her it was the werewolf, and he admits its him. they talk a little more; he explains why he's after the skulls, and why he does what he does and what happened to him. she asks if steve suffered; he says it was over quickly, and he was very brave. he offers to give her a transfusion, reasoning that his blood is serum. she refuses, saying she's lived a long life, and asks that he stay with her until the end, and handle her affairs; he agrees
@@ -138,9 +158,6 @@ new arc - mourning and guilt
 	that night, sparky offers to handle patrol; connor says he's taken enough nights off lately. sparky then orders him to rest, pointing out that he can handle it, and connor will be better for it. connor accepts
 
 	one line to put in prose; when connor realises eileen is steves mother;
-		His mother?
-		Of course. Of course he had a mother.
-		19 years on this Earth. And still, Connor would often forget... most people have mothers.
 
 	consider having father declan be the priest for both funerals. also consider how this fits in with confession 2
 
@@ -177,6 +194,8 @@ new subplot!
 	after this, amy notes happily that he's a very good liar - but she could spot all of his tells a mile off - which means he really is the same guy; they didn't change that much about him, deep down.
 
 
+
+in the Failure arc, have the framing device be the episode opens on Connor beginning his confession to Declan, and ends with them wrapping it up
 
 
 

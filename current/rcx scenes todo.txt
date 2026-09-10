@@ -50,10 +50,6 @@ add a few lines talking about the hoodie connor gave chloe;
 	"...don't take this the wrong way, but... well, if the Skulls see a woman wearing one of our hoodies, they'll assume you're dating one of us. they know that starting shit with one of our partners would invite a more fierce retaliation than attacking one of us. i know, it's sexist, but... well, they're a skinhead gang, it's to be expected"
 
 
-when sleeping it off in her bed, he mentions (after talking about his supercampervan) how after his grandparents died, his uncle used to take him over to Ireland every so often to see his cousin Mickey - mickey's mum was his granny's sister, and she married Shelta; he says some of his best memories are sat in some patchwork caravan, eating half-cooked sausages and shovelling horse shit. she giggles
-
-don't forget to make sure chloe takes out her hearing aids whenever she sleeps with connor - and he needs to face her so she can lip read
-
 
 flesh out connor's day job;
 	Riverside Repairs also do ad hoc construction work; Connor and Trey sometimes have to play electrician or bricklayer
@@ -89,20 +85,6 @@ something to add - oxford has a supercomputer that he uses to social engineer. i
 	judge says "our younglings did not posses instruments of recreation; nor would they find computation devices enjoyable. but to your point... it is too subtle. only through faith; inquisition; the relentless extirpation of heresy... only through that can a society be harmonious."
 
 
-
-
-plot hole where connor mentions the taser pain on bonfire night - but as of current writing, connor wasnt tased.
-but the taser, motorbike, and superswim scene *is* pretty cool!
-solution: find a scene to add the superswim escape to. remove the taser mention from bonfire night.
-go into old version of the scene to find taser
-	taser scene (flesh it out, add a morph power for rapid swimming that connor uses; he washes up on Torbrook's silty beach):
-			Connor sprinted down the alley, but before he could fully escape, a motorcycle cop zipped into view. The officer tased him from behind, sending a shock of agony through his body.
-			Connor recoiled, gasping, the pain sharper than the bullet wound. But his instincts kicked in, and he fought through it, turning just in time to kick the officer in the face. The officer's helmet shattered, and he slumped unconscious.
-			"Kill! Kill! Kill!"
-			Connor shook his head, banishing the voice. "Not humans." he muttered.
-			He grabbed the officer's motorbike, revved the engine, and sped off into the night, weaving through traffic with reckless abandon. The chase was on, but Connor knew how to lose them. He sped toward the pier, and with one final burst of energy, drove straight off the edge.
-			The cold water swallowed him whole. He swam through the murky depths, his body already healing the minor injuries.
-			Within moments, he surfaced, gasping for air, and quietly made his way back to shore.
 
 
 
@@ -151,51 +133,11 @@ put some complexity back in! have sparky eat people, drag in deer carcasses, and
 
 new arc - mourning and guilt
 
-	next time he visits, she's showing off baby photos of steve. connor finally cracks and says "i can't do this" she asks why, and he tearfully admits he killed him. she is shocked. he says he didn't mean to, but steve pulled his gun, and connor in reflex grabbed his own. she tells him to get out - then shouts it. he leaves, but hears her heart fail, so runs back in and calls an ambulance
-	that night, he gets sparky to cover patrol while he visits her in hospital. he says hes sorry, he just wanted to check on her. she tells him he can stay
-	he apologises for giving her a heart attack; she snarks that he must be so big-headed that he thinks a 94-year-old woman with [insert condition here]'s heart attack is somehow his fault. she asks him about what happened, and he answers. she says his mates told her it was the werewolf, and he admits its him. they talk a little more; he explains why he's after the skulls, and why he does what he does and what happened to him. she asks if steve suffered; he says it was over quickly, and he was very brave. he offers to give her a transfusion, reasoning that his blood is serum. she refuses, saying she's lived a long life, and asks that he stay with her until the end, and handle her affairs; he agrees
 	some short time later, have him attend her funeral. the gang come with for support; chloe holds his hand as they bury her
 	that night, sparky offers to handle patrol; connor says he's taken enough nights off lately. sparky then orders him to rest, pointing out that he can handle it, and connor will be better for it. connor accepts
 
-	one line to put in prose; when connor realises eileen is steves mother;
-
-	consider having father declan be the priest for both funerals. also consider how this fits in with confession 2
 
 
-
-
-
-a scene with trey getting jumped by Skulls, and dropped off outside the Horse.
-	first, end the chapter before on a cliffhanger where trey is hit by a car and then dragged into the boot
-	connor is working at riverside, and calls phil asking him to poke trey and wake him up. phil says he thought trey was with him, as he didn't come home last night. connor nervously reassures him that hes probably just in someones bed, and will call him with an update
-	connor tracks trey's phone to the roadside; he checks traffic cameras using a KGB backdoor, and sees trey get abducted. panicked, he assaults a super-agent base without backup, and nearly gets badly wounded - but interrogates them, demanding to know where trey is. the superagent spits "who the fuck is trey?" before connor beheads him in anger
-	later, trey is dropped off outside the horse, beaten and bloody. he shambles in, and delivers a message to tommy, who immediately calls connor
-	connor, amy, and trey have gathered round his house, with phil panicking. phil suggests they call the cops, but trey says thatll only make things worse, phil reluctantly agrees
-	Connor starts asking him who did it, where they are, "who was it? Donovan's crew? Weaver's? The Whitpark lot?" etc - amy snaps "the fuck's the matter with you? Your best mate got hate-crimed, and you're grilling him?!" - connor immediately apologises
-	trey asks they stay the night, so he can feel safer. they do - but connor sneaks into his room, ostensibly to check on him - in truth to do a surface reading, so he can see the faces of the gang without trey realising that connor's poking around in his head. once done, he implants some nice images for trey to dream about, and gets ready to leave.
-	amy stops him, and angrily points out that even though he's shown lately to be very good at fighting, this is too dangerous. connor says that she and sparky are there to keep trey safe - he's better used making sure this doesn't happen again. she asks if he can call the werewolf instead, and connor says it doesn't work like that, he can't just phone him - besides, the werewolf didn't rescue him before, so what good is he? (bit of self loathing here). amy cries a little, saying that she already lost him recently, and nearly lost trey today - don't do this. he apologises, and heads out in his Hood costume
-	first, he finds a Skull drug dealer, and interrogates him. the Skull recognises him as Connor - specifically, from when Connor infiltrated keegan slots - he was the one with the switchblade. he spills, and connor heads off to the location, and beats the everloving fuck out of the crew that did it. the crew leader is crawling away, and connor says "you tell everyone you know - if you come for me or my mates again, i will fucking kill you" - then, he kneecaps the leader, turns to a terrified underling, and says "i was talking to you. understood?"
-
-new subplot!
-	after the above fight, the cops arrive, guns out. connor realises he screwed up big time
-	naismith interviews him. naismith mentions that this isn't the first time he's been in trouble with the police, and also about what happened with Dobel. He mntions connor's choice of clothing - connor says "is it a crime to wear a red hoodie?" naismith grins "No, not at all. And yet, and yet..."
-	He points out the similarities to the Hog and Hounds beating the other week, saying "we've been looking everywhere for this 'werewolf,' and now... well, you can imagine what I'm thinking, right?"
-	Connor counters that if he was the werewolf, he A) would've worn his costume, and B) wouldn't've let himself get arrested. Naismith chuckles, and says "well... maybe, just maybe, we can find out who is. interview paused at 11:03" and cuts off the tape.
-	naismith asks connor if he can contact the werewolf. connor says he can't, and naismith leans to resume the tape - connor says "wait!" and acts all shifty, intentionally raising his heartrate and sweating. naismith grins, and beckons to continue.
-	"you really want me to sell him out like that?"
-	"i want you to save your own skin, connor."
-	connor says he can get a message out and arrange a meetup, but the werewolf won't show if connor isn't there. naismith says he should be there then, and connor feigns a panic attack, saying "No! he'll kill me!"
-	Naismith reassures him, saying he'll have full police protection; pushing him further by saying "He's no hero. your mate got beaten up and you had to take the law into your own hands. now, I'm not gonna lose sleep over a bunch of skinheads getting taught a lesson... but i am gonna use this, if i can. come on..."
-	connor "cracks," and says he'll arrange a meetup, and let naismith know the time and the place.
-	that morning, he is released without charge, and returns to the group. he explains the half-truth - he went after the gang that jumped trey, but got arrested. now, he's turned informant for the werewolf. amy and trey are horrified, pointing out that he's selling out the city's hero - connor says tearfully (again, self loathing) "if he was really the hero we thought... he would've saved you" to trey.
-	the next night (add some filler with eileen here), connor is standing shiftily in a car park, when sparky arrives in-costume. sparky slashes connor's face, and then beats up the cops while connor runs away. he uses his super-speed and smoke bombs to dominate the battlefield
-	later, the pair meet up on a rooftop. connor's slashes have already nearly healed. sparky asks why they did this - connor says he knew, given the timing of his disappearance and his recent boost in strength, he needed to throw people off the idea that he was the werewolf - but he feels sick of the lying. sparky sighs, saying he still doesn't fully understand "this game of pretend," but that it's for the best.
-	later, post loss of a hand, have naismith knock round. connor morphs on some prosthetic wounds and bruises, before timidly answering the door. naismith says he's just there for a wellness check, apologises for what happened - saying he had a duty of care towards his CHIS, and that he let his focus on the case blind his judgement. he confirms connor won't be charged for the attack on the skulls, and leaves him in piece, saying to call him if the werewolf comes after him again, and to avoid all contact with him - "i have a feeling this is the kind of man who holds a grudge."
-	after this, amy notes happily that he's a very good liar - but she could spot all of his tells a mile off - which means he really is the same guy; they didn't change that much about him, deep down.
-
-
-
-in the Failure arc, have the framing device be the episode opens on Connor beginning his confession to Declan, and ends with them wrapping it up
 
 
 
@@ -219,12 +161,6 @@ to summarise timeline changes
 
 
 
-remove Naismith's early skepticism, as the evidence quickly suggests something superhuman is afoot
-		some time after, have connor show up for another confession; when asked how long it's been, say "less than ten years, now" and have the priest realise; then connor apologises for what happened before; Declan admits he's struggled to take confessions after breaking the seal of the confessional to save the child; Connor says that if Declan had allowed a child to die over it he'd be enraged. he asks how the kid's doing, and declan says he's better; connor points out that the seal of confession usually only applies if the penitent is confessing before god; as an atheist it arguably doesn't apply; declan quips that its not normally him receiving absolution in that booth. they have a brief chat about connor's mission, and connor leaves feeling more relieved
-		the second confession can go in Underhill or in She-Wolf - whichever needs more padding
-		moments for second confesssion:
-			when declan asks what connor thinks is going on, he says "I think I died that night. That heaven didn't want me, and hell spat me back out - except I brought some of it back with me."
-
 
 replace the Patriots with the Skulls; have Skull (the drug) get its name from a remnant of the Skulls synthesising it and using it to rebuild their empire.
 
@@ -240,9 +176,60 @@ change the prison break sequence
 	for Dorsey's state of emergency, have a false flag attack - maybe put in the bridge collapse, along with mass electrical sabotage. dorsey frames Connor for this
 		specifically, a new chapter: "Public Enemy," in between The King's Gambit and Purging
 			in this chapter, there is focus on the upcoming mayoral election, when the bridge collapse happens (note; add some short time between the drop at the end and the inspection; make it like the inspection happens a couple of days later, to justify the extra time in Public Enemy)
+below is the bridge collapse:
+
+		______________________________
+		SCENE
+			Connor and Sparky were sprinting in costume over several rooftops.
+			"How you feeling?" Connor asked.
+			Sparky yapped happily. "This is fun!"
+			Then, an explosion rumbled through the air.
+			"Every time... This way!" Connor barked. They turned, and arrived at their destination - a bridge, collapsed into a river. Fires were visible at the struts of the bridge. Several cars had fallen into the water.
+			"Okay, here's the plan." Connor began. "You take the bridge, I'll take the river. Your job is to rescue anyone trapped in their vehicles. I'll try and rescue anyone underwater. You got that?"
+			"Got it." Sparky barked, ready for action. "Let's do this."
+			Connor dived into the water, swimming straight for a sinking car. Inside, he saw a family, panicking.
+			"It's alright!" he shouted. He went beneath the surface, and grabbed the car, before swimming against the current - a suicidal idea normally, but to a superhuman like Connor, a small feat. He pushed the car onto the riverbank, and ripped the doors off. The family poured out.
+			"Thank you... Oh my god, thank you..." the father began.
+			"No time!" Connor nodded, diving back in. He repeated the action on another car, and another.
+			Meanwhile, Sparky dragged wounded people from their cars. He heard a scream, and rushed over - a young man was hanging on the edge of the bridge. He grabbed the man's arm with his mouth, and gently pulled him up. The man stood, and looks at him, shocked.
+			"You're welcome!" he barked happily, before returning to the wrecked cars.
+			Connor continued diving through the water, now grabbing individuals who had been carried away by the river, and dragging them ashore. Soon enough, everyone who was still alive was saved.
+			At that point, a group of Super-Agents strolled onto the bridge.
+			Connor morphed adhesives on his suit, and climbed up the struts. He and Sparky closed ranks, and braced themselves.
+			"Kill! Kill! Kill!" the voice demanded, upon seeing the Agents.
+			The Super-Agents laughed, and one of them revealed his weapon - an RPG. He launched at Connor.
+			Without thinking, Connor felt his suit ripple and shake. He looked down, and saw a ballistic shield form on his right forearm. Grinning, he raised it, blocking the missile.
+			A brutal ringing sound ripped through his eardrums, as the concussive blast knocked his brains against his skull. His shield de-formed and returned to his armour, hardening and helping him to rise.
+			Then, the agents began wildly throwing tear gas canisters and flashbangs at the duo. Connor and Sparky both struggled as their bodies ached and groaned against them. And finally... Rage.
+			They charged in, and engaged in brutal melee.
+			The fight was hard. Both were exhausted from the salvation, but they fought on regardless. Connor grabbed one Agent, and morphed a blade through his skull. He spun, slitting two throats in one motion.
+			Sparky's claws disemboweled one Agent, and then his fangs ripped one man's head from his shoulders.
+			Soon enough, the Super-Agents were dead. With that, the police arrived.
+			"STAY WHERE YOU ARE!" an armed officer shouted.
+			"Kill... Kill..." the voice whispered, itself as exhausted as Connor.
+			He trembled, and struggled to stand. He'd pushed himself too hard... a seizure was oncoming. He fought against it, but collapsed, falling into the water.
+			Sparky dived after him, and had a seizure of his own.
+
+			The two awoke hours later, washed ashore in the swamps out of town.
+			Connor twitched awake, and rose to his knees. Sparky got up too, and shook the mud from his fur.
+			"You okay?" Connor asked, shaking.
+			"Yeah, I'm fine. Are you?" Sparky stumbled over.
+			"I'll live. Fucking cops... you'd think what with the Dorsey fiasco, they'd cut us some slack." Connor groaned, lying on his back. Hot blood seeped from his nostrils.
+			"Maybe one day." Sparky quipped, curling up next to him.
+			"Who the fuck blows up a bridge?" Connor chuckled, wincing in pain.
+			"Why would they do that?" Sparky asked, tilting his head.
+			"I'll ask Ivan." Connor nodded. Sparky rested his head.
+			"We can't sleep here." Connor said firmly. "We've gotta move."
+			Sparky groaned, and the two stood, and stumbled off into the night.
+
+		Bridge Collapse
+
+
 			after the collapse, connor and friends are having lunch together, when connor hears a hissing noise down below. he excuses himself, and quickly suits up and heads down into the metro line, where a nerve gas canister has been deployed. he struggles his way in, making it to the canister and sealing it with biomass before collapsing. the firemen and paramedics are helping evacuate when some cops come up and prepare to execute connor - the chief fireman tells them to back off, and they aim at him, when connor reanimates, knocks the cops out, and heads outside. upon making it out though, shannon tells him to look at the news - he quickly morphs into civvies and darts into a pub, where a newsreader is reporting that the Werewolf committed a nerve gas attack in the metro line, then savagely beat the cops who heroically thwarted the attack. a video is then played of a man in connor's costume, claiming responsibility for the bridge attack as well as the gas, and claiming he's done protecting the inferior mortals, and will instead force them to "listen and obey"
 			connor says the mayor is at the top of his shit list, and so ambushes the mayor in his office late evening. he then shows a live feed of Ivan's scope, pointed right at mayor norris's wife; and demands that the mayor tell him who has been impersonating him; norris answers, but connor can't verify it; connor notes that of course, no one would be a bigger liar than a fascist politician, and warns that if he's lied, connor will come back and kill him. as connor leaves, the city hall explodes to his shock
 			connor rushes in, but when he returns, he sees a breaking news report showing cctv of him walking away and the place blowing up, before they show the actor again
+			connor meets up with naismith, denying any involvement. naismith hesitantly admits that he agrees. connor says he reckons this is a smear campaign led by false flags; and says it means he's getting closer
+			then, a scene called "Election Day" - where during the vote count, the place is attacked by Super-Agents. Connor shows up and kills them, but not before Norris is mortally wounded. Ward had already won outright, but now we cut to Dorsey declaring a state of emergency. Ward is cowed into accepting this by the city council.
 
 	NOTE
 		maybe delete Agent J et al; have Goblin be the one to recognise connor, and the breakout crew are the syndicate, Goblin, Troll

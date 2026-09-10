@@ -5641,8 +5641,16 @@ VOLUME - Wolves Among Sheep
 			Ivan audibly stroked his beard in thought.
 			"'Vanguard.'" he said finally. "Summarises your tactical role as the frontline brawler."
 			"And 'cause it sounds cool?"
-			"...because it soudns cool."
-			Connor laughed, and hanged up. He gently shook Sparky.
+			"...because it soudns cool. Oh, before I forget - check under your bed."
+			Connor cocked an eyebrow, before pulling out a package.
+			"How did this get here?"
+			"KGB." Ivan audibly grinned.
+			Connor opened it, and pulled out a collar.
+			"And this is?"
+			"Well, it's hardly fair only we get fancy earpieces." Ivan began. "This collar has one built in. It transmits audio very quietly - but with his hearing, that won't be an issue. Having it on his neck makes it more accessible, since his ears are too big to fit a normal commlink in."
+			"That... that'd be very handy." Connor smiled. "Thanks."
+			"Ne bespokoysya."
+			Connor beamed, and hanged up. He gently shook Sparky.
 			"Ugh... is it morning already?" he groaned.
 			"Afternoon." Connor chuckled. "Come on, let's go get some food before patrol tonight."
 			"Food?" Sparky perked up. "Let's go."
@@ -6550,7 +6558,7 @@ VOLUME - Wolves Among Sheep
 			"I, uh... I think that's different." Connor chuckled, before turning. "That, and I just washed them with acid."
 			"Ah. That sounds painful."
 			"You're more surprised by regrowing teeth than you are by acid spit?" Connor cocked an eyebrow.
-			"I'm learning to role with all this hernya." Ivan shrugged. "I'll see you soon, chuvak."
+			"I'm learning to roll with all this hernya." Ivan shrugged. "I'll see you soon, chuvak."
 			"Yeah... call me." Connor sighed, clutching his abdomen in pain. He and Sparky shambled off into the night.
 
 		Project Crusader
@@ -7887,11 +7895,22 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Failure
 		______________________________
 		SCENE
+			The church doors groaned as they opened. Father Declan was nearly finished - but he always had time for the lost souls of the night.
+			"Good evening, my son. How are you?"
+			"Um..." the young man in the red hood began. "I... could use some spiritual guidance."
+			"Of course. Would you like to take a seat?"
+			The man motioned his head to the confessional.
+			"I... I haven't taken confessions lately." Declan admitted. "So, forgive me if I'm a little rusty."
+			"No problem." the man smiled, pulling down his hood.
+			"What's your name, my son? If you feel able to tell."
+			"Connor. Connor Barrett." he nodded.
+			"Nice to meet you, Mr. Barrett." Declan smiled, sitting down.
+			Connor took a deep breath.
 			"Bless me, Father, for I have sinned."
 			Declan smiled softly, listening intently. "How long has it been since your last confession?"
 			"Less than ten years, now."
 			Declan's heart quickened, as Connor raised his hand.
-			"Don't worry. I'm not gonna flip out again."
+			"Don't worry. I'm not... I'm not gonna go all mutant again."
 			"I... I am so sorry for what happened the other week. I swear, if that man hadn't been threatening Danny--"
 			"I'm not here for that, either." Connor smiled softly. "Just... I need to vent. Is that okay?"
 			"Y-yes, of course."
@@ -8051,7 +8070,8 @@ VOLUME - Wolves Among Sheep
 			Phil hesitated. He didn't want to condone this, but... they came for his boy.
 			He nodded, and headed on.
 
-			Night fell, and Connor crept into Trey's room. He hesitated, but pressed his hand against his wounded comrade's head.
+			Night fell, and Connor crept into Trey's room. Sparky was curled up next to him, snoring.
+			He hesitated, but pressed his hand against his wounded comrade's head.
 			Flashes. Only minor ones. Still, Trey's mind was surprisingly receptive.
 			This felt invasive. Well, it was. But he *had* to know.
 			There. The face. Jennings's crew, no doubt about it.
@@ -8155,32 +8175,409 @@ VOLUME - Wolves Among Sheep
 			"ARMED POLICE! STAY WHERE YOU ARE!"
 			The shout came from the doorway. Connor's blood went cold.
 			A dozen officers flooded the pub, their tactical vests and assault rifles glinting under the dim light. At their head was Naismith, his expression stern.
-			"Any sign of him?" he called out.
-			"No, sir. Looks like a regular bar fight." Nina shouted back.
+			"Any sign of our lycanthropic friend?" he called out.
+			"No, sir, no sign. Looks like a regular bar fight." Nina shouted back.
 			Connor's hands went up slowly. Instinctively. His mind raced.
 			"Fuck," he thought. "Fuck, fuck, FUCK!"
 			He'd really done it now.
 			No escape. No way to resist without blowing his cover.
 			Shit.
-			"Connor Barrett, I am arresting you on suspicion of grievous bodily harm. You do not have to say anything, but it may harm your defence if you fail to mention, when questioned, something you later rely on in court. Anything you do say may be given in evidence."
+			"I am arresting you on suspicion of grievous bodily harm. You do not have to say anything, but it may harm your defence if you fail to mention, when questioned, something you later rely on in court. Anything you do say may be given in evidence."
 			An officer stepped forward, grabbing Connor's wrists. The cuffs clicked shut.
 			Shit.
 
 		Payback
 		______________________________
 		SCENE
+			The interview room was small. Claustrophobic. The kind of place designed to make you feel like the walls were closing in.
+			A single fluorescent strip buzzed overhead, casting a sterile, harsh light. The table between them was scarred and stained, a monument to a thousand confessions and a thousand lies.
+			Connor sat with his hands cuffed to the table. He'd morphed a few bruises, to make it believable.
+			Naismith sat across from him, a folder open on the table. He hadn't said a word yet. Just watched.
+			The silence stretched.
+			Finally, Naismith leaned back and pressed the button on the tape recorder.
+			"Interview commenced at 10:47. Present are DCI Henry Naismith and PC Nina Chowdhury, interviewing suspect Connor Barrett. Mr. Barrett," he began, his tone conversational. "This isn't the first time we've met, is it?"
+			"That a question?"
+			Naismith chuckled. "Last time I saw you, Christian Dobel sent men to murder you."
+			Connor's jaw tightened. "That wasn't my fault."
+			"I never said it was." Naismith held up a hand. "You were attacked. You defended yourself. It seems pretty clear-cut."
+			"So why bring it up?"
+			"Because it establishes a pattern." Naismith leaned forward. "You work for Tommy Crane. You're connected to the Hoods. And you have a habit of being in the wrong place at the wrong time."
+			"Who says I'm a Hood?"
+			"Well, your choice of attire."
+			"Is it a crime to wear a red hoodie?"
+			"No, not at all." Naismith grinned. "And yet, and yet..."
+			The silence hung between them.
+			"Your uncle is the founder of the gang. Your workplace's owner is Crane, too." 
+			"You got proof Crane's a Hood?"
+			Naismith grinned. "You should be a lawyer."
+			Connor crossed his arms, holding his shoulders.
+			"Naismith pulled out a photograph and slid it across the table. "This is the Hog and Hounds. Fifteen known Skulls were hospitalized after a brawl. Witnesses say it was someone who's done you and your friends a solid before."
+			"Enlighten me."
+			Naismith slid over a second picture - one of the Werewolf.
+			"This man - he turned up and took out Dobel's operation before we managed to confirm he'd gone after you. So, I'm wondering - well, you know what I'm wondering, right?"
+			"No, I don't."
+			"Well... you fought pretty damn well earlier, against Jennings. See... I make these connections. Can't help it. And the Werewolf walked into a bar and took out a bunch of goons... And here you are, a known associate of the Hoods, walking into a bar and... well, you get the picture."
+			Connor chuckled. "Okay. If I were the Werewolf - which I'm not, for the record - I'd be wearing his costume instead of my regular clothes. And I'd've used his superpowers to stop you lot from arresting me. Pretty big hole in your theory, if you ask me."
+			Naismith laughed. "Yeah, my bad. I was hoping I'd be able to rattle you with that question, get you to slip up and admit to something silly... you've seen cop shows, right?"
+			"Is that why Good Cop over there is just watching?" Connor asked, motioning to Nina.
+			"Oh, I'm Bad Cop." Nina snarked.
+			Naismith chuckled. "I like this. Banter. It's nice. Most criminals I arrest are real miserable bastards."
+			"I'm not a criminal."
+			"A bunch of battered Skulls say otherwise."
+			"They're Skulls. They beat up my friend. If you cops had done your jobs, these fascist pricks wouldn't need stopping."
+			"You know what? That's fair." Naismith smiled affably. "But listen... you're in big trouble, there's no two ways about it. But... I do feel for you, Connor, I really do."
+			"Oh yeah, I'm just overwhelmed by your sympathies."
+			"Well... there is a way out of this."
+			Connor cocked an eyebrow. "What do you mean?"
+			"Interview paused." Naismith answered. before shutting off the recorder.
+			"Now, listen." he began. "I know you have a way to contact the Werewolf. Don't bother denying it."
+			"Well, if I did... what would that be good for?"
+			"I think you can help me catch him."
+			"What?!" Connor forced a gasp, making his hearts beat quicker. "N-no way."
+			"Alright." Naismith smiled, leaning back to the recorder.
+			"Wait!" he cut in. "Wait..."
+			Naismith grinned, and leaned back in.
+			"Yes?"
+			Connor licked his lips. "You really want me to sell him out like that?"
+			"I want you to save your own skin, Connor."
+			Naismith's voice was calm, reasonable. "You're looking at serious charges. GBH. Affray. Possibly attempted murder, depending on how Jennings's lawyers want to play it. But if you help us, I can make those charges go away."
+			"How?"
+			"Ever heard of a CHIS? Covert Human Intelligence Source. An informant, basically. I'm saying... cut a deal."
+			Connor let the silence hang. Let Naismith see him wrestling with it.
+			"I... I can get a message out," he finally said, his voice shaky. "Arrange a meetup. But he won't show if I'm not there."
+			"Then you'll be there."
+			"No!" The word exploded from Connor's mouth. He jerked against the cuffs, letting the metal bite into his wrists. "He'll kill me! You don't understand - if I set him up, he'll kill me!"
+			Naismith leaned back, studying him. "You're afraid of him."
+			"Of course I'm afraid of him!"
+			"He's no hero." Naismith's voice hardened. "Your mate got beaten up, and you had to take the law into your own hands. Where was the Werewolf then? Where was he when Trey Morgan was getting his ribs broken?"
+			Connor looked away.
+			Where was he?
+			Busy goofing around on some grappling ropes, when his friend needed him.
+			"I'm not gonna lose sleep over a bunch of skinheads getting taught a lesson," Naismith continued, his tone softening. "But I am gonna use this, if I can. Come on, Connor. Help me help you."
+			A long pause.
+			Connor let his shoulders slump. Let the life drain out of him. Let the fake tears well up in his eyes.
+			"Fine." he whispered. "I'll arrange a meetup. I'll let you know the time and the place."
+			Naismith nodded slowly. "Good lad."
 
 		Cut a deal
 		______________________________
 		SCENE
+			Connor stepped out of the police station, blinking against the pale light.
+			Amy was waiting by the car. Trey was in the passenger seat, his face still bruised, his movements stiff.
+			Connor opened the back door and slid in. Sparky pounced on him, licking his face.
+			"Hey! Ivan mentioned on the comms you'd been arrested. Is everything okay?"
+			Connor smiled, pressing his hand against his packmate's head.
+			"I'm fine." he thought, silently transmitting the words.
+			"So." Amy finally said, her voice tight. "You want to explain what the fuck happened?"
+			Connor took a deep breath.
+			"I went after the Skulls who jumped Trey."
+			"You *what?*"
+			"I found them. I... handled it."
+			"Handled it?" Trey turned in his seat, wincing. "You getting arrested is not 'handling it!'"
+			Connor stared out the window. Amy's knuckles whitened on the steering wheel.
+			"I'm not going to prison." he finally said. "I made a deal."
+			"What kind of deal?"
+			Connor closed his eyes.
+			"I'm going to help them find the Werewolf."
+			The silence that followed was deafening.
+			"You... what?" Trey's voice cracked.
+			"I'm going to arrange a meeting. Set him up. Give Naismith the time and place."
+			"Connor, what the FUCK?!" Amy slammed her hand on the dashboard. "You're selling out the one person in this city who's actually doing something?!"
+			"He's a hero!" Trey shouted, then groaned as his ribs screamed in protest. "He saved people! Multiple times!"
+			Connor's jaw tightened. His eyes burned, but he forced the tears back.
+			"If he was really the hero we thought..." His voice broke. "He would've saved you."
+			Trey went silent.
+			"Where was he, Trey? When they had you in that van? When they were breaking your ribs and stomping your hands? Where was the great and powerful Werewolf then?"
+			"He can't be everywhere..."
+			"He's supposed to be!" Connor snapped, turning to face him. "He's supposed to protect people! That's the whole point! But he didn't protect you. And I had to go out there and do it myself, and now I'm paying for it, and the only way out is to give him up!"
+			His voice cracked on the last word. He slumped back in his seat, wiping his eyes with the heel of his palm.
+			Amy stared at him for a long moment. Then she turned back to the road and started the engine.
+
+			Eileen's flat smelled of tea and old newspapers. The heating was on too high, and the windows were fogged up.
+			Connor stood there for a long moment, his hand hovering over the door. He could hear her inside - the creak of her wheelchair, the hum of a television, the slow, laboured rhythm of her breathing.
+			He could also hear her heart. It was weaker than it had been last time. Fraying at the edges.
+			COPD. Not a fun way to die, but it was hers.
+			*Ding-dong!*
+			The door swung open, and Eileen's weathered face cracked into a wide grin.
+			"There he is!" she beamed, wheeling herself back from the door. "I was starting to think you'd got lost."
+			"Sorry. Traffic." Connor stepped inside, wiping his feet on the mat.
+			"No Sparky today?"
+			"Not today." He sat down on the sofa, which sagged beneath him. "Just me."
+			"Well, you're always welcome." She wheeled over to the kitchenette. "Tea?"
+			"Please."
+			She busied herself with the kettle, chattering about the weather, about a neighbour who'd been playing music too loud, about the new series of some detective show she'd been watching. Connor let it wash over him. He tried to smile in the right places.
+			She handed him a mug and wheeled herself into her armchair.
+			"So." she said, eyeing him. "What's wrong?"
+			"Nothing."
+			"Don't kid a kidder, kid." she grinned.
+			Connor stared into his tea.
+			"Just been a stressful few days. My, um... my best mate, he got jumped by some Skulls yesterday."
+			"Oh, Jesus, I'm so sorry." she sighed. "Those idiots... someone needs to sort them out. I mean, not like that Werewolf bastard... but someone needs to do something."
+			"You're not a fan of the Werewolf?"
+			"He murdered my son." she said coldly.
+			"Right..." he looked away, guiltily. "Sorry."
+			"Don't be. He did it, not you." she smiled. "Well, I'm glad you came. I've been meaning to show you something."
+			She reached for the photo album on the side table - the same one he'd seen before. She flipped it open to a page he hadn't seen.
+			Steve. A chubby toddler with a gap-toothed grin, holding a toy truck.
+			"This was him at three." she said, her voice softening. "Look at those cheeks. He was always a chubby little thing. Used to call him my little dumpling."
+			Connor's throat tightened. He said nothing.
+			She turned the page. Steve as a schoolboy, drowning in a too-big uniform. Steve as a teenager, awkward and pimply, standing next to a motorbike.
+			"And this one..." She pointed at a photo of Steve on a beach, squinting into the sun. "This was his first proper holiday. We went to Bournemouth. He ate so much ice cream he was sick on the pier." She chuckled, then coughed. "Happy memories."
+			"Yeah." Connor whispered.
+			He could feel her looking at him.
+			"You know..." she began. "I really appreciate this. When you get to my age, you don't have anyone drop by to let you share your old stories. Even Steve didn't drop by this much."
+			Connor's hands were trembling. He set the mug down before he dropped it.
+			"He was a good boy," Eileen continued, her eyes still on the photo. "Mixed with the wrong crowd, sure. But deep down, he was a good boy. He just... lost his way."
+			"I'm sorry." Connor whispered.
+			"I've told you, stop saying that." she chuckled. "You didn't--"
+			"I--I'm sorry, I can't... I can't do this."
+			She tilted her head, confused. "Can't do what? Drink your tea?"
+			Connor set the cup down. His whole body was shaking now. His vision blurred.
+			"I can't keep lying. To you, to everyone..."
+			"What? What lie?"
+			He looked up at her. She'd gone as pale as he had.
+			"Steve. I... I killed him."
+			"Fuck." he thought. He didn't mean to blurt it out.
+			Fuck. Fuck!
+			The silence that followed was suffocating.
+			"What?"
+			Eileen's voice was barely a whisper.
+			"I--I didn't mean to! He was gonna shoot me, and I--I didn't know I'd survive it, so I shot back, and..."
+			"Get out."
+			"Eileen, I--"
+			"GET OUT!" she screamed, her voice cracking. "GET OUT OF MY HOUSE! GET OUT! GET OUT! GET OUT!"
+			Connor stumbled to his feet. Tears streamed down his face. He opened his mouth to say something - anything - but no words came.
+			He turned and fled.
+			He made it to the front door. His hand was on the handle when he heard it.
+			*Bm-bm-bm. Bm. Bm-bm.*
+			Her heart.
+			"Shit! Eileen?" he rushed back.
+			Too late. She'd keeled over, clutching her chest. Her face was grey, and her lips were blue.
+			He grabbed his phone.
+			"Ambulance! I need an ambulance! She's having a heart attack!"
+			He gave the address. Put the phone on speaker. Started chest compressions.
+			"Stay with me. Stay with me, Eileen. Please."
+			He didn't know how long he worked. It felt like hours. It felt like seconds. The paramedics arrived, and he stepped back, his hands covered in the faint impressions of her ribs.
+			They worked on her. They stabilized her. They loaded her into the ambulance.
+			Connor stood in the doorway, watching them drive away.
+			He was still standing there when the sun began to set.
+			Fuck.
+
+			The phone rang twice before Naismith picked up.
+			"Barrett."
+			Connor's voice was hollow. Empty. "The Werewolf. He'll be in Ludford Park tonight."
+			A pause.
+			"How do you know?"
+			"I set it up." Connor closed his eyes. "He trusts me. He won't know what's coming."
+			Another pause.
+			"You're doing the right thing, Connor."
+			Connor said nothing. He just hung up.
+			He stood in the middle of the street, staring at a wall.
+			He had killed a man. He had broken a woman's heart - literally.
+			Monster.
+			Inhuman.
+			Villain.
 
 		It Was Me
 		______________________________
 		SCENE
+			Connor stood by the fountain, hands shoved in his pockets, hood up. He shifted his weight from foot to foot, glancing over his shoulder every few seconds. He checked his phone. Checked it again. Checked it a third time.
+			Ludford Park.
+			This ruse better work.
+			"Come on, Sparky." he thought. "Where are you?"
+			He didn't have to wait long.
+			A black mass dropped from the trees, landing with a soft thud a few feet away. Before Connor could react, a globule of black gel erupted from Sparky's palm and hit the ground.
+			FWOOM!
+			Smoke billowed out, thick and choking, swallowing the fountain and the path and everything else.
+			Connor stumbled back, coughing - pretending to cough. His eyes watered on command. He let his voice shake.
+			"W-what the..."
+			His other windpipe flexed. Time for some ventriloquism.
+			"*You.*"
+			Sparky gripped his throat, raising him up.
+			"GET ME A VISUAL! *NOW!*" Naismith roared.
+			"W-Werewolf..." Connor stammered.
+			"*SILENCE!*" he cut himself off with.
+			"You're doing great!" Sparky smiled warmly.
+			"You must've gone mad." Connor snarled, his voice pitched low and monstrous. "Because I know you're not a fool. And only a fool... or a MADMAN... would BETRAY ME!"
+			He threw his hands up. "I didn't--I wouldn't--"
+			"LIAR! You KNOW I can *smell* liars! Did you think I didn't have eyes in the police?! DID YOU THINK I WOULDN'T *KNOW?!*"
+			Sparky lunged. His claws raked across Connor's face - a sharp, stinging slash that split the skin from cheekbone to jaw. Blood welled up, hot and wet.
+			Connor screamed. It wasn't entirely fake.
+			He stumbled backward, clutching his face, as the smoke began to dissipate.
+			Then... *BANG!*
+			A gunshot. Naismith, emerging from the treeline, his pistol drawn. Another shot. Another.
+			Sparky snarled, fired a grapple from his wrist, and launched himself into the air. He swung up and away, disappearing over the rooftops.
+			Connor collapsed to his knees, blood streaming down his face.
+			"Connor! Are you alright?!" Naismith rushed over, Nina close behind.
+			"He... he..." Connor stammered, his voice cracking. "He knew. He knew. He said I betrayed him--"
+			"Easy, easy." Naismith holstered his weapon and helped Connor to his feet. "You're alright. You're safe."
+			Connor let himself be pulled up. He let his legs shake. He let the tears come.
+			They were real. He finally let the breakdown happen.
+			"I need to go." he whispered.
+			"No, we need to get you to a hospital---"
+			"NO!" Connor screamed, sprinting off.
+			"Shit..." Naismith sighed. "God damn it... how did he know?! If there's a leak..."
+
+			The city sprawled beneath them, glittering with a million lights. Connor sat on the edge of the roof, legs dangling over the drop, dabbing at his face with his sleeve.
+			The cut was gone now. Long gone.
+			Sparky sat beside him, tail curled around his paws.
+			"Why did we do that?" he asked quietly.
+			Connor stared out at the skyline.
+			"You remember what happened when I got arrested?"
+			Sparky nodded.
+			"Naismith had questions. About me. About the Werewolf. About why I was in the wrong place at the wrong time." Connor sighed. "He didn't know, but he was starting to suspect. And with everything that's happened - me disappearing, coming back stronger, and the Werewolf only appearing after I come back... it was only a matter of time before he put the pieces together."
+			"So you staged this. To throw him off."
+			"I made him think the Werewolf hates me. That I'm just some poor idiot who got caught in the middle." Connor shook his head. "Now he thinks I'm a victim. A witness. Someone who needs protecting, not investigating. And now, he'll be worried about who could've leaked this... he'll be distracted. Off his game."
+			"He seems to always be only a step behind us." Sparky pondered. "It's never long after we strike that he turns up."
+			"Well, hopefully that'll change."
+			Sparky was quiet for a moment.
+			"I still don't fully understand this game of pretend," he finally said. "Humans... lie so much. It's like breathing."
+			Connor let out a hollow laugh. "Yeah. It is."
+			"But..." Sparky pressed his head against Connor's shoulder. "I understand why you do it. You have to protect the pack."
+			"I'm just so tired of it, Sparky." Connor's voice cracked. "Every day, I lie to someone. It's not who I am. It's never been who I am."
+			Sparky nuzzled into him.
+			"I know," he said softly. "But it's for the best. For now."
+			Connor took a deep breath. He wiped his eyes.
+			"I need to go check on Eileen." he said.
+			"The woman whose son you killed?"
+			Connor flinched. "Yeah. That one."
+			Sparky tilted his head. "Why?"
+			"Because I put her in the hospital." Connor stood, pulling his hood up. "Because she's alone. Because... I don't know. Because it's the least I can do."
+			Sparky rose with him, stretching his shoulders.
+			"Do you want company?"
+			"No." Connor shook his head. "This is something I have to do alone."
+			Sparky nodded, bumping his head against Connor's hand.
+			"I'll take care of patrol tonight. You take some time off, okay?"
+			Connor managed a small smile.
+			"Thanks, buddy. Packmates for life, yeah?"
+			"Of course."
+			He turned and headed for the fire escape, leaving Sparky alone on the rooftop, watching the city glitter beneath him.
 
 		Don't Cross a Wolf
 		______________________________
 		SCENE
+			The hospital room was small, and sterile. The only sound was the beep of the heart monitor and the soft hiss of the oxygen tank.
+			Eileen lay in the bed, looking smaller than Connor remembered. The tubes in her nose made her seem fragile in a way she'd never allowed herself to be before. Her eyes were closed, but she wasn't asleep. He could tell by her heartbeat - still weak, still fraying, but steadier than it had been.
+			And fading fast.
+			He stood in the doorway for a long moment. Then he knocked softly on the frame.
+			"Eileen?"
+			Her eyes opened. For a moment, her expression was blank. Then it flickered—recognition, then something harder. Something guarded.
+			Connor flinched. "I... I just wanted to check on you. Make sure you were okay. I can go, if you want."
+			She stared at him. The silence stretched. Then she sighed, and waved a hand weakly.
+			"Sit down, then. You're making the place look untidy."
+			Connor let out a breath he didn't know he'd been holding. He stepped inside and sat in the chair by her bed. It was hard plastic and uncomfortable. He didn't care.
+			"I'm sorry," he said. "For... for everything. For what I said. For what happened. I didn't mean to--"
+			"Stop."
+			She held up a hand.
+			"Just... stop."
+			He did.
+			Eileen took a slow, rattling breath. The oxygen tube hissed.
+			"You think you gave me a heart attack?"
+			"I--"
+			"You must be the most big-headed little shit I've ever met." She shook her head. "I'm eighty-two years old. I've been smoking since I was fourteen. I've got COPD, emphysema, and a heart that's been running on fumes for a decade. You think you did this to me?"
+			Connor opened his mouth. Closed it. Opened it again.
+			"But I..."
+			"You what? Told me the truth?"
+			She snorted, then coughed. "Yeah. That was a shock. But my it's been waiting to give out for years. You just happened to be there when it did."
+			Connor stared at her. He didn't know what to say.
+			"I'm still sorry," he finally managed.
+			"I know." She closed her eyes for a moment. "You're a sorry little thing, aren't you?"
+			He looked down at his hands.
+			"Tell me what happened," she said. "The truth. All of it."
+			So he told her.
+			He told her about Steve.
+			"He came at me with a gun," Connor said, his voice hollow. "During a raid. I--I had a gun too. I didn't think. I just... pulled the trigger. It was over in seconds."
+			Eileen was quiet for a long moment.
+			"His mates told me it was the Werewolf," she said. "They said the Werewolf killed him."
+			Connor swallowed.
+			"I... I am the Werewolf."
+			She didn't react. Not at first. She just stared at him, her expression unreadable.
+			"That explains a lot," she finally said.
+			"I know it doesn't change anything. I know you hate me. You should. I..."
+			"Did he suffer?"
+			The question caught him off guard.
+			"What?"
+			"Steve. Did he suffer?"
+			Connor thought about it. He thought about the moment - the brief, violent flash of the gun, the way Steve had crumpled, the way his eyes had gone glassy and still.
+			"No." he said quietly. "It was quick. He... he was brave. At the end. He didn't cry or beg. He just looked at me. And then he was gone."
+			Eileen closed her eyes. A tear slipped down her weathered cheek.
+			"Good." she whispered. "That's good."
+			Connor sat with her in silence for a while. Then, she spoke again.
+			"I want to know why you do it. Why you go after the Skulls. Why you're the Werewolf."
+			"I was taken," he said. "A few months ago. By a man called the Commandant. He owns... a private army. A death squad."
+			He told her everything. The torture. The experiments. The serum.
+			He told her about waking up in the lab, about the pain, about the surgeries.
+			He told her about the night he escaped, and about everything that had happened since.
+			By the time he finished, the room was dark. The lights had dimmed automatically. Eileen's heart monitor beeped softly in the silence.
+			"I know it doesn't make up for Steve." Connor said. "Nothing does. But I'm trying to stop them. The people who make the Skulls possible. The people who make monsters."
+			Eileen was quiet for a long moment.
+			"It was my fault." she finally began.
+			"What do you mean?"
+			"The... the Skulls."
+			She took a deep, laboured breath.
+			"I wasn't just in a biker club. We... we did all sorts. Ran drugs. Blackmailed. Beat people up. Even... *used* people. Back then, I thought... it was dog-eat-dog. Kill or be killed."
+			She sighed, the shame washing over her.
+			"That's how it started. We weren't racists, not at the beginning... but enough of us tolerated it. So, I guess it makes no difference. By the time I'd split from them, the damage was done, and the Skulls were born."
+			"You... you were in the Patriot Kings?"
+			She nodded. "You know your gang history."
+			"My uncle. He went toe-to-toe with the last of them, before they fully merged into the Skulls. Said they were has-beens."
+			"We are. It's... been."
+			She choked again.
+			"I'm dying." she whispered. "About time, too. So there. We've both got to say our piece."
+			"I can give you a transfusion," he blurted out. "My blood—it's what they used to make the serum. It could help you. It could--"
+			"No."
+			The word was firm.
+			"I've lived a long life, Connor. Eighty-two years. That's more than most get."
+			She looked at him, her eyes steady. "I don't want to live forever. I don't want to be a lab experiment. I just want to go quietly. When it's my time."
+			"But--"
+			"Don't 'but' me, kid. I've earned the right to die."
+			She smiled, a hint of her old spirit flickering. "What I want is for you to stay with me. Until the end. And when I'm gone, I want you to handle my affairs. My flat, my belongings, my funeral. Can you do that?"
+			Connor stared at her. The weight of what she was asking settled over him like a blanket.
+			"I... I don't know if I'm the right person. I killed--"
+			"That's exactly why you're the right person," she said firmly. "You owe me. You owe Steve. And you know I've got no-one else. So you'll stay. And you'll see it through."
+			Connor took a deep breath.
+			"Okay." he whispered. "I'll stay."
+			Eileen smiled. It was a soft, tired thing, but it was real.
+			"Good lad." She closed her eyes. "Now, get me a cup of tea. The stuff they give you here tastes like piss."
+			Connor laughed - a raw, wet sound, halfway to a sob.
+
+			"So, there you have it." Connor sighed, leaning back against the pew.
+			"Wow. That is... quite the story, Connor." Declan nodded. "I... I must ask, why have you told me your name?"
+			"Because I'm sick of lying. I... just wanted to be honest for a bit." he admitted.
+			"I understand."
+			Declan hesitated for a moment.
+			"I haven't taken any confessions after what happened. I... I broke the Seal. It's a grave sin."
+			"A child's life was at risk. I'd be more angry if you *didn't* break that stupid rule over it."
+			Declan smiled. "Still... it may have been the lesser evil, but it was still a sin, and I am sorry."
+			"Ten Hail Mary's should do it." Connor grinned, leaning forwards. "How's the kid doing?"
+			"Better. Despite the horror of what he saw, his faith has only strengthened. I envy that."
+			"Oh, Envy? That's a big one, right?"
+			"Says Mr. Wrath himself."
+			The two shared a hearty chuckle.
+			"You know... the Seal of the Confessional only applies if the penitent is genuinely confessing his sins before God... I, an atheist, was instead justifying what he'd done. So arguably, no rules broken."
+			"It's not normally me who receives absolution in this church." Declan chuckled. "Still... thank you for that. I appreciate it."
+			Declan paused.
+			"You know... when it happened, I thought you were a demon."
+			"Who says I'm not?"
+			"Demons are evil. You are many things... but you're not evil. Also, you're corporeal."
+			Connor sighed softly. "I have bad days. Times when I'm cruel."
+			"We all do."
+			He paused again.
+			"When we first spoke, you told me you'd been twisted up inside. I assume that was no metaphor?"
+			"Not by a long shot."
+			Connor took a moment.
+			"What do you think happened?"
+			"I think... I think that when they shot me, I died. I think that Heaven didn't want me; and Hell had to spit me back out - but I brought some of it with me."
+			He chuckled grimly. "Okay, *that* was a metaphor."
+			"An understandable one."
+			Declan stroked his chin.
+			"The things you do... they are gruesome, yes. But I truly believe, they are needed."
+			Connor hesitated, but rose.
+			"If you ever need another talk like this, or if there's anything in this church that can help... you know where to find me."
+			"Thanks, father."
+			He stood for a moment, before heading into the rain.
+			Once again, he walked through the valley of the shadow of death.
+			He feared no evil.
 
 		Sorry, So Sorry
 
@@ -9179,17 +9576,7 @@ VOLUME - Wolves Among Sheep
 			Amy laughed.
 
 			Across the park, Connor and Ivan watched from a bench. Connor smiled.
-			"He's doing good, no?" Ivan asked, grinning.
-			"Yeah, he's a good boy." Connor nodded.
-			"And... you're sure he can speak?"
-			"You came back from the dead, met a bloke who can shrug off bullets and change clothes into armour - but a talking dog is too much for you?" Connor smirked back.
-			"Haha! Fair point, tovarishch." Ivan laughed. "Just trying to wrap my head around all of this khernya. But if you're sure he can talk..."
-			He pulled out a collar.
-			"And this is?"
-			"Well, it's hardly fair only we get fancy earpieces." he began. "This collar has one built in. It transmits audio very quietly - but with his hearing, that won't be an issue. Having it on his neck makes it more accessible, since his ears are too big to fit a normal commlink in."
-			"That... that'd be very handy." Connor smiled. "Thanks."
-			"Ne bespokoysya."
-			Connor paused. "He and I had a heart-to-heart the other day. Or, hearts-to-hearts."
+			"He and I had a heart-to-heart the other day. Or, hearts-to-hearts."
 			"Pardon?"
 			"Oh, that reminds me. How many hearts do you have?"
 			"I have one, you bezumnyy pridurok." Ivan replied incredulously.

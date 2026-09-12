@@ -155,6 +155,75 @@
             white-space: nowrap;
         }
 
+        .tts-controls .speed-group {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 0 4px;
+        }
+
+        .tts-controls .speed-group label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #8b949e;
+            white-space: nowrap;
+        }
+
+        .tts-controls .speed-group input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100px;
+            height: 4px;
+            background: #30363d;
+            border-radius: 2px;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+            transition: background 0.15s;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-webkit-slider-thumb:hover {
+            background: #79b8ff;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-moz-range-thumb {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-moz-range-track {
+            height: 4px;
+            background: #30363d;
+            border-radius: 2px;
+        }
+
+        .tts-controls .speed-readout {
+            font-size: 0.75rem;
+            color: #e6edf3;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            min-width: 38px;
+            text-align: center;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 3px 6px;
+        }
+
         .tts-controls .voice-label {
             font-size: 0.75rem;
             text-transform: uppercase;
@@ -211,6 +280,12 @@
         .chunk-panel .chunk-panel-text {
             color: #d1d9e0;
             font-style: italic;
+        }
+
+        .chunk-panel .chunk-panel-text.is-pause {
+            color: #6e7681;
+            font-style: normal;
+            letter-spacing: 2px;
         }
 
         .content-area {
@@ -355,6 +430,10 @@
             margin-top: 8px;
         }
 
+        @media (max-width: 900px) {
+            .tts-controls .voice-label { margin-left: 0; }
+        }
+
         @media (max-width: 700px) {
             .container { padding: 20px; border-radius: 12px; }
             h1 { font-size: 1.8rem; }
@@ -367,6 +446,7 @@
             .tts-controls button { padding: 7px 10px; font-size: 0.8rem; }
             .tts-controls select { min-width: 120px; font-size: 0.8rem; }
             .tts-controls .voice-label { margin-left: 0; }
+            .tts-controls .speed-group input[type="range"] { width: 70px; }
         }
 
         @media (max-width: 480px) {
@@ -435,6 +515,13 @@
             <button id="next-btn" disabled title="Next chunk">⏭ Next</button>
             <button id="stop-btn" disabled>⏹ Stop</button>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
+
+            <span class="speed-group">
+                <label for="speed-slider">Speed</label>
+                <input type="range" id="speed-slider" min="0.5" max="2" step="0.05" value="0.95">
+                <span class="speed-readout" id="speed-readout">0.95×</span>
+            </span>
+
             <span class="voice-label">Voice:</span>
             <select id="voice-select" disabled>
                 <option value="">— Default —</option>
@@ -463,6 +550,10 @@
 
             const STORY_FILE = 'bloodhound story scenes-WIP.txt';
 
+            // How long a single blank line pauses, in ms, at 1.0× speed.
+            // Scaled by playback speed: at 2.0×, pauses are half as long.
+            const PAUSE_BASE_MS = 500;
+
             const volumeSelect = document.getElementById('volume-select');
             const episodeSelect = document.getElementById('episode-select');
             const sceneSelect = document.getElementById('scene-select');
@@ -483,17 +574,21 @@
             const chunkCounter = document.getElementById('chunk-counter');
             const chunkPanel = document.getElementById('chunk-panel');
             const chunkPanelText = document.getElementById('chunk-panel-text');
+            const speedSlider = document.getElementById('speed-slider');
+            const speedReadout = document.getElementById('speed-readout');
 
             // TTS state
             let availableVoices = [];
-            let chunks = [];             // full array of chunks for the current scene
-            let currentChunkIndex = -1;  // index into `chunks` that is playing/next to play
-            let currentUtterance = null; // reference to the active utterance
-            let resumeIntervalId = null; // Chrome keep-alive timer
-            let ttsActive = false;       // true when a session is active (playing or paused)
-            let ttsPaused = false;       // true when paused by the user
+            let chunks = [];             // array of chunk objects: {text, isPause}
+            let currentChunkIndex = -1;
+            let currentUtterance = null;
+            let resumeIntervalId = null;
+            let pendingPauseTimeout = null; // tracks an in-flight pause so Stop/Prev/Next cancels it
+            let ttsActive = false;
+            let ttsPaused = false;
             let currentSceneName = '';
             let currentSceneText = '';
+            let playbackRate = 0.95;
 
             let storyData = null;
             let debugLog = [];
@@ -514,6 +609,20 @@
                 statusEl.className = 'status' + (isError ? ' error' : '');
             }
 
+            /* ========== SPEED SLIDER ========== */
+
+            function updateSpeedReadout() {
+                speedReadout.textContent = playbackRate.toFixed(2) + '×';
+            }
+
+            speedSlider.addEventListener('input', function() {
+                playbackRate = parseFloat(this.value);
+                updateSpeedReadout();
+                logDebug(`Playback speed set to ${playbackRate.toFixed(2)}×`);
+            });
+
+            updateSpeedReadout();
+
             /* ========== UI STATE HELPERS ========== */
 
             function updateChunkUI() {
@@ -529,15 +638,20 @@
                 const displayIdx = currentChunkIndex >= 0 ? currentChunkIndex + 1 : 0;
                 chunkCounter.textContent = `${displayIdx} / ${chunks.length}`;
 
-                // Show current chunk text
                 if (currentChunkIndex >= 0 && currentChunkIndex < chunks.length) {
+                    const c = chunks[currentChunkIndex];
                     chunkPanel.classList.add('visible');
-                    chunkPanelText.textContent = chunks[currentChunkIndex];
+                    if (c.isPause) {
+                        chunkPanelText.textContent = '— beat —';
+                        chunkPanelText.classList.add('is-pause');
+                    } else {
+                        chunkPanelText.textContent = c.text;
+                        chunkPanelText.classList.remove('is-pause');
+                    }
                 } else {
                     chunkPanel.classList.remove('visible');
                 }
 
-                // Enable/disable navigation buttons
                 const sessionLive = ttsActive;
                 prevBtn.disabled = !sessionLive || currentChunkIndex <= 0;
                 replayBtn.disabled = !sessionLive || currentChunkIndex < 0 || currentChunkIndex >= chunks.length;
@@ -545,7 +659,6 @@
             }
 
             function setTtsButtonsActive(active) {
-                // Pause/Stop follow the session; Prev/Replay/Next follow the queue position
                 pauseBtn.disabled = !active;
                 stopBtn.disabled = !active;
                 updateChunkUI();
@@ -611,37 +724,76 @@
                 voiceSelect.disabled = true;
             }
 
+            /**
+             * Line-aware, character-aware chunker with paragraph-break pauses.
+             *
+             * Rule 1: Every non-empty line becomes a chunk.
+             * Rule 2: A blank line becomes a special {isPause: true} chunk,
+             *         which the player renders as a beat of silence.
+             * Rule 3: A line longer than `maxLen` is split further, at sentence
+             *         boundaries then at commas then at spaces.
+             *
+             * Consecutive blank lines are collapsed into a single pause chunk,
+             * so "\n\n\n\n" doesn't produce three beats in a row.
+             */
             function chunkText(text, maxLen = 180) {
-                const cleaned = text.replace(/\s+/g, ' ').trim();
-                if (!cleaned) return [];
+                if (!text) return [];
 
-                const sentences = cleaned.match(/[^.!?]+[.!?]+["')\]]*|\S[^.!?]*$/g) || [cleaned];
+                const rawLines = text.split('\n');
                 const chunks = [];
-                let buffer = '';
+                let lastWasPause = false;
 
-                for (const sentence of sentences) {
-                    const s = sentence.trim();
-                    if (!s) continue;
+                for (const rawLine of rawLines) {
+                    const line = rawLine.trim();
 
-                    if (s.length > maxLen) {
-                        if (buffer) { chunks.push(buffer); buffer = ''; }
-                        let remaining = s;
-                        while (remaining.length > maxLen) {
-                            let breakAt = remaining.lastIndexOf(', ', maxLen);
-                            if (breakAt < maxLen * 0.5) breakAt = remaining.lastIndexOf(' ', maxLen);
-                            if (breakAt < maxLen * 0.5) breakAt = maxLen;
-                            chunks.push(remaining.slice(0, breakAt + 1).trim());
-                            remaining = remaining.slice(breakAt + 1).trim();
+                    if (line === '') {
+                        // Blank line → pause chunk (collapse consecutive blanks)
+                        if (!lastWasPause) {
+                            chunks.push({ text: '', isPause: true });
+                            lastWasPause = true;
                         }
-                        if (remaining) buffer = remaining;
-                    } else if ((buffer + ' ' + s).length > maxLen) {
-                        if (buffer) chunks.push(buffer);
-                        buffer = s;
-                    } else {
-                        buffer = buffer ? buffer + ' ' + s : s;
+                        continue;
                     }
+
+                    lastWasPause = false;
+
+                    // Rule 1: line fits — emit as its own chunk
+                    if (line.length <= maxLen) {
+                        chunks.push({ text: line, isPause: false });
+                        continue;
+                    }
+
+                    // Rule 3: line too long — split further
+                    const sentences = line.match(/[^.!?]+[.!?]+["')\]]*|\S[^.!?]*$/g) || [line];
+                    let buffer = '';
+
+                    for (const sentence of sentences) {
+                        const s = sentence.trim();
+                        if (!s) continue;
+
+                        if (s.length > maxLen) {
+                            if (buffer) {
+                                chunks.push({ text: buffer, isPause: false });
+                                buffer = '';
+                            }
+                            let remaining = s;
+                            while (remaining.length > maxLen) {
+                                let breakAt = remaining.lastIndexOf(', ', maxLen);
+                                if (breakAt < maxLen * 0.5) breakAt = remaining.lastIndexOf(' ', maxLen);
+                                if (breakAt < maxLen * 0.5) breakAt = maxLen;
+                                chunks.push({ text: remaining.slice(0, breakAt + 1).trim(), isPause: false });
+                                remaining = remaining.slice(breakAt + 1).trim();
+                            }
+                            if (remaining) buffer = remaining;
+                        } else if ((buffer + ' ' + s).length > maxLen) {
+                            if (buffer) chunks.push({ text: buffer, isPause: false });
+                            buffer = s;
+                        } else {
+                            buffer = buffer ? buffer + ' ' + s : s;
+                        }
+                    }
+                    if (buffer) chunks.push({ text: buffer, isPause: false });
                 }
-                if (buffer) chunks.push(buffer);
 
                 return chunks;
             }
@@ -650,6 +802,13 @@
                 if (resumeIntervalId) {
                     clearInterval(resumeIntervalId);
                     resumeIntervalId = null;
+                }
+            }
+
+            function clearPendingPause() {
+                if (pendingPauseTimeout) {
+                    clearTimeout(pendingPauseTimeout);
+                    pendingPauseTimeout = null;
                 }
             }
 
@@ -664,15 +823,14 @@
             }
 
             /**
-             * Core chunk player.
-             * @param {boolean} advance - if true, move to next chunk before speaking.
-             *                            if false, replay current index.
+             * Play a chunk at `index`. If the chunk is a pause marker, no audio
+             * is emitted — instead we schedule a timeout for the pause duration
+             * and then advance to the next chunk.
              */
             function playChunkAt(index) {
-                // Clamp index
                 if (index < 0) index = 0;
+
                 if (index >= chunks.length) {
-                    // Reached the end
                     currentChunkIndex = chunks.length;
                     ttsActive = false;
                     ttsPaused = false;
@@ -689,7 +847,25 @@
                 currentChunkIndex = index;
                 const chunk = chunks[currentChunkIndex];
 
-                const utterance = new SpeechSynthesisUtterance(chunk);
+                updateChunkUI();
+
+                // --- PAUSE CHUNK ---
+                if (chunk.isPause) {
+                    const pauseMs = Math.round(PAUSE_BASE_MS / Math.max(0.5, playbackRate));
+                    logDebug(`Pause chunk ${currentChunkIndex + 1}/${chunks.length} (${pauseMs}ms @ ${playbackRate.toFixed(2)}×)`);
+
+                    clearPendingPause();
+                    pendingPauseTimeout = setTimeout(function() {
+                        pendingPauseTimeout = null;
+                        if (ttsActive && !ttsPaused && currentChunkIndex === index) {
+                            playChunkAt(index + 1);
+                        }
+                    }, pauseMs);
+                    return;
+                }
+
+                // --- TEXT CHUNK ---
+                const utterance = new SpeechSynthesisUtterance(chunk.text);
                 currentUtterance = utterance;
 
                 const selectedVoiceIndex = voiceSelect.value;
@@ -697,13 +873,12 @@
                     utterance.voice = availableVoices[selectedVoiceIndex];
                 }
 
-                utterance.rate = 0.95;
+                utterance.rate = playbackRate;
                 utterance.pitch = 1.0;
                 utterance.volume = 1.0;
 
                 utterance.onend = function() {
                     logDebug(`Chunk ${currentChunkIndex + 1}/${chunks.length} done`);
-                    // If we haven't been redirected by the user, advance
                     if (currentUtterance === utterance && ttsActive && !ttsPaused) {
                         playChunkAt(currentChunkIndex + 1);
                     }
@@ -711,7 +886,6 @@
 
                 utterance.onerror = function(event) {
                     if (event.error === 'interrupted' || event.error === 'canceled') {
-                        // Expected when user navigates or stops
                         logDebug(`Chunk ${currentChunkIndex + 1} ${event.error}`);
                         return;
                     }
@@ -721,32 +895,28 @@
                     }
                 };
 
-                updateChunkUI();
                 window.speechSynthesis.speak(utterance);
-                logDebug(`Speaking chunk ${currentChunkIndex + 1}/${chunks.length} (${chunk.length} chars)`);
+                logDebug(`Speaking chunk ${currentChunkIndex + 1}/${chunks.length} @ ${playbackRate.toFixed(2)}× (${chunk.text.length} chars)`);
             }
 
             /**
-             * Cancel current utterance and immediately play a given index.
-             * Used by Prev / Next / Replay.
+             * Cancel current utterance (and any in-flight pause timer) and
+             * immediately play a given index.
              */
             function jumpToChunk(index) {
                 if (!window.speechSynthesis || !ttsActive) return;
 
-                // Cancel whatever is currently speaking
+                clearPendingPause();
                 window.speechSynthesis.cancel();
                 if (currentUtterance) {
-                    // Detach handlers so they don't fire on our new utterance
                     currentUtterance.onend = null;
                     currentUtterance.onerror = null;
                     currentUtterance = null;
                 }
 
-                // If the user was paused, un-pause so the new chunk actually plays
                 ttsPaused = false;
                 pauseBtn.textContent = '⏸ Pause';
 
-                // Small delay to let the cancel settle (same trick as startSpeaking)
                 setTimeout(function() {
                     playChunkAt(index);
                 }, 80);
@@ -756,6 +926,7 @@
                 chunks = [];
                 currentChunkIndex = -1;
                 clearResumeTimer();
+                clearPendingPause();
                 if (window.speechSynthesis) {
                     window.speechSynthesis.cancel();
                 }
@@ -786,10 +957,14 @@
 
                 window.speechSynthesis.cancel();
                 clearResumeTimer();
+                clearPendingPause();
 
                 chunks = chunkText(currentSceneText, 180);
                 currentChunkIndex = 0;
-                logDebug(`TTS: ${chunks.length} chunks queued (total ${currentSceneText.length} chars)`);
+
+                const pauseCount = chunks.filter(c => c.isPause).length;
+                const textCount = chunks.length - pauseCount;
+                logDebug(`TTS: ${chunks.length} chunks queued (${textCount} text + ${pauseCount} pauses) from ${currentSceneText.length} chars`);
 
                 if (chunks.length === 0) {
                     setStatus('Nothing to speak.');
@@ -801,7 +976,7 @@
                 speakBtn.textContent = '🔊 Speaking...';
                 pauseBtn.textContent = '⏸ Pause';
                 setTtsButtonsActive(true);
-                setStatus(`Speaking: ${currentSceneName}`);
+                setStatus(`Speaking: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
 
                 startResumeTimer();
                 setTimeout(function() { playChunkAt(0); }, 100);
@@ -817,10 +992,17 @@
                     setStatus(`Speaking: ${currentSceneName}`);
                     logDebug('TTS: resumed');
 
-                    // Edge case: if nothing is actually speaking, kick the queue
+                    // If we were in a pause chunk when the user hit pause,
+                    // restart that pause fresh (otherwise the timer may have
+                    // expired during the pause).
                     setTimeout(function() {
-                        if (ttsActive && !ttsPaused && !window.speechSynthesis.speaking) {
-                            playChunkAt(currentChunkIndex);
+                        if (ttsActive && !ttsPaused && !window.speechSynthesis.speaking && !pendingPauseTimeout) {
+                            const c = chunks[currentChunkIndex];
+                            if (c && c.isPause) {
+                                playChunkAt(currentChunkIndex);
+                            } else {
+                                playChunkAt(currentChunkIndex);
+                            }
                         }
                     }, 200);
                 } else {
@@ -847,7 +1029,6 @@
 
             prevBtn.addEventListener('click', function() {
                 if (!ttsActive) return;
-                // If we're at chunk 0 (or replaying a just-started chunk), go to 0
                 const target = Math.max(0, currentChunkIndex - 1);
                 logDebug(`TTS: prev → chunk ${target + 1}`);
                 jumpToChunk(target);
@@ -1370,7 +1551,6 @@
                 logDebug(`Displaying scene "${scene.name}" with ${scene.content.length} characters`);
                 showContent(scene.name, scene.content);
                 setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
-                // Reset chunk state for the new scene
                 chunks = [];
                 currentChunkIndex = -1;
                 ttsActive = false;

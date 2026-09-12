@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bloodhound — Interactive Reader</title>
+    <title>Bloodhound — Interactive Reader + TTS</title>
     <style>
         * {
             box-sizing: border-box;
@@ -92,38 +92,200 @@
             background-size: 12px;
         }
 
-        .nav-group select:hover {
-            border-color: #58a6ff;
-        }
-
+        .nav-group select:hover { border-color: #58a6ff; }
         .nav-group select:focus {
             outline: none;
             border-color: #58a6ff;
             box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.15);
         }
-
         .nav-group select:disabled {
             opacity: 0.5;
             cursor: not-allowed;
             background-color: #0d1117;
         }
+        .nav-group select::-webkit-scrollbar { width: 6px; }
+        .nav-group select::-webkit-scrollbar-track { background: #0d1117; border-radius: 4px; }
+        .nav-group select::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+        .nav-group select::-webkit-scrollbar-thumb:hover { background: #484f58; }
 
-        .nav-group select::-webkit-scrollbar {
-            width: 6px;
+        /* TTS controls row */
+        .tts-controls {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 18px;
+            padding: 10px 0 6px 0;
+            border-bottom: 1px solid #30363d;
         }
 
-        .nav-group select::-webkit-scrollbar-track {
-            background: #0d1117;
-            border-radius: 4px;
+        .tts-controls button {
+            background-color: #21262d;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 8px 14px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
         }
 
-        .nav-group select::-webkit-scrollbar-thumb {
+        .tts-controls button:hover:not(:disabled) {
+            background-color: #30363d;
+            border-color: #58a6ff;
+        }
+
+        .tts-controls button:disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+            border-color: #30363d;
+        }
+
+        .tts-controls .chunk-counter {
+            font-size: 0.75rem;
+            color: #8b949e;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            padding: 0 8px;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        .tts-controls .speed-group {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 0 4px;
+        }
+
+        .tts-controls .speed-group label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #8b949e;
+            white-space: nowrap;
+        }
+
+        .tts-controls .speed-group input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 100px;
+            height: 4px;
             background: #30363d;
-            border-radius: 4px;
+            border-radius: 2px;
+            outline: none;
+            cursor: pointer;
         }
 
-        .nav-group select::-webkit-scrollbar-thumb:hover {
-            background: #484f58;
+        .tts-controls .speed-group input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+            transition: background 0.15s;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-webkit-slider-thumb:hover {
+            background: #79b8ff;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-moz-range-thumb {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+        }
+
+        .tts-controls .speed-group input[type="range"]::-moz-range-track {
+            height: 4px;
+            background: #30363d;
+            border-radius: 2px;
+        }
+
+        .tts-controls .speed-readout {
+            font-size: 0.75rem;
+            color: #e6edf3;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            min-width: 38px;
+            text-align: center;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 3px 6px;
+        }
+
+        .tts-controls .voice-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #8b949e;
+            margin-left: auto;
+            margin-right: 4px;
+        }
+
+        .tts-controls select {
+            padding: 7px 12px;
+            font-size: 0.85rem;
+            font-family: inherit;
+            background-color: #0d1117;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            cursor: pointer;
+            appearance: none;
+            -webkit-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b949e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            background-size: 10px;
+            min-width: 160px;
+        }
+
+        .tts-controls select:focus { outline: none; border-color: #58a6ff; }
+
+        /* Chunk transcript panel */
+        .chunk-panel {
+            background-color: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            padding: 12px 18px;
+            margin-bottom: 20px;
+            font-size: 0.85rem;
+            color: #8b949e;
+            display: none;
+            line-height: 1.5;
+        }
+
+        .chunk-panel.visible { display: block; }
+
+        .chunk-panel .chunk-panel-label {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            font-weight: 600;
+            color: #6e7681;
+            margin-bottom: 4px;
+        }
+
+        .chunk-panel .chunk-panel-text {
+            color: #d1d9e0;
+            font-style: italic;
+        }
+
+        .chunk-panel .chunk-panel-text.is-pause {
+            color: #6e7681;
+            font-style: normal;
+            letter-spacing: 2px;
         }
 
         .content-area {
@@ -141,7 +303,6 @@
             letter-spacing: -0.3px;
         }
 
-        /* --- NEW: tight line‑height for soft wraps, plus margin for hard breaks --- */
         .scene-content {
             font-size: 1.25rem;
             word-wrap: break-word;
@@ -149,34 +310,17 @@
             overflow-y: auto;
             padding-right: 8px;
             color: #d1d9e0;
-            line-height: 1.2;          /* soft‑wrap lines are tight */
-            white-space: normal;       /* allow soft wraps */
+            line-height: 1.2;
+            white-space: normal;
         }
 
-        .scene-content p {
-            margin: 0 0 1.25em 0;       /* extra gap after each hard break → total 2.2 line‑height */
-        }
+        .scene-content p { margin: 0 0 1.25em 0; }
+        .scene-content p:last-child { margin-bottom: 0; }
 
-        .scene-content p:last-child {
-            margin-bottom: 0;          /* no extra space after the last line */
-        }
-
-        .scene-content::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .scene-content::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        .scene-content::-webkit-scrollbar-thumb {
-            background: #30363d;
-            border-radius: 4px;
-        }
-
-        .scene-content::-webkit-scrollbar-thumb:hover {
-            background: #484f58;
-        }
+        .scene-content::-webkit-scrollbar { width: 6px; }
+        .scene-content::-webkit-scrollbar-track { background: transparent; }
+        .scene-content::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+        .scene-content::-webkit-scrollbar-thumb:hover { background: #484f58; }
 
         .message {
             font-size: 1.1rem;
@@ -211,9 +355,7 @@
             font-family: inherit;
         }
 
-        .status.error {
-            color: #f85149;
-        }
+        .status.error { color: #f85149; }
 
         .debug-toggle {
             margin-top: 16px;
@@ -250,80 +392,73 @@
             line-height: 1.6;
         }
 
-        .debug-info.visible {
+        .debug-info.visible { display: block; }
+        .debug-info::-webkit-scrollbar { width: 6px; }
+        .debug-info::-webkit-scrollbar-track { background: transparent; }
+        .debug-info::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
+
+        /* File-load fallback area — hidden by default; revealed only if fetch() fails */
+        .file-load-area {
+            display: none;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: #0d1117;
+            border-radius: 10px;
+            border: 2px dashed #30363d;
+            text-align: center;
+        }
+
+        .file-load-area.visible { display: block; }
+
+        .file-load-area input[type="file"] { display: none; }
+
+        .file-load-area .file-btn {
+            display: inline-block;
+            padding: 12px 28px;
+            background: #238636;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-family: inherit;
+            transition: background 0.2s;
+        }
+
+        .file-load-area .file-btn:hover { background: #2ea043; }
+
+        .file-load-area .file-label {
             display: block;
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-top: 8px;
         }
 
-        .debug-info::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .debug-info::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        .debug-info::-webkit-scrollbar-thumb {
-            background: #30363d;
-            border-radius: 4px;
+        @media (max-width: 900px) {
+            .tts-controls .voice-label { margin-left: 0; }
         }
 
         @media (max-width: 700px) {
-            .container {
-                padding: 20px;
-                border-radius: 12px;
-            }
-
-            h1 {
-                font-size: 1.8rem;
-            }
-
-            .nav-container {
-                flex-direction: column;
-                gap: 10px;
-            }
-
-            .nav-group {
-                min-width: 100%;
-            }
-
-            .scene-title {
-                font-size: 1.4rem;
-                padding-left: 14px;
-            }
-
-            .scene-content {
-                font-size: 1.0rem;
-                max-height: 60vh;
-                line-height: 1.0;          /* keep tight */
-            }
-
-            .nav-group select {
-                font-size: 0.9rem;
-                padding: 9px 12px;
-            }
+            .container { padding: 20px; border-radius: 12px; }
+            h1 { font-size: 1.8rem; }
+            .nav-container { flex-direction: column; gap: 10px; }
+            .nav-group { min-width: 100%; }
+            .scene-title { font-size: 1.4rem; padding-left: 14px; }
+            .scene-content { font-size: 1.0rem; max-height: 60vh; line-height: 1.0; }
+            .nav-group select { font-size: 0.9rem; padding: 9px 12px; }
+            .tts-controls { gap: 6px; }
+            .tts-controls button { padding: 7px 10px; font-size: 0.8rem; }
+            .tts-controls select { min-width: 120px; font-size: 0.8rem; }
+            .tts-controls .voice-label { margin-left: 0; }
+            .tts-controls .speed-group input[type="range"] { width: 70px; }
         }
 
         @media (max-width: 480px) {
-            body {
-                padding: 10px;
-            }
-
-            .container {
-                padding: 16px;
-            }
-
-            h1 {
-                font-size: 1.4rem;
-            }
-
-            .scene-title {
-                font-size: 1.2rem;
-            }
-
-            .scene-content {
-                font-size: 0.92rem;
-                line-height: 1.0;
-            }
+            body { padding: 10px; }
+            .container { padding: 16px; }
+            h1 { font-size: 1.4rem; }
+            .scene-title { font-size: 1.2rem; }
+            .scene-content { font-size: 0.92rem; line-height: 1.0; }
         }
 
         .loading-dots::after {
@@ -343,6 +478,16 @@
 <body>
     <div class="container">
         <h1>📖 <span>Bloodhound</span></h1>
+
+        <!-- Fallback file-load area — shown only if the initial fetch() fails -->
+        <div class="file-load-area" id="fileLoadArea">
+            <p style="color: #e6edf3; margin-bottom: 12px;">📂 Couldn't auto-load the story. Choose the file manually:</p>
+            <input type="file" id="fileInput" accept=".txt">
+            <button class="file-btn" onclick="document.getElementById('fileInput').click()">
+                Choose File
+            </button>
+            <span class="file-label">Select: <code>bloodhound story scenes-WIP.txt</code></span>
+        </div>
 
         <div class="nav-container">
             <div class="nav-group">
@@ -365,6 +510,34 @@
             </div>
         </div>
 
+        <!-- TTS controls -->
+        <div class="tts-controls">
+            <button id="speak-btn" disabled>🔊 Speak Scene</button>
+            <button id="pause-btn" disabled>⏸ Pause</button>
+            <button id="prev-btn" disabled title="Previous chunk">⏮ Prev</button>
+            <button id="replay-btn" disabled title="Replay current chunk">🔁 Replay</button>
+            <button id="next-btn" disabled title="Next chunk">⏭ Next</button>
+            <button id="stop-btn" disabled>⏹ Stop</button>
+            <span class="chunk-counter" id="chunk-counter">— / —</span>
+
+            <span class="speed-group">
+                <label for="speed-slider">Speed</label>
+                <input type="range" id="speed-slider" min="0.5" max="2" step="0.05" value="1.1">
+                <span class="speed-readout" id="speed-readout">1.10×</span>
+            </span>
+
+            <span class="voice-label">Voice:</span>
+            <select id="voice-select" disabled>
+                <option value="">— Default —</option>
+            </select>
+        </div>
+
+        <!-- Chunk transcript preview -->
+        <div class="chunk-panel" id="chunk-panel">
+            <div class="chunk-panel-label">Currently speaking:</div>
+            <div class="chunk-panel-text" id="chunk-panel-text"></div>
+        </div>
+
         <div class="content-area" id="content-area">
             <div class="message">Loading story content<span class="loading-dots"></span></div>
         </div>
@@ -381,6 +554,9 @@
 
             const STORY_FILE = 'bloodhound story scenes-WIP.txt';
 
+            // How long a single blank line pauses, in ms, at 1.0× speed.
+            const PAUSE_BASE_MS = 500;
+
             const volumeSelect = document.getElementById('volume-select');
             const episodeSelect = document.getElementById('episode-select');
             const sceneSelect = document.getElementById('scene-select');
@@ -388,6 +564,35 @@
             const statusEl = document.getElementById('status');
             const debugInfo = document.getElementById('debug-info');
             const debugToggle = document.getElementById('debug-toggle');
+            const fileLoadArea = document.getElementById('fileLoadArea');
+            const fileInput = document.getElementById('fileInput');
+
+            // TTS elements
+            const speakBtn = document.getElementById('speak-btn');
+            const pauseBtn = document.getElementById('pause-btn');
+            const prevBtn = document.getElementById('prev-btn');
+            const replayBtn = document.getElementById('replay-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const stopBtn = document.getElementById('stop-btn');
+            const voiceSelect = document.getElementById('voice-select');
+            const chunkCounter = document.getElementById('chunk-counter');
+            const chunkPanel = document.getElementById('chunk-panel');
+            const chunkPanelText = document.getElementById('chunk-panel-text');
+            const speedSlider = document.getElementById('speed-slider');
+            const speedReadout = document.getElementById('speed-readout');
+
+            // TTS state
+            let availableVoices = [];
+            let chunks = [];
+            let currentChunkIndex = -1;
+            let currentUtterance = null;
+            let resumeIntervalId = null;
+            let pendingPauseTimeout = null;
+            let ttsActive = false;
+            let ttsPaused = false;
+            let currentSceneName = '';
+            let currentSceneText = '';
+            let playbackRate = 1.1; // default playback speed
 
             let storyData = null;
             let debugLog = [];
@@ -408,18 +613,477 @@
                 statusEl.className = 'status' + (isError ? ' error' : '');
             }
 
+            /* ========== SPEED SLIDER ========== */
+
+            function updateSpeedReadout() {
+                speedReadout.textContent = playbackRate.toFixed(2) + '×';
+            }
+
+            speedSlider.addEventListener('input', function() {
+                playbackRate = parseFloat(this.value);
+                updateSpeedReadout();
+                logDebug(`Playback speed set to ${playbackRate.toFixed(2)}×`);
+            });
+
+            updateSpeedReadout();
+
+            /* ========== UI STATE HELPERS ========== */
+
+            function updateChunkUI() {
+                if (chunks.length === 0) {
+                    chunkCounter.textContent = '— / —';
+                    chunkPanel.classList.remove('visible');
+                    prevBtn.disabled = true;
+                    replayBtn.disabled = true;
+                    nextBtn.disabled = true;
+                    return;
+                }
+
+                const displayIdx = currentChunkIndex >= 0 ? currentChunkIndex + 1 : 0;
+                chunkCounter.textContent = `${displayIdx} / ${chunks.length}`;
+
+                if (currentChunkIndex >= 0 && currentChunkIndex < chunks.length) {
+                    const c = chunks[currentChunkIndex];
+                    chunkPanel.classList.add('visible');
+                    if (c.isPause) {
+                        chunkPanelText.textContent = '— beat —';
+                        chunkPanelText.classList.add('is-pause');
+                    } else {
+                        chunkPanelText.textContent = c.text;
+                        chunkPanelText.classList.remove('is-pause');
+                    }
+                } else {
+                    chunkPanel.classList.remove('visible');
+                }
+
+                const sessionLive = ttsActive;
+                prevBtn.disabled = !sessionLive || currentChunkIndex <= 0;
+                replayBtn.disabled = !sessionLive || currentChunkIndex < 0 || currentChunkIndex >= chunks.length;
+                nextBtn.disabled = !sessionLive || currentChunkIndex >= chunks.length - 1;
+            }
+
+            function setTtsButtonsActive(active) {
+                pauseBtn.disabled = !active;
+                stopBtn.disabled = !active;
+                updateChunkUI();
+            }
+
+            /* ========== SPEECH SYNTHESIS ========== */
+
             /**
-             * Removes leading indentation from scene content for display.
-             * Finds the minimum indentation across all non-empty lines and removes it.
-             * Preserves all blank lines.
+             * Preferred voice selection order:
+             *   1. "Google UK English Male"  (exact match — the preferred voice)
+             *   2. Any voice whose lang starts with "en" (English fallback)
+             *   3. The system default voice
+             *   4. The first voice in the list
              */
+            function pickPreferredVoiceIndex() {
+                if (availableVoices.length === 0) return -1;
+
+                // 1. Exact match for Google UK English Male
+                const exactIdx = availableVoices.findIndex(
+                    v => v.name === 'Google UK English Male'
+                );
+                if (exactIdx >= 0) {
+                    logDebug(`Preferred voice found: "${availableVoices[exactIdx].name}"`);
+                    return exactIdx;
+                }
+
+                // 1b. Case-insensitive / partial fallback for the same voice
+                // (some systems expose it as "Google UK English Male" with
+                //  slightly different casing or trailing spaces)
+                const fuzzyIdx = availableVoices.findIndex(v => {
+                    const n = (v.name || '').toLowerCase();
+                    return n.includes('google') && n.includes('uk') && n.includes('male');
+                });
+                if (fuzzyIdx >= 0) {
+                    logDebug(`Preferred voice matched fuzzily: "${availableVoices[fuzzyIdx].name}"`);
+                    return fuzzyIdx;
+                }
+
+                // 2. Any English voice
+                const englishIdx = availableVoices.findIndex(
+                    v => (v.lang || '').toLowerCase().startsWith('en')
+                );
+                if (englishIdx >= 0) {
+                    logDebug(`Falling back to first English voice: "${availableVoices[englishIdx].name}"`);
+                    return englishIdx;
+                }
+
+                // 3. System default
+                const defaultIdx = availableVoices.findIndex(v => v.default);
+                if (defaultIdx >= 0) {
+                    logDebug(`Falling back to default voice: "${availableVoices[defaultIdx].name}"`);
+                    return defaultIdx;
+                }
+
+                // 4. First available
+                logDebug(`Falling back to first available voice: "${availableVoices[0].name}"`);
+                return 0;
+            }
+
+            function populateVoiceList() {
+                if (!window.speechSynthesis) {
+                    logDebug('SpeechSynthesis not supported in this browser');
+                    speakBtn.disabled = true;
+                    voiceSelect.disabled = true;
+                    return;
+                }
+
+                availableVoices = window.speechSynthesis.getVoices();
+                logDebug(`Voices available: ${availableVoices.length}`);
+
+                voiceSelect.innerHTML = '';
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = '— Default —';
+                voiceSelect.appendChild(defaultOption);
+
+                // Sort: Google voices first, then everything else alphabetically
+                const sorted = [...availableVoices].sort((a, b) => {
+                    const aG = a.name.includes('Google') ? 0 : 1;
+                    const bG = b.name.includes('Google') ? 0 : 1;
+                    if (aG !== bG) return aG - bG;
+                    return a.name.localeCompare(b.name);
+                });
+
+                sorted.forEach(function(voice) {
+                    const option = document.createElement('option');
+                    option.value = availableVoices.indexOf(voice);
+                    const lang = voice.lang || '';
+                    option.textContent = `${voice.name} (${lang})${voice.default ? ' ★' : ''}`;
+                    voiceSelect.appendChild(option);
+                });
+
+                voiceSelect.disabled = false;
+
+                // Pre-select the preferred voice (or a sensible fallback)
+                const preferredIdx = pickPreferredVoiceIndex();
+                if (preferredIdx >= 0) {
+                    voiceSelect.value = preferredIdx;
+                }
+            }
+
+            if (window.speechSynthesis) {
+                speechSynthesis.onvoiceschanged = populateVoiceList;
+                populateVoiceList();
+            } else {
+                logDebug('Web Speech API not available');
+                speakBtn.disabled = true;
+                pauseBtn.disabled = true;
+                prevBtn.disabled = true;
+                replayBtn.disabled = true;
+                nextBtn.disabled = true;
+                stopBtn.disabled = true;
+                voiceSelect.disabled = true;
+            }
+
+            /**
+             * Line-aware, character-aware chunker with paragraph-break pauses.
+             *
+             * Rule 1: Every non-empty line becomes a chunk.
+             * Rule 2: A blank line becomes a special {isPause: true} chunk.
+             * Rule 3: A line longer than `maxLen` is split further.
+             * Consecutive blank lines collapse into a single pause chunk.
+             */
+            function chunkText(text, maxLen = 180) {
+                if (!text) return [];
+
+                const rawLines = text.split('\n');
+                const chunks = [];
+                let lastWasPause = false;
+
+                for (const rawLine of rawLines) {
+                    const line = rawLine.trim();
+
+                    if (line === '') {
+                        if (!lastWasPause) {
+                            chunks.push({ text: '', isPause: true });
+                            lastWasPause = true;
+                        }
+                        continue;
+                    }
+
+                    lastWasPause = false;
+
+                    if (line.length <= maxLen) {
+                        chunks.push({ text: line, isPause: false });
+                        continue;
+                    }
+
+                    const sentences = line.match(/[^.!?]+[.!?]+["')\]]*|\S[^.!?]*$/g) || [line];
+                    let buffer = '';
+
+                    for (const sentence of sentences) {
+                        const s = sentence.trim();
+                        if (!s) continue;
+
+                        if (s.length > maxLen) {
+                            if (buffer) {
+                                chunks.push({ text: buffer, isPause: false });
+                                buffer = '';
+                            }
+                            let remaining = s;
+                            while (remaining.length > maxLen) {
+                                let breakAt = remaining.lastIndexOf(', ', maxLen);
+                                if (breakAt < maxLen * 0.5) breakAt = remaining.lastIndexOf(' ', maxLen);
+                                if (breakAt < maxLen * 0.5) breakAt = maxLen;
+                                chunks.push({ text: remaining.slice(0, breakAt + 1).trim(), isPause: false });
+                                remaining = remaining.slice(breakAt + 1).trim();
+                            }
+                            if (remaining) buffer = remaining;
+                        } else if ((buffer + ' ' + s).length > maxLen) {
+                            if (buffer) chunks.push({ text: buffer, isPause: false });
+                            buffer = s;
+                        } else {
+                            buffer = buffer ? buffer + ' ' + s : s;
+                        }
+                    }
+                    if (buffer) chunks.push({ text: buffer, isPause: false });
+                }
+
+                return chunks;
+            }
+
+            function clearResumeTimer() {
+                if (resumeIntervalId) {
+                    clearInterval(resumeIntervalId);
+                    resumeIntervalId = null;
+                }
+            }
+
+            function clearPendingPause() {
+                if (pendingPauseTimeout) {
+                    clearTimeout(pendingPauseTimeout);
+                    pendingPauseTimeout = null;
+                }
+            }
+
+            function startResumeTimer() {
+                clearResumeTimer();
+                resumeIntervalId = setInterval(function() {
+                    if (!window.speechSynthesis.speaking) return;
+                    if (window.speechSynthesis.paused) {
+                        window.speechSynthesis.resume();
+                    }
+                }, 5000);
+            }
+
+            function playChunkAt(index) {
+                if (index < 0) index = 0;
+
+                if (index >= chunks.length) {
+                    currentChunkIndex = chunks.length;
+                    ttsActive = false;
+                    ttsPaused = false;
+                    speakBtn.textContent = '🔊 Speak Scene';
+                    pauseBtn.textContent = '⏸ Pause';
+                    setTtsButtonsActive(false);
+                    setStatus(`Finished reading: ${currentSceneName}`);
+                    logDebug('TTS finished all chunks');
+                    clearResumeTimer();
+                    updateChunkUI();
+                    return;
+                }
+
+                currentChunkIndex = index;
+                const chunk = chunks[currentChunkIndex];
+
+                updateChunkUI();
+
+                if (chunk.isPause) {
+                    const pauseMs = Math.round(PAUSE_BASE_MS / Math.max(0.5, playbackRate));
+                    logDebug(`Pause chunk ${currentChunkIndex + 1}/${chunks.length} (${pauseMs}ms @ ${playbackRate.toFixed(2)}×)`);
+
+                    clearPendingPause();
+                    pendingPauseTimeout = setTimeout(function() {
+                        pendingPauseTimeout = null;
+                        if (ttsActive && !ttsPaused && currentChunkIndex === index) {
+                            playChunkAt(index + 1);
+                        }
+                    }, pauseMs);
+                    return;
+                }
+
+                const utterance = new SpeechSynthesisUtterance(chunk.text);
+                currentUtterance = utterance;
+
+                const selectedVoiceIndex = voiceSelect.value;
+                if (selectedVoiceIndex !== '' && availableVoices[selectedVoiceIndex]) {
+                    utterance.voice = availableVoices[selectedVoiceIndex];
+                }
+
+                utterance.rate = playbackRate;
+                utterance.pitch = 1.0;
+                utterance.volume = 1.0;
+
+                utterance.onend = function() {
+                    logDebug(`Chunk ${currentChunkIndex + 1}/${chunks.length} done`);
+                    if (currentUtterance === utterance && ttsActive && !ttsPaused) {
+                        playChunkAt(currentChunkIndex + 1);
+                    }
+                };
+
+                utterance.onerror = function(event) {
+                    if (event.error === 'interrupted' || event.error === 'canceled') {
+                        logDebug(`Chunk ${currentChunkIndex + 1} ${event.error}`);
+                        return;
+                    }
+                    logDebug(`Chunk error: ${event.error} — skipping`);
+                    if (currentUtterance === utterance && ttsActive && !ttsPaused) {
+                        playChunkAt(currentChunkIndex + 1);
+                    }
+                };
+
+                window.speechSynthesis.speak(utterance);
+                logDebug(`Speaking chunk ${currentChunkIndex + 1}/${chunks.length} @ ${playbackRate.toFixed(2)}× (${chunk.text.length} chars)`);
+            }
+
+            function jumpToChunk(index) {
+                if (!window.speechSynthesis || !ttsActive) return;
+
+                clearPendingPause();
+                window.speechSynthesis.cancel();
+                if (currentUtterance) {
+                    currentUtterance.onend = null;
+                    currentUtterance.onerror = null;
+                    currentUtterance = null;
+                }
+
+                ttsPaused = false;
+                pauseBtn.textContent = '⏸ Pause';
+
+                setTimeout(function() {
+                    playChunkAt(index);
+                }, 80);
+            }
+
+            function stopSpeaking() {
+                chunks = [];
+                currentChunkIndex = -1;
+                clearResumeTimer();
+                clearPendingPause();
+                if (window.speechSynthesis) {
+                    window.speechSynthesis.cancel();
+                }
+                if (currentUtterance) {
+                    currentUtterance.onend = null;
+                    currentUtterance.onerror = null;
+                }
+                currentUtterance = null;
+                ttsActive = false;
+                ttsPaused = false;
+                speakBtn.textContent = '🔊 Speak Scene';
+                pauseBtn.textContent = '⏸ Pause';
+                setTtsButtonsActive(false);
+                setStatus('Speech stopped.');
+                logDebug('TTS: stopped');
+                updateChunkUI();
+            }
+
+            function startSpeaking() {
+                if (!currentSceneText) {
+                    setStatus('No text to speak.');
+                    return;
+                }
+                if (!window.speechSynthesis) {
+                    setStatus('Speech synthesis not supported in this browser.', true);
+                    return;
+                }
+
+                window.speechSynthesis.cancel();
+                clearResumeTimer();
+                clearPendingPause();
+
+                chunks = chunkText(currentSceneText, 180);
+                currentChunkIndex = 0;
+
+                const pauseCount = chunks.filter(c => c.isPause).length;
+                const textCount = chunks.length - pauseCount;
+                logDebug(`TTS: ${chunks.length} chunks queued (${textCount} text + ${pauseCount} pauses) from ${currentSceneText.length} chars`);
+
+                if (chunks.length === 0) {
+                    setStatus('Nothing to speak.');
+                    return;
+                }
+
+                ttsActive = true;
+                ttsPaused = false;
+                speakBtn.textContent = '🔊 Speaking...';
+                pauseBtn.textContent = '⏸ Pause';
+                setTtsButtonsActive(true);
+                setStatus(`Speaking: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
+
+                startResumeTimer();
+                setTimeout(function() { playChunkAt(0); }, 100);
+            }
+
+            function togglePause() {
+                if (!window.speechSynthesis || !ttsActive) return;
+
+                if (ttsPaused) {
+                    window.speechSynthesis.resume();
+                    ttsPaused = false;
+                    pauseBtn.textContent = '⏸ Pause';
+                    setStatus(`Speaking: ${currentSceneName}`);
+                    logDebug('TTS: resumed');
+
+                    setTimeout(function() {
+                        if (ttsActive && !ttsPaused && !window.speechSynthesis.speaking && !pendingPauseTimeout) {
+                            playChunkAt(currentChunkIndex);
+                        }
+                    }, 200);
+                } else {
+                    window.speechSynthesis.pause();
+                    ttsPaused = true;
+                    pauseBtn.textContent = '▶ Resume';
+                    setStatus(`Paused: ${currentSceneName}`);
+                    logDebug('TTS: paused');
+                }
+            }
+
+            // ---- Event wiring ----
+            speakBtn.addEventListener('click', function() {
+                if (ttsActive) {
+                    stopSpeaking();
+                    setTimeout(startSpeaking, 150);
+                } else {
+                    startSpeaking();
+                }
+            });
+
+            pauseBtn.addEventListener('click', togglePause);
+            stopBtn.addEventListener('click', stopSpeaking);
+
+            prevBtn.addEventListener('click', function() {
+                if (!ttsActive) return;
+                const target = Math.max(0, currentChunkIndex - 1);
+                logDebug(`TTS: prev → chunk ${target + 1}`);
+                jumpToChunk(target);
+            });
+
+            nextBtn.addEventListener('click', function() {
+                if (!ttsActive) return;
+                const target = Math.min(chunks.length - 1, currentChunkIndex + 1);
+                logDebug(`TTS: next → chunk ${target + 1}`);
+                jumpToChunk(target);
+            });
+
+            replayBtn.addEventListener('click', function() {
+                if (!ttsActive) return;
+                if (currentChunkIndex < 0) return;
+                logDebug(`TTS: replay chunk ${currentChunkIndex + 1}`);
+                jumpToChunk(currentChunkIndex);
+            });
+
+            /* ========== END TTS ========== */
+
             function stripIndentation(content) {
                 if (!content) return '';
-                
+
                 const lines = content.split('\n');
                 let minIndent = Infinity;
-                
-                // Find the minimum indentation among non-empty lines
+
                 for (let line of lines) {
                     if (line.trim() !== '') {
                         const match = line.match(/^(\s*)/);
@@ -429,32 +1093,32 @@
                         }
                     }
                 }
-                
-                // If no non-empty lines or minIndent is 0, return as-is
+
                 if (minIndent === Infinity || minIndent === 0) {
                     return content;
                 }
-                
-                // Remove the minimum indentation from each line, but leave empty lines untouched
+
                 const strippedLines = lines.map(line => {
                     if (line.trim() === '') return line;
                     return line.substring(minIndent);
                 });
-                
+
                 return strippedLines.join('\n');
             }
 
-            /* ----- split on newlines and wrap each non‑empty line in <p> ----- */
             function showContent(title, content) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
+                    currentSceneText = '';
+                    speakBtn.disabled = true;
+                    pauseBtn.disabled = true;
+                    prevBtn.disabled = true;
+                    replayBtn.disabled = true;
+                    nextBtn.disabled = true;
                     return;
                 }
-                // Strip indentation first
                 const stripped = stripIndentation(content);
-                // Split into lines
                 const lines = stripped.split('\n');
-                // Build HTML: each non‑empty line becomes a <p>, empty lines become <p>&nbsp;</p> to keep spacing
                 let html = '';
                 for (let line of lines) {
                     const trimmed = line.trim();
@@ -469,14 +1133,19 @@
                     <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
                     <div class="scene-content">${html}</div>
                 `;
-            }
 
-            /* ---------- the rest of the script is unchanged ---------- */
+                currentSceneName = title || 'Untitled Scene';
+                currentSceneText = stripped;
+                speakBtn.disabled = false;
+                if (ttsActive) {
+                    stopSpeaking();
+                }
+            }
 
             function populateSelect(select, items, defaultLabel) {
                 const currentValue = select.value;
                 select.innerHTML = '';
-                
+
                 const defaultOption = document.createElement('option');
                 defaultOption.value = '';
                 defaultOption.textContent = defaultLabel || '— Select —';
@@ -528,20 +1197,20 @@
 
             function removeTrailingSceneName(content, sceneIndentLevel) {
                 if (!content) return '';
-                
+
                 const lines = content.split('\n');
-                
+
                 while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
                     lines.pop();
                 }
-                
+
                 if (lines.length > 0) {
                     const lastLine = lines[lines.length - 1];
                     const lastIndent = getIndentLevel(lastLine);
-                    
-                    if (lastIndent <= sceneIndentLevel && 
-                        !lastLine.trim().startsWith('SCENE') && 
-                        !lastLine.trim().startsWith('EPISODE') && 
+
+                    if (lastIndent <= sceneIndentLevel &&
+                        !lastLine.trim().startsWith('SCENE') &&
+                        !lastLine.trim().startsWith('EPISODE') &&
                         !lastLine.trim().startsWith('VOLUME')) {
                         lines.pop();
                         while (lines.length > 0 && lines[lines.length - 1].trim() === '') {
@@ -549,14 +1218,14 @@
                         }
                     }
                 }
-                
+
                 return lines.join('\n');
             }
 
             function parseStory(text) {
                 logDebug('=== Starting parse ===');
                 const lines = text.split(/\r?\n/);
-                
+
                 const volumes = [];
                 let currentVolume = null;
                 let currentEpisode = null;
@@ -564,7 +1233,7 @@
                 let sceneContent = [];
                 let inScene = false;
                 let sceneIndentLevel = 0;
-                
+
                 let volumeCount = 0;
                 let episodeCount = 0;
                 let sceneCount = 0;
@@ -640,8 +1309,8 @@
                             const nextLine = lines[i + 1].trim();
                             const isDivider = /^_+$/.test(nextLine);
                             if (nextLine && !isDivider &&
-                                !nextLine.startsWith('EPISODE') && 
-                                !nextLine.startsWith('SCENE') && 
+                                !nextLine.startsWith('EPISODE') &&
+                                !nextLine.startsWith('SCENE') &&
                                 !nextLine.startsWith('VOLUME')) {
                                 episodeName = nextLine;
                                 i++;
@@ -679,15 +1348,15 @@
                             };
                             logDebug('Created default episode');
                         }
-                        
+
                         sceneIndentLevel = getIndentLevel(line);
                         logDebug(`  Scene indent level: ${sceneIndentLevel}`);
-                        
+
                         let sceneName = extractName(trimmed);
                         if (!sceneName) {
                             sceneName = `Scene ${sceneCount}`;
                         }
-                        
+
                         currentScene = sceneName;
                         sceneContent = [];
                         inScene = true;
@@ -696,9 +1365,9 @@
                     }
 
                     if (inScene && currentScene) {
-                        if (trimmed !== '______________________________' && 
-                            !trimmed.startsWith('SCENE') && 
-                            !trimmed.startsWith('EPISODE') && 
+                        if (trimmed !== '______________________________' &&
+                            !trimmed.startsWith('SCENE') &&
+                            !trimmed.startsWith('EPISODE') &&
                             !trimmed.startsWith('VOLUME')) {
                             sceneContent.push(line);
                         }
@@ -706,7 +1375,7 @@
                 }
 
                 logDebug('=== Final cleanup ===');
-                
+
                 if (inScene && currentScene && currentEpisode) {
                     logDebug(`  Final scene before save: "${currentScene}" with ${sceneContent.length} lines`);
                     let content = sceneContent.join('\n').trimEnd();
@@ -720,7 +1389,7 @@
                     inScene = false;
                     logDebug(`  Final scene saved with cleanup applied`);
                 }
-                
+
                 saveEpisode();
 
                 volumes.forEach(volume => {
@@ -735,7 +1404,7 @@
                                 const lastIndent = getIndentLevel(lastLine);
                                 if (lastIndent < 4 && lastLine.trim().length < 60) {
                                     const trimmed = lastLine.trim();
-                                    if (!trimmed.startsWith('"') && 
+                                    if (!trimmed.startsWith('"') &&
                                         !trimmed.startsWith("'") &&
                                         !trimmed.match(/[.,!?;:]/) &&
                                         !trimmed.startsWith('SCENE') &&
@@ -787,16 +1456,24 @@
                 populateSelect(sceneSelect, [], '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
                 setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                speakBtn.disabled = true;
+                chunks = [];
+                currentChunkIndex = -1;
+                ttsActive = false;
+                setTtsButtonsActive(false);
+                updateChunkUI();
+                currentSceneText = '';
             }
 
             function updateEpisodes() {
                 const selectedVolume = volumeSelect.value;
                 logDebug(`updateEpisodes called with: "${selectedVolume}"`);
-                
+
                 if (!selectedVolume || !storyData) {
                     populateSelect(episodeSelect, [], '— Select Episode —');
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     contentArea.innerHTML = `<div class="message">Select a volume to begin reading.</div>`;
+                    speakBtn.disabled = true;
                     return;
                 }
 
@@ -816,16 +1493,24 @@
                 populateSelect(episodeSelect, episodeLabels, '— Select Episode —');
                 populateSelect(sceneSelect, [], '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
+                speakBtn.disabled = true;
+                chunks = [];
+                currentChunkIndex = -1;
+                ttsActive = false;
+                setTtsButtonsActive(false);
+                updateChunkUI();
+                currentSceneText = '';
             }
 
             function updateScenes() {
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisodeId = episodeSelect.value;
                 logDebug(`updateScenes called with volume: "${selectedVolume}", episodeId: "${selectedEpisodeId}"`);
-                
+
                 if (!selectedVolume || !selectedEpisodeId || !storyData) {
                     populateSelect(sceneSelect, [], '— Select Scene —');
                     contentArea.innerHTML = `<div class="message">Select an episode to view its scenes.</div>`;
+                    speakBtn.disabled = true;
                     return;
                 }
 
@@ -850,6 +1535,13 @@
                 logDebug(`Found ${sceneItems.length} scenes for episode "${episode.name}"`);
                 populateSelect(sceneSelect, sceneItems, '— Select Scene —');
                 contentArea.innerHTML = `<div class="message">Select a scene to read.</div>`;
+                speakBtn.disabled = true;
+                chunks = [];
+                currentChunkIndex = -1;
+                ttsActive = false;
+                setTtsButtonsActive(false);
+                updateChunkUI();
+                currentSceneText = '';
             }
 
             function displaySelectedScene() {
@@ -860,6 +1552,7 @@
 
                 if (!selectedVolume || !selectedEpisodeId || !selectedSceneId || !storyData) {
                     contentArea.innerHTML = `<div class="message">Please make a selection.</div>`;
+                    speakBtn.disabled = true;
                     return;
                 }
 
@@ -879,12 +1572,18 @@
                 if (!scene) {
                     logDebug(`Scene not found with ID: "${selectedSceneId}"`);
                     contentArea.innerHTML = `<div class="error">Scene not found.</div>`;
+                    speakBtn.disabled = true;
                     return;
                 }
 
                 logDebug(`Displaying scene "${scene.name}" with ${scene.content.length} characters`);
                 showContent(scene.name, scene.content);
                 setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
+                chunks = [];
+                currentChunkIndex = -1;
+                ttsActive = false;
+                setTtsButtonsActive(false);
+                updateChunkUI();
             }
 
             volumeSelect.addEventListener('change', function() {
@@ -908,10 +1607,62 @@
                 displaySelectedScene();
             });
 
+            /* ========== STORY LOADING ========== */
+
+            function loadStoryFromText(text) {
+                logDebug(`Loading story from provided text, ${text.length} characters`);
+
+                try {
+                    const parsed = parseStory(text);
+                    storyData = parsed;
+
+                    if (!storyData.volumes || storyData.volumes.length === 0) {
+                        throw new Error('No volumes found in the file.');
+                    }
+
+                    updateNavigation();
+                    setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                    // Hide the fallback file-loader on success
+                    fileLoadArea.classList.remove('visible');
+                } catch (error) {
+                    console.error('Error:', error);
+                    logDebug(`ERROR: ${error.message}`);
+                    contentArea.innerHTML = `
+                        <div class="error">
+                            <strong>Error loading story:</strong><br>
+                            ${error.message}
+                        </div>
+                    `;
+                    setStatus('Error loading story.', true);
+                }
+            }
+
+            // File picker fallback — revealed only if fetch() fails
+            fileInput.addEventListener('change', function(e) {
+                const file = e.target.files[0];
+                if (!file) return;
+
+                setStatus(`Loading ${file.name}...`);
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    loadStoryFromText(event.target.result);
+                };
+                reader.onerror = function() {
+                    setStatus('Error reading file.', true);
+                };
+                reader.readAsText(file);
+            });
+
+            /**
+             * Try fetch() first. If it works (server-served), the file-load
+             * area stays hidden forever. If it fails (e.g. file:// protocol
+             * blocks fetch), reveal the file-load area so the user can pick
+             * the story file manually.
+             */
             function loadStory() {
                 setStatus('Loading story file...');
                 logDebug(`=== Fetching file: ${STORY_FILE} ===`);
-                
+
                 fetch(STORY_FILE)
                     .then(response => {
                         logDebug(`Response status: ${response.status}`);
@@ -921,32 +1672,27 @@
                         return response.text();
                     })
                     .then(text => {
-                        logDebug(`File loaded, ${text.length} characters`);
-                        
-                        const parsed = parseStory(text);
-                        storyData = parsed;
-                        
-                        if (!storyData.volumes || storyData.volumes.length === 0) {
-                            throw new Error('No volumes found in the file.');
-                        }
-
-                        updateNavigation();
-                        setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                        logDebug(`File loaded via fetch, ${text.length} characters`);
+                        loadStoryFromText(text);
                     })
                     .catch(error => {
-                        console.error('Error:', error);
-                        logDebug(`ERROR: ${error.message}`);
+                        console.warn('Fetch failed, showing file picker:', error.message);
+                        logDebug(`Fetch failed: ${error.message}`);
+                        logDebug('→ Revealing file-picker fallback.');
+
+                        // Reveal the fallback UI
+                        fileLoadArea.classList.add('visible');
+                        setStatus('📂 Please select the story file using the button above.');
+
                         contentArea.innerHTML = `
-                            <div class="error">
-                                <strong>Error loading story:</strong><br>
-                                ${error.message}<br><br>
-                                <strong>Check:</strong><br>
-                                1. The file <code>${STORY_FILE}</code> is in the same folder.<br>
-                                2. The filename matches exactly (case-sensitive).<br>
-                                3. The file has the correct format.
+                            <div class="message">
+                                <p>📂 No story loaded yet.</p>
+                                <p style="font-size: 0.9rem; color: #8b949e; margin-top: 10px;">
+                                    Click <strong>Choose File</strong> above and select:<br>
+                                    <code style="background: #21262d; padding: 2px 8px; border-radius: 4px;">bloodhound story scenes-WIP.txt</code>
+                                </p>
                             </div>
                         `;
-                        setStatus('Error loading story.', true);
                     });
             }
 

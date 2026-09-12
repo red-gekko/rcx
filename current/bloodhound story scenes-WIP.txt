@@ -126,7 +126,7 @@ VOLUME - CODEX
 		______________________________
 		SCENE
 			Backed by the resentful oligarchy, America began its divine mission: to contain a socialist bloc that stretched from Madrid to Seoul.
-			Europe fractured: France, Iberia, and much of the East aligned with Moscow, while Britain built a rival coalition of anti-communist states in northern Europe - the European "Democratic" Union.
+			Europe fractured: France, Iberia, and much of the East aligned with Moscow, while Britain built a rival coalition of anti-communist states in northern Europe - the European 'Democratic' Union.
 
 			In 1962, the Hashemite Kingdom of Arabia fell to Ba'athist revolutionaries. Religious and ethnic tensions still smouldered underneath, suppressed by the watchful eye of the Party.
 			China, guided by the orthodox Wang Ming after Mao's quiet ouster, threw its lot in with the Soviets. Nixon never went to China, and as it industrialised, the Soviet bloc seemed unstoppable. Even India and Arabia quietly bowed to the communist juggernauts.

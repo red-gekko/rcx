@@ -108,7 +108,6 @@
         .nav-group select::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
         .nav-group select::-webkit-scrollbar-thumb:hover { background: #484f58; }
 
-        /* TTS controls row */
         .tts-controls {
             display: flex;
             flex-wrap: wrap;
@@ -146,7 +145,6 @@
             border-color: #30363d;
         }
 
-        /* Autoplay toggle ON state */
         .tts-controls button.autoplay-on {
             background-color: #1f3d2a;
             border-color: #3fb950;
@@ -156,6 +154,12 @@
         .tts-controls button.autoplay-on:hover:not(:disabled) {
             background-color: #2a4d38;
             border-color: #56d364;
+        }
+
+        .tts-controls button.help-active {
+            background-color: #2a2f4a;
+            border-color: #58a6ff;
+            color: #79b8ff;
         }
 
         .tts-controls .chunk-counter {
@@ -265,7 +269,6 @@
 
         .tts-controls select:focus { outline: none; border-color: #58a6ff; }
 
-        /* Chunk transcript panel — permanently visible */
         .chunk-panel {
             background-color: #0d1117;
             border: 1px solid #30363d;
@@ -314,7 +317,6 @@
             font-style: italic;
         }
 
-        /* ── Autoplay timer & cancel ──────────────────────────── */
         .chunk-panel .autoplay-timer {
             display: flex;
             align-items: center;
@@ -365,7 +367,6 @@
             background: #f85149;
         }
 
-        /* ── Scene navigation row (sits below transcript, above content) ── */
         .scene-nav-row {
             display: flex;
             justify-content: space-between;
@@ -451,10 +452,98 @@
         .scene-content p { margin: 0 0 1.25em 0; }
         .scene-content p:last-child { margin-bottom: 0; }
 
-        .scene-content::-webkit-scrollbar { width: 6px; }
-        .scene-content::-webkit-scrollbar-track { background: transparent; }
-        .scene-content::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
-        .scene-content::-webkit-scrollbar-thumb:hover { background: #484f58; }
+        .scene-content .chunk-span {
+            transition: background-color 0.12s ease, box-shadow 0.12s ease;
+            border-radius: 3px;
+            padding: 1px 0;
+        }
+
+        .scene-content.narration-active .chunk-span {
+            cursor: pointer;
+        }
+
+        .scene-content.narration-active .chunk-span:hover {
+            background-color: rgba(88, 166, 255, 0.20);
+            box-shadow: 0 0 0 2px rgba(88, 166, 255, 0.20);
+        }
+
+        .scene-content .chunk-span.is-current {
+            background-color: rgba(240, 136, 62, 0.22);
+            box-shadow: 0 0 0 2px rgba(240, 136, 62, 0.22);
+        }
+
+        .scene-content .chunk-span.chunk-pause {
+            display: inline-block;
+            height: 0.9em;
+            min-width: 0.9em;
+            color: transparent;
+            user-select: none;
+        }
+
+        /* ── Help panel styling ── */
+        .help-panel {
+            color: #d1d9e0;
+            font-size: 1rem;
+            line-height: 1.55;
+        }
+
+        .help-panel h3 {
+            color: #f0f6fc;
+            font-size: 1.15rem;
+            font-weight: 600;
+            margin: 1.4em 0 0.5em 0;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #30363d;
+            letter-spacing: -0.2px;
+        }
+
+        .help-panel h3:first-child { margin-top: 0; }
+
+        .help-panel p {
+            margin: 0 0 0.9em 0;
+            color: #c9d1d9;
+        }
+
+        .help-panel ul {
+            margin: 0 0 1em 1.2em;
+            padding: 0;
+        }
+
+        .help-panel li {
+            margin-bottom: 0.45em;
+            color: #c9d1d9;
+        }
+
+        .help-panel strong {
+            color: #f0f6fc;
+            font-weight: 600;
+        }
+
+        .help-panel em {
+            color: #8b949e;
+            font-style: italic;
+        }
+
+        .help-panel code {
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.85em;
+            background: #21262d;
+            color: #e6edf3;
+            padding: 1px 6px;
+            border-radius: 4px;
+        }
+
+        .help-panel .help-hint {
+            display: block;
+            margin-top: 1.5em;
+            padding: 12px 16px;
+            background: #1c2128;
+            border-left: 3px solid #f0883e;
+            border-radius: 6px;
+            color: #8b949e;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
 
         .message {
             font-size: 1.1rem;
@@ -531,7 +620,6 @@
         .debug-info::-webkit-scrollbar-track { background: transparent; }
         .debug-info::-webkit-scrollbar-thumb { background: #30363d; border-radius: 4px; }
 
-        /* File-load fallback area */
         .file-load-area {
             display: none;
             margin-bottom: 20px;
@@ -543,7 +631,6 @@
         }
 
         .file-load-area.visible { display: block; }
-
         .file-load-area input[type="file"] { display: none; }
 
         .file-load-area .file-btn {
@@ -648,7 +735,6 @@
             </div>
         </div>
 
-        <!-- TTS controls -->
         <div class="tts-controls">
             <button id="speak-btn" disabled>🔊 Speak Scene</button>
             <button id="pause-btn" disabled>⏸ Pause</button>
@@ -657,6 +743,7 @@
             <button id="next-btn" disabled title="Next chunk">⏭ Next</button>
             <button id="stop-btn" disabled>⏹ Stop</button>
             <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
+            <button id="help-btn" title="Show help">❓ Help</button>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
 
             <span class="speed-group">
@@ -671,7 +758,6 @@
             </select>
         </div>
 
-        <!-- Chunk transcript panel — permanently visible -->
         <div class="chunk-panel" id="chunk-panel">
             <div class="chunk-panel-label">Currently speaking:</div>
             <div class="chunk-panel-text is-empty" id="chunk-panel-text">Narrated text will appear here.</div>
@@ -684,7 +770,6 @@
             </div>
         </div>
 
-        <!-- Scene navigation buttons (below transcript, above content) -->
         <div class="scene-nav-row">
             <button id="scene-prev-btn" disabled title="Previous scene">◀ Previous Scene</button>
             <span class="nav-spacer" id="scene-nav-spacer">—</span>
@@ -720,7 +805,6 @@
             const fileLoadArea = document.getElementById('fileLoadArea');
             const fileInput = document.getElementById('fileInput');
 
-            // TTS elements
             const speakBtn = document.getElementById('speak-btn');
             const pauseBtn = document.getElementById('pause-btn');
             const prevBtn = document.getElementById('prev-btn');
@@ -728,6 +812,7 @@
             const nextBtn = document.getElementById('next-btn');
             const stopBtn = document.getElementById('stop-btn');
             const autoplayBtn = document.getElementById('autoplay-btn');
+            const helpBtn = document.getElementById('help-btn');
             const voiceSelect = document.getElementById('voice-select');
             const chunkCounter = document.getElementById('chunk-counter');
             const chunkPanel = document.getElementById('chunk-panel');
@@ -735,17 +820,14 @@
             const speedSlider = document.getElementById('speed-slider');
             const speedReadout = document.getElementById('speed-readout');
 
-            // Autoplay timer elements
             const autoplayTimer = document.getElementById('autoplayTimer');
             const timerCountdown = document.getElementById('timerCountdown');
             const cancelAutoplayBtn = document.getElementById('cancelAutoplayBtn');
 
-            // Scene navigation elements
             const scenePrevBtn = document.getElementById('scene-prev-btn');
             const sceneNextBtn = document.getElementById('scene-next-btn');
             const sceneNavSpacer = document.getElementById('scene-nav-spacer');
 
-            // TTS state
             let availableVoices = [];
             let chunks = [];
             let currentChunkIndex = -1;
@@ -758,17 +840,19 @@
             let currentSceneText = '';
             let playbackRate = 1.1;
 
-            // Autoplay state
             let autoplayEnabled = false;
             let autoplayTimerId = null;
             let autoplayCountdown = 0;
             let autoplayWaiting = false;
 
-            // Flag used to suppress auto-start during cascading select changes.
-            // When a user changes the Volume dropdown, the change handler
-            // repopulates Episode and Scene, which would otherwise trigger
-            // their own change handlers and try to auto-start narration.
             let cascadingSelectChange = false;
+
+            let sceneContentEl = null;
+
+            // ── Help-mode state ──
+            let helpVisible = false;
+            let resumeChunkIndex = -1;      // where to resume if tts was active
+            let resumeAutoStart = false;    // whether tts was active when help was opened
 
             let storyData = null;
             let debugLog = [];
@@ -889,7 +973,6 @@
                 chunkPanel.classList.remove('autoplay-waiting');
                 chunkPanelText.classList.remove('is-autoplay-wait');
                 logDebug('Autoplay: countdown cancelled');
-                // Restore empty or current-chunk message
                 refreshChunkPanelIdleMessage();
             }
 
@@ -907,13 +990,8 @@
 
             /* ========== UI STATE HELPERS ========== */
 
-            /**
-             * Sets the chunk panel's text area to the appropriate message
-             * based on the current TTS state — either the current chunk,
-             * a "beat" marker for pause chunks, or the idle placeholder.
-             */
             function refreshChunkPanelIdleMessage() {
-                if (autoplayWaiting) return; // countdown message owns the panel
+                if (autoplayWaiting) return;
 
                 if (chunks.length > 0 &&
                     currentChunkIndex >= 0 &&
@@ -934,6 +1012,26 @@
                 }
             }
 
+            function highlightCurrentChunkSpan(index) {
+                if (!sceneContentEl) return;
+                const prev = sceneContentEl.querySelector('.chunk-span.is-current');
+                if (prev) prev.classList.remove('is-current');
+                if (index < 0) return;
+                const next = sceneContentEl.querySelector(`.chunk-span[data-chunk-index="${index}"]`);
+                if (next) next.classList.add('is-current');
+            }
+
+            function setNarrationActiveClass(active) {
+                if (!sceneContentEl) return;
+                if (active) {
+                    sceneContentEl.classList.add('narration-active');
+                } else {
+                    sceneContentEl.classList.remove('narration-active');
+                    const cur = sceneContentEl.querySelector('.chunk-span.is-current');
+                    if (cur) cur.classList.remove('is-current');
+                }
+            }
+
             function updateChunkUI() {
                 if (chunks.length === 0) {
                     chunkCounter.textContent = '— / —';
@@ -941,6 +1039,7 @@
                     replayBtn.disabled = true;
                     nextBtn.disabled = true;
                     refreshChunkPanelIdleMessage();
+                    highlightCurrentChunkSpan(-1);
                     return;
                 }
 
@@ -948,6 +1047,7 @@
                 chunkCounter.textContent = `${displayIdx} / ${chunks.length}`;
 
                 refreshChunkPanelIdleMessage();
+                highlightCurrentChunkSpan(currentChunkIndex);
 
                 const sessionLive = ttsActive;
                 prevBtn.disabled = !sessionLive || currentChunkIndex <= 0;
@@ -1004,7 +1104,6 @@
                 const target = list[flatIndex];
                 const volume = storyData.volumes[target.volumeIndex];
 
-                // Suppress cascading change handlers while we repopulate
                 cascadingSelectChange = true;
 
                 volumeSelect.value = target.volumeName;
@@ -1087,6 +1186,132 @@
             sceneNextBtn.addEventListener('click', function() {
                 logDebug('Scene nav: Next');
                 goToNextScene(autoplayEnabled);
+            });
+
+            /* ========== HELP ========== */
+
+            const HELP_HTML = `
+                <div class="help-panel">
+                    <h3>📖 Reading &amp; Navigation</h3>
+                    <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>
+                    <ul>
+                        <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the entire story scene by scene, crossing episode and volume boundaries. If Autoplay is on, the new scene begins narrating immediately.</li>
+                        <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story (e.g. <code>4 / 27 — Volume 1 · Episode 2</code>).</li>
+                    </ul>
+
+                    <h3>🔊 Narration</h3>
+                    <ul>
+                        <li><strong>Speak Scene</strong> — Begin narrating the currently displayed scene from the start.</li>
+                        <li><strong>Pause / Resume</strong> — Temporarily halt the narrator without losing your place.</li>
+                        <li><strong>Stop</strong> — End narration entirely and reset the chunk counter.</li>
+                        <li><strong>Prev / Replay / Next (chunk buttons)</strong> — Skip backward, repeat, or skip forward one spoken chunk at a time. Useful for re-hearing a specific sentence.</li>
+                        <li><strong>Speed</strong> — Adjust the narration rate from 0.5× to 2.0×. Takes effect on the next spoken chunk.</li>
+                        <li><strong>Voice</strong> — Choose from the voices available on your device. The preferred voice is "Google UK English Male" when installed.</li>
+                    </ul>
+
+                    <h3>🔁 Autoplay</h3>
+                    <p>Toggle Autoplay on to have the reader automatically advance to the next scene after the current one finishes. A countdown appears in the transcript panel, with a cancel button. Autoplay also starts narration automatically when you change scenes manually via the dropdowns or arrow buttons.</p>
+
+                    <h3>📝 Transcript Panel</h3>
+                    <p>The panel above always shows either the chunk currently being spoken, a beat marker for paragraph breaks, or a placeholder when idle. During an Autoplay countdown it shows the remaining seconds.</p>
+
+                    <h3>🖱️ Interactive Chunks</h3>
+                    <p>While narration is active, each chunk in the scene becomes clickable. <strong>Hover</strong> over any sentence to see its boundaries; the chunk currently being spoken is highlighted in orange. <strong>Click</strong> a chunk to jump narration to that exact point and continue from there.</p>
+
+                    <h3>❓ Help</h3>
+                    <p>Press this button again to return to the scene you were reading. If the narrator was active, it resumes from where it left off.</p>
+
+                    <span class="help-hint">Press the Help button again to close this panel and return to your scene.</span>
+                </div>
+            `;
+
+            function enterHelpMode() {
+                // Save resume state before anything else
+                resumeAutoStart = ttsActive;
+                resumeChunkIndex = currentChunkIndex;
+
+                logDebug(`Help: entered (ttsActive=${ttsActive}, chunk=${currentChunkIndex})`);
+
+                // Cancel any active speech silently so it doesn't desync
+                if (ttsActive) {
+                    clearResumeTimer();
+                    clearPendingPause();
+                    if (window.speechSynthesis) window.speechSynthesis.cancel();
+                    if (currentUtterance) {
+                        currentUtterance.onend = null;
+                        currentUtterance.onerror = null;
+                    }
+                    currentUtterance = null;
+                    ttsActive = false;
+                    ttsPaused = false;
+                    speakBtn.textContent = '🔊 Speak Scene';
+                    pauseBtn.textContent = '⏸ Pause';
+                    setTtsButtonsActive(false);
+                }
+                // Cancel autoplay countdown if any — help mode shouldn't be
+                // interrupted by the timer firing.
+                cancelAutoplayCountdown();
+
+                // Replace content area with help
+                contentArea.innerHTML = `
+                    <h2 class="scene-title">📚 Help — Bloodhound Reader</h2>
+                    <div class="scene-content help-panel-wrapper">${HELP_HTML}</div>
+                `;
+                sceneContentEl = null; // no interactive chunks while in help
+
+                helpVisible = true;
+                helpBtn.classList.add('help-active');
+                helpBtn.textContent = '✕ Close Help';
+                setStatus('Showing help — press Help again to return.');
+            }
+
+            function exitHelpMode() {
+                logDebug(`Help: exited (resumeAutoStart=${resumeAutoStart}, resumeChunk=${resumeChunkIndex})`);
+
+                helpVisible = false;
+                helpBtn.classList.remove('help-active');
+                helpBtn.textContent = '❓ Help';
+
+                // Restore the scene
+                showContent(currentSceneName, currentSceneText, false);
+
+                // If narration was active before help, resume from the saved
+                // chunk index rather than restarting from the beginning.
+                if (resumeAutoStart) {
+                    // Reset chunks and queue the same scene's chunks.
+                    chunks = chunkText(currentSceneText, CHUNK_MAX_LEN);
+                    if (chunks.length > 0) {
+                        ttsActive = true;
+                        ttsPaused = false;
+                        speakBtn.textContent = '🔊 Speaking...';
+                        pauseBtn.textContent = '⏸ Pause';
+                        setTtsButtonsActive(true);
+                        setNarrationActiveClass(true);
+                        startResumeTimer();
+
+                        const startIdx = (resumeChunkIndex >= 0 && resumeChunkIndex < chunks.length)
+                            ? resumeChunkIndex
+                            : 0;
+                        setStatus(`Resumed: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
+                        setTimeout(function() {
+                            playChunkAt(startIdx);
+                        }, 150);
+                    }
+                } else {
+                    setStatus(`Reading: ${currentSceneName}`);
+                }
+
+                // Reset resume state
+                resumeChunkIndex = -1;
+                resumeAutoStart = false;
+            }
+
+            helpBtn.addEventListener('click', function() {
+                if (helpVisible) {
+                    exitHelpMode();
+                } else {
+                    enterHelpMode();
+                }
             });
 
             /* ========== SPEECH SYNTHESIS ========== */
@@ -1184,6 +1409,8 @@
                 voiceSelect.disabled = true;
             }
 
+            /* ========== CHUNKER (with line index) ========== */
+
             function chunkText(text, maxLen) {
                 if (!text) return [];
                 if (!maxLen) maxLen = CHUNK_MAX_LEN;
@@ -1192,12 +1419,17 @@
                 const chunks = [];
                 let lastWasPause = false;
 
-                for (const rawLine of rawLines) {
-                    const line = rawLine.trim();
+                for (let li = 0; li < rawLines.length; li++) {
+                    const rawLine = rawLines[li];
+                    const trimmed = rawLine.trim();
 
-                    if (line === '') {
+                    if (trimmed === '') {
                         if (!lastWasPause) {
-                            chunks.push({ text: '', isPause: true });
+                            chunks.push({
+                                text: '',
+                                isPause: true,
+                                lineIndex: li
+                            });
                             lastWasPause = true;
                         }
                         continue;
@@ -1205,12 +1437,16 @@
 
                     lastWasPause = false;
 
-                    if (line.length <= maxLen) {
-                        chunks.push({ text: line, isPause: false });
+                    if (trimmed.length <= maxLen) {
+                        chunks.push({
+                            text: trimmed,
+                            isPause: false,
+                            lineIndex: li
+                        });
                         continue;
                     }
 
-                    const sentences = line.match(/[^.!?]+[.!?]+["')\]]*|\S[^.!?]*$/g) || [line];
+                    const sentences = trimmed.match(/[^.!?]+[.!?]+["')\]]*|\S[^.!?]*$/g) || [trimmed];
                     let buffer = '';
 
                     for (const sentence of sentences) {
@@ -1219,7 +1455,11 @@
 
                         if (s.length > maxLen) {
                             if (buffer) {
-                                chunks.push({ text: buffer, isPause: false });
+                                chunks.push({
+                                    text: buffer,
+                                    isPause: false,
+                                    lineIndex: li
+                                });
                                 buffer = '';
                             }
                             let remaining = s;
@@ -1230,19 +1470,32 @@
                                 if (breakAt < maxLen * 0.5) breakAt = maxLen;
                                 chunks.push({
                                     text: remaining.slice(0, breakAt + 1).trim(),
-                                    isPause: false
+                                    isPause: false,
+                                    lineIndex: li
                                 });
                                 remaining = remaining.slice(breakAt + 1).trim();
                             }
                             if (remaining) buffer = remaining;
                         } else if ((buffer + ' ' + s).length > maxLen) {
-                            if (buffer) chunks.push({ text: buffer, isPause: false });
+                            if (buffer) {
+                                chunks.push({
+                                    text: buffer,
+                                    isPause: false,
+                                    lineIndex: li
+                                });
+                            }
                             buffer = s;
                         } else {
                             buffer = buffer ? buffer + ' ' + s : s;
                         }
                     }
-                    if (buffer) chunks.push({ text: buffer, isPause: false });
+                    if (buffer) {
+                        chunks.push({
+                            text: buffer,
+                            isPause: false,
+                            lineIndex: li
+                        });
+                    }
                 }
 
                 return chunks;
@@ -1286,6 +1539,7 @@
                     logDebug('TTS finished all chunks');
                     clearResumeTimer();
                     updateChunkUI();
+                    setNarrationActiveClass(false);
 
                     if (autoplayEnabled) {
                         const list = getFlatSceneList();
@@ -1395,6 +1649,7 @@
                 setStatus('Speech stopped.');
                 logDebug('TTS: stopped');
                 updateChunkUI();
+                setNarrationActiveClass(false);
 
                 cancelAutoplayCountdown();
             }
@@ -1430,6 +1685,7 @@
                 speakBtn.textContent = '🔊 Speaking...';
                 pauseBtn.textContent = '⏸ Pause';
                 setTtsButtonsActive(true);
+                setNarrationActiveClass(true);
                 setStatus(`Speaking: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
 
                 startResumeTimer();
@@ -1523,10 +1779,65 @@
                 return strippedLines.join('\n');
             }
 
+            function escapeHtml(s) {
+                return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            }
+
+            function renderChunkedContent(stripped) {
+                const previewChunks = chunkText(stripped, CHUNK_MAX_LEN);
+                const rawLines = stripped.split('\n');
+
+                const chunksByLine = new Map();
+                previewChunks.forEach((c, idx) => {
+                    if (!chunksByLine.has(c.lineIndex)) {
+                        chunksByLine.set(c.lineIndex, []);
+                    }
+                    chunksByLine.get(c.lineIndex).push(idx);
+                });
+
+                let html = '';
+                let lastWasPause = false;
+
+                for (let li = 0; li < rawLines.length; li++) {
+                    const rawLine = rawLines[li];
+                    const trimmed = rawLine.trim();
+                    const idxs = chunksByLine.get(li) || [];
+
+                    if (trimmed === '') {
+                        if (lastWasPause) continue;
+                        const pauseIdx = idxs.find(i => previewChunks[i].isPause);
+                        if (pauseIdx === undefined) continue;
+                        html += `<p class="pause-paragraph"><span class="chunk-span chunk-pause" data-chunk-index="${pauseIdx}" title="Beat">&nbsp;</span></p>`;
+                        lastWasPause = true;
+                        continue;
+                    }
+
+                    lastWasPause = false;
+
+                    if (idxs.length === 0) {
+                        html += `<p>${escapeHtml(rawLine)}</p>`;
+                        continue;
+                    }
+
+                    html += '<p>';
+                    for (let k = 0; k < idxs.length; k++) {
+                        const ci = idxs[k];
+                        const c = previewChunks[ci];
+                        if (c.isPause) continue;
+                        if (k > 0) html += ' ';
+                        html += `<span class="chunk-span" data-chunk-index="${ci}">${escapeHtml(c.text)}</span>`;
+                    }
+                    html += '</p>';
+                }
+
+                return html;
+            }
+
             function showContent(title, content, autoStart) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
                     currentSceneText = '';
+                    sceneContentEl = null;
                     speakBtn.disabled = true;
                     pauseBtn.disabled = true;
                     prevBtn.disabled = true;
@@ -1536,25 +1847,21 @@
                     return;
                 }
                 const stripped = stripIndentation(content);
-                const lines = stripped.split('\n');
-                let html = '';
-                for (let line of lines) {
-                    const trimmed = line.trim();
-                    if (trimmed === '') {
-                        html += '<p>&nbsp;</p>';
-                    } else {
-                        const safe = line.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                        html += `<p>${safe}</p>`;
-                    }
-                }
+
+                const html = renderChunkedContent(stripped);
+
                 contentArea.innerHTML = `
-                    <h2 class="scene-title">${title || 'Untitled Scene'}</h2>
-                    <div class="scene-content">${html}</div>
+                    <h2 class="scene-title">${escapeHtml(title || 'Untitled Scene')}</h2>
+                    <div class="scene-content" id="scene-content">${html}</div>
                 `;
+
+                sceneContentEl = document.getElementById('scene-content');
+                attachChunkInteractions(sceneContentEl);
 
                 currentSceneName = title || 'Untitled Scene';
                 currentSceneText = stripped;
                 speakBtn.disabled = false;
+
                 if (ttsActive) {
                     stopSpeaking();
                 }
@@ -1566,6 +1873,20 @@
                         startSpeaking();
                     }, 150);
                 }
+            }
+
+            function attachChunkInteractions(container) {
+                if (!container) return;
+
+                container.addEventListener('click', function(e) {
+                    if (!ttsActive) return;
+                    const span = e.target.closest('.chunk-span');
+                    if (!span) return;
+                    const idx = parseInt(span.getAttribute('data-chunk-index'), 10);
+                    if (isNaN(idx)) return;
+                    logDebug(`Chunk click → jump to chunk ${idx + 1}`);
+                    jumpToChunk(idx);
+                });
             }
 
             function populateSelect(select, items, defaultLabel) {
@@ -1597,10 +1918,7 @@
                     select.appendChild(option);
                 });
 
-                // Default to the first real option when one exists.
                 if (items.length > 0) {
-                    // If a previous selection still exists, keep it; otherwise
-                    // pick the first available item.
                     if (currentValue) {
                         const optionExists = Array.from(select.options).some(opt => opt.value === currentValue);
                         if (optionExists) {
@@ -1608,7 +1926,6 @@
                             return;
                         }
                     }
-                    // Select the first non-placeholder option
                     if (select.options.length > 1) {
                         select.selectedIndex = 1;
                     }
@@ -1872,12 +2189,6 @@
                 return { volumes };
             }
 
-            /**
-             * Called after a story is loaded. Selects the first Volume,
-             * first Episode of that volume, and first Scene of that episode,
-             * then displays that scene (auto-starting narration if autoplay
-             * is on).
-             */
             function autoSelectFirstScene() {
                 if (!storyData || !storyData.volumes.length) return;
                 const firstVolume = storyData.volumes[0];
@@ -1887,8 +2198,6 @@
 
                 cascadingSelectChange = true;
 
-                // Volume is already selected by populateSelect picking the
-                // first item; ensure it's set and episodes populated.
                 volumeSelect.value = firstVolume.name;
                 const episodeLabels = firstVolume.episodes.map((e, index) => ({
                     id: e.id,
@@ -1940,7 +2249,6 @@
 
                 autoplayBtn.disabled = false;
 
-                // Auto-select first scene and populate downstream selects.
                 autoSelectFirstScene();
             }
 
@@ -1983,7 +2291,6 @@
                 currentSceneText = '';
                 updateSceneNavButtons();
 
-                // If a first episode exists, drill down to its first scene.
                 if (volume.episodes.length > 0) {
                     episodeSelect.value = volume.episodes[0].id;
                     updateScenes();
@@ -2034,7 +2341,6 @@
                 currentSceneText = '';
                 updateSceneNavButtons();
 
-                // If a first scene exists, load it.
                 if (episode.scenes.length > 0) {
                     sceneSelect.value = episode.scenes[0].id;
                     displaySelectedScene(autoplayEnabled);
@@ -2044,6 +2350,16 @@
             }
 
             function displaySelectedScene(autoStart) {
+                // If help is currently shown, any scene-selection action
+                // implicitly exits help mode.
+                if (helpVisible) {
+                    helpVisible = false;
+                    helpBtn.classList.remove('help-active');
+                    helpBtn.textContent = '❓ Help';
+                    resumeChunkIndex = -1;
+                    resumeAutoStart = false;
+                }
+
                 const selectedVolume = volumeSelect.value;
                 const selectedEpisodeId = episodeSelect.value;
                 const selectedSceneId = sceneSelect.value;
@@ -2108,7 +2424,6 @@
                 const val = this.value;
                 logDebug(`=== Scene changed to: "${val}" ===`);
                 if (cascadingSelectChange) return;
-                // If autoplay is on, auto-start narration on manual scene change.
                 displaySelectedScene(autoplayEnabled);
             });
 

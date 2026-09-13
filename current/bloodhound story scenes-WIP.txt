@@ -12792,13 +12792,26 @@ VOLUME - Wolves Among Sheep
 			Snakebite didn't answer. He clutched his head, as though it might burst.
 			Connor reached out.
 			"*DON'T!*" he screamed. "DON'T TOUCH ME! PLEASE!"
-			Connor hesitated. He crawled forwards, and grabbed a device from the ground.
+			Connor hesitated. The mind-merge left a little residue - echoes of pain. All the agony Snakebite felt, Connor did to. The price of saving your packmate; the price of such a violation.
+			He crawled forwards, and grabbed a device from the ground.
 			A dart gun.
 			"What... what are you doing?" he cried.
 			"I'm sorry."
 			*CRACK!*
-			The neocurare-laced bullet buried into his clavicle. He fought to move, but couldn't. He flattened out.
-			Connor grabbed his jacket, and dragged him into the tower block. There, an industrial lift stood ahead.
+			The neocurare-laced bullet buried into his clavicle. He fought to move, but couldn't. He flattened out. Connor crouched down next to him.
+			"You took my friend. Sent him off to people who hurt him. And you were gonna do the same thing to me. Do you see... do you see what they did to us?"
+			Snakebite whimpered softly, despite the paralysis.
+			"You know..." he sighed. "You know the men you work for. Know exactly what they put people through. You felt it through my skin. Saw it through my eyes. And I'm sorry you went through that. I'm so, so sorry. No one should have to go through what I... what *we,* went through."
+			Another cry.
+			"I didn't want to show it. You know that, right? I just... I had to know where Sparky was."
+			Again, Snakebite sobbed quietly.
+			Connor shook his head.
+			No. He wasn't going to justify it.
+			Deep down, an ache gnawed at his chest. He couldn't shake the feeling that the union he'd known was something sacred, something pure... and he had violated it in the most fundamental of ways.
+			He'd gotten used to using emotions as weapons. Rage. Fear. Hate.
+			But not empathy. Never empathy.
+			Until now.
+			He rose, grabbed Snakebite's jacket, and dragged him into the tower block. There, an industrial lift stood ahead.
 			His ears pricked up. Skulls. Lots of Skulls.
 			"He's here!" one barked.
 			"You're sure?"
@@ -12881,9 +12894,9 @@ VOLUME - Wolves Among Sheep
 			A long pause.
 			"Please, doc. I'm not asking you to torture him. I'm asking you to keep him sedated. That's it."
 			Another pause.
-			"Fine." she said finally. "But you owe me. Big time."
-			"I know." Connor nodded. "Thank you."
-			He hung up and turned back to Snakebite, who was still staring at him with wide, terrified eyes.
+			"Fine." she said finally.
+			"Thank you."
+			He hung up, and turned back to Snakebite, who was still staring at him with wide, terrified eyes.
 			"Someone will be here for you soon." Connor said. "Until then... enjoy the taste of your own medicine."
 			He turned and walked away, his costume rippling with each step.
 			The tower was taken.
@@ -15296,6 +15309,10 @@ VOLUME - Wolves Among Sheep
 			Connor collapsed, and rose again.
 
 		Whiplash Saviour
+		______________________________
+		SCENE
+
+		Clock Tower
 		______________________________
 		SCENE
 			"Jesus..." Gwen whispered in awe. "You really are hard to kill."
@@ -19392,7 +19409,7 @@ VOLUME - Gods Among Men
 			Sparky came in from the bedroom, having just woken up from his post-raid nap. "Hello everyone... Oh no, what's wrong with Bea?" he asked, rushing over to her.
 			"She's okay buddy... You were right about him." Chloe whispered, stroking Sparky's head, noticing his concern.
 			Amy raised an eyebrow. "What was that?" she asked.
-			"When I was looking after Sparky after new years." Chloe answered. "We met up with Bea and Charlie. Sparky knew he was bad news right away."
+			"When I was looking after Sparky when you guys were moving in." Chloe answered. "We met up with Bea and Charlie. Sparky knew he was bad news right away."
 			"Sparky's got good intuition. If he doesn't like someone, there's a very good reason." Connor nodded in agreement.
 			"Where there any signs then?" Amy asked, concerned.
 			"Yes, there were - for starters, he kept trying to push my buttons. And he kept acting like he was some humble boy, just to get Bea's affection. And Bea..." Chloe sighed, and looked down at her best friend. "I've never seen her so quiet before. You guys all know her, she's life and soul, second only to Trey. But there... she was almost mute. I'm really worried about her."
@@ -20678,7 +20695,7 @@ VOLUME - Gods Among Men
 			He approached the cage, and leapt up, trying to read the notes.
 			He couldn't quite make it out - his reading still needed practice. But he could make out a few parts.
 			"Subject 2163." "Maintain care when applying pain relief."
-			He pressed his paw against the glass, hesitating. The creature pushed a fleshy limb against the pane, reaching out. For a moment, their consciousnesses touched - like the Mind Meld he and Connor could do. He saw glimpses - agony, pain, twisting flesh - and pulled back.
+			He pressed his paw against the glass, hesitating. The creature pushed a fleshy limb against the pane, reaching out. For a moment, their consciousnesses touched - like the mind-merge he and Connor could do. He saw glimpses - agony, pain, twisting flesh - and pulled back.
 			He pressed the Pain Relief button again. And again. And again. Eventually, the creature's face twisted into something approximating a smile, and it ceased all movement. The air reeked of decay and despair.
 			He bowed his head in sorrow, returned to the vent, and carried on.
 
@@ -21530,7 +21547,7 @@ VOLUME - Gods Among Men
 			"Yeah, they're okay. Just sleeping it off." he nodded. "Fuck..."
 			"Stunlocke was exceptional." Ivan smiled proudly.
 			"You were there?" he tilted his head.
-			"In a support capacity." she shrugged. "The guy who was holding her had some weird ability - he could, like, dash really quick or something? Anyway, Sparky herded him over to me, and I zapped him enough for us to get an opening. Then, I..."
+			"In a support capacity." she shrugged. "The guy who was holding her had some weird ability - he could, like, dash really quick or something? And he had this blade, too - he was quick with it. Anyway, Sparky herded him over to me, and I zapped him enough for us to get an opening. Then, I... I grabbed my Vibroblade, and--"
 			Connor didn't hesitate. He wrapped his sister in a bear hug. She took a moment to register, before melting into it.
 			"Are you okay?" he asked softly.
 			"I feel like I *shouldn't* be." she shook her head. "But it was him or us."
@@ -21558,7 +21575,10 @@ VOLUME - Gods Among Men
 			"Eh, codename implies action. I've got a cushy desk job here - I don't wanna jinx it." she shrugged.
 			"Jinx!" Amy gasped. "Oh, I'm on *fire* tonight."
 			"Jinx... that works!" Shannon grinned.
-			"...productive evening." Connor scoffed.
+			"...productive evening." Connor scoffed. "I do love how I left you guys for five minutes, and a psychic ninja turns up."
+			"The chances of us having a nice, relaxing evening were always a long shot, bratan." Ivan chuckled.
+			"OH!" Amy gasped. "Longshot! That's good too."
+			"Bozhe moy..." Ivan muttered, exasperated.
 
 			Back in Belson, Morland went over some paperwork, as Jones knocked on the door.
 			"Sir - we've had a breakthrough." he began. "The rat - the one who survived in-utero exposure - its DNA results just came back."
@@ -21985,7 +22005,7 @@ VOLUME - Gods Among Men
 			Trey laughed. "I should've seen the signs earlier."
 			"Hm?"
 			"Oh, I didn't tell you?" he tilted his head. "On my birthday, when we were all stoned. I heard him ask me a question. I *assumed* it was just the weed, but now..."
-			Connor pulled his head back in shock. "You... you got so stoned, you momentarily became an Esper?"
+			Connor pulled his head back in shock. "You... you got so high, you momentarily became an Esper?"
 			"Never doubt my capabilities again, Vanguard." he snarked.
 
 			That evening, Connor pulled up outside Chloe's flat. He texted her, and in short order, she came walking out.

@@ -480,7 +480,6 @@
             user-select: none;
         }
 
-        /* ── Help panel styling ── */
         .help-panel {
             color: #d1d9e0;
             font-size: 1rem;
@@ -851,8 +850,8 @@
 
             // ── Help-mode state ──
             let helpVisible = false;
-            let resumeChunkIndex = -1;      // where to resume if tts was active
-            let resumeAutoStart = false;    // whether tts was active when help was opened
+            let resumeChunkIndex = -1;
+            let resumeAutoStart = false;
 
             let storyData = null;
             let debugLog = [];
@@ -871,6 +870,63 @@
             function setStatus(msg, isError = false) {
                 statusEl.textContent = msg;
                 statusEl.className = 'status' + (isError ? ' error' : '');
+            }
+
+            /* ========== SPEECH TEXT SANITIZER ========== */
+
+            // Removes or replaces characters that the Web Speech API reads
+            // literally (asterisks, brackets, hashes, dashes, etc.) without
+            // altering what is displayed in the reader.
+            function sanitizeForSpeech(text) {
+                if (!text) return '';
+
+                let s = text;
+
+                // Markdown emphasis markers — remove entirely
+                s = s.replace(/\*{2,}/g, ' ');     // *** runs → pause
+                s = s.replace(/\*/g, '');          // single * → removed
+                s = s.replace(/(^|\s)_([^_]+)_(?=\s|$)/g, '$1$2'); // _italic_ → italic
+                s = s.replace(/_{2,}/g, ' ');      // __ runs → pause
+                s = s.replace(/~/g, '');           // strikethrough markers
+                s = s.replace(/`/g, '');           // code ticks
+                s = s.replace(/\^/g, '');          // carets
+
+                // Brackets — remove the brackets, keep the content
+                s = s.replace(/\[([^\]]*)\]/g, '$1'); // [text] → text
+                s = s.replace(/\{([^}]*)\}/g, '$1');  // {text} → text
+                s = s.replace(/[\[\]\{\}]/g, '');     // stragglers
+
+                // Parentheses — replace with comma-style pauses
+                s = s.replace(/\(/g, ', ');
+                s = s.replace(/\)/g, ', ');
+
+                // Hashes and pipes
+                s = s.replace(/#/g, ' ');
+                s = s.replace(/\|/g, ', ');
+                s = s.replace(/\s*\/\s*/g, ' or ');
+
+                // Dashes — em/en dash → comma pause (TTS sometimes says "dash")
+                s = s.replace(/[—–]/g, ', ');
+
+                // Angle brackets
+                s = s.replace(/[<>]/g, '');
+
+                // Normalise fancy quotes (some voices handle them poorly)
+                s = s.replace(/[“”]/g, '"');
+                s = s.replace(/[‘’]/g, "'");
+
+                // Ellipses → proper single character
+                s = s.replace(/\.{3,}/g, '…');
+
+                // Clean up comma pileups and orphaned punctuation
+                s = s.replace(/\s*,\s*,+/g, ', ');
+                s = s.replace(/,\s*([.!?])/g, '$1');
+                s = s.replace(/\s{2,}/g, ' ');
+                s = s.replace(/\s+([.,!?;:])/g, '$1');
+                s = s.replace(/^\s*[,;:]\s*/, '');
+                s = s.replace(/\s*[,;:]\s*$/, '');
+
+                return s.trim();
             }
 
             /* ========== SPEED SLIDER ========== */
@@ -1226,13 +1282,11 @@
             `;
 
             function enterHelpMode() {
-                // Save resume state before anything else
                 resumeAutoStart = ttsActive;
                 resumeChunkIndex = currentChunkIndex;
 
                 logDebug(`Help: entered (ttsActive=${ttsActive}, chunk=${currentChunkIndex})`);
 
-                // Cancel any active speech silently so it doesn't desync
                 if (ttsActive) {
                     clearResumeTimer();
                     clearPendingPause();
@@ -1248,16 +1302,13 @@
                     pauseBtn.textContent = '⏸ Pause';
                     setTtsButtonsActive(false);
                 }
-                // Cancel autoplay countdown if any — help mode shouldn't be
-                // interrupted by the timer firing.
                 cancelAutoplayCountdown();
 
-                // Replace content area with help
                 contentArea.innerHTML = `
                     <h2 class="scene-title">📚 Help — Bloodhound Reader</h2>
                     <div class="scene-content help-panel-wrapper">${HELP_HTML}</div>
                 `;
-                sceneContentEl = null; // no interactive chunks while in help
+                sceneContentEl = null;
 
                 helpVisible = true;
                 helpBtn.classList.add('help-active');
@@ -1272,13 +1323,9 @@
                 helpBtn.classList.remove('help-active');
                 helpBtn.textContent = '❓ Help';
 
-                // Restore the scene
                 showContent(currentSceneName, currentSceneText, false);
 
-                // If narration was active before help, resume from the saved
-                // chunk index rather than restarting from the beginning.
                 if (resumeAutoStart) {
-                    // Reset chunks and queue the same scene's chunks.
                     chunks = chunkText(currentSceneText, CHUNK_MAX_LEN);
                     if (chunks.length > 0) {
                         ttsActive = true;
@@ -1301,7 +1348,6 @@
                     setStatus(`Reading: ${currentSceneName}`);
                 }
 
-                // Reset resume state
                 resumeChunkIndex = -1;
                 resumeAutoStart = false;
             }
@@ -1575,8 +1621,16 @@
                     return;
                 }
 
-                const utterance = new SpeechSynthesisUtterance(chunk.text);
+                // Sanitize the text before handing it to the speech engine.
+                // The displayed chunk (and the transcript panel) still show
+                // the original text with all punctuation intact.
+                const sanitized = sanitizeForSpeech(chunk.text);
+                const utterance = new SpeechSynthesisUtterance(sanitized);
                 currentUtterance = utterance;
+
+                if (sanitized !== chunk.text) {
+                    logDebug(`Sanitized chunk ${currentChunkIndex + 1}: "${chunk.text.substring(0, 40)}..." → "${sanitized.substring(0, 40)}..."`);
+                }
 
                 const selectedVoiceIndex = voiceSelect.value;
                 if (selectedVoiceIndex !== '' && availableVoices[selectedVoiceIndex]) {
@@ -2350,8 +2404,6 @@
             }
 
             function displaySelectedScene(autoStart) {
-                // If help is currently shown, any scene-selection action
-                // implicitly exits help mode.
                 if (helpVisible) {
                     helpVisible = false;
                     helpBtn.classList.remove('help-active');

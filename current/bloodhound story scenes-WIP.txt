@@ -21053,7 +21053,7 @@ VOLUME - Gods Among Men
 
 			The Division's commander, Major Iosef Tarkovsky - an older man, with a nervous disposition - was surveying some maps, alongside his aides.
 			"[It's a mess out there.]" Tarkovsky noted dryly.
-			"[Yes, sir.]" an aide nodded. "[Our current strategy is to have Makharadze and Lebedev reinfoce Ahmadov - the de-facto leader of the Loyalist forces. From there, general Trepov will come in from the north, and close in on the insurgents. Once they are put to rout, we will complete the evacuation.]"
+			"[Yes, sir.]" an aide nodded. "[Our current strategy is to have Makharadze and Lebedev reinforce Ahmadov - the de-facto leader of the Loyalist forces. From there, general Trepov will come in from the north, and close in on the insurgents. Once they are put to rout, we will complete the evacuation.]"
 			"[Is there any hope of us taking the city?]" Tarkovsky asked wearily.
 			"[I'm afraid not, sir. Even if Zamaldayev died here, the city is effectively lost to us. Our only hope is to cross back over the mountains, and pray Moscow hasn't fallen when we get there.]"
 			"[So be it.]" Tarkovsky sighed. "[Begin the operation.]"

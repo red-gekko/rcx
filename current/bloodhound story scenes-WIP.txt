@@ -7936,7 +7936,7 @@ VOLUME - Wolves Among Sheep
 			"I'm not here for that, either." Connor smiled softly. "Just... I need to vent. Is that okay?"
 			"Y-yes, of course."
 			A deep breath.
-			"It started yesterday morning. Early hours."
+			"It started the other day. Early hours."
 
 			"Wooo!" Connor cheered, as his grapple went taut and he swung over a street.
 			It was dark. The sun was only a few hours away, and he needed the practice.
@@ -8336,7 +8336,7 @@ VOLUME - Wolves Among Sheep
 		Cut a deal
 		______________________________
 		SCENE
-			Connor stepped out of the police station, blinking against the pale light.
+			Connor stepped out of the police station, blinking against the light.
 			Amy was waiting by the car. Trey was in the passenger seat, his face still bruised, his movements stiff.
 			Connor opened the back door and slid in. Sparky pounced on him, licking his face.
 			"Hey! Ivan mentioned on the comms you'd been arrested. Is everything okay?"
@@ -8499,7 +8499,7 @@ VOLUME - Wolves Among Sheep
 			Connor stared out at the skyline.
 			"You remember what happened when I got arrested?"
 			Sparky nodded.
-			"Naismith had questions. About me. About the Werewolf. About why I was in the wrong place at the wrong time." Connor sighed. "He didn't know, but he was starting to suspect. And with everything that's happened - me disappearing, coming back stronger, and the Werewolf only appearing after I come back... it was only a matter of time before he put the pieces together."
+			"Naismith had questions. About me. About the Werewolf. About why I was in the wrong place at the wrong time." Connor sighed. "He didn't know, but he was starting to suspect. And with everything that's happened - me disappearing, coming back stronger, and the Werewolf only appearing after I came back... it was only a matter of time before he put the pieces together."
 			"So you staged this. To throw him off."
 			"I made him think the Werewolf hates me. That I'm just some poor idiot who got caught in the middle." Connor shook his head. "Now he thinks I'm a victim. A witness. Someone who needs protecting, not investigating. And now, he'll be worried about who could've leaked this... he'll be distracted. Off his game."
 			"He seems to always be only a step behind us." Sparky pondered. "It's never long after we strike that he turns up."
@@ -10754,7 +10754,7 @@ VOLUME - Wolves Among Sheep
 			"You're lucky, sir." she said, with an anger borne of worry. "Pulling a stunt like that... on your own, no less!"
 			"I know..." he shamefully nodded. "But I had to know."
 			"Know what?" she asked, sighing.
-			"He's not human." Naismith groaned, sitting upright. "I shot him in the face. I beat him half a dozen times with a stun baton. I used tear gas and flashbangs. 4 different ways he could have broke, and he just... didn't. It was as if he genuinely didn't know how to quit."
+			"He's not human." Naismith groaned, sitting upright. "I shot him in the face. I beat him half a dozen times with a stun baton. I used tear gas and flashbangs. 4 different ways he could have broke, and he just... didn't. It was as if he genuinely didn't know how to quit. Baiting him using Barrett didn't work. Going in all guns blazing didn't work. We needed to catch him at his weakest. And even that... didn't work."
 			"You admire him?" Nina asked.
 			Naismith paused. "Game recognises game."
 			"Still, sir..." she paused. "Don't ever pull a stunt like that again. You could have been killed."

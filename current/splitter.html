@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bloodhound Episode Splitter</title>
+<style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        background: #0d1117;
+        color: #e6edf3;
+        padding: 40px 20px;
+        min-height: 100vh;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 760px;
+        margin: 0 auto;
+        background: #161b22;
+        border: 1px solid #30363d;
+        border-radius: 16px;
+        padding: 36px 40px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    }
+
+    h1 {
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: #f0f6fc;
+        border-bottom: 2px solid #30363d;
+        padding-bottom: 14px;
+        margin-bottom: 8px;
+    }
+
+    .subtitle {
+        color: #8b949e;
+        font-size: 0.9rem;
+        margin-bottom: 28px;
+        font-style: italic;
+    }
+
+    p { margin-bottom: 1em; color: #c9d1d9; }
+
+    .drop-zone {
+        border: 2px dashed #30363d;
+        border-radius: 12px;
+        padding: 40px 20px;
+        text-align: center;
+        background: #0d1117;
+        cursor: pointer;
+        transition: border-color 0.2s, background 0.2s;
+        margin-bottom: 20px;
+    }
+
+    .drop-zone:hover, .drop-zone.dragover {
+        border-color: #58a6ff;
+        background: #1c2a3a;
+    }
+
+    .drop-zone.has-file {
+        border-style: solid;
+        border-color: #2ea043;
+        background: #1f3d2a;
+        padding: 20px;
+    }
+
+    .drop-zone .dz-icon {
+        font-size: 2.5rem;
+        margin-bottom: 8px;
+        display: block;
+    }
+
+    .drop-zone .dz-label {
+        font-weight: 600;
+        color: #f0f6fc;
+        margin-bottom: 4px;
+    }
+
+    .drop-zone .dz-hint {
+        font-size: 0.82rem;
+        color: #8b949e;
+    }
+
+    .file-info {
+        font-size: 0.85rem;
+        color: #56d364;
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+    }
+
+    input[type="file"] { display: none; }
+
+    button {
+        width: 100%;
+        padding: 14px 24px;
+        font-family: inherit;
+        font-size: 1rem;
+        font-weight: 600;
+        border-radius: 10px;
+        cursor: pointer;
+        border: 1px solid #2ea043;
+        background: #238636;
+        color: #fff;
+        transition: background 0.2s, transform 0.1s;
+    }
+
+    button:hover:not(:disabled) { background: #2ea043; }
+    button:active:not(:disabled) { transform: scale(0.98); }
+    button:disabled { background: #21262d; border-color: #30363d; color: #6e7681; cursor: not-allowed; }
+
+    .log {
+        background: #0d1117;
+        border: 1px solid #30363d;
+        border-radius: 10px;
+        padding: 16px 20px;
+        margin-top: 20px;
+        font-family: 'JetBrains Mono', 'Consolas', monospace;
+        font-size: 0.82rem;
+        color: #c9d1d9;
+        max-height: 320px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+        line-height: 1.5;
+    }
+
+    .log .ok { color: #56d364; }
+    .log .warn { color: #f0c890; }
+    .log .err { color: #f0a0a0; }
+    .log .header { color: #79b8ff; font-weight: 600; }
+
+    .note {
+        background: #1c2128;
+        border-left: 3px solid #f0883e;
+        border-radius: 6px;
+        padding: 14px 18px;
+        margin-top: 24px;
+        font-size: 0.88rem;
+        color: #c9d1d9;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+
+    <h1>Bloodhound Episode Splitter</h1>
+    <p class="subtitle">Splits the WIP manuscript into per-episode files, organised by numbered volume, and bundles them into a timestamped ZIP.</p>
+
+    <div class="drop-zone" id="dropZone">
+        <span class="dz-icon">📄</span>
+        <div class="dz-label" id="dzLabel">Drop the .txt file here, or click to browse</div>
+        <div class="dz-hint" id="dzHint">Expected: bloodhound story scenes-WIP.txt</div>
+    </div>
+
+    <input type="file" id="fileInput" accept=".txt,text/plain">
+
+    <button id="splitBtn" disabled>Split &amp; Download ZIP</button>
+
+    <div class="log" id="log" style="display:none;"></div>
+
+    <div class="note">
+        <strong>How it works:</strong> The script looks for lines matching
+        <code>VOLUME - [name]</code> and <code>EPISODE - [name]</code>.
+        Everything between one episode header and the next is bundled into that
+        episode's file. Episodes are numbered sequentially within each volume,
+        and volumes are numbered sequentially in the order they appear.
+        <br><br>
+        <strong>Formatting:</strong> Within each episode, <code>SCENE</code> headers are placed
+        at column 0, and scene content is indented with a single tab. Any deeper
+        indentation from the source is collapsed to one tab to keep the reading
+        clean. All processing happens in your browser — nothing is uploaded anywhere.
+    </div>
+
+</div>
+
+<!-- JSZip from CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+<script>
+(function () {
+    'use strict';
+
+    const dropZone = document.getElementById('dropZone');
+    const fileInput = document.getElementById('fileInput');
+    const splitBtn = document.getElementById('splitBtn');
+    const logEl = document.getElementById('log');
+    const dzLabel = document.getElementById('dzLabel');
+    const dzHint = document.getElementById('dzHint');
+
+    let loadedFile = null;
+
+    // ── Logging ──────────────────────────────────────────────────
+    function log(msg, cls) {
+        logEl.style.display = 'block';
+        const span = document.createElement('span');
+        if (cls) span.className = cls;
+        span.textContent = msg + '\n';
+        logEl.appendChild(span);
+        logEl.scrollTop = logEl.scrollHeight;
+    }
+    function clearLog() { logEl.innerHTML = ''; logEl.style.display = 'none'; }
+
+    // ── File handling ────────────────────────────────────────────
+    dropZone.addEventListener('click', () => fileInput.click());
+
+    dropZone.addEventListener('dragover', (e) => {
+        e.preventDefault();
+        dropZone.classList.add('dragover');
+    });
+    dropZone.addEventListener('dragleave', () => dropZone.classList.remove('dragover'));
+
+    dropZone.addEventListener('drop', (e) => {
+        e.preventDefault();
+        dropZone.classList.remove('dragover');
+        const file = e.dataTransfer.files[0];
+        if (file) handleFile(file);
+    });
+
+    fileInput.addEventListener('change', (e) => {
+        const file = e.target.files[0];
+        if (file) handleFile(file);
+    });
+
+    function handleFile(file) {
+        if (!file.name.toLowerCase().endsWith('.txt')) {
+            alert('Please select a .txt file.');
+            return;
+        }
+        loadedFile = file;
+        dropZone.classList.add('has-file');
+        dzLabel.textContent = '✓ ' + file.name;
+        dzHint.innerHTML = '<span class="file-info">' + (file.size / 1024).toFixed(1) + ' KB loaded</span>';
+        splitBtn.disabled = false;
+        clearLog();
+    }
+
+    // ── Parsing ──────────────────────────────────────────────────
+    // Matches lines like:
+    //   VOLUME - CODEX
+    //   VOLUME - Wolves Among Sheep
+    //   EPISODE - Beginnings
+    //   EPISODE - A World Half Full
+    // The separator is a hyphen (with optional surrounding whitespace).
+    // We anchor to start-of-line and allow leading whitespace/tabs.
+    const VOLUME_RE  = /^[\s\u00A0]*VOLUME\s*[-–—]\s*(.+?)\s*$/i;
+    const EPISODE_RE = /^[\s\u00A0]*EPISODE\s*[-–—]\s*(.+?)\s*$/i;
+    const SCENE_RE   = /^[\s\u00A0]*SCENE\s*$/i;
+
+    function parseManuscript(text) {
+        // Normalise line endings
+        const normalised = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+        const lines = normalised.split('\n');
+
+        const volumes = [];
+        let currentVolume = null;
+        let currentEpisode = null;
+
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+
+            const volMatch = line.match(VOLUME_RE);
+            if (volMatch) {
+                const volName = volMatch[1].trim();
+                currentVolume = { name: volName, episodes: [] };
+                volumes.push(currentVolume);
+                currentEpisode = null;
+                continue;
+            }
+
+            const epMatch = line.match(EPISODE_RE);
+            if (epMatch) {
+                const epName = epMatch[1].trim();
+                if (!currentVolume) {
+                    // Episode without a preceding volume — create a placeholder volume
+                    currentVolume = { name: 'Unassigned', episodes: [] };
+                    volumes.push(currentVolume);
+                }
+                currentEpisode = { name: epName, lines: [] };
+                currentVolume.episodes.push(currentEpisode);
+                continue;
+            }
+
+            if (currentEpisode) {
+                currentEpisode.lines.push(line);
+            }
+        }
+
+        return volumes;
+    }
+
+    // ── Formatting ───────────────────────────────────────────────
+    // Normalise indentation within an episode:
+    //   - SCENE header lines -> no indentation
+    //   - All other non-blank content lines -> exactly one tab
+    //   - Blank lines -> left as blank
+    // This loses some intra-scene paragraph indentation, but produces
+    // a clean, consistent reading format.
+    function formatEpisodeLines(lines) {
+        const out = [];
+        for (const raw of lines) {
+            // Strip trailing whitespace but preserve meaningful leading whitespace decision below.
+            const trimmedRight = raw.replace(/[ \t]+$/, '');
+            if (trimmedRight.trim() === '') {
+                out.push('');
+                continue;
+            }
+            if (SCENE_RE.test(trimmedRight)) {
+                out.push('SCENE');
+                continue;
+            }
+            // Everything else: one tab of indentation.
+            out.push('\t' + trimmedRight.replace(/^[ \t\u00A0]+/, ''));
+        }
+        return out;
+    }
+
+    // ── Filename sanitisation ────────────────────────────────────
+    // Removes characters that are illegal on Windows/macOS/Linux:
+    //   < > : " / \ | ? *
+    // Also collapses whitespace and trims trailing dots/spaces (Windows).
+    function sanitise(name) {
+        return name
+            .replace(/[<>:"/\\|?*\u0000-\u001F]/g, '') // strip illegal chars
+            .replace(/\s+/g, ' ')                       // collapse whitespace
+            .replace(/^\.+/, '')                        // strip leading dots
+            .replace(/[\. ]+$/, '')                     // strip trailing dots/spaces
+            .trim() || 'Untitled';
+    }
+
+    // ── Timestamp for the ZIP filename ───────────────────────────
+    // Format: YYYY-MM-DD-HH-MM-SS (local time)
+    function timestamp() {
+        const d = new Date();
+        const pad = (n) => String(n).padStart(2, '0');
+        return [
+            d.getFullYear(),
+            pad(d.getMonth() + 1),
+            pad(d.getDate()),
+            pad(d.getHours()),
+            pad(d.getMinutes()),
+            pad(d.getSeconds())
+        ].join('-');
+    }
+
+    // ── Main split routine ───────────────────────────────────────
+    async function splitAndDownload(file) {
+        clearLog();
+        log('Reading file: ' + file.name, 'header');
+
+        const text = await file.text();
+        log('File size: ' + text.length + ' characters', 'header');
+        log('');
+
+        const volumes = parseManuscript(text);
+
+        if (volumes.length === 0) {
+            log('✗ No VOLUME or EPISODE headers found.', 'err');
+            return;
+        }
+
+        log('Found ' + volumes.length + ' volume(s):', 'header');
+        log('');
+
+        const zip = new JSZip();
+        let totalEpisodes = 0;
+
+        let volNum = 0;
+        for (const vol of volumes) {
+            const volFolderName = 'Volume ' + volNum + ' - ' + sanitise(vol.name);
+            log('▸ ' + volFolderName + ' (' + vol.episodes.length + ' episode' + (vol.episodes.length === 1 ? '' : 's') + ')', 'ok');
+
+            const volFolder = zip.folder(volFolderName);
+
+            if (vol.episodes.length === 0) {
+                // Add a small placeholder so the empty volume isn't silently dropped
+                volFolder.file('_NO_EPISODES_FOUND.txt',
+                    'No EPISODE headers were found under this volume.\n' +
+                    'Volume: ' + vol.name + '\n');
+                log('   ⚠ no episodes found — added placeholder', 'warn');
+                volNum++;
+                continue;
+            }
+
+            let epNum = 1;
+            for (const ep of vol.episodes) {
+                const epTitle = sanitise(ep.name);
+                const fileName = 'Episode ' + epNum + ' - ' + epTitle + '.txt';
+
+                // Reconstruct the file contents with normalised formatting.
+                const formatted = formatEpisodeLines(ep.lines);
+                // Strip leading/trailing blank lines
+                while (formatted.length && formatted[0] === '') formatted.shift();
+                while (formatted.length && formatted[formatted.length - 1] === '') formatted.pop();
+
+                const content =
+                    'EPISODE - ' + ep.name + '\n' +
+                    '='.repeat(60) + '\n\n' +
+                    formatted.join('\n') + '\n';
+
+                volFolder.file(fileName, content);
+
+                const lineCount = formatted.length;
+                log('   ✓ ' + fileName + '  (' + lineCount + ' lines)', 'ok');
+
+                epNum++;
+                totalEpisodes++;
+            }
+            log('');
+            volNum++;
+        }
+
+        log('─'.repeat(50), 'header');
+        log('Total: ' + volumes.length + ' volume(s), ' + totalEpisodes + ' episode(s)', 'ok');
+        log('');
+        log('Generating ZIP…', 'header');
+
+        const blob = await zip.generateAsync({ type: 'blob', compression: 'DEFLATE' });
+
+        // Trigger download with timestamped filename
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        const baseName = file.name.replace(/\.txt$/i, '');
+        const stamp = timestamp();
+        a.href = url;
+        a.download = baseName + ' - split-' + stamp + '.zip';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(() => URL.revokeObjectURL(url), 1000);
+
+        log('✓ Done. ZIP downloaded as:', 'ok');
+        log('   ' + baseName + ' - split-' + stamp + '.zip', 'ok');
+    }
+
+    splitBtn.addEventListener('click', () => {
+        if (!loadedFile) return;
+        splitAndDownload(loadedFile).catch(err => {
+            console.error(err);
+            log('✗ Error: ' + err.message, 'err');
+        });
+    });
+
+})();
+</script>
+</body>
+</html>

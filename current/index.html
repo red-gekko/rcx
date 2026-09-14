@@ -621,6 +621,29 @@
             font-size: 0.9rem;
         }
 
+        .reader-session-controls {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin: 14px 0 4px 0;
+        }
+        .reader-session-controls button {
+            padding: 8px 14px; background: #21262d; color: #c9d1d9;
+            border: 1px solid #30363d; border-radius: 8px; font-family: inherit;
+            font-size: 0.82rem; font-weight: 500; cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s, color 0.2s;
+        }
+        .reader-session-controls button:hover { background: #30363d; border-color: #58a6ff; color: #e6edf3; }
+        .reader-session-controls button.active { background: #2a2f4a; border-color: #58a6ff; color: #79b8ff; }
+        .resume-banner { display: none; margin: 0 0 14px 0; padding: 10px 14px; background: #1c2128; border: 1px solid #3b434d; border-radius: 8px; color: #c9d1d9; font-size: 0.85rem; text-align: center; }
+        .resume-banner.visible { display: block; }
+        .resume-banner strong { color: #f0f6fc; }
+        body.focus-mode { padding: 0; background: #0d1117; }
+        body.focus-mode .container { max-width: 1100px; min-height: 100vh; border-radius: 0; border-left: none; border-right: none; box-shadow: none; padding: 24px 5vw; }
+        body.focus-mode h1, body.focus-mode .nav-container, body.focus-mode .reader-source-controls, body.focus-mode .reader-session-controls, body.focus-mode .status, body.focus-mode .debug-toggle, body.focus-mode .debug-info { display: none; }
+        body.focus-mode .scene-content { max-height: calc(100vh - 260px); }
+
         .status {
             font-size: 0.85rem;
             color: #8b949e;
@@ -727,6 +750,8 @@
             .tts-controls .speed-group input[type="range"] { width: 70px; }
             .scene-nav-row button { font-size: 0.8rem; padding: 10px 12px; }
             .scene-nav-row .nav-spacer { font-size: 0.65rem; }
+            .reader-session-controls { gap: 6px; }
+            .reader-session-controls button { font-size: 0.75rem; padding: 8px 10px; }
             .reader-source-controls { gap: 8px; }
             .reader-source-controls button { font-size: 0.8rem; padding: 10px 12px; }
         }
@@ -799,6 +824,7 @@
             <button id="stop-btn" disabled>⏹ Stop</button>
             <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
             <button id="help-btn" title="Show help">❓ Help</button>
+            <button id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
 
             <span class="speed-group">
@@ -831,6 +857,8 @@
             <button id="scene-next-btn" disabled title="Next scene">Next Scene ▶</button>
         </div>
 
+        <div class="resume-banner" id="resume-banner"></div>
+
         <div class="content-area" id="content-area">
             <div class="message">Loading story content<span class="loading-dots"></span></div>
         </div>
@@ -850,6 +878,10 @@
             </button>
         </div>
 
+        <div class="reader-session-controls">
+            <button id="clear-progress-btn" title="Forget the saved reading position for this reader">🗑 Clear Saved Progress</button>
+        </div>
+
         <div class="status" id="status">Loading the text file...</div>
         
         <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
@@ -864,6 +896,10 @@
             const PAUSE_BASE_MS = 500;
             const AUTOPLAY_DELAY_SEC = 2;
             const CHUNK_MAX_LEN = 320;
+            const STORAGE_KEYS = { preferences: 'bloodhoundReader.preferences.v1', progress: 'bloodhoundReader.progress.v1', storyCache: 'bloodhoundReader.storyCache.v1' };
+            let pendingResumeProgress = null;
+            let currentStoryFingerprint = '';
+            let currentStorySource = '';
 
             const volumeSelect = document.getElementById('volume-select');
             const episodeSelect = document.getElementById('episode-select');
@@ -883,6 +919,9 @@
             const stopBtn = document.getElementById('stop-btn');
             const autoplayBtn = document.getElementById('autoplay-btn');
             const helpBtn = document.getElementById('help-btn');
+            const focusBtn = document.getElementById('focus-btn');
+            const resumeBanner = document.getElementById('resume-banner');
+            const clearProgressBtn = document.getElementById('clear-progress-btn');
             const voiceSelect = document.getElementById('voice-select');
             const chunkCounter = document.getElementById('chunk-counter');
             const chunkPanel = document.getElementById('chunk-panel');
@@ -937,6 +976,65 @@
 
             let storyData = null;
             let debugLog = [];
+
+            function storageGet(key) { try { return localStorage.getItem(key); } catch (e) { console.warn('Storage read failed:', e); return null; } }
+            function storageSet(key, value) { try { localStorage.setItem(key, value); return true; } catch (e) { console.warn('Storage write failed:', e); return false; } }
+            function makeStoryFingerprint(text) {
+                const sample = `${text.length}|${text.slice(0, 160)}|${text.slice(-160)}`;
+                let hash = 2166136261;
+                for (let i = 0; i < sample.length; i++) { hash ^= sample.charCodeAt(i); hash = Math.imul(hash, 16777619); }
+                return `fnv1a-${(hash >>> 0).toString(16)}`;
+            }
+            function loadPreferences() {
+                try {
+                    const raw = storageGet(STORAGE_KEYS.preferences); if (!raw) return;
+                    const prefs = JSON.parse(raw);
+                    if (Number.isFinite(prefs.playbackRate) && prefs.playbackRate >= 0.5 && prefs.playbackRate <= 2) { playbackRate = prefs.playbackRate; speedSlider.value = playbackRate; }
+                    if (typeof prefs.autoplayEnabled === 'boolean') autoplayEnabled = prefs.autoplayEnabled;
+                } catch (e) { console.warn('Preference restore failed:', e); }
+            }
+            function savePreferences() {
+                const v = voiceSelect.value !== '' && availableVoices[voiceSelect.value] ? availableVoices[voiceSelect.value] : null;
+                storageSet(STORAGE_KEYS.preferences, JSON.stringify({ playbackRate, autoplayEnabled, voiceName: v ? v.name : '', voiceLang: v ? v.lang : '' }));
+            }
+            function getSavedProgress() {
+                try { const raw = storageGet(STORAGE_KEYS.progress); return raw ? JSON.parse(raw) : null; } catch (e) { return null; }
+            }
+            function saveReadingProgress() {
+                if (!storyData || !currentStoryFingerprint || !volumeSelect.value || !episodeSelect.value || !sceneSelect.value) return;
+                storageSet(STORAGE_KEYS.progress, JSON.stringify({ fingerprint: currentStoryFingerprint, volume: volumeSelect.value, episode: episodeSelect.value, scene: sceneSelect.value, flatIndex: getCurrentFlatIndex(), sceneName: currentSceneName, savedAt: Date.now() }));
+            }
+            function clearSavedProgress(showStatus = true) {
+                try { localStorage.removeItem(STORAGE_KEYS.progress); } catch (e) {}
+                pendingResumeProgress = null; resumeBanner.classList.remove('visible');
+                if (showStatus) setStatus('Saved reading progress cleared.');
+            }
+            function cacheStoryText(text, source) {
+                const ok = storageSet(STORAGE_KEYS.storyCache, JSON.stringify({ fingerprint: makeStoryFingerprint(text), text, source: source || 'server', savedAt: Date.now() }));
+                if (!ok) logDebug('Offline story cache could not be saved (browser storage may be full or disabled).');
+            }
+            function getCachedStory() {
+                try { const raw = storageGet(STORAGE_KEYS.storyCache); const c = raw ? JSON.parse(raw) : null; return c && typeof c.text === 'string' && c.text ? c : null; } catch (e) { return null; }
+            }
+            function showResumeBanner(progress) {
+                if (!progress || !progress.sceneName) return;
+                resumeBanner.innerHTML = `↩ Resumed from <strong>${escapeHtml(progress.sceneName)}</strong>`;
+                resumeBanner.classList.add('visible');
+                setTimeout(() => resumeBanner.classList.remove('visible'), 5000);
+            }
+            function setFocusMode(enabled) {
+                document.body.classList.toggle('focus-mode', enabled);
+                focusBtn.classList.toggle('active', enabled);
+                focusBtn.textContent = enabled ? '⛶ Exit Focus' : '⛶ Focus Mode';
+            }
+            async function toggleFocusMode() {
+                const entering = !document.body.classList.contains('focus-mode'); setFocusMode(entering);
+                if (entering && document.documentElement.requestFullscreen && !document.fullscreenElement) { try { await document.documentElement.requestFullscreen(); } catch (e) { logDebug(`Fullscreen unavailable: ${e.message}`); } }
+                if (!entering && document.fullscreenElement && document.exitFullscreen) { try { await document.exitFullscreen(); } catch (e) {} }
+            }
+            focusBtn.addEventListener('click', toggleFocusMode);
+            document.addEventListener('fullscreenchange', function() { if (!document.fullscreenElement && document.body.classList.contains('focus-mode')) setFocusMode(false); });
+            clearProgressBtn.addEventListener('click', function() { if (confirm('Forget your saved reading position?')) clearSavedProgress(); });
 
             function logDebug(msg) {
                 debugLog.push(msg);
@@ -1021,6 +1119,7 @@
                 playbackRate = parseFloat(this.value);
                 updateSpeedReadout();
                 logDebug(`Playback speed set to ${playbackRate.toFixed(2)}×`);
+                savePreferences();
             });
 
             updateSpeedReadout();
@@ -1040,6 +1139,7 @@
             function setAutoplay(enabled) {
                 autoplayEnabled = enabled;
                 updateAutoplayButton();
+                savePreferences();
                 logDebug(`Autoplay: ${enabled ? 'enabled' : 'disabled'}`);
 
                 if (!enabled) {
@@ -1380,6 +1480,16 @@
                         <li><strong>Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache.</li>
                     </ul>
 
+                    <h3>💾 Reader Convenience</h3>
+                    <ul>
+                        <li><strong>Remember where you were</strong> — Your last Volume, Episode, and Scene are saved in this browser and restored automatically when the same story version is loaded.</li>
+                        <li><strong>Persistent narration settings</strong> — Narration speed, voice choice, and Autoplay are remembered between visits.</li>
+                        <li><strong>⛶ Focus Mode</strong> — Hides the surrounding controls and attempts to enter fullscreen for a cleaner reading view. Press <code>Esc</code> to leave fullscreen.</li>
+                        <li><strong>Unsaved-progress warning</strong> — Replacing a loaded story asks for confirmation so you don't accidentally wipe out your current reading session.</li>
+                        <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser. If the server cannot be reached later, the reader will use that cached copy before falling back to manual upload.</li>
+                        <li><strong>Clear Saved Progress</strong> — Removes the remembered reading position. Your story cache and narration settings are unaffected.</li>
+                    </ul>
+
                     <h3>❓ Help</h3>
                     <p>Press this button again to return to the scene you were reading. If the narrator was active, it resumes from where it left off.</p>
 
@@ -1540,10 +1650,14 @@
 
                 voiceSelect.disabled = false;
 
-                const preferredIdx = pickPreferredVoiceIndex();
-                if (preferredIdx >= 0) {
-                    voiceSelect.value = preferredIdx;
-                }
+                let restoredIdx = -1;
+                try {
+                    const raw = storageGet(STORAGE_KEYS.preferences);
+                    const prefs = raw ? JSON.parse(raw) : null;
+                    if (prefs && prefs.voiceName) restoredIdx = availableVoices.findIndex(v => v.name === prefs.voiceName && (!prefs.voiceLang || v.lang === prefs.voiceLang));
+                } catch (e) {}
+                const preferredIdx = restoredIdx >= 0 ? restoredIdx : pickPreferredVoiceIndex();
+                if (preferredIdx >= 0) voiceSelect.value = preferredIdx;
             }
 
             if (window.speechSynthesis) {
@@ -1560,6 +1674,11 @@
                 autoplayBtn.disabled = true;
                 voiceSelect.disabled = true;
             }
+
+            voiceSelect.addEventListener('change', savePreferences);
+            loadPreferences();
+            updateSpeedReadout();
+            updateAutoplayButton();
 
             /* ========== CHUNKER (with line index) ========== */
 
@@ -2351,33 +2470,28 @@
 
             function autoSelectFirstScene() {
                 if (!storyData || !storyData.volumes.length) return;
-                const firstVolume = storyData.volumes[0];
-                if (!firstVolume.episodes.length) return;
-                const firstEpisode = firstVolume.episodes[0];
-                if (!firstEpisode.scenes.length) return;
-
+                let targetVolume = storyData.volumes[0];
+                let targetEpisode = targetVolume.episodes[0];
+                let targetScene = targetEpisode && targetEpisode.scenes[0];
+                const resume = pendingResumeProgress;
+                if (resume) {
+                    const rv = storyData.volumes.find(v => v.name === resume.volume);
+                    const re = rv && rv.episodes.find(e => e.id === resume.episode);
+                    const rs = re && re.scenes.find(sc => sc.id === resume.scene);
+                    if (rv && re && rs) { targetVolume = rv; targetEpisode = re; targetScene = rs; }
+                }
+                if (!targetVolume || !targetEpisode || !targetScene) return;
                 cascadingSelectChange = true;
-
-                volumeSelect.value = firstVolume.name;
-                const episodeLabels = firstVolume.episodes.map((e, index) => ({
-                    id: e.id,
-                    label: `${index + 1} - ${e.name}`
-                }));
-                populateSelect(episodeSelect, episodeLabels, '— Select Episode —');
-                episodeSelect.disabled = false;
-                episodeSelect.value = firstEpisode.id;
-
-                const sceneItems = firstEpisode.scenes.map((s, index) => ({
-                    id: s.id,
-                    label: `${index + 1} - ${s.name}`
-                }));
-                populateSelect(sceneSelect, sceneItems, '— Select Scene —');
-                sceneSelect.disabled = false;
-                sceneSelect.value = firstEpisode.scenes[0].id;
-
+                volumeSelect.value = targetVolume.name;
+                populateSelect(episodeSelect, targetVolume.episodes.map((e, i) => ({ id:e.id, label:`${i + 1} - ${e.name}` })), '— Select Episode —');
+                episodeSelect.disabled = false; episodeSelect.value = targetEpisode.id;
+                populateSelect(sceneSelect, targetEpisode.scenes.map((sc, i) => ({ id:sc.id, label:`${i + 1} - ${sc.name}` })), '— Select Scene —');
+                sceneSelect.disabled = false; sceneSelect.value = targetScene.id;
                 cascadingSelectChange = false;
-
+                const wasResumed = !!resume && targetScene.id === resume.scene;
+                pendingResumeProgress = null;
                 displaySelectedScene(autoplayEnabled);
+                if (wasResumed) showResumeBanner(resume);
                 updateSceneNavButtons();
             }
 
@@ -2556,6 +2670,7 @@
                 logDebug(`Displaying scene "${scene.name}" with ${scene.content.length} characters`);
                 showContent(scene.name, scene.content, !!autoStart);
                 setStatus(`Reading: ${selectedVolume} → ${episode.name} → ${scene.name}`);
+                saveReadingProgress();
                 chunks = [];
                 currentChunkIndex = -1;
                 ttsActive = false;
@@ -2645,6 +2760,9 @@
                 try {
                     const parsed = parseStory(text);
                     storyData = parsed;
+                    currentStoryFingerprint = makeStoryFingerprint(text);
+                    pendingResumeProgress = getSavedProgress();
+                    if (!pendingResumeProgress || pendingResumeProgress.fingerprint !== currentStoryFingerprint) pendingResumeProgress = null;
 
                     if (!storyData.volumes || storyData.volumes.length === 0) {
                         throw new Error('No volumes found in the file.');
@@ -2666,7 +2784,14 @@
                 }
             }
 
+            function hasActiveReadingProgress() { return !!(storyData && getCurrentFlatIndex() >= 0); }
+            function confirmStoryReplacement(label) {
+                if (!hasActiveReadingProgress()) return true;
+                return confirm(`${label} will replace the currently loaded story. Your saved reading position will remain available. Continue?`);
+            }
+
             function openFilePicker() {
+                if (!confirmStoryReplacement('Loading from your computer')) return;
                 // This deliberately does not fetch from the server. Once the user
                 // chooses this route, the current session remains in manual mode.
                 serverFetchDisabled = true;
@@ -2690,6 +2815,8 @@
                         logDebug('Ignoring stale/manual file-load result.');
                         return;
                     }
+                    currentStorySource = `local:${file.name}`;
+                    cacheStoryText(event.target.result, currentStorySource);
                     loadStoryFromText(event.target.result, requestId);
                 };
 
@@ -2702,6 +2829,7 @@
             });
 
             function loadStoryFromServer() {
+                if (!confirmStoryReplacement('Reloading from the server')) return;
                 if (serverFetchDisabled) {
                     logDebug('Server fetch explicitly requested — switching back to server mode.');
                 }
@@ -2735,6 +2863,8 @@
                             return;
                         }
                         logDebug(`Latest file loaded via fetch, ${text.length} characters`);
+                        currentStorySource = 'server';
+                        cacheStoryText(text, currentStorySource);
                         loadStoryFromText(text, requestId);
                     })
                     .catch(error => {
@@ -2746,6 +2876,16 @@
                         console.warn('Fetch failed, showing file picker:', error.message);
                         logDebug(`Fetch failed: ${error.message}`);
                         logDebug('→ Revealing file-picker fallback.');
+
+                        const cached = getCachedStory();
+                        if (cached) {
+                            currentStorySource = cached.source || 'offline-cache';
+                            const cacheDate = new Date(cached.savedAt).toLocaleString();
+                            setStatus(`⚠️ Server unavailable — using cached story from ${cacheDate}.`);
+                            logDebug(`→ Offline fallback: cached story from ${cacheDate}.`);
+                            loadStoryFromText(cached.text, requestId);
+                            return;
+                        }
 
                         fileLoadArea.classList.add('visible');
                         setStatus('📂 Server fetch failed — please select the story file manually.');

@@ -8,31 +8,63 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        background: #0d1117;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+        line-height: 1.8;
+        background-color: #0d1117;
         color: #e6edf3;
-        padding: 40px 20px;
+        padding: 20px;
         min-height: 100vh;
-        line-height: 1.6;
     }
 
     .container {
-        max-width: 760px;
+        max-width: 1000px;
+        width: 100%;
         margin: 0 auto;
-        background: #161b22;
-        border: 1px solid #30363d;
+        background-color: #161b22;
         border-radius: 16px;
-        padding: 36px 40px;
+        padding: 35px 45px;
         box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+        border: 1px solid #30363d;
+    }
+
+    .back-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        color: #79b8ff;
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 500;
+        margin-bottom: 28px;
+        padding: 8px 14px;
+        border: 1px solid #2a4a6a;
+        border-radius: 8px;
+        background: #1c2a3a;
+        transition: background 0.2s, border-color 0.2s, color 0.2s;
+    }
+
+    .back-link:hover {
+        background: #24405c;
+        border-color: #58a6ff;
+        color: #e6edf3;
     }
 
     h1 {
-        font-size: 1.6rem;
+        font-size: 2.2rem;
         font-weight: 600;
+        letter-spacing: -0.5px;
         color: #f0f6fc;
         border-bottom: 2px solid #30363d;
-        padding-bottom: 14px;
+        padding-bottom: 16px;
         margin-bottom: 8px;
+        text-align: center;
+    }
+
+    h1 span {
+        background: linear-gradient(135deg, #f0883e, #f6a85b);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
     }
 
     .subtitle {
@@ -40,6 +72,7 @@
         font-size: 0.9rem;
         margin-bottom: 28px;
         font-style: italic;
+        text-align: center;
     }
 
     p { margin-bottom: 1em; color: #c9d1d9; }
@@ -139,12 +172,34 @@
         font-size: 0.88rem;
         color: #c9d1d9;
     }
+
+    .note code {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+        font-size: 0.88em;
+        background: #21262d;
+        color: #e6edf3;
+        padding: 1px 6px;
+        border-radius: 4px;
+    }
+
+    @media (max-width: 700px) {
+        .container { padding: 20px; border-radius: 12px; }
+        h1 { font-size: 1.6rem; }
+    }
+
+    @media (max-width: 480px) {
+        body { padding: 10px; }
+        .container { padding: 16px; }
+        h1 { font-size: 1.4rem; }
+    }
 </style>
 </head>
 <body>
 <div class="container">
 
-    <h1>Bloodhound Episode Splitter</h1>
+    <a class="back-link" href="index.html">◀ Back to Reader</a>
+
+    <h1>📄 <span>Episode Splitter</span></h1>
     <p class="subtitle">Splits the WIP manuscript into per-episode files, organised by numbered volume, and bundles them into a timestamped ZIP.</p>
 
     <div class="drop-zone" id="dropZone">
@@ -236,19 +291,11 @@
     }
 
     // ── Parsing ──────────────────────────────────────────────────
-    // Matches lines like:
-    //   VOLUME - CODEX
-    //   VOLUME - Wolves Among Sheep
-    //   EPISODE - Beginnings
-    //   EPISODE - A World Half Full
-    // The separator is a hyphen (with optional surrounding whitespace).
-    // We anchor to start-of-line and allow leading whitespace/tabs.
     const VOLUME_RE  = /^[\s\u00A0]*VOLUME\s*[-–—]\s*(.+?)\s*$/i;
     const EPISODE_RE = /^[\s\u00A0]*EPISODE\s*[-–—]\s*(.+?)\s*$/i;
     const SCENE_RE   = /^[\s\u00A0]*SCENE\s*$/i;
 
     function parseManuscript(text) {
-        // Normalise line endings
         const normalised = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
         const lines = normalised.split('\n');
 
@@ -272,7 +319,6 @@
             if (epMatch) {
                 const epName = epMatch[1].trim();
                 if (!currentVolume) {
-                    // Episode without a preceding volume — create a placeholder volume
                     currentVolume = { name: 'Unassigned', episodes: [] };
                     volumes.push(currentVolume);
                 }
@@ -290,16 +336,9 @@
     }
 
     // ── Formatting ───────────────────────────────────────────────
-    // Normalise indentation within an episode:
-    //   - SCENE header lines -> no indentation
-    //   - All other non-blank content lines -> exactly one tab
-    //   - Blank lines -> left as blank
-    // This loses some intra-scene paragraph indentation, but produces
-    // a clean, consistent reading format.
     function formatEpisodeLines(lines) {
         const out = [];
         for (const raw of lines) {
-            // Strip trailing whitespace but preserve meaningful leading whitespace decision below.
             const trimmedRight = raw.replace(/[ \t]+$/, '');
             if (trimmedRight.trim() === '') {
                 out.push('');
@@ -309,27 +348,22 @@
                 out.push('SCENE');
                 continue;
             }
-            // Everything else: one tab of indentation.
             out.push('\t' + trimmedRight.replace(/^[ \t\u00A0]+/, ''));
         }
         return out;
     }
 
     // ── Filename sanitisation ────────────────────────────────────
-    // Removes characters that are illegal on Windows/macOS/Linux:
-    //   < > : " / \ | ? *
-    // Also collapses whitespace and trims trailing dots/spaces (Windows).
     function sanitise(name) {
         return name
-            .replace(/[<>:"/\\|?*\u0000-\u001F]/g, '') // strip illegal chars
-            .replace(/\s+/g, ' ')                       // collapse whitespace
-            .replace(/^\.+/, '')                        // strip leading dots
-            .replace(/[\. ]+$/, '')                     // strip trailing dots/spaces
+            .replace(/[<>:"/\\|?*\u0000-\u001F]/g, '')
+            .replace(/\s+/g, ' ')
+            .replace(/^\.+/, '')
+            .replace(/[\. ]+$/, '')
             .trim() || 'Untitled';
     }
 
-    // ── Timestamp for the ZIP filename ───────────────────────────
-    // Format: YYYY-MM-DD-HH-MM-SS (local time)
+    // ── Timestamp ────────────────────────────────────────────────
     function timestamp() {
         const d = new Date();
         const pad = (n) => String(n).padStart(2, '0');
@@ -373,7 +407,6 @@
             const volFolder = zip.folder(volFolderName);
 
             if (vol.episodes.length === 0) {
-                // Add a small placeholder so the empty volume isn't silently dropped
                 volFolder.file('_NO_EPISODES_FOUND.txt',
                     'No EPISODE headers were found under this volume.\n' +
                     'Volume: ' + vol.name + '\n');
@@ -387,9 +420,7 @@
                 const epTitle = sanitise(ep.name);
                 const fileName = 'Episode ' + epNum + ' - ' + epTitle + '.txt';
 
-                // Reconstruct the file contents with normalised formatting.
                 const formatted = formatEpisodeLines(ep.lines);
-                // Strip leading/trailing blank lines
                 while (formatted.length && formatted[0] === '') formatted.shift();
                 while (formatted.length && formatted[formatted.length - 1] === '') formatted.pop();
 
@@ -417,7 +448,6 @@
 
         const blob = await zip.generateAsync({ type: 'blob', compression: 'DEFLATE' });
 
-        // Trigger download with timestamped filename
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
         const baseName = file.name.replace(/\.txt$/i, '');

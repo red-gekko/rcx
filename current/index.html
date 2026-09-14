@@ -423,6 +423,60 @@
             text-overflow: ellipsis;
         }
 
+        .reader-source-controls {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 22px;
+            padding-top: 18px;
+            border-top: 1px solid #30363d;
+        }
+
+        .reader-source-controls button {
+            flex: 1;
+            max-width: 280px;
+            padding: 10px 18px;
+            background-color: #21262d;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background-color 0.2s, border-color 0.2s, transform 0.1s;
+        }
+
+        .reader-source-controls button:hover {
+            background-color: #30363d;
+            border-color: #58a6ff;
+        }
+
+        .reader-source-controls button:active {
+            transform: scale(0.97);
+        }
+
+        .reader-source-controls .upload-source-btn {
+            border-color: #2ea043;
+            color: #56d364;
+        }
+
+        .reader-source-controls .upload-source-btn:hover {
+            background-color: #1f3d2a;
+            border-color: #3fb950;
+        }
+
+        .reader-source-controls .server-source-btn {
+            border-color: #2a4a6a;
+            color: #79b8ff;
+        }
+
+        .reader-source-controls .server-source-btn:hover {
+            background-color: #1c2a3a;
+            border-color: #58a6ff;
+        }
+
         .content-area {
             padding: 8px 0 4px 0;
             min-height: 320px;
@@ -673,6 +727,8 @@
             .tts-controls .speed-group input[type="range"] { width: 70px; }
             .scene-nav-row button { font-size: 0.8rem; padding: 10px 12px; }
             .scene-nav-row .nav-spacer { font-size: 0.65rem; }
+            .reader-source-controls { gap: 8px; }
+            .reader-source-controls button { font-size: 0.8rem; padding: 10px 12px; }
         }
 
         @media (max-width: 480px) {
@@ -779,6 +835,21 @@
             <div class="message">Loading story content<span class="loading-dots"></span></div>
         </div>
 
+        <div class="scene-nav-row">
+            <button id="scene-prev-btn-bottom" disabled title="Previous scene">◀ Previous Scene</button>
+            <span class="nav-spacer" id="scene-nav-spacer-bottom">—</span>
+            <button id="scene-next-btn-bottom" disabled title="Next scene">Next Scene ▶</button>
+        </div>
+
+        <div class="reader-source-controls">
+            <button class="upload-source-btn" id="upload-source-btn" title="Clear the current story and load a .txt file from your computer">
+                📂 Load from Computer
+            </button>
+            <button class="server-source-btn" id="server-source-btn" title="Clear the current story and fetch the latest version from the server">
+                🔄 Reload from Server
+            </button>
+        </div>
+
         <div class="status" id="status">Loading the text file...</div>
         
         <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
@@ -826,6 +897,11 @@
             const scenePrevBtn = document.getElementById('scene-prev-btn');
             const sceneNextBtn = document.getElementById('scene-next-btn');
             const sceneNavSpacer = document.getElementById('scene-nav-spacer');
+            const scenePrevBtnBottom = document.getElementById('scene-prev-btn-bottom');
+            const sceneNextBtnBottom = document.getElementById('scene-next-btn-bottom');
+            const sceneNavSpacerBottom = document.getElementById('scene-nav-spacer-bottom');
+            const uploadSourceBtn = document.getElementById('upload-source-btn');
+            const serverSourceBtn = document.getElementById('server-source-btn');
 
             let availableVoices = [];
             let chunks = [];
@@ -845,6 +921,12 @@
             let autoplayWaiting = false;
 
             let cascadingSelectChange = false;
+
+            // The reader starts in server mode. Choosing the computer option switches
+            // this session to manual-upload mode, so it will not immediately try the
+            // server again. "Reload from Server" explicitly switches back.
+            let serverFetchDisabled = false;
+            let loadRequestId = 0;
 
             let sceneContentEl = null;
 
@@ -1216,6 +1298,9 @@
                     scenePrevBtn.disabled = true;
                     sceneNextBtn.disabled = true;
                     sceneNavSpacer.textContent = '—';
+                    scenePrevBtnBottom.disabled = true;
+                    sceneNextBtnBottom.disabled = true;
+                    sceneNavSpacerBottom.textContent = '—';
                     return;
                 }
 
@@ -1224,25 +1309,40 @@
                     scenePrevBtn.disabled = true;
                     sceneNextBtn.disabled = true;
                     sceneNavSpacer.textContent = '—';
+                    scenePrevBtnBottom.disabled = true;
+                    sceneNextBtnBottom.disabled = true;
+                    sceneNavSpacerBottom.textContent = '—';
                     return;
                 }
 
-                scenePrevBtn.disabled = (flatIndex <= 0);
-                sceneNextBtn.disabled = (flatIndex >= list.length - 1);
+                const prevDisabled = (flatIndex <= 0);
+                const nextDisabled = (flatIndex >= list.length - 1);
+
+                scenePrevBtn.disabled = prevDisabled;
+                sceneNextBtn.disabled = nextDisabled;
+                scenePrevBtnBottom.disabled = prevDisabled;
+                sceneNextBtnBottom.disabled = nextDisabled;
 
                 const item = list[flatIndex];
-                sceneNavSpacer.textContent = `${flatIndex + 1} / ${list.length} — ${item.volumeName} · ${item.episodeName}`;
+                const positionText = `${flatIndex + 1} / ${list.length} — ${item.volumeName} · ${item.episodeName}`;
+                sceneNavSpacer.textContent = positionText;
+                sceneNavSpacerBottom.textContent = positionText;
             }
 
-            scenePrevBtn.addEventListener('click', function() {
+            function handlePrevSceneNavigation() {
                 logDebug('Scene nav: Previous');
                 goToPrevScene();
-            });
+            }
 
-            sceneNextBtn.addEventListener('click', function() {
+            function handleNextSceneNavigation() {
                 logDebug('Scene nav: Next');
                 goToNextScene(autoplayEnabled);
-            });
+            }
+
+            scenePrevBtn.addEventListener('click', handlePrevSceneNavigation);
+            scenePrevBtnBottom.addEventListener('click', handlePrevSceneNavigation);
+            sceneNextBtn.addEventListener('click', handleNextSceneNavigation);
+            sceneNextBtnBottom.addEventListener('click', handleNextSceneNavigation);
 
             /* ========== HELP ========== */
 
@@ -1273,6 +1373,12 @@
 
                     <h3>🖱️ Interactive Chunks</h3>
                     <p>While narration is active, each chunk in the scene becomes clickable. <strong>Hover</strong> over any sentence to see its boundaries; the chunk currently being spoken is highlighted in orange. <strong>Click</strong> a chunk to jump narration to that exact point and continue from there.</p>
+
+                    <h3>📂 Story Source</h3>
+                    <ul>
+                        <li><strong>Load from Computer</strong> — Clear the currently loaded story and switch this session to manual upload mode. It will not try the server again unless you explicitly choose Reload from Server.</li>
+                        <li><strong>Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache.</li>
+                    </ul>
 
                     <h3>❓ Help</h3>
                     <p>Press this button again to return to the scene you were reading. If the narrator was active, it resumes from where it left off.</p>
@@ -2481,7 +2587,59 @@
 
             /* ========== STORY LOADING ========== */
 
-            function loadStoryFromText(text) {
+            function resetNavigationControls() {
+                volumeSelect.innerHTML = '<option value="">— Loading —</option>';
+                volumeSelect.disabled = false;
+                episodeSelect.innerHTML = '<option value="">— Select Episode —</option>';
+                episodeSelect.disabled = true;
+                sceneSelect.innerHTML = '<option value="">— Select Scene —</option>';
+                sceneSelect.disabled = true;
+            }
+
+            function clearActiveStory(reason) {
+                // Invalidate any fetch/FileReader callback already in flight.
+                loadRequestId++;
+
+                if (window.speechSynthesis) window.speechSynthesis.cancel();
+                clearResumeTimer();
+                clearPendingPause();
+                cancelAutoplayCountdown();
+
+                currentUtterance = null;
+                ttsActive = false;
+                ttsPaused = false;
+                chunks = [];
+                currentChunkIndex = -1;
+                currentSceneName = '';
+                currentSceneText = '';
+                sceneContentEl = null;
+                storyData = null;
+
+                speakBtn.textContent = '🔊 Speak Scene';
+                pauseBtn.textContent = '⏸ Pause';
+                setTtsButtonsActive(false);
+                updateChunkUI();
+
+                if (fileInput) fileInput.value = '';
+                fileLoadArea.classList.remove('visible');
+                resetNavigationControls();
+
+                contentArea.innerHTML = `
+                    <div class="message">
+                        <p>${reason || 'No story loaded yet.'}</p>
+                    </div>
+                `;
+
+                updateSceneNavButtons();
+                logDebug(`Active story cleared${reason ? `: ${reason}` : ''}`);
+            }
+
+            function loadStoryFromText(text, requestId) {
+                if (requestId !== undefined && requestId !== loadRequestId) {
+                    logDebug('Ignoring stale story-load result.');
+                    return;
+                }
+
                 logDebug(`Loading story from provided text, ${text.length} characters`);
 
                 try {
@@ -2508,27 +2666,63 @@
                 }
             }
 
+            function openFilePicker() {
+                // This deliberately does not fetch from the server. Once the user
+                // chooses this route, the current session remains in manual mode.
+                serverFetchDisabled = true;
+                clearActiveStory('Choose a .txt file from your computer.');
+                fileLoadArea.classList.add('visible');
+                setStatus('📂 Manual upload selected — choose the story .txt file.');
+                fileInput.click();
+            }
+
             fileInput.addEventListener('change', function(e) {
                 const file = e.target.files[0];
                 if (!file) return;
 
+                const requestId = ++loadRequestId;
+                serverFetchDisabled = true;
                 setStatus(`Loading ${file.name}...`);
                 const reader = new FileReader();
+
                 reader.onload = function(event) {
-                    loadStoryFromText(event.target.result);
+                    if (requestId !== loadRequestId || !serverFetchDisabled) {
+                        logDebug('Ignoring stale/manual file-load result.');
+                        return;
+                    }
+                    loadStoryFromText(event.target.result, requestId);
                 };
+
                 reader.onerror = function() {
+                    if (requestId !== loadRequestId) return;
                     setStatus('Error reading file.', true);
                 };
+
                 reader.readAsText(file);
             });
 
-            function loadStory() {
-                setStatus('Loading story file...');
-                logDebug(`=== Fetching file: ${STORY_FILE} ===`);
+            function loadStoryFromServer() {
+                if (serverFetchDisabled) {
+                    logDebug('Server fetch explicitly requested — switching back to server mode.');
+                }
 
-                fetch(STORY_FILE)
+                serverFetchDisabled = false;
+                clearActiveStory('Fetching the latest story from the server...');
+                const requestId = loadRequestId;
+
+                setStatus('Loading latest story file from server...');
+                logDebug(`=== Fetching latest file: ${STORY_FILE} ===`);
+
+                // Cache-busting plus no-store ensures this is a fresh server request
+                // rather than an old browser-cached copy.
+                const cacheBuster = `${STORY_FILE}${STORY_FILE.includes('?') ? '&' : '?'}_=${Date.now()}`;
+
+                fetch(cacheBuster, { cache: 'no-store' })
                     .then(response => {
+                        if (requestId !== loadRequestId) {
+                            throw new Error('Server fetch superseded by another load request.');
+                        }
+
                         logDebug(`Response status: ${response.status}`);
                         if (!response.ok) {
                             throw new Error(`HTTP ${response.status}: Could not fetch '${STORY_FILE}'`);
@@ -2536,30 +2730,43 @@
                         return response.text();
                     })
                     .then(text => {
-                        logDebug(`File loaded via fetch, ${text.length} characters`);
-                        loadStoryFromText(text);
+                        if (requestId !== loadRequestId || serverFetchDisabled) {
+                            logDebug('Ignoring stale server-load result.');
+                            return;
+                        }
+                        logDebug(`Latest file loaded via fetch, ${text.length} characters`);
+                        loadStoryFromText(text, requestId);
                     })
                     .catch(error => {
+                        if (requestId !== loadRequestId) {
+                            logDebug(`Server fetch superseded: ${error.message}`);
+                            return;
+                        }
+
                         console.warn('Fetch failed, showing file picker:', error.message);
                         logDebug(`Fetch failed: ${error.message}`);
                         logDebug('→ Revealing file-picker fallback.');
 
                         fileLoadArea.classList.add('visible');
-                        setStatus('📂 Please select the story file using the button above.');
+                        setStatus('📂 Server fetch failed — please select the story file manually.');
 
                         contentArea.innerHTML = `
                             <div class="message">
                                 <p>📂 No story loaded yet.</p>
                                 <p style="font-size: 0.9rem; color: #8b949e; margin-top: 10px;">
-                                    Click <strong>Choose File</strong> above and select:<br>
-                                    <code style="background: #21262d; padding: 2px 8px; border-radius: 4px;">bloodhound story scenes-WIP.txt</code>
+                                    Click <strong>Choose File</strong> above or <strong>Load from Computer</strong> below and select:<br>
+                                    <code style="background: #21262d; padding: 2px 8px; border-radius: 4px;">${STORY_FILE}</code>
                                 </p>
                             </div>
                         `;
                     });
             }
 
-            loadStory();
+            uploadSourceBtn.addEventListener('click', openFilePicker);
+            serverSourceBtn.addEventListener('click', loadStoryFromServer);
+
+            // Default behaviour remains: try the server first, then fall back to upload.
+            loadStoryFromServer();
 
         })();
     </script>

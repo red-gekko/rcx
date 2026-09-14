@@ -10379,7 +10379,7 @@ VOLUME - Wolves Among Sheep
 			"I learned ceilidh when I was wee." he shrugged. "My granny used to take me to this after-school class. She, uh... she knew it was a difficult time for our people, so she wanted me to see the joy in our culture, too. And, well, I was too young for whiskey and fighting."
 			Chloe smiled warmly. "That's really sweet. Do you remember any moves?"
 			"Ah, you can't do it solo." Connor chuckled. "And you need live music, too - the band can alter the tempo if you need time to catch up."
-			"Maybe after you finish teaching me how to kick ass, you can teach me ceilidh sometime, too." she smirked.
+			"Maybe if I get better at kicking ass, you can teach me ceilidh sometime, too." she smirked.
 			Connor smiled shyly. "I'd like that. Also - that was a spot-on pronounciation. Amy and Trey still call it 'Kayleed.'"
 			"Yeah, and they don't even have deafness as an excuse." she grinned. "Now... shall we get started?"
 
@@ -11746,8 +11746,8 @@ VOLUME - Wolves Among Sheep
 			"There." he said. "Now we can talk like grown ups. Never liked guns, anyway."
 			"What, not visceral enough a method of killing for your tastes?" Naismith snarled in an accusatory tone.
 			"Hm? No, I just don't want you to shoot me in the face again. Besides, it's the opposite." Connor chuckled grimly. "With your hands, it's much easier to subdue someone without killing them. You can be deliberate. Guns... It's hard to shoot someone non-lethally. The way I see it, if I use my hands, I make sure everyone I kill, I did it on purpose. My conscience can be clean."
-			"A clean conscience?! Did you see the man you butchered at the Hog and Hounds? We had to scoop his brains back in with a spoon!" Naismith replied indignantly.
-			"After he shot me in the face. People have a habit of doing that, it seems. Tell me, Inspector - would you be in control of yourself after that?"
+			"A clean conscience?! Did you see the man you mutilated at the Hog and Hounds? He's gonna spend the rest of his life in a care home, eating through a straw and shitting into a bag, because of *you!*"
+			"After he shot me in the face. People have a habit of doing that, it seems. Tell me, Detective - would you be in control of yourself after that?"
 			"I wouldn't be anything, I'd be dead - because I'm not some freak of nature!"
 			"Oh, I'm a freak all right - but nature had nothing to do with this." Connor chuckled. "Someone else did. And to find out who... I need your help."
 			"What?!" Naismith laughed incredulously. "That's a new one. Never had a criminal come to me for help."
@@ -11764,6 +11764,19 @@ VOLUME - Wolves Among Sheep
 			"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Vitalis, right?"
 			"How do you know about that? Our work with them is top-secret..."
 			"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Vitalis. And there'll be more to send them tonight. Are you in, or not?"
+			"Fuck you." he growled. "I don't work with criminals, let alone ones that can carve up a young man's face!"
+			"What?"
+			"Barrett! Connor Barrett! Let me guess, you already forgot about the poor lad, didn't you?!"
+			Connor paused, before speaking again.
+			"Okay, fine. I went a little overboard with him. But he betrayed me. Besides, he's fine now."
+			"'Overboard?!' Are you shitting me?!"
+			"Why are you so upset, Detective? Because I hurt traitors... or because you used him, and it backfired?"
+			Naismith looked away, his eyes pained.
+			"Ah. That's why you came at me on your own, when I killed Donovan. That's the real reason, isn't it?"
+			"Shut up."
+			"Oh, I'm sure you told plenty of good lies. But deep down... you couldn't stand to be the reason anyone else got hurt. It *sickened* you."
+			"I said SHUT UP!"
+			Connor grinned. "There. That fire. That's what this city needs. You know that, as well as I. Now, I'm gonna go and get ready to kill some people. You can get a little bit closer to the truth as a result, or not."
 			Naismith sighed. "...fine. I'll be there."
 			Connor breathed a sigh of relief. He hopped out of the car.
 			Naismith rested his head on the steering wheel, and sighed again.
@@ -15634,12 +15647,244 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Heartache
 		______________________________
 		SCENE
+			The knock at the garage door was hesitant - three quick raps, then silence. Connor looked up from the engine block he'd been tinkering with, wiping his hands on a rag.
+			"Come in!" he called out.
+			The door creaked open, and Chloe poked her head through. She was wearing a loose vest and joggers, her hair tied back in a messy bun. A gym bag hung from her shoulder.
+			"Hey!" she smiled. "Hope I'm not too early?"
+			"Nah, perfect timing." Connor tossed the rag aside, and gestured for her to come in. "I was just finishing up."
+			She stepped inside, looking around the workshop. The lights were dim, most of the space taken up by half-dismantled cars and stacked tyres. Sparky was curled up on an old armchair in the corner, snoring softly.
+			"Hey, Sparky!" she whispered, not wanting to wake him.
+			Connor chuckled. "He's out cold. We were up late last night."
+			"A big walk?"
+			"Something like that."
+			He grabbed a water bottle from the workbench, and took a swig. "You ready to train?"
+			"Born ready." She grinned, dropping her bag by the wall.
 
-		Ceilidh with Chloe
+			The depot sat at the end of a dead-end road, surrounded by chain-link fence and rusted shipping containers. A single floodlight buzzed overhead, casting everything in a sickly orange glow. Beyond the fence, the city hummed - distant traffic, the occasional siren, the ever-present patter of rain on corrugated metal.
+			Inside, a dozen Skulls were gathered around a card table, laughing and drinking. Their bikes were parked outside, chrome glinting in the dark. Crates of stolen goods lined the walls - electronics, cigarettes, a few kilos of cocaine stacked in the corner like an afterthought.
+			"Another round, lads!" one of them cheered, slamming his glass down.
+			"You're gonna bankrupt us, Terry." another grinned, dealing the cards.
+			"Fuck off. I'm on a winning streak."
+			The rest of the gang laughed. Another sparked up a joint. The night was young, and they were untouchable.
+			One turned up the radio.
+			"I love this song, man." he grinned, before singing along.
+			"Every breath you take,
+			And every move you make,
+			Every bond you break,
+			Every step you take,
+			I'll be watching you."
+
+			The gym room at the back of the garage had changed since she last saw it. The punching bag was clearly new, replacing the old cracked leather of its predecessor. Soft mats covered the concrete floor, and a few old weights were stacked in the corner.
+			"Alright." he began, rolling his shoulders. "Let's start with a warm-up. Stretches first."
+			Chloe nodded, and began to limber up. She followed his lead, stretching her arms, her legs, her back.
+			She smiled, and finished her stretch. He walked over to the punching bag, and gave it a quick tap. "Let's see that form again. It can take a while to get the hang of--"
+			She stepped up to the bag, and took her stance. Feet shoulder-width apart, weight balanced, hands up by her face.
+			"Huh." Connor chuckled. "Well remembered."
+			She smiled, and threw a jab, then a cross. The bag swung slightly.
+			"Again. Harder."
+			She repeated the motion, putting more force behind it. The chain creaked.
+			He circled her, studying her movement. "Now, mix it up. Don't just go for the same two punches."
+			She nodded, and began to flow. A jab, a feint, a hook to the side of the bag. Then a low kick, followed by an elbow strike.
+			Connor watched, arms folded. A small smile crept over his face.
+			"That's really good. Your footwork's come a long way."
+			Chloe paused, catching her breath. "Yeah?"
+			"Yeah. I mean, you already had a knack for kicks, but that was impressive."
+			He stepped closer, and gently adjusted her guard. "Just remember - keep your chin tucked. You drop it when you get tired."
+			She blushed at his touch, but quickly regained her composure, and nodded, absorbing the advice. "Got it."
+
+			Outside, a shadow dropped from the shipping container onto the gravel below. Silent. Measured. The figure moved along the fence line, keeping low, boots crunching softly on the wet ground.
+			Then, the lights went out.
+			"Oi, what the fuck?!" Terry barked, looking up.
+			"Power cut?"
+			"Fuckin' council bastards. Someone check the box."
+			One of the men - a skinny, younger one with a nervous twitch - grabbed a flashlight and headed for the door. He stepped outside, shining the beam into the dark.
+			Nothing.
+			He took another step.
+			*CRASH!*
+			A stack of pallets went flying, scattering across the yard. The kid spun around, his heart racing. The beam caught nothing but shadows.
+			"Who's there?!"
+			Silence.
+			He swallowed, and crept forward. The gravel crunched under his boots. The rain picked up, drumming on the containers.
+			Then - a humanoid shape.
+			"Oh, SHIT!" he screamed, stumbling backwards.
+			He bolted back inside, slamming the door behind him.
+
+			"What?! What is it?!" Terry demanded, rising from his chair.
+			"The Werewolf! He's out there!"
+			The room erupted. Men grabbed weapons - knives, crowbars, a couple of handguns. The braver ones moved toward the windows, peering out into the dark.
+			"I don't see anything."
+			"He's fuckin' there, I'm telling you!"
+			"You're high, you idiot."
+			"I'm NOT!"
+			*BANG!*
+			A shipping container door slammed shut somewhere in the yard. The sound echoed through the depot like a gunshot.
+			"COME ON THEN, YOU LUPINE CUNT!" one roared.
+			"...'lupine cunt?' That's new." another chuckled.
+			"Shut up!"
+			"Lads! Shh!"
+			*CRASH!*
+			Another noise - glass shattering, this time. One of the floodlights exploded, plunging the yard into deeper darkness.
+			"It's 'im! It's gotta be!"
+			"We ain't scared of you!"
+			"...I'm scared of him."
+			"Kyle! Shut up!"
+			Terry grabbed a shotgun from behind the bar. "Right. We go out together, we find this prick, and we fuckin' end him."
+			"You sure that's a good idea?"
+			"You got a better one?"
+			The men exchanged glances. Then, slowly, they formed up. Six of them, weapons raised, heading for the door.
+
+			"Alright. Let's try some sparring. Go easy on me, yeah?" he grinned.
+			She chuckled. "Prepare to eat dirt! In a--in a second. I'd better take these out." she began, removing her hearing aids and glasses. She put some contact lenses in.
+			"I can still hear, but things are muffled without them." she said, slightly louder than usual.
+			Connor nodded. "And can you see?" he asked, enunciating as clearly as he could.
+			"Yeah - I've got these soft contact lenses in. That way, my glasses won't break." she smiled. "Okay, let's dance!"
+			They squared up, circling each other on the mats. Connor kept his hands loose, his posture relaxed. Chloe was more tense, her eyes fixed on him, waiting for an opening.
+			He threw a slow jab. She parried it, and countered with a hook. He caught it on his forearm, grinning.
+			"Nice. But you're still telegraphing."
+			"I'm what?"
+			"Your left shoulder drops before you strike. It's a tell."
+			She huffed, stepping back. "And how am I supposed to fix that?"
+			"Practice. Or just hit harder so it doesn't matter."
+			She laughed, shaking her head. "You're a terrible teacher."
+			"I'm a great teacher. You're just a slow learner."
+			She lunged at him, and he dodged, grinning.
+			"Come on... you are planning on hitting me, right?"
+			Another lunge, and another dodge.
+			"Okay, when I said 'go easy...'"
+			Then, a third lunge---no. A feint. She spun quickly, catching the back of his knee. He dropped down, and looked up with pride.
+			"There it is." he smiled warmly. "Turns out you just need prodding."
+			She laughed, offering a hand. He took it, and rose.
+			They circled each other, both grinning now. The tension from earlier had melted away, replaced by something lighter. Easier.
+
+		Ceilidh with Chloe/Warehouse Massacre, Part 1
 		______________________________
 		SCENE
+			Outside, the rain was falling harder now. The yard was a maze of shadows and rusted metal. The Skulls fanned out, flashlights cutting through the dark.
+			"Stay close." Terry muttered.
+			"I don't like this."
+			"Shut. Up."
+			They moved past the shipping containers, past the stacks of pallets, past the dumpster. Nothing. No sign of anyone.
+			"Maybe he fucked off?"
+			"Maybe."
+			*CHK-CHK!*
+			The sound was unmistakable. The click-clack of a shotgun being racked.
+			Every man froze.
+			*BANG!*
+			The first shell tore through Terry's chest. He flew backwards, crashing into a container, the shotgun slipping from his fingers. Blood sprayed across the wet gravel.
+			"SCATTER!"
+			*CHK-CHK! BANG!*
+			A second shot took another man in the throat. He collapsed, gurgling, hands clawing at the wound.
+			The rest ran. They didn't know where they were going - just away. The figure in black kevlar moved through the yard with terrifying precision, cutting off escape routes, herding them like sheep.
+			*CHK-CHK! BANG!*
+			A third dropped. A fourth. The depot echoed with gunfire and screaming.
+			Three men made it back inside, slamming the door behind them. They were pale, shaking, drenched in rain and blood.
 
-		Warehouse Massacre
+			"What the FUCK?!"
+			"That's... that's not him." one of them whispered. "He doesn't use guns."
+			"Then who the fuck--"
+			"I don't know! I don't know!"
+			They scrambled for cover, overturning tables, grabbing whatever weapons they could find. The lights were still out. The radio was still playing.
+
+			"Every single day,
+			And every word you say,
+			Every game you play,
+			Every night you stay,
+			I'll be watching you."
+
+			*CRASH!*
+			The skylight shattered. A figure dropped through, landing in the centre of the room. Before anyone could react, the bullpup was raised, and two shots rang out.
+			The first man dropped. The second followed a heartbeat later.
+			The third - the skinny, young one - pressed himself against the wall, trembling, tears streaming down his face. His flashlight was still in his hand, and he aimed it at the figure.
+
+			She was tall. Lean. Dressed in black kevlar that hugged her frame like a second skin. Her face was obscured by a mask, but her eyes - her eyes were wrong. Black veins crawled from the sockets, pulsing faintly.
+			"Please..." he whispered. "Please don't kill me."
+			She tilted her head. Reloaded.
+			*CHK-CHK!*
+			"PLEASE!"
+			*BANG!*
+
+			It had been ten minutes now, and Chloe's arms were starting to ache. But she wasn't giving up. Not yet.
+			Connor threw a combination - jab, cross, gut punch. She blocked the first two, but the third caught her, sending her stumbling back.
+			"You okay?" he asked, concerned.
+			"Yeah, fine." she smiled. "That was faster than I was expecting."
+			"You're not hurt, are you?"
+			"It takes more than that, Mr. Barrett." she grinned.
+			He relaxed slightly, and stepped back, giving her space. "Remember - breathe."
+			She nodded, and they resumed. Chloe was more careful now, conserving her energy. She threw a jab, then a cross, then ducked under Connor's counter.
+			"Nice dodge!"
+			"I'm learning."
+			She threw a kick - a roundhouse aimed at his ribs. He caught it on his forearm, absorbing the impact.
+			"Okay, that was actually really good."
+			"'Actually?'" she raised an eyebrow, grinning.
+			"It was really good." he corrected. "Textbook. You've been practicing."
+			"Maybe a little." she blushed, pushing a strand of hair from her face.
+			He smiled. "I'm impressed. Seriously."
+			She ducked her head, suddenly shy. "Thanks."
+			They stood there for a moment, the silence comfortable. The punching bag creaked softly as it swayed.
+			"At this rate, you'll have to teach me ceilidh, won't you?" she quipped.
+			He cocked an eyebrow.
+			"You know... because we joked that you'd... teach me if I got better at sparring, so..." she awkwardly shrugged, fumbling with her hands.
+			Connor grinned, and pulled out his phone. A few swipes of his fingers, and a lively fiddle tune filled the room.
+			Chloe giggled shyly, and took his hand. He crept onto his tiptoes, and she copied.
+			"The basic step is like this - one, two, three, and turn. Got it?"
+			She tried to mimic him, stumbled, and laughed. "No."
+			"Here." he said, placing his hand on her waist to guide her. "Step, step, step, turn. Better?"
+			"I think so?"
+			They began to move together, slowly at first, then faster as she found the rhythm. The fiddle picked up tempo, and Connor spun her - she gasped, nearly fell, and he caught her, one arm around her waist.
+			They froze.
+			Her face was inches from his. Her breath was warm against his cheek. Their eyes locked, and they held for a moment.
+
+			Then, as if the gods themselves were playing tricks, the door swung open.
+			Amy stood in the doorway, a bag of takeaway in one hand, her keys in the other.
+			"Yo, meathead. Quit fucking around in here, I've got dinn--"
+			Her mouth opened, then closed, then opened again.
+			"Oh." she said. "Oh, I'm--I'll just..."
+			She backed out, pulling the door shut behind her.
+			"Fuck..." she muttered, walking away quickly. "Nice going, Amy."
+
+			Inside, Connor and Chloe had sprung apart like guilty teenagers.
+			"I should--I should probably go." Chloe said, her face bright red.
+			"You don't have to."
+			"No, I--it's late, and I've got work in the morning, and... I had a lot of fun." she smiled.
+			"Me too." he beamed. "Drive you?"
+			"There's a bus." she nodded. "I'll see you tomorrow night?"
+			"Yeah. Trey's jonesing for a pub crawl." Connor chuckled.
+			She stepped toward him, and they stood for a moment. Their throats were both flexing, as if they were *trying* to say something, but it got stuck somehow.
+			Instead, she went for a hug. He held her for a moment, before they pulled apart.
+			"Night, Connor."
+			"Night."
+			She slipped out the door, and turned out into the garage. "Night, Amy! See you tomorrow!"
+			"Oh, uh---night!" she called back.
+			Chloe bowed her head, and left.
+			At that, Amy stepped in.
+			"I am... so, so, *SO* fuckin' sorry."
+			Connor grinned, sitting down. "Don't be. It's fine."
+			"It's not. You two were having a moment, and I--"
+			"It wasn't a moment."
+			"You're hopeless." she snarked, sitting down with him. "If a girl looked at me the way she looked at you, my blood pressure would go so high I'd explode."
+			"Yeah, well, imagine having two hearts, and they *both* skip a beat. Or having both of your windpipes sieze up in awkwardness."
+			She laughed, then leaned back against the wall.
+			"You really like her, don't you?"
+			"I--" he went to deny. "Yeah."
+			He closed one eye, looking at her. "You're not going to give me shit about it?"
+			"I mean, I *would,* but... you got beaten up by a cyborg ogre the other night, so I'm going easy on you."
+			"Fuck yourself." he laughed heartily.
+
+			The young Skull howled in pain as he clutched his now-obliterated kneecaps. He was alive; despite his preferences in the moment.
+			"Who... who ARE you?!" he begged.
+			She paused, and looked at him, her bullpup aimed at his face.
+			Then she reached up, and pulled off her hood-mask.
+			Brown hair tumbled down, curling around her lightly-tanned face. The black veins spread across her cheeks like cracked porcelain. Her eyes - warmer than he'd expected - met his.
+			She smiled.
+			"Call me... She-Wolf. And... if you see my hunk of a man... tell him I said hi!"
+			She turned, and walked out. The radio kept playing, over the Skull's screams.
+
+			"Oh, can't you see,
+			You belong to me?
+			How my poor heart aches,
+			With every step you take?"
+
+		Ceilidh with Chloe/Warehouse Massacre, Part 2
 		______________________________
 		SCENE
 
@@ -21028,7 +21273,7 @@ VOLUME - Gods Among Men
 			Amy yawned as she waltzed into Riverside, unlocking the door.
 			Trey looked up from the car he was working on, and cheered.
 			"Yo. How come you're working so late?" she asked.
-			"Because I'm the only bastard here who isn't skiving off shifts to go save the world, or some shit." he snarked. "Nah, it's one of my dad's taxis, so I'm doing him a favour. Come, this way."
+			"Because I'm the only bastard here who isn't skiving off shifts to go save the world, or some shit." he snarked. "Nah, it's my dad's taxi, so I'm doing him a favour. Come, this way."
 			She cocked an eyebrow, as he led her down into the basement.
 			There, she saw Shannon tinkering away on a circuit board - specifically, one of the controllers for her suit. She saw Ivan cleaning Isabella. She saw Gwen at a workstation, sharpening some arrowheads. Sparky lay in his corner chewing a bone, while Connor was experimenting with his morphing powers.
 			"That's where I got the idea for a bow." Gwen grinned as he morphed his crossbows.
@@ -21607,12 +21852,10 @@ VOLUME - Gods Among Men
 		SCENE
 			Connor stretched as the plane landed in Drackhill Airport. He looked at himself in a mirror, and chuckled - he'd fully healed. He rubbed his ears, and felt them pop as they hit the ground. A small bit of blood leaked out - likely from the battle. He shuddered, wiped his ears, and walked out.
 			It was late night, now. He stepped out from the terminal into the arrivals lounge, and sighed.
-			He saw a cab waiting for him - "Morgan's Taxis." He smiled, and entered.
+			He saw a cab waiting for him He smiled, and entered.
 			"'Ello, mate!" Phil began. "I saw it was you we were picking up - thought I'd show me face."
-			Connor beamed. "Hey, Phil! Yeah, good to see you actually *driving* one of these rather than being sat in your office." he snarked.
-			Phil laughed heartily. "You know, I swear to God, Trey gets his smartarse tendencies from you."
-			"Nah, don't sell yourself short." Connor grinned. Phil chuckled, and they drove on.
-			"So, how'd it go? Trey tells me you were up in Scotland." Phil began.
+			Connor beamed. "Hey, Phil! Yeah, good to see you!"
+			"So, how'd it go? Trey tells me you were up in Scotland." Phil began, as they drove on.
 			"Y-Yeah, it went well." Connor shrugged. "We managed to secure some investors for the Community Centre refurb."
 			"They're rebuilding it, are they?" Phil asked, smiling warmly. "Good lad, then. What was your job?"
 			"Mainly, playing up how rough Redbridge youths have it." Connor grinned. "Gave them a good ol' sob story."
@@ -21992,7 +22235,7 @@ VOLUME - Gods Among Men
 			"That's what I thought." Naismith nodded. "But no... it's genuine."
 			"Right then." Tulloch shuffled. "And as I understand it, you have a CHIS who has been supplying you with intel on the Werewolf's activities?"
 			"Yes, sir." Naismith began. "I'm not at liberty to disclose the CHIS's identity, but he's provided me with good information."
-			"This isn't just another case. We're dealing with something unprecedented here. Whatever this 'Werewolf' is, he's not just a criminal. He's a symptom of something bigger. And we need to be ready." Ward said, her face grim. "We're not just here to investigate. We're here to put an end to something that could get out of hand very quickly. We're the first line of defence, and we will make sure it stays that way. I didn't take this position to sit behind a desk. I took it to make a difference. Let's do this right. No room for mistakes."
+			"This isn't just another case. We're dealing with something unprecedented here. Whatever this 'Werewolf' is, he's a symptom of something bigger. And we need to be ready." Ward said, her face grim. "Let's do this right. No room for mistakes."
 			With that, the officers stood and clicked their heels in respect. "Ma'am!" they all shouted. The officers exchanged a brief glance, their faces hardening. Ward's words hit home.
 			"I will be blunt." she continued. "You were all chosen to be assigned to this squad because your records indicate you stood up against institutional malpractice. Dorsey tried to have each of you reassigned, hoping you'd be silenced. Well, I'll take that bastard's words as a ringing endorsement of your integrity. If he didn't trust you, then I damn well do." At those words, the officers smiled proudly.
 			"But do not get complacant. This force has been corrupted from within. I will not - *not* - allow that to happen again. The Werewolf is merely one slice of the pie. We need to bring the whole case to the light."
@@ -23163,12 +23406,7 @@ VOLUME - Gods Among Men
 			"Yes. I'm certain - I checked myself. There's no record of me ever going into that lab." she smiled. Connor nodded, and relaxed slightly.
 			"Thank you for telling me this..." he smiled. It wasn't lost on him that she was being honest, while he was still lying.
 			"No, thank you... I just needed to get that off my chest." she said. "Now... we came here to spar, didn't we?" she grinned.
-			"Hah, that we did - I hope the Werewolf's sidekick won't kick my butt too hard." Connor quipped, causing her to chuckle.
-			"Before we do, I just... I'd better take these out." she began, removing her hearing aids and glasses. She put some contact lenses in.
-			"I can still hear, but things are muffled without them." she said, slightly louder than usual.
-			Connor nodded. "And can you see?" he asked, enunciating as clearly as he can.
-			"Yeah - I've got these soft contact lenses in. That way, my glasses won't break." she smiled. "Okay, let's dance."
-			The two begin sparring. Connor walked her through the basic moves, like blocks, strikes, kicks, grapples.
+			"Hah, that we did - I hope the Werewolf's sidekick won't kick my butt too hard." Connor quipped, causing her to chuckle. She popped her hearing aids out, and popped her contact lenses in.
 			"Hey... I was thinking, the thing that got me wanting to learn how to fight was the time I got grabbed outside my work. Can you show me what to do if someone's holding me like that?"
 			
 			Connor smiled, and grabbed a small wooden prop, which he used to represent a weapon. He got into position, weapon at her throat. For a second, she thought of the assault at her work... and then, of the Werewolf's acting. She banished both thoughts.
@@ -29026,7 +29264,7 @@ VOLUME - Age of Heroes
 			"I have your word, this will not leave us?"
 			Bevan sighed. "Show me."
 			Morozov summoned Chloe, and led both to another wing of the facility. Yellow barrels filled this room.
-			"Nerve gas. Chlorine. Sedatives. Irritants. Blood toxins. Cyanide."
+			"Nerve gas. Chlorine. Sedatives. Irritants. Blood toxins. Cyanide. Hallucinogens. Neocurare."
 			"Chemical weapons?!" Bevan gasped.
 			"Unconventional weapons for unconventional warfare." Morozov shrugged. "Mostly seized from Chechnya. That's our cover."
 			"You want to gas them? That'll kill our operatives, too!" Bevan said, disgusted.

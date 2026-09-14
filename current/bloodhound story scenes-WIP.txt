@@ -14,10 +14,10 @@ VOLUME - CODEX
 			References to real-life organisations, companies, agencies, or existing media, should never be taken as factual statements about those topics.
 			Satirical elements and social commentary are integral to the narrative and should not be interpreted as factual assertions by the author.
 
-			If you feel this novel has made damaging remarks about yourself or an organisation you represent, or that we have infringed on properties you hold the rights to, you can reach out via [https://bloodhoundbook.github.io/legal/].
+			If you feel this novel has made damaging remarks about yourself or an organisation you represent, or that we have infringed on properties you hold the rights to, you can reach out via [https://red-gekko.github.io/rcx/current/legal.html].
 
 			This story contains discussion and depiction of topics and themes some viewers may, and indeed should, find disturbing. These include, but are not limited to: abuse, racial violence, sexual assault, bigotry, mistreatment of children, and more.
-			A full trigger warning is available at [https://bloodhoundbook.github.io/content-warning/].
+			A full trigger warning is available at [https://red-gekko.github.io/rcx/current/contentwarning.html].
 
 			No animals were harmed in the making of this novel. A couple of fascists, however...
 
@@ -277,7 +277,7 @@ VOLUME - Wolves Among Sheep
 			"Nearly." Connor said absently, as he focused. He fiddled with his device, and then - a loud beep.
 			"Try it now." he said. Trey grinned, and re-attached the jumper leads to the car's battery.
 			Connor turned the keys into the ignition, and a smooth start preceded a sigh of relief.
-			"The official Soviet government based in Leningrad condemned the attacks, calling them 'Typical of the rebel forces.' The UNHCR has warned that the situation in southern Tambov may already meet the legal definition of ethnic cleansing, and has requested that all parties to the conflict engage in dialogue to prevent harm to civilian life in the region. The Foreign Secretary, Christopher Bonneville, has called these claims 'baseless,' and says the United Kingdom will continue to provide military aid to the..."
+			"The official Soviet government based in Leningrad condemned the attacks, calling them 'Typical of the rebel forces.' The UNHCR has warned that the situation in southern Tambov may already meet the legal definition of ethnic cleansing, and has requested that all parties to the conflict engage in dialogue to prevent harm to civilian life in the region. The Foreign Secretary, Christopher Bonneville, has called these claims 'baseless,' stating that he has received no evidence of the use of chemical weapons, and says the United Kingdom will continue to provide military aid to the..."
 			The newscaster continued to report on the Eurasian Wars in the background, this time free of glitch and garble.
 			Connor cleared his throat. "There you go, Ms. Carrister - the radio should be sorted now."
 			"If you have any problems miss, please don't hesitate to call us back." Trey added.
@@ -20264,7 +20264,7 @@ VOLUME - Gods Among Men
 			"One more thing." Ward began. "It has not escaped my attention that you both have impressive service records - particularly, Constable, given your relative lack of time here. Therefore, I will contact Chief Tulloch to make it official, but in the time being, I am hereby granting you both promotions. PC Chowdhury, I am hereby making you an acting Police Sergeant. DI Naismith, I am hereby making you an acting DCI."
 			"I... Thank you, Ma'am! I won't let you down!" Nina replied, her face alight with pride.
 			"Thank you, Ma'am. I... I really appreciate it. We will not fail." Naismith said, surprised and pleased that an executive was finally recognising him.
-			She sighed. "And lastly... Desperate times call for desperate measures, so in my capacity as commissioner of the Drackhill Valley Police Force, I have been in contact with the home office. We have agreed to restore order by having patrol officers seconded from neighbouring forces to fill in our gaps, but more importantly... we have been authorised to form a new, special task force. Tactical Operations team 24 - TO-24. DCI Naismith, I am hereby assigning command of this unit to you. Given the previous... institutional concerns... I have decided that TO-28 will report directly to me."
+			She sighed. "And lastly... Desperate times call for desperate measures, so in my capacity as commissioner of the Drackhill Valley Police Force, I have been in contact with the home office. We have agreed to restore order by having patrol officers seconded from neighbouring forces to fill in our gaps, but more importantly... we have been authorised to form a new, special task force. Tactical Operations team 24 - TO-24. DCI Naismith, I am hereby assigning command of this unit to you. Given the previous... institutional concerns... I have decided that TO-24 will report the progress of its investigations directly to me."
 			"Thank you, Ma'am." Naismith said graciously. "We won't let you down."
 			"Godspeed, officers." Ward smiled.
 			With that, the two officers clicked their heels in salute, and left.
@@ -21510,7 +21510,7 @@ VOLUME - Gods Among Men
 			Amy dived in, wrapping her in a tackle. She sent volt after volt into their brainwashed friend, before releasing the grip.
 			Gwen stumbled forward, and Sparky pounced again. He pinned her down, as she jabbed him in the side with her fists.
 			"Stop! You don't want to do this!" he barked.
-			"Amy..." Ivan began unsurely. "Sparky can take it - shock them both."
+			"Stunlocke..." Ivan began unsurely. "They can take it - shock them both."
 			"No! I can't just do that!"
 			"You don't have a choice."
 			Sparky tried to hold her down, but each strike felt like it hit him three times. He was fast running out of options.
@@ -22582,7 +22582,7 @@ VOLUME - Gods Among Men
 			"Before Kruglov? Not even an iota. After?" Ivan sighed heavily. "It hurts to say it, but we were acting like Capitalists under him. Not that Zamaldayev was a better man, but... that's not good enough."
 			Connor smiled softly. Ivan took a deep breath, and continued.
 			"I've told you a little about my run-in with him."
-			"The battle of Grozny?" Connor tilted head.
+			"The battle of Grozny?" Connor tilted his head.
 			"That's the one. We managed to evacuate most Soviet Loyalists that day, but we lost the SFSR. We had to retreat to the Georgian SSR, and regroup. That's when I joined the KGB."
 			"How have things been in Chechnya since then?"
 			"There's a Turkic group called the Kumyks who live here - they and ethnic Russians make up the vast majority of non-Chechens here. Zamaldayev has taken to ethnically cleansing them. Currently, he's personally overseeing massacres."
@@ -22864,7 +22864,7 @@ VOLUME - Gods Among Men
 			"Well, I guess I'll have to entertain myself." Bea grinned.
 			"Oh, by the way." Chloe began, hiding a smirk. "I've always wondered why the river is called 'Calder.'"
 			"Oh, I'm glad you asked!" Connor chuckled. "The name comes from the Brythonic 'Caled Dwr,' meaning 'Hard water.' It refers to the high mineral content of the water, a result of both the overall minerals of the valley, and the water source being the lake at the peak of Wyrmrock. Despite most places here having Saxon-style names ever since the 9th century, rivers tend to keep their original Celti---"
-			"NERRRRD!" the others roared, giggling widly. Connor rolled his eyes and laughed.
+			"NERRRRD!" the others roared, giggling wildly. Connor rolled his eyes and laughed.
 			"I'm so sorry. They begged me to." Chloe grinned, kissing his cheek.
 			He smirked, and kissed her back.
 
@@ -24906,7 +24906,7 @@ VOLUME - Gods Among Men
 			"That should give you the boost you need. Your metabolism's high, so the lactic acid build-up from anaerobic respiration will make things worse if I don't keep the blood oxygenated." she said, trying to reassure herself. She took a look at the hole in his chest.
 			She could see his cells trying to repair the tissue. But if his metabolic system couldn't keep up with the damage, he was going to crash.
 			She poked her head out the door. "I need an IV drip, and a load of food paste." she said. Ivan nodded, and before long, the required material was delivered.
-			He eyes darted over an EEG monitor.
+			Her eyes darted over an EEG monitor.
 			His brain was running, but anaerobic respiration was far from perfect. Only the amygdala was actually running.
 			It was like his body didn't know how to give up.
 			"Heh... You're just as stubborn as ever." she chuckled grimly. "Brainwaves are minimal, but consistent. If I can get enough oxygen in your system for your brain to wake up a little more, it'll be able to start directing your healing again, and we'll have a virtuous cycle there... *If* I can handle the oxygen."
@@ -25482,7 +25482,7 @@ VOLUME - Gods Among Men
 			The younger man chuckled nervously. "S-Sorry, Vince. Honest mistake." he stuttered.
 			Vince smiled warmly. "You owe me half your pudding tonight, lad." he chuckled. The man laughed, as did the other inmates.
 			"Alright, penalties?"
-			"Does basketball even have penalties?" another inmante asked.
+			"Does basketball even have penalties?" another inmate asked.
 			"It does now!" Vince chuckled.
 			As Vince went to launch the ball, Stoker appeared behind him, gripping the shiv.
 
@@ -27487,7 +27487,7 @@ VOLUME - Age of Heroes
 			WAKE UP.
 			He saw glimpses. Flashes.
 			The first hit him like a truck. His blade swinging down on Junior's neck, taking off his head.
-			The second was more subdued. His hands shaking the Super-Agent assassin in the toilets of the Singing Horse, many months ago. He felt as the neck snapped in his palms.
+			The second was more subdued. His hands shaking the Super-Agent assassin in the alleys outside the Singing Horse, many months ago. He felt as the neck snapped in his palms.
 
 			WAKE UP.
 			The voice was ethereal.
@@ -27507,7 +27507,8 @@ VOLUME - Age of Heroes
 			No, not him. It was through Sparky's eyes.
 			He saw that bastard Commandant killing young wolves, while he--no, Sparky--was chained down.
 			The mind-merge they shared. It roared on, like a telepathic storm.
-			He saw the moment he punched a Skull in the chin, detonating the skull like a shotgun blast.
+			He saw the moment he punched Tomlinson in the chin, detonating the skull like a shotgun blast.
+			He saw Steve's heart punctuated by his bullet; and Eileen's heart break.
 
 			WAKE UP.
 			He rose up from the ground. He spotted a trio of men, standing over Shannon. She'd been zip-tied, and pistol-whipped.
@@ -27692,14 +27693,14 @@ VOLUME - Age of Heroes
 			The phone let out a winding diatribe of noise. The morning sun was now peeking over the horizon again. Despite it all, the day rolled on as normal. Bevan took a deep breath of the fresh, cold air, standing outside the back of the laboratory complex.
 			"No, that is not at all an option! Sending in the army to resolve a situation like that would only mean far more deaths. These things are fast, strong, and tough. We need to fight fire with fire. Hence, the Werewolf option."
 			More noise came out from the phone.
-			"I can't attend the COBRA meeting, no. I'm busy trying to ensure our one weapon in this war doens't have a psychotic break from stress, funnily enough. Speaking of... the matter of releasing his uncle."
+			"I can't attend the COBRA meeting, no. I'm busy trying to ensure our one weapon in this war doesn't have a psychotic break from stress, funnily enough. Speaking of... the matter of releasing his uncle."
 			Louder noise.
 			"I don't care if the contract was completed or not! As I said at the time, revenge ops never go cleanly. Thank God he was able to fight the beast! Now, he's just been through something that would give *me* PTSD, and we both know my history. He's going to need all the comforts he can get, and that includes his uncle."
 			More, even louder noise.
 			"Oh, an excellent plan. And when he snaps, breaks his uncle out anyway, and refuses to trust us ever again, then what?!"
 			Quieter noise. A pause. More, quiet noise.
 			"I'm glad you understand, Mr. Prime Minister. Good day." Bevan spat, hanging up.
-			"Bloody idot." he muttered.
+			"Bloody idiot." he muttered.
 			Connor chuckled, revealing himself.
 			"I didn't vote for him, by the way." Bevan snarked. "Morning, Mr. Barrett. Good to see you up and about."
 			"Couldn't sleep." Connor shrugged.
@@ -27926,7 +27927,7 @@ VOLUME - Age of Heroes
 			Trey morphed too, showing his face.
 			"A bit bruised, but you'll be fine." Connor shrugged. "Fuckin' pricks."
 			"You went a bit off the rails there, yourself." Trey noted.
-			"Yeah..." Connor sighed, looking away. "Same thing happened to me, early on. I lost it, beat the guy who shot me to death. Surprised you didn't go the same way, is all."
+			"Yeah..." Connor sighed, looking away. "Same thing happened to me, early on. I lost it, beat the guy who shot me to near-death, turned his jaw to mush. Surprised you didn't go the same way, is all."
 			Trey shrugged. "You said before that when you got your powers, they tortured you. Could it be that?"
 			"Could be." Connor shuddered. "Did you get any urges, though?"
 			"I was gonna mention..." Trey began. "There was this one thing, in the back of my head. I don't know... it felt like a pressure."
@@ -28932,7 +28933,7 @@ VOLUME - Age of Heroes
 			"I trusted you, Ivan. I trusted you, and you let me down!"
 			Ivan looked away, ashamed.
 			Connor sighed. "What is this place, exactly?"
-			"Officially, it's a decomissioning site for chemical weapons seized from rebel forces." Ivan began. "Unoffically, it's where we experiment on superhumans."
+			"Officially, it's a decomissioning site for chemical weapons seized from rebel forces." Ivan began. "Unofficially, it's where we experiment on superhumans."
 			"It reminds me of where I grew up." Sparky noted. "Are there any animals here?"
 			Ivan shook his head.
 			"No, volchonok. I promise, we're not doing anything like what happened to you."

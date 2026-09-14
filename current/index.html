@@ -477,6 +477,17 @@
             border-color: #58a6ff;
         }
 
+        .reader-source-controls .clear-story-btn {
+            border-color: #6e2a2a;
+            color: #f0a0a0;
+        }
+
+        .reader-source-controls .clear-story-btn:hover {
+            background-color: #3a1c1c;
+            border-color: #f85149;
+            color: #ffb3b3;
+        }
+
         .content-area {
             padding: 8px 0 4px 0;
             min-height: 320px;
@@ -866,7 +877,7 @@
         <div class="scene-nav-row">
             <button id="scene-prev-btn-bottom" disabled title="Previous scene">◀ Previous Scene</button>
             <span class="nav-spacer" id="scene-nav-spacer-bottom">—</span>
-            <button id="scene-next-btn-bottom" disabled title="Next scene">Next Scene ▶</button>
+            <button id="scene-next-btn-bottom" disabled title="Next scene">▶ Next Scene</button>
         </div>
 
         <div class="reader-source-controls">
@@ -875,6 +886,9 @@
             </button>
             <button class="server-source-btn" id="server-source-btn" title="Clear the current story and fetch the latest version from the server">
                 🔄 Reload from Server
+            </button>
+            <button class="clear-story-btn" id="clear-story-btn" title="Unload the current story without touching your saved reading position or preferences">
+                🧹 Clear Loaded Story
             </button>
         </div>
 
@@ -941,6 +955,7 @@
             const sceneNavSpacerBottom = document.getElementById('scene-nav-spacer-bottom');
             const uploadSourceBtn = document.getElementById('upload-source-btn');
             const serverSourceBtn = document.getElementById('server-source-btn');
+            const clearStoryBtn = document.getElementById('clear-story-btn');
 
             let availableVoices = [];
             let chunks = [];
@@ -1477,7 +1492,8 @@
                     <h3>📂 Story Source</h3>
                     <ul>
                         <li><strong>Load from Computer</strong> — Clear the currently loaded story and switch this session to manual upload mode. It will not try the server again unless you explicitly choose Reload from Server.</li>
-                        <li><strong>Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache.</li>
+                        <li><strong>Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache. If the server cannot be reached, this will <em>not</em> silently fall back to a cached copy — you will be prompted to load the story manually instead. (The cache is still used silently on first page load, when the reader is just trying to show you something.)</li>
+                        <li><strong>Clear Loaded Story</strong> — Unload the current story from the reader without touching your saved reading position, narration preferences, or offline cache. Use this if you want to stop reading entirely without losing your place. The confirmation warning appears only if a story is currently loaded.</li>
                     </ul>
 
                     <h3>💾 Reader Convenience</h3>
@@ -1486,7 +1502,7 @@
                         <li><strong>Persistent narration settings</strong> — Narration speed, voice choice, and Autoplay are remembered between visits.</li>
                         <li><strong>⛶ Focus Mode</strong> — Hides the surrounding controls and attempts to enter fullscreen for a cleaner reading view. Press <code>Esc</code> to leave fullscreen.</li>
                         <li><strong>Unsaved-progress warning</strong> — Replacing a loaded story asks for confirmation so you don't accidentally wipe out your current reading session.</li>
-                        <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser. If the server cannot be reached later, the reader will use that cached copy before falling back to manual upload.</li>
+                        <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser. If the server cannot be reached on first page load, the reader will use that cached copy before falling back to manual upload.</li>
                         <li><strong>Clear Saved Progress</strong> — Removes the remembered reading position. Your story cache and narration settings are unaffected.</li>
                     </ul>
 
@@ -2453,6 +2469,18 @@
                     });
                 });
 
+                // Parser-created IDs must be stable across page loads. Reading
+                // progress stores these values, so Date.now()/random IDs make a
+                // saved position look absent after every reload.
+                volumes.forEach((volume, volumeIndex) => {
+                    volume.episodes.forEach((episode, episodeIndex) => {
+                        episode.id = `episode-${volumeIndex}-${episodeIndex}`;
+                        episode.scenes.forEach((scene, sceneIndex) => {
+                            scene.id = `scene-${volumeIndex}-${episodeIndex}-${sceneIndex}`;
+                        });
+                    });
+                });
+
                 logDebug(`=== Parse Complete ===`);
                 logDebug(`Found ${volumes.length} volumes`);
                 volumes.forEach((v, vi) => {
@@ -2474,11 +2502,33 @@
                 let targetEpisode = targetVolume.episodes[0];
                 let targetScene = targetEpisode && targetEpisode.scenes[0];
                 const resume = pendingResumeProgress;
+                let restoredResume = false;
                 if (resume) {
                     const rv = storyData.volumes.find(v => v.name === resume.volume);
-                    const re = rv && rv.episodes.find(e => e.id === resume.episode);
-                    const rs = re && re.scenes.find(sc => sc.id === resume.scene);
-                    if (rv && re && rs) { targetVolume = rv; targetEpisode = re; targetScene = rs; }
+                    // IDs are stable for newly saved progress. The name fallback
+                    // also restores progress saved by older builds, whose IDs
+                    // were random, before saving it again with stable IDs.
+                    let re = rv && rv.episodes.find(e => e.id === resume.episode);
+                    let rs = re && re.scenes.find(sc => sc.id === resume.scene);
+                    if (rv && !rs && resume.sceneName) {
+                        for (const episode of rv.episodes) {
+                            const scene = episode.scenes.find(sc => sc.name === resume.sceneName);
+                            if (scene) {
+                                re = episode;
+                                rs = scene;
+                                break;
+                            }
+                        }
+                    }
+                    if (rv && re && rs) {
+                        targetVolume = rv;
+                        targetEpisode = re;
+                        targetScene = rs;
+                        restoredResume = true;
+                        logDebug(`Restoring saved position instead of defaulting to first scene: ${rv.name} → ${re.name} → ${rs.name}`);
+                    } else {
+                        logDebug('Saved reading position no longer exists in this story; falling back to the first available scene.');
+                    }
                 }
                 if (!targetVolume || !targetEpisode || !targetScene) return;
                 cascadingSelectChange = true;
@@ -2488,7 +2538,7 @@
                 populateSelect(sceneSelect, targetEpisode.scenes.map((sc, i) => ({ id:sc.id, label:`${i + 1} - ${sc.name}` })), '— Select Scene —');
                 sceneSelect.disabled = false; sceneSelect.value = targetScene.id;
                 cascadingSelectChange = false;
-                const wasResumed = !!resume && targetScene.id === resume.scene;
+                const wasResumed = restoredResume;
                 pendingResumeProgress = null;
                 displaySelectedScene(autoplayEnabled);
                 if (wasResumed) showResumeBanner(resume);
@@ -2761,8 +2811,19 @@
                     const parsed = parseStory(text);
                     storyData = parsed;
                     currentStoryFingerprint = makeStoryFingerprint(text);
+                    // A saved reading position takes priority over the normal
+                    // first-volume/first-episode/first-scene defaults.  The saved
+                    // fingerprint is retained for diagnostics, but we deliberately
+                    // validate the saved Volume/Episode/Scene against the newly
+                    // loaded story below instead of discarding it merely because
+                    // the story file has changed (for example, after an update).
                     pendingResumeProgress = getSavedProgress();
-                    if (!pendingResumeProgress || pendingResumeProgress.fingerprint !== currentStoryFingerprint) pendingResumeProgress = null;
+                    if (pendingResumeProgress) {
+                        logDebug(`Saved reading position found: ${pendingResumeProgress.volume} → ${pendingResumeProgress.episode} → ${pendingResumeProgress.scene}`);
+                        if (pendingResumeProgress.fingerprint && pendingResumeProgress.fingerprint !== currentStoryFingerprint) {
+                            logDebug('Story fingerprint differs from saved progress; attempting to restore the saved location anyway.');
+                        }
+                    }
 
                     if (!storyData.volumes || storyData.volumes.length === 0) {
                         throw new Error('No volumes found in the file.');
@@ -2828,7 +2889,15 @@
                 reader.readAsText(file);
             });
 
-            function loadStoryFromServer() {
+            // Load the story from the server.
+            //
+            // `explicit` distinguishes a user-initiated "Reload from Server"
+            // (which is often used precisely to check whether the file server
+            // is reachable) from the automatic fetch on first page load. When
+            // explicit, a failed fetch must NOT silently fall back to the
+            // offline story cache — that would mask a server outage and make
+            // the reload button untrustworthy as a health check.
+            function loadStoryFromServer(explicit) {
                 if (!confirmStoryReplacement('Reloading from the server')) return;
                 if (serverFetchDisabled) {
                     logDebug('Server fetch explicitly requested — switching back to server mode.');
@@ -2839,7 +2908,7 @@
                 const requestId = loadRequestId;
 
                 setStatus('Loading latest story file from server...');
-                logDebug(`=== Fetching latest file: ${STORY_FILE} ===`);
+                logDebug(`=== Fetching latest file: ${STORY_FILE}${explicit ? ' (user-requested reload)' : ''} ===`);
 
                 // Cache-busting plus no-store ensures this is a fresh server request
                 // rather than an old browser-cached copy.
@@ -2875,16 +2944,23 @@
 
                         console.warn('Fetch failed, showing file picker:', error.message);
                         logDebug(`Fetch failed: ${error.message}`);
-                        logDebug('→ Revealing file-picker fallback.');
 
-                        const cached = getCachedStory();
-                        if (cached) {
-                            currentStorySource = cached.source || 'offline-cache';
-                            const cacheDate = new Date(cached.savedAt).toLocaleString();
-                            setStatus(`⚠️ Server unavailable — using cached story from ${cacheDate}.`);
-                            logDebug(`→ Offline fallback: cached story from ${cacheDate}.`);
-                            loadStoryFromText(cached.text, requestId);
-                            return;
+                        // Only use the offline cache on the automatic, page-load
+                        // fetch. An explicit reload that fails must surface the
+                        // failure so the user can tell the server is unreachable.
+                        if (!explicit) {
+                            const cached = getCachedStory();
+                            if (cached) {
+                                currentStorySource = cached.source || 'offline-cache';
+                                const cacheDate = new Date(cached.savedAt).toLocaleString();
+                                setStatus(`⚠️ Server unavailable — using cached story from ${cacheDate}.`);
+                                logDebug(`→ Offline fallback: cached story from ${cacheDate}.`);
+                                loadStoryFromText(cached.text, requestId);
+                                return;
+                            }
+                            logDebug('→ No offline cache available — revealing file-picker fallback.');
+                        } else {
+                            logDebug('→ Explicit reload failed; skipping offline cache fallback.');
                         }
 
                         fileLoadArea.classList.add('visible');
@@ -2902,11 +2978,35 @@
                     });
             }
 
-            uploadSourceBtn.addEventListener('click', openFilePicker);
-            serverSourceBtn.addEventListener('click', loadStoryFromServer);
+            // Unload the current story without touching any persisted state
+            // (saved reading position, preferences, or the offline story cache).
+            // Uses the same replacement-confirmation pattern as the other two
+            // source buttons, and only prompts when a story is actually loaded.
+            function clearLoadedStory() {
+                if (!hasActiveReadingProgress()) {
+                    logDebug('Clear Loaded Story: nothing to clear — no active story.');
+                    setStatus('No story is currently loaded.');
+                    return;
+                }
+                if (!confirmStoryReplacement('Clearing the loaded story')) return;
 
-            // Default behaviour remains: try the server first, then fall back to upload.
-            loadStoryFromServer();
+                clearActiveStory('No story loaded. Use “Load from Computer” or “Reload from Server” to begin.');
+                setStatus('Loaded story cleared. Saved reading position preserved.');
+
+                // Restore the visible file-load prompt so the user has a clear
+                // path back to loading content.
+                fileLoadArea.classList.add('visible');
+            }
+
+            uploadSourceBtn.addEventListener('click', openFilePicker);
+            serverSourceBtn.addEventListener('click', function() { loadStoryFromServer(true); });
+            clearStoryBtn.addEventListener('click', clearLoadedStory);
+
+            // Default behaviour remains: try the server first on page load.
+            // If that fails and an offline cache exists, silently use it (the
+            // user did not ask for a server check, so this is helpful rather
+            // than misleading). Only an explicit reload surfaces the failure.
+            loadStoryFromServer(false);
 
         })();
     </script>

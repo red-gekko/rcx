@@ -2388,13 +2388,13 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			It would have been some time in autumn 2007. Connor was ten years old, going-on-11. He was running through the fields, and a small grey Staffy ran by his heels.
-			"Come on, Stella!" Connor cheered. Stella barked back happily.
+			"Come on, Luna!" Connor cheered. Luna barked back happily.
 			The two leapt over a stream, and continued sprinting.
 			Then, Connor was an adult again, in a kevlar bodysuit, running, with a great black wolf at his side.
 			"WE'RE GETTING OUT OF HERE!" Connor roared to the wolf.
 			"THEY'RE GAINING ON US!" the wolf shouted back, in perfect English.
-			A group of men were chasing them. Connor looked around, confused, before he found himself back with Stella all those years ago.
-			"Stella?"
+			A group of men were chasing them. Connor looked around, confused, before he found himself back with Luna all those years ago.
+			"Luna?"
 			She tilted her head at Connor, wagging her little tail at him.
 			Connor looked around, bewildered, and he shifted back again.
 			The men chasing him had caught up. They launched bolas at Connor and the wolf, knocking both down.
@@ -2909,6 +2909,8 @@ VOLUME - Wolves Among Sheep
 			Ivan chuckled in shock. "You *can?*"
 			"Yeah. He can communicate with me, I think. I don't know..." Connor shook his head.
 			"Or... you're just fucking *yebanuty,* tovarishch." Ivan laughed incredulously.
+			"You came back from the dead, met a bloke who can shrug off bullets and change clothes into armour - but a talking dog is too much for you?" Connor smirked back.
+			"Haha! Fair point, tovarishch. Just... just trying to wrap my head around all of this khernya."
 			Connor paused for a moment, before an idea struck. "Okay." he began, handing Ivan a pen and paper. "Draw a sequence of random shapes, show it to him, and he'll tell me what you drew."
 			Ivan chuckled, and did so. Connor covered his eyes. The wolf squinted at the paper.
 			"Okay... there's a circle, then a square, then a triangle." he relayed.
@@ -3109,7 +3111,7 @@ VOLUME - Wolves Among Sheep
 			"I know, but can I have some of yours?"
 			"No, Sparky. You've had food - this is mine."
 			"Oh, okay." he said, faux-depressed.
-			Connor chuckled fondly. "My old dog, Stella - she stole my food right out of my lap once. So at least the wolf is more tame."
+			Connor chuckled fondly. "My old dog, Luna - she stole my food right out of my lap once. So at least the wolf is more tame."
 			Sparky grinned. "My mum would nip me on the scruff as a pup if I tried to eat her food. She taught me to eat my own, and not to steal."
 			Connor smiled warmly. "She taught you well."
 			"Exactly. I'm being really good right now."
@@ -3176,7 +3178,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			It was like another world.
-			Connor and Sparky were rushing through fields together. Sparky leapt into the air and caught a tennis ball. Connor laughed, and cheered. Stella, his old, long-dead Staffy, was rushing around with them, as though she was a puppy again. Vince, Amy, and Trey all stood nearby, cheering. A number of young wolves revealed themselves from the long grass, playing with each other. Sparky's adoptive mother - a brown mutt - plodded over, and licked him warmly.
+			Connor and Sparky were rushing through fields together. Sparky leapt into the air and caught a tennis ball. Connor laughed, and cheered. Luna, his old, long-dead Staffy, was rushing around with them, as though she was a puppy again. Vince, Amy, and Trey all stood nearby, cheering. A number of young wolves revealed themselves from the long grass, playing with each other. Sparky's adoptive mother - a brown mutt - plodded over, and licked him warmly.
 			Then, a horrid crashing noise pierced their minds, which rapidly turned into a gentle fumbling. Connor opened his eyes, and through his super-vision saw Amy struggling with the lock, still drunk. It was the early hours of the morning.
 			Sparky shot up, confused.
 			"Who's that?" he asked, trembling.
@@ -3186,11 +3188,11 @@ VOLUME - Wolves Among Sheep
 			He heard furthre fumbling, and grinned.
 			"That is, whenever she manages to open that door."
 			"I had a good dream." Sparky smiled warmly.
-			"Hah, me too! Me and you were rushing through some fields together. My old dog Stella was there--"
+			"Hah, me too! Me and you were rushing through some fields together. My old dog Luna was there--"
 			"--and so were some other humans, too! And my mum!" Sparky finished.
 			Connor pulled his head back. "You... Did we have the exact same dream?"
 			"Is that not normal?" Sparky asked.
-			"Not to my knowledge. Though I must say, Stella couldn't tell me." Connor grinned, before pausing. "When I stroked your head in the labs, I saw some flashes... That must be why I can understand you, too. Some kind of... I dunno, telepathy? That's why we shared a dream - we were touching in our sleep. That's why your siblings were there - they came from your memories, while Stella and the others came from mine."
+			"Not to my knowledge. Though I must say, Luna couldn't tell me." Connor grinned, before pausing. "When I stroked your head in the labs, I saw some flashes... That must be why I can understand you, too. Some kind of... I dunno, telepathy? That's why we shared a dream - we were touching in our sleep. That's why your siblings were there - they came from your memories, while Luna and the others came from mine."
 			"Me and 217 had the same thing." Sparky nodded. "Whenever we were curled up together, we would have the same dream."
 			Connor stroked his chin, deep in thought. His pondering was interrupted by an excitable yip.
 			"I've never been to a field like that before! I guess it must have come from your memories."
@@ -3279,7 +3281,7 @@ VOLUME - Wolves Among Sheep
 			"Oh... I don't know... they used to put things on me that hurt me when I was bad..." Sparky said, his ears and tail flopping down.
 			"Oh no, no shock collars! Just a regular collar so no one thinks you're a wild wolf - I promise, I'll let you off lead as soon as we're at the park!"
 			"Oooh, okay good! I'm ready!" Sparky said, his cheerful demeanour returning.
-			"Just one thing - and this is very important. My old dog Stella's recall was awful - if I let you off lead, you have to come back to me when I call you, okay? I promise I'll only call you back if it's for the best."
+			"Just one thing - and this is very important. Luna's recall was awful - if I let you off lead, you have to come back to me when I call you, okay? I promise I'll only call you back if it's for the best."
 			"Okay, that's okay!" Sparky replied, clearly happy to be given any freedom at all.
 			"And remember." Connor began. "I know you're... well, you're probably used to other people being bad to you. But don't worry - there is no one bad at this place, and if anyone bad arrives, I will tell you."
 			"Got it." Sparky smiled. "Don't maul random people."
@@ -3336,9 +3338,9 @@ VOLUME - Wolves Among Sheep
 			"Oh, okay! I thought I was in trouble!"
 			"Oh no, you're not in trouble!" Connor beamed. "Good boy for coming back there."
 			"You're really good with him, Connor. I'm impressed." Chloe smiled. She paused, watching them, a soft warmth in her eyes. 
-			"I have a dog at home, Luna. She's not as big as Sparky, but I remember how protective she was over me. She used to bark at every delivery guy. You'd think they were coming to rob us or something."
+			"I have a dog at home - Molly. She's not as big as Sparky, but I remember how protective she was over me. She used to bark at every delivery guy. You'd think they were coming to rob us or something."
 			She smiled at the memory, a soft chuckle escaping her. "I guess I always liked that about dogs. They have this loyalty that's kind of... magical."
-			"Hah, too right. My old staffy, Stella - she was a real one. One time, I remember she-"
+			"Hah, too right. My old staffy, Luna - she was a real one. One time, I remember she-"
 			As he said this, a dachshund came running over to Sparky, barking and snarling. Connor ran over.
 			"Sparky, it's okay. Hey, can you get your dog please?" he said to the owner.
 			"It's fine, he's only little!" the owner replied, carelessly.
@@ -8743,7 +8745,7 @@ VOLUME - Wolves Among Sheep
 			"Hmm... yeah, not bad. " he shrugged.
 			She laughed. "He's so good."
 			"Sure is." Connor chuckled, endeared. "It's nice, seeing yous two get on so well."
-			"Yeah, well if you remember, *I* was always Stella's favourite." she grinned.
+			"Yeah, well if you remember, *I* was always Luna's favourite." she grinned.
 			He laughed heartily, as did she.
 			"You know..." she began. "Ever since getting him, I've noticed you've been doing better and all."
 			Connor smiled. "Yeah, well... perfect excuse to get out of the house, isn't he?"
@@ -11197,8 +11199,8 @@ VOLUME - Wolves Among Sheep
 			Bea nervously scratched her shoulders. "Sorry, I--I didn't mean to pry, there."
 			"It's fine." Connor shrugged, smiling. "One thing we Irish love is lamenting the atrocities heaped upon us. Go ahead, ask me about the Famine next - we've got a couple hours." he said, grinning.
 			"Ah, sure Jesus, you mean 'the Great Starving,' don't yous?" Trey cut in.
-			"Aye, I feckin' do." Connor snarked back. "English bastards. Comin' over here, taking our food..."
-			Bea chuckled, relieved.
+			"Aye, I feckin' do." Connor snarked back. "Okay, so, most people think it was all down to the potato blight, right? Wrong. See, in the 19th century, there was this absentee landlord system imposed by the British..."
+			Bea chuckled in relief as the infodump continued.
 
 			Later on, the group gathered outside, around a small firepit. Trey was smoking the joint Amy had brought - a second present, of sorts.
 			"So, Chlo." he began. "You wanted to give this a go?"
@@ -16043,15 +16045,15 @@ VOLUME - Wolves Among Sheep
 			"I don't like this place. Chloe's sad here." Sparky whimpered.
 			"I know..." Connor replied, stroking Sparky's ear. "But she'll be okay. She'll be back down with us soon."
 			"I've never seen a 'royal' pack before." he shrugged. "But she's not one of them. She's one of us."
-			Connor smiled, and the two headed downstairs. There, Chloe was entering the house with a border collie.
-			"This is Luna, she's our dog... say hi, Luna!" Chloe smiled. Luna approached Sparky, who was easily thrice her size if not more, with a certain timidity. Sparky assumed a play stance.
-			"Hi! I'm Sparky! Do you want to be my friend?" he asked. Luna barked happily.
+			Connor smiled, and the two headed downstairs. There, Chloe was entering the house with a cocker spaniel.
+			"This is Molly, she's our dog... say hi, Molly!" Chloe smiled. Molly approached Sparky, who was easily thrice her size if not more, with a certain timidity. Sparky assumed a play stance.
+			"Hi! I'm Sparky! Do you want to be my friend?" he asked. Molly barked happily.
 			"Aww, they're talking!" Chloe beamed.
 			"Hahah - what's she saying, buddy?" Connor asked, playing it off like he was joking.
 			"She's not using words - I think she's happy though!" Sparky replied, apparently unable to speak Dog the way he spoke English.
 			The two canines headed out into the garden and began to play-chase each other. Sparky avoided using his superhuman--uh, *supercanine* speed to make it fair.
 			Connor and Chloe looked out, smiling.
-			The two stood by the window for a while, watching Luna dart between the hedges with Sparky lumbering after her.
+			The two stood by the window for a while, watching Molly dart between the hedges with Sparky lumbering after her.
 			Connor smiled. "You know... I still can't quite get over all this."
 			"The house?" Chloe asked.
 			"The house. The family. The whole 'I share mitochondria with queen Victoria' thing." he laughed softly.
@@ -16847,7 +16849,7 @@ VOLUME - Gods Among Men
 			Connor glared at him, then burst into laughter, before turning it into an awkward cough and returning to the car.
 
 			"All sorted?" Trey asked, stretching and yawning.
-			"Yeah, all good." Connor grinned. "Hey, at least this dog actually tells me when they need toilet. Stella would just piss on your lap."
+			"Yeah, all good." Connor grinned. "Hey, at least this dog actually tells me when they need toilet. Luna would just piss on your lap."
 			"Advantages of having a telepathic wolf, eh?" Trey snarked, stroking Sparky's ears. "Whosagoodboyyyy?"
 			"I am!" Sparky beamed.
 			"Anyway, forgot to ask - how was last night?"
@@ -19247,34 +19249,34 @@ VOLUME - Gods Among Men
 			William nodded, smiling. "Thank you, Sveta."
 			At that, Catherine scowled slightly. "We pay you for nursing, not to tell us how to raise our daughter, Ms. Popova."
 			Sveta rolled her eyes out of sight.
-			William's ears pricked up. He could hear Luna whimpering and pawing at the door.
-			He stood, and went upstairs. He saw Luna frantically digging at the carpet.
-			"Luna, enough!" he snapped. She whined, and carried on anyway.
+			William's ears pricked up. He could hear Molly whimpering and pawing at the door.
+			He stood, and went upstairs. He saw Molly frantically digging at the carpet.
+			"Molly, enough!" he snapped. She whined, and carried on anyway.
 			He sighed, and knocked on the door. "Chloe, darling? Can... Can we talk?"
 			Silence.
-			He knocked again. Luna barked nervously.
+			He knocked again. Molly barked nervously.
 			"Chloe? Are you in there?"
 			Again, silence.
 			"I'm coming in." he said, opening the door. He entered, and saw the room was empty.
 			Sveta and Catherine arrived too.
 			"Where has she gone now?" Catherine sighed.
-			Luna rushed to Chloe's bathroom door, and pawed at the door.
+			Molly rushed to Chloe's bathroom door, and pawed at the door.
 			William walked over, and knocked.
 			"Chloe, darling? Are you in there?"
 			Silence still.
-			"I think Luna wants to see you."
+			"I think Molly wants to see you."
 			More silence.
 			"I... alright, sweetheart. We'll be downstairs when you're ready to talk."
 			He sighed, and left. He turned to Sveta.
 			"Sveta... Can you try talking to her? She... Chloe looks up to you."
 			"Of course." Sveta nodded. Catherine scoffed as the parents went downstairs.
-			She walked over, and sat down by the door, giving Luna a comforting rub on the ears.
+			She walked over, and sat down by the door, giving Molly a comforting rub on the ears.
 			"Chloe, dorogaya? Ty v poryadke?"
 			Silence, once more.
 			"Are you alright in there?"
 			Again, nothing.
 			"Chloe... can you please make a noise, so I know you're okay?"
-			Still nothing. Luna whimpered.
+			Still nothing. Molly whimpered.
 			Sveta closed her eyes, tensed, and breathed out. 
 			"Chloe... I'm going to come in, okay? Please don't be afraid." she called out. She pulled out her credit card, and used it to flick the lock on the door.
 			She entered, and gasped. Chloe was laid on the floor, pale and unbreathing.
@@ -25561,7 +25563,7 @@ VOLUME - Gods Among Men
 			"So, um, yeah... You can hear me now. It's a whole thing." Sparky grinned.
 			"Haha, hello again boy..." Vince chuckled. "How's the real hero doing?"
 			"Oi!" Connor laughed.
-			"What? He's a dog. If Stella was here, I'd say the same thing." Vince grinned.
+			"What? He's a dog. If Luna was here, I'd say the same thing." Vince grinned.
 			"He's got you there." Amy quipped, smirking.
 			"Next time, I'll tell Stoker to aim properly." Connor snarked.
 			"Yeah, please do... Honestly, I'm offended they sent Stoker to do it. Am I not worth a proper hitman?" Vince laughed.
@@ -25843,9 +25845,9 @@ VOLUME - Gods Among Men
 			"So, Chlo." she began. "How drunk are we getting compared to last year?"
 			"Hopefully not vomit-inducing." Chloe chuckled.
 			"You excited to see your family?" Connor asked, smiling.
-			"Hah... my dad and Sveta, sure. Luna too." Chloe sighed. Bea put a compassionate hand on Chloe's shoulder.
-			"I like Luna! She was fun to play chases with." Sparky barked.
-			"Aww... I think Luna really liked you!" Chloe smiled, stroking Sparky's head.
+			"Hah... my dad and Sveta, sure. Molly, too." Chloe sighed. Bea put a compassionate hand on Chloe's shoulder.
+			"I like Molly! She was fun to play chases with." Sparky barked.
+			"Aww... I think Molly really liked you!" Chloe smiled, stroking Sparky's head.
 			"She's been spayed, right?" Bea quipped.
 			"What does that mean?" Sparky asked innocently.
 			"Ah." Connor chuckled. "She's had her lady-parts removed." he explained.
@@ -25855,7 +25857,7 @@ VOLUME - Gods Among Men
 			They burst into laughter.
 			"Speaking of..." Chloe began. "Sparky?"
 			He turned his head to face her.
-			"Does Luna speak to you? As in, can you understand her?"
+			"Does Molly speak to you? As in, can you understand her?"
 			"No, not really." he shook his head. "I mean, I think I understand her better than a human does, but that's because we're both dogs. I can't hear her the way you guys can hear me."
 			Chloe leaned back, mentally noting another topic to study.
 			"Any other psychic powers you guys have?" Bea quipped.
@@ -26008,7 +26010,7 @@ VOLUME - Gods Among Men
 			"Oh, dogs? You have a new dog?" Vivienne asked, excitedly.
 			"Nah, Connor brought his dog." Chloe smirked.
 			Victor's face curled into a look of horror, as Vivienne opened the door.
-			Sparky and Luna both ran up to her happily, barking and yapping.
+			Sparky and Molly both ran up to her happily, barking and yapping.
 			"Hi, I'm Connor, and this big man is Sparky."
 			"Oi, my name's Trey, not Sparky." Trey chimed in, nudging Connor playfully. Both chuckled.
 			William laughed, and walked over. "Hello again, Vivienne." he smiled.
@@ -26130,7 +26132,7 @@ VOLUME - Gods Among Men
 		Chloe's birthday - dinner
 		______________________________
 		SCENE
-			A few hours passed, and it was late evening, as the group nursed their full bellies. Catherine and Victor had gone to bed, while Vivienne had left for home. Sparky was curled up on the floor with Luna, who had buried herself in him for warmth.
+			A few hours passed, and it was late evening, as the group nursed their full bellies. Catherine and Victor had gone to bed, while Vivienne had left for home. Sparky was curled up on the floor with Molly, who had buried herself in him for warmth.
 			"Well, I'd best be off." Sveta said, smiling warmly. "S dnem rozhdeniya, dorogaya."
 			Chloe hugged Sveta tightly. "Beregi sebya, Sveta. Ya lyublyu tebya."
 			"Ya tozhe tebya lyublyu." Sveta replied, hugging her back.
@@ -26156,7 +26158,7 @@ VOLUME - Gods Among Men
 			"Oh, speaking of." William began, rousing from his slumber. "Sleeping arrangements for tonight - Bea, you can have the same room as usual. There are two spare rooms made up - I'm sure you four can figure out an arrangement." he explained. "And Sparky can sleep wherever he likes."
 			"Dibs on Connor!" Trey grinned. "Don't worry bro, I'll keep my hands to myself."
 			"If you like having those hands attatched to your arms, you will." Connor snarked, eliciting chuckles.
-			Sparky yawned, nuzzling into Luna.
+			Sparky yawned, nuzzling into Molly.
 			"Night, guys." Bea said, heading upstairs.
 			"I'm gonna head up too." Trey stretched. "Happy birthday, Chlo."
 			"Yeah, me too." Amy said. "Happy birthday, Chlo."
@@ -26228,8 +26230,8 @@ VOLUME - Gods Among Men
 		SCENE
 			The sun was only just starting to peek over the horizon. It had snowed in the night, and the garden was frosted over. The light glistened off of the snow, but the air was so cold, it wouldn't even dream of melting.
 			Connor awoke earlier than normal. He looked over, and saw Trey snoring slightly. He chuckled, morphed up some soft, warm clothes, and went downstairs.
-			He saw Sparky curled up in Luna's dog bed, cuddling her. The two dogs awoke on his approach.
-			"Morning, Connor!" Sparky smiled. "I think Luna needs toilet."
+			He saw Sparky curled up in Molly's dog bed, cuddling her. The two dogs awoke on his approach.
+			"Morning, Connor!" Sparky smiled. "I think Molly needs toilet."
 			Connor smiled back, and let both dogs out. Sparky rolled in the snow.
 			"Ahh, I love it." he cheered. "It's like ice cream is falling from the sky."
 			Connor chuckled, endeared. "It's a lot more than usual, too. Haven't seen this much snow since the op in Chechnya."
@@ -26238,7 +26240,7 @@ VOLUME - Gods Among Men
 			He turned around, and saw Chloe, wrapped up in a onesie. She hugged him properly. He melted into the embrace.
 			"Morning." she said, half asleep.
 			"Good morning." he replied, smiling warmly. He kissed her forehead, and she nuzzled into his chest.
-			"I was just gonna let the dogs out... but looks like you beat me to it." she said, before crouching and giving Luna a cuddle.
+			"I was just gonna let the dogs out... but looks like you beat me to it." she said, before crouching and giving Molly a cuddle.
 			"Anything to get away from Trey's snoring." Connor quipped.
 			She chuckled. "Oh, I know your metabolism has plenty of drawbacks... but on freezing mornings like this, it's nice to have a boyfriend with such a high body temperature."
 			Connor grinned. "You know, you can just say I'm *hot.*"
@@ -26247,10 +26249,10 @@ VOLUME - Gods Among Men
 			"Oh, we'd have to just write a comic book about him, at that point." she laughed.
 			"Morning, Chloe!" Sparky said, trotting over.
 			"Haha, morning Sparky!" she replied, stroking his ears. "Did you sleep okay?"
-			"Yeah, I slept well thanks! I kept Luna warm all night." he chatted back.
-			Chloe beamed. She knelt down, and gave Luna a cuddle.
+			"Yeah, I slept well thanks! I kept Molly warm all night." he chatted back.
+			Chloe beamed. She knelt down, and gave Molly a cuddle.
 			"Hey, my sweet girl. Who's a good girl? Whosagoodgirrrl?"
-			Luna replied by licking Chloe, climbing up and wrapping her front legs over her shoulders.
+			Molly replied by licking Chloe, climbing up and wrapping her front legs over her shoulders.
 			Connor smiled warmly, and knelt down by Sparky. "Whosagoodboyyy?" he went, mimicing.
 			"I am. Duh." Sparky grinned, winking.
 			"Oh, I could throttle you sometimes." Connor laughed.
@@ -26259,7 +26261,7 @@ VOLUME - Gods Among Men
 			"Ah! No! I'm a big cool wolf! Not a blanket!" he faux-protested, as Connor tackled him to the ground.
 			"Aww, is someone trying to pretend he doesn't enjoy cuddles?" Connor giggled.
 			"I'm almost a year old! I... Yeah, I enjoy cuddles." he finally admitted.
-			Chloe grinned giddily, and Luna wagged her tail in amusement.
+			Chloe grinned giddily, and Molly wagged her tail in amusement.
 			Connor rose to his feet. "So... what do you wanna do today? We don't have to head back until late."
 			"Well, Bea and I were talking..." she began. "You guys were so lovely, showing us all around Drackhill - maybe it's time we showed you around our home town?"
 			"That'd be really sweet." Connor smiled. "After that, I'll take you to go see your grandad, if you like?"
@@ -26308,7 +26310,7 @@ VOLUME - Gods Among Men
 		Morning after Birthday
 		______________________________
 		SCENE
-			"So, welcome to Marlingham town centre!" Chloe began, waving in the direction of the square, holding Luna's lead in her other hand. "It's Sunday, so this is as busy as it gets."
+			"So, welcome to Marlingham town centre!" Chloe began, waving in the direction of the square, holding Molly's lead in her other hand. "It's Sunday, so this is as busy as it gets."
 			The gang looked around the near-deserted centre. Sparky let out a bark, which echoed quite nicely. He grinned.
 			Connor pictured a tumbleweed somehow rolling into the square.
 			"Wow, a real bustling urban space, eh?" Trey grinned.
@@ -26475,7 +26477,7 @@ VOLUME - Gods Among Men
 			Connor looked on, smiling sadly. He gently brushed her arm, staying silent.
 
 			"Go get it!" Trey cheered, launching a tennis ball as far as he could.
-			Sparky and Luna ran after it. Sparky intentionally ran rings, slowing himself down to give Luna a chance. She got the ball, and then the chasing was on.
+			Sparky and Molly ran after it. Sparky intentionally ran rings, slowing himself down to give Molly a chance. She got the ball, and then the chasing was on.
 			"Look at 'em go!" Amy laughed. "There's a new puppy we've taken in at work, by the way. He's a little goldie, poor baby was just left in a cardboard box off the road."
 			"In this cold?" Shannon asked, shocked. "Poor baby!"
 			"I know! Bless him. We've been calling him Kylo."

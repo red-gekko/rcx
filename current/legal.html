@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Disclaimer — Bloodhound</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.75;
+            background-color: #0d1117;
+            color: #e6edf3;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            width: 100%;
+            margin: 0 auto;
+            background-color: #161b22;
+            border-radius: 16px;
+            padding: 40px 48px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+            border: 1px solid #30363d;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: #79b8ff;
+            text-decoration: none;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 28px;
+            padding: 8px 14px;
+            border: 1px solid #2a4a6a;
+            border-radius: 8px;
+            background: #1c2a3a;
+            transition: background 0.2s, border-color 0.2s, color 0.2s;
+        }
+
+        .back-link:hover {
+            background: #24405c;
+            border-color: #58a6ff;
+            color: #e6edf3;
+        }
+
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            color: #f0f6fc;
+            border-bottom: 2px solid #30363d;
+            padding-bottom: 16px;
+            margin-bottom: 8px;
+        }
+
+        .subtitle {
+            color: #8b949e;
+            font-size: 0.9rem;
+            margin-bottom: 32px;
+            font-style: italic;
+        }
+
+        h2 {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #f0f6fc;
+            margin: 34px 0 12px 0;
+            padding-bottom: 6px;
+            border-bottom: 1px solid #21262d;
+        }
+
+        h2:first-of-type { margin-top: 8px; }
+
+        p {
+            margin: 0 0 1em 0;
+            color: #c9d1d9;
+        }
+
+        ul, ol {
+            margin: 0 0 1.2em 1.4em;
+            color: #c9d1d9;
+        }
+
+        li { margin-bottom: 0.5em; }
+
+        strong { color: #f0f6fc; font-weight: 600; }
+
+        em { color: #8b949e; }
+
+        a { color: #79b8ff; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        code {
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.88em;
+            background: #21262d;
+            color: #e6edf3;
+            padding: 1px 6px;
+            border-radius: 4px;
+        }
+
+        .callout {
+            background: #1c2128;
+            border-left: 3px solid #f0883e;
+            border-radius: 6px;
+            padding: 14px 18px;
+            margin: 1.2em 0;
+            color: #c9d1d9;
+            font-size: 0.95rem;
+        }
+
+        /* ── Contact form ── */
+        .contact-section {
+            margin-top: 44px;
+            padding-top: 28px;
+            border-top: 2px solid #30363d;
+        }
+
+        .contact-section h2 {
+            border-bottom: none;
+            margin-top: 0;
+            padding-bottom: 0;
+        }
+
+        .contact-intro {
+            color: #8b949e;
+            font-size: 0.92rem;
+            margin-bottom: 22px;
+        }
+
+        .form-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .form-group.full-width {
+            grid-column: 1 / -1;
+        }
+
+        label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.1px;
+            font-weight: 600;
+            color: #8b949e;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 11px 14px;
+            font-family: inherit;
+            font-size: 0.95rem;
+            background-color: #0d1117;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        input:focus,
+        select:focus,
+        textarea:focus {
+            outline: none;
+            border-color: #58a6ff;
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.15);
+        }
+
+        textarea {
+            resize: vertical;
+            min-height: 130px;
+            line-height: 1.6;
+        }
+
+        select {
+            appearance: none;
+            -webkit-appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b949e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 14px center;
+            background-size: 12px;
+            cursor: pointer;
+        }
+
+        .form-actions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 6px;
+            grid-column: 1 / -1;
+        }
+
+        .form-actions button {
+            padding: 11px 24px;
+            font-family: inherit;
+            font-size: 0.92rem;
+            font-weight: 600;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background 0.2s, border-color 0.2s, transform 0.1s;
+            border: 1px solid transparent;
+        }
+
+        .form-actions button:active { transform: scale(0.97); }
+
+        .submit-btn {
+            background: #238636;
+            color: #fff;
+            border-color: #2ea043;
+        }
+
+        .submit-btn:hover { background: #2ea043; }
+
+        .copy-btn {
+            background: #21262d;
+            color: #c9d1d9;
+            border-color: #30363d;
+        }
+
+        .copy-btn:hover { background: #30363d; border-color: #58a6ff; color: #e6edf3; }
+
+        .form-note {
+            grid-column: 1 / -1;
+            font-size: 0.8rem;
+            color: #6e7681;
+            margin-top: 4px;
+            line-height: 1.5;
+        }
+
+        .form-note code { font-size: 0.78rem; }
+
+        .toast {
+            grid-column: 1 / -1;
+            display: none;
+            padding: 10px 16px;
+            background: #1f3d2a;
+            border: 1px solid #3fb950;
+            color: #56d364;
+            border-radius: 8px;
+            font-size: 0.88rem;
+            font-weight: 500;
+            margin-top: 4px;
+        }
+
+        .toast.visible { display: block; }
+
+        @media (max-width: 700px) {
+            .container { padding: 26px 22px; border-radius: 12px; }
+            h1 { font-size: 1.6rem; }
+            .form-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a class="back-link" href="index.html">◀ Back to Reader</a>
+
+        <h1>Legal Disclaimer</h1>
+        <p class="subtitle">Last updated: 2025</p>
+
+        <div class="callout">
+            <strong>Bloodhound</strong> is a work of fiction. Nothing in this work should be read as a factual
+            statement about any real person, organisation, institution, or event. The following disclaimer
+            applies to the entirety of the work, including all volumes, episodes, scenes, in-universe documents,
+            and supplementary materials.
+        </div>
+
+        <h2>1. Work of Fiction</h2>
+        <p>
+            <em>Bloodhound</em> is an original work of fiction set in an alternate-history world. Its characters,
+            settings, organisations, and events are the product of the author's imagination or are used fictitiously.
+            The narrative timeline and any in-universe documents, primers, or fictional media referenced within the
+            work form part of that fictional universe and should be understood in that context only.
+        </p>
+
+        <h2>2. Historical Figures, Organisations, and Events</h2>
+        <p>
+            Where the work references real historical figures, organisations, institutions, agencies, companies,
+            or events, those references are <strong>purely fictional</strong>. They are not assertions of fact,
+            and they do not represent the author's views about those subjects or about the individuals or groups
+            concerned.
+        </p>
+        <p>
+            Great effort has been made to ensure that any real person referenced is deceased both in-universe
+            and in reality. References to such persons are not statements of fact and should not be relied upon
+            as historical or biographical information. For example, the depiction of a historical figure being
+            killed by a fictional intelligence agency is not a factual claim that such an event occurred.
+        </p>
+
+        <h2>3. Living Persons</h2>
+        <p>
+            Any resemblance between the fictional characters in this work and real persons, living or dead,
+            is entirely coincidental. No character is intended to depict, represent, or refer to any specific
+            living individual, and no inference should be drawn from any apparent similarity.
+        </p>
+
+        <h2>4. Real-World Organisations and Media</h2>
+        <p>
+            References to real-life organisations, companies, agencies, or existing media should never be
+            taken as factual statements about those organisations or properties. Such references are used
+            fictitiously, often satirically, and do not reflect the author's actual beliefs about, or
+            characterisation of, those organisations.
+        </p>
+
+        <h2>5. Satire and Social Commentary</h2>
+        <p>
+            Satirical elements and social commentary are integral to the narrative. They are not factual
+            assertions by the author. Where the work depicts extremism, authoritarianism, corruption, or
+            other objectionable conduct, that depiction is a critique of such conduct — not an endorsement
+            of it. The author does not advocate for, support, or condone any of the ideologies, policies,
+            or actions that the work depicts critically.
+        </p>
+
+        <h2>6. Sensitive Content</h2>
+        <p>
+            This work contains the discussion and depiction of themes and events that many readers will,
+            and arguably should, find disturbing. These include, but are not limited to:
+        </p>
+        <ul>
+            <li>Physical, emotional, and sexual abuse</li>
+            <li>Racial violence and hate crime</li>
+            <li>Bigotry of many forms, including racism, homophobia, transphobia, and ableism</li>
+            <li>The mistreatment and exploitation of children</li>
+            <li>Torture, body horror, and graphic injury</li>
+            <li>Self-harm, suicidal ideation, and depictions of suicide</li>
+            <li>War, ethnic cleansing, and mass violence</li>
+            <li>Addiction</li>
+        </ul>
+        <p>
+            A full content warning, including a per-episode breakdown, is available on the
+            <a href="contentwarning.html">Content Warning</a> page. Readers who may be affected by any of the
+            above are strongly encouraged to consult it before reading.
+        </p>
+
+        <h2>7. No Warranty</h2>
+        <p>
+            This work is provided "as is," for personal reading and enjoyment. The author makes no warranties
+            regarding the accuracy, completeness, or suitability of the content for any particular purpose.
+            The author is not liable for any loss, distress, or harm arising from the reading of this work
+            or from any reliance placed upon it.
+        </p>
+
+        <h2>8. Copyright and Infringement</h2>
+        <p>
+            All original content in this work remains the property of the author. If you believe that this
+            work has made damaging remarks about you or an organisation you represent, or that it infringes
+            on properties whose rights you hold, please use the contact form below so that the matter can be
+            addressed promptly.
+        </p>
+
+        <h2>9. Updates to This Disclaimer</h2>
+        <p>
+            This disclaimer may be updated from time to time to reflect changes to the work or to legal
+            requirements. The "Last updated" date at the top of this page reflects the most recent revision.
+            Continued reading of the work after any such update constitutes acceptance of the revised
+            disclaimer.
+        </p>
+
+        <!-- ── CONTACT FORM ── -->
+        <div class="contact-section">
+            <h2>Contact Us</h2>
+            <p class="contact-intro">
+                Use this form to raise a legal, copyright, or personal-conduct concern relating to
+                <em>Bloodhound</em>. All messages are read, though a response cannot always be guaranteed.
+            </p>
+
+            <form id="legal-contact-form" class="form-grid" novalidate>
+                <div class="form-group">
+                    <label for="legal-name">Your Name</label>
+                    <input type="text" id="legal-name" name="name" placeholder="Jane Doe" autocomplete="name">
+                </div>
+
+                <div class="form-group">
+                    <label for="legal-email">Your Email</label>
+                    <input type="email" id="legal-email" name="email" placeholder="jane@example.com" autocomplete="email" required>
+                </div>
+
+                <div class="form-group full-width">
+                    <label for="legal-subject">Subject</label>
+                    <select id="legal-subject" name="subject" required>
+                        <option value="" disabled selected>— Select a subject —</option>
+                        <option value="copyright">Copyright / IP Infringement</option>
+                        <option value="defamation">Personal or Organisational Concern</option>
+                        <option value="licensing">Licensing or Adaptation Request</option>
+                        <option value="content">Content Removal Request</option>
+                        <option value="general">General Legal Enquiry</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+
+                <div class="form-group full-width">
+                    <label for="legal-message">Message</label>
+                    <textarea id="legal-message" name="message" placeholder="Please describe your concern in as much detail as you are comfortable providing, including any relevant links, dates, or page references." required></textarea>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" class="submit-btn">✉ Open in Email Client</button>
+                    <button type="button" class="copy-btn" id="legal-copy-btn">📋 Copy Message to Clipboard</button>
+                </div>
+
+                <p class="form-note">
+                    This site is hosted statically and does not store form submissions on a server.
+                    Submitting opens your default email client with the message pre-filled, addressed to
+                    <code>legal@red-gekko.github.io</code>. If you would prefer not to use your email client,
+                    use <strong>Copy Message to Clipboard</strong> and send it from whichever service you
+                    prefer.
+                </p>
+
+                <div class="toast" id="legal-toast">✓ Message copied to clipboard.</div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        (function () {
+            'use strict';
+
+            const form = document.getElementById('legal-contact-form');
+            const toast = document.getElementById('legal-toast');
+            const copyBtn = document.getElementById('legal-copy-btn');
+            const CONTACT_EMAIL = 'legal@red-gekko.github.io';
+
+            function buildMessage() {
+                const name = document.getElementById('legal-name').value.trim() || '(not provided)';
+                const email = document.getElementById('legal-email').value.trim();
+                const subject = document.getElementById('legal-subject').value;
+                const message = document.getElementById('legal-message').value.trim();
+
+                return {
+                    name, email, subject, message,
+                    valid: !!(email && subject && message)
+                };
+            }
+
+            function showToast(text) {
+                toast.textContent = text;
+                toast.classList.add('visible');
+                setTimeout(function () {
+                    toast.classList.remove('visible');
+                }, 4000);
+            }
+
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+                const data = buildMessage();
+
+                if (!data.valid) {
+                    showToast('⚠ Please complete the email, subject, and message fields.');
+                    return;
+                }
+
+                const body = [
+                    'Name: ' + data.name,
+                    'Email: ' + data.email,
+                    'Subject: ' + data.subject,
+                    '',
+                    'Message:',
+                    data.message
+                ].join('\n');
+
+                const mailto = 'mailto:' + CONTACT_EMAIL +
+                    '?subject=' + encodeURIComponent('[Bloodhound] ' + data.subject) +
+                    '&body=' + encodeURIComponent(body);
+
+                window.location.href = mailto;
+            });
+
+            copyBtn.addEventListener('click', function () {
+                const data = buildMessage();
+
+                if (!data.valid) {
+                    showToast('⚠ Please complete the email, subject, and message fields.');
+                    return;
+                }
+
+                const body = [
+                    'To: ' + CONTACT_EMAIL,
+                    'Name: ' + data.name,
+                    'Email: ' + data.email,
+                    'Subject: ' + data.subject,
+                    '',
+                    'Message:',
+                    data.message
+                ].join('\n');
+
+                if (navigator.clipboard && navigator.clipboard.writeText) {
+                    navigator.clipboard.writeText(body).then(
+                        function () { showToast('✓ Message copied to clipboard.'); },
+                        function () { fallbackCopy(body); }
+                    );
+                } else {
+                    fallbackCopy(body);
+                }
+            });
+
+            function fallbackCopy(text) {
+                const ta = document.createElement('textarea');
+                ta.value = text;
+                ta.style.position = 'fixed';
+                ta.style.opacity = '0';
+                document.body.appendChild(ta);
+                ta.select();
+                try {
+                    document.execCommand('copy');
+                    showToast('✓ Message copied to clipboard.');
+                } catch (err) {
+                    showToast('⚠ Copy failed — please copy the text manually.');
+                }
+                document.body.removeChild(ta);
+            }
+        })();
+    </script>
+</body>
+</html>

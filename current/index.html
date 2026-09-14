@@ -790,6 +790,45 @@
             75% { content: '...'; }
             100% { content: ''; }
         }
+
+        /* ===== LINK STYLES ===== */
+        /* Unchanged appearance after click, matching dark theme. */
+        a, a:link, a:visited, a:hover, a:active, a:focus {
+            color: #79b8ff;
+            text-decoration: none;
+            border-bottom: 1px dotted #2a4a6a;
+            transition: border-color 0.2s, color 0.2s;
+            cursor: pointer;
+        }
+
+        a:hover {
+            color: #a0c8f0;
+            border-bottom-color: #58a6ff;
+            text-decoration: none;
+        }
+
+        a:focus-visible {
+            outline: 2px solid #58a6ff;
+            outline-offset: 2px;
+        }
+
+        /* Ensure visited links are identical to unvisited. */
+        a:visited {
+            color: #79b8ff;
+        }
+
+        /* Help panel links inherit the same style. */
+        .help-panel a {
+            color: #79b8ff;
+            border-bottom: 1px dotted #2a4a6a;
+        }
+        .help-panel a:hover {
+            color: #a0c8f0;
+            border-bottom-color: #58a6ff;
+        }
+        .help-panel a:visited {
+            color: #79b8ff;
+        }
     </style>
 </head>
 <body>
@@ -1467,6 +1506,7 @@
                     <ul>
                         <li><a href="legal.html" target="_blank" rel="noopener">Legal Disclaimer &amp; Contact</a> — Full legal disclaimer, copyright and IP information, and a contact form for legal or licensing enquiries.</li>
                         <li><a href="contentwarning.html" target="_blank" rel="noopener">Content Warning</a> — An in-depth guide to the sensitive content depicted in <em>Bloodhound</em>, including an episode-by-episode breakdown, support resources, and a form to suggest changes.</li>
+                        <li><a href="splitter.html" target="_blank" rel="noopener">Splitter</a> — A small tool for splitting the story file into separate episode .txt files, packaged as a downloadable .zip.</li>
                     </ul>
                     <h3>📖 Reading &amp; Navigation</h3>
                     <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>

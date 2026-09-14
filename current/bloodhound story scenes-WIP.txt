@@ -483,7 +483,7 @@ VOLUME - Wolves Among Sheep
 			"What, is she a prick as well?" Connor smirked.
 			Amy chuckled. "Have a shit night, dickhead."
 			"Get home unsafe, twat." Connor retorted.
-			Both smirked, apparantly concluding a standard interaction between them.
+			Both smirked, apparently concluding a standard interaction between them.
 
 			She returned to Chloe and Bea. "Sorry about that!"
 			The girls smiled, and began talking.
@@ -688,7 +688,7 @@ VOLUME - Wolves Among Sheep
 
 		In The Pocket, In The Head
 
-	
+
 	______________________________
 	EPISODE - Reanimation
 		______________________________
@@ -1329,7 +1329,7 @@ VOLUME - Wolves Among Sheep
 
 		Questions Without Answer
 
-	
+
 	______________________________
 	EPISODE - Oh, the Inhumanity
 		______________________________
@@ -1823,7 +1823,7 @@ VOLUME - Wolves Among Sheep
 
 		Nightclub attack
 
-	
+
 	______________________________
 	EPISODE - Breaking Point
 		______________________________
@@ -2518,7 +2518,7 @@ VOLUME - Wolves Among Sheep
 
 		Confessions
 
-	
+
 	______________________________
 	EPISODE - In Sheep's Clothing
 		______________________________
@@ -3138,7 +3138,7 @@ VOLUME - Wolves Among Sheep
 
 		Fenrir files
 
-	
+
 	______________________________
 	EPISODE - Packmates
 		______________________________
@@ -3651,7 +3651,7 @@ VOLUME - Wolves Among Sheep
 
 		Burning building rescue
 
-	
+
 	______________________________
 	EPISODE - Monsters
 		______________________________
@@ -4466,7 +4466,7 @@ VOLUME - Wolves Among Sheep
 
 		To Spite Your Face
 
-	
+
 	______________________________
 	EPISODE - Sandstorm
 		______________________________
@@ -5043,7 +5043,7 @@ VOLUME - Wolves Among Sheep
 
 		Algieria Aftermath
 
-	
+
 	______________________________
 	EPISODE - He's a Devil, He's a Hero
 		______________________________
@@ -5784,7 +5784,7 @@ VOLUME - Wolves Among Sheep
 
 		Channel One News
 
-	
+
 	______________________________
 	EPISODE - Pigs to the Slaughter
 		______________________________
@@ -6434,7 +6434,7 @@ VOLUME - Wolves Among Sheep
 
 		Halloween
 
-	
+
 	______________________________
 	EPISODE - Crusades, Unending
 		______________________________
@@ -7196,7 +7196,7 @@ VOLUME - Wolves Among Sheep
 
 		Fight outside the Horse
 
-	
+
 	______________________________
 	EPISODE - Under the Dragon's Hill
 		______________________________
@@ -7911,7 +7911,7 @@ VOLUME - Wolves Among Sheep
 
 		Above the Law
 
-	
+
 	______________________________
 	EPISODE - Failure
 		______________________________
@@ -8657,7 +8657,7 @@ VOLUME - Wolves Among Sheep
 
 		Sorry, So Sorry
 
-	
+
 	______________________________
 	EPISODE - Helping Hands
 		______________________________
@@ -9279,7 +9279,7 @@ VOLUME - Wolves Among Sheep
 
 		Morning of truth
 
-	
+
 	______________________________
 	EPISODE - Blood-Soaked Saviour
 		______________________________
@@ -10002,7 +10002,7 @@ VOLUME - Wolves Among Sheep
 
 		Hughes Death/gassing scene
 
-	
+
 	______________________________
 	EPISODE - Weak Points
 		______________________________
@@ -10793,7 +10793,7 @@ VOLUME - Wolves Among Sheep
 
 		Naismith vs. Connor - Aftermath
 
-	
+
 	______________________________
 	EPISODE - Whiplash
 		______________________________
@@ -11584,7 +11584,7 @@ VOLUME - Wolves Among Sheep
 
 		An Unusual Alliance
 
-	
+
 	______________________________
 	EPISODE - Law and Disorder
 		______________________________
@@ -11930,7 +11930,7 @@ VOLUME - Wolves Among Sheep
 			"Normal people use doors, tovarishch." Ivan snarked. "You don't wanna take the night off after that?"
 			"Just because we killed a giant doesn't mean your garden-variety scum aren't out tonight." Connor shrugged. "Besides, beating up Skulls is good for the soul."
 			Ivan smiled warmly, bowing his head. "Good hunting then, moy tovarishchi. Do svidaniya."
-			"Poka poka." Connor nodded back. Ivan cringed at the abuse of his mother tongue, then chuckled as they left.
+			"Do svidaniya." Connor nodded back. Ivan cringed at the abuse of his mother tongue, then chuckled as they left.
 
 			"Please, don't hurt me!" the young woman cried out, silenced by a strike to the gut by a Skull goon.
 			"Shut up!" he snapped, striking again. "Give me your fucking money, freak!"
@@ -12922,7 +12922,7 @@ VOLUME - Wolves Among Sheep
 
 		Taking the Tower/Packmates, Always
 
-	
+
 	______________________________
 	EPISODE - The Belson Strangler
 		______________________________
@@ -13676,8 +13676,18 @@ VOLUME - Wolves Among Sheep
 			"Modified version." Ivan smiled. "Reverse engineered. Placed here in case of emergencies - like if you somehow lost your powers again."
 			"Good call. I imagine Paladin are working to replicate the Snakebite venom as we speak." Connor nodded.
 			"We still don't know how any of this khernya really works, tovarishch." Ivan shrugged. "Better safe than sorry. KGB motto."
-			"Do you have one too?"
-			"Not quite." he chuckled, gesturing to his bodysuit. Connor was too tired to notice before, but it was indeed changed. Coils reinforced the muscles, and the kevlar had been upgraded to include a neoballistic weave.
+			"Speaking of Snakebite..." Connor hesitated. "What's happened to him?"
+			"Some friends of ours took him away." Ivan nodded. "Arranged it so he was transferred to their custody instead."
+			Connor paused for a moment. "How?" he asked. "Surely the KGB can't take custody of an arrest made in the UK?"
+			"No... not KGB." Ivan replied eventually.
+			"Who then? Because we sure as hell can't trust MI5. I know you have a contact there, but the Optimates definitely have their own."
+			"Listen, I know Snakebite is with our allies. But... the *who,* I can't tell you."
+			"Because you don't trust me?"
+			"Nyet! No... because my source trusts *me* to keep a secret."
+			Connor relaxed slightly. "That's fair. But one day, I'd like to meet our shadowy benefactors."
+			"Hah! I am sure, when this business is finished, we will all go and drink vodka." Ivan laughed.
+			Connor grinned, then motioned back to the Crusader armour. "Do you have one too?"
+			"Not quite." he chuckled, gesturing to his bodysuit. Connor was too tired to notice before, but it was indeed changed. Cerametallic coils reinforced the muscles, and the kevlar had been upgraded to include a neoballistic weave.
 			"You missed your calling as a male model." he snarked.
 			"That's what I told the Commissariat!" Ivan quipped back. "Aside from your new duds, we also upgraded your computer. Use it to hack into any devices we capture from Paladin - I've already uploaded all the intel we've gathered so far. It's also got a police scanner built in, so we can keep an ear out for any emergencies. It'll patch those through automatically to your earpiece."
 			"Damn, you guys thought of everything, didn't you?"
@@ -13686,10 +13696,22 @@ VOLUME - Wolves Among Sheep
 			"It's discrete, too." he grinned. "You can stash it here for safekeeping."
 			Connor chuckled. He looked over, and realised Amy had fallen asleep on the sofa.
 			"I'll leave you to it, tovarishch." Ivan grinned.
+			"Cheers, mate." Connor smiled. He walked his commissar to the door.
+			"Hey..." he began quietly. "Just... can you make sure that they're not too rough with him?"
+			"Who?"
+			"...Snakebite."
+			Ivan cocked an eyebrow. "He shot you, bratan. You and volchonok over there. And he sold you to Paladin."
+			"And then I violated his soul. I took the mind-merge, and I desecrated it. On him." Connor sighed. "Just... it's hard to not empathise with someone I've *literally* made an empathic connection to. Even--no, *especially,* if it was forced."
+			Ivan smiled softly. "Alright, I'll have a talk with our friends. Besides, I was thinking we cut him a deal, anyway. Talent like that could serve us well, if we're smart about it."
+			"Don't cry, Verdict. You're still my favourite sniper." Connor snarked.
+			"Fucking better be, tovarishch." Ivan quipped. "Spokoynoy nochi."
+			Connor nodded, shut the door, and walked over to his sister. He gently stroked her hair, and sat down.
+			Then, he listened to her heartbeat. Just listened to it. Savoured it. Appreciated it.
+			Loved it.
 
 		Justice?
 
-	
+
 	______________________________
 	EPISODE - Inferno
 		______________________________
@@ -14324,7 +14346,7 @@ VOLUME - Wolves Among Sheep
 
 		Jogging in the woods
 
-	
+
 	______________________________
 	EPISODE - Cold Comfort
 		______________________________
@@ -14956,7 +14978,7 @@ VOLUME - Wolves Among Sheep
 
 		Shannon joins the team
 
-	
+
 	______________________________
 	EPISODE - A Good Person
 		______________________________
@@ -15307,26 +15329,99 @@ VOLUME - Wolves Among Sheep
 			*SNAP!*
 			The monster twitched, and fell. Gwen rolled away, as the impact cracked the ground.
 			Connor collapsed, and rose again.
+			"Jesus..." Gwen whispered in awe. "You really are hard to kill."
+			"Keep that in mind next time you take a contract against me." Connor quipped, before spitting out a globule of blood. He stumbled over to Sparky, and hoisted him over his shoulders.
+			"We've gotta go, now. The cops'll be here any second."
+			Gwen nodded, and rushed over to Ivan. She took his grappling hook, then drew her own. She tied one around his waist, and fired both into the rafters.
+			Connor watched, and focused his eyes. His crossbow re-formed, and he fired his grapple at the ceiling. It reeled back into his body.
+			Now at the edge of the building, he dug his heels, and pounced. The team sailed over the gap, and made their way through the rooftops of Angleport Harbour.
 
 		Whiplash Saviour
 		______________________________
 		SCENE
+			"So, this is me." Gwen chuckled, as she opened a hatch on the tiled roof.
+			"Wow." Connor grinned, taking a look at the place.
+			Belson Clock Tower.
+			An old building, standing tall above the tenements and industrial units, yet dwarfed by Caldermouth-style high-rises that were slowly infecting the borough.
+			The tower hadn't been in use since the 90s, and its clock was stuck at 10:32:14. Morning or evening was lost to the fog of old memory.
+			Connor sailed down the hatch, holding Sparky gently. Gwen had laid Ivan down on a makeshift bed, where he stirred slightly. Connor set the wolf on top of him, and they snuggled.
+			"Cute." Connor grinned, before snapping a picture on his phone. "Ivan's gonna kill me when he sees this."
+			She chuckled, peeling off her domino mask and taking off her cowl. "Anyway, make yourselves comfortable. I'm not expecting company."
+			Connor grinned, and turned to her.
+			"So... bows and arrows? That's new."
+			She smirked. "*That's* your opening line?"
+			"Well, you might have to change your codename now, right?"
+			She chuckled, stroking Sparky's mane. "You know I'm called Whiplash because it's what my powers give people, right?"
+			"Shut up. You have a literal whip to fight with!" he protested.
+			"Yes, because my powers make it a viable weapon. Same as archery. I had to go off-grid, but I knew if they developed a bigger presence in the city, they'd come for me. So, I took pre-emptive measures. A bow and arrow isn't my usual MO, so they won't suspect me - but I can use my powers to make it more effective than a gun."
+			Connor shrugged. "Does this mean you're team good-guy now?"
+			She hesitated. "Part-time."
+			"Works for me."
+			He stepped off to the side of the room, and stood for a moment. He looked out of the clock face, and then cast his gaze down on the city. The racket of rain hitting glass piped up. He looked around the hideout, and spotted some bits and bobs - an antique, pedal-powered sewing machine, and a set of tools on a workbench, fitted with a hand-cranked whetstone. A washing line held an assortment of casual clothes, suspended between a pair of rusted gears.
+			"Aren't you a little exposed, out here?" he cocked an eyebrow.
+			"Not at all. For starters, those windows are partially reflective - like interrogation rooms. We'd need a lot of light in here for anyone to see inside properly. And besides, who the hell would actually live in an abandoned clock tower?"
+			"Well, that was my second question." he grinned. At that, a pigeon flew up from a hole in the floor, and landed on her bench.
+			"Case in point." he snarked.
+			"Hello, Reginald!" she beamed, approaching. The pigeon flapped its wings excitedly at her approach, and cooed as she stroked the nape of its neck.
+			"'Reginald?'"
+			She blushed slightly. "Yes, I... I gave them names. I... I appreciate their company. Thankfully, their roost is beneath us, so I don't need to worry about contamination."
+			"Wow." he smiled. "I never thought I'd see the big bad Whiplash making friends with pigeons."
+			"It's for tactical purposes too." she protested. "Animals are especially receptive to tactile telepathy, as they lack the instinct of secrecy common in humans. I can find out from them if there is anything in the city that I need to know about. And pigeons are particularly good at keeping track of their location, which means I can learn the specific coordinates of the intel they acquire."
+			"I did the same once, with some eel-bats." Connor nodded. "Um... long story."
+			"Anyway, this place is good for what I need." she shrugged. "I can easily anticipate any attack, and the hatch on the roof lets me escape quickly in an emergency. The position gives me plenty of opportunities for recon, as well - I can use my powers to help with travelling rooftops, or assist with my grappling. Besides, none of my equipment needs electricity. I've got the sewing machine for costume repairs, and I have enough hand tools for fletching my arrows."
+			"Yeah, but... where do you poop?"
+			She rolled her eyes, before letting out a brief chuckle. "There's a 24-hour gym a stone's throw away. It has toilets and showers. It wasn't too hard to figure out the door code. All I need to do is throw on some typical exercise clothes, put some concealer makeup over the tell-tales, and I blend in seamlessly."
+			"Tell-tales?"
+			"These." she gestured, pointing at the black veins around her eyes. "Most people don't have these."
+			Connor chuckled. "Well, being a Super-Agent has one advantage - you already look like you're a gym-goer."
+			"You'd think that'd help, but there have been several moments where men have leered over me whilst I exercise." she grimaced. "If I didn't have a cover to maintain, I'd..."
+			"You're in Belson." Connor nodded sympathetically. "I'd wager good money your gym is a Skull hotspot. If you like... I hear a certain Werewolf could sort things out."
+			"Thanks." she chuckled. "Anyway, lecherous men aside, the location is ideal for me."
+			"How about food?"
+			"Believe it or not, most warehouses in this city aren't actually filled with drugs, guns, or super-serum. I'm a highly-trained covert operative; it's not exactly difficult to steal a crate of canned food every so often."
+			"You eat it cold?" Connor grimaced.
+			"It's better than the slop they served us at ODIN." she shrugged again. "Next on my list is to get a gas stove. Then, if needed, I can start hunting food too."
+			Connor grinned. "Listen... I own a motel, now. I mean, it's not a proper motel yet, but once I've finished sorting the place out... you'd be welcome to stay."
+			She looked away. "Maybe. There are still a few loose ends I need to tie up before I can make a commitment like that."
+			"You mean, you need to mentally prepare yourself to let your guard down around us." Connor cocked an eyebrow.
+			She went to deny it, but sighed instead. He gave her a soft smile, and nodded.
+			Reginald let out a soft coo, before flying back down to his roost.
+			"Besides, I'm not ready to leave my new friends behind." she grinned.
 
-		Clock Tower
-		______________________________
-		SCENE
-			"Jesus..." Gwen whispered in awe. "You really are hard to kill."
-			"Keep that in mind next time you take a contract against me." Connor quipped, before spitting out a globule of blood. He stumbled over to Sparky, and hoisted him over his shoulders.
-			"We've gotta go, now. The cops'll be here any second."
-			Gwen nodded, and rushed over to Ivan. She took his grappling hook, grabbed his waist, and fired into the rafters.
-			Connor watched, and focused his eyes. His crossbow re-formed, and he fired his grapple at the ceiling. It reeled back into his body.
-			Now at the edge of the building, he dug his heels, and pounced. The team sailed over the gap, and made their way through the rooftops of Angleport Harbour. Finally, they came to a stop a few blocks away, and caught their breath.
-			Sparky's eyes fluttered open weakly.
+			Connor stepped away, and looked back out the window, his eyes glazing slightly.
+			"What's wrong?" Gwen asked.
+			"Hm? Nothing, I'm fine."
+			"Connor." she said firmly. "We mind-merged, remember? That link never fully disconnects..."
+			He hesitated. "I ran into an old friend of yours, not long ago. Does the name 'Snakebite' ring a bell?"
+			She raised her eyebrows slightly. "Yes, it does."
+			"He shot me and Sparky with neocurare-laced bullets. Tried to kidnap us."
+			"Most likely, on the same orders I was under." she nodded. "...how is he?"
+			"Ivan told me some spooks have taken him away." Connor shrugged. "Not the KGB; but someone we can apparently trust."
+			"That's good. I'm... I'm surprised you didn't kill him."
+			"I didn't kill you, did I?" Connor grinned. "No, this was more... well, I... I mind-merged with him."
+			"He let you? He never even let me have a peek in there." she tilted her head.
+			"...no, he didn't let me."
+			"Oh." she realised. "I... I've done that before, too. Once. Only once."
+			Connor nodded softly. "I tried giving him an out. I just... I had to know where Sparky was."
+			"You don't need to justify it to me." she sighed. "It was the lesser evil, I'm sure."
+			"The lesser evil is still evil." Connor mused, looking away again. "I didn't look long. But long enough to see that you meant something to him."
+			She hesitated. "We served together on quite a few missions. Mainly, when we were hoping to capture a renegade rather than kill. Typically, he'd poison the target, while I'd kill their flunkies."
+			"And?"
+			She looked away too. Now, both were watching the skyline.
+			"In ODIN, making personal connections is... severely punishable. That's not to say they didn't exist, but there was always an element of paranoia. You had to be careful who you befriended, in case they would report on you to the instructors. When I was on mission with him though, I didn't have that fear. I got to be Gwen with him, even if I never called myself that."
+			Connor nodded softly. "He had feelings for you. Um... specific feelings."
+			"I know. He also knew I had no interest in... *that.*" she shrugged. "ODIN puts its 'students' on a cocktail of chemical augmentations, one of which destroys your libido. They view that kind of thing as a distraction."
+			"But you're not on the drug now, right?" Connor tilted his head. "Besides, just because you've been chemically castrated doesn't make you asexual; and certainly not aromantic."
+			"I said 'chemical augmentation.' My endocrine system has been modified to produce anti-aphrodisiacs. And yes, I am painfully aware that I can still find people attractive, and desire an emotional connection with them."
+			"Right... sorry." Connor nodded.
+			"Don't be. Anyway, I know he was pining after me. But truth be told, I was never particularly interested in him - regardless of my 'castration.'"
+			"Hey, it was that or 'spayed.'" Connor quipped. She looked at him like she wanted to be angry, but instead let out a chuckle.
+			Then, Connor's ears pricked up, as Sparky's eyes fluttered open weakly.
 			"Did we... did we win?" he asked.
 			Connor chuckled, stroking his packmate's ears.
 			"Yeah, buddy. We won."
+			"Where are we?"
 			Ivan's eyes shot open, as he sat upwards. He coughed, and forced himself to his feet.
-			"What happened?"
 			"Oh, yeah. Gwen, meet Ivan and Sparky. Guys, meet Gwen." Connor shrugged. "AKA, Whiplash."
 			Ivan looked her up and down, then nodded. "Thank you." he said curtly.
 			"Any time." she nodded back.
@@ -15338,20 +15433,18 @@ VOLUME - Wolves Among Sheep
 			Ivan rolled his shoulder, feeling it click. "Oh, chyort!" he gasped.
 			"What's wrong?" asked Connor.
 			"We left Isabella."
-			"You and that fucking gun..." Connor grinned. He turned to Gwen.
-			"So... bows and arrows? That's new."
-			She smirked. "*That's* your opening line?"
-			"Well, you might have to change your codename now, right?"
-			She chuckled, stroking Sparky's mane. "You know I'm called Whiplash because it's what my powers give people, right?"
-			"Shut up. You have a literal whip to fight with!" he protested.
-			"Yeah, because my powers make it a viable weapon. Same as archery. I had to go off-grid, but I knew if these bastards got a bigger presence in the city, they'd come for me. So, I took pre-emptive measures. A bow and arrow isn't my usual MO, so they won't suspect me - but I can use my powers to make it more effective than a gun."
-			Connor shrugged. "Does this mean you're team good-guy now?"
-			She hesitated. "Part-time."
-			"Works for me."
-			The four rose, looking down at the destruction.
+			"You and that fucking gun..." Connor grinned.
+
+			The four rose, and ascended to the rooftop.
 			"A monster like that would cost millions..." Ivan muttered. "We won't see anything like that again for a while."
 			He turned to his comrades. "I'll speak to my guys, get some new earpieces - this time, ones that they can't hack to make us deaf."
-			"That'd be nice." Connor snarked.
+			"That'd be nice." Connor snarked. "Gwen?"
+			She looked up. "Yes?"
+			"If you need me, you know where to find me."
+			"And now, likewise." she smiled. "Listen... I'll think about it, okay? I just need some time."
+			"No pressure." Connor nodded. "See you around."
+			She watched as Ivan grappled off, while the Werewolves glided away.
+			"Yeah... see you around." she whispered.
 
 			It was late, now. Midnight wasn't far.
 			Trey and Amy were shaken from their panic by a thud in the garden. They rushed outside, and saw the Werewolves morph their gliders back into themselves.
@@ -15373,7 +15466,7 @@ VOLUME - Wolves Among Sheep
 			"Love you too." Connor smiled back.
 			Amy smiled, and hugged both. They all sank into it.
 
-		Reconciling with Trey
+		Clock Tower/Reconciling with Trey
 		______________________________
 		SCENE
 			In the same manner in which the morning sun lazily dragged itself over the valley, Connor lazily dragged himself into the shower.
@@ -15534,7 +15627,7 @@ VOLUME - Wolves Among Sheep
 
 		Designing a costume
 
-	
+
 	______________________________
 	EPISODE - Heartache
 		______________________________
@@ -15566,7 +15659,7 @@ VOLUME - Wolves Among Sheep
 
 		Who You Love
 
-	
+
 	______________________________
 	EPISODE - Families
 		______________________________
@@ -16057,7 +16150,7 @@ VOLUME - Wolves Among Sheep
 
 		Reparations
 
-	
+
 	______________________________
 	EPISODE - Year's End
 		______________________________
@@ -16808,7 +16901,7 @@ VOLUME - Gods Among Men
 			Chloe chuckled and smiled, surprised. "Haha, privet, Connor! Ty uchilsya russkiy, poka menya ne bylo?" 
 			Connor shyly replied with "Hah, um, da - Ya ty uchilsya russkiy, poka menya ne bylo?" - fumbling over the words.
 			Chloe chuckled and smiled, respecting his effort. "Ah, you mean 'Ya uchilsya, poka tebya ne bylo.' - 'I learned while you were away.'"
-			Connor replied, grateful for the correction, "Ah, da, spasibo! Ya boryus... Ya boryus s..." in broken Russian before switching back to English. "Spoken languages were never my strong suit." he laughed awkwardly.
+			Connor replied, grateful for the correction, "Ah, da, spasibo! Ya... Ya yest..." in broken Russian before switching back to English. "Spoken languages were never my strong suit." he laughed awkwardly.
 			"[Good job I've been practicing, then.]" she signed, grinning.
 			"[Oh, well now I look like a *complete* idiot.]" he chuckled, signing back.
 			Meanwhile, Bea had headed straight for Trey and embraced him. Tea approached.
@@ -17112,7 +17205,7 @@ VOLUME - Gods Among Men
 
 		Motel/Naismith is in/Interrogating Jimmy
 
-	
+
 	______________________________
 	EPISODE - Public Enemy
 		______________________________
@@ -17124,7 +17217,7 @@ VOLUME - Gods Among Men
 
 		.
 
-	
+
 	______________________________
 	EPISODE - Purging
 		______________________________
@@ -17869,7 +17962,7 @@ VOLUME - Gods Among Men
 
 		Redbridge Purge
 
-	
+
 	______________________________
 	EPISODE - Tyrants
 		______________________________
@@ -18482,7 +18575,7 @@ VOLUME - Gods Among Men
 
 		Gathering Storm
 
-	
+
 	______________________________
 	EPISODE - Rebels
 		______________________________
@@ -19136,7 +19229,7 @@ VOLUME - Gods Among Men
 
 		Connor kills Dorsey
 
-	
+
 	______________________________
 	EPISODE - Hurt
 		______________________________
@@ -19830,7 +19923,7 @@ VOLUME - Gods Among Men
 
 		Denouement at Bea's
 
-	
+
 	______________________________
 	EPISODE - Fragile Hearts
 		______________________________
@@ -19854,12 +19947,6 @@ VOLUME - Gods Among Men
 			"Exactly. And our friend in the police needs to be there to see. According to a friend in the home office, this whole thing is causing quite a stir - so if the police learn of your prescence, they'll bring armed backup this time." Ivan explained. "Which means you'll need to kill any Super-Agents there and bolt before the cops try and get you."
 			"Sounds like an average Tuesday." Connor shrugged. Ivan chuckled in response.
 			"You've got it, tovarishch!"
-			Connor paused for a moment. "Where do you get this information from?" he asked. "Not the KGB, surely?"
-			"No... not KGB." Ivan replied eventually. "But... this, I can't tell you."
-			"Because you don't trust me?"
-			"Nyet! No... because my source trusts *me* to keep a secret."
-			Connor relaxed at that. "That's fair. But one day, I'd like to meet our shadowy benefactors."
-			"Hah! I am sure, when this business is finished, we will all go and drink vodka." Ivan laughed.
 			"By the way..." Connor hesitated. "Is the Murillo job still open?"
 			Ivan audibly grinned. "Good man, good man. Does next weekend work for you?"
 			"You bet it does." Connor nodded.
@@ -20395,7 +20482,7 @@ VOLUME - Gods Among Men
 
 		About time!
 
-	
+
 	______________________________
 	EPISODE - A Pack of Heroes
 		______________________________
@@ -21058,7 +21145,7 @@ VOLUME - Gods Among Men
 
 		Patrol
 
-	
+
 	______________________________
 	EPISODE - Odin's Eye
 		______________________________
@@ -21655,7 +21742,7 @@ VOLUME - Gods Among Men
 
 		Post-Murillo/I Hear You
 
-	
+
 	______________________________
 	EPISODE - Fire and Pain
 		______________________________
@@ -22269,7 +22356,7 @@ VOLUME - Gods Among Men
 
 		Yaz arrives
 
-	
+
 	______________________________
 	EPISODE - Warzones
 		______________________________
@@ -22805,7 +22892,7 @@ VOLUME - Gods Among Men
 
 		Splash/Catherine and William argue
 
-	
+
 	______________________________
 	EPISODE - Getting Closer
 		______________________________
@@ -23280,7 +23367,7 @@ VOLUME - Gods Among Men
 
 		Siege of Vitalis - Part 1
 
-	
+
 	______________________________
 	EPISODE - Gunshots
 		______________________________
@@ -23705,7 +23792,7 @@ VOLUME - Gods Among Men
 
 		Digging out the bullets
 
-	
+
 	______________________________
 	EPISODE - Truth & Reconciliation
 		______________________________
@@ -24148,7 +24235,7 @@ VOLUME - Gods Among Men
 
 		Chloe and Connor talk
 
-	
+
 	______________________________
 	EPISODE - Judgement Day
 		______________________________
@@ -24557,7 +24644,7 @@ VOLUME - Gods Among Men
 
 		Catching the Judge
 
-	
+
 	______________________________
 	EPISODE - Broken Hearts and Bones
 		______________________________
@@ -25399,7 +25486,7 @@ VOLUME - Gods Among Men
 
 		Vince's Wounds
 
-	
+
 	______________________________
 	EPISODE - Thicker than Water
 		______________________________
@@ -26134,7 +26221,7 @@ VOLUME - Gods Among Men
 
 		I Love You
 
-	
+
 	______________________________
 	EPISODE - Snowfall
 		______________________________
@@ -26668,7 +26755,7 @@ VOLUME - Gods Among Men
 
 		Consent
 
-	
+
 	______________________________
 	EPISODE - The Battle of Belson
 		______________________________
@@ -27997,7 +28084,7 @@ VOLUME - Age of Heroes
 
 		Don't Lose Your Head
 
-	
+
 	______________________________
 	EPISODE - Heartfelt
 		______________________________
@@ -28809,7 +28896,7 @@ VOLUME - Age of Heroes
 
 		Heading to Karelia
 
-	
+
 	______________________________
 	EPISODE - The Last Judgement
 		______________________________
@@ -29332,7 +29419,7 @@ VOLUME - Age of Heroes
 
 		Return
 
-	
+
 	______________________________
 	EPISODE - Bird of Prey
 		______________________________
@@ -29403,7 +29490,7 @@ VOLUME - Age of Heroes
 		______________________________
 		SCENE
 
-	
+
 	______________________________
 	EPISODE - PLACEHOLDER
 

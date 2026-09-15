@@ -1074,7 +1074,7 @@
                 if (!progress || !progress.sceneName) return;
                 resumeBanner.innerHTML = `↩ Resumed from <strong>${escapeHtml(progress.sceneName)}</strong>`;
                 resumeBanner.classList.add('visible');
-                setTimeout(() => resumeBanner.classList.remove('visible'), 5000);
+                setTimeout(() => resumeBanner.classList.remove('visible'), 1000);
             }
             function setFocusMode(enabled) {
                 document.body.classList.toggle('focus-mode', enabled);

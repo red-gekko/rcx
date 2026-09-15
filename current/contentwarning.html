@@ -257,6 +257,326 @@
             font-style: italic;
         }
 
+        /* ── Tag filter panel ── */
+        .tag-filter-panel {
+            margin: 24px 0 10px 0;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 10px;
+            padding: 18px 22px;
+        }
+
+        .tag-filter-panel .filter-guide {
+            font-size: 0.88rem;
+            color: #8b949e;
+            margin-bottom: 14px;
+            line-height: 1.6;
+        }
+
+        .tag-filter-panel .filter-guide strong {
+            color: #c9d1d9;
+        }
+
+        .tag-filter-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 12px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .tag-filter-header h3 {
+            margin: 0;
+            font-size: 1rem;
+            color: #f0f6fc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .tag-filter-header .chevron {
+            display: inline-block;
+            transition: transform 0.25s ease;
+            font-size: 0.8rem;
+            color: #8b949e;
+        }
+
+        .tag-filter-panel.collapsed .tag-filter-header .chevron {
+            transform: rotate(-90deg);
+        }
+
+        .tag-filter-body {
+            overflow: hidden;
+            max-height: 4000px;
+            transition: max-height 0.35s ease, opacity 0.3s ease;
+            opacity: 1;
+        }
+
+        .tag-filter-panel.collapsed .tag-filter-body {
+            max-height: 0;
+            opacity: 0;
+        }
+
+        .tag-search-input {
+            width: 100%;
+            padding: 9px 14px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            background-color: #161b22;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            margin-bottom: 14px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+
+        .tag-search-input:focus {
+            outline: none;
+            border-color: #58a6ff;
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.15);
+        }
+
+        .tag-search-input::placeholder {
+            color: #6e7681;
+        }
+
+        /* ── AND/OR toggle ── */
+        .match-mode-toggle {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 14px;
+            flex-wrap: wrap;
+        }
+
+        .match-mode-toggle .toggle-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: #8b949e;
+        }
+
+        .match-mode-toggle .toggle-btn-group {
+            display: inline-flex;
+            border-radius: 8px;
+            overflow: hidden;
+            border: 1px solid #30363d;
+            background: #161b22;
+        }
+
+        .match-mode-toggle .toggle-btn {
+            font-family: inherit;
+            font-size: 0.8rem;
+            font-weight: 600;
+            letter-spacing: 0.5px;
+            padding: 6px 18px;
+            background: transparent;
+            color: #8b949e;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s, color 0.2s;
+        }
+
+        .match-mode-toggle .toggle-btn:hover {
+            background: #21262d;
+            color: #c9d1d9;
+        }
+
+        .match-mode-toggle .toggle-btn.active {
+            background: #1f3d2a;
+            color: #56d364;
+        }
+
+        .match-mode-toggle .toggle-btn.active.or-active {
+            background: #2a2114;
+            color: #f0c890;
+        }
+
+        .match-mode-toggle .toggle-hint {
+            font-size: 0.78rem;
+            color: #6e7681;
+            font-style: italic;
+        }
+
+        /* ── Selected filters bar ── */
+        .selected-filters-bar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 14px;
+            min-height: 0;
+        }
+
+        .selected-filters-bar:empty {
+            display: none;
+        }
+
+        .selected-filters-bar .active-filter-pill {
+            font-size: 0.74rem;
+            font-weight: 600;
+            padding: 4px 10px;
+            border-radius: 20px;
+            background: #1f3d2a;
+            border: 1px solid #3fb950;
+            color: #56d364;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .selected-filters-bar .active-filter-pill .remove-filter {
+            cursor: pointer;
+            font-weight: 700;
+            opacity: 0.7;
+            transition: opacity 0.15s;
+        }
+
+        .selected-filters-bar .active-filter-pill .remove-filter:hover {
+            opacity: 1;
+        }
+
+        /* ── Unselected tags submenu ── */
+        .unselected-tags-wrapper {
+            border-top: 1px solid #21262d;
+            margin-top: 10px;
+            padding-top: 10px;
+        }
+
+        .unselected-tags-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            user-select: none;
+            font-size: 0.82rem;
+            font-weight: 600;
+            color: #8b949e;
+            padding: 4px 0;
+            transition: color 0.2s;
+        }
+
+        .unselected-tags-header:hover {
+            color: #c9d1d9;
+        }
+
+        .unselected-tags-header .unselected-chevron {
+            display: inline-block;
+            transition: transform 0.25s ease;
+            font-size: 0.7rem;
+        }
+
+        .unselected-tags-wrapper.collapsed .unselected-tags-header .unselected-chevron {
+            transform: rotate(-90deg);
+        }
+
+        .unselected-tags-body {
+            overflow: hidden;
+            max-height: 2000px;
+            transition: max-height 0.35s ease, opacity 0.3s ease;
+            opacity: 1;
+            margin-top: 8px;
+        }
+
+        .unselected-tags-wrapper.collapsed .unselected-tags-body {
+            max-height: 0;
+            opacity: 0;
+            margin-top: 0;
+        }
+
+        .unselected-tags-count {
+            font-weight: 400;
+            color: #6e7681;
+            font-size: 0.78rem;
+        }
+
+        .tag-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 7px;
+        }
+
+        .tag-cloud .cloud-tag {
+            font-size: 0.74rem;
+            font-weight: 600;
+            letter-spacing: 0.3px;
+            padding: 5px 12px;
+            border-radius: 20px;
+            background: #21262d;
+            color: #c9d1d9;
+            border: 1px solid #30363d;
+            cursor: pointer;
+            transition: background 0.2s, border-color 0.2s, color 0.2s, transform 0.1s;
+        }
+
+        .tag-cloud .cloud-tag:hover {
+            background: #30363d;
+            border-color: #58a6ff;
+            color: #e6edf3;
+        }
+
+        .tag-cloud .cloud-tag.hidden-by-search {
+            display: none;
+        }
+
+        .no-matching-tags {
+            display: none;
+            font-size: 0.82rem;
+            color: #6e7681;
+            font-style: italic;
+            padding: 8px 0;
+        }
+
+        .no-matching-tags.visible {
+            display: block;
+        }
+
+        .clear-filters-btn {
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 20px;
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #c9d1d9;
+            cursor: pointer;
+            transition: background 0.2s, border-color 0.2s;
+        }
+
+        .clear-filters-btn:hover {
+            background: #30363d;
+            border-color: #f85149;
+            color: #f0a0a0;
+        }
+
+        .episode-warning.filtered-out {
+            display: none;
+        }
+
+        .volume-block.all-episodes-hidden {
+            display: none;
+        }
+
+        .no-results-message {
+            display: none;
+            padding: 24px;
+            text-align: center;
+            color: #8b949e;
+            font-style: italic;
+            font-size: 0.92rem;
+            background: #0d1117;
+            border: 1px dashed #30363d;
+            border-radius: 10px;
+            margin: 10px 0;
+        }
+
+        .no-results-message.visible {
+            display: block;
+        }
+
         /* ── Contact form ── */
         .contact-section {
             margin-top: 48px;
@@ -532,6 +852,58 @@
             <span class="tag severe">Severe</span> — graphic, sustained, or central to the episode.
             <span class="tag none">None</span> — no significant content beyond baseline.
         </p>
+
+        <!-- ── TAG FILTER PANEL (collapsible, dynamic, with AND/OR and collapsible unselected tags) ── -->
+        <div class="tag-filter-panel" id="tagFilterPanel">
+            <div class="filter-guide">
+                <strong>🔍 Tag filter guide:</strong> This panel collects every unique tag from the episode warnings below.
+                Use the search box to narrow down tags by text. Click any tag to filter the episode list.
+                Choose <strong>AND</strong> to show only episodes that contain <em>all</em> selected tags, or
+                <strong>OR</strong> to show episodes that contain <em>any</em> of the selected tags.
+                Selected tags are highlighted in green and shown at the top of the panel.
+                Click a selected tag again (or use ✕ on the pill) to remove it.
+                The full list of unselected tags is tucked away in the collapsible section below — expand it
+                whenever you want to browse or add more filters. When no tags are selected, episodes return
+                to their original order.
+            </div>
+
+            <div class="tag-filter-header" id="tagFilterHeader">
+                <h3>🏷️ Filter by Tag <span class="chevron">▼</span></h3>
+                <button class="clear-filters-btn" id="clearFiltersBtn" type="button">Clear all filters</button>
+            </div>
+
+            <div class="tag-filter-body" id="tagFilterBody">
+                <input type="text" class="tag-search-input" id="tagSearchInput" placeholder="Type to search tags…" autocomplete="off">
+
+                <!-- AND / OR toggle -->
+                <div class="match-mode-toggle" id="matchModeToggle">
+                    <span class="toggle-label">Match mode:</span>
+                    <div class="toggle-btn-group" role="group" aria-label="Match mode">
+                        <button class="toggle-btn active" id="modeAndBtn" type="button" data-mode="AND">AND</button>
+                        <button class="toggle-btn" id="modeOrBtn" type="button" data-mode="OR">OR</button>
+                    </div>
+                    <span class="toggle-hint" id="modeHint">Episodes must contain all selected tags</span>
+                </div>
+
+                <!-- Selected filter pills -->
+                <div class="selected-filters-bar" id="selectedFiltersBar"></div>
+
+                <!-- Unselected tags (collapsible, closed by default) -->
+                <div class="unselected-tags-wrapper collapsed" id="unselectedTagsWrapper">
+                    <div class="unselected-tags-header" id="unselectedTagsHeader">
+                        <span class="unselected-chevron">▼</span>
+                        <span>Browse all tags</span>
+                        <span class="unselected-tags-count" id="unselectedTagsCount"></span>
+                    </div>
+                    <div class="unselected-tags-body" id="unselectedTagsBody">
+                        <div class="tag-cloud" id="tagCloud"></div>
+                        <div class="no-matching-tags" id="noMatchingTags">No tags match your search.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ── VOLUMES & EPISODES (original content) ── -->
 <!-- ============================================================= -->
 <!-- VOLUME - CODEX                                                -->
 <!-- ============================================================= -->
@@ -906,7 +1278,7 @@
             <span class="tag moderate">Chemical and sonic weapons (depicted)</span>
             <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
             <span class="tag mild">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag mild">Discussion of child loss and the Drackhill Outbreak (referenced)</span>
+            <span class="tag mild">Discussion of maternal death (referenced)</span>
             <span class="tag mild">Discussion of far-right politics (depicted)</span>
             <span class="tag mild">Discussion of homeless and trans youth (depicted)</span>
             <span class="tag mild">Blood and gore (depicted)</span>
@@ -1012,7 +1384,7 @@
             <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
             <span class="tag moderate">Depiction of trauma and grief (depicted)</span>
-            <span class="tag moderate">Discussion of the Drackhill Outbreak and child loss (referenced)</span>
+            <span class="tag moderate">Discussion of maternal death (referenced)</span>
             <span class="tag moderate">Depiction of chemical and electrical torture (depicted)</span>
             <span class="tag mild">Discussion of past abuse and neglect (referenced)</span>
             <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
@@ -1064,7 +1436,7 @@
             <span class="tag severe">Grief and bereavement (depicted)</span>
             <span class="tag moderate">Depiction of past trauma and loss (referenced)</span>
             <span class="tag moderate">Discussion of chronic illness and disability (depicted)</span>
-            <span class="tag moderate">Discussion of child loss and familial blame (depicted)</span>
+            <span class="tag moderate">Discussion of maternal death and familial blame (depicted)</span>
             <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
             <span class="tag moderate">Strong language</span>
             <span class="tag mild">Discussion of war and conflict (referenced)</span>
@@ -1379,7 +1751,7 @@
         <div class="ep-tags">
             <span class="tag severe">Graphic violence (depicted)</span>
             <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of child death and bereavement (depicted)</span>
+            <span class="tag severe">Graphic depiction of maternal death and bereavement (depicted)</span>
             <span class="tag severe">Depiction of medical trauma and body horror (depicted)</span>
             <span class="tag severe">Depiction of torture and mutilation (depicted)</span>
             <span class="tag severe">Gun violence (depicted)</span>
@@ -1766,6 +2138,282 @@
                 }
                 document.body.removeChild(ta);
             }
+        })();
+    </script>
+
+    <!-- ── TAG FILTER SCRIPT (dynamic, AND/OR, collapsible unselected tags) ── -->
+    <script>
+        (function () {
+            'use strict';
+
+            // ── DOM refs ──
+            const panel = document.getElementById('tagFilterPanel');
+            const header = document.getElementById('tagFilterHeader');
+            const searchInput = document.getElementById('tagSearchInput');
+            const tagCloud = document.getElementById('tagCloud');
+            const selectedBar = document.getElementById('selectedFiltersBar');
+            const clearBtn = document.getElementById('clearFiltersBtn');
+            const modeAndBtn = document.getElementById('modeAndBtn');
+            const modeOrBtn = document.getElementById('modeOrBtn');
+            const modeHint = document.getElementById('modeHint');
+
+            const unselectedWrapper = document.getElementById('unselectedTagsWrapper');
+            const unselectedHeader = document.getElementById('unselectedTagsHeader');
+            const unselectedCount = document.getElementById('unselectedTagsCount');
+            const noMatchingTags = document.getElementById('noMatchingTags');
+
+            const episodeWarnings = Array.from(document.querySelectorAll('.episode-warning'));
+            const volumeBlocks = Array.from(document.querySelectorAll('.volume-block'));
+
+            // ── State ──
+            let selectedTags = new Set();
+            let allTagData = []; // { text, count, severity }
+            let matchMode = 'AND'; // 'AND' or 'OR'
+
+            // ── 1. Collect unique tags ──
+            function collectTags() {
+                const tagMap = new Map();
+
+                episodeWarnings.forEach(function (ep) {
+                    const tags = ep.querySelectorAll('.ep-tags .tag');
+                    tags.forEach(function (tagEl) {
+                        const text = tagEl.textContent.trim();
+                        if (!text) return;
+                        let severity = '';
+                        if (tagEl.classList.contains('severe')) severity = 'severe';
+                        else if (tagEl.classList.contains('moderate')) severity = 'moderate';
+                        else if (tagEl.classList.contains('mild')) severity = 'mild';
+                        else if (tagEl.classList.contains('none')) severity = 'none';
+
+                        if (!tagMap.has(text)) {
+                            tagMap.set(text, { count: 1, severity: severity || 'mild' });
+                        } else {
+                            tagMap.get(text).count++;
+                        }
+                    });
+                });
+
+                allTagData = Array.from(tagMap.entries()).map(function ([text, meta]) {
+                    return { text: text, count: meta.count, severity: meta.severity };
+                });
+            }
+
+            // ── 2. Render tag cloud (only unselected tags go here now) ──
+            function renderTagCloud() {
+                const searchTerm = searchInput.value.trim().toLowerCase();
+
+                // Only show unselected tags in the cloud
+                const unselectedTags = allTagData.filter(function (tag) {
+                    return !selectedTags.has(tag.text);
+                }).sort(function (a, b) {
+                    return a.text.localeCompare(b.text);
+                });
+
+                // Apply search filter
+                const visibleTags = unselectedTags.filter(function (tag) {
+                    return !searchTerm || tag.text.toLowerCase().includes(searchTerm);
+                });
+
+                tagCloud.innerHTML = '';
+
+                visibleTags.forEach(function (tag) {
+                    const el = document.createElement('span');
+                    el.className = 'cloud-tag';
+                    el.textContent = tag.text;
+                    el.dataset.tagText = tag.text;
+                    el.dataset.severity = tag.severity;
+
+                    el.addEventListener('click', function () {
+                        toggleTag(tag.text);
+                    });
+
+                    tagCloud.appendChild(el);
+                });
+
+                // Show/hide "no matching tags" message
+                if (visibleTags.length === 0) {
+                    noMatchingTags.classList.add('visible');
+                } else {
+                    noMatchingTags.classList.remove('visible');
+                }
+
+                // Update the unselected count badge
+                if (unselectedTags.length === 0) {
+                    unselectedCount.textContent = '(none left)';
+                } else if (searchTerm && visibleTags.length !== unselectedTags.length) {
+                    unselectedCount.textContent = '(' + visibleTags.length + ' of ' + unselectedTags.length + ')';
+                } else {
+                    unselectedCount.textContent = '(' + unselectedTags.length + ')';
+                }
+            }
+
+            // ── 3. Toggle a tag ──
+            function toggleTag(tagText) {
+                if (selectedTags.has(tagText)) {
+                    selectedTags.delete(tagText);
+                } else {
+                    selectedTags.add(tagText);
+                }
+                updateAll();
+            }
+
+            // ── 4. Update everything ──
+            function updateAll() {
+                renderSelectedBar();
+                renderTagCloud();
+                applyFilters();
+            }
+
+            // ── 5. Render active filter pills ──
+            function renderSelectedBar() {
+                selectedBar.innerHTML = '';
+                if (selectedTags.size === 0) return;
+
+                const sortedSelected = Array.from(selectedTags).sort();
+                sortedSelected.forEach(function (tagText) {
+                    const pill = document.createElement('span');
+                    pill.className = 'active-filter-pill';
+                    pill.innerHTML = tagText + ' <span class="remove-filter" title="Remove filter">✕</span>';
+
+                    pill.querySelector('.remove-filter').addEventListener('click', function (e) {
+                        e.stopPropagation();
+                        selectedTags.delete(tagText);
+                        updateAll();
+                    });
+
+                    selectedBar.appendChild(pill);
+                });
+            }
+
+            // ── 6. Update mode hint ──
+            function updateModeHint() {
+                if (matchMode === 'AND') {
+                    modeHint.textContent = 'Episodes must contain all selected tags';
+                } else {
+                    modeHint.textContent = 'Episodes may contain any selected tag';
+                }
+            }
+
+            // ── 7. Filter episodes ──
+            function applyFilters() {
+                const noResultsMsg = document.getElementById('noResultsMsg');
+                if (noResultsMsg) noResultsMsg.remove();
+
+                if (selectedTags.size === 0) {
+                    episodeWarnings.forEach(function (ep) {
+                        ep.classList.remove('filtered-out');
+                    });
+                    volumeBlocks.forEach(function (vol) {
+                        vol.classList.remove('all-episodes-hidden');
+                    });
+                    return;
+                }
+
+                let anyVisible = false;
+
+                episodeWarnings.forEach(function (ep) {
+                    const tagsInEp = Array.from(ep.querySelectorAll('.ep-tags .tag')).map(function (el) {
+                        return el.textContent.trim();
+                    });
+
+                    let matches;
+                    if (matchMode === 'AND') {
+                        matches = Array.from(selectedTags).every(function (tag) {
+                            return tagsInEp.includes(tag);
+                        });
+                    } else {
+                        matches = Array.from(selectedTags).some(function (tag) {
+                            return tagsInEp.includes(tag);
+                        });
+                    }
+
+                    if (matches) {
+                        ep.classList.remove('filtered-out');
+                        anyVisible = true;
+                    } else {
+                        ep.classList.add('filtered-out');
+                    }
+                });
+
+                volumeBlocks.forEach(function (vol) {
+                    const visibleEps = vol.querySelectorAll('.episode-warning:not(.filtered-out)');
+                    if (visibleEps.length === 0) {
+                        vol.classList.add('all-episodes-hidden');
+                    } else {
+                        vol.classList.remove('all-episodes-hidden');
+                    }
+                });
+
+                if (!anyVisible) {
+                    const msg = document.createElement('div');
+                    msg.id = 'noResultsMsg';
+                    msg.className = 'no-results-message visible';
+                    msg.textContent = 'No episodes match the selected tags in ' + matchMode + ' mode. Try changing the mode or removing some filters.';
+                    const firstVolume = document.querySelector('.volume-block');
+                    if (firstVolume) {
+                        firstVolume.parentNode.insertBefore(msg, firstVolume);
+                    } else {
+                        document.querySelector('.container').appendChild(msg);
+                    }
+                }
+            }
+
+            // ── 8. Search input ──
+            searchInput.addEventListener('input', function () {
+                renderTagCloud();
+            });
+
+            // ── 9. Collapsible main panel ──
+            header.addEventListener('click', function (e) {
+                if (e.target.closest('#clearFiltersBtn')) return;
+                panel.classList.toggle('collapsed');
+            });
+
+            // ── 10. Collapsible unselected tags submenu ──
+            unselectedHeader.addEventListener('click', function () {
+                unselectedWrapper.classList.toggle('collapsed');
+            });
+
+            // ── 11. Clear all filters ──
+            clearBtn.addEventListener('click', function (e) {
+                e.stopPropagation();
+                selectedTags.clear();
+                searchInput.value = '';
+                updateAll();
+            });
+
+            // ── 12. AND/OR mode ──
+            modeAndBtn.addEventListener('click', function () {
+                if (matchMode === 'AND') return;
+                matchMode = 'AND';
+                modeAndBtn.classList.add('active');
+                modeOrBtn.classList.remove('active', 'or-active');
+                updateModeHint();
+                applyFilters();
+            });
+
+            modeOrBtn.addEventListener('click', function () {
+                if (matchMode === 'OR') return;
+                matchMode = 'OR';
+                modeOrBtn.classList.add('active', 'or-active');
+                modeAndBtn.classList.remove('active');
+                updateModeHint();
+                applyFilters();
+            });
+
+            // ── 13. Init ──
+            function init() {
+                collectTags();
+                if (allTagData.length === 0) return;
+
+                panel.classList.remove('collapsed');
+                // Unselected tags wrapper already has 'collapsed' class in HTML
+                updateModeHint();
+                renderTagCloud();
+                applyFilters();
+            }
+
+            init();
         })();
     </script>
 </body>

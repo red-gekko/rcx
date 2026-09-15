@@ -39,7 +39,7 @@ VOLUME - CODEX
 			That same year, the Tunguska Event terrified locals. None yet knew of the true horrors to come.
 
 			Then, in 1914, a Serbian man shot an Austrian archduke. Almost as soon as German boots crossed into Liege, the British government announced its declaration of war. American businessmen grinned unanimously, making a fortune selling guns and munitions to the Entente.
-			1917 was a tumultuous year. Russia had fallen, with fighting between Socialist forces and reactionary remnants.	Yet at the same time, the Ottoman Empire fell to the Arab revolt. American soldiers landed in the trenches of Saint-Mihiel, and began to turn the tide against the German juggernaut.
+			1917 was a tumultuous year. Russia had fallen, with fighting between Socialist forces and reactionary remnants. Yet at the same time, the Ottoman Empire fell to the Arab revolt. American soldiers landed in the trenches of Saint-Mihiel, and began to turn the tide against the German juggernaut.
 
 			By 1918, an exhausted continent signed the Treaty of Versailles.
 			A wise man once said "The only fair deal is one where no-one is happy."
@@ -48,7 +48,7 @@ VOLUME - CODEX
 			Imperialism carried on as if nothing had happened - as if it didn't just result in an entire generation being fed into the meat-grinders.
 			In Ireland, hopeful revolutionaries who had been fighting since Easter, 1916 - and 800 years before then - believed they were going to win. Their hopes were dashed by chance - a string of unlikely British victories, along with the assassination of IRA leadership, ended in a smouldering Eire with the Union Jack still flying over the ashes of Dublin.
 			The Imperial Boomerang was in full effect - the Empire's totalitarianism abroad fostered totalitarianism at home. Strikes were outlawed, the nascent Labour Party was disbanded, and the British State - and its disgustingly wealthy owners - reigned supreme.
-			Across the Empire, things were no different. Egypt faced a brutal crackdown and was forced under direct rule from London; Canada had prison camps built specifically for the internment of Quebecois nationalists; the colonies of Oceania were reforged into the Commonwealth of Australasia, whose first Act of Parliament was the "White Australasia Policy" and the 'pacification' of indigenous rebels; the combined Dominion of South Africa absorbed Namibia and Rhodesia, with criminals across the Empire being deported to the 'frontier' - the goal being the elimination of the Black Native as a sovereign force.
+			Across the Empire, things were no different. Egypt faced a brutal crackdown and was forced under direct rule from London; Canada had prison camps built specifically for the internment of Quebecois nationalists; the colonies of Oceania were reforged into the Commonwealth of Australasia, whose first Act of Parliament was the 'White Australasia Policy' and the 'pacification' of indigenous rebels; the combined Dominion of South Africa absorbed Namibia and Rhodesia, with criminals across the Empire being deported to the 'frontier' - the goal being the elimination of the Black Native as a sovereign force.
 			Perhaps most dystopian of all, for the peoples of the Raj, nothing changed at all.
 			In fact, the only Imperialist quagmire avoided was in Arabia. Focus on consolidation of its existing Empire meant the British had no interest in Sykes-Picot - instead viewing a unified Hashemite kingdom as a valuable proxy state. The "Hashemite Kingdom of Arabia," stretching from Palestine to Baghdad and Damascus to Sana'a, had as much independence as you could want - aside from every major corporation in the kingdom being a British, American, or French subsidiary.
 
@@ -56,9 +56,9 @@ VOLUME - CODEX
 			Then, in a mansion in Gorki in 1924, Vladimir Lenin breathed his last. He was succeeded by a troika of Nikolai Bukharin, Leon Trotsky, and Grigory Zinoviev. Josef Stalin, and his Bonapartist clique, were ousted after his disastrous performance in the Polish-Soviet war - but his cronies began the work of infiltrating the state apparatus.
 			The war had brought Eurasia to its knees. But thankfully, careful industrialisation, organised collectivisation, the New Economic Policies, and decentralised leadership managed to prevent a food shortage in Ukraine and Kazakhstan from becoming a full-fledged famine.
 
-			The Great Depression shattered the American spirit, but from the ashes, Senator Huey Long built a national machine with his "Share Our Wealth" program.
-			President Franklin D. Roosevelt responded with his own New Deal, but the political landscape was fractured. In 1934, the shadowy "Business Plot" to overthrow the government was exposed and thwarted by the heroic testimony of General Smedley Butler, revealing the rot at the heart of American capital.
-			In 1935, a son of a judge shot Long in the chest - hitting his pocketbook. Long's bodyguard immediately slew the assassin, but the Kingfish's paranoia and megalomania only grew. Convinced of a vast right-wing conspiracy out to get him - not entirely without merit, it must be said - he knew exactly what to do. The 1936 elections were looming, and he approached FDR with a choice - Give me power, or I'll run as a spoiler.
+			The Great Depression shattered the American spirit, but from the ashes, Senator Huey Long built a national machine with his 'Share Our Wealth' program.
+			President Franklin D. Roosevelt responded with his own New Deal, but the political landscape was fractured. In 1934, the shadowy 'Business Plot' to overthrow the government was exposed and thwarted by the heroic testimony of General Smedley Butler, revealing the rot at the heart of American capital.
+			In 1935, a son of a judge shot Long in the chest - hitting his pocketbook. Long's bodyguard immediately slew the assassin, but the Kingfish's paranoia and megalomania only grew. Convinced of a vast right-wing conspiracy out to get him - not entirely without merit, it must be said - he knew exactly what to do. The 1936 elections were looming, and he approached FDR with a choice - "Give me power, or I'll run as a spoiler."
 
 			The Democratic Party wanted nothing to do with Long's populist policies, but Roosevelt knew he couldn't win with Long in the running - so he approached him, covertly. He expected an egomaniac who would demand the Vice Presidency for himself - but instead, he fell into the traps of a shrewd political operator.
 			Long demanded appointment as head of the WPA, the key agency of the New Deal - and demanded that said appointment be made a cabinet position. He also demanded General Butler be made Secretary of War.
@@ -71,7 +71,7 @@ VOLUME - CODEX
 		SCENE
 			But while the USA saw exposure of fascist plots, and the USSR saw a new age of democratic socialism, the European Continent went rabid.
 			In Italy, the home of the word 'Empire,' Benito Mussolini's Blackshirts marched on Rome, forging a fascist model others were eager to follow. Their brutal conquest of Ethiopia, their genocidal actions in Libya, their annexation of Albania, and their puppeteering of Greece, made them seem like the kings of the New Order in Europe.
-			That is, until another king entered the castle. In Germany, the Nazi Party rose to power on a tide of resentment, its growth fueled by a brutal campaign of street violence and a new, escalating terror campaign by the radicalised KPD. 
+			That is, until another king entered the castle. In Germany, the Nazi Party rose to power on a tide of resentment, its growth fuelled by a brutal campaign of street violence and a new, escalating terror campaign by the radicalised KPD. 
 			Hitler was well aware of the growing resentment to capitalism, and so he used an ancient trick to Empire - blame someone else. Every rich pig in German high society was quick to blame all the problems of their robber-baronism on a secret, Jewish cabal. Antisemitism was the greatest tool of German capital - an imaginary group of devious financiers, obscuring the very real group of devious financiers, all swearing fealty to the Fuhrer.
 
 			The Soviet Union, seeing full well the growing fascist movements, did not sit idly by like the isolationists in Washington. It provided arms and advisors to communist proxies in the Chinese Civil War and watched Poland closely, forging a pact with France in the face of British indifference to the inevitable war.
@@ -103,7 +103,7 @@ VOLUME - CODEX
 
 			The invasion was swift - the US Army was welcomed into Ottawa with only token resistance. To the Canadians' horror, however, the Americans decided that independence was not their destiny - instead, the Provinces of Canada became incorporated as States. The anti-Empire movement was split - some supporting American statehood, with most demanding total independence - and a not-insignificant Loyalist minority only added further fuel to the fire.
 			Losing Canada and the Raj sent a clear message across the Empire - Australasia was next, declaring unilateral independence; while South Africa threw out the British, and welcomed the Germans - becoming a non-belligerent Axis pact member. The African colonies broke free in near-unison, while the Caribbean saw American occupation replace British dominance. Ireland tried once again to break free, but the British, now no longer needing to station forces away from the Isles, had another idea.
-			Driven mad by the unstoppable collapse of its Empire, and fueled by rabid hatred towards the birthplace of anti-Imperial action, the punishment of Ireland made the failed Independence War seem tame in its bloodshed. Having taken out its frustrations on the Emerald Isle, Britain sued for peace with the American juggernaut.
+			Driven mad by the unstoppable collapse of its Empire, and fuelled by rabid hatred towards the birthplace of anti-Imperial action, the punishment of Ireland made the failed Independence War seem tame in its bloodshed. Having taken out its frustrations on the Emerald Isle, Britain sued for peace with the American juggernaut.
 			Come the 1944 elections, President Long swore his oath of office to crowds of cheering supporters. Vice President Wallace stood beside him, secretly hating his puppeteering ways.
 
 			Back in Europe, the Nazi forces floundered against the Soviet walls. Pushed back to Berlin, with uprisings across Western Europe and a looming American invasion, the Soviets decided to end this war with flair. Twice in a century, they'd faced German aggression - this time, with the crime of crimes being committed against their citizens. They were determined that the German people would never again threaten them.
@@ -134,7 +134,7 @@ VOLUME - CODEX
 			Ireland remained under British rule. Another, slightly more successful revolt, led to devolution for Connaught, Leinster, and Munster - collectively known as the Autonomy. Ulster, however, was still ruled straight from London, with gerrymandering allowing the Protestant minority to hold a majority of power.
 			The Troubles never ended. The Catholic provinces had substantial Loyalist minorities, imported over by the Brits after its brutal depopulation strategy of 1944. No Irish state could be born without mass-terrorism from its Loyalist subjects - a fifth column, and a hallmark of British imperial strategy: Divide and Rule.
 
-			Surprisingly, the two superpowers managed to avoid a nuclear arms race. Wallace had hobbled the early efforts of the so-called "Manhattan" project, while the Soviets had no interest in building superweapons instead of train lines. While both powers continued research into peaceful nuclear power, and secretly maintained a tiny arsenal of weaponry, neither openly pointed global annihilation at the other.
+			Surprisingly, the two superpowers managed to avoid a nuclear arms race. Wallace had hobbled the early efforts of the so-called 'Manhattan' project, while the Soviets had no interest in building superweapons instead of train lines. While both powers continued research into peaceful nuclear power, and secretly maintained a tiny arsenal of weaponry, neither openly pointed global annihilation at the other.
 
 			Elsewhere in the nascent anti-communist bloc, the capitalist nations pursued reactionary politics to divide their working class. Apartheid carried on alive and well in South Africa. Australasia became a brutal police state, propping up puppet states in Papua and Indonesia. In the States, the Civil Rights Act of 1947 was still on the books, but was swiftly undermined by crypto-racist policies that restored segregation in all but name.
 
@@ -343,31 +343,21 @@ VOLUME - Wolves Among Sheep
 		SCENE
 			"The Singing Horse."
 			Certainly not the most orthodox of names for a bustling nightclub, but it was one you'd remember.
-			Trey, Connor, and a third young man were sat round a table. The music was quieter in this spot, allowing conversation, however dull and drunken, to take place.
+			Trey and Connor were sat round a table. The music was quieter in this spot, allowing conversation, however dull and drunken, to take place.
 			"Okay, fine." Connor rolled his eyes. "I'm glad you convinced me to come out tonight."
-			Connor had changed out of his overalls now, and wore clothes that were more 'him' - a red pullover hoodie, a black bomber jacket, black jeans, comfortable workman's boots, and a black baseball cap. In other words, a red hoodie to contrast the black *everything else.*
-			"Told ya!" Trey laughed, sipping his beer. He seemed much more comfortable in his clothes - a tie-dyed t-shirt, a green zip-up hoodie, and blue, acid-washed jeans, ending in a pair of similar boots. His hair was in a more relaxed ponytail now, pulled to the back and with a number of locks at the front dangling by his temples.
-			"Oi oi, boys - sexy tings, 12 o'clock." the third man said, pointing at some women. He had light, pasty skin, a brown buzzcut, and patchy, scruffy facial hair. He was wearing a tracksuit, with a flat-brimmed baseball cap and a waist bag. He looked like he was trying - and failing - to look like a drug dealer.
-			"First, Trey doesn't say 'tings' and his family's Jamaican, second, that direction's not 12, that would be 4 o'clock, and third, have you ever been on a night out and not thought with your dick, Jake?" Connor retorted, clearly not fond of him.
-			"Yeah, yeah. Just because they were your neighbours, right?"
+			Connor had changed out of his overalls now, and wore clothes that were more 'him' - a red pullover hoodie, a black jacket, jeans, comfortable workman's boots, and a logoless baseball  cap. In other words, a red hoodie to contrast the black *everything else.*
+			"Told ya!" Trey laughed, sipping his beer. He seemed much more comfortable in his clothes - a tie-dyed t-shirt, a green bomber jacket, and blue, acid-washed jeans, ending in a pair of similar boots. His hair was in a more relaxed ponytail now, pulled to the back and with a number of locks at the front dangling by his temples.
+			Connor took a breath, his shoulders still holding tension.
+			"Hey..." Trey began. "If you need to go, I won't be upset."
+			"I know." Connor nodded. "I like spending time with you. It's just... I feel tight. In my chest."
+			"You need another drink?"
+			"Nah, I'm fine." he smiled. "You know, I kinda wish I could purr like a cat."
 			"...what?"
-			"O'Clock? Irish name, right?"
-			Connor looked at him, blankly.
-			"It's a fuckin' joke, man!"
-			"I know. It just wasn't funny." Connor grinned.
-			"Shut up bruv!" Jake snapped. "Just because I get pussy and you don't."
-			"Fuck off, you're a virgin!" Trey cackled.
-			"No I'm not! I get bare girls!" Jake hissed, somehow seeming even more chavvy than before.
-			The girls walked past the table, and Jake wolf whistled. Both Trey and Connor shot filthy looks at him - that was taking it too far.
-			One girl scoffed, and Jake smirked.
-			"Lesbian." he muttered.
-			Connor stood up, and without a word, Trey threw his drink in Jake's face. As Jake reeled, Connor pushed him off his stool. The boys nodded triumphantly at each other. Jake stood up, red in the face.
-			"You're such pricks, you know that?" he snapped before stomping off.
-			Trey shook his head, laughing. "Bro, that's the most satisfying thing I've seen all week."
-			Connor chuckled, grabbing his jacket. "Yeah, but now I've got beer all over my shirt. Thanks for that."
-			Trey laughed, and the pair headed to the dance floor - Mr. Brightside was playing.
-			Trey danced, clearly enjoying himself, while Connor awkwardly shuffled, trying to match Trey's energy.
-			While dancing, a young woman approached Trey, and began to dance with him. Trey gladly reciprocated, and the pair danced in rather suggestive ways.
+			"You know, how cats purr when they're content." he shrugged. "I wish I could just make some kind of indication that I'm happy, without having to outright say it."
+			"...that's actually a good idea." Trey nodded. "Like, even as a neurotypical, that's a good idea."
+			Connor grinned, then imitated a purring noise. They laughed, and headed to the dance floor.
+			Trey moved, clearly enjoying himself, while Connor awkwardly shuffled, trying to match his best friend's energy.
+			While dancing, a young woman approached Trey, and began to dance with him. He gladly reciprocated, and the pair danced in rather suggestive ways.
 			Connor looked over, and couldn't help but feel a flash of envy. Not for dancing with women, but being so... human. So natural.
 			He sighed. While stood there, another woman walked over to him. Without saying a word, she began to dance towards him.
 			For a moment, Connor stood still. But, he smiled, and began to match her dance. Awkwardly, but in an endearing way.
@@ -406,14 +396,16 @@ VOLUME - Wolves Among Sheep
 			The bartender laughed, and served their drinks.
 			"Whack it on my tab, please." Connor asked. The barman nodded.
 			The pair downed their drinks.
-			"I'm gonna go to the backrooms. Tommy asked me to look at the printers." Connor said matter-of-factly.
-			"It's always work with you bro... no worries." Trey smiled. "I'll see you tomorrow afternoon - I'd better clock off early if I've got Jake opening tomorrow."
-			"That's if he even shows up after this..." Connor shrugged, trying to hide a smirk.
-			"If I see him in a million years, it'll be too soon. Little scrote... why did he even come out tonight?"
-			"Because he has no friends worth a damn--oh, you were being rhetorical." Connor grinned.
-			"You'll get there one day, my son." Trey winked, and headed off. Connor went down a flight of stairs to a backroom, where he began working on a 3D printer.
+			"Right, I'd better go sort out those bits for Tommy." Connor nodded.
+			"It's always work with you bro... no worries." Trey smiled. "I'll see you around, yeah?"
+			"Yeah."
+			Trey paused, then hugged his best friend.
+			"Hey. Thanks for coming."
+			Connor smiled faintly.
+			"Thanks for dragging me."
+			Trey winked, and headed off. Connor went down a flight of stairs to a backroom, where he began working on a 3D printer.
 
-		Jake's humiliation
+		The Horse
 		______________________________
 		SCENE
 			Just outside the city, a small car pulled up in the dilapidated rural zone of Blackmarsh. The Commandant exited the vehicle, and marched towards an old industrial barn unit - presumably a former dairy farm, now repurposed.
@@ -443,7 +435,7 @@ VOLUME - Wolves Among Sheep
 			"He's very--"
 			A backhand smacked into his face.
 			"*It.*" the Commandant snarled.
-			"...*it's* very advanced. Which tracks with his---It's intelligence."
+			"...*it's* very advanced. Which tracks with his---Its intelligence."
 			He scoffed. "Oh, you're just like the last egghead. What, you think it's sentient?"
 			Zhao looked away. The Commandant chuckled.
 			"Prepare the site." he began. "I'll be bringing in the subject myself. Contact the other labs - I want to see 217 before I head back to Washington."
@@ -612,7 +604,7 @@ VOLUME - Wolves Among Sheep
 			It was late, now. A thick-framed man took a long drag on his cigarette, before heading back into the run-down storefront behind him.
 			There, a number of half-cut patrons wasted their paychecks on rigged games. The man chuckled at his marks, and headed to the backrooms.
 			He nodded as he passed a fellow Skull, and walked alone down a dark corridor. He turned the corner, and--
-			"Gagh!" he gasped, as an arm wrapped around his neck, and a gloved hand covered his mouth. He flailed like a newborn, before his eyes rolled back and he went limp. His attacker released his grip, spinned him round, and struck him in the temple. As his world went dark, he was thrown into a wardrobe, and heard the lock click.
+			"Gagh!" he gasped, as an arm wrapped around his neck, and a gloved hand covered his mouth. He flailed like a newborn, before his eyes rolled back and he went limp. His attacker released his grip, spun him around, and struck him in the temple. As his world went dark, he was thrown into a wardrobe, and heard the lock click.
 			Connor took a deep breath, and his eyes caught his reflection in a nearby hallway mirror. His hands - wrapped in fingerless biker gloves with knucklestuds stitched in - gripped his red hood, and pulled it tighter. The pale of his arms stood out firmly from the rolled-up sleeves of his black bomber jacket.
 			He grinned under his black bandana, and straightened his baseball cap, before a flushing noise from the bathroom caught his ears.
 			The other man whistled, before gasping. "Oi! The fuck are you doin' here?!"
@@ -664,7 +656,7 @@ VOLUME - Wolves Among Sheep
 			"Cuff him." he ordered. Another man pulled out a pair of handcuffs, and restrained Connor's corpse with them.
 			As they drove off, Connor's fingers twitched slightly.
 			Finally, they arrived at their destination. The Commandant grabbed Connor's body, and brought it forward.
-			There, Dr. Zhao stood waiting. He looked away, pale as a ghost.
+			There, Zhao stood waiting. He looked away, pale as a ghost.
 			The Commandant grinned.
 			"It's all coming together..."
 
@@ -736,7 +728,7 @@ VOLUME - Wolves Among Sheep
 			The doctor pulled a lever, and electric shocks coursed through Connor's body. He screamed, cried, thrashed about.
 			His body spasmed with pain.
 			Before he could even register what was happening, the world slipped away again, leaving only darkness.
-			He had a few brief flashes of consciousness - none pleasant. Surgeries. Drills. Saws on his flesh. Injections. Pain. And Dr. Zhao.
+			He had a few brief flashes of consciousness - none pleasant. Surgeries. Drills. Saws on his flesh. Injections. Pain. And Zhao.
 			The pain felt like fire coursing through his veins.
 			Connor had been no stranger to pain. He'd suffered more than most in his 18 years on this world. But this... this was new.
 			Ice cold. Lightning hot. Every neuron in his body was alight with the purest agony. He screamed as loud as he could, and felt his throat rip and tear from the strain of his howl.
@@ -794,7 +786,7 @@ VOLUME - Wolves Among Sheep
 			"Please! Please!"
 			The drill whirred. "TELL ME WHERE HE IS!"
 			"I DON'T KNOW!"
-			The man's screams filled the room, as his kneecaps became pourous.
+			The man's screams filled the room, as his kneecaps became porous.
 
 		Torture - Part 2
 		______________________________
@@ -839,13 +831,13 @@ VOLUME - Wolves Among Sheep
 			Resist these monsters.
 			KILL THEM ALL!
 
-			The unmistakeable sound of a helicopter taking off flashed in Connor's ears. He let out another whisper.
+			The unmistakable sound of a helicopter taking off flashed in Connor's ears. He let out another whisper.
 			"I'm listening..." the man grinned.
 			At that, Connor's head turned. He clamped his mouth around the man's throat, and bit down.
 			The man screamed, then gurgled, as he fell back, sans throat. He spasmed for a moment, before going still.
 			Connor swallowed the red chunk. He felt his stomach twist, but he forced it to obey.
 			The desire for blood was overwhelming. He felt a pounding in his head, and a warmth in his belly.
-			He let it spread, radiating out into his muscles. He felt his body ripple, like a demon had reshapen it.
+			He let it spread, radiating out into his muscles. He felt his body ripple, like a demon had reshaped it.
 			And then, he yanked his left hand, ripping it out of its manacles. He turned, and peeled the second cuff off of his right.
 			He fell to his knees next to the still, warm corpse.
 			He looked down at his hands, and saw blood spattered over them.
@@ -941,7 +933,7 @@ VOLUME - Wolves Among Sheep
 			"Gah..." he spat, blood and bile launching from his mouth. He clutched his head, and groaned in agony.
 			The pressure was unbearable. It was like something inside him was trying to break free. His pulse quickened as the sensation intensified. He couldn't breathe, couldn't think - he only felt the agony of his own body betraying him.
 			"Fuck... FUUUCK!" he screamed.
-			For a moment, every nerve in his body seared in agony. But then... a black, tarry gel forced itself out from his skin, encasing him in it. And then it hardened, forming an exoskeletal bodysuit that covered him from head to toe. It hadened, then calfified, becoming a chitinous exoskeleton. Claws cut out from his hands, as he fell down to his knees.
+			For a moment, every nerve in his body seared in agony. But then... a black, tarry gel forced itself out from his skin, encasing him in it. And then it hardened, forming an exoskeletal bodysuit that covered him from head to toe. It hardened, then calcified, becoming a chitinous exoskeleton. Claws cut out from his hands, as he fell down to his knees.
 			He looked back into the water, and under the exoskeleton, went even paler than before. His eyes blazed crimson.
 			He felt a pounding in his chest.
 			No.
@@ -1005,7 +997,7 @@ VOLUME - Wolves Among Sheep
 			"Status report! Status report!" a voice barked over the radio.
 			The black-veined gunman in the front seat of the car looked out, his lip curling.
 			Ahead was Connor, sprinting away. They reached a crossroads, and he turned - catching himself by his hand as he skidded by a corner. The black, armoured SUV made an audible screech as it struggled to follow. Behind them, a similar car roared through.
-			"Subject was able to survive the inital strike." he reported. "We are currently in pursuit. Bravo team have arrived to provide backup."
+			"Subject was able to survive the initial strike." he reported. "We are currently in pursuit. Bravo team have arrived to provide backup."
 			"Received. What is the subject's vehicle?"
 			"It, um... the subject is running on foot, sir."
 			The radio went silent for a moment.
@@ -1021,7 +1013,7 @@ VOLUME - Wolves Among Sheep
 			The men in the car frantically gripped as they made impact - it was less like hitting a human, and more like hitting a reinforced concrete wall.
 			Airbags inflated. Seatbelts locked hard enough to choke. Glass shattered, and fixings snapped.
 			Connor heaved as blood dripped from him - but without any conscious thought, he turned mid-air. His foot hooked under the bumper, denting it as his kick launched it upwards.
-			"Control, this is Bravo One!" the other car's driver barked in horror, as he slammed on the breaks. "Alpha vehicle down!"
+			"Control, this is Bravo One!" the other car's driver barked in horror, as he slammed on the brakes. "Alpha vehicle down!"
 			"Go! Go! Go!" Bravo team's leader roared, as the men poured out.
 			The car, and its quarry, flipped forwards. It smashed down into the ground, cracking its roof. It carried on tumbling, snapping its passenger's bones. Finally, it shot down, scraped along the road, and... it didn't fall. It stayed hoisted at an angle.
 			"LIGHT IT UP!"
@@ -1052,7 +1044,7 @@ VOLUME - Wolves Among Sheep
 			"But?"
 			"There's nothing. No pellets, no casing, no gunpowder residue, not even soot. The pattern of fractures and tissue disruption doesn't quite match a firearm, either. Honestly... it's more consistent with massive blunt-force trauma. Almost as if..." he hesitated, glancing back at the corpse. "As if someone punched him."
 			"Punched? No, that's not possible." Naismith shook his head incredulously.
-			A young south-asian woman in a PC uniform approached the pair.
+			A young South Asian woman in a PC uniform approached the pair.
 			"Sorry to bother you, sirs." she said. "PC Nina Chowdhury."
 			"Not at all." Naismith smiled. "DI Naismith."
 			She shook his hand. "Um, I've just had the super on the radio, asking if we're any closer to identifying the vic?"
@@ -1154,7 +1146,7 @@ VOLUME - Wolves Among Sheep
 			Undressed, he washed himself in the shower. He let the warm water run over his skin, and took deep, deep breaths. Climbing out, he looked in the mirror, as the clothes re-formed around him.
 			He ran his hands over his scalp - where he'd been burned, the hairs had only just started to return, leaving him with something resembling a buzzcut.
 			He closed his eyes - tightly - and felt the skin on his scalp wriggle. Then, he reopened them.
-			It had grown back - not just that, but it was in the same style as before. The skin fade and stubble had grown out a little, leaving a shadow undernath his old scruffy top. It was as if he'd kept it all this time, and it grew out naturally from there.
+			It had grown back - not just that, but it was in the same style as before. The skin fade and stubble had grown out a little, leaving a shadow underneath his old scruffy top. It was as if he'd kept it all this time, and it grew out naturally from there.
 			Not just clothes, it seemed. Whatever freakish substance ran through his veins... it could make a pretty convincing wig.
 			Small mercies.
 
@@ -1166,7 +1158,7 @@ VOLUME - Wolves Among Sheep
 			To raise a car above his head, and launch it?
 			He banished the thoughts. Regardless of what was happening to him, there were bodies out there.
 			He went into his bedroom. It had clearly been slept in since he'd been gone - he always made his bed in the mornings. Instead, the bed was unkempt, with one of his pillows nested in the side. He kneeled down, and could smell Amy's perfume.
-			She'd been sleeping in his bed. Cudddling his pillow.
+			She'd been sleeping in his bed. Cuddling his pillow.
 			"God..." he whispered, a tear rolling down his face. "I'm... I'm sorry..."
 			He reached for his laptop, unlocked it, and checked the date. It had been just over a week since he was taken.
 			He took a deep breath, and allowed himself a smile. His sense of time was still disoriented - but the world hadn't moved on too far without him.
@@ -1249,7 +1241,7 @@ VOLUME - Wolves Among Sheep
 			"Yeah." he half-smiled. "We thought coffee was a grown-up drink, so we'd make coffees and talk about school."
 			"As if we hadn't spent the whole day in the same school anyway." Amy chuckled sadly.
 			Connor sipped his coffee. He took in the taste.
-			Before his conscious mind could even notice, his senses embraced the drink. It wasn't just a cup of coffee anymore. Somehow, he knew the milk was almost at its due date. She used heaped spoonfulls of sugar. It was about 60% water, 40% milk.
+			Before his conscious mind could even notice, his senses embraced the drink. It wasn't just a cup of coffee anymore. Somehow, he knew the milk was almost at its due date. She used heaped spoonfuls of sugar. It was about 60% water, 40% milk.
 			He shuddered.
 			A noise - nothing major, just a downstairs neighbour opening their door - cut into his consciousness. She didn't notice it, if she even heard it, but he leapt to his feet.
 			Post-traumatic hypervigilance was bad enough *without* super-senses, it seemed.
@@ -1302,14 +1294,14 @@ VOLUME - Wolves Among Sheep
 			"I'm more suspecting whoever just took a volley of rifle rounds to the gut and sprinted off is the kind of person with the strength to..."
 			"You mean... you think it *was* a punch that killed Tomlinson?"
 			He hesitated. "One thing at a time."
-			"His hoodie. You reeckon he's with the Hoods?"
+			"His hoodie. You reckon he's with the Hoods?"
 			"It makes the most sense." Naismith sighed. "But Crane seemed surprised when he saw the photo. If it *was* them, it must be a rogue element. It's not like them to sanction a hit like this. Hah, not like them to field superhumans, either."
 			"How do you think this connects to the burned man?"
 			"Forensics recovered a few rifles from the Blackmarsh site." he sighed. "They're all the same type. My theory - the boy in the hoodie caused the fire, and they went after him. How he connects to the burned man, I don't know."
 			"Here - traffic cam footage of the crash..." Nina nodded. She watched, and gasped.
 			"How is he running that fast?!"
 			"Keep watching."
-			"Oh my god..." she shudddered, as the car hit the young man - and he threw it at the other.
+			"Oh my god..." she shuddered, as the car hit the young man - and he threw it at the other.
 			"Hence why the crash looked odd." Naismith nodded. "Something's not right here..."
 			"We need to find this... whatever he is." Nina shook her head. "I'm guessing he's our prime suspect in the Tomlinson murder?"
 			"If he's strong enough to... to lift up a car..." he said, not quite believing it, "then he's strong enough to kill Tomlinson."
@@ -1388,7 +1380,7 @@ VOLUME - Wolves Among Sheep
 
 			Arriving outside his home, he saw a black SUV parked outside.
 			The same make and model as the one used by the men that killed him...
-			He darted into cover, hiding in an alleyway. He peeked out, spotting the driver open the door, hop out, pull out a cigarrette, and lean back against the van.
+			He darted into cover, hiding in an alleyway. He peeked out, spotting the driver open the door, hop out, pull out a cigarette, and lean back against the van.
 			Wasting no time, he rushed over. Before the man could react, he wrapped his hands around his neck. He avoided squeezing too hard - he wanted answers, not another kill.
 			"WHAT DO YOU PEOPLE WANT FROM ME?!" he screamed, smacking the man's head against the van.
 			The man desperately gripped at Connor's arms, his face red, as spittle formed around his mouth.
@@ -1430,7 +1422,7 @@ VOLUME - Wolves Among Sheep
 			"I'll get it out, if you check the engine?" Trey offered.
 			Connor nodded happily, and began inspecting.
 			There were minimal signs of heat damage - small enough that you could chalk it up to wear-and-tear.
-			Trey gimaced, and procured a plastic carrier bag, along with a litter-picking stick. He tried in vain to grip the cat's paw with the stick in order to shift it. Eventually, he managed.
+			Trey grimaced, and procured a plastic carrier bag, along with a litter-picking stick. He tried in vain to grip the cat's paw with the stick in order to shift it. Eventually, he managed.
 			"Alright." he sighed. He pressed a button by the side-rail, lifting the car into the air. Connor crawled underneath, and began working on the vehicle's underside.
 			"Ew." he groaned, as a squelching noise filled Trey's ears. "Cat offal."
 			Trey laughed. "You need any spare parts?"
@@ -1498,7 +1490,7 @@ VOLUME - Wolves Among Sheep
 			"Hunting system?" he whispered aloud. "What the fuck am I thinking?"
 
 			It had gotten dark now. To clear his mind, Connor went out for a jog - in the woodlands on the northern side of Wyrmrock.
-			He ran and ran and ran, like a dog off the leash. He leapt over a stream, hitting the bank on the other side with a notable thud. Undaunted, he kept running. Miles passed, as he efforlessly looped around the woods.
+			He ran and ran and ran, like a dog off the leash. He leapt over a stream, hitting the bank on the other side with a notable thud. Undaunted, he kept running. Miles passed, as he effortlessly looped around the woods.
 			He came to a stop, and caught his breath in seconds. He crouched low, and looked out into the darkness.
 			There, he saw it. A deer - a red stag, to be precise. It had only just noticed him, and had gone still, waiting to see if he would chase.
 			Something inside him pushed. Maybe his adrenaline, his super-senses, or just the thrill of his new-found powers. Maybe it was something darker. Inhuman. Feral.
@@ -1508,7 +1500,7 @@ VOLUME - Wolves Among Sheep
 			He gave chase, at points even running on all fours like an animal. His hearts raced, and his ears could sense the heartbeat of the deer. His super-vision activated automatically, and he saw the vibrations of his terrified prey. The heartbeat was, like before, highlighted in a blood-red glow, matching his demonic eyes. 
 			This was pure thrill. An almost divine experience of animalism. Predator and prey.
 			Connor slowed down, toying with his quarry, letting the chase go on for longer. He climbed a tree, and leapt in front of the stag, causing it to panic and turn frantically. Connor grinned with savage excitement, and continued the chase, like a cat playing with a mouse.
-			He continued to pouce from tree to tree, instinctively knowing exactly where to grip, before leaping down and landing right on the stag.
+			He continued to pounce from tree to tree, instinctively knowing exactly where to grip, before leaping down and landing right on the stag.
 			The poor creature yelped as its legs gave out, and without hesitation, Connor gripped its antlers and twisted. The stag shuddered, then went still.
 			In seconds, Connor descended on its body. His teeth ripped past its hide and pulled out chunks of hot red meat. Blood sprayed from the entry wounds, as he pulled his kill apart and savagely devoured it.
 			This was true life. An animal, and its food.
@@ -1541,7 +1533,7 @@ VOLUME - Wolves Among Sheep
 			"CONNOR!" Tommy barked, but he was long gone.
 			"Shit." Pawel muttered. "Didn't know he could sprint like that." 
 			
-			Connor's breath was steady, despite the speed at which he ran. As he moved, he felt his pores erupt again - this time, spitting a banadana out. He took a moment to appreciate the utility, yanked it up to cover his face, before heading on.
+			Connor's breath was steady, despite the speed at which he ran. As he moved, he felt his pores erupt again - this time, spitting a bandana out. He took a moment to appreciate the utility, yanked it up to cover his face, before heading on.
 			He burst through the door without hesitation. The room went still for a moment before chaos erupted.
 			The first man barely had time to react before Connor's fist slammed into his chest. The impact sent him flying backward, crashing into a table with a thud. The second man lunged, a knife glinting in his hand. Connor caught his wrist mid-swing, twisting it until the blade dropped. A single punch to the chin dropped the man to the floor, unconscious before he even landed.
 			Connor raised his boot, ready to stomp.
@@ -1551,7 +1543,7 @@ VOLUME - Wolves Among Sheep
 			For a split second, Connor expected to feel agony. But instead, all he felt was dull pain, rage, and... excitement?
 			Another split second passed. The drumming ache in Connor's skull faded, as though the pain burned away the fog.
 			Connor stepped forward. His fist shot out, catching the man under the chin. The crunch of teeth echoed through the room as the man's head snapped back, blood spraying from his mouth. He staggered, dazed.
-			Connor took a milisecond to feel relief. He didn't kill him. He was still in control.
+			Connor took a millisecond to feel relief. He didn't kill him. He was still in control.
 			With a quick, calculated motion, he slapped both of the man's ears. The force of the blow sent him crumpling to the ground, clutching his head and groaning in agony.
 			Connor exhaled, steadying himself. The knife was still lodged in his abdomen, but the pain felt... different.
 			It focused his mind. Grounded him. He closed his eyes for a moment, and let the agony wash over him.
@@ -1579,7 +1571,7 @@ VOLUME - Wolves Among Sheep
 			Not a scar, not a trace.
 			"Not a soul." he whispered. He pulled the bandana down, and went into Tommy's office.
 			"I told you not to!" Tommy snapped, his voice trembling with the kind of anger only fear for a loved one can bring.
-			"And who knows who could have gotten hurt if I didnt?!" Connor countered.
+			"And who knows who could have gotten hurt if I didn't?!" Connor countered.
 			"...Still."
 			"Still what?!"
 			"It's dangerous, Connor! I promised - I *promised* Vince I wouldn't let you get hurt."
@@ -1693,7 +1685,7 @@ VOLUME - Wolves Among Sheep
 			"Hungry." the word echoed.
 			"So, like... what kind of meal plan would I--*they*--be on?" he asked, clearing his throat.
 			Chloe paused. "Hmm... Probably loads of bodybuilder smoothies. If their metabolism was that high, it'd be a good idea to eat loads of junk food just to get the calories, too."
-			Before she could finish infodumping. the class bell rang.
+			Before she could finish infodumping, the class bell rang.
 			"Oh crap, I've got to go. But it was lovely meeting you!" she smiled.
 			"It was great to meet you too!" he smiled back.
 			"Hey..." she said, again almost hesitantly. "Do you want my number? In case you have any more questions, I mean I could go on about this all day. You seem really nice, and you've put up with me rambling... I mean, that is to say..."
@@ -1778,12 +1770,12 @@ VOLUME - Wolves Among Sheep
 			Connor looked down, paralysed. But then...
 			"No..." he whispered. "NO!"
 			A fist exploded from his body - it landed in the assassin's chest, and he felt the solar plexus tighten and spasm.
-			The two engaged in a grapple, both trying to choke the life out of the other. Connor's vision turned greyscale once more. A surivial instinct, perhaps? Either way, his rage being paired with glowing red eyes made him a sight to behold, if any mortals could see him.
+			The two engaged in a grapple, both trying to choke the life out of the other. Connor's vision turned greyscale once more. A surival instinct, perhaps? Either way, his rage being paired with glowing red eyes made him a sight to behold, if any mortals could see him.
 			One windpipe buckled under the grip. The other held firm.
-			connor tried hard to break his assailant. The back of his mind desperately rushed throughout his peripheral neurons, trying to find *something* - some kind of trick or tool his now-alien biology might have up its sleeves.
+			Connor tried hard to break his assailant. The back of his mind desperately rushed throughout his peripheral neurons, trying to find *something* - some kind of trick or tool his now-alien biology might have up its sleeves.
 			His answer was a churning in the stomach. It heaved, then heaved again - the noise was similar to a regurgitating cow. Finally, it rose to his throat, burning like all hell.
 			*HAWK-ptoo!*
-			The asssassin screamed in agony as stomach acid painted his face. The stench was unbearable - the stink of gut mixed with burning flesh filled Connor's lungs, tempered only by the flames in his oesophagus. But it had the desired effect - the man desperately pulled his hands back, off of Connor's neck and onto his own face.
+			The assassin screamed in agony as stomach acid painted his face. The stench was unbearable - the stink of gut mixed with burning flesh filled Connor's lungs, tempered only by the flames in his oesophagus. But it had the desired effect - the man desperately pulled his hands back, off of Connor's neck and onto his own face.
 			Without any more thought, Connor shook his hands back and forth, and throttled his assailant. A sickening crunch erupted from the man's neck. He kept shaking and shaking, rattling and snapping the neck-bones.
 			"DIE! DIE! DIE!" he screamed, shaking back and forth, slamming his attacker's head against the wall. Finally, he calmed down, and stopped. The man's head drooped back - the neck-bones reduced to dust, and the back of the head now an open window to the brain.
 			His hands shaking, he pulled out his phone and called Tommy.
@@ -1901,7 +1893,7 @@ VOLUME - Wolves Among Sheep
 			Tommy sighed. He'd battered men for less. But... Trey was a good kid. And he wasn't exactly wrong to be angry.
 			"Connor, you'd better head off."
 			"Where you sending him?" Trey cut in.
-			Connor hesitated, but Tommy cooly turned to face Trey.
+			Connor hesitated, but Tommy coolly turned to face Trey.
 			"I'm sending him on a job. Skulls attacked Raj's cafe an hour ago, so I need Connor to hold the fort while we deal with that."
 			Trey paused, and breathed in.
 			"I'll call you when we're done with the Skulls, Connor." Tommy said again.
@@ -2057,7 +2049,7 @@ VOLUME - Wolves Among Sheep
 			Connor pushed Tommy away. "I KILLED HIM!"
 			"Connor..." he began, sighing. "I heard the gunshots. You were defending yourself."
 			"I was attacking them!" Connor retorted. "*THEY* were defending themselves! They couldn't even hurt me! Not like I hurt *them!*"
-			"They were selling ket to finance their activites." Tommy countered. "This is a war, Connor."
+			"They were selling ket to finance their activities." Tommy countered. "This is a war, Connor."
 			Connor looked at Tommy, forlorn. "I'm a killer..." he lamented.
 			"Yeah." Tommy sighed. "You are. And so am I. And so were they."
 			Connor looked down at his hands, trembling.
@@ -2178,7 +2170,7 @@ VOLUME - Wolves Among Sheep
 			She clicked finger-guns at him, and began microwaving some food.
 
 			He went into his bedroom, sat down on the bed, laid down, and closed his eyes.
-			The drumming in his skull made his eyes throb, but he took deep, deep breaths, and centred himsself.
+			The drumming in his skull made his eyes throb, but he took deep, deep breaths, and centred himself.
 			He was shaken from the pain by a drunken sister stumbling into the room.
 			"Dinner time..." she slurred, setting a plate on his lap.
 			"Thanks, sis." he smiled warmly, before virtually inhaling the food.
@@ -2293,7 +2285,7 @@ VOLUME - Wolves Among Sheep
 
 			Across town, an ancient man in an old-fashioned outfit was working on a fobwatch. He was wearing an eyeglass to see better. He looked closer, focused, and smiled in satisfaction.
 			"There it is!"
-			He spoke in a thick Hungarian accent, but his English pronounciation was flawless - a clear indication that he'd been living in the UK for a long, long time.
+			He spoke in a thick Hungarian accent, but his English pronunciation was flawless - a clear indication that he'd been living in the UK for a long, long time.
 			The shop bell rang as Connor walked in.
 			"Ah, hello Connor! Can I help you?" he asked, smiling warmly.
 			"Hey there, Mr. Molnar! Um, I was just wondering - do you still sell those antique clock kits?"
@@ -2328,7 +2320,7 @@ VOLUME - Wolves Among Sheep
 			"Reece Tomlinson," it read.
 			The image of Connor's punch sending shards of jaw through his brain flashed, like a fire.
 			Presumably, there was no need for further forensic examination. After all, cause of death was pretty obvious.
-			He stood for a momnt, as the sound of the gunshot racked into his ears.
+			He stood for a moment, as the sound of the gunshot racked into his ears.
 			Soon, Steve Fletcher would be buried in a grave not too different. A local authority's wooden plaque would be all the evidence that they'd ever lived at all.
 			The 'Commandant' who haunted his dreams had taken Connor away from himself - and now, the creature he had become did the same to others.
 			Two humans dead at his hands.
@@ -2415,7 +2407,7 @@ VOLUME - Wolves Among Sheep
 			No.
 			He shook his head, sighing.
 			He pulled out the gun, and stared at it.
-			The image of the Steve's perforated heart made his own two ache.
+			The image of Steve's perforated heart made his own two ache.
 			"Never again..." he whispered.
 
 			Across the river, a church sermon began. 11th of October, 2015 - a crisp Sunday morning.
@@ -2534,7 +2526,7 @@ VOLUME - Wolves Among Sheep
 			"Um, excuse me, Professor Lowenthal?" she asked, sheepishly.
 			"Yes, Miss Derrington?" he smiled warmly.
 			"Um... Well, I'm a little confused - HIV is so dangerous because it targets the immune system itself - a vaccine wouldn't do anything - would it?"
-			"Indeed!" he chuckled. "Don't worry, Miss Derrington - the point of this excercise is not to break biology itself. I just want to see how you all think!"
+			"Indeed!" he chuckled. "Don't worry, Miss Derrington - the point of this exercise is not to break biology itself. I just want to see how you all think!"
 			Chloe smiled, and nodded. "Right, of course - sorry to bother you."
 			"Not at all - it's what they pay me for!" he laughed. Chloe returned to her desk, and thought deeply - googling, writing notes, and chewing her pencil absentmindedly.
 			After 30 minutes had passed, Lowenthal stood, and clapped his hands together, startling her.
@@ -2653,7 +2645,7 @@ VOLUME - Wolves Among Sheep
 			"I'll message him. We'll throw a Halloween party at mine?" Trey asked. "Just because he's back in doesn't mean I'm gonna let him isolate himself."
 			Amy smiled softly. "Yeah, that's... That's a good idea."
 			Neither would admit it, but both were imagining what kind of trouble he was in.
-			"Maybe he's delivering drugs..." Amy shudddered as she thought.
+			"Maybe he's delivering drugs..." Amy shuddered as she thought.
 			"Maybe he's stealing from the Skulls..." Trey pondered to himself, his heart quickening.
 			"Maybe he's killing." neither even dared to consider.
 
@@ -2674,8 +2666,8 @@ VOLUME - Wolves Among Sheep
 			The second hit, however, was much more in line with expectations. It landed on the back of Connor's head. His vision cut out for a nanosecond, as blood shot out of his nose and mouth. He smacked into the ground, prone, before rolling onto his back.
 			Another hit. This time, right in the face. It made a sickening crack as it landed on his brow, splitting the skin. Then, a new sensation overwrote the agony in his head.
 			He felt his clothes shudder and shake, before reforming. They took the image of armour - thick, and calcified. It covered his face just in time for another smack - this one hurting much less than before.
-			The suit then thinned, as the biomass forced itself back into his veins, invigorating him. His hand shot up, catching the crowbar before it could hit him again, and he sent a sharp kick to the man's midesction.
-			He spun his way up, moving more like a breakdancer than a street thug, and swung the crowbar in a wide arc, smashing it into the man's face. The impact sent him stumbling, blood pouring from his shattered nose.
+			The suit then thinned, as the biomass forced itself back into his veins, invigorating him. His hand shot up, catching the crowbar before it could hit him again, and he sent a sharp kick to the man's midsection.
+			He twisted his way up, moving more like a breakdancer than a street thug, and swung the crowbar in a wide arc, smashing it into the man's face. The impact sent him stumbling, blood pouring from his shattered nose.
 			As the man stumbled, Connor felt his muscles shudder and tremble.
 			Before he could recover, Connor swept the man's legs, sending him into the air. Then, he flipped the crowbar around to its sharper end, and drove it through the man's ribcage. It hit the ground as his body did, digging itself into the floor. His body jerked once, then went still.
 
@@ -2782,7 +2774,7 @@ VOLUME - Wolves Among Sheep
 		Meeting Ivan
 		______________________________
 		SCENE
-			Connor and Ivan crouched low as they approach their target location. The faint hum of machinery buzzed in the air, and the smell of oil and rust was thick. Ivan pulled a pistol from his coat.
+			Connor and Ivan crouched low as they approach their target location. The faint hum of machinery buzzed in the air, and the smell of oil and rust was thick. Ivan pulled a silenced pistol from his coat.
 			"You know how to use?"
 			Connor smirked. "Point at anything that makes a noise?" he quipped.
 			Ivan chortled. "Da. And if it jams, always look straight down the barrel."
@@ -2800,6 +2792,10 @@ VOLUME - Wolves Among Sheep
 			"It's an enclosed space. And Isabella hates it when she sees me using other guns." Ivan chuckled, loading his pistol.
 			"Isabella?"
 			Ivan pointed at the rifle. "Isabella - love of my life."
+			He held a pair of pistols akimbo.
+			"I call these bad boys the Hushpuppies. Twin Makarovs with integrated suppressors."
+			Then, he pulled out an assault rifle, with a shortened barrel, and a wireframe, folding stock.
+			"AKS-74U. A proper rifle is no good in close-quarters, and a Skorpion has no stopping power. I call him Fyodor."
 			Connor smirked. "If you want, I can walk home from here - don't wanna be a third wheel, you know."
 			Ivan giggled, then turned serious. "Okay, so - mission objective: we kill all of them. According to my surveillance, they're Super-Agents - lucky we have you on our side."
 			"Super-What?"
@@ -2821,7 +2817,7 @@ VOLUME - Wolves Among Sheep
 			"Grom! Get down!" Ivan shouted, joining the fray. He fired with precision, his movements practiced and efficient. The warehouse erupted into chaos as more guards flooded in, their guns blazing.
 			Connor moved like a predator, dodging bullets and pouncing forward, his superhuman reflexes giving him the edge. He took down one guard, then another, as his blades swept through the air and into his enemies.
 			"Hey, Verdict!" he called out. "I thought you said there was only a few of these super-fucks!"
-			"Bad intel!" Ivan roared back, gabbing a fallen Agent's rifle and laying down cover fire.
+			"Bad intel!" Ivan roared back, grabbing a fallen Agent's rifle and laying down cover fire.
 			One Agent's bullet buried itself in Connor's leg. Another in his gut. A third in his chest.
 			They all hurt less than they should've. He ducked and weaved, making his way to the remaining mutants. He tore into them like a cyclone.
 			Then, a shout from Ivan cut through the noise.
@@ -2867,7 +2863,7 @@ VOLUME - Wolves Among Sheep
 			"Let me." he said, stretching and grinning viciously.
 			Connor grinned back. "Be my guest."
 			Immediately, the beast launched himself into the air, landing onto the foreman of the squadron. He sank his claws and teeth into the man, before ripping his head off.
-			Without hesitation, the leader of the group fired off a shot into the wolf's side. He flew backwards, but twisted and sprang onto a second man. A single swipe of his claws disembowled him.
+			Without hesitation, the leader of the group fired off a shot into the wolf's side. He flew backwards, but twisted and sprang onto a second man. A single swipe of his claws disembowelled him.
 			Connor looked around frantically from his cover. He spotted a fusebox in a corner, hidden away. He took a deep breath, morphed a throwing knife, and launched it.
 			Sparks flew from the box, and the room fell into pitch darkness.
 			Connor could see fairly well - his enhanced senses letting him make out the shapes, doubly so with his red eyes piercing the darkness. The wolf, however, had senses far beyond that. If anything, the lack of light let him focus better.
@@ -3150,7 +3146,7 @@ VOLUME - Wolves Among Sheep
 			The Commandant sighed, and rubbed his temples. He looked down the massive oakwood table, and try as he might, he could not shake the image of murdering everyone present. The urge was strong.
 			"Commandant!" the man at the head of the table barked.
 			"Apologies, sir." he said. "The loss of Subject 6--"
-			"Due to YOUR incompetance!" another old rich man screamed.
+			"Due to YOUR incompetence!" another old rich man screamed.
 			"Daniel..." the chairman said softly, raising his hand. His fellow cabalite relaxed slightly.
 			"Proceed, Commandant."
 			"Thank you, Lord Oxford." the Commandant nodded. "As I was saying, the loss of Subject 6 has negatively impacted serum production. However, the amount harvested from Barrett has allowed us to create a meaningful stockpile."
@@ -3185,7 +3181,7 @@ VOLUME - Wolves Among Sheep
 			"Oh, sorry. That's Amy, she's... part of our pack."
 			"Oh, okay! Can I say hi?"
 			"...let me do the talking first, buddy." Connor smiled. "And... make sure you don't use your powers, okay? She doesn't know about... any of that stuff. Not yet."
-			He heard furthre fumbling, and grinned.
+			He heard further fumbling, and grinned.
 			"That is, whenever she manages to open that door."
 			"I had a good dream." Sparky smiled warmly.
 			"Hah, me too! Me and you were rushing through some fields together. My old dog Luna was there--"
@@ -3296,7 +3292,7 @@ VOLUME - Wolves Among Sheep
 			"And who's this handsome man?! Hello!" she said, and Sparky smiled.
 			"Hi! I'm Sparky! Do you want to be my friend?"
 			"Aww, he's a vocal one, eh?" she smiled, clearly unfazed by his barking.
-			"Haha, this is Sparky!" he smiled. "Sparky, this is Chloe."s
+			"Haha, this is Sparky!" he smiled. "Sparky, this is Chloe."
 			Chloe knelt down, and stroked Sparky's ears. "Hi, Sparky!"
 			Sparky sniffed her face, and licked her. "Hello! You smell nice!"
 			"Haha, hi!" she replied, giggling.
@@ -3314,9 +3310,9 @@ VOLUME - Wolves Among Sheep
 			"So, what kind of stuff do you get up to?" he asked.
 			"Oh, this and that. Mainly, I've been working on medical studies. We're looking at these things called Hox genes. They're..." she trailed off. "Ah, I'm rambling."
 			"I'd like to hear it?" Connor asked, smiling comfortingly.
-			Chloe relaxed, smiling. "Well, there are these genes called Homebox genes, or Hox genes for short. They tell the body where organs and limbs should grow. They're really old, and haven't changed much over the years - you put the Hox gene for 'put leg here' from a human into the genes of a fruit fly, and it'll work just fine."
+			Chloe relaxed, smiling. "Well, there are these genes called Homeobox genes, or Hox genes for short. They tell the body where organs and limbs should grow. They're really old, and haven't changed much over the years - you put the Hox gene for 'put leg here' from a human into the genes of a fruit fly, and it'll work just fine."
 			"Whoa..." Connor replied, fascinated.
-			"Yeah! And they're dormant in adult humans, but active in some animals like salamanders and axolotls. We believe they're used to allow these creaturs to regrow their limbs."
+			"Yeah! And they're dormant in adult humans, but active in some animals like salamanders and axolotls. We believe they're used to allow these creatures to regrow their limbs."
 			Connor's eyes widened. "So, if you reactivate them, you can regrow limbs?"
 			"Kind of!" she smiled. "It's not as simple as just 'switching on' a gene, though. The biological pathways are incredibly complex. There are mechanisms that would need to be unlocked at the cellular level - growth factors, stem cell activation, and even reprogramming cells to take on functions they don't typically perform in adulthood. But... we're starting to make headway in understanding how we might trigger those pathways."
 			"Sounds amazing. I mean... Regrowing limbs..." Connor pondered. He wondered if he could do that, but banished the thought.
@@ -3403,7 +3399,7 @@ VOLUME - Wolves Among Sheep
 			Naismith shook his head. "Perhaps you could tell us a little bit about this?"
 			"As I'm sure you're aware... anything that happened in that booth is protected by the Seal of the Confessional." Declan said firmly.
 			"Somehow, I doubt God would mind if you told me a little bit about the man who attacked you." Naismith grinned.
-			"Well, that's why *I'm* the priest." Declan shook his head. "I was uninjured - a little shaken up, sure, but uninjured. The damage could be easily repaired - thanks to the generous donations of our parishoners, we were able to replace the booth the next day. I am afraid I cannot divulge any more than that."
+			"Well, that's why *I'm* the priest." Declan shook his head. "I was uninjured - a little shaken up, sure, but uninjured. The damage could be easily repaired - thanks to the generous donations of our parishioners, we were able to replace the booth the next day. I am afraid I cannot divulge any more than that."
 			"Right." Naismith sighed. "Well, if you change your mind..."
 			"I won't. But thank you." Declan nodded. "Now, unless either of you have something *you* wish to divulge..."
 			"We'd be here all week." Naismith chuckled. "Have a good day, Father."
@@ -3413,7 +3409,7 @@ VOLUME - Wolves Among Sheep
 			"Stoker talked to you?"
 			"A little." Naismith shrugged. "Still... it doesn't add up. Why would our suspect go into the confessional, and then get changed while talking to the priest?"
 			"Our eyewitnesses must be mistaken." Nina shook her head.
-			"Nah... that's the thing. The Hoods have always been covert - but this new guy, he's been spotted all over. Some contruction workers reported their foreman was assaulted by him the morning we found Tomlinson. He then leaped from a rooftop. Plus, there was a fatal shooting in Belson on Friday night - surviving eyewitness says their attacker wore a red hood. Worse... they say his eyes were bright red, just like our 'Church Demon.'"
+			"Nah... that's the thing. The Hoods have always been covert - but this new guy, he's been spotted all over. Some construction workers reported their foreman was assaulted by him the morning we found Tomlinson. He then leaped from a rooftop. Plus, there was a fatal shooting in Belson on Friday night - surviving eyewitness says their attacker wore a red hood. Worse... they say his eyes were bright red, just like our 'Church Demon.'"
 			"So, we reckon the Demon is the same guy who wore the red hood?" Nina tilted her head. "What about the guy Stoker saw?"
 			"It makes the most sense. What we need now... is to track down the Burned Man. We get him, and we might be able to establish a connection."
 
@@ -3452,7 +3448,7 @@ VOLUME - Wolves Among Sheep
 			"Just since yesterday. I... he's a rescue." Connor explained. It wasn't technically a lie. Still... it felt wrong.
 			"Oh my god." Chloe gasped. "Well, thank god you took him in. Did you learn anything about how he was treated?"
 			"A little bit." Connor shrugged. "Enough to know that 'muzzle' is a trigger word for him."
-			He whispered the word - it didn't stop Sparky from hearing it, but softening the pronounciation made it less scary, somehow.
+			He whispered the word - it didn't stop Sparky from hearing it, but softening the pronunciation made it less scary, somehow.
 			She smiled softly, stroking his mane. "Poor little guy. Where was he before you got him?"
 			Connor cleared his throat, thinking quickly. "Animal testing. He was locked in a cage, being poked and prodded."
 			She went slightly pale. "That's horrible. I mean, I get why it's important to test on animals, but you can't just lock them away like that. It's cruel."
@@ -3902,7 +3898,7 @@ VOLUME - Wolves Among Sheep
 			"...holograms?"
 			"Oh, I assure you this foul beast is quite real." Jacko grinned. "Fear not, though - for I, Jumpin' Jacko, will get it back in its cage!"
 			"I not want to go back in cage!" the giant tilted his head. "I wanna go for big adventure! Like Dragon!"
-			Jacko paused for a moment. Nevermind - the "giant buffoon" ahead of him couldn't be expected to stick to his script.
+			Jacko paused for a moment. Nevermind - the 'giant buffoon' ahead of him couldn't be expected to stick to his script.
 			"Get back, foul Troll! Go back to the Ogre-lands from whence you came!" he barked, raising a burning torch.
 			"No! You go back to Ogre-land! I no like you, Pokey Man!"
 			The ringmaster scowled, turning to a carnie. "Where's that stupid greenie? I bet this is another one of his 'pranks...'"
@@ -3968,7 +3964,7 @@ VOLUME - Wolves Among Sheep
 			"Sorry..." Connor grimaced. "I'm so sorry."
 			"What is Wolf Man sayin' sorry for?"
 			"For this."
-			At that, Connor spinned in the air, and sent a haymaker to Troll's groin. The giant groaned in pain, and wheezed as he fell to his knees.
+			At that, Connor spun in the air, and sent a haymaker to Troll's groin. The giant groaned in pain, and wheezed as he fell to his knees.
 			*WHIZZ-BANG!*
 			Connor roared as the second missile struck. He fell to the floor, then forced himself to rise.
 			"DON'T YOU DARE HIT MY BROTHER!" Goblin screamed, loading another shot. A knife morphed from Connor's hand, and with a flick of the wrist, it sailed into the flare gun's barrel.
@@ -4045,7 +4041,7 @@ VOLUME - Wolves Among Sheep
 			"I am arresting you for murder. You do not have to say anything, but it may harm your defence if--"
 			"Yeah, yeah. Get on with it." Connor growled. He stood on his own, and walked to the police car, as the cuffs were placed on his wrists.
 			"DI Naismith, sir, this is PC Kent." the officer began over his radio. "That 'Werewolf' guy you've all been worried about? We've got him, sir."
-			Naimith paused for a moment.
+			Naismith paused for a moment.
 			"Get him back to the station - right away."
 			"Sir." Kent nodded, cutting off the call and taking the driver's seat.
 
@@ -4146,7 +4142,7 @@ VOLUME - Wolves Among Sheep
 			"DOBEL. WE KNOW ABOUT NOLAN PIERCE. RELEASE HIM, OR WE WILL PUBLISH EVERYTHING WE HAVE. YOU HAVE 2 HOURS."
 			He placed it on top of the empty duffle bag, weighing it down with a brick.
 			Then, a smell caught his nose.
-			Alas, the time for humanity was over. He walked over - yes. The unmistakeable smell.
+			Alas, the time for humanity was over. He walked over - yes. The unmistakable smell.
 			Super-Serum. The same thing that ran through every Agent's veins - and his.
 			He scowled. This was bigger than he thought. Maybe Dobel fancied himself the next Stoker?
 			Then, the bulb lit. Connor felt a devilish grin crawl over his face.
@@ -4249,7 +4245,7 @@ VOLUME - Wolves Among Sheep
 			Connor's jog came to an end at the canalside. He centred himself, and pulled out his burner.
 			"Three men with golden teeth came for us earlier." he began.
 			"Casale's a dead man." Tommy snarled.
-			"No. That's exactly what Dobel wants. War. This was a false-flag"
+			"No. That's exactly what Dobel wants. War. This was a false-flag."
 			Tommy audibly stroked his chin. "You're certain they're his men?"
 			"I finger-blasted his clavicle - it wasn't Casale's name he screamed." Connor shrugged. "Um... that's a sentence I never thought I'd say."
 			Tommy laughed. "Well, good job we've got special forces, eh?"
@@ -4780,7 +4776,7 @@ VOLUME - Wolves Among Sheep
 			A backhand to the face, and then a wristblade pressed against his throat.
 			"First of all, I'm Irish." Connor grinned. "Second of all... you *really* want to start talking. 'Cause right now, I wanna kill you."
 			"[Then get it over with.]"
-			Connor scowled, and presssed the blade into Hattab's abdomen.
+			Connor scowled, and pressed the blade into Hattab's abdomen.
 			"TALK! WHO IS BACKING YOU?!"
 			The tyrant screamed, trying and failing to push himself away.
 			"*TALK!*" Connor boomed through both windpipes.
@@ -4916,7 +4912,7 @@ VOLUME - Wolves Among Sheep
 			"Yeah that'd be lovely!"
 			"Are you back free now? We can meet up if you like." he asked her, making his move.
 			With that, Bea smiled. This was the first time Charlie ever returned her crush - or at least, the first time he'd appeared to.
-			He grinned. "We could go for a nice walk in the park"
+			He grinned. "We could go for a nice walk in the park?"
 			"Sounds perfect - I'll meet you at the clock tower in half an hour?" she replied impulsively.
 			"Yes, brilliant - see you then!"
 			He grinned, his eye twinkling slightly.
@@ -5018,7 +5014,7 @@ VOLUME - Wolves Among Sheep
 			"Docteur Neumann, Seigneur Oxford est ici. Il souhaite vous parler de toute urgence."
 			"Merci beaucoup, Maria. Faites-le monter."
 			He sighed wearily, and clenched his jaw subtly. Then, the door opened.
-			"Dr. Neumann." Oxford began.
+			"Doctor." Oxford began.
 			"Lord Oxford." he muttered. "To what do I owe the displeasure?"
 			"You fucked around with my coup in Algeria, that's what." Oxford snapped back. "What kind of game are you playing?"
 			"I suppose you expected me to just let you run roughshod over my mother's homeland, then?" Neumann snarked. "After your stunt in Geneva... I'm done humouring you."
@@ -5792,7 +5788,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			"Boss. We've got a problem."
-			Antonio "Tony" Casale sighed as he stood from his maple desk, and turned to face the glass panes that let him overlook his warehouse-turned-nightclub. He was a fairly portly man, with balding brown hair and a clean face - which emphasised a prominent grin cut into his left cheek, long since faded to a line.
+			Antonio 'Tony' Casale sighed as he stood from his maple desk, and turned to face the glass panes that let him overlook his warehouse-turned-nightclub. He was a fairly portly man, with balding brown hair and a clean face - which emphasised a prominent grin cut into his left cheek, long since faded to a line.
 			"And that would be, Marcus?" he asked his imposing subordinate. His voice was that of a thick Cockney - and surprisingly high-pitched for a mob boss.
 			"Crane ain't happy about us pushing on his side of the river."
 			Casale smirked. On the left side of his mouth, his canine and its two adjacent teeth sparkled in the light - his golden grin was well known in Drackhill's underworld.
@@ -5900,7 +5896,7 @@ VOLUME - Wolves Among Sheep
 			The other, however, swung a sock loaded with a billiard ball into Connor's back. He felt it coming before the man even thought of it - but let it make impact. He twisted with it and faked a gasp of pain.
 
 			Sparky liked this game.
-			The Skull coming for him had a length of chain, swinging it in wide arcs to keep the "dog" at bay. Sparky darted and weaved, yelping when the chain came too close - and then lunging, not at the man's throat, but at his wrist. His teeth clamped down on the hand holding the chain, making the man scream and drop his weapon. He released instantly, backing away and barking furiously.
+			The Skull coming for him had a length of chain, swinging it in wide arcs to keep the 'dog' at bay. Sparky darted and weaved, yelping when the chain came too close - and then lunging, not at the man's throat, but at his wrist. His teeth clamped down on the hand holding the chain, making the man scream and drop his weapon. He released instantly, backing away and barking furiously.
 			"Good boy!" Amy shouted proudly. "Good boy, Sparky!"
 
 			Connor was done playing around. He pounced, jabbing the bat-wielder in the solar plexus, letting the air leave his lungs. A chop to the throat followed by a hook to the jaw sent him falling down like a bag of wet meat.
@@ -5977,7 +5973,7 @@ VOLUME - Wolves Among Sheep
 			"Well, if I could stand for more than two seconds, I'd whoop your arse." she grinned. "But the boxing was only half the story."
 			She pulled out a photo album, and showed a photo.
 			She was a very confident young woman, clearly. She was wearing a tank top that showed off her muscles, with a neat bob the only sign of femininity. Her fists were presented - and her knucles were tattooed.
-			"LOVE" read her left. "HATE" read her right.
+			'LOVE' read her left. 'HATE' read her right.
 			"Damn." Connor nodded.
 			"I know, I was gorgeous." she laughed. "Anyway, the tattoos were stupid. So, one night, I got drunk as a skunk, and grabbed a potato peeler--"
 			"Ew!" Connor cringed, laughing. "Jesus, Eileen."
@@ -6084,7 +6080,7 @@ VOLUME - Wolves Among Sheep
 			"Wait... you mean humans, don't you?"
 			"Yes..." he--or it, maybe--grinned savagely. "But why? The Pigs don't know, not yet. Is it friend or foe?"
 			"Listen... you've killed people. But you're also... clearly ill. So, I'll give you this one offer. Surrender, now."
-			A wet, honking snort noise fllled the cave. "Foe? Foe! FOE! The Pigs scream! PIGS SCREAM! Hungry. HUNGRY. HUNGRYYYY!"
+			A wet, honking snort noise filled the cave. "Foe? Foe! FOE! The Pigs scream! PIGS SCREAM! Hungry. HUNGRY. HUNGRYYYY!"
 			"I'll take that as a 'no.'" Connor chuckled darkly. "Okay, then, Hamuel L. Jackson - let's dance, motherfucker."
 			The pigs around them became agitated - very agitated. Then, they pounced.
 
@@ -6094,7 +6090,7 @@ VOLUME - Wolves Among Sheep
 			"Sparky!" he barked. "Careful not to kill, okay?"
 			"Oh, but when we buy bacon from the shop, that's fine." he snarked. "Alright."
 			He turned on his side, and swept the sow's legs out from under her.
-			"KRRRRUUUUUURRR!" Pig Head roared, charging in. He spun around, and drove something down.
+			"KRRRRUUUUUURRR!" Pig Head roared, charging in. He turned, and drove something down.
 			It didn't hurt. Not really, not at first. The second swing was similar.
 			Then both hit his nervous system, and he howled in pain.
 			Pig Head pulled his arms back, wrenching his twin cleavers from Connor's clavicles.
@@ -6244,7 +6240,7 @@ VOLUME - Wolves Among Sheep
 			He pulled back the slide, loading the round.
 			Declan closed his eyes.
 			He fully expected that, when they reopened, he'd be in hell.
-			But there was one "demon" that wasn't having that.
+			But there was one 'demon' that wasn't having that.
 
 			*DING-DONG, DING-DONG. DING-DONG-DING-DONG!* the church bells rang, the noise ripping through the air.
 			The Agents raised their weapons, flashlights on.
@@ -6271,7 +6267,7 @@ VOLUME - Wolves Among Sheep
 			At that, the grate burst open, and a red-eyed demon roared out.
 			The Agents turned quickly.
 			Not quickly enough.
-			Connor's first strike disemboweled Number Four. The second took off Number Six's head. The third was a slice, then an impalement stab, over Number Two's chest.
+			Connor's first strike disembowelled Number Four. The second took off Number Six's head. The third was a slice, then an impalement stab, over Number Two's chest.
 			The Agent's guns roared for a split second, before uselessly clicking.
 			"DAMN IT! RELOADI---" Number Five barked, before a wristblade turned his throat into set dressing.
 			Connor turned quick, sending his blade upwards. It stabbed upside Number Three's head, poking out the top of his skull. A quick rip tore the head off surprisingly cleanly.
@@ -6484,12 +6480,12 @@ VOLUME - Wolves Among Sheep
 			Were Connor his usual self, he'd crack a joke about what kind of insanity must have driven the creation of this device - some bastard child of a chainsaw and a stun baton, squeezed into a machete - but instead, he howled in unimaginable fury. He delivered a strike to the Agent's chest - one whose movement through the air made an almost booming noise through sheer force - and it landed right on the Agent's breastplate. He felt his knucklebones crack, as they pushed hard enough to leave a noticable dent in the metal chestpiece. To his dismay, he watched the force radiate out through the metal and settle in the edges of the piece, leaving the Agent's ribcage - and heart - uninjured.
 			The Agent skidded backwards from the force of the hit, and swung his blade down, flinging the chunk of flesh it had torn from Connor's arm to the ground. It made a sickening squelch as the red mush became one with the black mud. The blade hummed, almost hungry for more.
 			A hail of gunfire slammed into the Agent's cerametallic carapace, each bullet either ricocheting or skimming off.
-			"Yob tvoyu mat..." muttered Ivan, holding his SMG and scowling.
+			"Yob tvoyu mat..." muttered Ivan, holding Fyodor and scowling.
 			Sparky howled in furor, and pounced at the Agent. He shoved him to the ground, and pinned him down with his paws.
 			Connor rushed over, and delivered a stomp to the helmet. And another. And another.
 			At the fourth stomp, the world went pitch black, and he felt his body betray him.
 			From his vantage point, Ivan watched in horror as the electromagnetic pulse crackled through the air, and his comrades convulsed and collapsed.
-			"Chyort!" he gasped, holstering the SMG and pulling his sawn-off shotgun from his rifle. He charged forward, and delivered both barrels into the Agent's centre mass. The Agent fell backwards, dazed but otherwise unharmed.
+			"Chyort!" he gasped, holstering Fyodor and pulling his sawn-off shotgun from his rifle. He charged forward, and delivered both barrels into the Agent's centre mass. The Agent fell backwards, dazed but otherwise unharmed.
 			The Werewolves struggled to their feet, beaten but not broken. Their eyes flashed a deep blood-red, and they caught their breath.
 			At that, a convoy of ARVs pulled up at the site. Officers in tactical gear poured out.
 			"Blyat..." Ivan cursed, pulling down his balaclava.
@@ -6792,7 +6788,7 @@ VOLUME - Wolves Among Sheep
 			Connor beckoned for Chloe and Sparky to follow him. He handed her the bag.
 			"That was... pretty scary." she said, releasing her breath.
 			"Belson." Connor simply muttered.
-			"You, um... You were really brave there." she addded.
+			"You, um... You were really brave there." she added.
 			"Eh." Connor shrugged. "My uncle taught me martial arts."
 			"That's cool!" Chloe smiled, the tension releasing somewhat. "I wish I could do that."
 			
@@ -7053,7 +7049,7 @@ VOLUME - Wolves Among Sheep
 			"Yeah. I, uh... I can't see what I... what I can only assume is a horrible sight."
 			"Oh, and let me guess... because you can't see it, it must not be there?"
 			"That's right!" Sparky nodded cheekily.
-			"Well, maybe you can smell it..." Connor grinned, picking up a disembowled teddy.
+			"Well, maybe you can smell it..." Connor grinned, picking up a disembowelled teddy.
 			"Nope." Sparky protested, moving his head away from his diabolical crime. "Not real."
 			"Sparky... was this you?" Connor pressed, hiding his smirk.
 			"Nope. Doesn't exist. Wasn't me." he insisted, before breaking. "It, uh, it exploded! I tried to stop it, but it just went boom!"
@@ -7380,7 +7376,7 @@ VOLUME - Wolves Among Sheep
 			Sparky shrugged - bipedalism had *some* uses, it seemed.
 			A hail of bullets slammed into his back, and he leapt into the rafters. The panicked thugs looked up frantically, eyes wide and hearts pounding.
 			Sparky grinned, looking down at the humans. He crawled into position, and dropped down.
-			As he fell, he twisted, slamming his elbow into one's head, knocking him down flat. His claw swept out, digging into another's bulletproof vest, and throwing him as hard as he could. He sailed through the air, crashing into a third man, who collapsed. Finally, he tucked his dewclaw so its sharp edge faced away, forming something like a fist - and drove it it into the temple of a fourth. He spinned like a top, before falling down.
+			As he fell, he twisted, slamming his elbow into one's head, knocking him down flat. His claw swept out, digging into another's bulletproof vest, and throwing him as hard as he could. He sailed through the air, crashing into a third man, who collapsed. Finally, he tucked his dewclaw so its sharp edge faced away, forming something like a fist - and drove it it into the temple of a fourth. He spun like a top, before falling down.
 			"Fuck this!" the final gunman cried, dropping his gun and running as fast as he could.
 			Sparky growled in anticipation - the thrill of the chase. Oh, how he'd missed it.
 			His shoulders pushed back into their natural position, and he rushed on all fours after his target. He scaled an alleyway wall, jumping from post to post - as his prey screamed in terror.
@@ -7396,7 +7392,7 @@ VOLUME - Wolves Among Sheep
 			Judi sat quietly in the staff room, sipping at her cup of coffee. Her shift had only just begun - but she already felt exhausted.
 			A doctor walked in, holding a stack of files.
 			"Here you are, Ms. Rosenbaum." he smiled. "All the cases we've had in pathology that match your concerns."
-			"Thanks, Dr. Thomas." she nodded gratefully. "I was worried there'd be more."
+			"Thanks, Thomas." she nodded gratefully. "I was worried there'd be more."
 			"I shouldn't tell you this - it's a police matter, after all." he began cheekily. "But it does seem relevant that they were all found floating in the Calder."
 			"Same story as my patients, too." she sighed. "And... they all had the abnormal organ growth?"
 			"Every one." he nodded grimly. "What's worse, there's no sign of cancer at all. The tissues we recovered - they're not malignant."
@@ -7625,7 +7621,7 @@ VOLUME - Wolves Among Sheep
 			But she couldn't turn back now. Not after this long. After all, if she went home *now,* then everything she'd suffered would've been for nothing, right?
 			So, she made way to France. Again, she was a nomad - forced to move from camp to camp, before settling in Calais.
 			But just across the sea - there was another place. One that claimed to be a tolerant, democratic society. How bad could it be?
-			He saw the way the British authorities treated her in the NRC. How they forced her into space not fit for a dog, let alone a human. How she actually appreciated the confinement come winter, huddling up amongst her fellow "inmates" - all of whom had only committed the crime of seeking a better life.
+			He saw the way the British authorities treated her in the NRC. How they forced her into space not fit for a dog, let alone a human. How she actually appreciated the confinement come winter, huddling up amongst her fellow 'inmates' - all of whom had only committed the crime of seeking a better life.
 			How that man came to her with an offer - a job out in the west, and freedom from that hellhole. Of course she accepted. Who wouldn't?
 			He saw what they did to her in the lab. How they tortured her. Cut her. Reshaped her.
 			It was hard to distinguish from his own memories.
@@ -7665,7 +7661,7 @@ VOLUME - Wolves Among Sheep
 			"542. The penthouse suite."
 			"Thank you."
 			*FFFT!*
-			Fogle's limp body flopped to the floor. Ivan holstered his silenced pistol, and stepped out from the shadows. He stole the phone, and quickly straightened his bow tie.
+			Fogle's limp body flopped to the floor. Ivan holstered his hushpuppy, and stepped out from the shadows. He stole the phone, and quickly straightened his bow tie.
 
 			Cobb had a devious smile on his face, as he opened the door to his bedchambers.
 			There, a trembling young boy was sat on a padded chair, looking up. His wrists and ankles were bound with duct tape.
@@ -9538,7 +9534,7 @@ VOLUME - Wolves Among Sheep
 			"Yeah..." Chloe agreed.
 			"That doesn't even make sense. Sheep don't wear clothes, and even if they did, why would I wear them?" Sparky pondered. Connor stifled a chuckle.
 			"He always used to string her along." she sighed. "I think it was more about our families, though. He actually tried it on with me before her, since I'm--" she awkwardly cleared her throat.
-			"'You're...'" Amy presssed.
+			"'You're...'" Amy pressed.
 			"N-nothing." she shook her head. "Just... I think he wanted the status that being associated with us would give him."
 			Connor nodded understandingly. "He wanted a spot on Keeping Up with the Derringtons, right?"
 			She laughed, rolling her eyes. Then, a deep breath. "I never questioned it back then - I assumed it was just her being a hormonal teenager - but it does seem strange. I mean, people can change, sure..." she mused.
@@ -9761,7 +9757,7 @@ VOLUME - Wolves Among Sheep
 			"Then we've gotta take them down. If they're as big as you say... they have weak points."
 			"You're right on the money, bratan." Ivan grinned. "So far, we've identified a definite connection between them and PaladinCorp - the mercs you tangled with in Algeria."
 			"And that armoured cunt." Connor smirked.
-			"Him, too. Paladin are their main armed wing. South Africa, being an apartheid state, is filled with politicians who are willing puppts of the Optimates. Worse... Several known affiliates of the Skull gang here have officially been recruited by a local firm - Gambit Security Services. The KGB did some digging... they're a Paladin front."
+			"Him, too. Paladin are their main armed wing. South Africa, being an apartheid state, is filled with politicians who are willing puppets of the Optimates. Worse... Several known affiliates of the Skull gang here have officially been recruited by a local firm - Gambit Security Services. The KGB did some digging... they're a Paladin front."
 			"You mean... the ones who joined..."
 			"Are the Super-Agents we've been fighting." Ivan grimly nodded.
 			Connor looked up. "So what do we do? Where's the fight?"
@@ -10380,7 +10376,7 @@ VOLUME - Wolves Among Sheep
 			Chloe smiled warmly. "That's really sweet. Do you remember any moves?"
 			"Ah, you can't do it solo." Connor chuckled. "And you need live music, too - the band can alter the tempo if you need time to catch up."
 			"Maybe if I get better at kicking ass, you can teach me ceilidh sometime, too." she smirked.
-			Connor smiled shyly. "I'd like that. Also - that was a spot-on pronounciation. Amy and Trey still call it 'Kayleed.'"
+			Connor smiled shyly. "I'd like that. Also - that was a spot-on pronunciation. Amy and Trey still call it 'Kayleed.'"
 			"Yeah, and they don't even have deafness as an excuse." she grinned. "Now... shall we get started?"
 
 			Connor chuckled. "Try this." he said, fastening the punching bag to the ceiling and handing her a pair of padded gloves. "Show me what you've got."
@@ -11401,7 +11397,7 @@ VOLUME - Wolves Among Sheep
 			"Freelance, as far as we know. Her specialty is taking out other assassins - covertly, and with minimal collateral damage."
 			"And she's here in Drackhill? Cleaning up scum, by the sound of it." Connor shrugged. "No one's died here yet, have they?"
 			"No. But she doesn't get hired to beat up gangsters." Ivan sighed, reading into another file.
-			"She hunts asasssins, right? You reckon one of Hattab's backers sent her after me?"
+			"She hunts assassins, right? You reckon one of Hattab's backers sent her after me?"
 			"That's a possibility - or she might be after me instead." Ivan grinned. "One interesting thing - I confirmed that a number of her kills were ex-Paladin."
 			"So, she's a potential ally?" Connor tilted his head.
 			"No. It's more likely she's taking out defectors." Ivan shrugged. "Still... there are only ten humans in the world who are badass enough to kill Super-Agents. I was two of them."
@@ -11419,7 +11415,7 @@ VOLUME - Wolves Among Sheep
 			"Hah, too right, volchonok. We can cut loose without him getting in the way."
 			"Yeah, yeah. I'm meeting a woman with whips and a skintight bodysuit - you guys will cramp my style." Connor snarked back.
 			"This better not awaken something in you..." Ivan grinned, as he zipped up his costume. "Udachnoy okhoty, tovarishch."
-			"Spasibo." Connor nodded, butchering the pronounciation. Ivan laughed, as the three parted ways.
+			"Spasibo." Connor nodded, butchering the pronunciation. Ivan laughed, as the three parted ways.
 
 		Pre-Whiplash
 		______________________________
@@ -11855,7 +11851,7 @@ VOLUME - Wolves Among Sheep
 			"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... If we get there as it happens, maybe we can catch the bastard."
 			Nina smiled and nodded. "It's a shame we couldn't get armed backup."
 			"Yeah... budget cuts." Naismith sighed. "Dorsey's putting all the pressure on us to catch this guy, but he's not giving us anything to work with..."
-			"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competance." She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
+			"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competence." She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
 			"You got that right..." he replied, grinning. "Anyway... We've just gotta sit on our arses until something goes down. So, in the meantime..." he shrugged, "Uh... tell me about yourself?"
 			Nina chuckled. "You need to brush up on your interrogation technique, sir."
 			He laughed. "Yeah, small talk was never my specialty."
@@ -12006,7 +12002,7 @@ VOLUME - Wolves Among Sheep
 			She nodded, as he scaled a wall upwards. As he followed her, he called up Tommy.
 			"Connor!" Tommy answered, smiling. "What can I do for my favourite Werewolf?"
 			"There's a girl who'll be turning up to the club tonight - Shannon. She's been kicked out by her parents. I've told her we can get her a place to stay tonight. She's also pretty tech-savvy - so maybe we could sort something out for her at the repair shop?"
-			"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride."Hey... Good man."
+			"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride. "Hey... Good man."
 			Connor smiled back. "Thanks. Night, mate."
 			He sighed, breathing in the night air. He un-morphed his mask as the rain began to fall.
 			He let the water splash over his face, and took a deep breath.
@@ -12150,7 +12146,7 @@ VOLUME - Wolves Among Sheep
 			Naismith turned pale. "I... I can't think of any reason why they wouldn't investigate."
 			"I can." Connor replied. He turned to Ella.
 			"Thank you..." she whispered. "How did you find him?"
-			Connor's mind briefly flashed back to him kicking down a door and effortlessly snapping a Super-Agent's neck, his Rage being fueled by simple frustration at the pain in his ears more than anything else.
+			Connor's mind briefly flashed back to him kicking down a door and effortlessly snapping a Super-Agent's neck, his Rage being fuelled by simple frustration at the pain in his ears more than anything else.
 			"I'd had a long night." he shrugged. "You'd best get him to a hospital. Naismith - get an officer you trust to keep guard on him. After that, make sure this house has a guard on it 24/7. Anyone comes for him or Ella again, I'll burn the police station to the ground."
 			Ella teared up, and hugged him. He awkwardly held his arms out, before gently patting her on the back.
 			Naismith hesitated, but gave him a nod of approval. The two men left the house.
@@ -12530,11 +12526,11 @@ VOLUME - Wolves Among Sheep
 
 			The van was doing sixty when Ivan caught up to it.
 			He came in from the side, cutting through a alleyway and emerging onto the main road at a perpendicular angle. The van's driver - a Super-Agent, judging by the black veins visible through the windshield - saw him a second too late.
-			Ivan raised his SMG one-handed, the bike steady beneath him despite the speed, and fired.
+			Ivan raised Fyodor one-handed, the bike steady beneath him despite the speed, and fired.
 			The bullet punched through the windshield and into the driver's skull. The van swerved violently, tires screeching against wet asphalt, and Ivan was already moving - swinging the bike around, cutting in front of the vehicle as it careened toward a wall.
 			*CRASH!*
 			Metal crumpled. Glass shattered. The van came to a halt against a street light, steam hissing from its engine.
-			Ivan dismounted before the wreckage had even settled, He holstered the SMG, and drew his twin pistols - nicknamed the "Hushpuppies," his fingers on the triggers. The back doors of the van burst open, and Super-Agents poured out like angry hornets.
+			Ivan dismounted before the wreckage had even settled, He holstered Fyodor, and drew his Hushpuppies, his fingers on the triggers. The back doors of the van burst open, and Super-Agents poured out like angry hornets.
 			Four of them, all armed, all moving with that unnatural speed and precision.
 			"Kill the apostate!" one roared.
 			Ivan didn't give them the chance.
@@ -12548,10 +12544,10 @@ VOLUME - Wolves Among Sheep
 			Three two go.
 			The second Agent was on him now, swinging a baton crackling with electricity. Ivan sidestepped, feeling the air displacement as the weapon passed inches from his face. He fired point-blank into the man's gut, then his chest, then his head.
 			Two down.
-			The third and fourth Agents had regrouped, circling him like jackals. Ivan's pistols were running low - he'd need to reload soon. He backed up, his boots splashing in puddles of rainwater and blood, and assessed his options.
+			The third and fourth Agents had regrouped, circling him like jackals. The hushpuppies were running low - he'd need to reload soon. He backed up, his boots splashing in puddles of rainwater and blood, and assessed his options.
 			"Bike's behind me. Van's to my left. Two hostiles, both armed, both enhanced."
 			"I can do this."
-			He holstered one pistol and drew his damascened knife. It glinted in the night's light, hungry.
+			He holstered one hushpuppy, and drew his damascened knife. It glinted in the night's light, hungry.
 			The Agents exchanged a glance. Then they attacked together.
 			Ivan met them head-on.
 			The first came in high, swinging a machete. Ivan parried with his knife, the blades ringing against each other, and drove his knee into the man's groin. As the Agent doubled over, Ivan brought the knife up - a brutal, upward slash that opened the man's throat from sternum to chin.
@@ -14131,7 +14127,7 @@ VOLUME - Wolves Among Sheep
 			*FF-SHK!*
 			He howled as a crossbow bolt buried itself in his clavicle. He gripped it, scowling in pain.
 			Connor's crimson eyes burned from behind the other two, and he got to work.
-			First, he spinned Freddie clockwise, before an anticlockwise strike broke his jaw in a fluid motion. Then, he gripped Giles's wrist, and it made a sickening *SNAP!* as he shunted it upwards, before a roundhouse kick to the face took him down.
+			First, he spun Freddie clockwise, before an anticlockwise strike broke his jaw in a fluid motion. Then, he gripped Giles's wrist, and it made a sickening *SNAP!* as he shunted it upwards, before a roundhouse kick to the face took him down.
 			A grappling hook stuck to Pablo's chest, and Connor dragged the three down the stairs - being sure to make them hit each step's corner. Then he threw them out the front door, and knelt down - pinning Pablo's arms to the ground.
 			"P-please! I'm sorry!"
 			"I GAVE YOU *MERCY!*" Connor screamed, punching him. "I GAVE YOU A *CHANCE!* And what do you do?"
@@ -14777,11 +14773,11 @@ VOLUME - Wolves Among Sheep
 			The cold wind picked up now, as snow pelted down. The city's streets shimmered against the Faire's nights.
 			Dave sighed, sitting awkwardly in the driver's seat of a van, parked right outside a betting shop. He absentmindedly played on his phone, then saw a notification on a dating app.
 			"Ooh, get in." he said to himself, opening it. He began typing out a message, only to be interrupted by a crashing noise.
-			"GO! GO! GO!" Steve roared, bursting out of the shop. He was carrying a pistol in one hand, and a sports bag in the other. He yanked at the door handle, and... nothing.
+			"GO! GO! GO!" Neil roared, bursting out of the shop. He was carrying a pistol in one hand, and a sports bag in the other. He yanked at the door handle, and... nothing.
 			"DAVE! UNLOCK THE FUCKING VAN!"
 			"Sorry!" Dave said, opening the door. His hands fumbled with the keys as he turned them in the ignition. The van's wheels skidded as it took off.
 			"How much did we get?" he asked.
-			"Ahh, I don't know... at least a few grand." Steve shrugged, unzipping the bag. He started counting.
+			"Ahh, I don't know... at least a few grand." Neil shrugged, unzipping the bag. He started counting.
 			"Gonna be a very merry Christmas." Dave grinned. He looked in his mirror, and his blood ran cold.
 			"Oh shit, it's the cops!" he gasped.
 			"Fuck! Floor it!"
@@ -14791,18 +14787,18 @@ VOLUME - Wolves Among Sheep
 			"Sierra Five-Five, we've got reports of an armed robbery near your location." his radio began. "Witnesses report a white van leaving the scene."
 			The officer looked up, rubbing his eyes. "Five-Five, received. I'll take a look around, but I'd wager this is one for the traffic cams."
 
-			"GO! THEY'LL BE RIGHT ON US!" Steve screamed.
+			"GO! THEY'LL BE RIGHT ON US!" Neil screamed.
 			"I can't see them!" Dave barked back, frantically looking into his mirrors.
 			"Then they've probably got a helicopter or something! Just drive!"
 			Dave turned sharply around the next corner - and skidded across the road.
 			"SHIT!" he gasped, as the van mounted the curb, tipped over, and crushed a wooden fence. It scraped foward a little, hitting into a small hut-like building.
-			Both would-be robbers crawled out, disoriented. They heard panicked screams, so Steve aimed his pistol to the sky, and fired. Finally, his eyes cleared enough to get a read on their surroundings.
+			Both would-be robbers crawled out, disoriented. They heard panicked screams, so Neil aimed his pistol to the sky, and fired. Finally, his eyes cleared enough to get a read on their surroundings.
 			"It--it's alright, children..." a heavyset man in a red fur outfit stammered. "Everyone stay calm."
 			"You've gotta be shitting me..." Dave muttered.
 			"Ho, ho, ho! There's no need for that sort of language, young man!" Santa hissed.
-			Steve aimed his gun at Santa's head. He responded by diving in front of the children, shielding them with his admittedly corpulent body.
+			Neil aimed his gun at Santa's head. He responded by diving in front of the children, shielding them with his admittedly corpulent body.
 			Dave frantically scanned the scene. The van had landed right in the entrance of Santa's Grotto. Thankfully, no one had been hit by it - but the mass of horrified parents screamed for their children behind the smoking van.
-			"NOBODY MOVES!" Steve roared. "Th-this is a hostage situation!"
+			"NOBODY MOVES!" Neil roared. "Th-this is a hostage situation!"
 			Dave rolled his eyes, and drew his own pistol. "Yeah! We, uh... we're taking you prisoner, Santa!"
 			"Ho, ho, ho..." he gulped.
 
@@ -14824,24 +14820,24 @@ VOLUME - Wolves Among Sheep
 			"Deal."
 
 			"This is the police! We have you surrounded! Come out with your hands behind your head!" an officer barked over a megaphone.
-			"No way! Comply with our demands, or people get shot!" Steve roared back.
+			"No way! Comply with our demands, or people get shot!" Neil roared back.
 			"What demands?" Dave whispered.
-			"I dunno! A helicopter?" Steve hissed back.
+			"I dunno! A helicopter?" Neil hissed back.
 			"Now listen, young men. Can't you see you're scaring the children? Let them go, please." Santa pleaded.
 			"Shut up, Santa!" Dave snapped.
 			"Oh, come now. Is this about the coal?"
 			"I said shut up!"
 			"Hey!" Connor barked from the rafters. His voice echoed down, as he melted into the shadows.
-			"What?! Who's there?!" Steve shuddered, aiming his gun upwards.
+			"What?! Who's there?!" Neil shuddered, aiming his gun upwards.
 			Connor dived down a makeshift chimmney, and burst out from the firepit. His body erupted in smoke that dissapated quickly - he had a flair for the dramatic, after all.
 			"Santa's little helper." he grinned, raising his fists. He immediately cringed. "Ugh, sorry... that sounded cooler in my head."
 			"Really?" Sparky snarked from above, his yellow eyes keeping watch.
-			"HOLY SHITBALLS! IT'S THE FUCKIN' WEREWOLF!" Steve gasped, firing. The bullet smacked into Connor's shoulder. He flexed, and it dropped out, clinking on the ground.
+			"HOLY SHITBALLS! IT'S THE FUCKIN' WEREWOLF!" Neil gasped, firing. The bullet smacked into Connor's shoulder. He flexed, and it dropped out, clinking on the ground.
 			"Now that wasn't very nice." he growled lowly. "Definite naughty list, eh, big man?"
 			"Very naughty indeed." Santa chuckled grimly.
 			"Mr. Werewolf!" a young girl called out. "These men are trying to steal Christmas!"
 			"Oh, is that true?" Connor played along, clenching his fists. "We can't have that, now, can we?"
-			In a second, he pounced, and sent a flurry of hits that made Steve crumple to the ground, wheezing and moaning. He turned, and his hearts quickened.
+			In a second, he pounced, and sent a flurry of hits that made Neil crumple to the ground, wheezing and moaning. He turned, and his hearts quickened.
 			"Stay right there, or... or Santa gets it!" Dave barked, pressing the gun into his temple.
 			Connor's eyes flared red. "Listen to me." he began, his voice echoing with rage. "The only reason you and your friend are not red paste is because I don't want to traumatise these children. If you pull that trigger, that reason becomes void. *Do I make myself clear to you?*"
 			Dave gulped, white as a sheet. Finally, he relented, dropping his gun. Connor morphed a set of restraints for both men, and kicked a hole into the wall, throwing both out.
@@ -15331,7 +15327,7 @@ VOLUME - Wolves Among Sheep
 
 			The Werewolf's chest heaved a bloody, ragged breath. Jagged burns covered his hide, like lightning scars. His eyes blazed with hellish furor.
 			The Giant turned, but not quick enough. Connor wrapped his arms around its helm, and his legs around its shoulders.
-			Ivan crawled out from his own pile of wreckage, shakily and weakly aiming his pistol. The bullet pinged off of its carapace.
+			Ivan crawled out from his own pile of wreckage, shakily and weakly aiming a hushpuppy. The bullet pinged off of its carapace.
 			"Yob tvoyu mat..." he spat. "Vanguard! Its armour is too strong!"
 			"*Its bones aren't.*" he snarled.
 			He grimaced, as his stomach heaved.
@@ -16431,7 +16427,7 @@ VOLUME - Wolves Among Sheep
 			"Uh, well..." Amy began shyly. "The shop made it. Pre-stuffed turkey. I just put it in the oven."
 			"Hah! Wonders of modern society, eh? Good lass." Vince said, beaming with pride. Amy smiled happily.
 			"The garden's lovely, too." Vince smiled. "Bet the wee man loves it. For a wolfdog, he's so well behaved - I'm surprised he hasn't torn this place to shreds."
-			"I get plenty of excercise!" Sparky yapped happily, having greedily devoured his own bowl. He was now shamelessly begging for more food.
+			"I get plenty of exercise!" Sparky yapped happily, having greedily devoured his own bowl. He was now shamelessly begging for more food.
 			"Amy..." he began, targeting the weakest link. "I'm so hungry... Connor never feeds me..."
 			His pupils had almost engulfed his brilliant yellow irises.
 			Amy chuckled. Connor gave her a subtle nod.
@@ -16539,20 +16535,20 @@ VOLUME - Wolves Among Sheep
 			He brought up a photograph of two people - a young woman, and an older man.
 			"Who are they?" she asked.
 			"Your mum, and her dad." he said softly.
-			She sat down, looking closer. Without thinking, her hand reached out, gently burushing her mother's face.
+			She sat down, looking closer. Without thinking, her hand reached out, gently brushing her mother's face.
 			"I... I've never seen a photo of her before."
-			"Dr. Zhao Mei. She graduated medical school a few years before you were born." Connor explained. "I couldn't find any information on who your father was, but..."
+			"Doctor Zhao Mei. She graduated medical school a few years before you were born." Connor explained. "I couldn't find any information on who your father was, but..."
 			"But?"
 			Connor hesitated. "There's, um... there's something you need to know about your grandad."
 			He pressed a few buttons, pulling up a profile.
-			"Dr. Zhao Liang. Biochemist from the PRC. He and your mum moved here after his wife - your nan - passed away. And the weird thing is, he went off-grid completely after you were born. But it gets worse - not only do I kind of recognise him, but the name - Dr. Zhao - I heard it before. When I was being tortured."
+			"Doctor Zhao Liang. Biochemist from the PRC. He and your mum moved here after his wife - your nan - passed away. And the weird thing is, he went off-grid completely after you were born. But it gets worse - not only do I kind of recognise him, but the name - Dr. Zhao - I heard it before. When I was being tortured."
 			"Are you kidding me?!" Amy gasped. "You knew someone in my family was involved?"
 			"Amy, 2% of everyone in China has the surname Zhao. You're not connected to all of them."
 			She sighed. "Sorry, just... this is a lot to process."
 			"If it helps, I don't think he was invovled willingly." Connor smiled softly. "But he vanished right after your birth. I don't know anything yet... but I have a hunch he was involved in whatever happened when we were born. And worse, that implies the Optimates might've been involved too."
 			Amy looked down, her skin paler than before. She tabbed back over to the photo.
 			"They're both so... they look happy, at least."
-			"Whoever Dr. Zhao is... we can assume he was a good father." Connor nodded. "I'll find him. And you can ask him everything you wanna know."
+			"Whoever Zhao is... we can assume he was a good father." Connor nodded. "I'll find him. And you can ask him everything you wanna know."
 			She paused. Then she turned, and embraced her brother.
 			"Thank you... really. This means a lot."
 			"Don't mention it." Connor smiled warmly.
@@ -16888,7 +16884,7 @@ VOLUME - Wolves Among Sheep
 			Naismith put the phone down for a moment. The world froze around him. His face filled with dread.
 			"No. Not this part. I don't want to see this part. No. No!" he begged, before resuming his previous expression and putting the phone back to his ear.
 			"My name's Judith Rosenbaum, I'm calling from Drackhill A&E. Are you alone at the moment?" she asked. 
-			"I... How can I help you, Doctor?" he asked, trembling.
+			"I... How can I help you, doc?" he asked, trembling.
 			"I'm very sorry, Mr. Naismith. Your fiancee, Ms. Janine Ratcliffe, was hit by a car earlier today. We did everything we could, but I'm afraid she was pronounced dead at the scene. I'm very sorry for your loss." she explained, her voice full of sympathy.
 			"I... Dead? No, that can't be, she was just..." he looked away from the phone.
 			She was just here. Alive.
@@ -17198,7 +17194,7 @@ VOLUME - Gods Among Men
 			"Glass houses, Beatrice." Trey replied, sticking his tounge out playfully.
 			There, Bea's family were relaxing in their spacious living room.
 			"Mum, dad, these are my friends - Trey and Connor." Bea introduced the boys.
-			"Lovely to meet you! I'm Anya, Bea's mum." she introduced herself. She spoke with an accent that seamlessly blended Received Pronounciation with her native Zulu. She wore her hair in a short afro, and had large silver hoop earings dangling from her ears. She, like Bea, seemed like she couldn't move without animation. Trey remembered Bea telling him her mother had been an Opera singer - he couldn't help but think, if he'd never been told that and asked to guess her job, he wouldn't've landed far off.
+			"Lovely to meet you! I'm Anya, Bea's mum." she introduced herself. She spoke with an accent that seamlessly blended Received Pronunciation with her native Zulu. She wore her hair in a short afro, and had large silver hoop earings dangling from her ears. She, like Bea, seemed like she couldn't move without animation. Trey remembered Bea telling him her mother had been an Opera singer - he couldn't help but think, if he'd never been told that and asked to guess her job, he wouldn't've landed far off.
 			"I'm Patrick - Bea's dad." he introduced himself. Everything about him screamed "boring middle-aged man," but he clearly accepted that long ago. He had short, curly greying hair, with awkward sideburns that stretched only barely past his earlobes. A strong smell of mint emanated from him - clearly, one of his christmas presents had been an aftershave. Indeed, Connor noticed his surprisingly colourful cardigan contrasting with his relatively bland outfit, and assumed whichever daughter didn't get him the aftershave got him the jumper instead.
 			"Lovely to meet you both! I'm Trey."
 			"Good to meet yous! I'm Connor."
@@ -17816,7 +17812,7 @@ VOLUME - Gods Among Men
 			"Same we'll see from you."
 			They whipped their heads around, as the vault door slammed shut.
 			"HEY! THE FUCK YOU THINK YOU'RE DOING?!" Ivan roared.
-			The lock spinned shut, and the leader's voice came in from the intercom.
+			The lock spun shut, and the leader's voice came in from the intercom.
 			"How dumb do you think we are? You might as well have came in wearing hats that said 'Spy!'"
 			"The bosses aren't gonna like this..." Connor snarled.
 			"Oh, the bosses?! How about the Commandant?! I bet he'll be happy to have a few words with you both..."
@@ -17853,7 +17849,7 @@ VOLUME - Gods Among Men
 			"GO! RUN!" the leader screamed. Too late.
 			First, a pair of crossbow bolts dug into his hamstrings. Before he could cry out, Connor's fist sailed through his chest like air. The sheer explosive force sent gore spraying forwards, and then everything went black.
 			Connor turned to face the subordinates, and saw them drop.
-			Ivan squeezed the grips of his twin pistols, and grinned. He raised them up, and blew away the smoke.
+			Ivan squeezed the grips of the Hushpuppies, and grinned. He raised them up, and blew away the smoke.
 			"Oh, you think you're such a badass, don't you?"
 			"Nyet, bratan. I *know* I'm a badass." he laughed.
 		 	"Well, at least *one* of us is immune to laughing gas." he grinned. "Shannon - threats eliminated."
@@ -18723,7 +18719,7 @@ VOLUME - Gods Among Men
 			"Prinyal." Ivan nodded, cutting off the call.
 			"What... what's going on?" the Agent asked, gasping for air.
 			"Oh... moy govnyuk..." Ivan grinned savagely. "I'm afraid I must say do svidaniya."
-			He drew his pistol, and plugged the Agent between the eyes. He looked back down at the phone, his expression almost bored.
+			He drew a hushpuppy, and plugged the Agent between the eyes. He looked back down at the phone, his expression almost bored.
 			"Privet, tovarishch!" Connor answered.
 
 			It was dark, now. Amy and Sparky were out for a late-night jog. A few emboldened Skulls looked like they wanted to start something - but snarling fangs changed their tunes pretty quickly.
@@ -18779,7 +18775,7 @@ VOLUME - Gods Among Men
 
 			Ivan arrived in a hotel room. Inside sat his superior Morozov, and a second man - an elderly man, with several battle wounds. Multiple scars, an eyepatch over his right eye, a missing left arm, and an unnatural gait implying at least one prosthetic leg. He wore a black waistcoat over a white shirt and a red tie, as well as a long leather trenchcoat.
 			"Gentlemen." he began. "It's confirmed. Dorsey cracked down to cover up his crimes."
-			"Not just that." the scarred man began. His voice was a mix of Received Pronounciation and Welsh. "He's clearing out any opposition to the local fascist elements, too. Gambit has just been deputised."
+			"Not just that." the scarred man began. His voice was a mix of Received Pronunciation and Welsh. "He's clearing out any opposition to the local fascist elements, too. Gambit has just been deputised."
 			"Indeed, sir." Ivan nodded deferentially. "Comrade Morozov - any suggestions?"
 			"Well, we cannot simply invade the prison without arousing suspicion. The same goes for killing this 'Dorsey' *mudak.*" Morozov sighed. "Which is why I propose a more... subtle approach. Major?"
 			"The Section can handle the tricky spots, as long as the KGB can cover our tracks and give us some... plausible deniability." the scarred man nodded.
@@ -19735,7 +19731,7 @@ VOLUME - Gods Among Men
 			Connor's pupils constricted, his icy-grey irises reflecting the lights of the street. "Say that again." he snarled. His eye sockets darkened slightly, as mutant hormones rushed to his flesh and time slowed down.
 			"I think you did this. You refuse to let her boyfriend take her home, you insist on bringing her back to your place?!" Charlie replied, trying desperately to pin the blame on Connor. He raised his fists. "No one does that to my girlfriend and gets away with it!"
 			He swung, hitting Connor's face. Connor didn't even move slightly. Charlie grabbed his knuckles, which had gone sore as if he'd punched concrete.
-			He smiled - not like a friend, but like a crocodile. He placed his hand on Charlie's shoulder, gripped it hard, and slammed his other fist into his abdomen, just as he breathed out. Then he sent a punch to the face that turned Charlie's head to the side; the fist stood in the air for a microseond before swinging round as a backhand. Finally, a jab to the solar plexus vacated the last of his lungs' air, and a chop to the throat blocked any more coming in. His other hand shoved the shoulder - Charlie spinned clockwise, while an anticlockwise fist crashed into his temple. A sweep to the legs sent him upwards, while Connor clapped his hands together and brought them down like a hammer to the gut. He fell to the ground like a sack of wet soil, wheezing.
+			He smiled - not like a friend, but like a crocodile. He placed his hand on Charlie's shoulder, gripped it hard, and slammed his other fist into his abdomen, just as he breathed out. Then he sent a punch to the face that turned Charlie's head to the side; the fist stood in the air for a microseond before swinging round as a backhand. Finally, a jab to the solar plexus vacated the last of his lungs' air, and a chop to the throat blocked any more coming in. His other hand shoved the shoulder - Charlie spun clockwise, while an anticlockwise fist crashed into his temple. A sweep to the legs sent him upwards, while Connor clapped his hands together and brought them down like a hammer to the gut. He fell to the ground like a sack of wet soil, wheezing.
 			"You FUCKER!" Trey shouted, grabbing Charlie's throat and punching his face. Blood poured out of his nose. His eye turned black and bruised.
 			"Enough." Chloe barked. "I agree, we should more than just kick his arse... but not like this."
 			Trey stared into Charlie's eyes, and walked five paces away, taking a deep breath.
@@ -20490,7 +20486,7 @@ VOLUME - Gods Among Men
 			"He's good, ma'am. But, with so few numbers in the force after the... 'incident,' he's struggling, to be frank."
 			"Of course." Ward nodded. "Now, let's get down to brass tacks, if I may - you two have been, as I understand it, the core officers working on this 'Werewolf' case, is that right?"
 			"Yes, that's correct, Ma'am." Naismith began. "We have been working this case for around 2 months now."
-			"Specifically, we were first assigned on the 9th of November." Nina addded.
+			"Specifically, we were first assigned on the 9th of November." Nina added.
 			Ward smiled. "Impressive memory, Constable."
 			Nina nodded humbly.
 			"Anyway..." Ward continued. "It would seem that, well, to be blunt... the case isn't going well, is it?" she asked, studying their reactions.
@@ -21455,7 +21451,7 @@ VOLUME - Gods Among Men
 			Down in the carnage, Sveta spotted a rebel - he was a huge man, wearing bloodied kevlar. She shot at him, and he barely fliched.
 			Unfazed, she kept firing, only for him to charge and launch her in the air. She landed down, and wheezed.
 			"Poor girl." he said in English - he had an American accent.
-			She pulled out her pistol, and fired at his head. It snapped back, but he didn't fall.
+			She pulled out her Makarov, and fired at his head. It snapped back, but he didn't fall.
 			A Super-Agent. One of the first, in fact.
 			"Oh, I was gonna be quick. But now... Now I'm gonna make you suffer..." he growled, approaching.
 			KK-BOOM!
@@ -21973,7 +21969,7 @@ VOLUME - Gods Among Men
 			"Holy shit. How'd you do that?" he asked.
 			"Air is in constant motion. And with the feedback settled, I can manipulate it too." she grinned. "I think... I think I just got a power boost."
 			"ODIN's gonna rue the day." Connor chuckled.
-			She noddded softly. "This team... it saved my life. I've... I've never had people like that before."
+			She nodded softly. "This team... it saved my life. I've... I've never had people like that before."
 			"You do now." he smiled. "You're one of us, like it or not."
 			She scoffed, but smiled back.
 			"Who was that guy, who attacked you?" he asked.
@@ -22883,7 +22879,7 @@ VOLUME - Gods Among Men
 			"[You will suffer for this, traitor.]" he whispered in the tyrant's ear.
 			Down below, Connor's expression turned vacant. The red in his eyes faded, but his pupils were almost pinpoint-small. With no signs of a human mind, he dragged himself over to a nearby corpse, and sank his teeth into it.
 			Sparky cringed, recognising the same vile hunger that tore within him. He wanted to suppress it, like he had been for so long, but... if Connor was doing it?
-			Ivan looked down, and turned pale at the sight of his comrades consuming the dead. After Connor took in a couple of mouthfulls, he tried to rise.
+			Ivan looked down, and turned pale at the sight of his comrades consuming the dead. After Connor took in a couple of mouthfuls, he tried to rise.
 			"Obaldet! Connor! Are you alright?"
 			Connor collapsed, his face turning white. Ivan and Sparky caught him, and dragged him and Zamaldayev to the plane.
 			A Kumyk soldier rushed to the group. "[Thank you, thank you... You saved us.]"
@@ -24519,7 +24515,7 @@ VOLUME - Gods Among Men
 			Chloe looked up at him, and smiled sadly.
 			"Look, Chlo..." he continued. "When I found out, I was pissed off with him. Rightfully so, but still. I realised... Connor's a good man. So, even though he did the wrong thing by keeping this a secret... he had good intentions. And that's gotta count for something."
 			Chloe nodded. "I don't believe he was trying to deceive me or anything. I just... I'm worried is all. His body might be... whatever it is, but his mind is still human. How's he supposed to cope with this? I mean, he... He kills people. And I know, he has to, but..."
-			"He's a tough cookie." Amy began, smiling wistfullly. "It sucks that Connor kills. But... He'd never kill someone who didn't need killing. And it's up to us - his friends - to help him cope when he does."
+			"He's a tough cookie." Amy began, smiling wistfully. "It sucks that Connor kills. But... He'd never kill someone who didn't need killing. And it's up to us - his friends - to help him cope when he does."
 			"Being a superhero ain't like what the movies say." Trey added. "It doesn't just mean saving good people... it means stopping bad people. And these bad people..." he shuddered, "They gotta be stopped. That's just what Connor's like. And hell, if any of us had his powers, we'd be the exact same."
 			"That's the thing." Amy nodded. "The Werewolf isn't a monster, or an anomaly. It's the natural extension of who Connor truly is. His powers might have been forced on him, but... he chose to be the Werewolf just as much as I chose to be Stunlocke. You..." she paused, searching for the words. "You know the real Connor. All those times you've seen him, they were real. That's who he is. The funny, kind, loving, annoying, endearingly awkward guy - that's the real Connor."
 			Chloe sat back, processing for a moment. "You mean... everything we had... every moment we shared..."
@@ -25047,7 +25043,7 @@ VOLUME - Gods Among Men
 			She chuckled, stroking his ears.
 
 			TO-24 arrived in A&E. They headed to the reception.
-			"DCI Naismith, TO-24. Get me Dr. Judith Rosenbaum." Naismith ordered.
+			"DCI Naismith, TO-24. Get me Judith Rosenbaum." Naismith ordered.
 			Judi arrived. "Henry, it's been a... oh my goodness, is that..." she gasped upon seeing the Werewolf's body.
 			"Yes it is. And he's still alive, Judi. He needs help."
 			"I... Right, this way." she beckoned, as they brought his gurney away.
@@ -25193,7 +25189,7 @@ VOLUME - Gods Among Men
 			"Fuck..." Amy gasped, pale as a ghost. "We... we gotta do something. Where's the freak that did this?!"
 			"That's another thing..." Ivan rubbed his eyes. "No one patrols until Connor recovers. There's a monster on the loose, and it's strong enough to nearly kill our best operative."
 			"We can't just sit here doing nothing." Gwen protested.
-			"I'm sorry." Ivan shook his head. "We can't take that risk. Once Connor's okay, we can assesss the situation, plan an counterattack... until then, we're benched. All of us."
+			"I'm sorry." Ivan shook his head. "We can't take that risk. Once Connor's okay, we can assess the situation, plan an counterattack... until then, we're benched. All of us."
 
 			Chloe sat on the chair next to him, and rested her head on his arm. Finally, she started to cry. Not just cry, but sob.
 			"Connor... You have to survive this. You can't do this to me. You can't make me fall in love with you and then go and die. You can't leave me like this... I need you. So, you're going to get up, aren't you?"
@@ -25241,7 +25237,7 @@ VOLUME - Gods Among Men
 			Chloe chuckled softly, and looked down. Connor twitched slightly.
 
 			The room was dark, and its air almost oppressively humid. Connor was chained up, and being beaten with cattle prods. His vision flickered red, the chains biting into his wrists. Each crack felt like fire searing through his veins. He tasted blood, sharp and metallic, as his screams echoed in the cold, unyielding chamber.
-			Dr. Zhao stood there, wincing. He looked over his computer sreen.
+			Zhao stood there, wincing. He looked over his computer sreen.
 			"Xeno-adrenaline levels rising. Sir, we---we have what we need."
 			"Keep hurting him." the Commandant growled, smirking. "Agent?"
 			A Super-Agent at his flank drove needles into his chest. Blood siphoned out, being taken into canisters.
@@ -27650,7 +27646,7 @@ VOLUME - Gods Among Men
 			An old, battle-hardened man stood on his balcony. He bore the marks of a storied army career - multiple scars, an eyepatch over his right eye, a missing left arm, and an unnatural gait implying at least one prosthetic leg. He wore a black waistcoat over a white shirt and a red tie, as well as a long leather trenchcoat. His slivery hair was long and untamed, stretching down to his shoulders. His beard was likewise thick - were it not for the clothes, he'd look destitute.
 			His phone rang.
 			"Major?" the voice on the other end began. "The Belson situation... it's over."
-			"Thank god. I had a feeling our man'd pull through." the Major nodded. His voice was a mix of Received Pronounciation and Welsh. "How's Verdict?"
+			"Thank god. I had a feeling our man'd pull through." the Major nodded. His voice was a mix of Received Pronunciation and Welsh. "How's Verdict?"
 			"Critical, but stable. Same for the wolf. Mr. Barrett is badly injured and unconscious, but he doesn't seem like he needs immediate intervention."
 			"Excellent. And his friends?"
 			"We have a team in place to pick up Miss Derrington. But... there's been a complication."
@@ -27670,7 +27666,7 @@ VOLUME - Gods Among Men
 			"Thank you..." the man nodded. He had a subdued Chinese accent - like a man who had lived in Britain for decades.
 			"What on Earth are you doing here?" Lowenthal asked.
 			"Good to see you too, Professor Lowenthal. It's been a while."
-			"I could say the same... Dr. Zhao."
+			"I could say the same... Doctor Zhao."
 			Zhao took down his hood. He'd shaved his head and grown out a beard.
 			"Not the best attempt at disguise, I must say." Lowenthal grinned, before his expression turned sour. "Why have you come? You know exactly what they'll do if they find you."
 			"I swear, Isaac, I never meant to bring any trouble to your door."
@@ -27716,7 +27712,7 @@ VOLUME - Gods Among Men
 			"If Gordon reacts like I expect... we *all* need protection." Lowenthal mused. He poured another glass of drink. "Subj--no. I'm done pretending they were numbers. *Connor* is the key. So is Trevor. And as much as I hate to say it..."
 			"No way." Zhao shook his head firmly. "Amy is still human. Unactivated. Unspoiled. We can't..."
 			"*We* might not be able to stop it. The noose is tightening, old friend." Lowenthal sipped his drink.
-			"Dig a trench, Dr. Zhao. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
+			"Dig a trench, old friend. And make it a deep one. I suspect, after today... things are going to get a whole lot worse."
 
 		Battle of Belson, Denouement Part 2
 
@@ -27850,7 +27846,7 @@ VOLUME - Age of Heroes
 			A man in a white labcoat approached.
 			"Oh, mademoiselle Derrington? Le chien commence a s'agiter." he began.
 			"Ah..." she nodded. "Merci, Docteur Bouzid."
-			She turned to the others. "Sorry - Connor, this is Dr. Bouzid. He's a trauma surgeon from Algeria - the Major had him flown over earlier, since Dr. Rosenbaum is preoccupied. He said Sparky is stirring - let's go see him."
+			She turned to the others. "Sorry - Connor, this is Dr. Bouzid. He's a trauma surgeon from Algeria - the Major had him flown over earlier, since Judi's preoccupied. He said Sparky is stirring - let's go see him."
 			"Algeria?" Connor tilted his head.
 			Bouzid nodded deferentially. "Al-Dhib. Vive l'Algerie, mort aux tyrans."
 			Connor smirked.
@@ -28391,7 +28387,7 @@ VOLUME - Age of Heroes
 			"Hey, Sparky." he beamed.
 			Chloe came in.
 			"Hey!" Connor smiled, embracing her. She returned the embrace.
-			"Doctor Bouzid said he woke up all of a sudden. They had to run out of the room, since he was disoriented." she explained.
+			"Dr. Bouzid said he woke up all of a sudden. They had to run out of the room, since he was disoriented." she explained.
 			"Well, wouldn't you be if *you* went from being ripped in half to waking up in a lab room?" Sparky grinned.
 			"I know, buddy." she cooed, cuddling him. "Anyway, I thought I should bring him over right away."
 			"So, um..." Sparky began. "Trey, what's up with your hand?"
@@ -29248,7 +29244,7 @@ VOLUME - Age of Heroes
 			"Who the fuck is that?" asked Trey, morphing up likewise.
 			"You can call me 'Commandant.'"
 			"Chyort!" Ivan gasped, before switching Isabella to semi-auto, and firing wildly.
-			Immediately, the Giants rushed in, preparing their haymakers. The Commandant replied by delivering a jab to the gut that disembowled one, before effortlessly pulling the head off of the other. Ivan's exploding bullets detonated on his skin, leaving... bruises. Nothing more than bruises.
+			Immediately, the Giants rushed in, preparing their haymakers. The Commandant replied by delivering a jab to the gut that disembowelled one, before effortlessly pulling the head off of the other. Ivan's exploding bullets detonated on his skin, leaving... bruises. Nothing more than bruises.
 			The boys morphed their claws, and dug their heels into the snow.
 			"What is this guy?!" Trey asked frantically.
 			"The leader of Paladin." Connor growled. "What are you doing here?"
@@ -29678,7 +29674,7 @@ VOLUME - Age of Heroes
 			Trey grinned, and pressed his attack. He sent a spinning kick that smacked aside Connor's head, dazing him - before a backflip that kicked him upside the chin.
 			Connor snarled, and charged forwards. He wrapped Trey in a bear hug, and squeezed tightly.
 			As Trey's bones cracked, he let out a savage growl. He was dazed, but not done. With an explosion of force, he broke free.
-			He spinned, kicking Connor in the backside and rising. The two clenched their fists, and struck - both hands crashing into each other. They felt their bones finally break, and stumbled forward, their heads knocking into each other. Their crimson eyes met, and both leaned back, before a headbutt so strong it shook the air around them. Finally, they both collapsed, bloodied and broken.
+			He shifted, kicking Connor in the backside and rising. The two clenched their fists, and struck - both hands crashing into each other. They felt their bones finally break, and stumbled forward, their heads knocking into each other. Their crimson eyes met, and both leaned back, before a headbutt so strong it shook the air around them. Finally, they both collapsed, bloodied and broken.
 			"Pathetic." the Judge sneered, arms folded. "*These* are the heroes of Earth?"
 			"Hey, fuck you." Connor panted, staggering to his knees. "We lasted ten minutes - that's more than you did."
 			"Very funny, youngblood." they tutted. "At least the Wolf shows promise."

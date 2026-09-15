@@ -289,15 +289,11 @@ VOLUME - Wolves Among Sheep
 			The boys began to close up. Once finished, they changed out of their overalls. Trey released his hair from its man-bun, allowing his undercut dreadlocks to flop down by his ears.
 			Connor turned to him. "You out tonight?"
 			"Yeah man!" Trey smiled. "You coming?"
-			"Nah, I'm gonna stay in tonight. You know how it is... Noise, people, *stink...*"
-			"No worries bro - I'll see you Sunday morning?"
-			"Afternoon - I switched shifts with Jake." Connor said.
-			Trey put on a look of horror. "...you mean I have to open with *Jake?*"
-			"He's not that bad." Connor said, but couldn't lie convincingly enough. "Okay, fine, he is. But at least I'll see you in the afternoon."
-			"Bring coffee... or drugs." Trey groaned.
-			Connor chuckled. "You whinge about opening with Jake, but you wonder why I don't wanna come out."
-			Trey grinned in response. "Fair point. I'll quit whinging if you come out."
-			Connor rolled his eyes, and nodded.
+			"Nah, I'm gonna stay in tonight. You know how it is... Noise, people, stink... besides, I promised Tommy I'd sort some bits."
+			"No worries bro - I'll see you tomorrow?"
+			"Day off." Connor shrugged. "We've only got a couple of MOTs."
+			"Ah... so you're gonna be sleeping in, anyway?" Trey winked.
+			Connor rolled his eyes, grinning. "Fine... I'll come out for a couple."
 
 		Intro to Drackhill
 		______________________________
@@ -1451,10 +1447,8 @@ VOLUME - Wolves Among Sheep
 			"*YEEOUCH!*" Trey shrieked, before the toilet flushed. He came in, holding the spare brake.
 			"Shit! Was that the lift?!" he asked, wide-eyed.
 			"Yeah, it buckled, I--Um, I got out the way in time. Thankfully it only fell down slowly, so the car's fine."
-			"Fuck!" Trey gasped. "It's my fault, I shouldn't have wandered off. We're meant to have two men on the shop floor at all times when that thing's up."
-			"Well, blame Jake." Connor grinned. "Where is he, anyway?"
-			"He quit." Trey chuckled. "Little shit acted like a dickhead, then whinged when we treated him like one."
-			"Ugh." Connor smirked. "Well, we're down a lift now, too."
+			"Fuck!" Trey gasped. "It's my fault, I shouldn't have wandered off."
+			"No, it's the lift's fault." Connor shrugged. "We need to get a new one, anyway, but... well, business has been slow."
 			He paused for a moment.
 			"Get me a rolling board and a zig-zag."
 			Trey looked at him quizzically. "There's no way you're gonna fit the brake that close to the ground."
@@ -2413,7 +2407,7 @@ VOLUME - Wolves Among Sheep
 			"What the fuck happened to me..." he whispered to himself.
 			His brow creased with determination, as he reached into his drawer. He pulled out his gun, and took a deep breath. Then he stashed it in his backpack, and headed off to the garage.
 
-			It was still early. Connor's new 'job' along with Jake's impromptu resignation meant that the shop could only be open when Trey was free. Still, Connor had his key - and he let himself into the workshop section.
+			It was still early. Connor's new 'job' meant that the shop could only be open when Trey was free. Still, Connor had his key - and he let himself into the workshop section.
 			Within, he saw the bike he'd taken from the Skulls. He hadn't got a good look at it before, but it was a pretty decent ride.
 			Whereas his old bike was your typical cruiser, this one was a Japanese-style sports bike. It was sleek, and painted a shimmering black - but with thin red decals.
 			He couldn't help but crack a grin - it definitely fitted *his* style better than a Skull.
@@ -16107,8 +16101,8 @@ VOLUME - Wolves Among Sheep
 			"I made some smart investments." Connor grinned. "We're squatting in the garage until the motel gets fixed up."
 			"I--wow." Vince beamed. "I'm proud of you, lad."
 			Connor blushed slightly.
-			"And how are your friends? Jake and Trey?"
-			"Jake was never a friend, but he's gone his own way anyway." he shrugged nonchalantly. "Trey's good. We went to the winter faire with our new friends last week."
+			"And how's Trey?"
+			"Trey's good. We went to the winter faire with our new friends last week."
 			"New friends?" Vince asked, eyebrow raised.
 			"Yeah, Amy met them on a night out, and they've kind of just ended up in our social circle. Bea and Chloe." Connor answered. He looked away for a second... He realised, too late, he said 'Chloe' with a little too much affection. His hopes Vince didn't notice were quickly dashed.
 			"Ooh, tell me about Chloe." Vince smiled, teasingly.
@@ -19068,7 +19062,7 @@ VOLUME - Gods Among Men
 			"When I get out of here, I'm gonna tie you to a chair, pin your eyelids open, and make you watch that movie until you hate it to your core." Connor snarked.
 			Ivan grinned. "No force on heaven or Earth could make me hate Red Rebellion. But to the point... I have a plan for you."
 			He revealed his prize - a schematic of the prison. Specifically highlighted were the access points to the roof.
-			"How the hell did you smuggle that in here?" Connor titled his head.
+			"How the hell did you smuggle that in here?" Connor tilted his head.
 			"I didn't stuff it up my *zhopa,* if that's what you're asking." he grinned. "One small problem - this place has a lot more CCTV than I expected. You'll need to be wary."
 			Connor leant back, and stroked his chin. "Actually... I think I might have an answer to that."
 
@@ -29547,10 +29541,10 @@ VOLUME - Age of Heroes
 			"So, you're not just a soldier. You're special forces. On a solo mission." Ivan noted. "Are all your people like you?"
 			"How observant, Convert." the Judge grinned. "No. The Golgothans are the greatest army in the galaxy. But we - myself and the youngbloods - are more than our host races. We are Moxidari."
 			"What's that?" asked Connor. "I can't make out the word."
-			"Your tongues are not advanced enough for it." they shrugged. "The Moxidari are the Moxidari. There is no other term. The closest term in a human tongue I've ever heard... was 'Beserker.'"
+			"Your tongues are not advanced enough for it." they shrugged. "The Moxidari are the Moxidari. There is no other term. The closest term in a human tongue I've ever heard... was 'Berserker.'"
 			"Is it your word for people who were given the Serum before birth?" asked Chloe.
 			"Yes." the Judge nodded. "It was applied across my entire batch. Only I survived."
-			"But you're all identical?" Chloe titled her head. "And you're all vat-grown? The circumstances of your gestation would be identical, no?"
+			"But you're all identical?" Chloe tilted her head. "And you're all vat-grown? The circumstances of your gestation would be identical, no?"
 			"Such is the mystery of the Moxidari - the Berserkers." the Judge shrugged. "I am not a scholar, Chloe-Chloederrington. I cannot answer all your questions."
 			"Maybe you can answer mine." Connor began. He placed his hand against the glass.
 			"What are you doing?" Chloe whispered. The Judge placed their own hand up to Connor's.

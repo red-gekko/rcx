@@ -12,7 +12,11 @@ next scene in heartache:
 	trey says he's gonna conscientously object; but worries as that could mean jail time. connor comes up with a solution - he gives trey a controlling stake in the business, making him a joint business owner and thus exempt. trey is shocked, but connor says not to worry about it
 
 
-change contentwarning.html so that volumes can be collapsed. include a spoiler warning in the page.
+change contentwarning.html so that volumes can be collapsed. include a spoiler warning in the page. also, add a "NOT" option to the filters, so that readers only see episode names that *dont* have their filters. also, update the contact form with the correct episode list
+
+
+add a brief scene where connor goes to check in on a brothel under Hood protection, speaking to the madame and confirming she's ordered all her girls to avoid street work. connor says if they get any problems, call him or crane
+	later, during the crackdown arc, have the cops raid the brothel; if this is in Public Enemy, have connor show up to protect them; otherwise, have them arrive in the Special Holding Unit along with protestors and 'seditionists' - Connor's first mission post-escape is to liberate the SHU, before he goes after DCC
 
 
 remove Yaz completely. her arc contributes nothing of note. instead, end the theatre date on a high note with connor soaring through the sky, and begin the next episode in chechnya. the only moment worth keeping is looking after a baby - find something for that to be included with, where connor and sparky care for a baby in the motel, and chloe sees him humming the lullaby

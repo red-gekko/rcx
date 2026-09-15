@@ -7,6 +7,13 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 
 
+next scene in heartache:
+	have the gang hanging out at the motel for the evening. connor and sparky took the night off, and bea offhandedly mentions there was a shootout in a Belson warehouse. connor keeps his reaction quiet. in this scene, trey seems really off, and reveals that his conscription letter came through. bea notes that charlie's came recently; he got away with it because uni students are exempt. they ask if connor will get one; he explains that irish are exempt too, as "making us wear the uniforms of the men who killed our people, and fire a gun under the flag that flew over our ashes... that's evil, even for the british. besides, the last thing they want is a bunch of us having military training."
+	trey says he's gonna conscientously object; but worries as that could mean jail time. connor comes up with a solution - he gives trey a controlling stake in the business, making him a joint business owner and thus exempt. trey is shocked, but connor says not to worry about it
+
+
+change contentwarning.html so that volumes can be collapsed. include a spoiler warning in the page.
+
 
 remove Yaz completely. her arc contributes nothing of note. instead, end the theatre date on a high note with connor soaring through the sky, and begin the next episode in chechnya. the only moment worth keeping is looking after a baby - find something for that to be included with, where connor and sparky care for a baby in the motel, and chloe sees him humming the lullaby
 	solution; instead of after, have this happen *before* the theatre date:
@@ -798,7 +805,7 @@ new subplot!
 			conn: "har har."
 			trey: "this mission will be carried out via a two-pronged assault. Alpha team, consisting of Vanguard and our new teammate, codename Leprechaun--"
 			vinc: "Feck yous."
-			trey: "--will focus their efforts on Alpha Target, AKA Skirmisher. Leprechaun, you'll be spending the evening whipping up a fresh, homecooked meal. Vanguard, you will go undercover by arranging a joint op with Alpha Target, during which you will question her further on her feelings. Due to the stress of battle, she will be more candid with you.  Meanwhile Bravo team will consist of Adept and myself, going after Stunlocke. Adept, I want you to use your powers to--"
+			trey: "--will focus their efforts on Alpha Target, AKA Rampage. Leprechaun, you'll be spending the evening whipping up a fresh, homecooked meal. Vanguard, you will go undercover by arranging a joint op with Alpha Target, during which you will question her further on her feelings. Due to the stress of battle, she will be more candid with you.  Meanwhile Bravo team will consist of Adept and myself, going after Stunlocke. Adept, I want you to use your powers to--"
 			chlo: "I'm not using my powers to manipulate her, Trey."
 			trey: "I can't believe you'd assume such a thing! ...are you sure you can't just give her a tiny nudge?"
 			chlo: "No."
@@ -1508,6 +1515,16 @@ rogue's gallery notes:
 		the next night, a terrified mook delivers a phone to johnny - it has a location and time for a meetup
 		connor goes, and meets the woman. while trying to talk her down as she goes on about their love, he says she needs help, and she snaps that he thinks she's crazy, worrying that her therapist has been talking to him. he tries to talk her down, but she snaps, saying "there's someone else isn't there? oh, always her!" and scowls that he's 'cheating' on her with 'the bitch [he] always save[s]", and runs away. connor gives chase, but she shoots out the tires of a lorry, causing a multicar pileup on a crosroads - he is forced to save people and let her escape
 			(he gets ivan and shannon to dig into her - finds out her therapist as below)
+				to begin with, he questions Judi on if she can access patient records to find this therapist:
+					"you know... this is highly, highly unethical."
+					"it's to save lives."
+					"that's the excuse for every abuse of power."
+					"if i had a badge and a warrant, you wouldn't be saying this. so why are you?"
+					"because those things come with a little thing called accountablity! something your mask doesn't!"
+					"accountability? barely a week ago, i found out the head of vice in this city is a serial killer. don't you talk to me about accountability"
+					she hesitates, and connor takes a breath
+					"listen... i know that this is a lot; especially if you've been working within the system your whole life. but the system didn't work for the organ harvesters; it doesn't work on the skulls; and it's not working now. and until they change the system so it works on these things, we have a choice - to be 'ethical,' or to be moral. i choose to be moral."
+					she nods, and accesses the files
 				therapist is reluctant, but connor says what shes done and asks if she wants more on her conscience. she relents, and explains the backstory
 					clara was abused by her stepfather as a child, and when her mum found out, she killed him. raised bouncing from home to home, clara craves validation and affection. she has a pathological inability to self-actualise; instead latching onto a person and basing her entire identity around them. connor explains she's latched onto him after he beat up her ex (who the therapist was worried about); the therapist notes the name "she-wolf" means she's fully latched onto him. he asks how he can help her; she says she needs psychiatric help. connor notes that she can't be held safely in a psych ward - before lighting up in realisation
 		later that night, while connor is hunting for her, he has sparky covertly keeping an eye on chloe. however, he gets a call from amy - who's being held hostage by shewolf

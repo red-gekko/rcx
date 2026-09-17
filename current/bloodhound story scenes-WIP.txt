@@ -15641,7 +15641,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - Heartache
+	EPISODE - She-Wolf
 		______________________________
 		SCENE
 			The knock at the garage door was hesitant - three quick raps, then silence. Connor looked up from the engine block he'd been tinkering with, wiping his hands on a rag.
@@ -15649,8 +15649,8 @@ VOLUME - Wolves Among Sheep
 			The door creaked open, and Chloe poked her head through. She was wearing a loose vest and joggers, her hair tied back in a messy bun. A gym bag hung from her shoulder.
 			"Hey!" she smiled. "Hope I'm not too early?"
 			"Nah, perfect timing." Connor tossed the rag aside, and gestured for her to come in. "I was just finishing up."
-			She stepped inside, looking around the workshop. The lights were dim, most of the space taken up by half-dismantled cars and stacked tyres. Sparky was curled up on an old armchair in the corner, snoring softly.
-			"Hey, Sparky!" she whispered, not wanting to wake him.
+			She stepped inside, looking around the workshop. The lights were dim, most of the space taken up by stacks of tyres and machine parts. Sparky was curled up on an old armchair in the corner, snoring softly.
+			"Hey, buddy..." she whispered, not wanting to wake him.
 			Connor chuckled. "He's out cold. We were up late last night."
 			"A big walk?"
 			"Something like that."
@@ -15681,12 +15681,12 @@ VOLUME - Wolves Among Sheep
 			"Again. Harder."
 			She repeated the motion, putting more force behind it. The chain creaked.
 			He circled her, studying her movement. "Now, mix it up. Don't just go for the same two punches."
-			She nodded, and began to flow. A jab, a feint, a hook to the side of the bag. Then a low kick, followed by an elbow strike.
+			She nodded, and began to flow. A jab, a feint, a hook to the side of the bag. Then, a low kick, followed by an elbow strike.
 			Connor watched, arms folded. A small smile crept over his face.
 			"That's really good. Your footwork's come a long way."
 			Chloe paused, catching her breath. "Yeah?"
 			"Yeah. I mean, you already had a knack for kicks, but that was impressive."
-			He stepped closer, and gently adjusted her guard. "Just remember - keep your chin tucked. You drop it when you get tired."
+			He stepped closer, and gently adjusted her guard. "Just remember - keep your hands up. You drop them when you get tired."
 			She blushed at his touch, but quickly regained her composure, and nodded, absorbing the advice. "Got it."
 
 			Outside, a shadow dropped from the shipping container onto the gravel below. Silent. Measured. The figure moved along the fence line, keeping low, boots crunching softly on the wet ground.
@@ -15879,8 +15879,9 @@ VOLUME - Wolves Among Sheep
 			She paused, and looked at him, her bullpup aimed at his face.
 			Then she reached up, and pulled off her hood-mask.
 			Brown hair tumbled down, curling around her lightly-tanned face. The black veins spread across her cheeks like cracked porcelain. Her eyes - warmer than he'd expected - met his.
-			She smiled.
-			"Call me... She-Wolf. And... if you see my hunk of a man... tell him I said hi!"
+			She smiled. Her lips were coated in a black powder.
+			"Call me... She-Wolf. And... if you see my hunk of a man... give this to him."
+			She scribbled a note on a piece of paper, and then kissed it, planting a tarry imprint as if in signature.
 			She turned, and walked out. The radio kept playing, over the Skull's screams.
 
 			"Oh, can't you see,
@@ -15904,7 +15905,7 @@ VOLUME - Wolves Among Sheep
 			"Ooh! I love breakfast!"
 			Connor laughed, and the twin Werewolves headed inside.
 
-		Conscription
+		Conscription/Smells like Psycho
 		______________________________
 		SCENE
 

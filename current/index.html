@@ -829,6 +829,21 @@
         .help-panel a:visited {
             color: #79b8ff;
         }
+
+        /* ===== WAKE LOCK INDICATOR ===== */
+        .wake-lock-indicator {
+            display: none;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            color: #3fb950;
+            background: #1f3d2a;
+            border: 1px solid #2ea043;
+            border-radius: 6px;
+            padding: 3px 10px;
+            white-space: nowrap;
+        }
+        .wake-lock-indicator.visible { display: inline-flex; align-items: center; gap: 4px; }
     </style>
 </head>
 <body>
@@ -875,6 +890,7 @@
             <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
             <button id="help-btn" title="Show help">❓ Help</button>
             <button id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
+            <span class="wake-lock-indicator" id="wake-lock-indicator" title="Screen will stay awake while narration is playing">🔆 Screen Awake</span>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
 
             <span class="speed-group">
@@ -995,6 +1011,7 @@
             const uploadSourceBtn = document.getElementById('upload-source-btn');
             const serverSourceBtn = document.getElementById('server-source-btn');
             const clearStoryBtn = document.getElementById('clear-story-btn');
+            const wakeLockIndicator = document.getElementById('wake-lock-indicator');
 
             let availableVoices = [];
             let chunks = [];
@@ -1030,6 +1047,11 @@
 
             let storyData = null;
             let debugLog = [];
+
+            // ── Screen Wake Lock state ──
+            let wakeLockSentinel = null;
+            let wakeLockSupported = ('wakeLock' in navigator);
+            let wakeLockRequestPending = false;
 
             function storageGet(key) { try { return localStorage.getItem(key); } catch (e) { console.warn('Storage read failed:', e); return null; } }
             function storageSet(key, value) { try { localStorage.setItem(key, value); return true; } catch (e) { console.warn('Storage write failed:', e); return false; } }
@@ -1104,6 +1126,96 @@
             function setStatus(msg, isError = false) {
                 statusEl.textContent = msg;
                 statusEl.className = 'status' + (isError ? ' error' : '');
+            }
+
+            /* ========== SCREEN WAKE LOCK ========== */
+
+            function updateWakeLockIndicator() {
+                if (wakeLockSentinel && !wakeLockSentinel.released) {
+                    wakeLockIndicator.classList.add('visible');
+                } else {
+                    wakeLockIndicator.classList.remove('visible');
+                }
+            }
+
+            async function requestWakeLock() {
+                if (!wakeLockSupported) {
+                    logDebug('Wake Lock API not supported in this browser — screen may sleep during narration.');
+                    return;
+                }
+                if (wakeLockSentinel && !wakeLockSentinel.released) {
+                    // Already held — nothing to do.
+                    updateWakeLockIndicator();
+                    return;
+                }
+                if (wakeLockRequestPending) {
+                    return;
+                }
+                if (document.visibilityState !== 'visible') {
+                    // The API rejects requests while the page is hidden; the
+                    // visibilitychange handler will retry when we come back.
+                    logDebug('Wake Lock: skipping request (page not visible).');
+                    return;
+                }
+
+                wakeLockRequestPending = true;
+                try {
+                    wakeLockSentinel = await navigator.wakeLock.request('screen');
+                    logDebug('Wake Lock: acquired — screen will stay awake.');
+                    wakeLockSentinel.addEventListener('release', function() {
+                        logDebug('Wake Lock: released by system.');
+                        wakeLockSentinel = null;
+                        updateWakeLockIndicator();
+                        // The system can release the lock at any time (e.g. low
+                        // battery). If narration is still running, try again so
+                        // we don't silently lose the lock mid-scene.
+                        if (ttsActive && !ttsPaused && document.visibilityState === 'visible') {
+                            setTimeout(requestWakeLock, 1000);
+                        }
+                    });
+                } catch (err) {
+                    // Common causes: low battery, power-save mode, HTTPS
+                    // requirement, or the tab isn't focused. Not fatal.
+                    logDebug(`Wake Lock: request failed — ${err.name || 'Error'}: ${err.message || err}`);
+                } finally {
+                    wakeLockRequestPending = false;
+                    updateWakeLockIndicator();
+                }
+            }
+
+            async function releaseWakeLock() {
+                if (!wakeLockSentinel) {
+                    updateWakeLockIndicator();
+                    return;
+                }
+                const sentinel = wakeLockSentinel;
+                wakeLockSentinel = null;
+                try {
+                    await sentinel.release();
+                    logDebug('Wake Lock: released.');
+                } catch (err) {
+                    logDebug(`Wake Lock: release failed — ${err.message || err}`);
+                }
+                updateWakeLockIndicator();
+            }
+
+            // Browsers automatically release the wake lock when the page is
+            // hidden. When the user returns to the tab while narration is still
+            // active, we must re-acquire it ourselves.
+            document.addEventListener('visibilitychange', function() {
+                if (document.visibilityState === 'visible') {
+                    if (ttsActive && !ttsPaused) {
+                        logDebug('Wake Lock: page visible again — re-acquiring.');
+                        requestWakeLock();
+                    }
+                } else {
+                    logDebug('Wake Lock: page hidden — lock will be released by the system.');
+                    updateWakeLockIndicator();
+                }
+            });
+
+            if (!wakeLockSupported) {
+                logDebug('Wake Lock API unavailable — screen may turn off during long narration.');
             }
 
             /* ========== SPEECH TEXT SANITIZER ========== */
@@ -1525,6 +1637,10 @@
                         <li><strong>Voice</strong> — Choose from the voices available on your device. The preferred voice is "Google UK English Male" when installed.</li>
                     </ul>
 
+                    <h3>🔆 Screen Awake</h3>
+                    <p>While narration is playing, the reader asks your device to keep the screen on using the Screen Wake Lock API. This prevents your phone or tablet from sleeping mid-scene. The <strong>🔆 Screen Awake</strong> badge appears next to the controls when the lock is active. It is released automatically when you pause, stop, or finish narration, so your device can sleep normally when you're not listening.</p>
+                    <p><em>Note:</em> this requires a modern browser (Chrome for Android 84+, Safari on iOS 16.4+, Samsung Internet 14+) and an HTTPS connection. On older browsers the reader will still work, but the screen may dim during long narration.</p>
+
                     <h3>🔁 Autoplay</h3>
                     <p>Toggle Autoplay on to have the reader automatically advance to the next scene after the current one finishes. A countdown appears in the transcript panel, with a cancel button. Autoplay also starts narration automatically when you change scenes manually via the dropdowns or arrow buttons.</p>
 
@@ -1578,6 +1694,7 @@
                     speakBtn.textContent = '🔊 Speak Scene';
                     pauseBtn.textContent = '⏸ Pause';
                     setTtsButtonsActive(false);
+                    releaseWakeLock();
                 }
                 cancelAutoplayCountdown();
 
@@ -1612,6 +1729,7 @@
                         setTtsButtonsActive(true);
                         setNarrationActiveClass(true);
                         startResumeTimer();
+                        requestWakeLock();
 
                         const startIdx = (resumeChunkIndex >= 0 && resumeChunkIndex < chunks.length)
                             ? resumeChunkIndex
@@ -1872,6 +1990,8 @@
                     clearResumeTimer();
                     updateChunkUI();
                     setNarrationActiveClass(false);
+                    // Narration has ended naturally — allow the screen to sleep.
+                    releaseWakeLock();
 
                     if (autoplayEnabled) {
                         const list = getFlatSceneList();
@@ -1991,6 +2111,10 @@
                 updateChunkUI();
                 setNarrationActiveClass(false);
 
+                // Narration is no longer active — release the screen wake lock
+                // so the device can sleep normally.
+                releaseWakeLock();
+
                 cancelAutoplayCountdown();
             }
 
@@ -2028,6 +2152,12 @@
                 setNarrationActiveClass(true);
                 setStatus(`Speaking: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
 
+                // Keep the screen awake for the duration of narration. The lock
+                // is released in stopSpeaking(), on natural completion, and on
+                // pause. It is re-acquired on resume and on tab visibility
+                // changes (browsers drop the lock when the page is hidden).
+                requestWakeLock();
+
                 startResumeTimer();
                 setTimeout(function() { playChunkAt(0); }, 100);
             }
@@ -2041,6 +2171,8 @@
                     pauseBtn.textContent = '⏸ Pause';
                     setStatus(`Speaking: ${currentSceneName}`);
                     logDebug('TTS: resumed');
+                    // Narration is active again — hold the screen awake.
+                    requestWakeLock();
 
                     setTimeout(function() {
                         if (ttsActive && !ttsPaused && !window.speechSynthesis.speaking && !pendingPauseTimeout) {
@@ -2053,6 +2185,9 @@
                     pauseBtn.textContent = '▶ Resume';
                     setStatus(`Paused: ${currentSceneName}`);
                     logDebug('TTS: paused');
+                    // While paused there is no reason to keep the screen awake;
+                    // releasing the lock saves battery.
+                    releaseWakeLock();
                 }
             }
 
@@ -2814,6 +2949,8 @@
                 clearResumeTimer();
                 clearPendingPause();
                 cancelAutoplayCountdown();
+                // No active story means no narration, so drop the wake lock.
+                releaseWakeLock();
 
                 currentUtterance = null;
                 ttsActive = false;

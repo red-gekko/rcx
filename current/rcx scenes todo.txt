@@ -13,13 +13,19 @@ next scene in heartache:
 	end the scene with naismith interviewing the survivor. he and nina go to the car, only connor is in the back, saying they need to talk. he explains that it wasn't him who killed the skulls - naismith says he knows, and apparently the attacker called herself "She-Wolf" and left him a note; they couldn't decipher it, and wanted to see if he understood it before they send it off to forensics. In the note, she calls him "My love" and goes on about it. The lipstick reeks of coal tar - so he realises she must be in the old coal gasworks.
 
 
-change contentwarning.html so that volumes can be collapsed. include a spoiler warning in the page. also, add a "NOT" option to the filters, so that readers only see episode names that *dont* have their filters. also, update the contact form with the correct episode list
+change contentwarning.html so that volumes can be filtered as well (separate from tags). include a spoiler warning in the page. also, add a "NOT" option to the filters, so that readers only see episode names that *dont* have their filters. also, update the contact form with the correct episode list
 
 
 add a brief scene where connor goes to check in on a brothel under Hood protection, speaking to the madame and confirming she's ordered all her girls to avoid street work. connor says if they get any problems, call him or crane; also, have his super-hearing pick up one patron putting his hands on a girl's neck; he bursts in and covertly morphs a knife (he sticks his hand in his pocket first) before knocking the john out.
 	make sure the madame has history with connor - hint at him having helped them out before
 	the brothel is officially a strip club, called the Violet Vixen
 when naismith uploads the fingerprints and DNA deposits, have Connor be there (they're doing this on his police computer) - initially there are no matches on the criminal database, but connor presses him to search for police elimination samples, given the force's corruption. nina hesitantly concurs, saying that the killer has enough forensic knowledge for it to be a possibility. when chapman shows up as the result, naismith confirms he's still got his service weapon, and they head out
+
+consider changing the chapman attack from the Horse to the Vixen
+
+maybe have a copycat vandalise the Vixen and attempt to murder another SW, only for Connor to nearly kill him. However, during the interrogation, connor asks if he killed the other girls too, and the man says yes  - only for connor's lie detector to  ping. he realises this is a copycat, and hands him  over to naismith.
+
+if the Vixen has been vandalised, have the girls there instead be working as pole dancing only, at the Horse; Connor explains his history with Cormack to Chloe and Bea (he explains this when Lexi comes to him and speaks like an  old friend)
 
 later, during the crackdown arc, have the cops raid the brothel; if this is in Public Enemy, have connor show up to protect them; otherwise, have them arrive in the Special Holding Unit along with protestors and 'seditionists' - Connor's first mission post-escape is to liberate the SHU, before he goes after DCC
 

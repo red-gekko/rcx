@@ -4142,14 +4142,14 @@ VOLUME - Wolves Among Sheep
 			Evidence. Always useful.
 			From the office, a metal staircase led down to the warehouse floor. Connor descended, his movements precise and unhurried. The warehouse was vast, lit by a few buzzing strip lights. Pallets and crates stretched into the shadows. He found the lockup near the back - a reinforced cage with a heavy padlock.
 			He instinctively went to rip it off, but stopped, and produced a pair of bolt cutters from his backpack. One clean clang and the lock fell away. He stepped inside.
-			The crates were stacked high. Semi-automatic rifles, ammunition, and duffel bags full of cash - mostly pounds, some euros. He took a moment to unzip one, just to be sure. It was real. He started stuffing bundles into his own bag, working quickly.
+			The crates were stacked high. Semi-automatic rifles, ammunition, and duffle bags full of cash - mostly pounds, some euros. He took a moment to unzip one, just to be sure. It was real. He started stuffing bundles into his own bag, working quickly.
 			But he was after something else.
 			He moved to the corner, where a series of steel drums were stacked. He used a crowbar to prise one open. The pungent, chemical stench hit him like a wall. Drug precursor. The source of a lot of the Skulls' cash flow.
 			He opened three more drums, confirming his hunch, then took a step back and surveyed the cage. Good. Now for the message.
 			He found a can of red spray paint in the office supplies. He shook it, the rattle sharp in the silence, and knelt down. The Hoods' mark - a cowl with a broken chain around the neck - went onto the wall beside the cage.
 			He pulled out the folded note from his pocket, written earlier in careful block handwriting:
 			"DOBEL. WE KNOW ABOUT NOLAN PIERCE. RELEASE HIM, OR WE WILL PUBLISH EVERYTHING WE HAVE. YOU HAVE 2 HOURS."
-			He placed it on top of the empty duffel bag, weighing it down with a brick.
+			He placed it on top of the empty duffle bag, weighing it down with a brick.
 			Then, a smell caught his nose.
 			Alas, the time for humanity was over. He walked over - yes. The unmistakable smell.
 			Super-Serum. The same thing that ran through every Agent's veins - and his.
@@ -13228,6 +13228,8 @@ VOLUME - Wolves Among Sheep
 			"South Belson." Naismith nodded. "But he might try to mix it up a little now."
 			"Then I'll cover the city. But first... a little investigation of my own."
 			"What do you mean?" Naismith asked, before shaking his head. "Actually, best I don't know."
+			He hesitated, before handing over a USB drive.
+			"Everything we've got so far is on there. Be careful with your IT, though - it's my job on the line."
 			Connor nodded, and morphed up his glider. Naismith watched in awe as he took off - and then tried not to laugh as he crashed into a wall.
 			"Still getting the hang of it!" Connor barked, sticking to the wall and climbing. Naismith cleared his throat, and headed back down.
 
@@ -13386,15 +13388,12 @@ VOLUME - Wolves Among Sheep
 
 		Checking the Vixen
 
-
-	______________________________
-	EPISODE - The Belson Strangler, Part 2
 		______________________________
 		SCENE
 			Morning had come and gone. The sun eagerly prepared to hide behind the sea, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
 			"Alright..." he began. "We got a rough description from our... let's call him our informant."
 			"There are worse words." Nina chuckled. Naismith grinned.
-			"The suspect is ginger, middle aged, clean shaven, and a scar on his chin."
+			"The suspect is ginger, middle aged, clean shaven, and a scar on his chin. Not local, either."
 			"Sir..." Nina began, unsure. "I know this breaks a lot of protocols, but..."
 			"It's too risky." Naismith shook his head.
 			"I know the risks, sir. I'm willing." she replied firmly.
@@ -13483,8 +13482,181 @@ VOLUME - Wolves Among Sheep
 			"The monster got away." he snarled back.
 			"You saved a person's life." Connor countered. "And now we have his car, the police can check the plates, look for prints, test blood deposits... we're gonna get him, I swear."
 			Sparky hesitated, but looked over at Mikhaela. He smiled slightly.
+			Connor pushed his hand into Sparky's head, and closed his eyes.
+			He inhaled through the nose, and stood.
+			"Let's go. We'll find *something.*"
 
 		Stinging the Strangler/Sparky saves victim
+
+
+	______________________________
+	EPISODE - The Belson Strangler, Part 2
+		______________________________
+		SCENE
+			"Thanks, Dave. Let me know if anything changes." Kat nodded softly.
+			Lexi was wearing a duffle coat, bouncing a baby boy on her knee.
+			"Shh... it's okay, Georgi." she whispered softly.
+			"How is she?" she asked, turning to Kat.
+			"She'll be alright. Dave's on his way back now." Kat nodded. "I've locked all the doors... I hope that psycho doesn't come here."
+			The back door was the weak point. Always had been. An old service entrance that led to a narrow alley, used for deliveries and, occasionally, less legal arrivals. The lock was temperamental on the best of days. Tonight, it clicked open with barely a whisper.
+			The man skulked in, holding a bottle that sloshed and stank of petrol, with a rag jammed into the top. He wore a scarf over his face, and his icy blue eyes scowled as he entered. In his other hand was a red jerry can.
+			He set the can down, and unscrewed the cap. The acrid smell filled the corridor.
+			"Hey!"
+			He spun. One of the women - a younger lass with fire-red hair - stood at the end of the hall, her eyes wide.
+			"Kat?! KAT!"
+			The man roared, as he struck her around the head with a claw hammer. Her eyes rolled back, as he put his hands on her neck.
+			No. Not yet.
+			The other girls rushed in, and went pale.
+			"SAGE!" Kat gasped. "GET AWAY FROM HER, YOU ANIMAL!"
+			"THERE YOU ARE!" he screamed, before striking his lighter and pushing it to the cocktail's rag. "SEE YOU IN HELL, WHORES!"
+			At that, Sage stumbled to her feet - just as he threw the firebomb at them.
+			It barely missed. They dived out from the corridor and into the dancing hall, but the building went up like kindling.
+			Kat rushed to the door, and--fuck. She left her keys in the office.
+			"NO WAY OUT, NOW!" the man roared.
+			Georgi bawled in fear, as Lexi held him tightly.
+			"FUCK YOU!"
+			Kat swung a pipe, aiming right for the man's temple. He dodged, but only just, and it caught his cheek.
+			"Agh! Little BITCH!"
+			He swept his hammer up, catching her in the jaw. Then, he jabbed it forwards, right between the eyes. Kat fell backwards, dazed.
+			Lexi kicked at the door frantically. "HELP! SOMEONE, PLEASE HELP US!"
+			The killer walked towards her menacingly. Sage held onto consciousness as best she could, but the smoke began to fill their lungs.
+			Lexi choked and spluttered.
+			Please. Please.
+
+			"RAAAAAAGH!" Connor howled, as his eyes burned brighter than any flame could dream of. He ripped the doors off of their hinges, their handles turning to dust in his grip.
+			Lexi looked up, wide-eyed and scared, before taking his hand.
+			Connor's gaze shot up, and saw Kat laid there - the monster's hands around her throat.
+			The man looked up, and his pupils shrank in fear.
+			Connor crossed the distance in a heartbeat.
+			His fist connected with the copycat's jaw before the man could rise, sending him crashing into the bar. Bottles shattered, their shards burying into his back.
+			Connor brought down his fist, smashing into the man's chest. And again. And again. Then, he grabbed him by the head, and shook it violently. Hot blood poured out from the man's ears, as he cried in pain.
+			"W-Werewolf!" Lexi called out. "Help Kat, please!"
+			Connor's scarlet scowl shot back, and he nodded. He hoisted Kat over his shoulders, and carried her outside. Then, he went back in after his quarry.
+			"Heh... worth a try..." the man spat.
+			Connor raised him by the throat, and dangled him before the fire.
+			"It ends here." he snarled. "Before I kill you, though... you're gonna tell me who you are."
+			"I'm the Belson Strangler." the man grinned. "That's all you need to know."
+			Connor scowled, but then, he paused.
+			The hairs on the back of his neck prickled slightly.
+			A lie. A lie?
+			A lie.
+			"Who. Are. You?" Connor pressed again.
+			"I'm the Bel--"
+			"WRONG ANSWER!"
+			*SHK!*
+			The man screamed, as the tip of his right index finger came off. Connor pressed his blade against the next knuckle down.
+			"Every time you lie to me... I get worse. Do you understand?"
+			"Yes, y-yes..."
+			"Who are you?"
+			"Okay, okay! My name's Adrian Baines. I... I was inspired by him, okay?"
+			"*Inspired?!* You think that monster is some kind of hero?!"
+			"Yeah, I do. More so than *you,* anyway! He's the only one doing something about all the whores---"
+			*SHK!*
+			"Don't use that word." Connor whispered over Adrian's screams. "Don't *ever* use that word."
+			His finger's midsection dropped down, and made a sizzling noise as it cooked in the flames.
+			"I'm sorry! I'm sorry!"
+			*SHK!*
+			"WHAT DID I TELL YOU ABOUT LYING?!" Connor howled.
+			The last chunk of index finger fell into the fire, and the blade pressed onto the middle finger's tip.
+			"Who's the real Strangler?"
+			"I don't know! I swear, I don't know! I just copied him, alright? I just wanted to be someone big, that's all!"
+			"Where is he?! Where can I find him?!"
+			"I have no idea!"
+			"Then... you're of no use to me."
+			Connor's grip weakened, and Adrian cried in fear.
+			"Please! Please, I can help you, just don't kill me!"
+			Connor snarled, before releasing his grip.
+			Adrian rolled frantically, as the flames spread over him. He managed to make it to a non-infernal patch of floor, where he patted himself down. Black smoke billowed out from him, and his movement slowed.
+			Connor jumped down, grabbed him by the collar, and walked back out.
+			He took a deep breath. Lexi timidly approached him.
+			"Is it him? Is it... the Strangler?"
+			"No, just a copycat." Connor grimaced, hiding his voice. "But he still tried to kill you all."
+			"...what are we gonna do?"
+			"Whatever you please." Connor nodded, dropping his knife and walking away. He melted into the shadows, as he heard a voice come over Lexi's phone.
+			"Emergency, which service do you require?"
+			"Hello, um... all of them."
+			He smiled softly under his mask, and faded into the night.
+
+		Fallen Vixen
+		______________________________
+		SCENE
+			The fire crews arrived first. Then the paramedics. Then, finally, Naismith - pulling up in his unmarked car with Nina already on the radio, calling it in.
+			He stepped out and took in the scene. The Vixen was a skeleton of itself - a blackened, smoking husk, flames still licking at the upper windows. Four women sat on the curb, wrapped in silver blankets. Sage had a bandage wrapped around her head, while Kat was being attended to by a paramedic. Her jaw was swollen and bruised, while they dabbed with gauze at the wound on her forehead.
+			On the pavement, surrounded by officers, laid a man. Or what was left of one.
+			Baines was barely recognisable. His clothes had burned away. His skin was a patchwork of black and red, blistered and cracked, weeping fluid. His right hand was missing two fingers. His hair was gone. One ear had melted into a stub.
+			"Jesus Christ." Naismith muttered.
+			"He's stable, for now." a paramedic reported. "We need to get him to a burn unit immediately."
+			Naismith nodded, and walked over to the women. Lexi was clutching a baby boy to her chest, her coat pulled tight around them both. She looked up at him with red-rimmed eyes.
+			"DI Naismith." he began gently. "I know this is hard, but I need to ask you some questions."
+			She nodded, saying nothing.
+			"Can you tell me what happened here tonight?"
+			Lexi swallowed. "A man broke in. He had petrol. He tried to... he tried to burn us alive."
+			"And how did you survive?"
+			A pause. "Someone helped us."
+			"Who?"
+			Another pause. Longer this time. "I don't know."
+			Naismith crouched down to her level. "Lexi. I know you're scared. But I need you to be honest with me. Was the Werewolf here tonight?"
+			"I don't know who that is."
+			"Lexi. I know there's a code, and I know he saved you. I'm not gonna fault him for that. But I *do* need to know - off the record, if needed - if he was here."
+			She paused, before looking ahead. Naismith turned, and saw exactly what she was looking at.
+			A knife. Lying on the pavement by the door. Not a kitchen knife, not a flick knife - a blade. Serrated. Black. The kind of thing you couldn't buy in any shop.
+			He picked it up, and felt its construction. Not metal. Something... chitinous.
+			He pulled out an evidence bag, and took it.
+			He looked back at the smouldering building. Then at Baines, being loaded onto a stretcher. Then at Lexi, still clutching Georgi tightly.
+			"Is... is that the Strangler?"
+			"Just a copycat." she whispered. "At least, according to..."
+			"Sir!" an officer called out. "We need to arrange care for the child. I'll call social services--"
+			"No."
+			The officer blinked. "Sir?"
+			"You heard me. No social services."
+			"With respect, sir, we can't have a baby out on the street--"
+			"He won't be on the street." Naismith turned to Nina. "I want you to take the girls to Drackhill Royal. Put them under protective custody."
+			"Sir, protective custody requires--"
+			"I know what it requires. I'll sign off on it personally. They're material witnesses to a murder attempt and potential targets for the real Strangler. That's justification enough."
+			Nina nodded proudly. "Sir, yes, sir."
+			Naismith pulled out his phone, stepping away from the scene as the paramedics loaded Baines into the ambulance. He dialled a number.
+			It rang twice before a tired voice answered. "Rosenbaum."
+			"Judi, it's me. You working tonight?"
+			"Henry? I take it this isn't a social call."
+			"You're about to be busy tonight. I've got a burn victim coming in - Adrian Baines. He tried to firebomb the Vixen. He's badly burned, but he's alive."
+			"Jesus. Hoist by his own petard, I take it?"
+			"Something like that. He's not the Strangler we've been after though - just a copycat."
+			"Shit. Hopefully... 'someone' out there can stop him."
+			"Speaking of... I need you to pass on a message."
+			"Henry, I--"
+			"You're not in trouble. Neither is he, not really. I... I wanna thank him. For not killing Baines."
+			Another pause, longer this time. "I... I didn't think I'd hear that from you."
+			"He... he was right, Judi. What he said, when he rescued the organ farms... he was right. There's the law... and then there's what's right. He saved lives tonight.And he left Baines to face justice. That's more than I expected. And plus, I want him to know that the people are safe. We're taking them under our protection, so he can focus on catching the Strangler."
+			"I'll pass it on." Judi said quietly.
+			"Thanks. And Judi?"
+			"Yes?"
+			"Be careful. The real Strangler is still out there. He knows we're looking for him now. I'll have security on the patients, but keep your eyes open."
+			"Will do. Henry... be careful too."
+			"Where's the fun in that?" he grinned, cutting off the call. He pocketed his phone, and turned back to the scene. He watched as the ambulance pulled away, lights flashing.
+
+			The Horse was quiet - closing time had long since passed. Tommy was in his office, going over paperwork, when the door swung open.
+			"Connor." he nodded, pouring two glasses. "You look like shit."
+			"Feel worse." Connor slumped into the chair, taking the whiskey. He drank it in one.
+			"I heard about the Vixen... you okay?"
+			"I will be."
+			"Was it the Strangler?"
+			"No. Copycat. Wanted to make a name for himself."
+			"Did you kill him?"
+			"No." Connor sighed. "I wanted to. I *really* wanted to. But... I thought I'd leave it to Lexi."
+			"She was always a softie." Tommy smiled. "How is she? And the others?"
+			"Safe. Naismith's putting them in protective custody at the hospital."
+			"Good." Tommy nodded. "What do you need from me?"
+			Connor looked up. "The Vixen's gone, but that doesn't mean they don't still need money. Landlords are shit to them on a good day."
+			"I'll hire them for here tomorrow. Fuck it, we'll do a dance night. Tell this Strangler cunt we ain't afraid of him, or his ilk."
+			"Thanks." Connor smiled. "I'll be back round tomorrow before patrols."
+			"Hey." Tommy cut in. "You okay?"
+			Connor paused at the door, not turning.
+			"No." he said quietly. "But I will be."
+			Tommy sat there for a long moment, staring at the empty glass. Then he picked up his phone and dialled.
+			"Pawel? We're gonna have guests. Make sure the rooms upstairs are ready."
+			He hung up, and poured himself another drink.
+
+		Vixen Aftermath
 		______________________________
 		SCENE
 			"Go ahead, Naismith. In your own words." Dorsey began. His voice was shaky with rage.
@@ -13525,23 +13697,35 @@ VOLUME - Wolves Among Sheep
 			"I--That is completely--I mean, if a case was reassigned, that would've been done according to proper conduct regulations. But I am not here to comment on decades-old cases that may or may not exist."
 			"I never said it was a decade old, sir." Zack smirked.
 			Dorsey froze. "No, I--" he stammered.
-			"Doesn't the intervention of the Werewolf last night prove that the police force under your leadership is woefully incapable of dealing with this threat?" Zack pressed on. "Why have you not provided the investigating team with the proper resources?"
+			"Doesn't the intervention of the Werewolf last night - in both the car crash, *and* the Vixen fire, prove that the police force under your leadership is woefully incapable of dealing with this threat?" Zack pressed on. "Why have you not provided the investigating team with the proper resources?"
 			"Enough. Get him out." Norris snapped, motioning to an officer.
 			"Stable door, horse bolted." Zack hissed, walking out.
 
 			Night fell.
-			Naismith and Nina hurried to their car, haphazardly throwing on their kevlar vests.
-			"Alright, so..." Naismith began, starting the engine. "Mikhaela's testimony lines up with the description we were given. Even better, forensics got a positive ID on the suspect. Fingerprints and DNA from the blood got a match, and the reg check confirmed the name."
-			"Who?"
-			Naismith handed her a file - a police personnel file.
-			"Chief Superintendent Geoff Chapman, Vice." Naismith spat. "Positive match for his elimination samples. It all fits. His knowledge of forensics is why he amputated the fingers. He has a bit of a thing for arresting sex workers - which fits the victim pattern."
-			"Dear god..." Nina shuddered. "A cop?"
-			"Yeah. And there's a good chance he knows we're coming. So let's move quick. He's not turned up to work for a few days now - no prizes for guessing why. We get to his house, and we arrest the bastard."
-			"Sounds good." Connor nodded, leaning in from the back seats.
+			Naismith and Nina sat in their car, both sighing.
+			"Alright, so..." Naismith began, starting the engine. "Mikhaela's testimony lines up with the description we were given. Even better, we got fingerprints and DNA from the car."
+			"Anything on the reg check?"
+			"No, nothing. The car was stolen." Naismith sighed. "We confirmed Baines wasn't the one who took Mikhaela, though. The prints weren't a match."
+			"Damn. Did we get any hits?"
+			"No. I've sent it off to the NCA, but those searches can take time. And, well... they're still not happy that we're the ones who caught Pig Head."
+			"Oi. *I'm* the one who caught Amy Swinehouse, thank you very much." Connor cut in, leaning from the back seats.
 			"JESUS, FUCK!" Naismith roared.
 			"Fucking hell!" Nina gasped.
 			Connor grinned under his mask. "Sorry, force of habit. You know, for a detective, you could really work on your situational awareness."
-			"Fuck you. Let's just get this over with." Naismith exhaled.
+			"Fuck you." Naismith exhaled. "What do you want?"
+			"You're welcome, for Baines." Connor nodded. "Anyway... you've checked your database, you've asked the NCA... but you've not looked in the one place you're too afraid to."
+			"What? What do you mean?"
+			"The police database." Nina realised. "All officers have to provide elimination samples in case of forensic cross-contamination."
+			"Yes, but... why would it be a cop?" Naismith cocked an eyebrow.
+			"Wake up, Naismith." Connor pressed. "You yourself noted that the killer must have an understanding of forensics."
+			"The amputated fingers." Nina nodded. "Sir... let's search, just to prove him wrong, okay?"
+			Naismith hesitated, but pulled out his laptop, and ran the search. It didn't take long.
+			"Fuck..." he shuddered. "We've got a match."
+			"I knew it..." Connor scowled. "Who?"
+			"Chief Superintendent Geoff Chapman, Vice." Naismith spat. "Positive match for his elimination samples. It all fits. He worked on Murder Squad for a little while - explains his knowledge of forensics. He has a bit of a thing for arresting sex workers - which fits the victim pattern."
+			"Dear god..." Nina shuddered. "A cop?"
+			"Yeah. And there's a good chance he knows we're coming. So let's move quick. He's not turned up to work for a few days now - no prizes for guessing why. We get to his house, and we arrest the bastard."
+			"Sounds good." 
 			"Sir?" Nina tilted her head.
 			"It's fine. We could use the backup."
 
@@ -13601,6 +13785,9 @@ VOLUME - Wolves Among Sheep
 			"Yeah, yeah." Sparky grinned. "You just wanna practice gliding, don't you?"
 			"I did alright last night!" he protested. "But... yeah, that too."
 
+			The Horse was packed. The dance night had been Tommy's idea - part solidarity, part defiance. The Vixen girls had been given free rein over the stage, and the regulars had turned out in force.
+			Lexi was working the floor, taking orders and bantering with customers like she'd worked there for years. Kat was behind the bar, pouring drinks with practiced efficiency, her swollen jaw not slowing her down. Sage was helping Dave man the door, her bandaged head drawing the occasional concerned glance. Meanwhile, Mikhaela had taken to admin work in Tommy's office, a cot beside her for Georgi to sleep in.
+			Despite their work tonight no longer being that of an old profession, they had opted for their usual work attire. Not that Tommy complained - business was booming like never before.
 			Trey walked back to the booth, carrying the drinks for everyone. He had brought a jug full of cocktail, and stacked glasses.
 			"Enjoy, ladies." he grinned, passing them out.
 			They smiled, and took them, as he sat down.
@@ -13613,6 +13800,14 @@ VOLUME - Wolves Among Sheep
 			"You could do an apprenticeship?" she suggested. "Like my job at Vitalis."
 			"That's a good idea!" Bea nodded.
 			Amy leaned back. "I'll think about it."
+			Trey sipped his drink, and gestured around the room. "Gotta say, Tommy knows how to throw a party. Dance night at the Horse - who'd've thought?"
+			"Better than the usual crowd." Amy grinned. "Half these blokes look like they've never seen a stripper before."
+			"Half these blokes *are* strippers." Trey snarked back. "You seen the state of Dave? He's practically bursting out of that shirt."
+			"Don't." Bea warned, holding back a laugh. "He's manning the door. He can probably hear you."
+			"Let him." Trey shrugged. "Man's a wall. A handsome wall."
+			Amy snorted. "Well, I'm enjoying the view."
+			"Perv." Trey snarked. "Double standard, really. If I started staring at Sage's tits, I'd get a slap."
+			"Hm? Sorry, I didn't hear you - I was too busy staring at Sage's tits." Amy grinned.
 			At that, Connor arrived at the table.
 			"Yo!" Trey cheered, hugging him. "Look who decided to come out after all."
 			"Hey, guys!" Connor smiled warmly. "Sorry... been so busy with work. I've just gotta check in with my boss..."
@@ -13627,6 +13822,45 @@ VOLUME - Wolves Among Sheep
 			"Slan-what?" Bea cocked an eyebrow.
 			"'To your health,' more or less."
 			"Za zdorovye." Chloe smiled, raising her own. Connor chuckled, clinking his glass against hers.
+			Before he could take a sip, a voice cut through the noise.
+			"Connor!"
+			He turned, and Lexi was there. She threw her arms around him, squeezing tight.
+			"You came." she smiled, pulling back.
+			"Wouldn't miss it." he shrugged. "How's Mikhaela? And the little man?"
+			"They're okay, thank god." she chuckled. "Jesus... what a night."
+			"Is it true the Werewolf was there?" Trey asked.
+			"Oh shit, Trey! Amy! Long time no see!" she beamed.
+			"Hey, Lex." Amy grinned, rising to hug her. "You look good."
+			"I always look good." Lexi winked. "And yeah, he was. Saved our lives."
+			She turned to the others. "I'm Lexi, by the way."
+			"I'm Chloe." she smiled shyly.
+			"Bea." she nodded, blushing a little at the 'view.'
+			"Right, I'd better get back to it. Kat's got her hands full, and I'm taking orders."
+			"Good to see you, Lex." Trey smiled.
+			"You too, babe." she winked, heading back into the crowd.
+			Chloe watched her go, then turned to Connor. "So... how do you guys know her?"
+			"Oh, um..." Connor shrugged. "We've known each other a while."
+			"She seems nice." Bea nodded. "Let me guess - you got a lap dance for your 18th?"
+			"Bea!" Chloe chuckled.
+			"What? It's a valid question!" Bea grinned. "I'm not judging her - I'm judging *him.*"
+			Connor laughed, holding his hands up. "Only one of us got a lap dance for our 18th."
+			"Trey, you dirty dog." Bea chuckled.
+			"Actually, um..." Amy grinned, sipping her drink.
+			"...that tracks." Bea chuckled. "Anyway, how do you guys know her?"
+			"She's a friend." Connor nodded. "I helped her out, a while back."
+			"How do you mean?" Chloe tilted her head.
+			"We, uh... We were at a house party when it happened. The host had booked strippers, and his dad, Mr. Cormack...  He, uh... he treated Lexi very... very badly."
+			A silence hung in the air for a beat. Trey cleared his throat.
+			"We found her afterwards. Got her to the hospital." he explained. "But before the coppers got off their arses, Cormack had vanished. So, Connor tracked him down, and..."
+			"I treated him badly." Connor nodded grimly. "Nowhere near what he did. Nowhere near what he deserved."
+			Chloe and Bea looked at him softly.
+			"I'm sorry." Bea began. "I didn't--"
+			"It's fine." he smiled. "Anyway... how have you guys all been?"
+			"Eh, uni's crap, as per." Bea chuckled.
+			"Yeah, I'll say." Chloe nodded. "We're doing a module on biochemistry, but... well, it's all so basic, I'm a little bored."
+			"I *wish* that was my issue, hun." Bea grinned. "This corporate law module is boring in an entirely different way."
+			"I'm so glad we dropped out of college." Trey snarked, sipping his drink.
+			"I'm not. I'd take uni shite over night-shifts any day." Connor laughed.
 			"How come you've been so busy?" asked Bea.
 			"Oh, you know..." he shrugged evasively, before sighing. "You guys've heard about the... the murders?"
 			"God, who hasn't?" Chloe nodded. "Why is that making you busy?"
@@ -13634,7 +13868,7 @@ VOLUME - Wolves Among Sheep
 			Connor shot him a death glare, and he cackled with laughter. The others let out subdued chuckles.
 			"Not that, obviously." Connor sipped his drink. "No, I've... me and Tommy are looking into it."
 			"You are?" Trey tilted his head. "How?"
-			"Asking around, mainly. We got a description of the bastard's face from Casale - we gave that to the cops." he shrugged.
+			"Asking around, mainly. We got a description of the bastard's face from Casale - we gave that to the cops." he shrugged. "I actually checked, made sure it wasn't Cormack, just in case."
 			"Oh, shit." Amy shook her head, before giving him a knowing glance.
 			"Wow. That's amazing." Chloe nodded proudly. "We need more people like you."
 			"Yeah, I'll say." Bea chimed in. "Did you hear the Werewolf was out last night?"
@@ -13653,10 +13887,14 @@ VOLUME - Wolves Among Sheep
 			The group scurried back, as the driver side door kicked open. Chapman stepped out. He drew his pistol, and fired into the ceiling.
 			"EVERYBODY LISTEN UP!" he roared. "DO AS I SAY, OR I'LL SHOOT YOU!"
 			Screams filled the air, but people raised their hands in panic. He herded them into the space just ahead from the door.
+			Dave stepped forward from his post, hands raised, positioning himself between Chapman and the crowd.
+			"Easy, mate." he said calmly. "No one's gotta get hurt."
+			"SHUT UP!" Chapman barked, jamming the gun in his face.
 			"Now, everyone down on your knees. No sudden movements."
 			"Everyone, just do as he says." Tommy said, sinking down. "Let's not be stupid here."
 			"Clever man. Let's not be stupid!" he barked.
 			People complied. Connor tapped his ear thrice, feeling his hidden earpiece buzz each time.
+			Lexi had ducked behind the bar. Kat was beside her, eyes wide. Sage was frozen near the door, next to Dave, who still hadn't moved. Beneath, Mikhaela trembled, as Georgi awoke. She crept up the stairs carefully, and joined her sisters-in-trade.
 			"You!" Chapman barked, pointing at Bea. "Get everyone's phones. Now."
 			"Okay, okay..." she nodded, holding her composure. She stood, and collected the phones. She got to Connor.
 			"I, uh... I need--"
@@ -13670,6 +13908,7 @@ VOLUME - Wolves Among Sheep
 			"Oh god, oh god..." Chloe gasped, pale as a ghost.
 			"We'll be okay." Amy whispered, hugging her.
 			Trey grabbed Bea's hand, and squeezed. She looked at him, and smiled softly.
+			Behind the bar, Lexi was trembling. Georgi had started to cry, and Mikhaela was desperately trying to soothe him without drawing attention. Kat caught her eye from across the room, and gave her a small, steady nod.
 			Connor ran his hands through his hair. His heartbeats quickened.
 			"Fuck..." he whispered.
 
@@ -13690,23 +13929,36 @@ VOLUME - Wolves Among Sheep
 			Chapman laughed. "Good idea."
 
 			Another five minutes went by, tensely. Armed police arrived, and Chapman barked his threats through his megaphone.
-			"Oh, I can't wait 'til he gets here..." he giggled maniacally.
-			"Please, let us go." Chloe pleaded. "The Werewolf will be here any minute."
-			Chapman turned, scowling. "Do not speak. DO NOT SPEAK!"
-			"Chloe..." Connor whispered. "He's unhinged. Just keep your head down."
-			"We've got to try something!" she protested.
-			Chapman stomped over, and looked at her.
-			"Oh... look at that scar." he whispered. "You're a bad girl, aren't you?"
-			Chloe's face contorted with rage, as did Bea's.
-			"Don't fucking talk to her like that!" she barked.
+			He paced back and forth, scanning the crowd. His eyes landed on Lexi, still crouched behind the bar. Then Kat, frozen beside her. Then Sage, near the door, her bandaged head visible even in the dim light.
+			His face contorted.
+			"You..." he whispered. Then louder. "YOU!"
+			He stormed over to the bar, grabbing Lexi by the hair and hauling her to her feet. She cried out, clutching at his wrist.
+			"You think you can hide from me? You think dressing up and playing *house* makes you decent?" he spat. "You're filth. All of you. Degenerates. This whole place is a *cesspit* of degeneracy!"
+			"Let her go!" Kat shouted, rising. Chapman backhanded her, sending her sprawling.
+			"Don't you DARE speak to me!" he screamed. "You think you're *people?* You're not. You're *bad girls,* and bad girls need to be *punished!*"
+			He threw Lexi to the ground, and turned to the crowd.
+			"This is what happens when you tolerate filth! When you let them walk your streets, serve your drinks, *pretend* to be human!"
+			He was frothing now, spittle flying. Georgi cried in fear.
+			"A child. A half-human child! Made by a WHORE!"
+			"Please, don't--don't hurt us." Mikhaela begged.
+			"You got lucky before, didn't you? DIDN'T YOU?!" Chapman screamed, striking her.
+			He headed back into the crowd, and looked at them, one-by-one.
+			"Oh... you're a bad girl, aren't you?" he growled, his eyes landing on Amy.
+			She scowled back at him. "Go fuck yourself."
+			"WHAT?!"
+			He cocked his pistol, and aimed it at her head.
+			"L-leave her alone!" Chloe barked.
+			"Oh?" he grinned, pointing the gun at her face, now. He pressed it into her scar, and she quivered defiantly.
+			"Where'd you get that scar? Let me guess... you were being bad, weren't you?"
+			"Don't fucking talk to her like that!" Bea snapped.
 			"EXCUSE ME?!" he screamed, aiming his gun in her face.
 			"Bea!" Chloe gasped, jumping in the way.
 			"LET THEM GO!" Connor roared, shoving him.
 			"Connor! No!" Trey barked, horrified.
-			Chapman raised his gun, and then...
-			WHOOSH!
+			Chapman raised his gun, took aim at Connor, and then...
+			*WHOOSH!*
 			A black blur zipped behind them. He turned, his eyes moving frantically.
-			WHOOSH!
+			*WHOOSH!*
 			Another blur, this time in plain view.
 			"Oh... Ohhhh... He's here!" Chapman sang.
 			With that, the lights cut out. People gasped and scrambled, as he turned his flashlight on.
@@ -13792,26 +14044,42 @@ VOLUME - Wolves Among Sheep
 			The image flooded his mind - grabbing it and shooting this bastard.
 			No. No more guns. He didn't have many rules left, but he had to stick to the ones that remained.
 			Then, a wicked grin cracked under his mask. He turned, and gripped Chapman's crossed palms, before crushing them.
-			His screams filled the air. Then, he went silent as Connor closed his mouth forcefully.
-			"You took with these hands, and I take them in turn." Connor snarled viciously. "You'll never, ever take a life with these again. You're right about one thing - I do enjoy it. I enjoy cleaning up *filth* like you."
+			His screams filled the air, before a claw-blade skewered through the palms. Connor twisted the blade, severing muscle and splintering broken bone.
+			Chapman cried even more. Then, he went silent as Connor closed his mouth forcefully.
+			"You took with these hands, and I take them in turn." Connor snarled viciously. "You'll never, ever take a life with these again. They'll never heal. Not right, at least. Every time you try to grip, you'll feel a shooting pain, and you'll remember *ME.* You're right about one thing - I do enjoy it. I enjoy cleaning up *filth* like you."
 			"Alright, enough." Naismith said half-heartedly, dragging the sobbing monster away.
 
 			Connor looked back at the people in the shadows, his eyes cutting through the dark. The humans struggled to find their bearings.
-			He sighed, and melded into the darkness. He morphed back into clothes, and crept over with catlike tread, just as Sparky set the lights back on.
+			Before he could move, Kat stepped forward. She was holding her jaw, but her eyes were steady.
+			"Thank you." she said quietly. "For stopping him."
+			Lexi nodded beside her, Sage still clinging to her arm.
+			"You saved us again." Lexi added. "First the fire, now this. I don't know who you are under that mask, but... thank you."
+			Connor didn't say anything. He just nodded, once.
+			Then he sighed, and melded into the darkness. He morphed back into clothes, and crept over with catlike tread, just as Sparky set the lights back on.
 			"Oh, thank god... it's over." Bea sighed, starting a group hug.
 			Connor hesitated, but joined in. When it broke, he embraced his sister. She returned it.
-			"I'm sorry... I'm sorry I didn't stop him..." he said, tearing up.
+			"I'm sorry..." he said, tearing up.
 			"It's okay... It's not like I wanted you to get shot." she chuckled, giving him a knowing nod.
-			"Still..." he sighed. "I'm your big brother, it's my job to do shit like that."
+			"Still..." he sighed. "I'm your big brother, it's my job to protect you."
 			"You're 6 months older." she grinned.
 			"Still counts."
-			Tommy rose. "Alright everyone - go home. Go to your families."
+			Across the room, Kat was helping Lexi to her feet. Her lip was split, and her hands were shaking, but she was standing. Sage had made her way over, and was hugging them both.
+			"Everyone okay?" Tommy called out, moving through the crowd.
+			"I think so." Kat nodded, wincing as she touched her jaw. "Just bruises."
+			"Speak for yourself." Lexi muttered, rubbing her scalp. "That bastard..."
+			Mikhaela appeared at the top of the stairs, Georgi clutched to her chest. She looked pale, but relieved.
+			"Is it over?" she asked quietly.
+			"It's over." Tommy nodded. "You're safe."
+			She nodded, and disappeared back into the office to settle Georgi.
+			Tommy rose, addressing the room. "Alright everyone - go home. Go to your families."
 			He looked over at Connor, and smiled.
 			"And count your lucky stars this city has a hero."
-			The gang began to walk away.
+			The gang began to walk away. Lexi caught Connor's eye as she passed, and nodded.
+			Connor bowed his head back, saying nothing.
+			Lexi smiled, and headed out with Kat and Sage. Mikhaela joined them, Georgi in tow.
 			"Come on, let's go home. I wanna see Sparky." Amy grinned. "You guys go on - we'll meet up soon."
 			Bea wrapped her in another hug, followed shortly by the others. She sighed happily, returning it.
-			"Yeah, let's go to the car. We'll see Sparky." Connor said deliberately, pressing his ear.
+			"Yeah, let's go home. We'll see Sparky." Connor said deliberately, pressing his ear.
 			"Oh, right!" Sparky barked over the commline, sneaking past them.
 			"Something in your ear?" Trey asked.
 			"Just the gunshots. It's... ringing." Connor quickly covered. He turned back, and looked at the Horse.
@@ -16075,7 +16343,10 @@ VOLUME - Wolves Among Sheep
 			"Where'd you find the money for that?"
 			"It was cheap; abandoned motels aren't exactly super-expensive." Connor grinned. "I bought it the same time I bought this place. Killing Hattab made me a lot of money; it needed spending anyway."
 			"Damn. Nice one." Trey smiled. "Honestly, not to slate your investments or anything, but we could really use the money."
-			"That's why I've budgeted for our work on the motel to come out of its fund." Connor nodded. "I'm downscaling Riverside Repairs a little, though - we're gonna "
+			"That's why I've budgeted for our work on the motel to come out of its fund." Connor nodded. "I'm downscaling Riverside Repairs a little, though - we're gonna focus on our existing contracts. If we're in the red, I can keep us afloat with blood money. Enjoy a pay rise."
+			"That works." Trey chuckled. "Being a hitman must be cool, I guess."
+			"I prefer 'assassin,' thank you very much." Connor snarked.
+
 			"Morning guys!" Bea cheered as she walked into the garage. She and Chloe were holding large paper bags, which they set down on a cluttered workbench.
 
 		Conscription/Smells like Psycho

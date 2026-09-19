@@ -314,7 +314,7 @@ VOLUME - Wolves Among Sheep
 			"Leave us alone, come on." Bea said firmly. Her voice was clearly from the upper classes - the intonations of a private-school girl.
 			Amy approached, and turned to the girls. "Oh my god, I haven't seen you guys in ages! How have you been?"
 			Amy's voice was rough - a sharp contrast to Bea. She spoke less like a refined lady, and more like someone to whom "I'll kick your fuckin' head in." would be a personal catchphrase.
-			Chloe nearly spoke up in confusion, but Bea got the hint. She stood up. "Holy shit! How have you been?!" she cheered, hugging Amy.
+			Chloe nearly spoke up in confusion, but Bea got the hint, standing up. "Holy crap! How have you been?!" she cheered, hugging Amy.
 			She whispered "Creep." in Amy's ear.
 			Immediately, Amy turned to the man.
 			"Got a problem?" she asked, arms folded.
@@ -331,7 +331,7 @@ VOLUME - Wolves Among Sheep
 
 			Outside the pub, the rain was starting, gently flowing into the gutter next to the three girls.
 			"I am so, so, so sorry." Amy opened, only for Bea to hug her.
-			"If it weren't for you, god knows what that creeper would have done! Also, that was some ninja shit! Please teach me!" she giggled.
+			"If it weren't for you, god knows what that creeper would have done! Also, that was awesome! Please teach me!" she giggled.
 			Chloe smiled warmly. "You saved us. I'm sorry, what's your name? I'm Chloe, and my drunk friend is Bea. We've just moved down for university."
 			She spoke with a slight lisp, but her voice carried a certain warmth to it. Her not speaking until now only highlighted her shyness.
 			"I'm Amy." she nodded. "Amy Zhao."
@@ -5972,7 +5972,7 @@ VOLUME - Wolves Among Sheep
 			"Okay! Her house, her rules." Sparky grinned. Connor chuckled, and relented.
 			"So... tell me if I'm being presumptuous, but I'm guessing, with a name like Eileen and a Catholic service, your family were Irish?"
 			"Oh, you bet." she smiled. "My parents were from Limerick. Moved to London in the late 1920s. My dad was a Protestant, but he never gave a shit about religion, so my mum brought me up Catholic."
-			Connor nodded. "I grew up in Derry."
+			Connor nodded. "I grew up in Derry. Bogside."
 			She looked at him sadly. "I'm guessing, based on how old you are..."
 			"Yeah." he sighed. "It's fine. I survived, anyway."
 			He cleared his throat. "So... your parents moved here in the 20s, so that makes you... what, 40?"
@@ -7072,6 +7072,8 @@ VOLUME - Wolves Among Sheep
 			"Oh yeah? Just like that time I left my sandwich on the side, and it magically leapt up and crawled right into your mouth?"
 			"No, that was a completely different incident." Sparky grinned.
 			Connor tilted his head, silently giggling.
+			"Come on, Connor. Given all the crazy things that have happened just this week alone, is it really *that* hard to believe my teddies came to life and tried to kill me?"
+			"It--no, actually, that's a fair point." Connor chuckled, before folding his arms.
 			"...would you believe that it was already like that before you left?"
 			Connor couldn't hold it anymore. He erupted into howling laughter, as did his packmate.
 
@@ -12157,7 +12159,7 @@ VOLUME - Wolves Among Sheep
 			"How are you involved in this?" Naismith asked.
 			"You lot weren't investigating, so Ella came to us." Connor folded his arms. "Which, I should note, isn't a crime - and if you try to arrest her, I'll--"
 			"Wasn't gonna." Naismith nodded. "But... Ella, you reached out to the Werewolf?"
-			Ella swallowed, and wiped her eyes. "Nothing was being done. I showed the police the documents I'd found. I asked if they'd checked the local CCTV. Everything! And I kept getting the same-old "We are working tirelessly to resolve your case." bullshit! I'm sorry, but what else was I supposed to do?"
+			Ella swallowed, and wiped her eyes. "Nothing was being done. I showed the police the documents I'd found. I asked if they'd checked the local CCTV. Everything! And I kept getting the same-old 'We are working tirelessly to resolve your case' bullshit! I'm sorry, but what else was I supposed to do?"
 			"Wait, hold on..." Naismith rubbed his eyes. "Are you saying that the police knew about Zack's connection to these freaks, and did nothing?"
 			"I told them everything. Sent over all of Zack's weird files on them. There was one detective who listened, but she just disappeared halfway through the case. Some new bloke took over and didn't seem to know anything." she explained.
 			"The first officer - was she a DC Moffatt?"
@@ -12954,7 +12956,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - The Belson Strangler
+	EPISODE - The Belson Strangler, Part 1
 		______________________________
 		SCENE
 			Her eyes were still open. That was the worst part.
@@ -13250,9 +13252,11 @@ VOLUME - Wolves Among Sheep
 			"Yeah, a good one. Ginger, clean shaven - small scar on his chin. Older side - mid-to-late fifties. She weren't sure on his eye colour, but she reckons it weren't blue."
 			"Anything else?"
 			"She don't speak enough English to identify a region, but he had a strong accent. Definitely not local." Casale shrugged. "And he had big ears, apparently."
-			Connor nodded. "Alright, that helps. Tell all your girls to stay inside. No outcalls, no street work."
+			Connor nodded. "Alright, that helps. How is your involvement in... the 'industry' organised?"
+			"We've got a few 'Miss Kittys' under our protection." Casale nodded. "I don't work with pimps or slaves, so things are a little more organised on our turf."
+			"Good. Tell all your girls to stay inside. No outcalls, no street work. Tighten security on any brothels you manage."
 			"Already done." Casale smiled. "I'm not a total cunt, you know."
-			"I know. That's why your organs are still internal." Connor grinned. "The Hoods don't have much stock in the sex industry, but what did exist happened through brothels only - so we've not been hit. But the Skulls don't give a fuck."
+			"I know. That's why your organs are still internal." Connor grinned. "The Hoods don't have much stock in the sex industry - our only involvement is protecting the Vixen, so we've not been hit. But the Skulls don't give a fuck."
 			"It's probably one of them." Casale scowled. "Though, I don't suppose they'll be as forthcoming as me..."
 			Connor chuckled. "You're a decent stool pigeon, Casale."
 			"And you're fucking terrifying." Casale snarked back. "Arrivederci, Lupo. Buona caccia."
@@ -13260,8 +13264,131 @@ VOLUME - Wolves Among Sheep
 		Body Found/The Stool Pigeon
 		______________________________
 		SCENE
+			The rains were coming down heavier, as Connor approached his next spot. He was in his civilian clothes, now, and pulled he red hood tighter. Ahead, he could hear the faint thumping of music, and saw the neon pink glow.
+			The Vixen.
+			Officially, a strip club. Unofficially, they offered a 'deluxe private dance' option.
+			A brothel? How dare you! No, officer - this is merely an exotic massage.
+			The bouncer at the door was a broad-framed man - short, though. Connor had seen him a couple of times; mainly when Pawel wasn't working. Yet, try as he might, he couldn't remember the man's name.
+			"Hey, Connor!" he called out.
+			"Hey!" he waved awkwardly.
+			"Haven't seen you coming *here* before." the man cocked an eyebrow. "You looking for company?"
+			"I'm here on work." Connor shrugged. "I need to see Madame Lacey."
+			"Ah... the strangler business." the man shuddered. "Go on in."
+			"Thanks." Connor nodded, heading inside.
+			There, a number of dancers, scantily clad at most, were performing on their poles. Connor took a breath, and tried to ignore the smell of sweat.
+			He approached one - a girl wearing a domino mask, adorned with fine silver chains, and nothing else.
+			"Hey there, cutie." she began, smiling.
+			"Hey, Lexi." Connor grinned.
+			"Oh my god! Connor?!" she gasped. "How have you been?! Jesus, you look different!"
+			He chuckled. "Yeah, been growing out my stubble lately."
+			"You look like Vince." she beamed. "That is, if he was twenty years younger."
+			Connor smiled slightly, ignoring the pain.
+			"Can I give you a hug?" she asked, holding her arms out.
+			"Yeah, sure." he chuckled, taking it. She wrapped her arms around him, while he awkwardly held his hand a micrometer away from her skin.
+			They pulled back, and he smiled, before glancing over his shoulder. "I need to speak to Kat. Is that something you can--"
+			"Yeah, of course! Follow me." she nodded, walking onwards.
+			"Enjoying the view?" she asked, swaying her hips as she moved.
+			Connor made a point of averting his eyes, as she giggled.
+			Lexi knocked on the door thrice.
+			"Madame? I've got someone here who wants to see you. Privately."
+			"I'm not taking bookings tonight, Lex." the woman called back. Her voice was slightly older.
+			"Trust me, you'll wanna see this one." Lexi grinned.
+			The woman sighed loud enough for non-superhumans to hear, and walked over to the door. She opened it, and her heart skipped a beat.
+			"Hey, Kat." Connor waved.
+			"Oh my sweet Christ..." she gasped, looking him up and down. "Connor! Can I--"
+			"Yeah, you can." he chuckled, as she hugged him. Unlike Lexi, she was wearing something approximating lingerie, so he was able to gently tap her with his fingertips.
+			They released, and headed into the office.
+
+			"So, to what do we owe the pleasure?" the Madame asked, pouring a trio of whiskeys.
+			"Well... I'm here about the Strangler business." he began.
+			"Oh, Jesus..." Lexi shuddered. "I heard about Lydia the other night. I just... I can't believe..."
+			"We've not had anything to worry about here." Kat smiled softly. "We've had a few rowdy customers, but nothing out of the ordinary."
+			"And I'm guessing all the streetwork has been stopped?" Connor asked.
+			"Yes. I've told all my girls - you don't dare work anywhere other than here." Kat nodded firmly.
+			"Well... there have been a few girls who... didn't heed the warnings." Lexi said awkwardly. "I've told them they need to come back, but..."
+			"It's not safe out there. Not at all." Connor shook his head. "Just an hour ago, a young man was killed. Same MO."
+			Kat's brow furrowed. "Oh god, who?"
+			"Caleb Price. Did you know him?"
+			"Caleb?" Lexi gasped. "Oh Jesus... not him, too."
+			"I'm sorry, Lexi." Connor said softly. "Listen, I--I'm working with a 'friend' of Tommy's, to track down this scumbag."
+			"You don't think it's..." Kat shuddered.
+			"...fuck, it might be." Connor went pale. "I didn't even think of that. It would explain why there were no semen deposits found at the crime scenes."
+			"How do you know that?" Kat tilted her head.
+			"I have my sources." he shrugged.
+			"Surely not, right? If it was, he'd be targeting us, wouldn't he?" Lexi cocked an eyebrow.
+			"I'll have a look." Connor nodded. "For now, if you guys *do* spot anything, give me a call right away."
+			"Of course." Kat nodded.
+			Connor rose, but then his ears pricked up.
+			Something upstairs.
+
+			"Whoa, that's a little rough, don't you think?" the girl said, gently pulling the man's hands away from her neck.
+			"Come on... you're telling me you don't like it rough?" he grinned, pushing them back down. He was a man approaching middle age, with blonde hair that was starting to fade. His eyes were a thick hazel.
+			"Hey. Don't." she said firmly.
+			"I paid for you for the hour... I'm getting my money's worth." the man growled.
+			She went to scream for help, but he covered her mouth and pinched her nose.
+			"Shut up. Shut up!"
+			At that, the door burst open.
+			"RRRRAAAAAGH!" Connor screamed, grabbing the man and slamming him into the wall. A stomp to the knee was followed by a sickening crunch, and the man howled in agony.
+			Connor shot his hand into his pocket, and morphed a knife. He pulled it out, and put it to the man's throat.
+			"You. Are you the Strangler?!"
+			"Let me go! Let me--"
+			Connor slammed his fist into the man's chest. A rib audibly cracked.
+			"TALK! Or I'll break every bone in your body!"
+			"ALRIGHT, ALRIGHT!" the man cried. "Listen, I got carried away, okay?! I didn't mean to--"
+			*CRUNCH!* went his wrist.
+			"ARE YOU OR AREN'T YOU?!"
+			"I'M NOT! I'M NOT!"
+			Connor took a breath.
+			Truth. This was truth.
+			Damn it.
+			Connor dragged him down the stairs into the main hall, and held him by the back of the head.
+			"LISTEN UP!" he barked. "*THIS* IS WHAT HAPPENS WHEN YOU START TROUBLE IN HERE! *THIS* IS WHAT WE DO TO SICK FUCKS IN REDBRIDGE!"
+			The patrons looked up in terror, while Lexi and Kat were wide-eyed in awe.
+			Connor spun the man around, and then sent a haymaker into his jaw. It crunched, and teeth rained down from his mouth.
+			The man whimpered and spluttered, as Connor threw him to the ground. The bouncer caught him.
+			"Call an ambulance. This man... he fell down the stairs. Didn't you?"
+			The man looked up, eyes twitching.
+			"DIDN'T YOU?!"
+			He frantically nodded. The bouncer carried him outside, and threw him to the curb, before reluctantly pulling out his phone.
+			Connor took a breath, before he felt a hand tap his shoulder. He spun around quickly, before relaxing at the sight.
+			"Hey." he nodded.
+			"Hey." the woman smiled softly. "Thanks for that. God knows what that creep would've done."
+			"Was that... the killer?" Kat asked.
+			"No. He didn't match the description we were given." Connor shrugged. "I'll go and check our... 'other avenue,' and get back to you."
+			"Thanks, Connor." Lexi smiled warmly. "For this, and... everything else."
+			"No problem." he nodded. "Let me know if anything like this happens again."
+			They waved him goodbye, as he walked through the rain.
+
+			Midnight had passed, now. But Connor wasn't quite done. Not yet.
+			Ahead, a run-down house stood. Inside, an older man woke to a noise downstairs. He rose out of bed, and walked with a pronounced limp. His hair was a faded ginger-grey.
+			"Who's there?" he barked. He spoke with a refined Belfast accent.
+			He grabbed something from under his bed - a sawn-off shotgun - and headed downstairs.
+			"Come out! Come out!"
+			"Hey, Cormack." Connor snarled.
+			The man turned, but not fast enough. Connor grabbed the gun, and smashed its stock into Cormack's face.
+			"Agh! No, please! Don't hurt me! I--I haven't done anything!"
+			"You did plenty before." Connor growled, pushing him to the floor. He planted his foot just above Cormack's knee.
+			"No! Not again, please!"
+			Connor sighed. "Do you remember what e said to you at the time? You might not... after all, you were a little, uh... 'preoccupied' with your new status as a eunuch."
+			"Listen, I--I'm sorry for what I did, okay? I'm a changed man now!"
+			"MEN LIKE YOU DON'T CHANGE!" Connor roared, stomping his boot into Cormack's groin. He whimpered, but not the way most men who just had their genitals crushed would.
+			After all, Connor had made sure there was nothing to crush.
+			"It's been a year, now. You've healed well. And yet... I wonder if you learned your lesson. See, we took your knees, and your balls... but I didn't take your hands. What have you used those hands for, Cormack?"
+			"Nothing! Wait, you... you think *I'm* this Strangler cunt? I've got nothing to do with that, I swear!"
+			"TELL THE TRUTH!"
+			"I AM! I SWEAR, I AM!"
+			Connor planted his boot above Cormack's neck. He held it there for a moment, before relenting.
+			"If you're involved in this, in any way... I will find out. And if you tell me now, I won't kill you."
+			"I'm not. I swear, I'm not."
+			"If I find out you're lying to me... I won't kill you. I'LL MAKE YOU *WISH* I DID! *DO YOU UNDERSTAND ME?!*"
+			"Yes! Oh god, yes!"
+			Connor sent a kick to the temple, knocking the man out. He rolled his shoulders, and headed outside.
 
 		Checking the Vixen
+
+
+	______________________________
+	EPISODE - The Belson Strangler, Part 2
 		______________________________
 		SCENE
 			Morning had come and gone. The sun eagerly prepared to hide behind the sea, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
@@ -13320,13 +13447,13 @@ VOLUME - Wolves Among Sheep
 			"Which means he's still out there tonight." Naismith noted grimly.
 			"Fuck..." Connor sighed.
 
-			"Mikhaela, please..." a voice pleaded over the phone. "Don't put yourself in danger like this."
+			"Mikhaela, please..." Lexi pleaded over the phone. "Don't put yourself in danger like this."
 			"I don't have a choice." Mikhaela sighed. She stood by the road, wearing a fake fur coat and long boots. "I need the money."
 			"And what about little Georgi? How will he cope if his mother - god forbid--"
-			"How will he cope if I can't put food on the table?" Mikhaela snapped back. "I'm sorry, Dena, but I--"
+			"How will he cope if I can't put food on the table?" Mikhaela snapped back. "I'm sorry, Lex, but I--"
 			Before she could finish, she spotted a car mount the curb. She dived out of the way, only a second too late.
 			The car slammed into her side, knocking her down. She struggled to rise, the world spinning.
-			"Mikhaela?! MIKHAELA?!" Dena roared over the phone.
+			"Mikhaela?! MIKHAELA?!" Lexi roared over the phone.
 			The killer grinned savagely as he grabbed, and threw her into the back seats.
 
 			Mikhaela's eyes slowly opened, as the ringing in her head began to quiet.
@@ -17052,7 +17179,7 @@ VOLUME - Gods Among Men
 			They quickly went taut and started reeling. He shifted so his feet went first.
 			"HOLY FUCK! IT'S *HIM!*"
 			The Werewolf's boots shattered the reinforced glass, and slammed into the gunman's chest. He launched backwards, and sank down, out cold.
-			"Shit, shit shit!" his partner gasped, firing his pistol wildly. Connor tanked the hits, his eyes aflame. Then, the gunman felt the impact of a monster's fist, and his world went dark.
+			"Shit, shit, shit!" his partner gasped, firing his pistol wildly. Connor tanked the hits, his eyes aflame. Then, the gunman felt the impact of a monster's fist, and his world went dark.
 			Alpha team heard the howls.
 			"Oh god, oh god..." the sawman panicked.
 			"Keep sawing! We've got you covered!" the leader barked. "Men, safeties off! Flashlights on!"
@@ -18920,7 +19047,7 @@ VOLUME - Gods Among Men
 			"Me too!" Chloe smiled warmly.
 			Amy chuckled, answering. "Hey, Alison! Everything okay?"
 			"Amy - I'm so sorry." she began. "Sparky managed to climb the fence. I've never seen anything like it... I've been trying to find him, but I've had no luck."
-			"Oh, shit..." Chloe shuddered.
+			"Oh, no..." Chloe shuddered.
 			Amy rubbed her temples.
 			Not yet... Not now...
 
@@ -20382,7 +20509,7 @@ VOLUME - Gods Among Men
 			"What do you mean?"
 			He took a deep breath. "I just... she deserves someone with an actual future, you know? Not some chav from the slums."
 			"Or some mutant murderer." he thought.
-			Bea smiled softly. "Connor... Do you honestly think Chloe gives a shit about any of that?"
+			Bea smiled softly. "Connor... Do you honestly think Chloe gives a crap about any of that?"
 			"No. Which is a big reason why I like her. I just..."
 			"Chloe's been through a lot. Has she mentioned..."
 			"Francis?"
@@ -22194,7 +22321,7 @@ VOLUME - Gods Among Men
 			"Nothing, nothing..." Chloe shrugged. "Just... Connor had to rush off."
 			"He bailed?"
 			"No, not quite. The, um... Those Skulls went after Raj's again." Chloe explained.
-			"Shit..." Bea gasped.
+			"Crap..." Bea gasped.
 			"I'm worried about him. He could get hurt, or..."
 			Bea sighed. "Or arrested again?"
 			"Or killed." Chloe replied, trembling.
@@ -22375,7 +22502,7 @@ VOLUME - Gods Among Men
 			"Eamon was a very pious man, a very godly man." Tadhg began. "However, he was undone by his children. His son Vince was a bit of a troublemaker, and he moved to England, which would get you marked as a traitor by many. As for his daughter Laura, she went off to America for a few months, and came back pregnant, before going to England with Vince - again, scandalous in our community. This caused a great deal of disgrace for the Barretts, only exacerbated when the bastard was placed in their care, and grew to be a bit of an oddball - the boy couldn't speak, couldn't look you in the eye, and cringed whenever you touched him. It was such an embarrassment that he wasn't allowed to attend church with them - he became a bit of a mad woman in the attic, you understand? So, it was agreed that Eamon would need to get his house in order, and thus he stepped down from the leadership council."
 			Chloe went pale. "It's Connor's grandad."
 			"Yeah..." Bea nodded. "I mean, sure, Barrett's a common name, but..."
-			"How many would have a son called Vince, and had their autistic grandson move in with them?" Chloe asked rhetorically. "Shit, we... should we be watching this?"
+			"How many would have a son called Vince, and had their autistic grandson move in with them?" Chloe asked rhetorically. "Oh god, we... should we be watching this?"
 			Tadhg carried on. "After that, he retired, along with his good wife Geraldine - God rest her soul. However, despite Eamon no longer being an active-duty member of our organisation, he was targeted by prod thugs - members of the OVA, our main opposition at the time. His car was blown up with him and Geraldine inside of it. I'm not sure what happened to the wee one after that. With Eamon's death, we understood that this meant none of us were safe, so the negotiations broke down pretty rapidly after that."
 			The narrator went on, and Chloe paused the video.
 			"We... we shouldn't have watched this." she said finally.
@@ -23008,7 +23135,7 @@ VOLUME - Gods Among Men
 			Arriving in the foyer, Bea met them, fresh off of her latest class.
 			"Ugh, that was *sooo* boring. Hey guys!" she said, visibly perking up upon seeing them.
 			"Yo, Bea!" Trey exclaimed. "How was class?"
-			"Absolute shit." Bea replied, grinning. "I could not give less of a fuck about corporate law."
+			"Absolute crap." Bea replied, grinning. "I could not give less of a shit about corporate law."
 			"Hey, it's a chance to know how those bastards operate, eh?" Connor quipped. "Viva la revolution, and whatnot."
 			At that, the group laughed.
 			"Where's Chloe?" Connor asked.
@@ -23219,7 +23346,7 @@ VOLUME - Gods Among Men
 			Amy smiled back. "Other than that, there's a soup kitchen they've set up in the mess hall. While the guys are setting up the world's shittiest dojo, maybe we can help out there?"
 			"Hell yeah!" Bea cheered. "Let's go make some soup!"
 			"You're surprisingly excited about making soup." Amy grinned.
-			Bea laughed. "Well, it's that or beat the shit out of Trey. I mean I'm tempted, but still."
+			Bea laughed. "Well, it's that or beat the crap out of Trey. I mean I'm tempted, but still."
 			The girls all laughed.
 			"Interesting how you defaulted to beating up Trey and not Connor." Amy chuckled.
 			"Well, yeah, but in fairness I've seen Connor fight off an entire gang before." Bea smirked.
@@ -24596,7 +24723,7 @@ VOLUME - Gods Among Men
 			"You bet I'll be there - Doubt it'll be as drunken as mine, but that's okay." Trey quipped, causing Chloe to chuckle.
 			"And obviously I'll be there - I haven't missed a birthday of yours since we met." Bea smiled.
 			"Am I invited too?" Shannon asked timidly.
-			"Of course." Chloe smiled, before pausing. "My mum, she... she can be a horrible cow. I... it's up to you if you wanna come, I'd--I'd hate it if she said some bigoted crap and hurt you."
+			"Of course." Chloe smiled, before pausing. "My mum, she... she can be a horrible cow. I... it's up to you if you wanna come, I'd--I'd hate it if she said some bigoted shit and hurt you."
 			Shannon shrugged. "For me, that's a Tuesday."
 			Chloe smiled warmly. "Thank you all... I'm really happy that I'll have you there."
 			She lent into her chair. Despite everything, it was nice to have some normalcy.

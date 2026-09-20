@@ -7,18 +7,10 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 
 
-next scene in heartache:
-	have the gang hanging out at the motel for the evening. connor and sparky took the night off, and bea offhandedly mentions there was a shootout in a Belson warehouse. connor keeps his reaction quiet. in this scene, trey seems really off, and reveals that his conscription letter came through. bea notes that charlie's came recently; he got away with it because uni students are exempt. they ask if connor will get one; he explains that irish are exempt too, as "making us wear the uniforms of the men who killed our people, and fire a gun under the flag that flew over our ashes... that's evil, even for the british. besides, the last thing they want is a bunch of us having military training."
-	trey says he's gonna conscientously object; but worries as that could mean jail time. connor comes up with a solution - he gives trey a controlling stake in the business, making him a joint business owner and thus exempt. trey is shocked, but connor says not to worry about it
-	end the scene with naismith interviewing the survivor. he and nina go to the car, only connor is in the back, saying they need to talk. he explains that it wasn't him who killed the skulls - naismith says he knows, and apparently the attacker called herself "She-Wolf" and left him a note; they couldn't decipher it, and wanted to see if he understood it before they send it off to forensics. In the note, she calls him "My love" and goes on about it. The lipstick reeks of coal tar - so he realises she must be in the old coal gasworks.
-
 
 change contentwarning.html so that volumes can be filtered as well (separate from tags). include a spoiler warning in the page. also, add a "NOT" option to the filters, so that readers only see episode names that *dont* have their filters. also, update the contact form with the correct episode list
 
 
-add a brief scene where connor goes to check in on a brothel under Hood protection, speaking to the madame and confirming she's ordered all her girls to avoid street work. connor says if they get any problems, call him or crane; also, have his super-hearing pick up one patron putting his hands on a girl's neck; he bursts in and covertly morphs a knife (he sticks his hand in his pocket first) before knocking the john out.
-	make sure the madame has history with connor - hint at him having helped them out before
-	the brothel is officially a strip club, called the Violet Vixen
 when naismith uploads the fingerprints and DNA deposits, have Connor be there (they're doing this on his police computer) - initially there are no matches on the criminal database, but connor presses him to search for police elimination samples, given the force's corruption. nina hesitantly concurs, saying that the killer has enough forensic knowledge for it to be a possibility. when chapman shows up as the result, naismith confirms he's still got his service weapon, and they head out
 
 consider changing the chapman attack from the Horse to the Vixen
@@ -1508,71 +1500,8 @@ rogue's gallery notes:
 	Upon breaking free from jail, he renames himself Lord Verminous, teaming up with Bug Boy. Connor quips that at least he didn't call himself Pest Controller
 
 
-	villain for just before She-Wolf - Snakebite
-		a few ideas:
-				dont have snakebite die here - instead, he's a contractor, not a paladin. MI0 (operating through MI5) take him in custody afterwards
-				connor arranges with judi so that if he ever brings in any other superhumans alive, she should dose them with nmbas
-
-
-
-	She-Wolf - a woman Connor saves who was given serum, she develops an insane obsession with him
-		touching moment in this chapter for after amy learns the truth where she walks in on connor using his supersenses and he stares at her for a bit, before saying how seeing her so completely (the flakes of her skin, the fibres of her irises, the weaving of her clothes, to each strand of hair) reminds him how much he should appreciate her.
-		have her be a love martyr being nearly killed by her boyfriend; connor hears them and dives in through a window;
-			her wound comes from the boyf dragging her by the hair to the mirror and insulting her, before shoving her into it
-			connor shoves the boyf back. the man begs for mercy - connor, eyes aflame, goes "put your hands on me." when he refuses, he screams "PUT YOUR HAAAAAANDS ON MEEEE" and the man punches - connor replies with a smash to the gut and then the chin, breaking the man's jaw; snaps both forearms hard enough to get the bone sticking out. then, he sees she's bleeding out, so improvises a transfusion
-			the cops have been called, and try to shoot connor; he ducks out of the window
-			naismith interviews the boyf; he tries to spin it as connor attacked them both; naismith doesn't buy it for a second and turns off the guy's pain relief to nina's discomfort; the guy cracks, and naismith leaves it off.
-			in the car, nina chews him out; he asks if she's actually defending that scum; she says no, but that's not the point - as police officers, they're meant to do one thing only - enforce the law. vigilante justice isn't their job. naismith agrees what he did was unlawful, but not immoral - she points out that half the problem with police is that they get to make unilateral decisions on morality; after all, what's stopping him from deciding a random homeless person is deserving of that kind of treatment; he says he would never do that because that would be immoral - she says "exactly. it's all down to your own conscience. now i've not been a cop for long, but if there's one thing i've learned - its that people can do terrible things." he relents
-			later, he meets up with connor, who is asking about clara. he says she escaped; connor snaps and reveals that he gave her a transfusion. they argue, and naismith says he can't do this anymore. connor snaps harder, saying that the city is sick, and needs people like them to save it from itself. he asks what gives them the right to do the horrible things they do for the 'greater good' - why the ends justify the means. connor pauses, then says that it's not a right - it's a responsibility. they are aware of the horrors going on, so they have a duty to do all they can to stop it
-		she becomes obsessed, and steals a gun and commits a massacre of Skulls to impress him
-		Naismith investigates, with Dorsey blaming the Werewolf, but he's skeptical
-		later, connor ambushes him and explains it wasn't him
-		the next night, a terrified mook delivers a phone to johnny - it has a location and time for a meetup
-		connor goes, and meets the woman. while trying to talk her down as she goes on about their love, he says she needs help, and she snaps that he thinks she's crazy, worrying that her therapist has been talking to him. he tries to talk her down, but she snaps, saying "there's someone else isn't there? oh, always her!" and scowls that he's 'cheating' on her with 'the bitch [he] always save[s]", and runs away. connor gives chase, but she shoots out the tires of a lorry, causing a multicar pileup on a crosroads - he is forced to save people and let her escape
-			(he gets ivan and shannon to dig into her - finds out her therapist as below)
-				to begin with, he questions Judi on if she can access patient records to find this therapist:
-					"you know... this is highly, highly unethical."
-					"it's to save lives."
-					"that's the excuse for every abuse of power."
-					"if i had a badge and a warrant, you wouldn't be saying this. so why are you?"
-					"because those things come with a little thing called accountablity! something your mask doesn't!"
-					"accountability? barely a week ago, i found out the head of vice in this city is a serial killer. don't you talk to me about accountability"
-					she hesitates, and connor takes a breath
-					"listen... i know that this is a lot; especially if you've been working within the system your whole life. but the system didn't work for the organ harvesters; it doesn't work on the skulls; and it's not working now. and until they change the system so it works on these things, we have a choice - to be 'ethical,' or to be moral. i choose to be moral."
-					she nods, and accesses the files
-				therapist is reluctant, but connor says what shes done and asks if she wants more on her conscience. she relents, and explains the backstory
-					clara was abused by her stepfather as a child, and when her mum found out, she killed him. raised bouncing from home to home, clara craves validation and affection. she has a pathological inability to self-actualise; instead latching onto a person and basing her entire identity around them. connor explains she's latched onto him after he beat up her ex (who the therapist was worried about); the therapist notes the name "she-wolf" means she's fully latched onto him. he asks how he can help her; she says she needs psychiatric help. connor notes that she can't be held safely in a psych ward - before lighting up in realisation
-		later that night, while connor is hunting for her, he has sparky covertly keeping an eye on chloe. however, he gets a call from amy - who's being held hostage by shewolf
-		connor shows up, and after a tense standoff, admits that amy's his sister, not his girlfriend
-		she heads to the roof. amy tells him to be careful, and he sighs
-		he meets her there, and they talk some more. she opens up a little about her ex-partner, and how she was diagnosed with Pathological Attachment Disorder. connor realises the true extent of her infatuation, and reluctantly hugs her. she squeezes him, before her eyes roll back, and he reveals that he's holding a syringe
-		over at ivan's place, he delivers her, and they check her over with dr rosenbaum and confirm she's comatose - connor jabbed her with ketamine and Snakebite toxin. Judi admits her to the trauma ward, prescribing NMBAs and antipsychotics, then having her admitted to a psychiatric ward. she explains they're gonna push hard for a plea of insanity; she's clearly a victim here
-
-		instead of having her holding amy up, intead have connor demanding "where is she" and clara snaps, before revealing in the light that she's wearing Amy's bloodied peircings, saing "i'll be like her, if you want" - connor morphs a pair of bolts tied at the back by a rope, and shoots - the bolts pin her by the neck to a wall, and she says "do it. do anything you want. i deserve it, i deserve it..." he reluctantly (because of her psychosis and abuse history) tells her that if she truly loves him, she'll tell him where amy is. she says amy's alive, in her old flat where connor first met her. he releases her, hugs her as above, and injects.
-
-		then, he rescues amy - she's managed to slip from her restraints, and attacks him with a baseball bat when he eenters, befor realising. she's bloodied and bruised, but fine - even expressing concern that connor killed her. connor explains he merely knocked her out; he's gonna handle getting her help (he also explains what he knows about her, including her erotomania); he checks amy, and her piercings aren't too mauled - they were fairly cheap, so they broke before the flesh was torn badly. her septum piercing will take a while to heal, but her earrings should be able to go right back in (he quips that  "or, you could get stretchers and make it worse, your choice" to which she laughs); she says she's glad clara didn't spot her tongue piercing, and took it out when she got out of her restraints just in case
-		he mentions clara thought he was cheating on her with amy and she goes ew, he says "i know - i'd cheat on her with someone way fitter" and she punches him before they laugh
-
-		quotes for She-Wolf:
-			"Your blood runs through my heart... every moment, I feel closer to you"
-
-		she wolf real name; clara hart
-
-		(summary of events)
-			the hero, known as the vigilante "Werewolf", saved a civilian and gave her an emergency blood transfusion.
-			She already suffered from BPD, being in an abusive relationship beforehand (more like the traditional Harley model); the side-effects of having mutant blood in her system not only gave her mild powers, but also worsened her already difficult mental health.
-			She takes the name "She-Wolf", and initially goes on a killing spree to try and "impress" him (she's targeting a gang he also goes after, except he tries to be non-lethal where possible); she later manages to get in touch by leaving a burner phone with a crippled mook, who the hero finds and then calls the only contact.
-			she is nervous, almost like a teenager, and asks to meet him on a rooftop.
-			he does, and finds she's set up a romantic dinner for them; he asks who she is and she's confused, simply saying "i-i'm your girlfriend, silly!"; the hero is confused, and as she talks and explains her past, he realises she isn't mentally well - however when he tries to talk her down by saying "it's okay, I know it's not your fault - you're not well", she snaps hard, accusing him of thinking she's crazy, before "realising" (in scare quotes) that he must be "cheating" on her with someone else - she says "I know! It's that other little bitch you keep saving!" Then, she drops a flashbang, and vanishes
-			When the hero comes to, he panics that she's gone after his crush, Chloe - so he sends his sidekick to maintain covert surveillance of her while he digs into She-Wolf's backstrory - eventually digging up her old therapist
-			He ambushes her in her office, and demands access to her records etc - the therapist refuses on principle, but explains that what he's describing sounds an awful lot like erotomania
-			the hero then gets a call - from his sister, who he *also* regularly rescues, but obviously doesn't think of in a romantic light
-			She-Wolf, however, is unaware of his secret identity, so assumed it was his sister who he loved - she's holding her hostage
-			the hero turns up, and in order to talk her down, takes off his mask
-			she drops her weapon and walks towards him dreamily, saying he's "even more beautiful than [she] imagined" - the hero then lets her embrace him, only to inject her in the back - she passes out, and with the immediate threat over, keeps her sedated until he can find a cure for her powers (as with them, she's not safe to be placed in a psych ward or prison)
-
-		once she is discharged, she takes the codename "Sovereign", resolving to stop chasing after someone she cannot be with, and instead being the kind of hero to the innocent that she fell in love with in the first place
-			the name idea comes from connor saying "[she is] sovereign of [her] own destiny"
+once she-wolf is discharged, she takes the codename "Sovereign", resolving to stop chasing after someone she cannot be with, and instead being the kind of hero to the innocent that she fell in love with in the first place
+	the name idea comes from connor saying "[she is] sovereign of [her] own destiny"
 
 
 	later, after connor gets jabbed with the virus that weakens him enough to give him cancer, chloe develops a drug that weakens superagents to human levels (if given to a human, it wold cause severe atrophy and then death). they use this on shewolf, and then send her to a psych ward.

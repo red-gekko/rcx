@@ -16362,9 +16362,9 @@ VOLUME - Wolves Among Sheep
 			"Is it that obvious?" Trey sighed.
 			"Trey. If *I* picked up on it, you can bet the neurotypicals will." Connor snarked.
 			"Hey, I'm only, like, 47% neurotypical." Shannon quipped.
-			"The fact you're quantifying it as a percentage knocks off at least 20%." Connor shot back, grinning.
+			"The fact you're quantifying it as a percentage knocks off at least 20." Connor shot back, grinning.
 			Trey laughed, now changed into his overalls. He tied his dreads into a bun, and had a look at their itinerary.
-			"Refurb work in the motel? Did someone buy it?" Trey asked, looking at the itinerary.
+			"Refurb work in the motel? Did someone buy it?"
 			"I did." Connor nodded. "I'm gonna fix it up, so me and Amy have some proper bedrooms. Plus, I've told Gwen and Ivan they can crash there if needed. Speaking of - Shannon, where are you staying at the moment?"
 			"There's a hostel in the community centre - I'm crashing there for now." she smiled. "How much is rent at the motel?"
 			"Free for badass hacker chicks." Connor chuckled. "I'll let you know when we're ready for intake."
@@ -16377,7 +16377,6 @@ VOLUME - Wolves Among Sheep
 			"That works." Trey chuckled. "Being a hitman must be cool, I guess."
 			"I prefer 'assassin,' thank you very much." Connor snarked.
 			Shannon kept her eyes on her screen, tapping away, and grinning.
-			"By the way... is everything alright, Trey?" she asked.
 
 			"Morning guys!" Bea cheered as she walked into the garage. She and Chloe were holding large paper bags, which they set down on a cluttered workbench.
 			"Morning!" Amy waved, walking over. "Damn, I thought you were just getting toasties, not..."
@@ -16387,7 +16386,7 @@ VOLUME - Wolves Among Sheep
 			"FOOD!" he shrieked in excitement, rushing over and wagging his tail. Bea laughed, endeared, and handed down a roll. He took it gently, and swallowed it in barely a bite.
 			"Good boy!" she cooed, stroking his mane.
 			Shannon looked up, straightening slightly. "Oh, h-hi. I'm Shannon. I work here."
-			"Shannon's our tech specialist." Connor said, wiping his hands on a rag. "Shannon, this is Chloe and Bea - friends of ours."
+			"Shannon's our tech specialist." Connor added. "Shannon, this is Chloe and Bea - friends of ours."
 			"Lovely to meet you!" Bea beamed. "How long have you worked here?"
 			"Not long. A-a couple days." Shannon shrugged, gaze flicking to her screen and back. "I mostly handle the computers."
 			"She's being modest." Amy said, sliding into a chair. "She's ten times better than Connor ever was."
@@ -16420,7 +16419,7 @@ VOLUME - Wolves Among Sheep
 			"Thanks for doing this, guys." Trey smiled softly. "Really appreciate it."
 			"Hm..." Bea cocked an eyebrow. "What's wrong?"
 			"Is everyone gonna ask me that?" he sighed.
-			"It's your fault for hanging out with a pack of empaths." Connor snarked, forcing his voice back to something approaching normal.
+			"It's your fault for hanging out with a pack of empaths." Connor snarked.
 			"That's fair." he chuckled mirthlessly, before sitting down.
 			"Do you wanna talk about it?" Chloe asked. "Because, if not, we won't judge."
 			"It's alright." he sighed. "No, I just... I got a letter in the post yesterday. Didn't get back home 'til late, so I didn't read it until this morning."
@@ -16454,10 +16453,6 @@ VOLUME - Wolves Among Sheep
 			"I imagine Victor got the same." Chloe added. "I'm so sorry, Trey."
 			"Didn't you get one?" Bea asked Connor.
 			"Irish are exempt." Connor nodded. "Making us wear the uniforms of the men who killed our people, and fire a gun under the flag that flew over our ashes... that's evil, even for the Brits. Besides, the last thing they want is a large proportion of Irishmen having military training."
-			"Wow. So you're just immune to all this shit?" Shannon asked, eyebrow raised.
-			"Not immune. Just... exempt." he shrugged. "Different thing."
-			"Feels like the same thing from where I'm sitting." she muttered.
-			"Fair." Connor nodded.
 			"That's fair." Chloe shrugged. "Anyway... how do we fix this?"
 			Trey looked at her, and sighed. "I don't know. I might just have to grit and bear it."
 			Shannon hesitated, but chimed in. "Business owners are exempt, right?"
@@ -16483,7 +16478,7 @@ VOLUME - Wolves Among Sheep
 			"Thanks." Connor nodded.
 			"Actually..." Shannon began, not looking up from her screen. "the forms are public. They just bury them. I can find the right one."
 			"You're a lifesaver." Trey grinned at her.
-			"Don't thank me yet. There's a good chance it was designed by someone who hates poor people." She shrugged, and went back to typing.
+			"Don't thank me yet. There's a good chance it was designed by someone who hates poor people." she shrugged modestly.
 			Chloe put her hand on Connor's shoulder, and beamed. "That's really good of you."
 			"Eh." he shrugged, smiling back.
 			"I ain't gonna praise you." Amy snarked. "It's the least you can do, really."
@@ -16676,14 +16671,10 @@ VOLUME - Wolves Among Sheep
 			"Look, just... promise me I did something good, here." she said, sighing deeply.
 			"I promise." he nodded. "Doc... I appreciate it. Truly. And remember... If you ever need my help again--"
 			"I'll call you." she smiled. "Take care, Werewolf."
-			"Connor." she said. He stopped.
-			"Be careful with her. If she's as unwell as you say... she might not want to be found."
-			"I know." he nodded. "That's what worries me."
-			He stepped off the roof.
 
-			Dr. Santoro's office was quiet at this hour. The last patient had left an hour ago. She was packing her bag when she felt the presence behind her.
+			Dr. Santoro's office was quiet, now. The last patient had left an hour ago. She was packing her bag when she felt the presence behind her.
 			She turned.
-			Connor was sat in the patient's chair. His legs were crossed, and his arms folded.
+			Connor was reclined in the patient's couch. His legs were crossed, and arms folded.
 			"Oh my god." she gasped. "I--I--"
 			"Dr. Santoro." he whispered lowly. "We need to talk."
 			"Listen, I--I'm not your enemy, I swear! I've never so much as littered!"
@@ -23995,7 +23986,7 @@ VOLUME - Gods Among Men
 			"I wonder if I'll end up like that. After all, I'm almost certainly a carrier, right?"
 			"Only 40% of VS carriers will develop Elder-Onset VS." Sveta replied. "And, it must be said - the largest impact on your father's quality of life is the dementia, not the Volkov."
 			"I suppose." William shrugged. "Chloe's never let her VS get in the way."
-			Sveta smiled warmly. "No, she hasn't. "
+			Sveta smiled warmly. "No, she hasn't."
 			"Anyway, enough of me moping about..." William chuckled. "You seem to be in good spirits?"
 			"Oh, yes..." Sveta smiled. "There is, um, good news back home in Russia. A bad man - a very bad man - has been captured."
 			"Oh? Do tell." William asked, glad to have something else to talk about.

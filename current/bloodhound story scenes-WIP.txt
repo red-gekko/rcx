@@ -6053,7 +6053,7 @@ VOLUME - Wolves Among Sheep
 			"Yes... he's well known in the intelligence world. His real name is Christopher Percival Bacon."
 			"...wait. Chris P. Bacon? Are you fucking with me?!"
 			"Of course I'm fucking with you!" Ivan laughed jovially. "No, they have no name or alias on this guy. But apparently, he targets pig farmers. According to surviving witnesses, he wears some kind of pig mask... well, they say he has a pig's head, but the NCA think it's a mask."
-			"The NCA probably think I'm just a guy who eats spinach." Connor quipped. "Alright... let's see if we can track down the Notorious P.I.G."
+			"The NCA probably think I'm just a guy who eats spinach." Connor quipped. "Alright... let's see if we can track down the Notorious P-I-G."
 			"Says here the guy's deranged." Ivan noted. "Watch yourself."
 
 		Larder
@@ -7991,7 +7991,7 @@ VOLUME - Wolves Among Sheep
 			Instead, a van pulled up on the pavement, nearly hitting him.
 			"Whoa, easy!" he hissed, as its doors swung open.
 			"Oh, fuck..." he gasped, turning and running.
-			Too late. A Skull darted out from the alleyway,and grabbed him, tackling him to the ground.
+			Too late. A Skull darted out from the alleyway, and grabbed him, tackling him to the ground.
 			Trey twisted violently, trying to wrench his arm free.
 			"Get the fuck off me!"
 			He drove an elbow backward, catching the man somewhere in the ribs. The Skull grunted and loosened his grip for half a second.
@@ -8135,7 +8135,7 @@ VOLUME - Wolves Among Sheep
 			"They're cunts..." Amy scowled, wiping one of his cuts with some gauze. Sparky licked at his face, and he smiled softly.
 			"Was it Kirk's crew? They've been making movements in Redbridge lately." Connor asked.
 			"Connor..." Amy began.
-			"How about the Eriksons? This matches their M.O. How did they track you?"
+			"How about the Eriksons? This matches their MO. How did they track you?"
 			"Connor."
 			"I've just finished checking your phone. I reckon they must've had a tracker on you. Paul Jennings and his lot were more techy than most, so it could've been--"
 			"CONNOR!" Amy snapped. "What the fuck's the matter with you? Your best mate just got hate-crimed, and you're grilling him?!"
@@ -13626,7 +13626,7 @@ VOLUME - Wolves Among Sheep
 			"Henry, I--"
 			"You're not in trouble. Neither is he, not really. I... I wanna thank him. For not killing Baines."
 			Another pause, longer this time. "I... I didn't think I'd hear that from you."
-			"He... he was right, Judi. What he said, when he rescued the organ farms... he was right. There's the law... and then there's what's right. He saved lives tonight.And he left Baines to face justice. That's more than I expected. And plus, I want him to know that the people are safe. We're taking them under our protection, so he can focus on catching the Strangler."
+			"He... he was right, Judi. What he said, when he rescued the organ farms... he was right. There's the law... and then there's what's right. He saved lives tonight. And he left Baines to face justice. That's more than I expected. And plus, I want him to know that the people are safe. We're taking them under our protection, so he can focus on catching the Strangler."
 			"I'll pass it on." Judi said quietly.
 			"Thanks. And Judi?"
 			"Yes?"
@@ -14967,7 +14967,7 @@ VOLUME - Wolves Among Sheep
 			"Oh, uh--yeah, well, I just... After what happened, I felt safer staying with him and Sparky, you know?" she blushed.
 			"Nice." Trey smiled. He looked over at the kitchen shiftily, before turning to Chloe. "So, um... you like Connor, yeah?"
 			Chloe blushed even harder. "Oh, I mean, yeah, I like him, I mean, we're friends, I..." she stuttered shyly.
-			Trey chuckled. "It's alright. But, F.Y.I. - the feeling's mutual." he said coyly.
+			Trey chuckled. "It's alright. But, FYI - the feeling's mutual." he said coyly.
 			"Oh, I..." Chloe stammered, smiling.
 			
 			Connor entered with the sandwiches.
@@ -16990,9 +16990,13 @@ VOLUME - Wolves Among Sheep
 			"Now?"
 			"Yeah, now. You got anything better to do?" 
 			"Are people even allowed to visit the prison like that?"
-			"Yeah, dumbarse." she chuckled. "Go on, go see him while it's fresh on our minds. Me and Sparky will have a fun day together."
-			"Ooh, yes!" Sparky added. "There's a new episode of EastEnders on tonight, we can watch that!"
-			Connor chuckled. "A talking super-wolf, who only I can hear, who's into EastEnders... It's remarkable how, well, unremarkable that is to me now."
+			"Yeah, dumbarse." she chuckled. "Go on, go see him while it's fresh on our minds."
+			"Good idea. Sparky, you stay here and keep watch, okay?"
+			"I don't need a babysitter." Amy sighed. "I'm fine. She-Wolf was a one-off."
+			"*I* need to know you're safe. Besides, prisons aren't dog friendly, anyway."
+			"Fine." she shrugged. "Me and Sparky will have a fun day together."
+			"Ooh, yes!" Sparky yapped. "My shows are on tonight, we can watch that!"
+			Connor chuckled. "A talking super-wolf, who only I can hear, who's into cartoons... It's remarkable how, well, unremarkable that is to me now."
 			Sparky grinned. "You're telling me. I'm stuck with the only being who can understand my speech, and he's leaving me at home all day."
 			Connor laughed. "Did you just sass me? I'm so proud of you." 
 			Sparky wagged his tail in pride.
@@ -17033,7 +17037,7 @@ VOLUME - Wolves Among Sheep
 			"I--wow." Vince beamed. "I'm proud of you, lad."
 			Connor blushed slightly.
 			"And how's Trey?"
-			"Trey's good. We went to the winter faire with our new friends last week."
+			"Trey's good. We went to the Winter Faire with our new friends last week."
 			"New friends?" Vince asked, eyebrow raised.
 			"Yeah, Amy met them on a night out, and they've kind of just ended up in our social circle. Bea and Chloe." Connor answered. He looked away for a second... He realised, too late, he said 'Chloe' with a little too much affection. His hopes Vince didn't notice were quickly dashed.
 			"Ooh, tell me about Chloe." Vince smiled, teasingly.
@@ -17317,9 +17321,26 @@ VOLUME - Wolves Among Sheep
 			Connor tilted his head slightly, and William rubbed the bridge of his nose. Chloe leaned in.
 			"Just go along with it." she whispered.
 			Connor nodded. "School's going well!" he said, putting on a posher voice. Chloe chuckled quietly at his impression.
-			Once finished, Connor walked to his car with Sparky. As he approached his car, Chloe followed him. Now having a moment to themselves, she blushed.
+
+			Breakfast went quickly, and Connor excused himself to the bathroom. He cocked his eyebrow in bemusement at the soft, cushioned toilet seat - then sank into it as he sat down, reclining in relaxation.
+			Bourgeois decadence had its perks, it seemed.
+			He finished up, and headed out into the landing. Now in the daylight, he could appreciate its gallery a little more.
+			He walked, turning on his spot as his eyes cast over the architecture. Then, his super-senses kicked in a second too late.
+			"Shit!" he gasped, turning and grabbing a marble bust before it could hit the floor. He held his breath for a moment, before placing it back on its podium. Then, he put his hands out, as if ordering it to stay, and stepped back.
+			The bust was of an almost archetypal aristocrat - an older gentleman, whose hairline had climbed up towards the back of his head. He wore a double-breasted suit, with a Victorian-style cravat. He had a stern look on his face.
+			Connor's eyes moved rightwards, and rested on a large oil painting. There, a man with the same facial shape stood, dressed in a three-piece suit. A top hat rested on his head, while one hand held a cane, and the other rested in his tweed jacket pocket. A monocle fitted nearly over his left eye.
+			"Boo." Chloe said, grinning. Connor turned, and chuckled.
+			"Sorry." she laughed. "Couldn't resist."
+			"You've been hanging out with our lot for too long." he smirked. "Who's he?"
+			"My great-great-great grandfather." she nodded. "Lord Edmund Derrington."
+			"Lord?" Connor tilted his head. "Damn."
+			Chloe chuckled, and led him to a second painting. This one was of a tuxedoed man, stood next to a woman in an extravagant white dress.
+			"Lord Anthony Derrington, and Adelaide, Princess Royal." she gestured. "This was painted on the night of their wedding."
+			"That sounds like the most boring wedding night ever." Connor snarked.
+			Chloe giggled. "That's the aristocracy for you. Honestly, I love it in Drackhill. There's so much more... freedom, I guess. Less pressure to conform."
+			Connor nodded softly, and gently brushed her hand. She blushed.
 			"I'm sorry about earlier... I just, I'm fed up with her. She acts like she's the mother from heaven and I'm the daughter from hell."
-			Connor smiled softly. "It's okay. Really, it is. Besides, like I said, my uncle's in prison. It's not like I can sit in judgement on other people's family dynamics."
+			"It's okay. Really, it is. Besides, like I said, my uncle's in prison. It's not like I can sit in judgement on other people's family dynamics."
 			Chloe chuckled. "Well, at least your uncle sounds alright. Hey, speaking of... Last night, you said there's the law, and then there's right and wrong. I... I didn't mean to imply that I was judging you and your uncle." she said, looking down shyly.
 			"Oh? I didn't even think of that - it's okay." Connor smiled. Chloe looked relieved.
 			"That's good." she smiled. "I was worried that it might come off as some... I don't know, like I was trying to insult you in the subtext? Which I wasn't, to be clear." she stammered.
@@ -17328,7 +17349,49 @@ VOLUME - Wolves Among Sheep
 			"Oh?"
 			"Well... I don't have to worry about subtext with you. I know that when you say something, there's no hidden meaning. And I don't have to worry about how you'll take something I say, either." she explained.
 			"I guess being autistic as all hell has some advantages." Connor quipped.
-			Both laughed at that, and she bade him farewell with a hug.
+			Both laughed, enjoying the moment.
+			"Hey, before you head off - there's something I wanna show you." she said. "It's a short walk away - I don't suppose you have any boots?"
+			"Yeah, in the car." he nodded. "I'll grab Sparky, and meet you outside?"
+			She smiled, and he headed into the garden. There, Sparky was basking in the cold sunlight.
+			"Morning, buddy." he smiled.
+			"Morning!" Sparky yapped. "Are we heading home, now?"
+			"Yeah, in a minute." Connor nodded. "Chloe's gonna show us something, though."
+			"Oh, okay." Sparky yawned, rising. Connor morphed on a pair of boots, and they headed into the driveway.
+
+			The walk was fairly uneventful - the three were still tired, and enjoyed the cold air waking them. Chloe held Molly on a leash, while Sparky trotted to their heels.
+			"Hah..." she chuckled. "Funny how the wolfdog is more well-behaved. If she was off lead right now, she'd be spending the next three hours stuck in a rabbit hole."
+			"Ah, it's a size thing. Rabbits aren't nutritious enough for Sparky." Connor grinned. "If there was a horse here, then maybe."
+			"What's a 'horse?'" Sparky tilted his head.
+			"He doesn't chase horses, does he?" she turned quickly.
+			"Hm? Oh, no - I was taking the piss." Connor shrugged.
+			Chloe laughed, and they kept walking.
+			It didn't take too long before they arrived at the pasture.
+			"Bucephalus!" she called out.
+			Connor cocked an eyebrow, before a bellowing neigh cried out, and the thundering of hooves filled the air. A small stable in the corner of the pasture shook with movement, and a massive black stallion charged out.
+			"Oh." Sparky tilted his head. "That's a big deer."
+			Connor stifled a chuckle, and bowed his head. Bucephalus raced over to Chloe, and pushed his head into her chest.
+			"Hey, Bucey!" she cooed. "How have you been, baby boy?"
+			He nickered as he rubbed against her, and then took a look at Connor.
+			"Hey, buddy." he smiled, approaching towards an angle. Bucephalus tilted his head to the side, keeping his eye on Connor. Connor averted his eyes, and raised his hand up softly, towards the horse's mouth.
+			"This is Connor." Chloe said softly. "Say hi!"
+			Bucephalus moved forward slightly, and nickered again as he sniffed Connor's hand.
+			"Good boy." Connor smiled, gently rubbing the withers.
+			"You're good with him." Chloe noted, beaming.
+			"My cousin Mickey knew a fella with a very similar horse." Connor explained. "Do you ride him often?"
+			"No, he's Victor's." Chloe shrugged. "But he prefers me."
+			Bucephalus neighed, as if in agreement. Connor chuckled, and scratched him gently by the backside.
+			Sparky gently approached, and raised his snout upwards. The two animals sniffed each other, and Bucephalus moved his head away.
+			"I think he likes us." Sparky shrugged.
+			Chloe chuckled. "Anyway, there you have it. You've met the Derringtons, now."
+			Connor smiled warmly. "It's been really nice. Hey... don't feel like you have to hide your family from me, or any of us, okay? None of us would've judged you over it."
+			"I know." she nodded, hesitating. "I... judge *myself* over it. I hate the whole thing. The whole stupid system, the attitude, the ideology..."
+			Connor reached his hand over Bucephalus's back, and placed it on hers. She blushed, and looked down.
+			"None of that is *you,* okay?" he said quietly. "Yes, us down in Drackhill are more... well, we're not exactly huge lovers of the class system, or the aristocracy. But *you* are not part of that. As far as any of us care, you're Chloe - our mate, who shows up when we need her; who has a couple of vodkas and turns into the life of the party; who's always looking out for all of us. *That's* the Chloe we know - and nothing I've learned in the last 24 hours changes that."
+			Her eyes fluttered, and she looked into his eyes. She squeezed his hand, before grimacing.
+			"Ew! Bucey! Way to ruin the moment!" she laughed, as a dollop of manure plopped onto the grass.
+			They both burst into laughter, as Bucephalus trotted away. Then, they embraced.
+			"I'll see you after New Year's, yeah?" she smiled.
+			"Yeah. I'll see you then." he beamed. With that, they parted.
 
 		Morning at Chloe's
 		______________________________
@@ -18571,7 +18634,7 @@ VOLUME - Gods Among Men
 			"Officer Flanagan." the safeguarding officer stepped in. "Connor had a blackout after seeing what he saw. Ask the other witnesses."
 			Flanagan nodded softly. "Of course. All right."
 			"Am I in trouble?" Connor asked timidly.
-			Flanagan hesitated. "I, um... Based on what you and the others have told me, I don't think there's any reason to press charges. I'll consult with the crown prosecutor, but... I can't see any chance of them seeking to charge you. You'll be held here for a maximum of 5 more hours."
+			Flanagan hesitated. "I, um... Based on what you and the others have told me, I don't think there's any reason to press charges. I'll consult with the CPS, but... I can't see any chance of them seeking to charge you. You'll be held here for a maximum of 5 more hours."
 			Connor sighed, and looked down. "I can't remember it clearly... but..."
 			Flanagan leant in, taking notes.
 
@@ -21557,7 +21620,7 @@ VOLUME - Gods Among Men
 
 			Sparky jumped up at their entrance. "Hey guys! How was your night?"
 			He noticed Connor's wound. "Oh! Is everyone else okay?" he asked, unconcerned - to these two, being shot was a Tuesday.
-			"Hey buddy..." Connor smiled,stroking him.
+			"Hey buddy..." Connor smiled, stroking him.
 			"He's okay, buddy..." Chloe began, more to reassure herself.
 			"There's a first aid kit in that cupboard there - we can patch you up with that." Trey said.
 			
@@ -22450,7 +22513,7 @@ VOLUME - Gods Among Men
 			"[You want me to become an assassin?]" Ivan tilted his head.
 			"[I want you to help me save our country.]" Morozov replied. "[First things first - we will accompany the 9th to Georgia. From there, you will focus on eliminating rebel groups in Abkhazia and Ossetia. Soften them up, and the 9th should be able to roll on into Sukhumi.]"
 			"[Why me?]"
-			"[Two reasons. First, you're clearly a better sniper than you let on - that's a rare talent. Second, you're a commissar - i.e., one of the few people we can count on to be absolutely loyal to the Socialist cause. Now, comrade, I ask you - are you in?]"
+			"[Two reasons. First, you're clearly a better sniper than you let on - that's a rare talent. Second, you're a commissar - that is, one of the few people we can count on to be absolutely loyal to the Socialist cause. Now, comrade, I ask you - are you in?]"
 			Ivan hesitated. He shook Morozov's hand.
 			"[I'm in, comrade.]"
 

@@ -11607,72 +11607,6 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Law and Disorder
 		______________________________
 		SCENE
-			August, 2013. School was finally out, and Connor chose to celebrate it with his favourite people; his best friend, and the woman he loved.
-			Yaz was lying on the sofa, resting her feet on Connor's lap. Her hair was a bleached blonde, and she wore a black jumpsuit. A movie was playing.
-			"Ah, no way!" Trey said, grinning. "I thought it was her."
-			"Why would it have been her?" Connor questioned. "She had a solid alibi."
-			"Yeah, but who was the person confirming she was there? That's right, her butler! Of course he'd be lying!" Trey countered.
-			"Yeah, but we saw earlier that he resents how she treated her father. So, he has no motive to cover for her." Connor retorted.
-			Yaz rolled her eyes. She playfully rubbed Connor's crotch with her feet. He squirmed.
-			"Hah, that tickles!" he laughed.
-			"Oh yeah?" Yaz cocked an eyebrow. "How about we go and 'tickle' upstairs?"
-			Trey wolf whistled, grinning.
-			Connor looked at her, confused. "You wanna tickle me upstairs?" he asked.
-			Yaz chuckled. "No, silly."
-			Connor looked at her, puzzled.
-			She sighed. "I, um... I just remembered I have homework to do. I'd better head home."
-			"You sure? The movie's not over yet." Connor protested.
-			"Yeah, I... I'm gonna go." she said.
-			"Okay. I'll see you tomorrow?" he asked.
-			"Sure."
-			Connor stood and went to hug her, but she shuffled out of the way and left.
-			He sat down, puzzled.
-			"You are a fascinating individual, my friend." Trey grinned.
-			"Eh?" Connor asked.
-			"You figure out the plot of the whodunnit movie, but, well..." Trey sighed, chuckling.
-			Connor paused, before laying back in realisation.
-			"Shiiiit..." he groaned, covering his face.
-			"There it is." Trey laughed.
-			"But she said she just wanted to chill." Connor protested weakly.
-			Trey chuckled. "What did she say exactly?"
-			"She said 'How about I come over to yours, and we can Netflix and chill?'"
-			Trey burst into laughter. "And... you replied with..."
-			"'Sure, sounds good. I'll call Trey, we can all hang out!'"
-			"Connor... 'Netflix and Chill' means..."
-			"To watch Netflix, and chill." Connor answered confidently.
-			"Google it."
-			Connor did so, and leant back, sighing dramatically.
-			"Yep." Trey giggled.
-			"But why would it mean that?"
-			"God, you are so Catholic."
-			"Catho-lick my balls."
-			Trey cackled in laughter.
-			"God, I'm such a *moron...*"
-			"Yeah you are. You're *my* little moron."
-			"What do I do?" Connor asked, leaning forward.
-			"My advice? Go grab some flowers - girls love flowers - and surprise her tomorrow morning. Tell her you're sorry for ignoring her needs, and you want to do better in future."
-			"Great idea!" Connor beamed, rushing out.
-			Trey leaned back, chuckling. "Guess I'll finish the movie then?"
-
-			An hour passed, and Trey awoke to Connor's reentry.
-			"Yo! How did it go?" he beamed.
-			"She was in bed with someone else." Connor sighed.
-			"O--oh, fuck. Shit." Trey gasped, shooting up. "Fuckin' bitch."
-			Connor shrugged. "I feel like I should be more angry about it, but... I'm not."
-			Trey looked at his best friend quizzically. Then, an eyebrow raised.
-			Another sigh sank out of Connor's mouth. "Okay, fine... I did rough the guy up a bit." he admitted.
-			Trey grinned cheekily. "How badly?"
-			"Nothing too bad! I just... threw him onto the driveway. Naked. And I kicked him in the bollocks."
-			"You're a better man than me. I'd've broken something." Trey chuckled, leaning back.
-			"Given the distinctive popping noise, I think I *did.*"
-			Trey moved over, and placed a gentle hand on his friend's shoulder. Connor tensed instinctively, but released.
-			"Is this a no-tactile moment?"
-			"I'm fine."
-			Trey wrapped him in a hug, and both breathed out.
-
-		Connor ignores Yaz
-		______________________________
-		SCENE
 			Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
 			In the back-office, Tommy sat at his desk, while Trey stood.
 			"Look, Trey, you're a good kid... you sure you wanna do this?" he asked.
@@ -11938,9 +11872,7 @@ VOLUME - Wolves Among Sheep
 			"*We* don't do anything." Connor shook his head. "You call it in, and reveal what you saw here. Then, have this body analysed - I'm sure you'll find some interesting facts about its biology."
 			Nina looked at him, shocked. "Sir... Did... Did you know?"
 			"No! Nina, I swear... I only knew the Werewolf would be here. He told me he would 'show me the truth' - I didn't think it would be this."
-			Nina paused, then nodded silently.
-			Connor looked over at Nina. She was... familiar. Then, he saw a brief flash - Yasmin, his ex. He shuddered.
-			Nina grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
+			Nina paused, then grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
 			"Received, 5-2. FI's en route, ETA 24 minutes." the radio replied.
 
 		Killing the Giant
@@ -13387,7 +13319,6 @@ VOLUME - Wolves Among Sheep
 			Connor sent a kick to the temple, knocking the man out. He rolled his shoulders, and headed outside.
 
 		Checking the Vixen
-
 		______________________________
 		SCENE
 			Morning had come and gone. The sun eagerly prepared to hide behind the sea, and Naismith and Nina walked to their unmarked car, having checked out their firearms.
@@ -14476,7 +14407,9 @@ VOLUME - Wolves Among Sheep
 			"Don't do that."
 			"Do what?"
 			"Pretend to not be upset."
-			She sighed. "Okay, fine. Anyway... I've just ordered pizza."
+			She sighed. "Okay, fine. What about you?"
+			He looked away, and sighed. "I... we did our best, today. No one died. That's a win."
+			She smiled slightly, and brushed his arm. "Anyway... I've just ordered pizza."
 			"Legend."
 
 			'Ordered pizza' was an understatement - Amy had got them a banquet.
@@ -16978,7 +16911,19 @@ VOLUME - Wolves Among Sheep
 			"What's wrong?" he asked.
 			"It's already faded!" she sighed, showing him a picture.
 			Connor chuckled. "Too bad. We agreed you could try one tattoo on me."
-			"Yeah, yeah." she snarked. "By the way, what's with all the noise next door?"
+			"Yeah, yeah." she snarked. Then, Connor's ears pricked up, as the newsreader continued.
+			"In other news, the trial of StadtKirk CEO Harold Sozer has concluded, with the judge finding him to not be criminally liable for the tower block fire in Redbridge that left nearly a hundred homeless. StadtKirk has been ordered to pay £108,000 restitution to the City of Drackhill, but notably was not obligated to pay any money to the former residents of--"
+			Connor snarled, looking at the screen. "That bastard. You know, they saved nearly a ten million quid by installing piss-poor cladding in towers all over the city. People died in the Walton fire that I couldn't save in time. And there are so many more tower blocks waiting to go up in smoke; and he gets away with it, and the company pays barely a percent of what they saved?"
+			Amy leaned back. "You planning on doing something about it?"
+			"Hm?"
+			"You're this fired up, rightly so. You've clearly done some digging into the company."
+			"Well, yeah." he shrugged. "I couldn't find any connection to the Optimates--"
+			"That matters?" she cocked an eyebrow. "This prick gets away with burning down our home, and you're just gonna sit there and let him?"
+			Connor's brow furrowed. "No. I'm not."
+			She grinned. "There he is."
+			Connor cleared his throat. "I'll sort something out with Shannon. We'll make him pay - one way or another."
+			Amy nodded, before a whirring noise caught her attention.
+			"By the way, what's with all the noise next door?"
 			"I bought the old motel." Connor nodded. "There's workmen in there now, fixing it up. By New Year's, we'll have actual bedrooms to sleep in. Plus, I've got them knocking down the walls between the two basements, so we'll have plenty of room."
 			"You're not actually gonna rent rooms out though, right?"
 			"Nah. It's mainly to launder my blood money." he shrugged. "But hey, at least we'll have an actual place to stay. In fact, it'll be better than the flat. Plus, since Trey and Shannon both know the truth, I don't have to sneak around when it's hero time."
@@ -17065,6 +17010,82 @@ VOLUME - Wolves Among Sheep
 			The two cracked up again, smiling warmly.
 
 		Connor sees Vince and reconciles
+		______________________________
+		SCENE
+			"I'm telling you, Bob! Those silly little activists can huff and puff all they like, but the court's word is final!"
+			Harold Sozer grinned as he spoke on the phone, standing in his penthouse suite.
+			"Yes, exactly. Anyway, now all that business is behind us, we can focus on expansion. I hear Valiant Motors is looking for a buyer."
+			Bob made sounds of agreement, and Sozer chuckled.
+			"Alright, I'll see you in the morning. Bye, mate."
+			He pulled the phone from his ear, and cut off the call.
+			There. In the screen's reflection.
+			*Him.*
+			"Oh, Jesus Christ!" Sozer shrieked, turning.
+			"*He can't help you.*" Connor - the Werewolf - snarled deeply. A slug to the temple, and Sozer's eyes rolled back.
+
+			"Ugh..." Sozer began, drooling slightly. He stirred, and then tried to move.
+			Nope. No motion. He struggled again, to nothing.
+			"Those ropes are pretty tight, aren't they?" Connor snarled menacingly, his eyes aflame. They were on a rooftop together - the penthouse was beneath them.
+			Connor stomped his boot, and felt the vibrations emanate. *This* building had decent cladding, of course. Hell, it would take napalm to risk burning it down.
+			"Wha... what do you want from me?" Sozer trembled. He was tied to a chair, wrapped in organic cables - the kind Connor used for his grapples. Thick. Chitinous. Stronger than spider-steel.
+			"Let's start with reparations." Connor began, folding his arms.
+			"Wh-what do you mean?"
+			"Base." he said, putting his fingers to his ear. "We ready?"
+			"Good to go." Shannon audibly grinned.
+			"I need your account details. We're gonna make a sizeable donation to your victims' fund." Connor began.
+			"...no, I--I can't--"
+			*SHK!*
+			"AAAGH!" Sozer screamed, as Connor whipped a knife over his cheek. It lightly grazed him, and a splash of blood drizzled down his face.
+			"Start. Talking."
+			"Fuck! Fuck, okay... my account's with Sterling International."
+			"On it." Shannon reported. "I'm accessing SIBC's customer portal now."
+			"What's the account number?" Connor pressed.
+			"It's... 702-304-96-11289." Sozer admitted, looking away.
+			Connor pressed his hand on the executive's head.
+			Nothing. Void.
+			Damn it. Made sense, though - who would better fit the profile of the amoral liesmith than a greedy parasite like him?
+			"Base, check it. If he's lying, I'll cut off a finger and ask again."
+			"WAIT, WAIT!" Sozer screamed. "It's 14289, I'm--I'm sorry!"
+			"Much obliged." Connor grinned. "You get that?"
+			"Yep. I'm accessing it now... alright, we need the verification code."
+			"What's the verification code?" Connor asked, stepping forward.
+			"15-92-AZ19."
+			"We're in. Okay... two-factor authentication's kicked in; has his phone pinged?"
+			Connor grabbed it, and pressed Sozer's finger to it. The screen unlocked.
+			"Yep. 472045."
+			"There we go. Alright... Jesus, that's a lot of money."
+			"Transfer all of it to the account I gave you. We'll launder it and get it to the people who need it."
+			"On it, Vanguard. Hah, we make a pretty good Robin Hood team, eh?"
+			Connor grinned, before turning to Sozer - who was crying at the loss of his money.
+			He scowled. All that pain. All those people.
+			For what? Greed?!
+			Connor stepped forward, and planted his boot on Sozer's foot. He stepped down, and Sozer shrieked in pain.
+			"You've got my money! Please, just let me go!"
+			"No." Connor snarled. "You made people suffer. Die. Burn. BURN!"
+			"I'm sorry! I'm so sorry!"
+			"DO NOT LIE TO ME!"
+			Connor grabbed something - a red jerry can. He unscrewed the cap, and poured it in a circle around Sozer's chair. The acrid stench of petrol filled his nostrils.
+			"PLEASE! PLEASE, GOD, NO!"
+			Connor let a savage grin crawl over his face, and struck a match. He held it over the circle, as Sozer whimpered. Then, he dropped it.
+			He'd been careful. Tongues of flame licked near Sozer's skin without scorching him. The heat was awful, but not quite deadly. Smoke plumed up into the sky, as Sozer screamed and choked.
+			"*Do you feel it?*" Connor asked, his voice booming. "*Do you feel what we felt, in your fires?*"
+			"GAGH! PLEASE! I'M BEGGING YOU!"
+			"Good. Because we're done begging. We're done begging you for the scraps. We're done begging parasites like you for mercy. From this day forward... you, and all in your class... shall have to beg to us."
+			Finally, he grabbed a fire extinguisher, and put out the flames. Sozer whimpered, his skin blistered and clothes darkened. He dared to look up - and the Werewolf was gone.
+
+			Connor soared over an updraft, letting it carry him forwards.
+			"Base, this is Vanguard. Is the video ready?"
+			"Yeah, all done." Shannon audibly nodded. "That was cold. Ice cold."
+			"I think you'll find it was burning hot." Connor grinned.
+			Shannon chuckled. "I've finished editing it - are we sure about this?"
+			"We've been on the back foot for too long." Connor replied. "We've spent too long with rich men - not just the Optimates, but the whole lot of them - making us look over our shoulders. It's time they feel afraid of *us.*"
+			Shannon grinned. "Alright, I'm posting it now. And, Vanguard?"
+			"Yeah?"
+			"Well done. I know how... tempting it must've been, to let it burn a little longer."
+			Connor paused for a moment. By all the gods, it was.
+			"Thanks." he finally whispered, before moving into the night.
+
+		Reparations
 		______________________________
 		SCENE
 			A couple days passed the valley by. In Redbridge, the gang coalesced at Trey's house. His dad was out for the day, so Trey was hosting everyone as they chilled. Chloe and Bea were sat next to travel bags.
@@ -17394,10 +17415,6 @@ VOLUME - Wolves Among Sheep
 			"Yeah. I'll see you then." he beamed. With that, they parted.
 
 		Morning at Chloe's
-		______________________________
-		SCENE
-
-		Reparations
 
 
 	______________________________

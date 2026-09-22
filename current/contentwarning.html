@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Content Warning — Bloodhound</title>
-    
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -156,19 +155,19 @@
             approximate and reflect the prominence and intensity of the theme within that episode.
         </p>
         <p>
-            <span class="tag mild">Mild</span> — present but not prominent.
+            <span class="tag mild">Mild</span> — present but not prominent, or only mentioned in passing.
             <span class="tag moderate">Moderate</span> — clearly present and sustained.
             <span class="tag severe">Severe</span> — graphic, sustained, or central to the episode.
             <span class="tag none">None</span> — no significant content beyond baseline.
         </p>
 
-        <!-- ── TAG FILTER PANEL (collapsible, dynamic, with AND/OR and collapsible unselected tags) ── -->
         <div class="tag-filter-panel" id="tagFilterPanel">
             <div class="filter-guide">
                 <strong>🔍 Tag filter guide:</strong> This panel collects every unique tag from the episode warnings below.
                 Use the search box to narrow down tags by text. Click any tag to filter the episode list.
-                Choose <strong>AND</strong> to show only episodes that contain <em>all</em> selected tags, or
-                <strong>OR</strong> to show episodes that contain <em>any</em> of the selected tags.
+                Choose <strong>AND</strong> to show only episodes that contain <em>all</em> selected tags,
+                <strong>OR</strong> to show episodes that contain <em>any</em> of the selected tags, or
+                <strong>NOT</strong> to hide any episodes that contain any of the selected tags.
                 Selected tags are highlighted in green and shown at the top of the panel.
                 Click a selected tag again (or use ✕ on the pill) to remove it.
                 The full list of unselected tags is tucked away in the collapsible section below — expand it
@@ -184,20 +183,18 @@
             <div class="tag-filter-body" id="tagFilterBody">
                 <input type="text" class="tag-search-input" id="tagSearchInput" placeholder="Type to search tags…" autocomplete="off">
 
-                <!-- AND / OR toggle -->
                 <div class="match-mode-toggle" id="matchModeToggle">
                     <span class="toggle-label">Match mode:</span>
                     <div class="toggle-btn-group" role="group" aria-label="Match mode">
                         <button class="toggle-btn active" id="modeAndBtn" type="button" data-mode="AND">AND</button>
                         <button class="toggle-btn" id="modeOrBtn" type="button" data-mode="OR">OR</button>
+                        <button class="toggle-btn" id="modeNotBtn" type="button" data-mode="NOT">NOT</button>
                     </div>
                     <span class="toggle-hint" id="modeHint">Episodes must contain all selected tags</span>
                 </div>
 
-                <!-- Selected filter pills -->
                 <div class="selected-filters-bar" id="selectedFiltersBar"></div>
 
-                <!-- Unselected tags (collapsible, closed by default) -->
                 <div class="unselected-tags-wrapper collapsed" id="unselectedTagsWrapper">
                     <div class="unselected-tags-header" id="unselectedTagsHeader">
                         <span class="unselected-chevron">▼</span>
@@ -212,7 +209,6 @@
             </div>
         </div>
 
-        <!-- ── VOLUMES & EPISODES (original content) ── -->
 <!-- ============================================================= -->
 <!-- VOLUME - CODEX                                                -->
 <!-- ============================================================= -->
@@ -222,11 +218,11 @@
     <div class="episode-warning">
         <div class="ep-name">A World Half Full</div>
         <div class="ep-tags">
-            <span class="tag mild">Strong language (explicitly flagged)</span>
-            <span class="tag mild">Discussion of war and historical atrocities (no depiction)</span>
-            <span class="tag mild">Discussion of fascism and imperialism</span>
-            <span class="tag mild">Discussion of genocide and ethnic cleansing (referenced, not depicted)</span>
-            <span class="tag mild">Discussion of nuclear weapons (referenced, not depicted)</span>
+            <span class="tag mild">Strong language</span>
+            <span class="tag mild">War and mass violence</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Genocide and ethnic cleansing</span>
+            <span class="tag mild">Nuclear weapons</span>
         </div>
     </div>
 </div>
@@ -240,518 +236,518 @@
     <div class="episode-warning">
         <div class="ep-name">Beginnings</div>
         <div class="ep-tags">
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Graphic injury (depicted)</span>
-            <span class="tag severe">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Assault and physical violence (depicted)</span>
-            <span class="tag moderate">Animal captivity and experimentation (depicted)</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Kidnapping and captivity</span>
+            <span class="tag moderate">Assault and physical violence</span>
+            <span class="tag moderate">Animal cruelty</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Homophobic and misogynistic slurs (depicted)</span>
-            <span class="tag mild">Harassment and sexual intimidation (depicted)</span>
-            <span class="tag mild">Discussion of gang violence and organised crime</span>
-            <span class="tag mild">Discussion of ethnic cleansing (referenced, news broadcast)</span>
+            <span class="tag mild">Homophobia and homophobic slurs</span>
+            <span class="tag mild">Harassment and sexual intimidation</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Genocide and ethnic cleansing</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Reanimation</div>
         <div class="ep-tags">
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag severe">Graphic violence and dismemberment (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag moderate">Cannibalism (depicted)</span>
-            <span class="tag moderate">Suicidal ideation (depicted)</span>
-            <span class="tag moderate">Dissociation and loss of control (depicted)</span>
-            <span class="tag moderate">Graphic injury and burns (depicted)</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag moderate">Cannibalism</span>
+            <span class="tag moderate">Suicidal ideation</span>
+            <span class="tag moderate">Dissociation</span>
+            <span class="tag moderate">Fire and burns</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Neo-Nazi imagery and hate-group references (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of child abuse and foster care (referenced)</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Child abuse</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Oh, the Inhumanity</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Animal predation and butchery (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Suicidal ideation and self-loathing</span>
-            <span class="tag moderate">Assault and physical violence (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Animal cruelty</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag moderate">Suicidal ideation</span>
+            <span class="tag moderate">Assault and physical violence</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Stalking and pursuit (depicted)</span>
-            <span class="tag mild">Discussion of gang violence and organised crime</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Stalking</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Breaking Point</div>
         <div class="ep-tags">
-            <span class="tag severe">Suicidal ideation and attempted suicide (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of self-harm (depicted)</span>
-            <span class="tag moderate">Domestic abuse and family trauma (discussed)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Suicidal ideation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">Self-harm</span>
+            <span class="tag moderate">Domestic abuse</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Addiction and drug distribution (depicted)</span>
-            <span class="tag mild">Police brutality and abuse of power (referenced)</span>
-            <span class="tag mild">Religious trauma and crisis of faith (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Addiction</span>
+            <span class="tag mild">Police brutality</span>
+            <span class="tag mild">Religion and religious trauma</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">In Sheep's Clothing</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Animal captivity and experimentation (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag moderate">Discussion of torture and medical experimentation (referenced)</span>
-            <span class="tag moderate">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Animal cruelty</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag moderate">Torture and medical experimentation</span>
+            <span class="tag moderate">Extreme mental distress</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of child death and bereavement (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of gang violence and organised crime</span>
-            <span class="tag mild">Discussion of human trafficking and drug distribution (referenced)</span>
+            <span class="tag moderate">Child death and endangerment</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Human trafficking</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Packmates</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and forced drug administration (depicted)</span>
-            <span class="tag severe">Fire and burn injuries (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Discussion of torture and animal experimentation (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and forced drug administration</span>
+            <span class="tag severe">Fire and burns</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Torture and medical experimentation</span>
+            <span class="tag moderate">Body horror and transformation</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag mild">Discussion of child abuse and foster care (referenced)</span>
-            <span class="tag mild">Discussion of animal cruelty (referenced)</span>
-            <span class="tag mild">Discussion of gang violence and organised crime</span>
-            <span class="tag mild">Drug use and overdose (depicted)</span>
-            <span class="tag mild">Religious content and confession (depicted)</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Animal cruelty</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Drug use</span>
+            <span class="tag mild">Religion and religious trauma</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Monsters</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and forced mutation (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Abuse of people with disabilities or deformities (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Depiction of abusive childhood and bullying (depicted)</span>
-            <span class="tag moderate">Implied sexual abuse and grooming (referenced)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and forced mutation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Ableism</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Child abuse</span>
+            <span class="tag moderate">Sexual abuse and assault</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Suicidal ideation and attempted self-sacrifice (depicted)</span>
-            <span class="tag mild">Police violence and abuse of power (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Self-sacrifice</span>
+            <span class="tag mild">Police brutality</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Sandstorm</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Assassination and political violence (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Assassination and political violence</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of self-harm (depicted)</span>
-            <span class="tag moderate">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag mild">Discussion of war, colonialism, and ethnic cleansing (referenced)</span>
-            <span class="tag mild">Discussion of apartheid and state violence (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Religious content and prayer (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Self-harm</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag mild">War and mass violence</span>
+            <span class="tag mild">State violence</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Religion and religious trauma</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">He's a Devil, He's a Hero</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Cannibalism (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Nightmares and traumatic flashbacks (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Cannibalism</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Racial abuse and slurs (depicted)</span>
-            <span class="tag moderate">Depiction of death and bereavement (depicted)</span>
-            <span class="tag mild">Discussion of neo-Nazi ideology (referenced)</span>
-            <span class="tag mild">Discussion of self-harm and suicidal thoughts (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Religious content and funeral rites (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Racism and racial slurs</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Suicidal ideation</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Religion and religious trauma</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Pigs to the Slaughter</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and mutilation (depicted)</span>
-            <span class="tag severe">Serial murder (depicted)</span>
-            <span class="tag severe">Cannibalism (depicted)</span>
-            <span class="tag severe">Animal cruelty (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and mutilation</span>
+            <span class="tag severe">Serial murder</span>
+            <span class="tag severe">Cannibalism</span>
+            <span class="tag severe">Animal cruelty</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Religious trauma and crisis of faith (depicted)</span>
-            <span class="tag moderate">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag mild">Racial abuse and slurs (referenced)</span>
-            <span class="tag mild">Discussion of homelessness and social inequality (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of abuse of people with disabilities (referenced)</span>
+            <span class="tag moderate">Religion and religious trauma</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag mild">Racism and racial slurs</span>
+            <span class="tag mild">Homelessness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Ableism</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Crusades, Unending</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Torture and medical experimentation (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Assault and physical violence (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Torture and medical experimentation</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Assault and physical violence</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of child abuse and family trauma (referenced)</span>
-            <span class="tag moderate">Discussion of war and sectarian violence (referenced)</span>
-            <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag mild">Racial and homophobic slurs (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Child abuse</span>
+            <span class="tag moderate">War and mass violence</span>
+            <span class="tag moderate">Alcohol use</span>
+            <span class="tag mild">Emotional abuse</span>
+            <span class="tag mild">Racism and racial slurs</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Under the Dragon's Hill</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag severe">Organ harvesting and forced mutation (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Torture and forced mutation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of human trafficking and migrant exploitation (referenced)</span>
-            <span class="tag moderate">Depiction of vulnerable people in captivity (depicted)</span>
-            <span class="tag mild">Discussion of child sexual abuse (implied, referenced)</span>
-            <span class="tag mild">Police violence and abuse of power (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of homelessness and social inequality (referenced)</span>
+            <span class="tag moderate">Human trafficking</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Police brutality</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Homelessness</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Failure</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Hate crime and racial violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Assault and physical violence (depicted)</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag moderate">Police brutality and abuse of power (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Racism and racial slurs</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Assault and physical violence</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Police brutality</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Religious trauma and crisis of faith (depicted)</span>
-            <span class="tag moderate">Death and bereavement (depicted)</span>
-            <span class="tag moderate">Depiction of grief and loss (depicted)</span>
-            <span class="tag moderate">Discussion of domestic abuse and family trauma (referenced)</span>
-            <span class="tag mild">Homophobic slurs (depicted)</span>
-            <span class="tag mild">Discussion of domestic abuse and sexual assault (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Religion and religious trauma</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Domestic abuse</span>
+            <span class="tag mild">Homophobia and homophobic slurs</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Helping Hands</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence and dismemberment (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of self-harm and amputation (depicted)</span>
-            <span class="tag severe">Torture and medical experimentation (referenced)</span>
-            <span class="tag severe">Discussion of child abuse and sexual abuse (referenced)</span>
-            <span class="tag moderate">Depiction of grief and trauma (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Self-harm</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Child abuse</span>
+            <span class="tag severe">Sexual abuse and assault</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of war, colonialism, and PTSD (referenced)</span>
-            <span class="tag moderate">Animal cruelty and death (depicted)</span>
-            <span class="tag mild">Discussion of foster care and abuse (referenced)</span>
-            <span class="tag mild">Discussion of suicide and self-sacrifice (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">War and mass violence</span>
+            <span class="tag moderate">Animal cruelty</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Suicide</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Blood-Soaked Saviour</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Human trafficking and child sexual exploitation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Chemical weapons and gassing (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Human trafficking</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Chemical and sonic weapons</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag moderate">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag moderate">Discussion of fascism and capitalist conspiracy (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Fascism and the far right</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Weak Points</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag moderate">Police brutality and abuse of power (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Police brutality</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Chemical weapons and gassing (depicted)</span>
-            <span class="tag mild">Discussion of fascism and corporate conspiracy (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Chemical and sonic weapons</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Whiplash</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and medical experimentation (referenced)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of sensory deprivation and psychological conditioning (depicted)</span>
-            <span class="tag moderate">Assault and physical violence (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Sensory deprivation</span>
+            <span class="tag moderate">Assault and physical violence</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag mild">Discussion of child abuse and exploitation (referenced)</span>
-            <span class="tag mild">Discussion of fascism and corporate conspiracy (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Law and Disorder</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and captivity (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag moderate">Police corruption and abuse of power (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and captivity</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Police brutality</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of grief and loss (depicted)</span>
-            <span class="tag moderate">Chemical and sonic weapons (depicted)</span>
-            <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag mild">Discussion of maternal death (referenced)</span>
-            <span class="tag mild">Discussion of far-right politics (depicted)</span>
-            <span class="tag mild">Discussion of homeless and trans youth (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag moderate">Chemical and sonic weapons</span>
+            <span class="tag moderate">Alcohol use</span>
+            <span class="tag mild">Emotional abuse</span>
+            <span class="tag mild">Maternal death</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Homelessness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Snakebite</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Animal captivity and experimentation (depicted)</span>
-            <span class="tag severe">Domestic abuse and gendered violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Torture and psychic violation (depicted)</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag moderate">Police brutality and abuse of power (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Animal cruelty</span>
+            <span class="tag severe">Domestic abuse</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Torture and psychic violation</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Police brutality</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Chemical weapons and forced medical treatment (depicted)</span>
-            <span class="tag moderate">Discussion of extreme pain and physical helplessness (depicted)</span>
-            <span class="tag mild">Discussion of domestic abuse (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Chemical and sonic weapons</span>
+            <span class="tag moderate">Extreme pain</span>
+            <span class="tag mild">Domestic abuse</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">The Belson Strangler</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Serial murder and strangulation (depicted)</span>
-            <span class="tag severe">Gendered violence and misogyny (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of domestic abuse and partner violence (depicted)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag moderate">Police corruption and abuse of power (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Serial murder</span>
+            <span class="tag severe">Misogyny</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Domestic abuse</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Police brutality</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of sex work and exploitation (depicted)</span>
-            <span class="tag moderate">Depiction of grief and trauma (depicted)</span>
-            <span class="tag mild">Discussion of drug addiction and overdose (referenced)</span>
-            <span class="tag mild">Discussion of mental illness and psychosis (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Sex work</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag mild">Addiction</span>
+            <span class="tag mild">Mental illness and psychosis</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Inferno</div>
         <div class="ep-tags">
-            <span class="tag severe">Fire and burn injuries (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Suicidal ideation (depicted)</span>
-            <span class="tag moderate">Depiction of child neglect and endangerment (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Fire and burns</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Suicidal ideation</span>
+            <span class="tag moderate">Child death and endangerment</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
-            <span class="tag moderate">Discussion of domestic abuse and child support (referenced)</span>
-            <span class="tag moderate">Discussion of past domestic abuse (referenced)</span>
-            <span class="tag mild">Religious content and Bible reading (depicted)</span>
-            <span class="tag mild">Discussion of childhood trauma and memory (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Alcohol use</span>
+            <span class="tag moderate">Domestic abuse</span>
+            <span class="tag mild">Religion and religious trauma</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Cold Comfort</div>
         <div class="ep-tags">
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Manipulation and emotional abuse (depicted)</span>
-            <span class="tag moderate">Graphic violence (depicted)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Emotional abuse</span>
+            <span class="tag moderate">Graphic violence</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag moderate">Depiction of trauma and grief (depicted)</span>
-            <span class="tag mild">Discussion of past domestic abuse (referenced)</span>
-            <span class="tag mild">Discussion of animal cruelty and muzzling (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag mild">Domestic abuse</span>
+            <span class="tag mild">Animal cruelty</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">A Good Person</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Depiction of bullying and racial abuse (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Bullying</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of trauma and grief (depicted)</span>
-            <span class="tag moderate">Discussion of maternal death (referenced)</span>
-            <span class="tag moderate">Depiction of chemical and electrical torture (depicted)</span>
-            <span class="tag mild">Discussion of past abuse and neglect (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Maternal death</span>
+            <span class="tag moderate">Torture and medical experimentation</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Heartache</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
-            <span class="tag moderate">Depiction of non-consensual human experimentation (referenced)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Non-consensual experimentation</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of trauma and grief (depicted)</span>
-            <span class="tag moderate">Depiction of romantic tension and unspoken feelings (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Relationship conflict</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Families</div>
         <div class="ep-tags">
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Graphic violence (depicted)</span>
-            <span class="tag moderate">Depiction of emotional abuse and neglect (depicted)</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Graphic violence</span>
+            <span class="tag moderate">Emotional abuse</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of family conflict and parental estrangement (depicted)</span>
-            <span class="tag moderate">Discussion of chronic illness and disability (depicted)</span>
-            <span class="tag moderate">Discussion of terminal illness and dementia (referenced)</span>
-            <span class="tag moderate">Discussion of past trauma and injury (referenced)</span>
-            <span class="tag mild">Discussion of police violence and detention without trial (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Family conflict</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag moderate">Terminal illness</span>
+            <span class="tag moderate">Past trauma</span>
+            <span class="tag mild">Political repression</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Year's End</div>
         <div class="ep-tags">
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Suicidal ideation and attempted suicide (depicted)</span>
-            <span class="tag severe">Depiction of emotional abuse and family conflict (depicted)</span>
-            <span class="tag severe">Grief and bereavement (depicted)</span>
-            <span class="tag moderate">Depiction of past trauma and loss (referenced)</span>
-            <span class="tag moderate">Discussion of chronic illness and disability (depicted)</span>
-            <span class="tag moderate">Discussion of maternal death and familial blame (depicted)</span>
-            <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Suicidal ideation</span>
+            <span class="tag severe">Emotional abuse</span>
+            <span class="tag severe">Grief and bereavement</span>
+            <span class="tag moderate">Past trauma</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag moderate">Maternal death</span>
+            <span class="tag moderate">Alcohol use</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Discussion of war and conflict (referenced)</span>
-            <span class="tag mild">Discussion of fascism and conspiracy (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag mild">War and mass violence</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 </div>
@@ -765,19 +761,19 @@
     <div class="episode-warning">
         <div class="ep-name">The King's Gambit</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Human trafficking and child exploitation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Human trafficking</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Discussion of war and political violence (referenced)</span>
-            <span class="tag moderate">Discussion of genocide and ethnic cleansing (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">War and mass violence</span>
+            <span class="tag moderate">Genocide and ethnic cleansing</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
@@ -791,353 +787,353 @@
     <div class="episode-warning">
         <div class="ep-name">Purging</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Child abuse and paedophilia (depicted)</span>
-            <span class="tag severe">Human trafficking and child sexual exploitation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Police brutality and abuse of power (depicted)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of child death and endangerment (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Child abuse</span>
+            <span class="tag severe">Human trafficking</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Police brutality</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Child death and endangerment</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Discussion of war, colonialism, and sectarian violence (referenced)</span>
-            <span class="tag moderate">Depiction of political repression and detention without trial (depicted)</span>
-            <span class="tag mild">Discussion of sexual abuse and exploitation (referenced)</span>
-            <span class="tag mild">Discussion of addiction and drug distribution (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">War and mass violence</span>
+            <span class="tag moderate">Political repression</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Addiction</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Tyrants</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Police brutality and abuse of power (depicted)</span>
-            <span class="tag severe">Depiction of political repression and detention without trial (depicted)</span>
-            <span class="tag severe">Depiction of prison violence and self-harm (depicted)</span>
-            <span class="tag moderate">Depiction of child abuse and murder (referenced)</span>
-            <span class="tag moderate">Depiction of human trafficking and child exploitation (referenced)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Police brutality</span>
+            <span class="tag severe">Political repression</span>
+            <span class="tag severe">Prison violence</span>
+            <span class="tag moderate">Child abuse</span>
+            <span class="tag moderate">Human trafficking</span>
+            <span class="tag moderate">Gun violence</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of transphobia and misgendering (depicted)</span>
-            <span class="tag moderate">Discussion of organised crime and gang violence</span>
-            <span class="tag moderate">Discussion of political corruption and fascism (referenced)</span>
-            <span class="tag mild">Discussion of sectarian violence and colonialism (referenced)</span>
-            <span class="tag mild">Discussion of addiction and substance use (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Transphobia</span>
+            <span class="tag moderate">Organised crime and gang violence</span>
+            <span class="tag moderate">Fascism and the far right</span>
+            <span class="tag mild">War and mass violence</span>
+            <span class="tag mild">Addiction</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Rebels</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture (depicted)</span>
-            <span class="tag severe">Police brutality and abuse of power (depicted)</span>
-            <span class="tag severe">Human trafficking and child sexual exploitation (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture</span>
+            <span class="tag severe">Police brutality</span>
+            <span class="tag severe">Human trafficking</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of transphobia and misgendering (referenced)</span>
-            <span class="tag moderate">Discussion of fascism and political corruption (referenced)</span>
-            <span class="tag moderate">Depiction of prison violence and captivity (depicted)</span>
-            <span class="tag mild">Discussion of war and historical atrocities (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Transphobia</span>
+            <span class="tag moderate">Fascism and the far right</span>
+            <span class="tag moderate">Prison violence</span>
+            <span class="tag mild">War and mass violence</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Hurt</div>
         <div class="ep-tags">
-            <span class="tag severe">Suicidal ideation and attempted suicide (depicted)</span>
-            <span class="tag severe">Depiction of domestic abuse and gaslighting (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Sexual assault and rape (referenced)</span>
-            <span class="tag severe">Implied sexual assault and captivity (depicted)</span>
-            <span class="tag moderate">Graphic violence (depicted)</span>
-            <span class="tag moderate">Depiction of pregnancy loss and abortion (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Suicidal ideation</span>
+            <span class="tag severe">Domestic abuse</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Sexual abuse and assault</span>
+            <span class="tag severe">Sexual abuse and assault</span>
+            <span class="tag moderate">Graphic violence</span>
+            <span class="tag moderate">Pregnancy loss</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Kidnapping and captivity (depicted)</span>
-            <span class="tag moderate">Depiction of emotional abuse and manipulation (depicted)</span>
-            <span class="tag mild">Discussion of past trauma and abuse (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Kidnapping and captivity</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Fragile Hearts</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of trauma and recovery (depicted)</span>
-            <span class="tag moderate">Depiction of domestic abuse recovery (referenced)</span>
-            <span class="tag moderate">Alcohol use and intoxication (depicted)</span>
-            <span class="tag moderate">Discussion of political repression and the Troubles (referenced)</span>
-            <span class="tag mild">Discussion of sexual assault and past abuse (referenced)</span>
-            <span class="tag mild">Discussion of chronic illness and disability (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Trauma and grief</span>
+            <span class="tag moderate">Domestic abuse</span>
+            <span class="tag moderate">Alcohol use</span>
+            <span class="tag moderate">Political repression</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">A Pack of Heroes</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag severe">Depiction of sexual assault and trauma (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Sexual abuse and assault</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of pregnancy and reproductive choice (referenced)</span>
-            <span class="tag moderate">Depiction of brainwashing and loss of control (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Pregnancy and reproductive choice</span>
+            <span class="tag moderate">Brainwashing</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Odin's Eye</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag severe">Depiction of war and mass casualties (depicted)</span>
-            <span class="tag severe">Depiction of brainwashing and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">War and mass violence</span>
+            <span class="tag severe">Brainwashing</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of racism and slavery (referenced)</span>
-            <span class="tag moderate">Depiction of pregnancy loss and stillbirth (referenced)</span>
-            <span class="tag mild">Discussion of chemical weapons and sonic weapons (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Racism and racial slurs</span>
+            <span class="tag moderate">Pregnancy loss</span>
+            <span class="tag mild">Chemical and sonic weapons</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Fire and Pain</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of child death and bereavement (depicted)</span>
-            <span class="tag severe">Fire and burn injuries (depicted)</span>
-            <span class="tag severe">Depiction of war and sectarian violence (depicted)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Depiction of homelessness and poverty (depicted)</span>
-            <span class="tag moderate">Depiction of relationship trauma and infidelity (referenced)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Child death and endangerment</span>
+            <span class="tag severe">Fire and burns</span>
+            <span class="tag severe">War and mass violence</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Homelessness</span>
+            <span class="tag moderate">Relationship conflict</span>
+            <span class="tag moderate">Body horror and transformation</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of pregnancy loss and stillbirth (referenced)</span>
-            <span class="tag moderate">Depiction of animal experimentation (referenced)</span>
-            <span class="tag mild">Discussion of mental illness and psychosis (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Pregnancy loss</span>
+            <span class="tag moderate">Animal cruelty</span>
+            <span class="tag mild">Mental illness and psychosis</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Warzones</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of war and mass casualties (depicted)</span>
-            <span class="tag severe">Depiction of genocide and ethnic cleansing (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag severe">Cannibalism (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">War and mass violence</span>
+            <span class="tag severe">Genocide and ethnic cleansing</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag severe">Cannibalism</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
-            <span class="tag moderate">Depiction of terminal illness and dementia (referenced)</span>
-            <span class="tag mild">Discussion of relationship trauma and infidelity (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Discussion of pregnancy loss and the Drackhill Outbreak (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag moderate">Terminal illness</span>
+            <span class="tag mild">Relationship conflict</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Pregnancy loss</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Getting Closer</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Kidnapping and captivity</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of cloning and genetic experimentation (depicted)</span>
-            <span class="tag moderate">Discussion of disability and chronic illness (referenced)</span>
-            <span class="tag mild">Discussion of transphobia and identity (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Genetic experimentation</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag mild">Transphobia</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Gunshots</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of self-harm (depicted)</span>
-            <span class="tag severe">Kidnapping and hostage-taking (depicted)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Self-harm</span>
+            <span class="tag severe">Kidnapping and captivity</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of relationship conflict and betrayal (depicted)</span>
-            <span class="tag moderate">Depiction of medical treatment and blood transfusion (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Discussion of fascism and corporate conspiracy (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Relationship conflict</span>
+            <span class="tag moderate">Medical treatment</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Fascism and the far right</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Truth &amp; Reconciliation</div>
         <div class="ep-tags">
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of domestic abuse and family conflict (depicted)</span>
-            <span class="tag moderate">Graphic violence (depicted)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of self-harm (referenced)</span>
-            <span class="tag moderate">Depiction of suicide attempt (referenced)</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Domestic abuse</span>
+            <span class="tag moderate">Graphic violence</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Self-harm</span>
+            <span class="tag moderate">Suicide</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of medical treatment and experimentation (referenced)</span>
-            <span class="tag mild">Discussion of past trauma and bereavement (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Medical treatment</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Judgement Day</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of torture and mutilation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and mutilation</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of transphobia and identity (referenced)</span>
-            <span class="tag moderate">Depiction of animal experimentation (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Transphobia</span>
+            <span class="tag moderate">Animal cruelty</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Broken Hearts and Bones</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Graphic depiction of maternal death and bereavement (depicted)</span>
-            <span class="tag severe">Depiction of medical trauma and body horror (depicted)</span>
-            <span class="tag severe">Depiction of torture and mutilation (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag moderate">Depiction of self-sacrifice and near-death experience (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of the Rage and loss of control (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Maternal death</span>
+            <span class="tag severe">Medical trauma</span>
+            <span class="tag severe">Torture and mutilation</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag moderate">Self-sacrifice</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">The Rage and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of sexual assault and past trauma (referenced)</span>
-            <span class="tag moderate">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of pregnancy loss and childbirth (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Sexual abuse and assault</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag mild">Pregnancy loss</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Thicker than Water</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of sectarian violence and hate crime (depicted)</span>
-            <span class="tag severe">Depiction of past trauma and bereavement (referenced)</span>
-            <span class="tag moderate">Gun violence (depicted)</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Sectarian violence</span>
+            <span class="tag severe">Past trauma</span>
+            <span class="tag moderate">Gun violence</span>
+            <span class="tag moderate">Emotional abuse</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of terminal illness and injury (referenced)</span>
-            <span class="tag moderate">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag moderate">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Terminal illness</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag moderate">Organised crime and gang violence</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Snowfall</div>
         <div class="ep-tags">
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of sexual trauma and recovery (depicted)</span>
-            <span class="tag severe">Depiction of domestic abuse and stalking (depicted)</span>
-            <span class="tag severe">Depiction of torture and mutilation (depicted)</span>
-            <span class="tag moderate">Graphic violence (depicted)</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Sexual abuse and assault</span>
+            <span class="tag severe">Domestic abuse</span>
+            <span class="tag severe">Torture and mutilation</span>
+            <span class="tag moderate">Graphic violence</span>
+            <span class="tag moderate">Emotional abuse</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Discussion of terminal illness and dementia (depicted)</span>
-            <span class="tag moderate">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of sectarian violence and past trauma (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Blood and gore (depicted)</span>
+            <span class="tag moderate">Terminal illness</span>
+            <span class="tag moderate">Disability and chronic illness</span>
+            <span class="tag mild">Sectarian violence</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Blood and gore</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">The Battle of Belson</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Child death (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Grief and bereavement (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Depiction of torture and medical experimentation (depicted, brief flashback)</span>
-            <span class="tag moderate">Cannibalism-adjacent gore (depicted)</span>
-            <span class="tag moderate">Mass casualties and civilian death (depicted)</span>
-            <span class="tag moderate">Depiction of child abuse (depicted, brief flashback)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Child death and endangerment</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Grief and bereavement</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Torture and medical experimentation</span>
+            <span class="tag moderate">Cannibalism</span>
+            <span class="tag moderate">Mass casualties</span>
+            <span class="tag moderate">Child abuse</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Discussion of child abuse and molestation (referenced)</span>
-            <span class="tag mild">Discussion of domestic violence (referenced)</span>
-            <span class="tag mild">Discussion of sexual assault (referenced)</span>
-            <span class="tag mild">Discussion of human trafficking and child exploitation (referenced)</span>
-            <span class="tag mild">Discussion of suicide and self-sacrifice (referenced)</span>
-            <span class="tag mild">Drug use and forced serum administration (referenced)</span>
-            <span class="tag mild">Homophobic and transphobic language (depicted)</span>
-            <span class="tag mild">Depiction of brainwashing and loss of control (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Domestic abuse</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Human trafficking</span>
+            <span class="tag mild">Suicide</span>
+            <span class="tag mild">Drug use</span>
+            <span class="tag mild">Homophobia and homophobic slurs</span>
+            <span class="tag mild">Brainwashing</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 </div>
@@ -1151,106 +1147,106 @@
     <div class="episode-warning">
         <div class="ep-name">Awakening</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag severe">Torture and medical experimentation (depicted)</span>
-            <span class="tag moderate">Child death and bereavement (discussed, depicted in flashback)</span>
-            <span class="tag moderate">Cannibalism-adjacent gore (depicted)</span>
-            <span class="tag moderate">Mass casualties and civilian death (referenced)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag moderate">Child death and endangerment</span>
+            <span class="tag moderate">Cannibalism</span>
+            <span class="tag moderate">Mass casualties</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag mild">Discussion of suicide and self-sacrifice (referenced)</span>
-            <span class="tag mild">Discussion of child abuse and molestation (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of sexual assault (referenced)</span>
-            <span class="tag mild">Discussion of domestic violence (referenced)</span>
-            <span class="tag mild">Drug use and forced serum administration (referenced)</span>
-            <span class="tag mild">Depiction of brainwashing and loss of control (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
+            <span class="tag mild">Suicide</span>
+            <span class="tag mild">Child abuse</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Domestic abuse</span>
+            <span class="tag mild">Drug use</span>
+            <span class="tag mild">Brainwashing</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Organised crime and gang violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Heartfelt</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (depicted, implied)</span>
-            <span class="tag moderate">Mass casualties and civilian death (referenced)</span>
-            <span class="tag moderate">Depiction of child abuse (referenced)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of grief and loss (depicted)</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag moderate">Mass casualties</span>
+            <span class="tag moderate">Child abuse</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag moderate">Emotional abuse</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Sexual content (implied, non-explicit)</span>
-            <span class="tag moderate">Depiction of transphobia and misgendering (depicted)</span>
-            <span class="tag mild">Discussion of pregnancy loss and childbirth (referenced)</span>
-            <span class="tag mild">Discussion of child death and bereavement (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of past trauma and abuse (referenced)</span>
-            <span class="tag mild">Discussion of sexual assault (referenced)</span>
-            <span class="tag mild">Drug use and forced serum administration (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (depicted)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Depiction of brainwashing and loss of control (referenced)</span>
-            <span class="tag mild">Depiction of war and political violence (referenced)</span>
+            <span class="tag moderate">Sexual content</span>
+            <span class="tag moderate">Transphobia</span>
+            <span class="tag mild">Pregnancy loss</span>
+            <span class="tag mild">Child death and endangerment</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Sexual abuse and assault</span>
+            <span class="tag mild">Drug use</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Brainwashing</span>
+            <span class="tag mild">War and mass violence</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">The Last Judgement</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Gun violence (depicted)</span>
-            <span class="tag severe">Body horror and transformation (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (depicted, flashback)</span>
-            <span class="tag severe">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Depiction of child abuse (referenced)</span>
-            <span class="tag moderate">Depiction of war and mass casualties (depicted)</span>
-            <span class="tag moderate">Depiction of grief and bereavement (depicted)</span>
-            <span class="tag moderate">Torture and mutilation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Gun violence</span>
+            <span class="tag severe">Body horror and transformation</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag severe">The Rage and loss of control</span>
+            <span class="tag moderate">Child abuse</span>
+            <span class="tag moderate">War and mass violence</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag moderate">Torture and mutilation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
-            <span class="tag moderate">Drug use and forced serum administration (referenced)</span>
-            <span class="tag mild">Discussion of pregnancy loss and childbirth (referenced)</span>
-            <span class="tag mild">Discussion of child death and bereavement (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of past trauma and abuse (referenced)</span>
-            <span class="tag mild">Discussion of suicide and self-sacrifice (referenced)</span>
-            <span class="tag mild">Alcohol use and intoxication (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Depiction of brainwashing and loss of control (referenced)</span>
-            <span class="tag mild">Depiction of religious trauma and crisis of faith (depicted)</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag moderate">Drug use</span>
+            <span class="tag mild">Pregnancy loss</span>
+            <span class="tag mild">Child death and endangerment</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Suicide</span>
+            <span class="tag mild">Alcohol use</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Brainwashing</span>
+            <span class="tag mild">Religion and religious trauma</span>
         </div>
     </div>
 
     <div class="episode-warning">
         <div class="ep-name">Bird of Prey</div>
         <div class="ep-tags">
-            <span class="tag severe">Graphic violence (depicted)</span>
-            <span class="tag severe">Depiction of extreme mental distress</span>
-            <span class="tag severe">Torture and medical experimentation (depicted, implied)</span>
-            <span class="tag moderate">Depiction of the Rage and loss of control (depicted)</span>
-            <span class="tag moderate">Body horror and transformation (depicted)</span>
-            <span class="tag moderate">Depiction of sadistic urges and loss of control (depicted)</span>
+            <span class="tag severe">Graphic violence</span>
+            <span class="tag severe">Extreme mental distress</span>
+            <span class="tag severe">Torture and medical experimentation</span>
+            <span class="tag moderate">The Rage and loss of control</span>
+            <span class="tag moderate">Body horror and transformation</span>
+            <span class="tag moderate">Sadistic urges and loss of control</span>
             <span class="tag moderate">Strong language</span>
-            <span class="tag moderate">Depiction of emotional abuse and family conflict (depicted)</span>
-            <span class="tag moderate">Depiction of grief and bereavement (referenced)</span>
-            <span class="tag mild">Discussion of child death and bereavement (referenced)</span>
-            <span class="tag mild">Discussion of disability and chronic illness (depicted)</span>
-            <span class="tag mild">Discussion of past trauma and abuse (referenced)</span>
-            <span class="tag mild">Discussion of suicide and self-sacrifice (referenced)</span>
-            <span class="tag mild">Discussion of organised crime and gang violence</span>
-            <span class="tag mild">Depiction of brainwashing and loss of control (referenced)</span>
-            <span class="tag mild">Depiction of religious trauma and crisis of faith (referenced)</span>
+            <span class="tag moderate">Emotional abuse</span>
+            <span class="tag moderate">Grief and bereavement</span>
+            <span class="tag mild">Child death and endangerment</span>
+            <span class="tag mild">Disability and chronic illness</span>
+            <span class="tag mild">Past trauma</span>
+            <span class="tag mild">Suicide</span>
+            <span class="tag mild">Organised crime and gang violence</span>
+            <span class="tag mild">Brainwashing</span>
+            <span class="tag mild">Religion and religious trauma</span>
         </div>
     </div>
 
@@ -1262,7 +1258,6 @@
     </div>
 </div>
 
-        <!-- ── CONTACT FORM ── -->
         <div class="contact-section">
             <h2>Suggest a Change to This Page</h2>
             <p class="contact-intro">
@@ -1350,10 +1345,6 @@
         </div>
     </div>
 
-    
-
-    <!-- ── TAG FILTER SCRIPT (dynamic, AND/OR, collapsible unselected tags) ── -->
-    
     <script src="scripts/contentwarning.js"></script>
 </body>
 </html>

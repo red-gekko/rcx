@@ -13541,7 +13541,7 @@ VOLUME - Wolves Among Sheep
 			The officer blinked. "Sir?"
 			"You heard me. No social services."
 			"With respect, sir, we can't have a baby out on the street--"
-			"He won't be on the street." Naismith turned to Nina. "I want you to take the girls to Drackhill Royal. Put them under protective custody."
+			"He won't be on the street." Naismith turned to Nina. "I want you to take the girls to the hospital. Put them under protective custody."
 			"Sir, protective custody requires--"
 			"I know what it requires. I'll sign off on it personally. They're material witnesses to a murder attempt and potential targets for the real Strangler. That's justification enough."
 			Nina nodded proudly. "Sir, yes, sir."
@@ -16465,7 +16465,9 @@ VOLUME - Wolves Among Sheep
 			"Jesus fucking Christ." Naismith spun round. "You need to stop doing that."
 			Nina caught her breath, and rolled her eyes at their intruder.
 			"You know, I hate that I'm getting used to this."
-			"Sorry." Connor grinned under his mask. "Heard about the shooting. It wasn't me."
+			"Sorry." Connor grinned under his mask.
+			"You came here to show off the new look, or just to fuck with us?" Naismith chuckled.
+			"Ooh, banter. Careful, Detective - I almost think you don't entirely hate me." Connor snarked. "Heard about the shooting. Wasn't me."
 			"I know it wasn't you." Naismith nodded. "She called herself She-Wolf. Left the kid a note."
 			He pulled it out of his jacket, and held it up.
 			"We were going to send it to forensics. Wanted a look first."

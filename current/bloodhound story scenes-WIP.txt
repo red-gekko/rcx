@@ -10335,7 +10335,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			That evening, Connor pulled up outside Vitalis.
-			Chloe left the block, smiling warmly and carrying her gym bag.
+			Chloe left the block, smiling warmly and carrying her gym bag. She felt the cold air bite, and zipped up the red hoodie Connor had given her.
 			"Hey!" she beamed.
 			"Hey, hey!" Connor waved. "You ready?"
 			"Hell yeah!" she grinned, clearly excited. "Um... so, where are we going?"
@@ -10365,6 +10365,16 @@ VOLUME - Wolves Among Sheep
 			"Oh, my god." Chloe shook her head. "I'm so sorry... Oh god, should I even be working there? What if they want us to... to figure out how to make more of that serum?"
 			Connor gently put his hand on her shoulder. "That's not what you're doing, is it? You're analysing the Werewolf... and hey, you've said before how much you love working on this kind of thing. Don't worry about Paladin... I'm sure it'll all be fine."
 			Chloe smiled softly, rubbing his hand. "Thanks, Connor. That... means a lot."
+			She paused for a moment, before speaking again.
+			"By the way... you didn't have to buy a new hoodie. I can give you this one back, if you like?" she began.
+			He cocked an eyebrow, before realising.
+			"Oh, I--" he stammered, quickly thinking of a lie. "It's fine, honestly. I used to wear this one while yours was in the wash. You can keep it."
+			"Hah, thanks." she blushed slightly. "I was gonna ask... you know how the Hoods get their name from these? Will wearing it make me a target in Belson?"
+			Connor hesitated. "Um... well, to be honest, not as much as it does for me."
+			"What do you mean?"
+			"Well... don't take this the wrong way, but, if the Skulls see a woman wearing one of our hoodies, they'll assume she's dating one of us. They know that starting shit with one of our partners would invite a more fierce retaliation than attacking one of us directly. I know, it's sexist, but, well, they're a neo-fascist skinhead gang. It's to be expected."
+			She nodded softly. "I understand. Well, anyway - hopefully training tonight will make that a non-issue anyway." she grinned.
+			"Oh, by the end of the night, I'll be black and blue." Connor chuckled back.
 
 			They drove into Redbridge, and pull up outside the repair shop.
 			"So, this is where I work." he began. "There's a gym room at the back - it's perfect."
@@ -18071,8 +18081,8 @@ VOLUME - Gods Among Men
 			He looked up, and saw the gliding Werewolf.
 			"Superheroes..." he muttered.
 
-			"Base, this is Vanguard. They're driving recklessly - could be dangerous. *Very* dangerous." Connor muttered over his earpiece. "Shannon, you got that exploit ready?"
-			"On it." she said over the earpiece. The city's traffic lights made a clunking noise as they all shifted to red.
+			"Base, this is Vanguard. They're driving recklessly - could be dangerous. *Very* dangerous." Connor muttered over his earpiece. "You got that exploit ready?"
+			"On it." Shannon said over the earpiece. The city's traffic lights made a clunking noise as they all shifted to red.
 			Connor was sailing through the air, fast - but the truck was moving faster. His hands morphed, and caltrops flew out ahead of the truck.
 			They stabbed into the wheels, but the truck barely slowed.
 			"Damn it!" he snapped. He needed a boost, and quickly.
@@ -18244,6 +18254,10 @@ VOLUME - Gods Among Men
 			"Hey, I needed the cash." Connor quipped, to chuckles.
 
 		Picking up Bea and Chloe
+		______________________________
+		SCENE
+
+		Motel
 		______________________________
 		SCENE
 			Connor sat on a park bench overlooking the river, while Sparky was enjoying a new ball-throwing machine. Ivan approached, and sat next to him.
@@ -18468,7 +18482,7 @@ VOLUME - Gods Among Men
 			"I'm telling the truth, I swear! Wait... what do you mean, 'too?!'"
 			Connor grinned viciously, and released his grip. Jimmy screamed, and a sickening crunch filled the air - followed by louder, deeper screams.
 
-		Motel/Naismith is in/Interrogating Jimmy
+		Naismith is in/Interrogating Jimmy
 
 
 	______________________________

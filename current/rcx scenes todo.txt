@@ -8,16 +8,35 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
-change contentwarning.html so that volumes can be filtered as well (separate from tags). include a spoiler warning in the page. also, add a "NOT" option to the filters, so that readers only see episode names that *dont* have their filters. also, update the contact form with the correct episode list
 
 
-when naismith uploads the fingerprints and DNA deposits, have Connor be there (they're doing this on his police computer) - initially there are no matches on the criminal database, but connor presses him to search for police elimination samples, given the force's corruption. nina hesitantly concurs, saying that the killer has enough forensic knowledge for it to be a possibility. when chapman shows up as the result, naismith confirms he's still got his service weapon, and they head out
 
-consider changing the chapman attack from the Horse to the Vixen
 
-maybe have a copycat vandalise the Vixen and attempt to murder another SW, only for Connor to nearly kill him. However, during the interrogation, connor asks if he killed the other girls too, and the man says yes  - only for connor's lie detector to  ping. he realises this is a copycat, and hands him  over to naismith.
 
-if the Vixen has been vandalised, have the girls there instead be working as pole dancing only, at the Horse; Connor explains his history with Cormack to Chloe and Bea (he explains this when Lexi comes to him and speaks like an  old friend)
+election day;
+	the gang is present
+	charlie chastises them for being Ward supporters; bea stands up for herself but charlie shoots her down, causing amy to snap at him
+	shannon is forced to use her deadname to vote, which makes her feel like shit
+	have Tommy and the Hoods show up too, voting for Ward and nearly fighting some Skulls before the cops threaten them; they leave while the Skulls jeer insults
+	chloe wonders why connor isn't here; then he turns up, and says they need to go, now. chloe points out he hasn't even cast his vote yet, but he says there's gonna be another attack; then, the Super-Agents attack - connor throws himself in front of the gang
+	Sparky and Ivan burst in from the roof, and Connor slips away in the chaos and suits up. the three fight hard, managing to take out the agents. ward is badly hurt, and norris was headshot and is dead. connor pounces onto the podium, and stabilises her with his coagulator
+	CT arrive, and train their guns on connor. multiple civvies jump in front, claiming he saved them, and Naismith arrives, ordering them to stand down lest they risk more collateral damage. the heroes sneak away with smoke bombs, and ward is taken into ICU. Connor morphs back into his civvies, and justifies his injuries as being caught in a crush
+	that night, as connor returns to Riverside, they see the news - the deepfake was released right on cue, but it backfires and proves the Werewolf wasn't behind the other attacks. the vote count declared ward a landslide winner; even if she was already the winner by default  with norris's death. however, Dorsey gives a speech where he announces martial law in the valley, saying "our mayor-elect is in hospital; our halls of democracy destroyed; we must maintain order."
+	privately, the commandant calls off assassinating ward, as she's more useful now as a scapegoat. however, Oxford appears behind him, and expresses disappointment at the sheer volume of damage. however, the outcome was desirable, so he informs the commandant that he will not murder him this time, and leaves - but not before telekinetically snapping the commandant's arm to remind him of who the power player is.
+	naismith calls connor, and informs him that he's stashed Leo in the gasworks - and says to keep him safely there until they can expose Paladin and Gambit for their responsibility in the attacks. Connor has Ivan whisk him away, and notes that the Gambit lab inspection is tomorrow - he tells the team to get some rest, and there will be plenty for them to do soon.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 later, during the crackdown arc, have the cops raid the brothel; if this is in Public Enemy, have connor show up to protect them; otherwise, have them arrive in the Special Holding Unit along with protestors and 'seditionists' - Connor's first mission post-escape is to liberate the SHU, before he goes after DCC
 
@@ -54,15 +73,6 @@ below is the water bottle moment: add that to the kid
 
 
 
-add a few lines talking about the hoodie connor gave chloe;
-	first, she sees him wearing a red hoodie and says "oh, you didn't have to buy a new one! i could've given this one back!"
-	connor says "oh, i--" quickly thinking of an excuse "it's fine, this is my spare. i used to wear this one when yours was in the wash. it's cool, don't worry"
-
-	second, have chloe ask if her red hoodie will make her a target in belson
-	connor says "um... well, to be honest, not as much as it does for me"
-	"what do you mean?"
-	"...don't take this the wrong way, but... well, if the Skulls see a woman wearing one of our hoodies, they'll assume you're dating one of us. they know that starting shit with one of our partners would invite a more fierce retaliation than attacking one of us. i know, it's sexist, but... well, they're a skinhead gang, it's to be expected"
-
 
 
 flesh out connor's day job;
@@ -72,11 +82,8 @@ flesh out connor's day job;
 	when connor is quizzed on his work at chloes bday, he can mention his various enterprises to humble brag - maybe even include some "work on medical devices" (the coagulator); he can add that chloe recommended a better formula
 
 
-when setting up the motel, connor receives an order of bidets to install; when trey questions him, he says that he rushed to the toilet before leaving algeria and couldn't wait to try them again; trey asks "idk... something about hosing down my arsehole feels odd." to which connor says "think of it like this - if you got shit on any part of your body except your arsehole, there's no way in hell you'd consider wiping alone to be sufficient"
 
 
-
-have amy's guitar get ruined in the flat fire; for christmas, connor presents her with a brand new one
 	in one future scene, have amy hanging out with bea round her place; bea shows her piano, and the two arrange a duet
 		this duet sets up their romance fully; so have it happen around bea's becoming Stunlocke
 
@@ -95,9 +102,6 @@ funny moment when amy hangs up the suit
 
 
 
-something to add - oxford has a supercomputer that he uses to social engineer. in one scene before we meet the judge, oxford shows it to them and says "i suppose this would be a child's toy to your people"
-	judge says "our younglings did not posses instruments of recreation; nor would they find computation devices enjoyable. but to your point... it is too subtle. only through faith; inquisition; the relentless extirpation of heresy... only through that can a society be harmonious."
-
 
 
 
@@ -110,16 +114,12 @@ also, while in prison, have Connor approach Dobel. Dobel is panicking, but Conno
 
 
 
-spend a little more time with Connor at Derrington House. in the evening of arrival, have him explore a little bit and see a massive painting of chloe's ancestors.
-some time later, maybe during oliver's memorial or victor's upcoming wedding, have connor and chloe visit the stables. connor gets to talk about his cousin mickey
-
 
 add a brief arc where connor can overhear emotional abuse being done in a flat below his. he reports it to social services, but nothing is done; over time, he realises the kid is going hungry, and so reports again; this time they don't even bother to visit. finally, he hears her strike the kid, and bursts in, breaking the hand used to strike the kid, before telling the kid to ask to speak to DI Naismith and tell him what their mother has been doing; later, connor asks that Ivan keep tabs on the kid's wellbeing
 
 
 
 
-remove the Showstoppers. Instead, take it down to just Goblin and Troll. Consider adding the Showstoppers in a later arc, maybe during Unbroken they take over another 'freak show'
 
 
 put some complexity back in! have sparky eat people, drag in deer carcasses, and bite connor in a nightmare again
@@ -156,7 +156,6 @@ new arc - mourning and guilt
 
 
 
-at some point, amy asks connor how he avoids accidentally morphing dirt into his body; he explains that he turns it into teflon before reabsorbing it
 
 
 
@@ -176,7 +175,6 @@ to summarise timeline changes
 
 
 
-replace the Patriots with the Skulls; have Skull (the drug) get its name from a remnant of the Skulls synthesising it and using it to rebuild their empire.
 
 
 emphasise connor's inherent terrifying nature
@@ -192,51 +190,6 @@ change the prison break sequence
 			in this chapter, there is focus on the upcoming mayoral election, when the bridge collapse happens (note; add some short time between the drop at the end and the inspection; make it like the inspection happens a couple of days later, to justify the extra time in Public Enemy)
 below is the bridge collapse:
 
-		______________________________
-		SCENE
-			Connor and Sparky were sprinting in costume over several rooftops.
-			"How you feeling?" Connor asked.
-			Sparky yapped happily. "This is fun!"
-			Then, an explosion rumbled through the air.
-			"Every time... This way!" Connor barked. They turned, and arrived at their destination - a bridge, collapsed into a river. Fires were visible at the struts of the bridge. Several cars had fallen into the water.
-			"Okay, here's the plan." Connor began. "You take the bridge, I'll take the river. Your job is to rescue anyone trapped in their vehicles. I'll try and rescue anyone underwater. You got that?"
-			"Got it." Sparky barked, ready for action. "Let's do this."
-			Connor dived into the water, swimming straight for a sinking car. Inside, he saw a family, panicking.
-			"It's alright!" he shouted. He went beneath the surface, and grabbed the car, before swimming against the current - a suicidal idea normally, but to a superhuman like Connor, a small feat. He pushed the car onto the riverbank, and ripped the doors off. The family poured out.
-			"Thank you... Oh my god, thank you..." the father began.
-			"No time!" Connor nodded, diving back in. He repeated the action on another car, and another.
-			Meanwhile, Sparky dragged wounded people from their cars. He heard a scream, and rushed over - a young man was hanging on the edge of the bridge. He grabbed the man's arm with his mouth, and gently pulled him up. The man stood, and looks at him, shocked.
-			"You're welcome!" he barked happily, before returning to the wrecked cars.
-			Connor continued diving through the water, now grabbing individuals who had been carried away by the river, and dragging them ashore. Soon enough, everyone who was still alive was saved.
-			At that point, a group of Super-Agents strolled onto the bridge.
-			Connor morphed adhesives on his suit, and climbed up the struts. He and Sparky closed ranks, and braced themselves.
-			"Kill! Kill! Kill!" the voice demanded, upon seeing the Agents.
-			The Super-Agents laughed, and one of them revealed his weapon - an RPG. He launched at Connor.
-			Without thinking, Connor felt his suit ripple and shake. He looked down, and saw a ballistic shield form on his right forearm. Grinning, he raised it, blocking the missile.
-			A brutal ringing sound ripped through his eardrums, as the concussive blast knocked his brains against his skull. His shield de-formed and returned to his armour, hardening and helping him to rise.
-			Then, the agents began wildly throwing tear gas canisters and flashbangs at the duo. Connor and Sparky both struggled as their bodies ached and groaned against them. And finally... Rage.
-			They charged in, and engaged in brutal melee.
-			The fight was hard. Both were exhausted from the salvation, but they fought on regardless. Connor grabbed one Agent, and morphed a blade through his skull. He spun, slitting two throats in one motion.
-			Sparky's claws disemboweled one Agent, and then his fangs ripped one man's head from his shoulders.
-			Soon enough, the Super-Agents were dead. With that, the police arrived.
-			"STAY WHERE YOU ARE!" an armed officer shouted.
-			"Kill... Kill..." the voice whispered, itself as exhausted as Connor.
-			He trembled, and struggled to stand. He'd pushed himself too hard... a seizure was oncoming. He fought against it, but collapsed, falling into the water.
-			Sparky dived after him, and had a seizure of his own.
-
-			The two awoke hours later, washed ashore in the swamps out of town.
-			Connor twitched awake, and rose to his knees. Sparky got up too, and shook the mud from his fur.
-			"You okay?" Connor asked, shaking.
-			"Yeah, I'm fine. Are you?" Sparky stumbled over.
-			"I'll live. Fucking cops... you'd think what with the Dorsey fiasco, they'd cut us some slack." Connor groaned, lying on his back. Hot blood seeped from his nostrils.
-			"Maybe one day." Sparky quipped, curling up next to him.
-			"Who the fuck blows up a bridge?" Connor chuckled, wincing in pain.
-			"Why would they do that?" Sparky asked, tilting his head.
-			"I'll ask Ivan." Connor nodded. Sparky rested his head.
-			"We can't sleep here." Connor said firmly. "We've gotta move."
-			Sparky groaned, and the two stood, and stumbled off into the night.
-
-		Bridge Collapse
 
 
 			after the collapse, connor and friends are having lunch together, when connor hears a hissing noise down below. he excuses himself, and quickly suits up and heads down into the metro line, where a nerve gas canister has been deployed. he struggles his way in, making it to the canister and sealing it with biomass before collapsing. the firemen and paramedics are helping evacuate when some cops come up and prepare to execute connor - the chief fireman tells them to back off, and they aim at him, when connor reanimates, knocks the cops out, and heads outside. upon making it out though, shannon tells him to look at the news - he quickly morphs into civvies and darts into a pub, where a newsreader is reporting that the Werewolf committed a nerve gas attack in the metro line, then savagely beat the cops who heroically thwarted the attack. a video is then played of a man in connor's costume, claiming responsibility for the bridge attack as well as the gas, and claiming he's done protecting the inferior mortals, and will instead force them to "listen and obey"

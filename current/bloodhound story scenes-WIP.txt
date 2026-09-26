@@ -8186,23 +8186,22 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			Belson was a different beast after midnight.
-			The streetlights flickered in protest, casting long, juddering shadows across wet tarmac. The air stank of drugs, diesel, and despair.
-			Connor's nostrils flared, as his steel eyes darted around.
-			He pulled his red hood tighter, and walked forwards.
-			The lock-up was easy enough to spot. A grimy unit nestled between a shuttered launderette and a kebab shop that looked like it had been condemned twice. A single fluorescent bulb buzzed weakly above the metal door, painting the pavement in sickly yellow.
+			The streetlights flickered. The air *stank.*
+			Connor's nostrils flared, as his steel eyes darted around. He pulled his red hood tighter, and walked forwards.
+			There. A unit nestled between a shuttered launderette and a condemned shop. A single fluorescent bulb buzzed above the metal door, painting the pavement yellow.
 			He tried the handle. Locked.
-			No matter. He took a step back, then drove his boot into the door just beside the lock. The cheap wood splintered, the frame cracking with a sound like breaking bone.
-			Inside, a skinny man in a tracksuit scrambled backward, fumbling for something on the table. His eyes were wide, pupils pinpricks.
+			No matter. He took a step back, then drove his boot into the door just beside the lock. The cheap wood splintered, cracking.
+			Inside, a skinny man in a tracksuit scrambled backward, fumbling.
 			"Hey! Who the fuck are---"
-			Before he could properly grip the knife, Connor was on him. He grabbed the man's wrist and slammed it down on the table. The blade clattered away.
-			"Paul Jennings." Connor said, his voice flat and cold. "Where is he?"
+			Before he could properly grip his knife, Connor was on him. He grabbed the man's wrist and slammed it down on the table. The blade clattered away.
+			"Paul Jennings. Where is he?"
 			"I got no idea--"
 			*SLAM!*
 			Connor drove the man's face into the table, and grabbed the knife.
 			"I've not got all night. Where. Is. He?"
 			"Fuck off, kid! You ain't the Werewolf, I ain't scared of---"
 			Connor brought the knife down. It grazed the man's cheek before burying into the wood.
-			He leaned in close, his voice dropping to a whisper.
+			He leaned in close.
 			"I'm going to ask you one more time. And then I'm going to start taking things from you."
 			The man's breath came in ragged, panicked gasps. His eyes darted to the corner of the room, and Connor followed his gaze.
 			A phone. A burner, by the look of it.
@@ -8232,7 +8231,8 @@ VOLUME - Wolves Among Sheep
 			"You'll need bones for that." Connor spat. "Alright... enough chit-chat."
 			He sprang forwards.
 			The first man to step in his way was a wiry bloke with a glass jaw and a beer gut. Connor let him swing first. He ducked under the wild punch and drove his knee into the man's stomach, feeling the air explode from his lungs. Before the man could fall, Connor grabbed his head and slammed it down into the table beside him. The table cracked. The man went down.
-			He roared, as he smashed a beer bottle over one's head, and drove it into another's face. Shards of glass raked across both, before strikes sent them down.
+			He roared, as he smashed a beer bottle over one's head, and drove it into another's face.
+			Shards of glass raked across both, before strikes sent them down.
 			Another lunged at him with a knife. Connor caught his wrist, twisted it until the blade dropped, and slammed his forehead into the man's nose. He felt cartilage crunch.
 			A billiard ball slammed into his head, kept in a sock. Connor pretended to go down - he missed that. Missed being hurt by humans. It was fun to pretend.
 			Then, he shot up, and chokeslammed his assailant.
@@ -16002,9 +16002,9 @@ VOLUME - Wolves Among Sheep
 	EPISODE - She-Wolf
 		______________________________
 		SCENE
-			The knock at the garage door was hesitant - three quick raps, then silence. Connor looked up from the engine block he'd been tinkering with, wiping his hands on a rag.
+			The knock at the garage door was hesitant - three quick taps, then silence. Connor looked up from the engine block he'd been tinkering with, wiping his hands on a rag.
 			"Come in!" he called out.
-			The door creaked open, and Chloe poked her head through. She was wearing a loose vest and joggers, her hair tied back in a messy bun. A gym bag hung from her shoulder.
+			The door creaked open, and Chloe poked her head through. She was wearing a loose vest and joggers, and her hair was tied back in a messy bun. A gym bag hung from her shoulder.
 			"Hey!" she smiled. "Hope I'm not too early?"
 			"Nah, perfect timing." Connor tossed the rag aside, and gestured for her to come in. "I was just finishing up."
 			She stepped inside, looking around the workshop. The lights were dim, most of the space taken up by stacks of tyres and machine parts. Sparky was curled up on an old armchair in the corner, snoring softly.
@@ -16099,7 +16099,7 @@ VOLUME - Wolves Among Sheep
 			"I'm what?"
 			"Your left shoulder drops before you strike. It's a tell."
 			She huffed, stepping back. "And how am I supposed to fix that?"
-			"Practice. Or just hit harder so it doesn't matter."
+			"Practice. Or just hit harder and faster so it doesn't matter."
 			She laughed, shaking her head. "You're a terrible teacher."
 			"I'm a great teacher. You're just a slow learner."
 			She lunged at him, and he dodged, grinning.
@@ -16109,7 +16109,7 @@ VOLUME - Wolves Among Sheep
 			Then, a third lunge---no. A feint. She spun quickly, catching the back of his knee. He dropped down, and looked up with pride.
 			"There it is." he smiled warmly. "Turns out you just need prodding."
 			She laughed, offering a hand. He took it, and rose.
-			They circled each other, both grinning now. The tension from earlier had melted away, replaced by something lighter. Easier.
+			They circled each other, both grinning now.
 
 		Ceilidh with Chloe/Warehouse Massacre, Part 1
 		______________________________
@@ -16182,7 +16182,7 @@ VOLUME - Wolves Among Sheep
 			Connor grinned, and pulled out his phone. A few swipes of his fingers, and a lively fiddle tune filled the room.
 			Chloe giggled shyly, and took his hand. He crept onto his tiptoes, and she copied.
 			"The basic step is like this - one, two, three, and turn. Got it?"
-			She tried to mimic him, stumbled, and laughed. "No."
+			She tried to mimic him, stumbled, and laughed. "Nope, not got it."
 			"Here." he said, placing his hand on her waist to guide her. "Step, step, step, turn. Better?"
 			"I think so?"
 			They began to move together, slowly at first, then faster as she found the rhythm. The fiddle picked up tempo, and Connor spun her - she gasped, nearly fell, and he caught her, one arm around her waist.
@@ -18628,7 +18628,7 @@ VOLUME - Gods Among Men
 			"Come on! I'm gonna miss my train!" a commuter on the entry side begged.
 			Lena's eyebrow cocked, as she waited for the train to pull out. It didn't.
 			Not just hers, either. Trains were pulling in quicker than they were pulling out, it seemed. The station was unusually crowded. There were a lot more bodies than normal.
-			Two figures moved through the maintenance tunnels beneath the station. They wore no uniforms, no insignia. They were wearing sunglasses, but beneath the tint, black veins pulsed around their eyes.
+			Two figures moved through the maintenance tunnels beneath the station. They were wearing sunglasses, but beneath the tint, black veins pulsed around their eyes.
 			"Timer's set." one of them reported.
 			"Confirmed. Sixty seconds."
 			They moved quickly, exiting on the platform, and moving.
@@ -19289,17 +19289,17 @@ VOLUME - Gods Among Men
 			"There's one more. It hasn't been published yet."
 			Connor turned. "Show me."
 			Leo stumbled to his desk, his hands shaking. He pulled up the file, and hit play.
-			The imposter appeared on screen. Same costume. Same mask. Same burning red eyes. But this time, the background was different - a large hall, maybe. A stage. Balloons.
+			The imposter appeared on screen. It was sat at table, and flanked by two armed men.
 			"The time for subtlety is over. The so-called leaders of this city thought they could hide behind their elections. Their votes. Their democracy. But democracy is a lie. Power belongs to those who take it."
 			The camera zoomed in.
 			"My men did the difficult work. Every bullet we fired was a step closer to my utopia. The blood that was spilled tonight was good. From tonight... I am your ruler."
 			Connor stood there, his blood running cold.
 			The election night vote count.
 			They were going to attack it.
-			He frantically checked his phone - one hour.
+			He frantically checked his phone - one hour until voting finished.
 			Shit. Shit.
 			Connor grabbed Leo by the collar, and slammed him against the wall again. His eyes blazed red. His teeth clenched.
-			"Listen to me very carefully." he snarled. "If you're lying to me - if you know something and you're holding back - I will come back here. And I won't be asking questions."
+			"Listen to me very carefully." he snarled. "If you're lying to me - if you know something and you're holding back - I will come back here, and hold you responsible for everything that happened."
 			"I'm not lying! I'm not!"
 			He released him, and pulled out his phone.
 			"Naismith. I need you to take someone into custody. Quietly."
@@ -19308,7 +19308,11 @@ VOLUME - Gods Among Men
 			"Where?"
 			"Flat 4, 23 Jonathan Road, Caldermouth. I'll leave him tied up for you. Don't arrest him just yet - we need to make sure the Optimates don't try and silence him."
 			"On it."
-			Connor hung up. He turned back to Leo.s
+			"One more thing... I found another video. This one has me claiming responsibility for a mass shooting - I think they're gonna target the vote count."
+			"Oh fuck..." Naismith grimaced. "I'll call it in, but you're an anonymous CHIS - I might not be able to convince the higher-ups to mobilise CT."
+			"I don't care about your higher-ups! Just do *something!*"
+			"Alright, alright! I'll do what I can."
+			Connor hung up, and turned back to Leo.
 			"You're going to sit here. And you're not going to move. Someone's coming to pick you up. If you try to run, I'll know. If you try to delete anything, I'll know. And if you try anything stupid..."
 			Leo nodded frantically. "I won't. I swear. I won't."
 			Connor bound his wrists and ankles with biomass cables.
@@ -19317,8 +19321,17 @@ VOLUME - Gods Among Men
 		Deepfakes
 		______________________________
 		SCENE
+			In years past, when Drackhill Valley's mayors had been elected, the halls in which the final count would be announced were bustling and heaving, humming with life.
+			But, at the 2016 All-Valley Council Election, the conference centre instead held its breath.
+			Few came out; only those who were more engaged in valley politics dared to come to such a tempting target.
+			One hour until the polls closed. The live count was almost complete.
+			At the stage, the two candidates sat with their supporters and security. Norris was surrounded by Gambit mercs, while Ward had but a few volunteers flanking her.
+			Staff moved between tables, tallying papers. Journalists hovered near the stage, cameras ready.
+			The gang filtered in through security - armed police at the doors, bag checks, the works. Amy was first through, then Trey, then Chloe. Bea and Charlie followed, with Shannon trailing behind. They found a spot near the back, close to the fire exit.
+
 
 		Vote Count Massacre
+
 
 	______________________________
 	EPISODE - Purging

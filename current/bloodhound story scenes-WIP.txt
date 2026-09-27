@@ -242,7 +242,7 @@ VOLUME - Wolves Among Sheep
 		Need to Know
 		______________________________
 		SCENE
-			It was the 25th of September, 2015. A crisp, cold Friday morning.
+			It was the 11th of September, 2015. A crisp, cold Friday morning.
 			The sun shone in through the curtainless window, illuminating a 2-bed apartment. In one room laid a young man, with scruffy, dark-blonde hair. Strands fell across his forehead in no particular order, as though sleep itself had styled them, while a ginger stubble-beard shadowed his jaw, blending seamlessly into his skin fade.
 			Connor Barrett.
 			His phone, plugged into a charger on the floor and resting on the bedside table, began to hum a pleasant-sounding tune.
@@ -254,7 +254,7 @@ VOLUME - Wolves Among Sheep
 			Drackhill.
 			"The London of the West," as it was often described - to the rage of its locals.
 			The city sat comfortably in the Drackhill Valley, nestled between Dartmoor and the coast. His flat was on the northern side of the river - a poor, neglected borough called Redbridge.
-			He craned his head, and looked across the river. He could see the industrial district of Belson sitting there. His eyes followed the river west, towards the coast - resting on the wealthy centre of Caldermouth on the southern side, and the township of Torbrook on his own. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes eastwards - up the great hill in the centre of the city.
+			He craned his head, and looked across the river. He could see the industrial district of Belson sitting there. His eyes followed the river west, towards the coast - resting on the wealthy centre of Caldermouth on the southern side, and the township of Torbrook on his own. He looked out, and saw the rolling hills and moors of Blackmarsh. On the horizon, he could just about make out the nearby town of Wickermast. Finally, he finished this little exercise by climbing his eyes eastwards - up the great hill at the edge of the valley.
 			Wyrmrock. The valley's ancient namesake, from an old tale of dragons and trolls. He cracked a slight grin, watching two airships pass each other by, the sun glimmering from just above the mountain's peak.
 			He sniffed at his armpit, and grimaced, before heading into the bathroom, stripping, and hopping into the shower.
 			Hopping wasn't hyperbole - fully awake, he vaulted the bathtub's side and used his toes to soften his descent. He grinned at his own lameness.
@@ -277,7 +277,7 @@ VOLUME - Wolves Among Sheep
 			"--paratist forces--eiged the capital--eaving thousands woun--"
 			Connor climbed into the car and gave the radio a whack. A whirring noise came over the speaker. He opened the glovebox, and plugged in a small device. The tone shifted from high, to low, to higher, to lower. Then, a click. Another click.
 			"Connor? You got it yet?"
-			Another young man poked his head from the open bonnet. He was a lean, muscular guy with dark skin, brown eyes, and a chinstrap beard framing his grin. His dreads were tied up in a high ponytail, the fade at the sides catching the light when he moved. A couple of locks were too short to be tied up, and instead dangled freely at his temples. He was wearing mechanic's overalls, which were almost spotless. His voice was the platonic ideal of a working-class English boy - he had strong Cockney and Estuary influences, but with enough Devon elements to make it his own.
+			Another young man poked his head from the open bonnet. He was a lean, muscular guy with dark skin, brown eyes, and a chinstrap beard framing his grin. His dreads were tied up in a high ponytail, the fade at the sides catching the light when he moved. A couple of locks were too short to be tied up, and instead dangled freely at his temples. He was wearing mechanic's overalls, which were almost spotless. His voice was that of a true working-class English boy - he had strong Cockney and Estuary influences, but with enough Devon elements to make it his own.
 			Trevor Morgan - Trey to his friends.
 			"Nearly." Connor said absently, as he focused. He fiddled with his device, and then - a loud beep.
 			"Try it now." he said. Trey grinned, and re-attached the jumper leads to the car's battery.
@@ -2341,7 +2341,7 @@ VOLUME - Wolves Among Sheep
 			He walked along a little further, and came across one grave he knew all too well.
 			
 			LAURA SINEAD BARRETT
-			4/11/1975 - 10/10/1996
+			4/11/1975 - 26/09/1996
 			COME UNTO ME, ALL WHO LABOUR AND ARE HEAVY LADEN, AND I WILL GIVE YOU REST.
 			
 			19 years, to the day.
@@ -2420,7 +2420,7 @@ VOLUME - Wolves Among Sheep
 			The image of Steve's perforated heart made his own two ache.
 			"Never again..." he whispered.
 
-			Across the river, a church sermon began. 11th of October, 2015 - a crisp Sunday morning.
+			Across the river, a church sermon began. 27th of September, 2015 - a crisp Sunday morning.
 			Father Declan began the Liturgy of the Word, turning to the book of Isaiah, as Connor got to work dismantling, pressing, smelting, and reforging the gun.
 
 			"He shall judge between the nations," the priest said, as the gun's components were set aside.
@@ -19256,9 +19256,9 @@ VOLUME - Gods Among Men
 		It Wasn't Me
 		______________________________
 		SCENE
-			The flat was a tip. Takeaway containers stacked on every surface. Energy drink cans littered the floor. Cables snaked across the carpet like dead snakes. In the corner, a server rack hummed, its lights blinking in the darkness.
-			Leo was at his desk. He was a man in his early twenties. Pale. Scrawny. The kind of guy who'd never thrown a punch in his life. He was scrolling through something on his laptop, headphones in, oblivious.
-			He didn't hear the window open. He didn't hear the footsteps behind him. He didn't know anyone was there until a hand clamped over his mouth.
+			The flat was a tip. Takeaway containers stacked on every surface. Energy drink cans littered the floor. Cables snaked across the carpet. In the corner, a server rack hummed.
+			Leo was at his desk. He was a man in his early twenties. Pale. Scrawny. The kind who'd never thrown a punch in his life. He was scrolling through something on his laptop, headphones in, oblivious.
+			That is, until a gloved hand wrapped around his face.
 			"Don't scream." Connor growled.
 			Leo screamed anyway. Or tried to - the hand muffled it to a pathetic squeak.
 			Connor spun him around, and slammed him against the wall. Leo's headphones clattered to the floor. His chair rolled away.
@@ -26292,7 +26292,7 @@ VOLUME - Gods Among Men
 			Chloe nodded, suddenly shy. "Of course. You're part of my life now."
 			"I'd love to!" Connor replied. "You'll be 19, right?"
 			"Yes, well remembered!" she smiled. "When's your birthday again?"
-			"10th of October."
+			"26th of September."
 			"Oh, we missed it - did you do anything nice?" she asked, tilting her head slightly.
 			"We met." Connor smiled. "Remember that night out you had with Amy and Bea? The one where I dropped you off?"
 			"Oh yeah! The second time we'd met. You had to rush off for a work thing, right?"
@@ -26760,9 +26760,9 @@ VOLUME - Gods Among Men
 	EPISODE - Broken Hearts and Bones
 		______________________________
 		SCENE
-			It was early hours of the 10th of October, 1996. 03:27 AM.
+			It was early hours of the 26th of September, 1996. 03:27 AM.
 			A Thursday. There was a spatter of rain, but the night sky wasn't too cloudy. Were it not for the city's light pollution, you'd be able to see the night stars with impressive clarity.
-			The moon was a waning crescent - nearly new.
+			The moon was a waxing gibbous - nearly full. 24 hours before a blood moon, as if we needed any more omens.
 			And one man remembers all of this. Every detail. He can't forget it.
 			No matter how much he wants to.
 

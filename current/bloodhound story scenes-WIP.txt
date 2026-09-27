@@ -4050,10 +4050,10 @@ VOLUME - Wolves Among Sheep
 			The officer smacked Connor in the head - and clutched his hand silently.
 			"I am arresting you for murder. You do not have to say anything, but it may harm your defence if--"
 			"Yeah, yeah. Get on with it." Connor growled. He stood on his own, and walked to the police car, as the cuffs were placed on his wrists.
-			"DI Naismith, sir, this is PC Kent." the officer began over his radio. "That 'Werewolf' guy you've all been worried about? We've got him, sir."
+			"DI Naismith, sir, this is PS Dent." the officer began over his radio. "That 'Werewolf' guy you've all been worried about? We've got him, sir."
 			Naismith paused for a moment.
 			"Get him back to the station - right away."
-			"Sir." Kent nodded, cutting off the call and taking the driver's seat.
+			"Sir." Dent nodded, cutting off the call and taking the driver's seat.
 
 			Connor leaned his head against the grate, his eyes closed.
 			The action was over, but his ears were still ringing. His joints still aching.
@@ -4374,7 +4374,7 @@ VOLUME - Wolves Among Sheep
 			He turned, and threw Dobel as hard as he could. He crashed into the coppers. They struggled to their feet, and... no. The Werewolf was gone.
 			Nina ran over, checking Carrie for injuries. She went pale as she saw Nolan's mutant form.
 			"Oh, officer, thank God you're here!" Dobel began. "That maniac, he--"
-			"Shut the fuck up." Naismith spat. "Kent, check the perimeter!"
+			"Shut the fuck up." Naismith spat. "Dent, check the perimeter!"
 			"Sir!"
 			He gulped, approaching Nolan.
 			"Help him... please..." Carrie begged.
@@ -6869,7 +6869,7 @@ VOLUME - Wolves Among Sheep
 			"It's okay... I'll take a hug." Connor smiled. They embraced, and continued drinking.
 
 			"What was it like for you, growing up?" he asked, pouring himself another drink.
-			Chloe shrugged. "Honestly, I can't complain too much. We always had money, good schools, all that. My twin brother Victor was always my mum's favourite, though." She smiled faintly. "Dad preferred me."
+			Chloe shrugged. "Honestly, I can't complain too much. We always had money, good schools, all that. My twin brother Victor was always my mum's favourite, though. Dad preferred me."
 			"You're a twin?" Connor tilted his head. "That's pretty cool."
 			"You'd think." she sighed, taking a sip of her drink.
 			"I'm guessing family is a tricky subject for you?" he tilted his head softly.
@@ -7891,7 +7891,7 @@ VOLUME - Wolves Among Sheep
 			Naismith coughed, and stepped forward.
 			"I should arrest you." he growled.
 			"Then do it."
-			He let out a sigh. "Alright, people, come on. That convoy was already attacked - let's make damn sure no one else dies tonight. I want a secure perimeter. No one approaches the hospital without us knowing about it. Nina, I want you liaising with hospital security for any weak spots. Simmons, go on overwatch in the north gate. Michaels, I want CT here to provide armed support. Kent, you go and..."
+			He let out a sigh. "Alright, people, come on. That convoy was already attacked - let's make damn sure no one else dies tonight. I want a secure perimeter. No one approaches the hospital without us knowing about it. Nina, I want you liaising with hospital security for any weak spots. Simmons, go on overwatch in the north gate. Michaels, I want CT here to provide armed support. Dent, you go and..."
 
 			It was the early hours, now. Judi took a deep breath, as she opened her flat's door.
 			"Hey, doc." Connor waved.
@@ -8565,14 +8565,14 @@ VOLUME - Wolves Among Sheep
 			Eileen took a slow, rattling breath. The oxygen tube hissed.
 			"You think you gave me a heart attack?"
 			"I--"
-			"You must be the most big-headed little shit I've ever met." She shook her head. "I'm eighty-two years old. I've been smoking since I was fourteen. I've got COPD, emphysema, and a heart that's been running on fumes for a decade. You think you did this to me?"
+			"You must be the most big-headed little shit I've ever met." she shook her head. "I'm eighty-two years old. I've been smoking since I was fourteen. I've got COPD, emphysema, and a heart that's been running on fumes for a decade. You think you did this to me?"
 			Connor opened his mouth. Closed it. Opened it again.
 			"But I..."
 			"You what? Told me the truth?"
 			She snorted, then coughed. "Yeah. That was a shock. But it's been waiting to give out for years. You just happened to be there when it did."
 			Connor stared at her. He didn't know what to say.
 			"I'm still sorry." he finally managed.
-			"I know." She closed her eyes for a moment. "You're a sorry little thing, aren't you?"
+			"I know." she nodded, closing her eyes for a moment. "You're a sorry little thing, aren't you?"
 			He looked down at his hands.
 			"Tell me what happened." she said. "The truth. All of it."
 			So he told her.
@@ -8631,7 +8631,7 @@ VOLUME - Wolves Among Sheep
 			Connor took a deep breath.
 			"Okay." he whispered. "I'll stay."
 			Eileen smiled. It was a soft, tired thing, but it was real.
-			"Good lad." She closed her eyes. "Now, get me a cup of tea. The stuff they give you here tastes like piss."
+			"Good lad." she closed her eyes. "Now, get me a cup of tea. The stuff they give you here tastes like piss."
 			Connor laughed - a raw, wet sound, halfway to a sob.
 
 			"So, there you have it." Connor sighed, leaning back against the pew.
@@ -11813,7 +11813,8 @@ VOLUME - Wolves Among Sheep
 			"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... if we get there as it happens, maybe we can catch the bastard."
 			Nina smiled and nodded. "It's a shame we couldn't get armed backup."
 			"Yeah... budget cuts." Naismith sighed. "Dorsey's putting all the pressure on us to catch this guy, but he's not giving us anything to work with..."
-			"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competence." She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
+			"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competence."
+			She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
 			"You got that right..." he replied, grinning. "Anyway... we've just gotta sit on our arses until something goes down. So, in the meantime..." he shrugged, "Uh... tell me about yourself?"
 			Nina chuckled. "You need to brush up on your interrogation technique, sir."
 			He laughed. "Yeah, small talk was never my speciality."
@@ -16013,7 +16014,7 @@ VOLUME - Wolves Among Sheep
 			"A big walk?"
 			"Something like that."
 			He grabbed a water bottle from the workbench, and took a swig. "You ready to train?"
-			"Born ready." She grinned, dropping her bag by the wall.
+			"Born ready." she grinned, dropping her bag by the wall.
 
 			The depot sat at the end of a dead-end road, surrounded by chain-link fence and rusted shipping containers. A single floodlight buzzed overhead, casting everything in a sickly orange glow. Beyond the fence, the city hummed - distant traffic, the occasional siren, the ever-present patter of rain on corrugated metal.
 			Inside, a dozen Skulls were gathered around a card table, laughing and drinking. Their bikes were parked outside, chrome glinting in the dark. Crates of stolen goods lined the walls - electronics, cigarettes, and a few kilos of cocaine stacked in the corner like an afterthought.
@@ -16750,7 +16751,7 @@ VOLUME - Wolves Among Sheep
 			Trey sat down beside her. Then, awkwardly, he put his arm around her.
 			"She was so fast." Shannon whispered. "I didn't even hear her come in."
 			"It's not your fault."
-			"I know." She leaned into him, just slightly. "Doesn't make it feel less like it is."
+			"I know." she leaned into him, just slightly. "Doesn't make it feel less like it is."
 			Trey didn't answer. He just held her a little tighter. Then, he pulled out a first-aid kit.
 			"Trey, I'm fine..."
 			"No arguments." he said firmly, before dabbing her face with gauze.
@@ -17639,7 +17640,8 @@ VOLUME - Wolves Among Sheep
 			"Right, we'd best be off soon." Phil said, checking his phone.
 			"So soon?" Patricia asked, saddened.
 			"Sorry, mama - we've got to go see Kerry's folks." Phil explained, his voice breaking ever-so-slightly at the mention of his late wife.
-			Patricia's expression changed to one of understanding. "Of course, my boy. We'll see you soon." She stood up and hugged Trey. "Bye, my little angel."
+			Patricia's expression changed to one of understanding. "Of course, my boy. We'll see you soon." 
+			She stood up and hugged Trey. "Bye, my little angel."
 			"See you soon, nana. Love you." Trey replied, hugging back. 
 			"Love you too, me boy. God bless." she replied, smiling.
 			Jamal stood up.
@@ -18735,7 +18737,7 @@ VOLUME - Gods Among Men
 			"I was there, you know." the chief whispered. "At the barn in Blackmarsh. I had nightmares about that; right up until the flyover collapsed. Then I saw him again - and he saved people. And now... he died to save even more."
 			"ARMED POLICE!"
 			A squad of officers, clad in tactical armour and gas masks, stormed in. They raised their shotguns in the air, and moved towards the platform.
-			"CI Kyle Dent, Counter-Terrorism." their leader barked. "Is that the source?"
+			"PS Kyle Dent, Counter-Terrorism." their leader barked. "Is that the source?"
 			"Seems so." the chief nodded. "Jack Osborne - fire chief."
 			Dent didn't shake his hand. Instead, he aimed his gun at Connor's still body.
 			They approached the prone figure, rifles raised. One of them kicked his arm. No reaction.
@@ -18998,7 +19000,7 @@ VOLUME - Gods Among Men
 			He had a script. It was easy enough - just follow the script, and it'll all be fine.
 			"Well, Liz - as you can see behind me, the chaos is extreme. Multiple people have suffered severe injuries, but thankfully, there have been no reported fatalities, thanks to the timely intervention of the..."
 			He cleared his throat. Swallowed his pride.
-			"The timely intervention of Drackhill Valley Police." he spat. "Next to me is CI Kyle Dent, a counterterrorism squad leader. Mr. Dent, do you have any comment to make?"
+			"The timely intervention of Drackhill Valley Police." he spat. "Next to me is PS Kyle Dent, a counterterrorism squad leader. Sergeant, do you have any comment to make?"
 			"Our officers put their lives on the line today." Dent began. He was covered in bruises, and had a bandage around his arm. "The Werewolf terrorist tried to kill us; thank God, we were able to fend him off and focus on doing what we do best - saving lives."
 			"LIAR!" one survivor roared, throwing a can at Dent's head. "Don't listen to them! It's all bullshit!"
 			"OFFICERS!" Dent barked. "Arrest this terrorist sympathiser!"
@@ -19490,8 +19492,40 @@ VOLUME - Gods Among Men
 			"Shit..." Connor realised. He pounced onto the stage.
 			Ward was pale. Barely moving. Barely breathing.
 			But breathing, nonetheless.
+			Connor ripped the Coagulator from his belt, and sprayed her wounds shut. She gasped, and gurgled, looking up at the monster.
+			"Easy there... you're okay..." he whispered gently.
+			"ARMED POLICE!"
+			Connor scowled, and rose, turning.
+			"STAY WHERE YOU ARE!" Dent barked, his gun trained on Connor's head.
+			"Stand down!" Naismith barked.
+			Dent shot him a filthy look. "Back off, Naismith."
+			"Dent, between you and the suspect are dozens of wounded civilians. You want them caught in the crossfire?!"
+			"Men! Take aim!"
+			Naismith's lip curled, as he drew his sidearm.
+			"Sergeant, stand down. Final warning."
+			At that, a bubbling noise began. Connor and Sparky's suits rippled in unison, and then--
+			*Pop!*
+			Black smoke filled the room. Humans choked and spat as it cleared, and--no. The Werewolves were gone.
+			"Damn it!" Dent snapped. "All units, fan out! Find those terrorists--"
+			"Belay that order! Provide first aid until paramedics arrive." Naismith snapped. "Now!"
+			The officers tilted their heads, but followed Naismith's orders.
+			"Oh god... I think it's over." Chloe whispered.
+			"Jesus... I..." Bea stammered.
+			"Guys!" Connor barked, rushing in through the door in his civvies.
+			"Connor!" Chloe gasped, wrapping him in an embrace. Bea joined, followed by Amy, then Trey, then Shannon. Charlie scowled as the group hug formed.
+			"Thank God you're all okay..." he breathed out.
+			"Wh-what happened to you? Why are you covered in bruises?" Chloe asked.
+			"Hm? Oh, don't worry about me, I---I got hit by a car on the way here." he quickly covered.
+			"...what?!"
+			"Uh--not a fast one." he added. "Just a few scrapes, I'm fine. Did you guys get hurt?"
+			"No, we're all okay." Amy smiled softly. "All thanks to the Werewolf."
+			"Come on, let's get out of here. The smell is making me feel ill..." Trey nodded.
 
 		Vote Count Massacre
+		______________________________
+		SCENE
+
+		Aftermath
 
 
 	______________________________
@@ -21575,7 +21609,7 @@ VOLUME - Gods Among Men
 			The nurse shook her head. "Are you struggling to see?"
 			"N-no..." she whispered.
 			Sveta cut in. "Chloe can sometimes experience mild strabismus when stressed - caused by VS."
-			The nurse nodded. "Ah, right - thank you." She left the room.
+			The nurse nodded, and left the room.
 			William walked over. "Chloe, darling... why did you do this?"
 			Chloe looked away, and sobbed. William sighed, and turned to Sveta.
 			"Thank you..." he began. "You saved her life."
@@ -22998,14 +23032,14 @@ VOLUME - Gods Among Men
 			"You wanna try and arrest 'em? Be my guest." he snarked. He looked around the warehouse, and sighed.
 			"Jesus, what a fuckin' mess..."
 			"Detective." Connor nodded firmly. "The humans are alive."
-			"Well, that's alright then." he scoffed. "Kent - go arrest the goons."
+			"Well, that's alright then." he scoffed. "Trotman - go arrest the goons."
 			"Y-yes sir."
 			Naismith put his hands to his side, and looked at the pair.
 			"New hire?"
 			"Something like that." Amy shrugged, turning her helm to keep her eyes in shadow.
 			"What's your name? 'Robo-wolf?'" he snarked.
 			"I'm... I've not got a name just yet."
-			"There! That's the bitch who got me!" Donny barked as Kent dragged him in cuffs. "Hit me in the face and stunned me! Bitch gave me lockjaw."
+			"There! That's the bitch who got me!" Donny barked as Trotman dragged him in cuffs. "Hit me in the face and stunned me! Bitch gave me lockjaw."
 			"...Stunlocke." Amy nodded quickly. "With an 'E.'"
 			"...*that's* your super-name?" Connor tilted his head.
 			"Fuck off. It beats Werewolf, that's for sure." she quipped back.

@@ -59,6 +59,7 @@
             const scenePrevBtnBottom = document.getElementById('scene-prev-btn-bottom');
             const sceneNextBtnBottom = document.getElementById('scene-next-btn-bottom');
             const sceneNavSpacerBottom = document.getElementById('scene-nav-spacer-bottom');
+            const copySceneBtn = document.getElementById('copy-scene-btn');
             const uploadSourceBtn = document.getElementById('upload-source-btn');
             const serverSourceBtn = document.getElementById('server-source-btn');
             const clearStoryBtn = document.getElementById('clear-story-btn');
@@ -516,6 +517,49 @@
                 updateChunkUI();
             }
 
+            /* ========== COPY SCENE TO CLIPBOARD ========== */
+
+            async function copyCurrentSceneToClipboard() {
+                const text = currentSceneText;
+
+                if (!text || !text.trim()) {
+                    setStatus('Nothing to copy — no scene loaded.', true);
+                    return;
+                }
+
+                try {
+                    // The Clipboard API requires a secure context (HTTPS or
+                    // localhost). Fall back to a hidden textarea + execCommand
+                    // for http:// and older browsers so this still works when
+                    // served over plain HTTP.
+                    if (navigator.clipboard && window.isSecureContext) {
+                        await navigator.clipboard.writeText(text);
+                    } else {
+                        const ta = document.createElement('textarea');
+                        ta.value = text;
+                        ta.setAttribute('readonly', '');
+                        ta.style.position = 'fixed';
+                        ta.style.top = '-9999px';
+                        ta.style.left = '-9999px';
+                        document.body.appendChild(ta);
+                        ta.select();
+                        ta.setSelectionRange(0, ta.value.length);
+                        const ok = document.execCommand('copy');
+                        document.body.removeChild(ta);
+                        if (!ok) throw new Error('execCommand("copy") returned false');
+                    }
+
+                    setStatus(`📋 Copied scene to clipboard: ${currentSceneName}`);
+                    logDebug(`Copy Scene: copied "${currentSceneName}" (${text.length} chars)`);
+                } catch (err) {
+                    console.warn('Copy failed:', err);
+                    logDebug(`Copy Scene failed: ${err.message || err}`);
+                    setStatus('Could not copy to clipboard.', true);
+                }
+            }
+
+            copySceneBtn.addEventListener('click', copyCurrentSceneToClipboard);
+
             /* ========== SCENE NAVIGATION ========== */
 
             function getFlatSceneList() {
@@ -618,6 +662,7 @@
                     scenePrevBtnBottom.disabled = true;
                     sceneNextBtnBottom.disabled = true;
                     sceneNavSpacerBottom.textContent = '—';
+                    copySceneBtn.disabled = true;
                     return;
                 }
 
@@ -629,6 +674,7 @@
                     scenePrevBtnBottom.disabled = true;
                     sceneNextBtnBottom.disabled = true;
                     sceneNavSpacerBottom.textContent = '—';
+                    copySceneBtn.disabled = true;
                     return;
                 }
 
@@ -644,6 +690,11 @@
                 const positionText = `${flatIndex + 1} / ${list.length} — ${item.volumeName} · ${item.episodeName}`;
                 sceneNavSpacer.textContent = positionText;
                 sceneNavSpacerBottom.textContent = positionText;
+
+                // The copy button is only useful when a real scene is loaded
+                // and displayed. While help mode is showing, disable it.
+                const hasScene = !!currentSceneText && !helpVisible;
+                copySceneBtn.disabled = !hasScene;
             }
 
             function handlePrevSceneNavigation() {
@@ -675,6 +726,7 @@
                     <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>
                     <ul>
                         <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the entire story scene by scene, crossing episode and volume boundaries. If Autoplay is on, the new scene begins narrating immediately.</li>
+                        <li><strong>📋 Copy Scene</strong> — Copy the currently displayed scene's text (with original punctuation and line breaks) to your clipboard. Useful for quoting, archiving, or pasting into another app.</li>
                         <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story (e.g. <code>4 / 27 — Volume 1 · Episode 2</code>).</li>
                     </ul>
 
@@ -759,6 +811,11 @@
                 helpBtn.classList.add('help-active');
                 helpBtn.textContent = '✕ Close Help';
                 setStatus('Showing help — press Help again to return.');
+
+                // No scene is on screen while help is displayed, so the copy
+                // button should be disabled. updateSceneNavButtons() reads
+                // helpVisible, so this also future-proofs the state.
+                updateSceneNavButtons();
             }
 
             function exitHelpMode() {
@@ -1369,6 +1426,7 @@
                     prevBtn.disabled = true;
                     replayBtn.disabled = true;
                     nextBtn.disabled = true;
+                    copySceneBtn.disabled = true;
                     updateSceneNavButtons();
                     return;
                 }

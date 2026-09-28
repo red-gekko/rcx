@@ -6425,7 +6425,7 @@ VOLUME - Wolves Among Sheep
 			Across the valley, stood HMP Northgate.
 			It was home to all manner of assorted scum. And a few good men, too. Vince, for one.
 			In its bowels, though, was a special wing.
-			One initially for 'vulnerable persons' - serial killers, rapists, and abusers of children - but recently, home to a pair of victims.
+			One initially for 'vulnerable prisoners' - serial killers, rapists, and abusers of children - but recently, home to a pair of victims.
 			Slaves. Let's call it what it was. Slavery.
 			Their only crime being self-defence against oppressors.
 			"Happy Halloween, Goblin!" Troll cheered. He pulled at the shock collar on his neck, and then yelped.
@@ -21225,7 +21225,7 @@ VOLUME - Gods Among Men
 		Enter, Stunlocke
 		______________________________
 		SCENE
-			It had been a week since the crackdown. Connor was laid on the top bunk of the bed, as Stoker was timidly lying on his bunk, his mouth still bruised and his teeth still gone.
+			Morning dared to come. Connor was laid on the top of the bed, as Stoker was timidly lying on his bunk, his mouth still bruised and his teeth still gone.
 			A knock at the door.
 			"Barrett." the officer began. "Visitor."
 			Connor's head perked up. "Who?"
@@ -21309,12 +21309,71 @@ VOLUME - Gods Among Men
 			"Wait, no no no..." their eyes widened in realisation, as Connor lifted them both over his shoulders, and stood ready.
 			"Connor, no, don't, please!" Trey begged. Shannon closed her eyes tightly. Connor grinned cheekily, and sprinted off the rooftop, jumping over the edge.
 			"FUUUUUUCK!" Trey screamed in panic, as Connor sailed through the air. His prison clothes tore as his glider ripped out from his back. They gently touched down.
-			He placed his comrades on the ground.
+			He placed his comrades on the ground, and reformed his prison clothes.
 			"Is it over?" Trey asked timidly, opening one eye. Connor laughed, and patted him on the back.
 			Then, an alarm sounded, shaking them.
-			"Let's go!" Connor barked. The trio sprinted away into the night.
+			"Let's go!" Connor barked. The trio sprinted onwards.
+			"STOP RIGHT THERE!" a guard roared.
+			"Move! Come on!" Connor yelled.
+			Almost there.
+			Almost.
+			The gate was faster than Connor expected. It sealed off just as they reached it.
+			"Damn it..." Connor growled.
+			"Don't. Don't do it." Trey warned. "If you use your powers here, everyone will know."
+			"What choice do we have?!" Connor snapped.
+			Too late.
+			*CHK-CHK!*
+			Connor dived in front, and spread his arms wide.
+			"ON YOUR KNEES!" an armed guard barked.
+			Shit. Shit!
+			"Since when did they start having armed guards here?!" Trey groaned.
+			"Since the Terrorism Act." Shannon sighed. "Fuck... okay, we surrender!"
+			The three sank to their knees, and, hesitantly, allowed themselves to be captured.
 
-		The Great Escape
+		Rooftop Runaway
+		______________________________
+		SCENE
+			Morning finally came again, and Chloe began the miserable walk to university.
+			She'd applied to see Connor again - and had received rejection after rejection.
+			She hated this. The city was tearing itself apart, and the only people who could make sense of it all... they weren't here.
+			Amy was busy, of course she was. Bea was being hypnotised by that bastard Charlie. Everyone else was in a cage. Chloe had to keep it together - and she hated that, too.
+			The rain went from drizzle to downpour, and she cursed the high heavens.
+			Fuck this city.
+
+			"Welcome to the Vulnerable Prisoner's Unit." the guard jeered, as shock collars were fitted around the trio's necks. "Here, you do not have any contact with the outside world. Here, you do not have the rights you may be accustomed to."
+			He clicked a button, and they convulsed in pain.
+			"Every time you disobey a guard's orders, it gets worse. And, if you step within ten feet of the exit, you'll get a shock, too. Understood?"
+			They scowled at him, and he pressed the button again.
+			"Understood?!"
+			"...understood." they growled back.
+			"Good. Go on, then. Find your feet." he grinned.
+			Connor reached for the collar, and tugged at it. He shook violently, before letting go.
+			"Damn it..." he snarled. "Electricity's one of the few things that can still hurt me. I can't rip it off; the zap fucks with my super-strength."
+			"Shit." Trey grimaced. "How are we getting out of this one?"
+			"We could try and drain the batteries." Shannon suggested.
+			"Your hearts will give out before that happens." Connor cut in. "Let me figure out a way to get this off. After that... fuck the secret identity."
+			"Connor... no, you can't." Trey sighed.
+			"I'll do whatever it takes." Connor shrugged.
+			"Right, well... I'm gonna go to my cell." Shannon groaned. "I need some sleep."
+			"I'm gonna get some food." Connor nodded. "Be careful in here. The guards don't get involved in prisoner disputes, and this place is called 'the nonce wing' for a reason."
+
+		Vulnerable Prisoner's Unit
+		______________________________
+		SCENE
+
+		Right to Assemble
+		______________________________
+		SCENE
+
+		The Great Escape... Again
+		______________________________
+		SCENE
+
+		Quite A Story
+		______________________________
+		SCENE
+
+		Saving the Hoods
 		______________________________
 		SCENE
 			The trio made it to Redbridge under cover of darkness. They arrived at the garage - their home.
@@ -21370,6 +21429,10 @@ VOLUME - Gods Among Men
 			It wasn't long before they exchanged looks of boredom. And something else.
 
 		Meetup at Riverside
+		______________________________
+		SCENE
+
+		Special Housing Unit/Drone Down
 		______________________________
 		SCENE
 			It was a calm evening in Upper Caldermouth. Especially in the home of Deputy Chief Constable Peter Branson, who was resting on his sofa.
@@ -21547,7 +21610,7 @@ VOLUME - Gods Among Men
 			"State the grounds!" Ward demanded.
 			"Legally, we don't need to." the officer sneered, dragging them away.
 
-		Dorsey Exposed/Enter, Ward
+		Dorsey Exposed/Where We Met
 		______________________________
 		SCENE
 			"Bad news, bratan." Ivan said over the phone.
@@ -21569,7 +21632,7 @@ VOLUME - Gods Among Men
 			"Anything."
 
 			"...This news of course, puts the recent crackdowns in a whole new light." Zack finished his broadcast. Connor watched from his phone screen, grinning. He raised his hand to his earpiece.
-			"Alright, Sparky - keep guard of the EBC building. If Dorsey's men come to retaliate, take them down. If Gambit or Paladin show up, kill them."
+			"Spartacus - keep guard of the EBC building. If Dorsey's men come to retaliate, take them down. If Gambit or Paladin show up, kill them."
 			"Got it." Sparky growled excitedly. "What will you do?"
 			"Smash the state."
 			He looked over from his rooftop perch, and saw a phalanx of riot police setting up fortified positions - no doubt fearing the wrath of the people.

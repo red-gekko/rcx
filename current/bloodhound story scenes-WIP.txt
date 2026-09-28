@@ -7730,7 +7730,7 @@ VOLUME - Wolves Among Sheep
 			It was high-pitched - the sound of a thousand nails dragged across a thousand chalkboards, amplified by the curved concrete walls. Connor clutched his head, the noise burrowing into his skull like a drill. Beside him, Sparky let out a pained yelp, his paws pressing against his ears.
 			"WHAT THE FUCK IS THAT?!" Connor roared, but his own voice was swallowed by the cacophony.
 			Then, they came.
-			A swarm of... things... poured out from a nearby junction. Their skin was alabaster white, and leathery. Their eyeless heads had snakelike nostrils, and flower-shaped, unfurling mouths. From their dolphin-like tails, arcs of blue-white electricity crackled and danced across the water's surface.
+			A swarm of... things... poured out from a nearby junction. Their skin was alabaster white, and leathery. Their eyeless heads had snakelike nostrils, and narrow, elongated, almost lipless mouths cut along their muzzles. Their teeth were razor-sharp, and saliva leaked down their chins. From their dolphin-like tails, arcs of blue-white electricity crackled and danced across the water's surface.
 			Their wings were a clear sign of their chiropteran heritage, but these beasts were no bats. If any god had made such things, it did so out of whatever spare parts were lying around that day. Presumably, it shared an origin with the platypus.
 			The first one struck Connor from above. Its 'mouth' clamped onto his forearm. He screamed, as raw electricity coursed through his veins, seizing his muscles, making his costume ripple and spasm against his skin.
 			"CONNOR!" Sparky barked, but he had his own problems - three of the creatures had descended on him, their tails whipping against his flanks. His howl of pain echoed through the tunnel, distorted by the constant, shrieking sonar.
@@ -13018,12 +13018,15 @@ VOLUME - Wolves Among Sheep
 			"What are you doing?" Sparky whispered.
 			"Trying to watch the wind..." Connor shrugged. "When I was fighting Whiplash last week. I noticed the way she moved - she used her powers to almost walk on the air."
 			"But you don't have her powers?" Sparky tilted his head. "It'd be cool if you did, but..."
-			"No... but maybe I don't need them." Connor pondered. His suit rippled and morphed, and long struts formed out from his wrists - almost doubling the length of his arms. Another pole morphed vertically down his back, poking out near his feet like a tail. Finally, thick gel oozed around it. The membrane extended outwards, forming an almost wing-like cape.
+			"No... but maybe I don't need them." Connor pondered.
+			His suit rippled and morphed, and long struts formed out from his wrists - almost as long as his arms. The material around them hardened, giving them the rigidity of bone.
+			Thick gel flowed from his shoulders and spread along his arms, stretching into a dark membrane. It widened behind him, reaching down along his sides and across his back before tapering towards his hips. The membrane pulled taut as Connor raised his arms, forming two broad, angular wings. Beneath, his legs moved freely, and he bent his knees in anticipation.
 			"What's that?" Sparky asked, amazed.
 			"Hopefully, a glider." Connor mused, rising. "Well... there's only one way to test it."
-			Sparky smiled in anticipation, as Connor leaned forward. He stiffened the membrane, letting it catch the updrafts coming from the coast into the city. Finally, he let himself fall.
-			At first, it felt like he was about to splat into the pavement below. Mentally, he prepared to use his grappling hooks just in case - but instead, the descent stabilised, and he soared forwards.
-			"Holy... hOLY SHIT!" he screamed in excitement. "WOOOO!"
+			Sparky smiled in anticipation, as Connor leaned forward. He stiffened the membrane, letting it catch the updrafts coming from the coast into the city. He spread his arms, and flexed them, watching as the wings moved with him.
+			Finally, he let himself fall.
+			At first, it felt like he was about to splat into the pavement below. Mentally, he prepared to use his grappling hooks just in case - but instead, the descent stabilised, and he soared forwards. His legs dangled, before he straightened them, and spread them slightly.
+			"Holy... HOLY SHIT!" he screamed in excitement. "WOOOO!"
 			He turned his head, and saw Sparky sailing in the air behind him. He grinned wildly, and caught another upwards wind, flying through the night sky.
 			"THIS IS SO COOL!" Sparky howled, his fur being buffeted by the wind.
 			Connor laughed giddily, looking down at the city below. His senses were distracted somewhat by the winds, but he could still use them. In mere moments, he'd covered several street blocks.
@@ -18046,7 +18049,7 @@ VOLUME - Gods Among Men
 			"Cops tend to solve problems by shooting them, or getting shot." he shrugged.
 			"Fair enough. Udachnoy okhoty, tovarishch."
 
-			Connor's trenchcoat fluttered in the breeze, as his eyes burned a little brighter. He rolled his shoulders in anticipation, and morphed his glider. His arms rose up like a gargoyle, and he rode the wind forwards.
+			Connor's trenchcoat fluttered in the breeze, as his eyes burned a little brighter. He rolled his shoulders in anticipation, and gripped its hem. Then, he pulled the coat out, and the material wriggled up his arms, forming into his glider-wings. His arms rose up like a gargoyle, and he rode the wind forwards.
 			"Hey... what the fuck is that?" one gunman asked, pointing at the black mass falling from the office block across from him.
 			"Probably nothing. You gonna help, or what?!" another snapped.
 			Connor sailed through the air, and his gauntlets shifted. Crossbows formed atop his wrists, and grappling ropes winded into them. He aimed above the window, and fired.
@@ -18094,7 +18097,7 @@ VOLUME - Gods Among Men
 			The stock made contact with one man's forehead, and he wobbled for a moment. Then he felt something hit him.
 			He looked down - another grapple. As he was yanked across the hallway, Connor leapt into the air, and didn't 'punch' so much as place his fist right where the man's temple was heading. He crashed into the ground knees first, and let out a groaning noise as the world slipped away.
 			The last three made it, to their own surprise. The truck pulled out, and sped off. For an armoured vehicle, it had surprising speed and agility.
-			Connor flexed his calves, and gave chase. His grapple attached to a street light, and quickly reeled him up. Using his momentum, he launched out, and reformed his glider.
+			Connor flexed his calves, and gave chase. His grapple attached to a street light, and tensed as he braced himself. Then, he slingshot upwards. Using his momentum, he launched out, and reformed his glider.
 
 			"What the fuck even is that thing?!" one asked, pale as a sheet.
 			"Fuck if I know. I thought it was all some rumour." the driver shuddered.
@@ -19360,7 +19363,7 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			In years past, when Drackhill Valley's mayors had been elected, the halls in which the final count would be announced were bustling and heaving, humming with life.
-			But, at the 2016 All-Valley Council Election, the conference centre instead held its breath.
+			But, at the 2016 All-Valley Mayoral Election, the conference centre instead held its breath.
 			Few came out; only those who were more engaged in valley politics dared to come to such a tempting target.
 			One hour until the polls closed. The live count was almost complete.
 			At the stage, the two candidates sat with their supporters and security. Norris was surrounded by Gambit mercs, while Ward had but a few volunteers flanking her.
@@ -19406,6 +19409,8 @@ VOLUME - Gods Among Men
 			"How about you, Pawel?"
 			"Oh, I'm a big Norris supporter, me. Can't wait to get deported." he snarked. "According to the TV, I'm here to illegally vote a thousand times, of course."
 			Shannon laughed, and headed back to the group.
+			"Look! Ward's still leading in the polls." Bea smiled. "Please, God..."
+
 			"Hey, guys." Trey piped up. "Connor's calling in the group chat."
 			"Oh, cool." Chloe nodded, answering and putting her phone on speaker. "Hey, Connor, where are you?"
 			"Chloe! Are you with everyone else?"
@@ -19530,6 +19535,133 @@ VOLUME - Gods Among Men
 		Vote Count Massacre
 		______________________________
 		SCENE
+			Dark, now. Drackhill Trauma Centre had been bustling heavily over the last few says, and today was much the same.
+			In the ICU, under armed guard and hooked up to a number of machines, however, a particular VIP laid.
+			Mayor-Elect Helen Ward.
+			She was sat up straight, despite the pulsing pain, reviewing paperwork and taking briefings from pale staffers.
+			"So, the vote count has now finished. Naturally, Mr. Norris would be, um, unable to serve another term anyway, but it's good to know you won the election legitimately. That will be invaluable to securing public trust during this crisis." one aide began.
+			"...I can't believe it. Norris was... well, I don't wish to speak ill of the dead, of course. But gunned down on election night?"
+			"Ma'am." Dorsey began, entering. The armed officers stood to attention at his approach.
+			"Chief Constable." she nodded. "How can I help you?"
+			"I'm afraid this can't wait until your inauguration." he said sombrely. "You need to approve the emergency provisions of the Terrorism Act, now."
+			"Hang on a minute." she cut in. "Those provisions strip our citizens of their most fundamental civil rights. The answer to this kind of attack is not--"
+			"Ma'am. The Valley Council has already voted unanimously to approve these provisions. You need to sign."
+			"She's not even been sworn in yet." an aide protested. "Back off while she recovers, yeah?"
+			"Fine. I'll speak with the council about our options." he sneered. "Good evening, ma'am."
+			As he walked away, she sighed.
+			"If the mayoral office is vacant, the council can approve its own acts." another aide noted. "You can exercise your veto, but..."
+			"That'd be deeply unpopular at the moment." the first sighed.
+			"Damned if I do, damned if I don't." Ward lamented. "Alright, we'll have to work with what we've got. Allow the act to be approved without our signature; and then, we'll order the police to ignore the provisions on freedom of assembly or due process."
+			"What about the Werewolf, ma'am? What should we do about him."
+			"I... I'm not sure. Yesterday, I would've said we need to bring him to justice. But... something else is going on. I know *that,* at least."
+
+			Connor took a deep breath as he walked out of the shower, and checked himself out in the mirror.
+			Healed, completely. He sighed, and morphed up a few bruises for cover. Fresh clothes oozed out of his skin, and he went into the communal lounge. Chloe was on the sofa, with a blanket over her lap, and Sparky nuzzled into her. He did a surprisingly convincing job of hiding his spinal injury.
+			"Hey." she smiled as Connor sat down. "Feeling better?"
+			"Yeah. Still aches, though." he nodded. "You?"
+			"I'm coping." she shrugged. "I feel like I should be more upset, but..."
+			"I know the feeling. Me and Amy felt the same way when Dobel's men tried to kill us." Connor said softly.
+			"...what?"
+			"Oh yeah... we didn't tell you at the time." he pinched the bridge of his nose. "Long story."
+			"...I bet." she half-grinned, sipping her coffee. "Amy, Trey, and Shannon have all gone downstairs - I think they're doing some work to take their mind off of things. Bea and Charlie have gone to their room."
+			"I don't recall inviting him." he snarked.
+			She chuckled. "I'd make him pay double. He's a... a real piece of work."
+			"You can call him a cunt, it's fine." Connor grinned.
+			Chloe giggled. "He's a... a yebanaya gnida." she finally said.
+			"...I *assume* that was something appropriately horrible." Connor laughed.
+			"[It means 'fucking nit']" she signed. Connor cackled like a hyena.
+			"You sure you don't mind us staying tonight?" she asked.
+			"Of course not. It's been a hell of a night - besides, no one else is using the rooms."
+			"Thanks." she smiled. "Well, I'm gonna get to bed - I imagine I'll have a lot of work at Vitalis tomorrow."
+			"Yeah... I remember you saying you autopsied the other Giants."
+			"Well, this one will be easier, at least. Say what you like about the Werewolf, but at least I don't need to scoop out this one's organs; that work's been done."
+			She stopped herself. "Sorry, that was a bit grim, wasn't it?"
+			Connor grinned widely. "There are worse coping mechanisms."
+			They shared a chuckle, glad to cut the tension. Then, the doorbell made a noise, as two men entered.
+			"Ah, customers." he nodded. "I'll see you in the morning, yeah?"
+			"Yeah, definitely. And - thanks again for this."
+			"Don't mention it." he smiled. She rose, and hesitated, before hugging him. They held it for a minute, before parting.
+			Connor came into the reception area, and chuckled grimly.
+			"Welcome to Riverside Motel, gentlemen. Are you looking to spend a night in our fine establishment?"
+			"I'd love to, but my cats need feeding." Tommy snarked.
+			"Do you have room for Isabella?" Ivan quipped.
+			"Come on. Briefing room's downstairs." Connor nodded, leading them into the basement.
+
+			"Finally, some good fucking news." Shannon sighed deeply, turning her screen. "The deepfake for tonight's attack got released, which has backfired massively - it's proven the others weren't real, since everyone knows for a fact you were saving people there. Zack also interviewed Lena - the girl you saved at the metro station - and she confirmed you weren't the attacker. A lot of people will still believe the lies, but you've regained a lot of trust. Even better, people are outraged that you were framed - the general mood among your fans is that you're the only one who's trying to stop the real terrorists."
+			"About time. It's hard to protect people when they think we're the monsters." Sparky yawned.
+			"What about the mayor-elect?" Connor asked.
+			"Well, she's not made any statements yet - but the council's voted to approve the Terrorism Act provisions." Trey reported. "For the Werewolf, that doesn't mean much - it's not like you need the right to assemble to do what you do - but I bet the bad guys'll use that to crack down on anyone in the city they can."
+			"Like the Hoods." Tommy sighed. "I'll call Pawel - I hate it, but we're gonna have to downscale until this is over."
+			"The inspection you guys were looking at is going ahead tomorrow." Amy added. "I know you've got a lot on your plate, but--"
+			"No, this is what we need to focus on." Connor sighed. "Shannon - go over our intel and start planning."
+			"Any word from Whiplash?" Ivan asked.
+			"Yeah - I texted her on the way back. Thank God she was able to get to us on such short notice - but she's laying low now. There's still some loose ends she needs to tie up before she can commit to us full-time; and I agree. Last thing we need is to have to worry about ODIN on top of everything else."
+			"I'll swing by the clock tower on next patrol. If she needs help with any Esper-stuff, we can give her a hand." Sparky yapped.
+			"Good idea. Likewise, if any Esper kids are involved in the trafficking, we might need advice off of her." Connor nodded. "Alright - let's reconvene tomorrow morning. Rest up - we're gonna need it."
+			"I'm gonna go back home. My dad's panicking." Trey smiled. "If I can help at all, just give me a call."
+			"Likewise." Connor smiled, hugging his best friend. "See you around, bro."
+			"Oh, Shan?" Amy began. "Your room's ready. Number 7."
+			"Thanks." she smiled softly. "I'll finish up in here, and go to bed."
+			"I'm gonna go on patrol." Connor nodded.
+			"What happened to resting up?" Amy cocked her brow.
+			"I'm still good to go. And the city needs me, now more than ever." he shrugged.
+
+			The room was oppressively cold. The Commandant leaned against his office window, holding a phone to his ear.
+			"Good work, Dorsey. I expect the sale to go ahead smoothly tomorrow, yes?"
+			"Yes, sir. It's unfortunate that our men were unable to kill Ward. Shall I pull away her guard, and let them finish the job?"
+			"No, keep her around. Anyone with half a brain knows she's opposed to the coming work. When you fail to bring the traitor in, you can use her as a scapegoat."
+			"Very good, sir. Hail Victory."
+			"Hail Victory." the Commandant grinned, and cut off the call. He took a deep breath, and looked out at the horizon, like a king inspecting his realm.
+			Then - there. In the reflection.
+			First, two violet eyes. Then, the man himself.
+			"Oh, George." Oxford growled. "I am very disappointed."
+			"Sir, I--" the Commandant turned, sweating.
+			"You haven't even got tea." Oxford grinned affably.
+			"I--Sorry, sir. I didn't know you were coming."
+			"Not to worry. I won't be long." Oxford smiled. "I must say, the levels of collateral damage wrought have been... concerning. Not to mention the breach of normalcy, with a Jotunn openly assaulting the vote count."
+			"I--I understand, sir. I was working under the impression that we were trying to stoke public fear." the Commandant nodded quickly.
+			"Well, yes. It's called 'terrorism' for a reason, after all." Oxford chuckled. "Still, the implementation of the Terrorism Act will be a useful test case. We will continue promoting disinformation, though the unfortunate timing of the latest deepfake has hindered that effort. I expect your Gambit proxies to bring this city to heel, yes?"
+			"Yes sir, absolutely."
+			"And the upcoming movement of children?"
+			"It's going ahead, sir."
+			"Excellent. Distasteful it may be, but we need new material. ODIN lost a lot of operatives with the latest 'correction,' so the more, the merrier."
+			"Very good, sir."
+			Oxford turned to leave, but his yellow eyes flashed violet once more.
+			"Oh, and George?"
+			"S-sir?"
+			The Commandant screamed, as his left eye was plucked from its socket by an invisible hand. He tried to resist, but felt his arms snap backwards. Bone shards cut through his skin.
+			"Let that remind you who's in charge. Defy me further, and I will end you. If the public see open evidence of our experiments like this again, you will suffer the consequences. Do I make myself clear to you?"
+			"Yes! Yes, sir!" the Commandant begged.
+			"Excellent. Have a good evening, George."
+			Oxford walked away, as the Commandant desperately re-set his bones against the floor.
+
+			Naismith hesitated, but brought the phone to his ear.
+			It rang for a few seconds, before answering.
+			"Detective." Connor's modulated voice answered. "What is it?"
+			"You've seen the news? Dorsey's virtually declared martial law, and the council's rubber-stamping it."
+			"I know. I'm working on it, but I'm busy with the trafficking ring." Connor said clinically.
+			"Yeah... well, I don't think our little mate Leo is gonna last long in custody. Someone'll silence him." Naismith sighed. "So... I'm not arresting him."
+			"Oh, great. Now Paladin can murder him at home, instead."
+			"Did I say I let him go?"
+			Connor grinned. "Where is he?"
+			"The gasworks - the same ones She-Wolf holed up in. Listen... is there anywhere you can keep him safe?"
+			"Yeah. I'll contact Verdict - get him whisked away."
+			"Good. We need him - he's the only one who can corroborate those deepfakes."
+			"'We,' Detective?"
+			"Shut up, and listen. I think Dorsey's in on this - Norris definitely was, I feel that in my gut. But before we make a move, we need proof, alright? Hard evidence that Dorsey was involved in this week's attacks. Until then, Leo needs protection - if we're gonna expose these bastards, we need him on our side."
+			"Agreed. Hey, Naismith... I appreciate this. You're doing the right thing, okay?"
+			"I hope so."
+
+			Connor stood atop Rydon Tower alone. His trenchcoat fluttered in the night's breeze, and he took a deep, deep breath.
+			Beneath him were swarms of terrified people. And there - hidden in the chaos - was the enemy. The parasites. The scum.
+			The Optimates.
+			His eyes flashed, as he pulled his coat open, and it formed into his wings. The wind pushed against him, and a breath of steam poured out of his mask's grilles.
+			Many still hated him. Most still feared him.
+			It would take a long time before they looked to the skies and saw hope once more.
+			"So be it," he thought.
+			At least they'd be alive enough to fear him.
+			He leaned forward, letting the breeze buffet his wings. Then, he dropped, before soaring once more.
+			He was the Werewolf, and this was *his* city.
 
 		Aftermath
 
@@ -19845,7 +19977,7 @@ VOLUME - Gods Among Men
 			"Hai--Hail v-victory..."
 			"Hail Victory." Connor nodded, ushering him away.
 			He knelt down, and pulled out Shannon's USB.
-			"Damn, Werewolf - that was cold." she audibly grinned.
+			"Damn, Vanguard - that was cold." she audibly grinned.
 			"There are few creatures on this Earth more cowardly than fascists." Connor shrugged. "'Might makes right' doesn't seem too appealing when *I'm* in the room."
 			She chuckled, as the USB worked its magic.
 			"Alright, I'm in."
@@ -19917,18 +20049,18 @@ VOLUME - Gods Among Men
 			Ivan squeezed the grips of the Hushpuppies, and grinned. He raised them up, and blew away the smoke.
 			"Oh, you think you're such a badass, don't you?"
 			"Nyet, bratan. I *know* I'm a badass." he laughed.
-		 	"Well, at least *one* of us is immune to laughing gas." he grinned. "Shannon - threats eliminated."
+		 	"Well, at least *one* of us is immune to laughing gas." he grinned. "Base, this is Vanguard - threats eliminated."
 			"I hate to rain on your superhero parade, but we have a really, really big problem." she chimed in.
 			"They got the call out?" Connor asked, worried.
 			"No - I'm not seeing any alerts on the system. But I've just read their files - Paladin are expecting the kids tonight. If they get here and see what I can only assume is quite a mess..."
 			"They'll kill them." Connor grimly nodded. He pressed his fingers to his ear.
-			"Sparky - are you at the docks yet?"
+			"Spartacus - are you at the docks yet?"
 			"I'm here." he barked back. "I've checked a few, but haven't found anything yet."
-			"Shannon - please tell me you got an address."
-			"I still can't believe you can understand him..." she chuckled incredulously. "Uh--yeah, I've got an address - Carmine Shipping. Um, Mr. Sparky, sir..."
-			"Sparky's fine." he barked happily. Connor translated.
+			"Base - please tell me you got an address."
+			"I still can't believe you can understand him..." she chuckled incredulously. "Uh--yeah, I've got an address - Carmine Shipping. Um, Spartacus?"
+			"I'm here." he barked happily. Connor translated.
 			"Right, uh... I've got your location now. I'll direct you, and let you know when you're there."
-			"Sparky, recon the site - but do not engage." Connor ordered.
+			"Spartacus, recon the site - but do not engage." Connor ordered.
 			"Why not?! If I find those pups, they need helping!"
 			"We will help them." he cut back in. "But we can't do this alone. We need the police there, to make sure the kids get to safety afterwards. Just hang back for a short while - and then we'll rip 'em apart. Okay?"
 			"I call dibs on the first kill." he grumbled.
@@ -19937,7 +20069,7 @@ VOLUME - Gods Among Men
 			"They're selling the 'incompatibles.'" Connor gasped. "Holding them up on a stage, and bidding on them..."
 			"If that happens while I'm there, then the police can eat my tail." Sparky snarled.
 			"Agreed."
-			He turned. "Verdict, you stay here. Shannon, keep an eye on their comms. If anyone comes here, hold them off until backup arrives."
+			He turned. "Verdict, you stay here. Base, keep an eye on their comms. If anyone comes here, hold them off until backup arrives."
 			"Sir, yes sir." Ivan nodded proudly. "Give 'em hell."
 
 		Infiltration
@@ -19975,7 +20107,7 @@ VOLUME - Gods Among Men
 			"When?"
 			"One hour. Call me if anything goes wrong."
 			"We'll be there. Count on that."
-			"You've perked up lately." Connor noted. "Had a good Christmas?"
+			"You've perked up." Connor noted. "Had a good Christmas?"
 			Naismith thought for a moment, turning to Max. "An old friend gave me some advice."
 			Connor bowed his head respectfully.	"I'll see you soon."
 			Naismith watched as the monster left.
@@ -20013,7 +20145,7 @@ VOLUME - Gods Among Men
 			"Detective." Connor answered. "Where the hell are you?!"
 			"About that..." Naismith replied bashfully, trying to hide his rage. "I'm being stonewalled."
 			"What?"
-			"The Chief Constable, Ronald Dorsey - he's just pulled rank and ordered us to stand down." Naismith shuddered and swallowed.
+			"Dorsey. He's just pulled rank and ordered us to stand down." Naismith shuddered and swallowed.
 			"The same Dorsey who we already had suspicions about?"
 			"No, another Chief Constable Dorsey."
 			"Hey, leave the quips to the professionals." Connor snarked, his voice shaking with rage.
@@ -20028,7 +20160,7 @@ VOLUME - Gods Among Men
 			"Promise to save some for me, and you can make it five."
 			"Done."
 
-			It was a quiet evening in the lobby of the central Police Station. The soft hum of fluorescent lights filled the air. The calm was shattered as the door burst open, and Connor strode in. His eyes flickered around the room, calculating. He morphed a throwing knife from his costume into his hand.
+			It was a quiet evening in the lobby of the central station. The soft hum of fluorescent lights filled the air. The calm was shattered as the door burst open, and Connor strode in. He morphed a throwing knife into his hand.
 			"OI!" he barked, his voice reverberating off the walls. The blade flew through the air, embedding itself into the wall behind a Chief Superintendent, pinning his hat with surgical accuracy. The officer froze, his face pale.
 			A moment of stunned silence followed, then chaos erupted. Several officers sprang into action, their hands instinctively going for their tasers and batons. An alarm blared, its shrill sound slicing through the tension. Plainclothes detectives drew their pistols, their movements sharp and swift.
 			"All units, repeat, all units - status zero at central station! Armed assailant matching the description of the Werewolf is--he's running! He's headed southbound on Drury Lane. Requesting immediate armed response!" the voice crackled through the radio, frantic and urgent.
@@ -20217,60 +20349,62 @@ VOLUME - Gods Among Men
 			He hesitated, and then typed again.
 			"It's time. Invoke the Act."
 
-			Tommy was sitting at home with his boyfriend. They were watching the football.
-			Then, armed police burst in through the front door.
-			"ARMED POLICE! HANDS BEHIND YOUR HEAD!" the first officer shouted.
-			Tommy stood, and complied.
-			"Babe?" his boyfriend asked, shocked.
-			"It's alright, love... it's alright." Tommy sighed, as he was dragged away. The officers beat him savagely with their batons, and threw him into their van. The squadron leader gripped Tommy's face, and looked into his eyes.
-			"Thomas Crane, I am detaining you under the Terrorism Act. Basically... you're fucked."
-
-			Meanwhile, Shannon was sat in her flat, typing away on her computer. She had a shell open, and was typing in various network administration commands.
-			"Open, sesame." she grinned, pressing Enter and seeing a number of files go from Locked to Unlocked.
-			Without warning, armed police burst in through the door.
-			"ARMED POLICE! STAY WHERE YOU ARE!" they roared.
-			Shannon hyperventilated, and pressed a red button on her keyboard. Her screen flickered, before going blank. She raised her hands in the air.
-			"Cuff him." one officer ordered, stressing the word "Him."
-			Shannon cringed at the misgendering, but complied with their demands. They dragged her to the van outside. One officer beat her across the face with his baton, laughed cruelly, and threw her into the van.
-			"Liam Taylor." one officer began. "You are--"
-			"It's *Shannon,* you fascist pig." she spat, only to be beaten again.
-			"Liam." he repeated viciously. "I am detaining you under the Terrorism Act."
-
 			In his dinky flat, DI Naismith was sipping a beer bottle, while Max slept at his feet.
 			"Good boy." he smiled softly.
 			A knock came at the door.
 			He took another swig, then stood to answer it.
 			"DI Naismith, I am detaining you under the Terrorism Act. You do not have to say anything... I expect you know the rest."
 			"What the fuck is this?" he tilted his head.
-			The officer responded by pulling out his sidearm.
+			Dent responded by pulling out his sidearm.
 			"Don't make this difficult."
 			Naismith grimaced, then walked out. Max whimpered and whined.
 
-			As all this happened, Pawel was checking IDs at the entrance to the Singing Horse.
+			To most, it was a normal night. As usual, Pawel was checking IDs at the entrance to the Singing Horse. The bass thumped through the walls, spilling out onto the street.
 			"You're clear. On you go." he smiled to a clubgoer.
 			The gang approached the queue.
 			"Ey! Pawel! Big man!" Trey cheered.
 			Pawel laughed. "Trey's drunk and the sky is blue!"
-			Then, armed officers approached, guns drawn.
-			"HANDS BEHIND YOUR HEAD!" they barked.
+			"Hey, the sky's actually black." Shannon quipped, her laptop bag slung over one shoulder. She'd been quiet all evening - still working through the last of the Gambit files in her head - but she'd come out anyway. Trey had insisted. It was nice, she thought, to have people who insisted.
+			"Alright, brainiac!" Pawel grinned. "Come on in."
+			Then, they came.
+			Three black, unmarked vans, screeched to a halt at the curb. Armed officers poured out, guns drawn.
+			"PAWEL RAKOWSKI! HANDS BEHIND YOUR HEAD!" they barked.
 			"The fuck?" Amy asked, shocked.
 			Pawel knelt down and complied.
-			They cuffed him, and began to beat him.
+			"Pawel Rakowski, I am detaining you under the Terrorism Act." the lead officer barked.
+			They cuffed him, and one officer struck him in the stomach.
 			"HEY!" Connor barked. "GET AWAY FROM HIM!"
 			"Connor, don't!" Chloe protested, fearful.
-			"THAT'S THEM!" an officer snapped.
-			For a second, Connor considered fighting back - no. That'd blow his cover. He let himself be cuffed. He looked over, and saw Trey being cuffed too.
-			"The fuck is your problem?!" he snapped.
-			"You are both being detained under the Terrorism Act." the officer began, grinning viciously. "Take 'em away, boys."
+			"THAT'S THEM!" an officer snapped. "The other suspects!"
+			"What?!" Connor snarled.
+			Too late. The officers drew, and trained their guns on Connor's head.
+			For a second, he considered fighting back - no. That'd blow his cover. He let himself be cuffed.
+			To his horror, he saw Trey and Shannon get grabbed as well.
+			"I am detaining you all under the Terrorism Act." the officer spat.
 			"Terrorism?! The fuck are you on about?" Amy barked.
 			"Amy, don't." Connor said firmly. "Tell Sparky I'm okay, please."
-			The cops dragged the pair away. Unable to contain their glee, they began beating Trey with their batons.
+			"What the FUCK is going on out here?!"
+			Tommy stormed out of the club, his face red with fury. He stopped dead when he saw the scene.
+			"Thomas Crane." the lead officer barked, stepping forward.
+			"You can't do this!" Tommy barked. "This is my club, my--"
+			A baton cracked across his stomach. He doubled over, wheezing.
+			"The fuck is your problem?!" Trey snapped.
+			"Take 'em away, boys."
+			The cops dragged the Hoods away. Unable to contain their glee, they began beating on Trey and Shannon with their batons.
 			Bea pulled out her phone and began filming, before another officer snatched it, grinned, and stomped on it.
-			Connor exploded. He slipped out of his handcuffs, and caught the baton mid-swing, just before it could hit Trey's chest again. He headbutted the assaulting officer, causing his grip to release. Then, he took the baton, and jabbed him in the face, knocking out his teeth. He brought it down on his head, knocking him out cold. He swung at the second officer, hitting him in the abdomen, before swinging again at his back, taking him down too.
+			Connor exploded. He slipped out of his handcuffs, and caught the baton mid-swing, just before it could hit anyone again. He headbutted the assaulting officer, causing his grip to release. Then, he took the baton, and jabbed him in the face, knocking out his teeth. He brought it down on his head, knocking him out cold. He swung at the second officer, hitting him in the abdomen, before swinging again at his back, taking him down too.
 			With that, the other officers trained their rifles on him. Connor stood there above the bodies, and panted like a rabid dog, steam puffing from his mouth.
 			"CONNOR!" Chloe begged. "Please, just do what they say!"
-			"I'm okay..." Trey groaned in pain. "Don't get yourself exposed over this."
-			Connor thought hard for a moment. Finally, he dropped the baton, and surrendered. The boys and Pawel were thrown into the police van, where Tommy and Shannon sat, bruised and bloodied. The van sped off.
+			"we're okay..." Trey groaned in pain.
+			"Don't get yourself exposed over this." Shannon nodded.
+			Connor thought hard for a moment. Finally, he dropped the baton, and surrendered.
+			They shoved him into the van alongside the others. Shannon was pressed between Trey and Pawel, her lip split and her eye already swelling. Tommy sat across from them, blood trickling from his nose.
+			"Cuff him." one ordered, nodding at Shannon.
+			One of the officers grabbed her wrists. He paused, looking her up and down with a sneer.
+			"Liam Taylor, right?"
+			"It's *Shannon,* you fascist pig." she spat, only to be beaten again.
+			"Liam." he repeated viciously. "Connor. Trevor. Tommy. Pawel. I am detaining you all under the Terrorism Act. Basically... you're fucked."
+			The van doors slammed shut. The engine roared, and they sped off into the night.
 			"FUCK!" Bea exhaled at last.
 			Amy took a deep, deep breath.
 
@@ -20325,19 +20459,18 @@ VOLUME - Gods Among Men
 		SCENE
 			It was cold now, with icy rain pattering on the ground - as though the heavens had decided the valley wasn't miserable enough. About an hour had passed since the purge of Redbridge, and a big, bulky transport vehicle pulled up outside HMP Northgate, Wickermast. Prison guards stood by, as the back doors of the van opened up. The captured Hoods were shoved out of the vehicle by officers.
 			The urge to kill humans hadn't been this strong in a while, now. He suppressed it with all his willpower, and rose to his feet. Despite being cuffed, he helped Trey stand.
-			Connor's face creased in rage. Despite being cuffed, he helped Trey stand.
-			With that, they looked up at the prison complex. Connor had been here to visit Vince before, but the place never looked so... imposing. Tall wire-fence walls with barbed wire at the top. A guard tower overlooking the complex from across the car park.
+			With that, they looked up at the prison complex. Connor had been here to visit Vince before, but the place never looked so... imposing. Tall wire-fence walls with barbs at the top. A guard tower overlooking the complex from across the car park.
 			They were separated. Connor was taken to a room, where a prison officer stood.
 			The officer pat Connor down. While doing so, the violent temptations returned.
 			It would be so easy.
 			Connor bit his tongue. Visions of snapping the officer's neck flooded his mind.
 			The officer finished, and handed Connor a set of prison clothes.
 			"Get changed." he ordered, before leaving the room.
-			Connor un-morphed his clothes, and stood naked for a moment, feeling his muscles tense in anger. He sighed, and put on the prison uniform, before exiting.
+			Connor un-morphed his clothes, and stood naked for a moment, feeling his muscles tense in anger. He sighed, and put on the prison uniform, before exiting. It felt like sandpaper on his skin - he couldn't wait to ditch it and morph a comfier replica.
 			The officer marched Connor to his cell.
 			"You'll remain in this cell. You'll be bunking with another inmate. As you know, you're being held under the new Terrorism Act, which means certain liberties will be denied to you. You do not have the right to visitation. You do not have an unconditional right to legal counsel. Your case will be heard by a judge under the Diplock System in no more than 60 days."
 			Connor's face creased in anger. "I grew up in the fuckin' Bogside, mate. I know what this bullshit entails."
-			The officer shrugged and raised his palms, as if to say "Fair enough." before opening the cell door, and walking away.
+			The officer shrugged and raised his palms, as if to say "Fair enough," before opening the cell door, and walking away.
 			In the cell stood Stoker. He turned, spotted Connor, and grinned viciously.
 			"Well, well, well..." he chuckled. "If it ain't Vince's brat. Oh, I'm gonna enjoy making you my bitch--"
 			Before he could finish, Connor delivered a punch to his face at super-speed. Stoker's teeth flew backwards into his throat, and blood poured from his mouth as he choked. Connor grabbed his neck, and stared into his eyes.
@@ -20380,8 +20513,7 @@ VOLUME - Gods Among Men
 			They let the moment hang, as the others came out.
 			"The fuck is going on?" Trey asked.
 			"We're being targeted. The police chief, Dorsey, has claimed we're some kind of militant group, which means he can invoke the Terrorism Act and put us in here without charge." Tommy explained. "Worse, we don't have the right to a jury. We'll be tried by a government-appointed judge."
-			"What, the fuckin' Diplock courts? This isn't bloody Belfast!" Vince protested.
-			"No, but Dorsey's argument is that if he doesn't lock us up, it soon will be."
+			"What, the fuckin' Diplock courts!?" Vince snarled.
 			Pawel shuddered. "I grew up under Jaruzelski - and they still at least *pretended* to give you a trial."
 			Tommy chuckled. "So, we have fewer civil rights than citizens under a military dictatorship. We're *fucked.*"
 			Connor spoke up. "Tommy, have you heard from the Werewolf?" he asked, making a point in his facial expressions - "Be subtle."
@@ -20407,8 +20539,8 @@ VOLUME - Gods Among Men
 			"Does anyone *not* know my secret?"
 			"Connor, I saw you run off at the community centre. They said their saviour took out five goons and shrugged off a stabbing. I just assumed it was an unspoken thing."
 			Connor shrugged. "So, at least we're all on the same page."
-			"What doesn't make sense is why they arrested you." Trey began, looking at Shannon. "If they knew who Connor was, then fine, they just go after all of his associates. But if they're here because of Redbridge?"
-			"Well, I--" she stammered. "I'm kinda on the team, you know? I've been hacking for the Hoods."
+			"What doesn't make sense is why they arrested you." Trey began, looking at Shannon. "If they knew who Connor was, then fine, you're his hacker. But if they're here because of the Hoods?"
+			"Well, I--" she stammered. "I don't just work for Connor, you know? I've been helping out with the Hood side of things too - like those magnetic lockpicks we've used in the past."
 			Trey looked at Tommy, and scowled. "This is you all over. Taking good people, and turning them into weapons."
 			"Excuse me?" Tommy asked, his brow furrowing. "You wanna dredge this shit up again? I've told you before - I don't coerce."
 			"No, you just give people causes, don't you? First you sent Connor on that stupid casino job that got him kidnapped, and then--"
@@ -20796,7 +20928,7 @@ VOLUME - Gods Among Men
 		Who's Speaking
 		______________________________
 		SCENE
-			"Just what in the hell is going on?!" newly-elected mayor Helen Ward snapped.
+			"Just what in the hell is going on?!" newly-elected mayor Helen Ward snapped. Her wounds were still aching, but she forced herself to work.
 			"Ma'am." Dorsey began, scowling. "Our department neutralised a dangerous terrorist group. You should be thankful."
 			"Be thankful?! You've abused an already constitutionally-dodgy law!"
 			"In the business, we call it 'the Belfast.'" he snarked. "Now, I know you socialists aren't particularly bright, so I'll explain this clearly - in the event of a terrorist threat, like the Werewolf and his Hood cronies, it is up to the discretion of the Chief Constable - that's me, in case you hadn't noticed - to neutralise their threat. Deputising Gambit was a necessary step to achieve order in our streets."
@@ -24536,7 +24668,7 @@ VOLUME - Gods Among Men
 			She grinned. "I'll admit... the gliding--well, flying in my case... it's pretty fun."
 			"It is, isn't it?!" he beamed. "There aren't many perks to this job... but being able to take to the sky is definitely one of them."
 			"I feel bad for Amy - Ivan too, I guess. They're stuck on the ground." she chuckled. "Oh, by the way - you could probably improve your glider's aerodynamics with a little tinkering."
-			"Hey, I like it as it is." he snarked, gesturing at the membranous wing-cape.
+			"Hey, I like it as it is." he snarked, flaring his wings in emphasis.
 			"We should change your name from 'Werewolf' to 'Flying Squirrel.'" she quipped back.
 			"Oh, you're getting better at banter. That's a good sign." he laughed. "Okay, fine - what changes should I make?"
 			"You know that smoke bomb trick? How you draw in air, then pressurise it?"
@@ -25634,7 +25766,7 @@ VOLUME - Gods Among Men
 			He hung up. Another phone call.
 			"For fuck's sake..." he muttered before answering. "Hello?"
 			"Bratan - big news."
-			"Oh, hey Ivan - let me guess..."
+			"Oh, hey Verdict - let me guess..."
 			"Yes - Vitalis's under siege. Get there now. I'm in London at the moment - long story. I'll see you soon, tovarishch."
 			Finally, Connor arrived. He felt his phone ringing, and looked at the scene - the entrance to the labs. DCI Naismith was there, ringing him. Upon spotting him, he hung up. Connor approached.
 			"Werewolf." Naismith nodded. The armed officers in TO-24 aimed their guns at him.
@@ -29717,8 +29849,8 @@ VOLUME - Gods Among Men
 
 			An old, battle-hardened man stood on his balcony. He bore the marks of a storied army career - multiple scars, an eyepatch over his right eye, a missing left arm, and an unnatural gait implying at least one prosthetic leg. He wore a black waistcoat over a white shirt and a red tie, as well as a long leather trenchcoat. His silvery hair was long and untamed, stretching down to his shoulders. His beard was likewise thick - were it not for the clothes, he'd look destitute.
 			His phone rang.
-			"Major?" the voice on the other end began. "The Belson situation... it's over."
-			"Thank god. I had a feeling our man'd pull through." the Major nodded. His voice was a mix of Received Pronunciation and Welsh. "How's Verdict?"
+			"Major Bevan, sir?" the voice on the other end began. "The Belson situation... it's over."
+			"Thank god. I had a feeling our man'd pull through." the Major nodded. He spoke with a subtle Welsh accent - the kind that meant he was used to hiding among the English. "How's Verdict?"
 			"Critical, but stable. Same for the wolf. Mr. Barrett is badly injured and unconscious, but he doesn't seem like he needs immediate intervention."
 			"Excellent. And his friends?"
 			"We have a team in place to pick up Ms. Derrington. But... there's been a complication."

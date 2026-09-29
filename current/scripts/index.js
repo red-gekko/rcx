@@ -726,7 +726,6 @@
                     <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>
                     <ul>
                         <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the entire story scene by scene, crossing episode and volume boundaries. If Autoplay is on, the new scene begins narrating immediately.</li>
-                        <li><strong>📋 Copy Scene</strong> — Copy the currently displayed scene's text (with original punctuation and line breaks) to your clipboard. Useful for quoting, archiving, or pasting into another app.</li>
                         <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story (e.g. <code>4 / 27 — Volume 1 · Episode 2</code>).</li>
                     </ul>
 
@@ -755,9 +754,10 @@
 
                     <h3>📂 Story Source</h3>
                     <ul>
-                        <li><strong>Load from Computer</strong> — Clear the currently loaded story and switch this session to manual upload mode. It will not try the server again unless you explicitly choose Reload from Server.</li>
-                        <li><strong>Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache. If the server cannot be reached, this will <em>not</em> silently fall back to a cached copy — you will be prompted to load the story manually instead. (The cache is still used silently on first page load, when the reader is just trying to show you something.)</li>
-                        <li><strong>Clear Loaded Story</strong> — Unload the current story from the reader without touching your saved reading position, narration preferences, or offline cache. Use this if you want to stop reading entirely without losing your place. The confirmation warning appears only if a story is currently loaded.</li>
+                        <li><strong>📂 Load from Computer</strong> — Clear the currently loaded story and switch this session to manual upload mode. It will not try the server again unless you explicitly choose Reload from Server.</li>
+                        <li><strong>🔄 Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache. If the server cannot be reached, this will <em>not</em> silently fall back to a cached copy — you will be prompted to load the story manually instead. (The cache is still used silently on first page load, when the reader is just trying to show you something.)</li>
+                        <li><strong>🧹 Clear Loaded Story</strong> — Unload the current story from the reader without touching your saved reading position, narration preferences, or offline cache. Use this if you want to stop reading entirely without losing your place. The confirmation warning appears only if a story is currently loaded.</li>
+                        <li><strong>📋 Copy Scene</strong> — Copy the currently displayed scene's text (with original punctuation and line breaks) to your clipboard. Useful for quoting, archiving, or pasting into another app.</li>
                     </ul>
 
                     <h3>💾 Reader Convenience</h3>

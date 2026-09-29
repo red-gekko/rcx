@@ -19535,7 +19535,7 @@ VOLUME - Gods Among Men
 		Vote Count Massacre
 		______________________________
 		SCENE
-			Dark, now. Drackhill Trauma Centre had been bustling heavily over the last few says, and today was much the same.
+			Dark, now. Drackhill Trauma Centre had been bustling heavily over the last few days, and today was much the same.
 			In the ICU, under armed guard and hooked up to a number of machines, however, a particular VIP laid.
 			Mayor-Elect Helen Ward.
 			She was sat up straight, despite the pulsing pain, reviewing paperwork and taking briefings from pale staffers.
@@ -19547,7 +19547,7 @@ VOLUME - Gods Among Men
 			"Hang on a minute." she cut in. "Those provisions strip our citizens of their most fundamental civil rights. The answer to this kind of attack is not--"
 			"Ma'am. The Valley Council has already voted unanimously to approve these provisions. You need to sign."
 			"She's not even been sworn in yet." an aide protested. "Back off while she recovers, yeah?"
-			"Fine. I'll speak with the council about our options." he sneered. "Good evening, ma'am."
+			"Fine. I'll speak with the council about our options." he sneered. "Get well soon, ma'am."
 			As he walked away, she sighed.
 			"If the mayoral office is vacant, the council can approve its own acts." another aide noted. "You can exercise your veto, but..."
 			"That'd be deeply unpopular at the moment." the first sighed.
@@ -19584,7 +19584,7 @@ VOLUME - Gods Among Men
 			"I, um... well, I had a theory the Skulls were the ones behind the recent attacks." he began. "After all, they've got a vendetta against the Werewolf, right? So, I managed to track down this one goon, Leo - I found a bunch of videos on his computer. You know, the ones where the Werewolf comes onto the TV and claims responsibility for whatever they're accusing him of?"
 			"They were fakes?" she tilted her head.
 			"Yeah, for certain. I found one claiming responsibility for a bunch of 'agents' shooting something up, and saying democracy was a lie, and 'they' were 'hiding behind their elections' - I just put two and two together. I--I called the police. Told them what I found."
-			"Except you couldn't give them the evidence, because you obtained it illegally." she nodded. "So, they didn't act on it until it was too late."
+			"Except you couldn't give them the evidence, because you obtained it illegally." she nodded. "So, they didn't act on it in time."
 			"When I heard that, I called you guys. I figured, if I could at least get you guys out of there... but I was too late." he sighed.
 			"Hey..." she said softly, taking his hand. "You did the right thing. That counts for a lot. And... you're sure the Skulls are behind the attacks?"
 			"...not them, no." he admitted. "The people they work for - whoever made that 9 foot tall fucker."
@@ -19622,9 +19622,9 @@ VOLUME - Gods Among Men
 			"Yeah - I texted her on the way back. Thank God she was able to get to us on such short notice - but she's laying low now. There's still some loose ends she needs to tie up before she can commit to us full-time; and I agree. Last thing we need is to have to worry about ODIN on top of everything else."
 			"I'll swing by the clock tower on next patrol. If she needs help with any Esper-stuff, we can give her a hand." Sparky yapped.
 			"Good idea. Likewise, if any Esper kids are involved in the trafficking, we might need advice off of her." Connor nodded. "Alright - let's reconvene tomorrow morning. Rest up - we're gonna need it."
-			"I'm gonna go back home. My dad's panicking." Trey smiled. "If I can help at all, just give me a call."
+			"I'm gonna go back home. My dad's panicking." Trey began. "If I can help at all, just let me know."
 			"Likewise." Connor smiled, hugging his best friend. "See you around, bro."
-			"Oh, Shan?" Amy began. "Your room's ready. Number 7."
+			"Oh, Shan?" Amy added. "Your room's ready. Number 7."
 			"Thanks." she smiled softly. "I'll finish up in here, and go to bed."
 			"I'm gonna go on patrol." Connor nodded.
 			"What happened to resting up?" Amy cocked her brow.
@@ -19644,7 +19644,7 @@ VOLUME - Gods Among Men
 			"I--Sorry, sir. I didn't know you were coming."
 			"Not to worry. I won't be long." Oxford smiled. "I must say, the levels of collateral damage wrought have been... concerning. Not to mention the breach of normalcy, with a Jotunn openly assaulting the vote count."
 			"I--I understand, sir. I was working under the impression that we were trying to stoke public fear." the Commandant nodded quickly.
-			"Well, yes. It's called 'terrorism' for a reason, after all." Oxford chuckled. "Still, the implementation of the Terrorism Act will be a useful test case. We will continue promoting disinformation, though the unfortunate timing of the latest deepfake has hindered that effort. I expect your Gambit proxies to bring this city to heel, yes?"
+			"Well, yes. It's called 'terrorism' for a reason, after all." Oxford chuckled. "Still, the implementation of the Act will be a useful test case. We will continue promoting disinformation, though the unfortunate timing of the latest deepfake has hindered that effort. I expect your Gambit proxies to bring this city to heel, yes?"
 			"Yes sir, absolutely."
 			"And the upcoming movement of children?"
 			"It's going ahead, sir."
@@ -21389,6 +21389,40 @@ VOLUME - Gods Among Men
 			"I'm gonna get some food." Connor nodded. "Be careful in here. The guards don't get involved in prisoner disputes, and this place is called 'the nonce wing' for a reason."
 
 			Morning lectures were finally over, and Chloe walked slowly into the canteen.
+			"Chlo!" Bea called out from her table.
+			Chloe walked over, and stifled a scowl as she saw who she was with.
+			"Hello, Chloe." Charlie nodded curtly.
+			"Hey." she nodded in kind, taking a seat.
+			"How have your lectures been?" Bea asked.
+			"Eh." she shrugged. "Yours?"
+			"Pretty similar." Bea sighed. "Oh, sorry I missed you earlier - I was round Charlie's last night."
+			"No worries." Chloe sipped her drink.
+			"You don't need to apologise for being with me." Charlie said, forcing a smile.
+			"Oh, no of course - I didn't mean it like that." Bea quickly nodded.
+			Chloe looked away, and forced herself to remain composed.
+			"How have you been, Chloe? I imagine Connor's... 'legal issues' have been hard on you." Charlie began.
+			Her brows creased. "'Legal issues?' He's been kidnapped by the state."
+			"Well, no. He's been arrested due to his membership in that 'Hood' terror group." Charlie grinned.
+			"They're not--" she started, before cutting herself off and taking a breath. "I don't want to talk about it."
+			"There's, um... there's a protest being held in Langley Square today." Bea began, almost hesitantly. "I heard a lot of students on my course say they would go."
+			"What a bunch of morons." Charlie scoffed. "When terrorists attack, certain liberties get restricted. It's unpleasant, fine, but that's the price of security."
+			"Yes, because famously, no government in history ever used tragedies to justify authoritarianism." Chloe snarked.
+			"Oh, and these protestors have the right idea, do they? I'll tell you their plan - they want to provoke the police. They'll cause a nuisance, flagrantly defying the anti-riot provisions, and then they'll pretend the police started it."
+			"Oh, those poor cops. How ever will they cope with a bunch of teenagers holding signs? I guess we'd better just stop having civil rights."
+			"Okay, enough." Bea sighed. "Look, I know things are hard, but can we not do this?"
+			"Sorry." Chloe nodded quickly - making sure to concede before Charlie did. "Anyway, I did hear about the protest, yes. I'm going to attend."
+			"Then you're a fool as well." Charlie scoffed. "Don't be surprised when--"
+			"Charlie!" Bea hissed. "I'm going too. I don't care about what the cops say - my friends have been thrown into prison without charge or trial. If you don't think I've got something to say about that, then you don't know me."
+			Chloe smiled proudly, leaning back.
+			"Of--of course I know you." he quickly backtracked. "I'm so sorry my love, I didn't mean it like that."
+			"It's fine." she sighed. "Anyway - I've got a class."
+			"Me too." Chloe rose, "I'll walk with you?"
+			Bea nodded.
+			"...enjoy your protest." Charlie said through gritted teeth.
+
+			Connor stood in the VPU's canteen, holding his tray.
+			A few faces stood out to him - mainly, people he'd put in there himself.
+			He grinned, as one man who'd spiked a young woman limped past him. It didn't look like that knee would ever heal properly.
 
 		Vulnerable Prisoner's Unit
 		______________________________

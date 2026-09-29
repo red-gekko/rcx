@@ -3864,7 +3864,7 @@ VOLUME - Wolves Among Sheep
 			The first one to wake was small. But... in a strange way. People with dwarfism, they tend to suffer from improper proportions. Often, the torso is of average length, but the limbs are affected. In some poor souls, it's the inverse.
 			Not this 'man.' He was barely 4 feet tall, but his proportions were perfect for his size. Structurally speaking, he was less of a little person, and more like an average person had been scaled down.
 			That was, sadly, where his similarities to the average person ended.
-			His skin was a deep, almost mossy green. His ears were huge, and almost bat-like. His yellow eyes scowled as he rose, clutching his ragged clothes closer for warmth.
+			His skin was a deep, mossy green. His ears were huge, and almost bat-like. His yellow eyes scowled as he rose, clutching his ragged clothes closer for warmth.
 			Next to him, however, was the 'main event.'
 			Enormous. At least 8 feet tall. And his skin was dark blue. He stumbled to his thick feet, scratching absently at his head. He wore a vacant expression - unlike his little brother, he didn't seem to recognise the insult.
 			The two didn't have names - not like most did, anyway. When they were born, their mother abandoned them in horror. It was only by dumb luck that they weren't picked apart by the wild dogs of their native Romania.
@@ -4297,7 +4297,7 @@ VOLUME - Wolves Among Sheep
 			Dobel snarled. "You stupid little bitch. I guess it runs in the family."
 			She scowled. "Get it over with. Do it."
 			Dobel grinned savagely, and beckoned.
-			Chains rattled, as thumpy, wet step after thumpy wet step filled the air.
+			Chains rattled, as thumpy wet step after thumpy wet step filled the air.
 			A horrific, shambling creature stumbled out into the space. Its skin was pallid, and its veins were black. One arm was so large and bulbous, it reached the ground. The other had withered away, and a blade had been crudely driven through it. Its feet were twisted, to the point where it stood on its digits like a dog. And its face was misshapen, with the jaw jutting out and the eyes bloodshot and tearful. A thick harness was strapped to its chest, and dragged a long metal chain over the floor.
 			No one could recognise the man it once was.
 			Except, of course, his daughter.
@@ -19552,11 +19552,11 @@ VOLUME - Gods Among Men
 			"If the mayoral office is vacant, the council can approve its own acts." another aide noted. "You can exercise your veto, but..."
 			"That'd be deeply unpopular at the moment." the first sighed.
 			"Damned if I do, damned if I don't." Ward lamented. "Alright, we'll have to work with what we've got. Allow the act to be approved without our signature; and then, we'll order the police to ignore the provisions on freedom of assembly or due process."
-			"What about the Werewolf, ma'am? What should we do about him."
+			"What about the Werewolf, ma'am? What should we do about him?"
 			"I... I'm not sure. Yesterday, I would've said we need to bring him to justice. But... something else is going on. I know *that,* at least."
 
 			Connor took a deep breath as he walked out of the shower, and checked himself out in the mirror.
-			Healed, completely. He sighed, and morphed up a few bruises for cover. Fresh clothes oozed out of his skin, and he went into the communal lounge. Chloe was on the sofa, with a blanket over her lap, and Sparky nuzzled into her. He did a surprisingly convincing job of hiding his spinal injury.
+			Healed, completely. He sighed, and morphed up a few bruises for cover. Fresh clothes oozed out of his skin, and he went into the communal lounge. Chloe was on the sofa, with a blanket over her lap, and Sparky nuzzled into her. He did a surprisingly convincing job of hiding his spinal injury - of course, by being fast asleep.
 			"Hey." she smiled as Connor sat down. "Feeling better?"
 			"Yeah. Still aches, though." he nodded. "You?"
 			"I'm coping." she shrugged. "I feel like I should be more upset, but..."
@@ -19577,7 +19577,31 @@ VOLUME - Gods Among Men
 			"Well, this one will be easier, at least. Say what you like about the Werewolf, but at least I don't need to scoop out this one's organs; that work's been done."
 			She stopped herself. "Sorry, that was a bit grim, wasn't it?"
 			Connor grinned widely. "There are worse coping mechanisms."
-			They shared a chuckle, glad to cut the tension. Then, the doorbell made a noise, as two men entered.
+			They shared a chuckle, glad to cut the tension.
+			"Um..." she began. "How did you know about the attack?"
+			Connor paused for a moment, thinking as fast as he could.
+			He hated this part. The lying.
+			"I, um... well, I had a theory the Skulls were the ones behind the recent attacks." he began. "After all, they've got a vendetta against the Werewolf, right? So, I managed to track down this one goon, Leo - I found a bunch of videos on his computer. You know, the ones where the Werewolf comes onto the TV and claims responsibility for whatever they're accusing him of?"
+			"They were fakes?" she tilted her head.
+			"Yeah, for certain. I found one claiming responsibility for a bunch of 'agents' shooting something up, and saying democracy was a lie, and 'they' were 'hiding behind their elections' - I just put two and two together. I--I called the police. Told them what I found."
+			"Except you couldn't give them the evidence, because you obtained it illegally." she nodded. "So, they didn't act on it until it was too late."
+			"When I heard that, I called you guys. I figured, if I could at least get you guys out of there... but I was too late." he sighed.
+			"Hey..." she said softly, taking his hand. "You did the right thing. That counts for a lot. And... you're sure the Skulls are behind the attacks?"
+			"...not them, no." he admitted. "The people they work for - whoever made that 9 foot tall fucker."
+			Chloe nodded again. "That makes sense. I... I'm worried, Connor. Something big is happening, and I feel like I'm stumbling into it blindfolded."
+			Connor's stomach twinged. He felt the pressure rising.
+			He could take that blindfold off. He could tell her everything.
+			And then what?
+			Maybe she'd walk away. Leave Vitalis, go back home and be safe from all of it. Safe from *him.*
+			Maybe she'd dig deeper, now knowing where to look - and get herself killed.
+			Maybe she'd be so afraid, she'd run right into their arms.
+			Maybe--
+			"Connor?" she asked, shaking him from his stupor.
+			"Sorry." he shook his head. "I was just thinking. I wish I knew what was going on, too."
+			"Maybe I can ask the Werewolf. He's already saved my life a couple of times now." she quipped.
+			Connor let out a subdued chuckle.
+			"Hey, don't worry. You're still my favourite saviour." she grinned.
+			"Better be." he smirked. Then, the doorbell made a noise, as two men entered.
 			"Ah, customers." he nodded. "I'll see you in the morning, yeah?"
 			"Yeah, definitely. And - thanks again for this."
 			"Don't mention it." he smiled. She rose, and hesitated, before hugging him. They held it for a minute, before parting.
@@ -20725,7 +20749,7 @@ VOLUME - Gods Among Men
 			He looked out at the pale-faced officers, and grinned.
 			"I promise you, public trust will be restored. The anarchist forces will be extirpated. And policing will once again be left to those who know it best - us. That will be all."
 
-		Charlie gaslights Bea/The King's Gambit
+		Charlie gaslights Bea/Dorsey's Coup
 		______________________________
 		SCENE
 			The morning bell cut through Connor's ears, and he scowled at it. He forced himself out of his bunk.
@@ -21026,7 +21050,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Rebels
+	EPISODE - Breakout
 		______________________________
 		SCENE
 			It was your average evening in Belson.
@@ -21375,6 +21399,10 @@ VOLUME - Gods Among Men
 		SCENE
 
 		The Great Escape... Again
+
+
+	______________________________
+	EPISODE - Freedom Fighters
 		______________________________
 		SCENE
 

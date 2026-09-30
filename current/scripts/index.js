@@ -24,6 +24,7 @@
             const volumeSelect = document.getElementById('volume-select');
             const episodeSelect = document.getElementById('episode-select');
             const sceneSelect = document.getElementById('scene-select');
+            const wholeEpisodeToggle = document.getElementById('whole-episode-toggle');
             const contentArea = document.getElementById('content-area');
             const statusEl = document.getElementById('status');
             const debugInfo = document.getElementById('debug-info');
@@ -92,6 +93,12 @@
 
             let sceneContentEl = null;
 
+            // ── Whole-Episode mode ──
+            // When true, the scene dropdown is disabled and the entire episode is
+            // parsed into a single continuous chunk stream instead of one scene
+            // at a time.
+            let wholeEpisodeMode = false;
+
             // ── Help-mode state ──
             let helpVisible = false;
             let resumeChunkIndex = -1;
@@ -119,18 +126,35 @@
                     const prefs = JSON.parse(raw);
                     if (Number.isFinite(prefs.playbackRate) && prefs.playbackRate >= 0.5 && prefs.playbackRate <= 2) { playbackRate = prefs.playbackRate; speedSlider.value = playbackRate; }
                     if (typeof prefs.autoplayEnabled === 'boolean') autoplayEnabled = prefs.autoplayEnabled;
+                    if (typeof prefs.wholeEpisodeMode === 'boolean') wholeEpisodeMode = prefs.wholeEpisodeMode;
                 } catch (e) { console.warn('Preference restore failed:', e); }
             }
             function savePreferences() {
                 const v = voiceSelect.value !== '' && availableVoices[voiceSelect.value] ? availableVoices[voiceSelect.value] : null;
-                storageSet(STORAGE_KEYS.preferences, JSON.stringify({ playbackRate, autoplayEnabled, voiceName: v ? v.name : '', voiceLang: v ? v.lang : '' }));
+                storageSet(STORAGE_KEYS.preferences, JSON.stringify({
+                    playbackRate,
+                    autoplayEnabled,
+                    wholeEpisodeMode,
+                    voiceName: v ? v.name : '',
+                    voiceLang: v ? v.lang : ''
+                }));
             }
             function getSavedProgress() {
                 try { const raw = storageGet(STORAGE_KEYS.progress); return raw ? JSON.parse(raw) : null; } catch (e) { return null; }
             }
             function saveReadingProgress() {
-                if (!storyData || !currentStoryFingerprint || !volumeSelect.value || !episodeSelect.value || !sceneSelect.value) return;
-                storageSet(STORAGE_KEYS.progress, JSON.stringify({ fingerprint: currentStoryFingerprint, volume: volumeSelect.value, episode: episodeSelect.value, scene: sceneSelect.value, flatIndex: getCurrentFlatIndex(), sceneName: currentSceneName, savedAt: Date.now() }));
+                if (!storyData || !currentStoryFingerprint || !volumeSelect.value || !episodeSelect.value) return;
+                if (!wholeEpisodeMode && !sceneSelect.value) return;
+                storageSet(STORAGE_KEYS.progress, JSON.stringify({
+                    fingerprint: currentStoryFingerprint,
+                    volume: volumeSelect.value,
+                    episode: episodeSelect.value,
+                    scene: wholeEpisodeMode ? '' : sceneSelect.value,
+                    wholeEpisode: wholeEpisodeMode,
+                    flatIndex: wholeEpisodeMode ? getCurrentFlatEpisodeIndex() : getCurrentFlatIndex(),
+                    sceneName: currentSceneName,
+                    savedAt: Date.now()
+                }));
             }
             function clearSavedProgress(showStatus = true) {
                 try { localStorage.removeItem(STORAGE_KEYS.progress); } catch (e) {}
@@ -145,8 +169,9 @@
                 try { const raw = storageGet(STORAGE_KEYS.storyCache); const c = raw ? JSON.parse(raw) : null; return c && typeof c.text === 'string' && c.text ? c : null; } catch (e) { return null; }
             }
             function showResumeBanner(progress) {
-                if (!progress || !progress.sceneName) return;
-                resumeBanner.innerHTML = `↩ Resumed from <strong>${escapeHtml(progress.sceneName)}</strong>`;
+                if (!progress) return;
+                const label = progress.sceneName || progress.episode || 'previous position';
+                resumeBanner.innerHTML = `↩ Resumed from <strong>${escapeHtml(label)}</strong>`;
                 resumeBanner.classList.add('visible');
                 setTimeout(() => resumeBanner.classList.remove('visible'), 1000);
             }
@@ -364,8 +389,8 @@
                     cancelAutoplayCountdown();
                 } else {
                     if (!ttsActive && chunks.length > 0 && currentChunkIndex >= chunks.length) {
-                        const list = getFlatSceneList();
-                        const flatIndex = getCurrentFlatIndex();
+                        const list = wholeEpisodeMode ? getFlatEpisodeList() : getFlatSceneList();
+                        const flatIndex = wholeEpisodeMode ? getCurrentFlatEpisodeIndex() : getCurrentFlatIndex();
                         if (flatIndex >= 0 && flatIndex < list.length - 1) {
                             startAutoplayCountdown();
                         } else {
@@ -596,6 +621,57 @@
                 );
             }
 
+            // ── Whole-episode variants ──
+
+            function getFlatEpisodeList() {
+                if (!storyData || !storyData.volumes) return [];
+                const list = [];
+                storyData.volumes.forEach((vol, vi) => {
+                    vol.episodes.forEach((ep, ei) => {
+                        list.push({
+                            volumeIndex: vi,
+                            episodeIndex: ei,
+                            volumeName: vol.name,
+                            episodeName: ep.name,
+                            episodeId: ep.id
+                        });
+                    });
+                });
+                return list;
+            }
+
+            function getCurrentFlatEpisodeIndex() {
+                const volVal = volumeSelect.value;
+                const epId = episodeSelect.value;
+                if (!volVal || !epId) return -1;
+                const list = getFlatEpisodeList();
+                return list.findIndex(item =>
+                    item.volumeName === volVal &&
+                    item.episodeId === epId
+                );
+            }
+
+            function getSelectedEpisode() {
+                if (!storyData || !volumeSelect.value || !episodeSelect.value) return null;
+                const volume = storyData.volumes.find(v => v.name === volumeSelect.value);
+                if (!volume) return null;
+                return volume.episodes.find(e => e.id === episodeSelect.value) || null;
+            }
+
+            function buildWholeEpisodeText(episode) {
+                if (!episode || !episode.scenes.length) return '';
+
+                // Join scenes with extra blank lines to create a visual pause.
+                //
+                // The chunker treats every *pair* of consecutive blank lines as one
+                // "pause" chunk, so the number of blank lines controls the number of
+                // pause chunks between scenes. 4 blank lines produces 2 pause chunks,
+                // which gives a noticeably longer beat without being excessive.
+                return episode.scenes
+                    .map(sc => sc.content)
+                    .join('\n\n\n\n\n');
+            }
+
             function selectSceneByFlatIndex(flatIndex, autoStart) {
                 const list = getFlatSceneList();
                 if (flatIndex < 0 || flatIndex >= list.length) return;
@@ -622,7 +698,7 @@
                     label: `${index + 1} - ${s.name}`
                 }));
                 populateSelect(sceneSelect, sceneItems, '— Select Scene —');
-                sceneSelect.disabled = false;
+                sceneSelect.disabled = wholeEpisodeMode;
 
                 sceneSelect.value = target.sceneId;
 
@@ -634,7 +710,52 @@
                 logDebug(`Navigated to flat index ${flatIndex}: "${target.sceneName}"${autoStart ? ' (auto-start)' : ''}`);
             }
 
+            function selectEpisodeByFlatIndex(flatIndex, autoStart) {
+                const list = getFlatEpisodeList();
+                if (flatIndex < 0 || flatIndex >= list.length) return;
+
+                const target = list[flatIndex];
+                const volume = storyData.volumes[target.volumeIndex];
+                const episode = volume.episodes[target.episodeIndex];
+
+                cascadingSelectChange = true;
+
+                volumeSelect.value = target.volumeName;
+
+                const episodeLabels = volume.episodes.map((e, index) => ({
+                    id: e.id,
+                    label: `${index + 1} - ${e.name}`
+                }));
+                populateSelect(episodeSelect, episodeLabels, '— Select Episode —');
+                episodeSelect.disabled = false;
+                episodeSelect.value = episode.id;
+
+                const sceneItems = episode.scenes.map((s, index) => ({
+                    id: s.id,
+                    label: `${index + 1} - ${s.name}`
+                }));
+                populateSelect(sceneSelect, sceneItems, '— Select Scene —');
+                sceneSelect.disabled = wholeEpisodeMode;
+                if (episode.scenes.length) sceneSelect.value = episode.scenes[0].id;
+
+                cascadingSelectChange = false;
+
+                displaySelectedScene(autoStart);
+                updateSceneNavButtons();
+
+                logDebug(`Navigated to flat episode index ${flatIndex}: "${target.episodeName}"${autoStart ? ' (auto-start)' : ''}`);
+            }
+
             function goToPrevScene() {
+                if (wholeEpisodeMode) {
+                    const idx = getCurrentFlatEpisodeIndex();
+                    if (idx <= 0) {
+                        logDebug('Already at first episode — cannot go back further');
+                        return;
+                    }
+                    selectEpisodeByFlatIndex(idx - 1, autoplayEnabled);
+                    return;
+                }
                 const flatIndex = getCurrentFlatIndex();
                 if (flatIndex <= 0) {
                     logDebug('Already at first scene — cannot go back further');
@@ -644,6 +765,16 @@
             }
 
             function goToNextScene(autoStart) {
+                if (wholeEpisodeMode) {
+                    const idx = getCurrentFlatEpisodeIndex();
+                    const list = getFlatEpisodeList();
+                    if (idx < 0 || idx >= list.length - 1) {
+                        logDebug('Already at last episode — cannot go forward');
+                        return;
+                    }
+                    selectEpisodeByFlatIndex(idx + 1, !!autoStart);
+                    return;
+                }
                 const flatIndex = getCurrentFlatIndex();
                 const list = getFlatSceneList();
                 if (flatIndex < 0 || flatIndex >= list.length - 1) {
@@ -654,7 +785,8 @@
             }
 
             function updateSceneNavButtons() {
-                const list = getFlatSceneList();
+                const list = wholeEpisodeMode ? getFlatEpisodeList() : getFlatSceneList();
+
                 if (list.length === 0) {
                     scenePrevBtn.disabled = true;
                     sceneNextBtn.disabled = true;
@@ -666,7 +798,7 @@
                     return;
                 }
 
-                const flatIndex = getCurrentFlatIndex();
+                const flatIndex = wholeEpisodeMode ? getCurrentFlatEpisodeIndex() : getCurrentFlatIndex();
                 if (flatIndex < 0) {
                     scenePrevBtn.disabled = true;
                     sceneNextBtn.disabled = true;
@@ -687,12 +819,12 @@
                 sceneNextBtnBottom.disabled = nextDisabled;
 
                 const item = list[flatIndex];
-                const positionText = `${flatIndex + 1} / ${list.length} — ${item.volumeName} · ${item.episodeName}`;
+                const positionText = wholeEpisodeMode
+                    ? `${flatIndex + 1} / ${list.length} — ${item.volumeName} (Whole Episode)`
+                    : `${flatIndex + 1} / ${list.length} — ${item.volumeName} · ${item.episodeName}`;
                 sceneNavSpacer.textContent = positionText;
                 sceneNavSpacerBottom.textContent = positionText;
 
-                // The copy button is only useful when a real scene is loaded
-                // and displayed. While help mode is showing, disable it.
                 const hasScene = !!currentSceneText && !helpVisible;
                 copySceneBtn.disabled = !hasScene;
             }
@@ -727,6 +859,7 @@
                     <ul>
                         <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the entire story scene by scene, crossing episode and volume boundaries. If Autoplay is on, the new scene begins narrating immediately.</li>
                         <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story (e.g. <code>4 / 27 — Volume 1 · Episode 2</code>).</li>
+                        <li><strong>Whole Episode</strong> — A checkbox beneath the scene dropdown. When ticked, the scene selector is disabled and the reader parses the entire episode (every scene, in order) as one continuous narration. Scene navigation then steps by <em>episode</em> instead of scene. Your preference is remembered between visits.</li>
                     </ul>
 
                     <h3>🔊 Narration</h3>
@@ -744,7 +877,7 @@
                     <p><em>Note:</em> this requires a modern browser (Chrome for Android 84+, Safari on iOS 16.4+, Samsung Internet 14+) and an HTTPS connection. On older browsers the reader will still work, but the screen may dim during long narration.</p>
 
                     <h3>🔁 Autoplay</h3>
-                    <p>Toggle Autoplay on to have the reader automatically advance to the next scene after the current one finishes. A countdown appears in the transcript panel, with a cancel button. Autoplay also starts narration automatically when you change scenes manually via the dropdowns or arrow buttons.</p>
+                    <p>Toggle Autoplay on to have the reader automatically advance to the next scene after the current one finishes. A countdown appears in the transcript panel, with a cancel button. Autoplay also starts narration automatically when you change scenes manually via the dropdowns or arrow buttons. In Whole Episode mode, autoplay advances to the next <em>episode</em>.</p>
 
                     <h3>📝 Transcript Panel</h3>
                     <p>The panel above always shows either the chunk currently being spoken, a beat marker for paragraph breaks, or a placeholder when idle. During an Autoplay countdown it shows the remaining seconds.</p>
@@ -763,7 +896,7 @@
                     <h3>💾 Reader Convenience</h3>
                     <ul>
                         <li><strong>Remember where you were</strong> — Your last Volume, Episode, and Scene are saved in this browser and restored automatically when the same story version is loaded.</li>
-                        <li><strong>Persistent narration settings</strong> — Narration speed, voice choice, and Autoplay are remembered between visits.</li>
+                        <li><strong>Persistent narration settings</strong> — Narration speed, voice choice, Autoplay, and Whole Episode mode are remembered between visits.</li>
                         <li><strong>⛶ Focus Mode</strong> — Hides the surrounding controls and attempts to enter fullscreen for a cleaner reading view. Press <code>Esc</code> to leave fullscreen.</li>
                         <li><strong>Unsaved-progress warning</strong> — Replacing a loaded story asks for confirmation so you don't accidentally wipe out your current reading session.</li>
                         <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser. If the server cannot be reached on first page load, the reader will use that cached copy before falling back to manual upload.</li>
@@ -1102,8 +1235,8 @@
                     releaseWakeLock();
 
                     if (autoplayEnabled) {
-                        const list = getFlatSceneList();
-                        const flatIndex = getCurrentFlatIndex();
+                        const list = wholeEpisodeMode ? getFlatEpisodeList() : getFlatSceneList();
+                        const flatIndex = wholeEpisodeMode ? getCurrentFlatEpisodeIndex() : getCurrentFlatIndex();
                         if (flatIndex >= 0 && flatIndex < list.length - 1) {
                             startAutoplayCountdown();
                         } else {
@@ -1792,6 +1925,17 @@
                 let targetScene = targetEpisode && targetEpisode.scenes[0];
                 const resume = pendingResumeProgress;
                 let restoredResume = false;
+                let restoredEpisodeOnly = false;
+
+                // If the previous session was in whole-episode mode, restore
+                // the toggle and just select the right episode (we don't need
+                // to pick a specific scene).
+                if (resume && resume.wholeEpisode) {
+                    wholeEpisodeMode = true;
+                    wholeEpisodeToggle.checked = true;
+                    sceneSelect.disabled = true;
+                }
+
                 if (resume) {
                     const rv = storyData.volumes.find(v => v.name === resume.volume);
                     // IDs are stable for newly saved progress. The name fallback
@@ -1799,7 +1943,22 @@
                     // were random, before saving it again with stable IDs.
                     let re = rv && rv.episodes.find(e => e.id === resume.episode);
                     let rs = re && re.scenes.find(sc => sc.id === resume.scene);
-                    if (rv && !rs && resume.sceneName) {
+
+                    // Legacy whole-episode save: no scene id, just episode.
+                    if (rv && re && resume.wholeEpisode) {
+                        targetVolume = rv;
+                        targetEpisode = re;
+                        targetScene = re.scenes[0];
+                        restoredResume = true;
+                        restoredEpisodeOnly = true;
+                        logDebug(`Restoring saved whole-episode position: ${rv.name} → ${re.name}`);
+                    } else if (rv && re && rs) {
+                        targetVolume = rv;
+                        targetEpisode = re;
+                        targetScene = rs;
+                        restoredResume = true;
+                        logDebug(`Restoring saved position instead of defaulting to first scene: ${rv.name} → ${re.name} → ${rs.name}`);
+                    } else if (rv && !rs && resume.sceneName) {
                         for (const episode of rv.episodes) {
                             const scene = episode.scenes.find(sc => sc.name === resume.sceneName);
                             if (scene) {
@@ -1808,13 +1967,15 @@
                                 break;
                             }
                         }
-                    }
-                    if (rv && re && rs) {
-                        targetVolume = rv;
-                        targetEpisode = re;
-                        targetScene = rs;
-                        restoredResume = true;
-                        logDebug(`Restoring saved position instead of defaulting to first scene: ${rv.name} → ${re.name} → ${rs.name}`);
+                        if (rs) {
+                            targetVolume = rv;
+                            targetEpisode = re;
+                            targetScene = rs;
+                            restoredResume = true;
+                            logDebug(`Restored saved position by scene name: ${rv.name} → ${re.name} → ${rs.name}`);
+                        } else {
+                            logDebug('Saved reading position no longer exists in this story; falling back to the first available scene.');
+                        }
                     } else {
                         logDebug('Saved reading position no longer exists in this story; falling back to the first available scene.');
                     }
@@ -1825,13 +1986,18 @@
                 populateSelect(episodeSelect, targetVolume.episodes.map((e, i) => ({ id:e.id, label:`${i + 1} - ${e.name}` })), '— Select Episode —');
                 episodeSelect.disabled = false; episodeSelect.value = targetEpisode.id;
                 populateSelect(sceneSelect, targetEpisode.scenes.map((sc, i) => ({ id:sc.id, label:`${i + 1} - ${sc.name}` })), '— Select Scene —');
-                sceneSelect.disabled = false; sceneSelect.value = targetScene.id;
+                sceneSelect.disabled = wholeEpisodeMode;
+                sceneSelect.value = targetScene.id;
                 cascadingSelectChange = false;
                 const wasResumed = restoredResume;
                 pendingResumeProgress = null;
                 displaySelectedScene(autoplayEnabled);
                 if (wasResumed) showResumeBanner(resume);
                 updateSceneNavButtons();
+
+                // Suppress an unused-variable warning in some linters; kept for
+                // future use if we ever want to tailor the banner.
+                void restoredEpisodeOnly;
             }
 
             function updateNavigation() {
@@ -1945,6 +2111,7 @@
                 }));
                 logDebug(`Found ${sceneItems.length} scenes for episode "${episode.name}"`);
                 populateSelect(sceneSelect, sceneItems, '— Select Scene —');
+                sceneSelect.disabled = wholeEpisodeMode;
                 speakBtn.disabled = true;
                 chunks = [];
                 currentChunkIndex = -1;
@@ -1969,6 +2136,11 @@
                     helpBtn.textContent = '❓ Help';
                     resumeChunkIndex = -1;
                     resumeAutoStart = false;
+                }
+
+                if (wholeEpisodeMode) {
+                    displayWholeEpisode(autoStart);
+                    return;
                 }
 
                 const selectedVolume = volumeSelect.value;
@@ -2018,6 +2190,36 @@
                 updateSceneNavButtons();
             }
 
+            function displayWholeEpisode(autoStart) {
+                const episode = getSelectedEpisode();
+                if (!episode) {
+                    contentArea.innerHTML = `<div class="message">Select an episode to read.</div>`;
+                    speakBtn.disabled = true;
+                    updateSceneNavButtons();
+                    return;
+                }
+
+                const combined = buildWholeEpisodeText(episode);
+                if (!combined) {
+                    contentArea.innerHTML = `<div class="message">This episode has no scenes.</div>`;
+                    speakBtn.disabled = true;
+                    updateSceneNavButtons();
+                    return;
+                }
+
+                logDebug(`Displaying whole episode "${episode.name}" (${episode.scenes.length} scenes, ${combined.length} chars)`);
+                showContent(episode.name, combined, !!autoStart);
+                setStatus(`Reading: ${volumeSelect.value} → ${episode.name} (Whole Episode)`);
+                saveReadingProgress();
+
+                chunks = [];
+                currentChunkIndex = -1;
+                ttsActive = false;
+                setTtsButtonsActive(false);
+                updateChunkUI();
+                updateSceneNavButtons();
+            }
+
             volumeSelect.addEventListener('change', function() {
                 const val = this.value;
                 logDebug(`=== Volume changed to: "${val}" ===`);
@@ -2037,6 +2239,28 @@
                 logDebug(`=== Scene changed to: "${val}" ===`);
                 if (cascadingSelectChange) return;
                 displaySelectedScene(autoplayEnabled);
+            });
+
+            wholeEpisodeToggle.addEventListener('change', function() {
+                wholeEpisodeMode = this.checked;
+                logDebug(`Whole Episode mode: ${wholeEpisodeMode ? 'ON' : 'OFF'}`);
+                savePreferences();
+
+                // Re-evaluate the scene dropdown's enabled state.
+                if (wholeEpisodeMode) {
+                    sceneSelect.disabled = true;
+                } else {
+                    sceneSelect.disabled = !episodeSelect.value;
+                }
+
+                // Re-render whatever is currently selected.
+                if (storyData && volumeSelect.value && episodeSelect.value) {
+                    displaySelectedScene(autoplayEnabled);
+                    setStatus(wholeEpisodeMode
+                        ? 'Whole Episode mode — every scene in this episode will be read continuously.'
+                        : `Reading: ${volumeSelect.value} → ${episodeSelect.value} → ${sceneSelect.value}`);
+                }
+                updateSceneNavButtons();
             });
 
             /* ========== STORY LOADING ========== */
@@ -2110,7 +2334,7 @@
                     // the story file has changed (for example, after an update).
                     pendingResumeProgress = getSavedProgress();
                     if (pendingResumeProgress) {
-                        logDebug(`Saved reading position found: ${pendingResumeProgress.volume} → ${pendingResumeProgress.episode} → ${pendingResumeProgress.scene}`);
+                        logDebug(`Saved reading position found: ${pendingResumeProgress.volume} → ${pendingResumeProgress.episode} → ${pendingResumeProgress.scene || '(whole episode)'}`);
                         if (pendingResumeProgress.fingerprint && pendingResumeProgress.fingerprint !== currentStoryFingerprint) {
                             logDebug('Story fingerprint differs from saved progress; attempting to restore the saved location anyway.');
                         }
@@ -2299,7 +2523,10 @@
             // than misleading). Only an explicit reload surfaces the failure.
             loadStoryFromServer(false);
 
-        })();
-    
+            // Restore the Whole Episode checkbox from preferences so the UI
+            // matches the internal state before the first story is loaded.
+            if (wholeEpisodeMode) {
+                wholeEpisodeToggle.checked = true;
+            }
 
-;
+        })();

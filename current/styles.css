@@ -2084,3 +2084,66 @@
 .no-results-message.visible {
     display: block;
 }
+
+/* ============================================================ */
+/* ADDITIONS: Whole Episode toggle                              */
+/* ============================================================ */
+
+.whole-episode-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    color: #8b949e;
+    cursor: pointer;
+    user-select: none;
+    transition: color 0.2s;
+}
+
+.whole-episode-toggle:hover {
+    color: #c9d1d9;
+}
+
+.whole-episode-toggle input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 16px;
+    height: 16px;
+    border: 1px solid #30363d;
+    border-radius: 4px;
+    background: #0d1117;
+    cursor: pointer;
+    position: relative;
+    transition: background-color 0.15s, border-color 0.15s;
+    flex-shrink: 0;
+}
+
+.whole-episode-toggle input[type="checkbox"]:hover {
+    border-color: #58a6ff;
+}
+
+.whole-episode-toggle input[type="checkbox"]:checked {
+    background-color: #f0883e;
+    border-color: #f0883e;
+}
+
+.whole-episode-toggle input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    left: 4px;
+    top: 1px;
+    width: 4px;
+    height: 8px;
+    border: solid #0d1117;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.whole-episode-toggle input[type="checkbox"]:focus-visible {
+    outline: 2px solid #58a6ff;
+    outline-offset: 2px;
+}

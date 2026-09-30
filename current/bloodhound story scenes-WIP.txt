@@ -6490,7 +6490,9 @@ VOLUME - Wolves Among Sheep
 			"Couldn't agree more." Connor nodded, before the pair charged.
 			The Agent snarled, and drew something from a sheathe on his hip - a blade. As Connor entered melee range, he swung.
 			Connor's senses slowed to a crawl as the agony ripped into his arm. This wasn't a normal blade - its edge oscillated at ultrasonic frequency, sawing into his flesh. At the same time, an electric current coursed through it, which danced across his skin before jolting in, sending scorching pain straight into his neurons.
-			Were Connor his usual self, he'd crack a joke about what kind of insanity must have driven the creation of this device - some bastard child of a chainsaw and a stun baton, squeezed into a machete - but instead, he howled in unimaginable fury. He delivered a strike to the Agent's chest - one whose movement through the air made an almost booming noise through sheer force - and it landed right on the Agent's breastplate. He felt his knucklebones crack, as they pushed hard enough to leave a noticeable dent in the metal chestpiece. To his dismay, he watched the force radiate out through the metal and settle in the edges of the piece, leaving the Agent's ribcage - and heart - uninjured.
+			Were Connor his usual self, he'd crack a joke about what kind of insanity must have driven the creation of this device - some bastard child of a chainsaw and a stun baton, squeezed into a machete - but instead, he howled in unimaginable fury. 
+			He delivered a strike to the Agent's chest - its movement through the air made an almost booming noise through sheer force - and it landed right on the Agent's breastplate.
+			He felt his knucklebones crack, as they pushed hard enough to leave a noticeable dent in the metal chestpiece. To his dismay, he watched the force radiate out through the metal and settle in the edges of the piece, leaving the Agent's ribcage - and heart - uninjured.
 			The Agent skidded backwards from the force of the hit, and swung his blade down, flinging the chunk of flesh it had torn from Connor's arm to the ground. It made a sickening squelch as the red mush became one with the black mud. The blade hummed, almost hungry for more.
 			A hail of gunfire slammed into the Agent's cerametallic carapace, each bullet either ricocheting or skimming off.
 			"Yob tvoyu mat..." muttered Ivan, holding Fyodor and scowling.
@@ -8285,7 +8287,7 @@ VOLUME - Wolves Among Sheep
 			Finally, Naismith leaned back and pressed the button on the tape recorder.
 			"Interview commenced at 10:47. Present are DCI Henry Naismith and PC Nina Chowdhury, interviewing suspect Connor Barrett. Mr. Barrett," he began, his tone conversational. "This isn't the first time we've met, is it?"
 			"That a question?"
-			Naismith chuckled. "Last time I saw you, Christian Dobel sent men to murder you."
+			Naismith chuckled. "We keep running into each other. Took me a moment, but I thought I recognised you on Bonfire Night. I was chasing... a suspect, let's call him - and bumped right into you. Before that, I took your witness statement after Christian Dobel sent men to murder you."
 			Connor's jaw tightened. "That wasn't my fault."
 			"I never said it was." Naismith held up a hand. "You were attacked. You defended yourself. It seems pretty clear-cut."
 			"So why bring it up?"
@@ -8299,7 +8301,7 @@ VOLUME - Wolves Among Sheep
 			"You got proof Crane's a Hood?"
 			Naismith grinned. "You should be a lawyer."
 			Connor crossed his arms, holding his shoulders.
-			"Naismith pulled out a photograph and slid it across the table. "This is the Hog and Hounds. Fifteen known Skulls were hospitalised after a brawl. Witnesses say it was someone who's done you and your friends a solid before."
+			Naismith pulled out a photograph and slid it across the table. "This is the Hog and Hounds. Fifteen known Skulls were hospitalised after a brawl. Witnesses say it was someone who's done you and your friends a solid before."
 			"Enlighten me."
 			Naismith slid over a second picture - one of the Werewolf.
 			"This man - he turned up and took out Dobel's operation before we managed to confirm he'd gone after you. So, I'm wondering - well, you know what I'm wondering, right?"
@@ -8327,8 +8329,7 @@ VOLUME - Wolves Among Sheep
 			Naismith grinned, and leaned back in.
 			"Yes?"
 			Connor licked his lips. "You really want me to sell him out like that?"
-			"I want you to save your own skin, Connor."
-			Naismith's voice was calm, reasonable. "You're looking at serious charges. GBH. Affray. Possibly attempted murder, depending on how Jennings's lawyers want to play it. But if you help us, I can make those charges go away."
+			"I want you to save your own skin, Connor. You're looking at serious charges. GBH. Affray. Possibly attempted murder, depending on how the CPS want to play it. But if you help us, I can make those charges go away."
 			"How?"
 			"Ever heard of a CHIS? Covert Human Intelligence Source. An informant, basically. I'm saying... cut a deal."
 			Connor let the silence hang. Let Naismith see him wrestling with it.
@@ -8341,7 +8342,7 @@ VOLUME - Wolves Among Sheep
 			Connor looked away.
 			Where was he?
 			Busy goofing around on some grappling ropes, when his friend needed him.
-			"I'm not gonna lose sleep over a bunch of skinheads getting taught a lesson," Naismith continued, his tone softening. "But I am gonna use this, if I can. Come on, Connor. Help me help you."
+			"I'm not gonna lose sleep over a bunch of skinheads getting taught a lesson," Naismith continued, his tone softening. "But I *am* gonna use this, if I can. Come on, Connor. Help me help you."
 			A long pause.
 			Connor let his shoulders slump. Let the life drain out of him. Let the fake tears well up in his eyes.
 			"Fine." he whispered. "I'll arrange a meetup. I'll let you know the time and the place."
@@ -8351,7 +8352,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			Connor stepped out of the police station, blinking against the light.
-			Amy was waiting by the car. Trey was in the passenger seat, his face still bruised, his movements stiff.
+			Amy was waiting by the car. Trey was in the passenger seat, his face still bruised.
 			Connor opened the back door and slid in. Sparky pounced on him, licking his face.
 			"Hey! Ivan mentioned on the comms you'd been arrested. Is everything okay?"
 			Connor smiled, pressing his hand against his packmate's head.
@@ -8379,11 +8380,10 @@ VOLUME - Wolves Among Sheep
 			"He can't be everywhere..."
 			"He's supposed to be!" Connor snapped, turning to face him. "He's supposed to protect people! That's the whole point! But he didn't protect you. And I had to go out there and do it myself, and now I'm paying for it, and the only way out is to give him up!"
 			His voice cracked on the last word. He slumped back in his seat, wiping his eyes with the heel of his palm.
-			Amy stared at him for a long moment. Then she turned back to the road and started the engine.
+			Amy stared at him for a long moment. Then, she turned back to the road, and started the engine.
 
 			Eileen's flat smelled of tea and old newspapers. The heating was on too high, and the windows were fogged up.
-			Connor stood there for a long moment, his hand hovering over the door. He could hear her inside - the creak of her wheelchair, the hum of a television, the slow, laboured rhythm of her breathing.
-			He could also hear her heart. It was weaker than it had been last time. Fraying at the edges.
+			Connor stood there for a long moment, his hand hovering over the door. He could hear her inside. Her heartbeat. It was weaker than it had been last time. Fraying at the edges. The lungs were fuller than before.
 			COPD. Not a fun way to die, but it was hers.
 			*Ding-dong!*
 			The door swung open, and Eileen's weathered face cracked into a wide grin.
@@ -8391,10 +8391,10 @@ VOLUME - Wolves Among Sheep
 			"Sorry. Traffic." Connor stepped inside, wiping his feet on the mat.
 			"No Sparky today?"
 			He sat down on the sofa, which sagged beneath him. "Just me."
-			"Well, you're always welcome."
-			She wheeled over to the kitchenette. "Tea?"
+			"Well, you're always welcome." she smiled, wheeling over to the kitchen. "Tea?"
 			"Please."
-			She busied herself with the kettle, chattering about the weather, a neighbour who'd been playing music too loud, and the new series of some detective show she'd been watching. Connor let it wash over him. He tried to smile in the right places.
+			She busied herself with the kettle, chattering about the weather, or a neighbour who'd been playing music too loud, or the new series of some detective show she'd been watching.
+			Connor let it wash over him. He tried to smile in the right places.
 			She handed him a mug and wheeled herself into her armchair.
 			"So." she said, eyeing him. "What's wrong?"
 			"Nothing."
@@ -8456,7 +8456,7 @@ VOLUME - Wolves Among Sheep
 
 			The phone rang twice before Naismith picked up.
 			"Barrett."
-			Connor's voice was hollow. Empty. "The Werewolf. He'll be in Ludford Park tonight."
+			Connor's voice was hollow.  "The Werewolf. He'll be in Ludford Park tonight."
 			A pause.
 			"How do you know?"
 			"I set it up." Connor closed his eyes. "He trusts me. He won't know what's coming."
@@ -8477,8 +8477,8 @@ VOLUME - Wolves Among Sheep
 			This ruse better work.
 			"Come on, Sparky." he thought. "Where are you?"
 			He didn't have to wait long.
-			A black mass dropped from the trees, landing with a soft thud a few feet away. Before Connor could react, a globule of black gel erupted from Sparky's palm and hit the ground.
-			FWOOM!
+			A black mass dropped from the trees, landing with a soft thud a few feet away. Before Connor could react, a globule of gel erupted from Sparky's palm and hit the ground.
+			*FWOOM-PSHH!*
 			Smoke billowed out, thick and choking, swallowing the fountain and the path and everything else.
 			Connor stumbled back, coughing - pretending to cough. His eyes watered on command. He let his voice shake.
 			"W-what the..."
@@ -8530,19 +8530,14 @@ VOLUME - Wolves Among Sheep
 			"I know." he said softly. "But it's for the best. For now."
 			Connor took a deep breath. He wiped his eyes.
 			"I need to go check on Eileen." he said.
-			"The woman whose son you killed?"
-			Connor flinched. "Yeah. That one."
-			Sparky tilted his head. "Why?"
-			"Because I put her in the hospital." Connor stood, pulling his hood up. "Because she's alone. Because... I don't know. Because it's the least I can do."
 			Sparky rose with him, stretching his shoulders.
 			"Do you want company?"
 			"No." Connor shook his head. "This is something I have to do alone."
 			Sparky nodded, bumping his head against Connor's hand.
 			"I'll take care of patrol tonight. You take some time off, okay?"
 			Connor managed a small smile.
-			"Thanks, buddy. Packmates for life, yeah?"
-			"Of course."
-			He turned and headed for the fire escape, leaving Sparky alone on the rooftop, watching the city glitter beneath him.
+			"Thanks, buddy."
+			He turned, and grappled down, leaving Sparky alone on the rooftop, watching the city glitter beneath him.
 
 		Don't Cross a Wolf
 		______________________________
@@ -8550,9 +8545,9 @@ VOLUME - Wolves Among Sheep
 			The hospital room was small, and sterile. The only sound was the beep of the heart monitor and the soft hiss of the oxygen tank.
 			Eileen lay in the bed, looking smaller than Connor remembered. The tubes in her nose made her seem fragile in a way she'd never allowed herself to be before. Her eyes were closed, but she wasn't asleep. He could tell by her heartbeat - still weak, still fraying, but steadier than it had been.
 			And fading fast.
-			He stood in the doorway for a long moment. Then he knocked softly on the frame.
+			He stood in the doorway for a long moment. Then, he knocked softly on the frame.
 			"Eileen?"
-			Her eyes opened. For a moment, her expression was blank. Then it flickered.
+			Her eyes opened. For a moment, her expression was blank. Then, it flickered.
 			Connor flinched. "I... I just wanted to check on you. Make sure you were okay. I can go, if you want."
 			She stared at him. The silence stretched. Then she sighed, and waved a hand weakly.
 			"Sit down, then. You're making the place look untidy."
@@ -8565,34 +8560,32 @@ VOLUME - Wolves Among Sheep
 			Eileen took a slow, rattling breath. The oxygen tube hissed.
 			"You think you gave me a heart attack?"
 			"I--"
-			"You must be the most big-headed little shit I've ever met." she shook her head. "I'm eighty-two years old. I've been smoking since I was fourteen. I've got COPD, emphysema, and a heart that's been running on fumes for a decade. You think you did this to me?"
+			"You must be the most big-headed little shit I've ever met." she shook her head. "I'm eighty-two years old. I've been smoking since I was fourteen. I've got COPD, for Christ's sake. You think you did this to me?"
 			Connor opened his mouth. Closed it. Opened it again.
 			"But I..."
-			"You what? Told me the truth?"
-			She snorted, then coughed. "Yeah. That was a shock. But it's been waiting to give out for years. You just happened to be there when it did."
+			"You what? Told me the truth?" she snorted, then coughed. "Yeah. That was a shock. But it's been waiting to give out for years. You just happened to be there when it did."
 			Connor stared at her. He didn't know what to say.
 			"I'm still sorry." he finally managed.
 			"I know." she nodded, closing her eyes for a moment. "You're a sorry little thing, aren't you?"
 			He looked down at his hands.
 			"Tell me what happened." she said. "The truth. All of it."
-			So he told her.
-			He told her about Steve.
-			"He came at me with a gun." Connor said, his voice hollow. "During a raid. I--I had a gun too. I didn't think. I just... pulled the trigger. It was over in seconds."
+			Connor waited for a trillion years. Two seconds passed, and he finally began to speak.
+			"He... He came at me with a gun. During a raid. I--I had a gun too. I didn't think. I just... pulled the trigger. It was over in seconds."
 			Eileen was quiet for a long moment.
 			"His mates told me it was the Werewolf. They said the Werewolf killed him."
 			Connor swallowed.
-			"I... I am the Werewolf."
+			"I... well..."
 			She didn't react. Not at first. She just stared at him, her expression unreadable.
-			"That explains a lot." she finally said.
-			"I know it doesn't change anything. I know you hate me. You should. I..."
+			"That explains a lot." she finally said. "Explains how you heard my heart go, at least. You get off on listening to people like that?"
+			"I hate it."
+			"Good."
+			She took another wet breath, and choked on it.
 			"Did he suffer?"
-			The question caught him off guard.
-			"What?"
-			"Steve. Did he suffer?"
-			Connor thought about it. He thought about the moment - the brief, violent flash of the gun, the way Steve had crumpled, the way his eyes had gone glassy and still.
-			"No." he said quietly. "It was quick. He... he was brave. At the end. He didn't cry or beg. He just looked at me. And then he was gone."
-			Eileen closed her eyes. A tear slipped down her weathered cheek.
-			"Good." she whispered. "That's good."
+			"No." he said quietly. "It was quick."
+			He hesitated, and took her hand gingerly. Then he closed his eyes, and she found herself doing the same automatically.
+			His mind brushed against hers as gently as it could. He passed the memory over to her.
+			The moment. The brief, violent flash of the gun. The way Steve had crumpled. The way his eyes had gone glassy and still.
+			A tear rolled down her weathered cheek, as he pulled back.
 			Connor sat with her in silence for a while. Then, she spoke again.
 			"I want to know why you do it. Why you go after the Skulls. Why you're the Werewolf."
 			"I was taken." he said. "A few months ago. By a man called the Commandant. He owns... a private army. A death squad."
@@ -8600,7 +8593,7 @@ VOLUME - Wolves Among Sheep
 			He told her about waking up in the lab, about the pain, about the surgeries.
 			He told her about the night he escaped, and about everything that had happened since.
 			By the time he finished, the room was dark. The lights had dimmed automatically. Eileen's heart monitor beeped softly in the silence.
-			"I know it doesn't make up for Steve." Connor said. "Nothing does. But I'm trying to stop them. The people who make the Skulls possible. The people who make monsters."
+			"I know it doesn't make up for Steve." he said. "Nothing does. But I'm trying to stop them. The people who make the Skulls possible. The people who make monsters."
 			Eileen was quiet for a long moment.
 			"It was my fault." she finally began.
 			"What do you mean?"
@@ -20419,7 +20412,7 @@ VOLUME - Gods Among Men
 			Connor exploded. He slipped out of his handcuffs, and caught the baton mid-swing, just before it could hit anyone again. He headbutted the assaulting officer, causing his grip to release. Then, he took the baton, and jabbed him in the face, knocking out his teeth. He brought it down on his head, knocking him out cold. He swung at the second officer, hitting him in the abdomen, before swinging again at his back, taking him down too.
 			With that, the other officers trained their rifles on him. Connor stood there above the bodies, and panted like a rabid dog, steam puffing from his mouth.
 			"CONNOR!" Chloe begged. "Please, just do what they say!"
-			"we're okay..." Trey groaned in pain.
+			"We're okay..." Trey groaned in pain.
 			"Don't get yourself exposed over this." Shannon nodded.
 			Connor thought hard for a moment. Finally, he dropped the baton, and surrendered.
 			They shoved him into the van alongside the others. Shannon was pressed between Trey and Pawel, her lip split and her eye already swelling. Tommy sat across from them, blood trickling from his nose.
@@ -21386,7 +21379,7 @@ VOLUME - Gods Among Men
 			"I'll do whatever it takes." Connor shrugged.
 			"Right, well... I'm gonna go for a shower." Shannon groaned. "I stink."
 			"I'll come with. For protection, I mean." Trey nodded. "I'm not having you shower alone in this scum-town."
-			"I'm gonna get some food." Connor nodded. "Be careful in here. The guards don't get involved in prisoner disputes, and this place is called 'the nonce wing' for a reason."
+			"I'm gonna get some food." Connor yawned. "Be careful in here. The guards don't get involved in prisoner disputes, and this place is called 'the nonce wing' for a reason."
 
 			Morning lectures were finally over, and Chloe walked slowly into the canteen.
 			"Chlo!" Bea called out from her table.
@@ -21423,6 +21416,26 @@ VOLUME - Gods Among Men
 			Connor stood in the VPU's canteen, holding his tray.
 			A few faces stood out to him - mainly, people he'd put in there himself.
 			He grinned, as one man who'd spiked a young woman limped past him. It didn't look like that knee would ever heal properly.
+			He watched Chapman walk up to the food dispenser, his bandaged and broken hands barely gripping his own tray.
+			Connor stepped forward, and pressed the dispenser's button. A thick paste slimed out of the machine, onto his bowl.
+			It stank. He took a moment to analyse its composition.
+			It was mainly made of corn starch and water. A sprinkling of protein powder, along with processed vitamins, minerals, and electrolytes.
+			He grabbed a plastic spork, and grimaced as it touched his tongue.
+			"Kruuuur... fresh meat..." a familiar voice growled.
+			Connor turned, and scowled.
+			Pig Head.
+			He looked largely the same - his snout had healed nicely. One tusk had been snapped, though - likely, it was chipped from their fight, and came off in here.
+			"Nice to meet you, porky." he snarked. "Back off, yeah? I'm eating my slop."
+			Pig Head snorted, and then smacked the bowl onto the ground with his meaty fist. He grabbed Connor's shirt, and lifted him into the air.
+			"The Pigs don't like you stinkies in here, you know. They're telling me awful things about you."
+			"Put. Me. Down. Or I'll be having bacon sandwiches for weeks."
+			"KRUUUUUR!"
+			Connor sent a kick up Pig Head's chin, and broke free. The two circled each other, like rabid dogs.
+
+			"Hey, Goblin! Look! Pig is gonna eat new man!" Troll pointed.
+			"Leave 'em to it, buddy." Goblin nodded quickly. "You know what Pig Head gets like."
+			"Should us get a guard man? Guard man could make zappy collar on Pig!"
+			"No, no - we stay away from the guards, remember?"
 
 		Vulnerable Prisoner's Unit
 		______________________________
@@ -21433,14 +21446,14 @@ VOLUME - Gods Among Men
 		SCENE
 
 		The Great Escape... Again
-
-
-	______________________________
-	EPISODE - Freedom Fighters
 		______________________________
 		SCENE
 
 		Quite A Story
+
+
+	______________________________
+	EPISODE - Freedom Fighters
 		______________________________
 		SCENE
 

@@ -138,7 +138,7 @@ VOLUME - CODEX
 
 			Elsewhere in the nascent anti-communist bloc, the capitalist nations pursued reactionary politics to divide their working class. Apartheid carried on alive and well in South Africa. Australasia became a brutal police state, propping up puppet states in Papua and Indonesia. In the States, the Civil Rights Act of 1947 was still on the books, but was swiftly undermined by crypto-racist policies that restored segregation in all but name.
 
-			Come 1994, Chairman Mikhail Gorbachev was ousted in a soft coup by Marshal Dimitry Kruglov. At long last, Stalin's progeny had taken the throne. The simmering rot in the Soviet state had reached its top, and Kruglov's cronies soon enriched themselves, becoming no different to the oligarchs of America they decried.
+			Come 1994, Chairman Mikhail Gorbachev was ousted in a soft coup by Marshal Dmitry Kruglov. At long last, Stalin's progeny had taken the throne. The simmering rot in the Soviet state had reached its top, and Kruglov's cronies soon enriched themselves, becoming no different to the oligarchs of America they decried.
 			The rest of the Soviet Bloc embraced this change, and Bonapartist leaders took power across Eurasia. In Poland, General Jaruzelski declared martial law, outlawing strikes and crushing dissent. In the Balkans, leaders like Milosevic and Boban took power in regional republics, claiming ethnic loyalty over class solidarity.
 			Socialists across the globe were horrified at this shift, while separatist movements and religious extremists chafed under centralised rule.
 
@@ -6482,7 +6482,7 @@ VOLUME - Wolves Among Sheep
 			Before he could finish, an ATV ripped into the site. Its rider - a Super-Agent encased in a metallic exoskeleton - hopped off.
 			The three immediately re-assumed their fighting stances.
 			"Who the hell are you?!" Connor barked.
-			He was answered by the iron warrior raising his arm, pointing a wrist-mounted gun right at him. It fired something - too big to be a bullet - right at him. Connor dashed out of the way, avoiding a direct hit, only for the world to turn red and fiery.
+			He was answered by the iron warrior raising his arm, pointing a wrist-mounted gun right at him. It fired something - too big to be a bullet. Connor dashed out of the way, avoiding a direct hit, only for the world to turn red and fiery.
 			A grenade. Their attacker had a grenade launcher built into his arm.
 			The blastwave rocked Connor's bones against his musculature, while Sparky dug his claws into the mud beneath and skidded a pace away. Ivan hit the deck, before rolling down the hill and darting into cover.
 			"Good evening, traitor." the Agent smirked under his helm.
@@ -9295,11 +9295,11 @@ VOLUME - Wolves Among Sheep
 	EPISODE - Blood-Soaked Saviour
 		______________________________
 		SCENE
-			The penthouse office smelled of old money and newer sins. Mahogany, leather, and the faint, coppery tang of a cigar that had long since burned out. Lord Oxford's silhouette was framed against the rain-lashed window, his back to the door, as if the city itself was kneeling before him.
-			A heavyset man in a business suit sat at the desk. "Lord Oxford." he said, his voice characteristic of a slavish toady.
+			The penthouse office had a smell. Cigars, old leather, and sin.
+			Lord Oxford's silhouette was framed against the rain-lashed window. He looked out at the city - *his,*  along with everything else in the  world. Or at least, he carried himself as if that were true.
+			A heavyset man in a business entered timidly. So timidly, in fact, you wouldn't think it was his office, his penthouse, or his company.
+			"Lord Oxford." he said, with the voice of a slavish toady.
 			The old man didn't turn. "As you were, Morland. Report."
-			"Lord Oxford." the man on the desk began, rising to his feet.
-			"As you were, Morland." the old aristocrat answered. "Report."
 			"Our friend Dorsey has contracted us to study all abnormalities within this 'superhuman' case." Morland began.
 			"And?"
 			"We will of course ensure that no important information is released to the police, sir. However... we could use the opportunity to make some... investigations of our own."

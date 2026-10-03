@@ -21279,7 +21279,7 @@ VOLUME - Gods Among Men
 			"Nyet, because we inevitably get accused of treason at least once and have to clear our names." Ivan giggled.
 			"When I get out of here, I'm gonna tie you to a chair, pin your eyelids open, and make you watch that movie until you hate it to your core." Connor snarked.
 			Ivan grinned. "No force on heaven or Earth could make me hate Red Rebellion. But to the point... I have a plan for you."
-			He revealed his prize - a schematic of the prison. Specifically highlighted were the access points to the roof.
+			He revealed his prize - a schematic of the prison. Specifically highlighted were the access points to the roof. In his other hand was a spare, fully-charged earpiece.
 			"How the hell did you smuggle that in here?" Connor tilted his head.
 			"I didn't stuff it up my *zhopa,* if that's what you're asking." he grinned. "One small problem - this place has a lot more CCTV than I expected. You'll need to be wary."
 			Connor leant back, and stroked his chin. "Actually... I think I might have an answer to that."
@@ -21352,7 +21352,9 @@ VOLUME - Gods Among Men
 			Shit. Shit!
 			"Since when did they start having armed guards here?!" Trey groaned.
 			"Since the Terrorism Act." Shannon sighed. "Fuck... okay, we surrender!"
-			The three sank to their knees, and, hesitantly, allowed themselves to be captured.
+			The three sank to their knees, hesitantly.
+			"Verdict, this is Vanguard." Connor whispered over his earpiece. "Mission failed."
+			"Chyort voz'mi..." Ivan sighed. "Continue your cover. I'll... I'll think of *something.*"
 
 		Rooftop Runaway
 		______________________________

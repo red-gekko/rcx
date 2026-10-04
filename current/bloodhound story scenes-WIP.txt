@@ -19203,16 +19203,78 @@ VOLUME - Gods Among Men
 			His phone buzzed, and he took it.
 			"Breaking news." he read. "Mass power outages across the valley. Ah... you wanna see this."
 			He played a video, and Connor's eyes flashed.
-			"People of Drackhill!" the imposter began. " "
-
-			"I... I *cannot* believe I'm saying this." he began. "But... if you need my help exposing them..."
+			"People of Drackhill!" the imposter began. "Forgive me for indulging myself, but some metaphors are just too good. You... you're all *humans. *Mortals.* The only man in this valley with *power...* is *me.*"
+			"I don't sound like that. Do I?" Connor tilted his head.
+			"*I* don't *know.* *You* don't *speak* with so much *gravitas,* do you? *I* think it sounds *stupid* when people *talk* like *that.*" Naismith snarked.
+			"Oh, Jesus. Detective, I think we might actually be friends now. That sucks." Connor quipped back. "I'd better get going."
+			"Wait..." Naismith began hesitantly. "I... I *cannot* believe I'm saying this., but... if you need my help exposing them..."
 			"I do." Connor nodded. "Here's the plan. I'll keep working on who's behind all this. Any intel I find, you'll be first to know. And as soon as we can be sure who's behind this... we take 'em down."
 			He handed over something - a burner phone.
 			"You can contact me on this - and likewise."
 			Naismith hesitated. He wanted to take it, but... once he crossed that line, he was no longer a victim of home invasions receiving tip-offs. He was involved.
-			He steeled himself, and took it.
+			He steeled himself, and pocketed it.
 			"I'll see you around, Werewolf."
 			"In a while, Detective."
+
+			Shannon was three hours deep into the deepfake files when the lights went out.
+			Not just the basement lights. Everything. The hum of the servers, the glow of the monitors, the faint buzz of the radiator in the corner - all of it died at once.
+			"The fuck?!" she gasped.
+			Her laptop screen flickered, held on for a moment, then went black. The battery would last another few hours, but without the servers, she was blind.
+			Then her phone buzzed - a text from Trey.
+			"Power's out across the whole city. What the fuck is going on?"
+			She gulped, then her brows creased. She rushed over to the emergency generator, and it choked to life.
+			The servers flickered, along with the lights. In seconds, she was back on the laptop, and quickly started running diagnostics.
+			Damn it. The whole valley was down.
+			Every municipal system - traffic, water, emergency services - all gone.
+			Or rather - every substation supplying power to those systems was down.
+			She shook her head.
+			"This doesn't just *happen...*"
+			She pulled up her terminal, and started probing the network.
+			There had to be a trace. A thread to pull. There always was.
+			There. A compromised SCADA controller at a substation in the industrial district. The attackers had used a zero-day exploit - one she had kept in the back pocket for emergencies - to bypass the authentication protocols and inject malicious code into the system.
+			She raced through her system, her hands dancing over the keyboard.
+			"Vanguard, this is base." she began. "I'm working on the blackout. I need you to get to your nearest substation, and see if you can access one of their terminals."
+			"On it." Connor audibly nodded through his glide. "I'm close by anyway."
+			She cracked her knuckles, and got back to typing.
+			What to do, what to do?
+			A bruteforce? No... that'd take too long.
+			Ah... this'll be fun.
+			She was used to playing this game as the attacker. But hell, she *loved* a challenge.
+			She pulled up her copy of the exploit, and decompiled the SADA firmware. Then, she opened up her text editor, and her fingers moved like a pianist.
+			It took her fifteen minutes to write. Another five to test it in a sandboxed environment. Then she deployed it.
+			It was pretty simple, all things considered - a script that would identify the malicious code the attackers used, isolate it, then restore the original firmware version.
+			An ugly solution - nothing stopped the attackers from trying again. But, it'd have to do.
+			The script ran. For a moment, nothing happened. Then, one by one, the substations began to come back online.
+			Shannon allowed herself a small smile.
+			"Hey, Base." Connor reported. "You're in."
+			"Nice one. I'll see if I can get a copy of their virus."
+			Then, her screen flickered again.
+			"INTRUSION DETECTED."
+			Shit.
+			Someone was in her system.
+			She slammed her fingers against the keyboard, pulling up her intrusion detection logs. There - a backdoor she hadn't seen before.
+			Damn it. How did she miss that?
+			Oh yeah, that's why. She didn't need it.
+			She grinned, as she quickly executed the KGB's countermeasures. Her laptop screen spluttered, then went black. Then it came back to life, running an entirely different OS.
+			She accessed the command line, and - there. The connection logs.
+			She chuckled, before accessing the address.
+			"Gotcha."
+			It was an obvious proxy server - one in Brazil, by the looks of it. She impersonated a friendly device, and waltzed in like she owned it.
+			Then she followed the link. And again. And again.
+			Boom. Right there - a computer in---oh, shit.
+			"Drackhill? Come on, guys - that's just sloppy."
+			Ah - the location was anonymous. All she got was that it was somewhere in the valley.
+			Oh well. No fun otherwise.
+			There - the exploit they used.
+			She copied the file, and poured through it.
+			Every hacker had a signature. A way of writing code, a pattern of movement, a tell. And this one - this one was familiar.
+			Shannon's breath caught. She pulled up the metadata from the deepfake analysis, comparing it to the code she'd just captured. The syntax was identical.
+			The attack came from the same device as the deepfakes.
+			Same person. Same software. Same everything.
+			All she needed now was access.
+			She ran a passive bruteforce - it'd be slow, but reliable.
+			"Vanguard - this is Base. The others have gone to Raj's - power's back online. Meet up with us there."
+			"Copy that." Connor smiled. "Nice work."
 
 		Blackout
 		______________________________
@@ -19279,6 +19341,7 @@ VOLUME - Gods Among Men
 			Shannon's laptop pinged, and her pupils dilated.
 			"Hey, Connor?" she began, showing him the screen.
 			A location. A flat in Caldermouth.
+			A name - Leo Barnes.
 			The source of the deepfakes.
 			"Suppliers need you. The bastards screwed up our order again."
 			"Damn it." he feigned. "Sorry - I have to go."
@@ -19307,10 +19370,6 @@ VOLUME - Gods Among Men
 			Chloe took a deep breath, then turned back to the group.
 
 		Discord in the Ranks
-		______________________________
-		SCENE
-
-		Blackout
 		______________________________
 		SCENE
 			The flat was a tip. Takeaway containers stacked on every surface. Energy drink cans littered the floor. Cables snaked across the carpet. In the corner, a server rack hummed.
@@ -21484,7 +21543,7 @@ VOLUME - Gods Among Men
 			*CRUNCH!*
 			Connor knee-dropped onto Pig Head's snout, and finally, a strike to the throat.
 			Pig Head choked. Spat blood. Groaned.
-			His eyes rolled back, and his concsious mind lulled.
+			His eyes rolled back, and his conscious mind lulled.
 			"Holy... holy shit." Chapman nodded incredulously.
 			Connor walked over, and decked the strangler.
 			"That was for my sister."
@@ -21523,7 +21582,7 @@ VOLUME - Gods Among Men
 			Shannon gasped, and spun around, covering herself.
 			"Oh, don't stop on my account, darlin'." a large, naked man grinned savagely. Behind him were other, similarly built, similarly clothed men.
 			"Hey. We're just leaving." Trey said firmly.
-			"Not wihthout saying hello, you're not." another man snarled.
+			"Not without saying hello, you're not." another man snarled.
 			"Shan, run." Trey said grimly.
 			"What? No, I'm not leaving you with--"
 			"RUN!" he barked, before striking.
@@ -21574,7 +21633,7 @@ VOLUME - Gods Among Men
 			"You guys okay? Did they... did they do anything?" Goblin asked, rushing over.
 			"I stomp Bad Men's heads if thems did!" Troll concurred.
 			"N-no, they... they tried to, but... oh, God..." Shannon shivered.
-			"Come on. Let's go to my cell, get you guys changed." Connor whispered. "Goblin, Troll - come with."
+			"Come on. Let's go to my cell, get you guys changed." Connor whispered. "Goblin, Troll - come with. We've got a lot to talk about."
 
 		Vulnerable Prisoner's Unit
 		______________________________

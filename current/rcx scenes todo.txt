@@ -10,15 +10,8 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 current wip scene
 	have the protest scene start off the next; have Sparky and Gwen save the protestors, but many get dragged away. Bea seems to believe that Charlie was right that they shouldntve gone, but chloe rallies her
-	ivan 
 
 
-
-
-
-	consider if Stunlocke should begin in this arc - maybe have her using the suit when Connor escapes, and they have their argument there instead of in A New Hero - he relents when she says she's not gonna stop, and she raids the SHU with Gwen while Connor, Ivan, and Sparky maim Branson
-	Then, her first raid gets moved to Fragile Hearts, where she gets the name
-	might be better instead if she keeps the suit shelved here, to be honest
 
 
 
@@ -28,10 +21,7 @@ current wip scene
 
 
 change the prison break sequence
-	
-	for Dorsey's state of emergency, have a false flag attack - maybe put in the bridge collapse, along with mass electrical sabotage. dorsey frames Connor for this
-		deepfake says something like "the only person in this city with *power...* is me"
-		shannon does a duelling hacker sequence here, and together with the data from the raw files, is able to track down leo
+
 
 
 	NOTE
@@ -156,6 +146,20 @@ funny moment when amy hangs up the suit
 	"hey, you'll get your new codename once you earn it. take it up with the commissar."
 
 
+
+
+include a brief scene where connor takes custody of Eileen's things; he takes her old motorbike to the garage and does it up
+	add a moment in their first date where Connor picks Chloe up (rather than meeting her at the arcade) on Eileen's Renegade - both honouring her memory while also making it work
+		he explains Eileen as a passed family friend
+
+
+
+
+consider making it so Chloe's parents' views on Connor are a little more nuanced:
+	William is overprotective; despite being perfectly polite to Connor, he expresses disapproval at chloe/"his little girl" dating someone so "rough around the edges" as he worries she'll get hurt again
+	Catherine is more apathetic here; expressing exasperation rather than hostility at their relationship, saying chloe will make her own mistakes and they'll have to pick up the pieces *again.*
+
+	in chloe's birthday interview, have her dad accuse her of being changed by connor, pointing out her hairstyle being different - she snaps that it's because he, and her other friends too, are helping her feel like she doesn't need to hide away as much, and he (her dad) should be grateful for that
 
 
 
@@ -603,14 +607,18 @@ list of morphing powers:
 		several micro-hooks form at the contact surface, allowing super-grip
 	armour
 		can expel more substance into the costume to thicken it
+	gauntlets
+		can thicken his gloves to make blunt weapons for nonlethal takedowns of superhumans
 	crossbows
 		can morph wrist-mounted crossbows, allowing for ranged attacks. can use blunter bolts for incapacitation, or sharp ones for kills
 	grappling/rope
 		can morph rope from the body; can be used with crossbows to form a grapple gun, swing from buildings, or restrain enemies
+			specifically, grappling hooks are formed with applying the adhesion power to a suction cup at the end of the rope, then firing this rope from either the crossbow, or an air/gas powered contraption (see below)
 	shields
 		use these when both defense and agility are needed - should typically be forearm bucklers rather than full ballistic shields unless he's covering someone else
 	gliding
 		morphs a cape that can rigidify on-command, and uses super-senses to detect updrafts and wind tunnels. can also use grappling to gain extra velocity (through pendulum swings or rapid reeling); can also use wall-running to gain altitude, or push self off of walls for extra speed
+		can also use air pressure (see below) to provide thrust, allowing indefinite flight as long as stamina is high
 	caltrops
 		area denial weapons, as well as anti-vehicle traps
 	shock absorbers
@@ -623,8 +631,6 @@ list of morphing powers:
 		use these for wide-area non-lethal ranged capture
 	restraints
 		gags, blindfolds, handcuffs, hogties, or even hanging people by their ankles from the ceiling
-	vaulting pole
-		used for short-range hops
 	water-walking
 		pads that keep him at surface level as long as he's sprinting
 	trip-lines
@@ -632,15 +638,30 @@ list of morphing powers:
 	prosthetic makeup
 		change unmasked appearance
 	first aid kit
-		tourniquets, splints, bandages and more
+		tourniquets, splints, bandages, wound-covering sprayfoam (delivered from air power, see below), and more
 	multitools
 		lockpicks, screwdrivers, spanners, crowbars
-	smoke bombs
-		release a burst of morphing substance as an aerosol, creating a short-lived cloud
 	pseudomorph
 		thin mannequin shaped like him to act as a decoy
+	air pressure maneuvers
+		can rapidly pressurise substance for various uses - see below for special ones
+	kinetic bursts
+		can use air pressure bursts to increase force in movement - making punches faster if a burst happens at the elbow, or make them deliver more force by bursting air from the knuckles on contact
+	smoke bombs
+		release a burst of morphing substance as an aerosol, creating a short-lived cloud
+	frag bombs
+		hardens the substance before bursting, creating chitinous frags at high velocity
 	sound funnel
 		don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
+	airsoft guns
+		compressed air firearms that can shoot pellets of biomass, with different variants
+			smoke rounds, which create a mini smoke bomb effect (if we allow pheremone manipulation, can also be used to disperse these)
+			dart rounds (can either be used as simple flechettes, or if PM is allowed as above)
+			acid rounds (rounds coated with stomach acid - supply acid to rounds by creating a running mouthguard tube to the shooting arm)
+			baton rounds - think rubber bullets
+			concussive rounds - above, but explodes on impact, delivering a wave of supercompressed air
+			explosive rounds - above, but uses the chitin frag power for lethal options
+			chitin rounds - baton rounds, but harder, sharper, and delivered at higher velocity, making them lethal
 
 
 new gadgets for whiplash/gwen:
@@ -913,6 +934,7 @@ for post-Oliver's funeral - have Chloe feeling pent up
 
 
 	first, have the bit where she's feeling ill and snaps, then feels shit
+		after they make up from this, they talk and she admits she needs to get better at accepting help; growing up, her mother made her feel like a burnden while her father coddled her mercilessly, so she doesn't have the healthiest relationship with being vulnerable, even with connor
 	she goes out and starts a couple of fights in belson - first she beats up an attempted mugger, then later is jumped by two - one with a knife
 		first, she kicks one guy in the chin
 		the second guy draws his knife and slashes - she catches it in her palms, elbows him in the jaw

@@ -26,12 +26,20 @@
                 <select id="volume-select">
                     <option value="">— Loading —</option>
                 </select>
+                <label class="whole-episode-toggle" for="whole-series-toggle" title="Parse the entire story as one continuous text">
+                    <input type="checkbox" id="whole-series-toggle">
+                    <span>Whole Series</span>
+                </label>
             </div>
             <div class="nav-group">
                 <label for="episode-select">Episode</label>
                 <select id="episode-select" disabled>
                     <option value="">— Select Episode —</option>
                 </select>
+                <label class="whole-episode-toggle" for="whole-volume-toggle" title="Parse every episode in the current volume as one continuous text">
+                    <input type="checkbox" id="whole-volume-toggle">
+                    <span>Whole Volume</span>
+                </label>
             </div>
             <div class="nav-group">
                 <label for="scene-select">Scene</label>
@@ -54,20 +62,10 @@
             <button id="stop-btn" disabled>⏹ Stop</button>
             <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
             <button id="help-btn" title="Show help">❓ Help</button>
+            <button id="settings-btn" title="Show settings">⚙️ Settings</button>
             <button id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
             <span class="wake-lock-indicator" id="wake-lock-indicator" title="Screen will stay awake while narration is playing">🔆 Screen Awake</span>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
-
-            <span class="speed-group">
-                <label for="speed-slider">Speed</label>
-                <input type="range" id="speed-slider" min="0.5" max="2" step="0.05" value="1.1">
-                <span class="speed-readout" id="speed-readout">1.10×</span>
-            </span>
-
-            <span class="voice-label">Voice:</span>
-            <select id="voice-select" disabled>
-                <option value="">— Default —</option>
-            </select>
         </div>
 
         <div class="chunk-panel" id="chunk-panel">
@@ -110,7 +108,7 @@
             <button class="clear-story-btn" id="clear-story-btn" title="Unload the current story without touching your saved reading position or preferences">
                 🧹 Clear Loaded Story
             </button>
-            <button id="copy-scene-btn" disabled title="Copy this scene's text to the clipboard">📋 Copy Scene</button>
+            <button id="copy-scene-btn" disabled title="Copy this content to the clipboard">📋 Copy Content</button>
         </div>
 
         <div class="reader-session-controls">

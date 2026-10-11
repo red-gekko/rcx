@@ -1,6 +1,5 @@
 /* =========================================================
    Consolidated CSS
-   Generated: 2026-09-21T21:48:03.758505
    ========================================================= */
 
 
@@ -858,7 +857,8 @@
             border-color: #56d364;
         }
 
-        .tts-controls button.help-active {
+        .tts-controls button.help-active,
+        .tts-controls button.settings-active {
             background-color: #2a2f4a;
             border-color: #58a6ff;
             color: #79b8ff;
@@ -1247,6 +1247,28 @@
             user-select: none;
         }
 
+        /* Divider headings inserted into parsed content */
+        .parsed-divider {
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #f0883e;
+            margin: 1.6em 0 0.8em 0;
+            padding: 6px 0 4px 0;
+            border-bottom: 1px dashed #30363d;
+            font-weight: 600;
+        }
+        .parsed-divider:first-child {
+            margin-top: 0.4em;
+        }
+        .parsed-divider .pd-scope {
+            color: #8b949e;
+            font-weight: 400;
+            letter-spacing: 1px;
+            margin-right: 6px;
+        }
+
         .help-panel {
             color: #d1d9e0;
             font-size: 1rem;
@@ -1300,6 +1322,220 @@
         }
 
         .help-panel .help-hint {
+            display: block;
+            margin-top: 1.5em;
+            padding: 12px 16px;
+            background: #1c2128;
+            border-left: 3px solid #f0883e;
+            border-radius: 6px;
+            color: #8b949e;
+            font-size: 0.9rem;
+            font-style: italic;
+        }
+
+        /* ── Settings panel ── */
+        .settings-panel {
+            color: #d1d9e0;
+            font-size: 0.98rem;
+            line-height: 1.6;
+        }
+
+        .settings-panel h3 {
+            color: #f0f6fc;
+            font-size: 1.12rem;
+            font-weight: 600;
+            margin: 1.4em 0 0.5em 0;
+            padding-bottom: 4px;
+            border-bottom: 1px solid #30363d;
+            letter-spacing: -0.2px;
+        }
+
+        .settings-panel h3:first-child { margin-top: 0; }
+
+        .settings-panel p {
+            margin: 0 0 0.85em 0;
+            color: #c9d1d9;
+        }
+
+        .settings-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            padding: 10px 14px;
+            margin-bottom: 6px;
+            background: #0d1117;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            flex-wrap: wrap;
+        }
+
+        .settings-row .settings-row-label {
+            font-weight: 600;
+            color: #f0f6fc;
+            flex: 1 1 260px;
+            font-size: 0.92rem;
+        }
+
+        .settings-row .settings-row-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.8rem;
+            color: #8b949e;
+            margin-top: 2px;
+            line-height: 1.4;
+        }
+
+        .settings-row .settings-row-control {
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            flex-shrink: 0;
+        }
+
+        .settings-row select,
+        .settings-row input[type="text"] {
+            padding: 6px 10px;
+            font-size: 0.85rem;
+            min-width: 160px;
+            background-color: #161b22;
+            color: #e6edf3;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            font-family: inherit;
+        }
+
+        .settings-row select:focus,
+        .settings-row input[type="text"]:focus {
+            outline: none;
+            border-color: #58a6ff;
+        }
+
+        .settings-row input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 140px;
+            height: 4px;
+            background: #30363d;
+            border-radius: 2px;
+            outline: none;
+            cursor: pointer;
+        }
+        .settings-row input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+        }
+        .settings-row input[type="range"]::-moz-range-thumb {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #58a6ff;
+            cursor: pointer;
+            border: 2px solid #0d1117;
+        }
+        .settings-row input[type="range"]::-moz-range-track {
+            height: 4px; background: #30363d; border-radius: 2px;
+        }
+
+        .settings-row .settings-value {
+            font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+            font-size: 0.78rem;
+            color: #e6edf3;
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 3px 6px;
+            min-width: 42px;
+            text-align: center;
+        }
+
+        .settings-row.settings-row-disabled {
+            opacity: 0.55;
+        }
+
+        .settings-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            cursor: pointer;
+            user-select: none;
+            font-size: 0.8rem;
+            font-weight: 600;
+            letter-spacing: 0.4px;
+            text-transform: uppercase;
+            color: #8b949e;
+            transition: color 0.2s;
+        }
+
+        .settings-toggle:hover { color: #c9d1d9; }
+
+        .settings-toggle input[type="checkbox"] {
+            appearance: none;
+            -webkit-appearance: none;
+            width: 36px;
+            height: 20px;
+            border: 1px solid #30363d;
+            border-radius: 20px;
+            background: #0d1117;
+            cursor: pointer;
+            position: relative;
+            transition: background-color 0.15s, border-color 0.15s;
+            flex-shrink: 0;
+        }
+
+        .settings-toggle input[type="checkbox"]::after {
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: #6e7681;
+            transition: transform 0.15s, background 0.15s;
+        }
+
+        .settings-toggle input[type="checkbox"]:checked {
+            background-color: #1f3d2a;
+            border-color: #3fb950;
+        }
+
+        .settings-toggle input[type="checkbox"]:checked::after {
+            background: #56d364;
+            transform: translateX(16px);
+        }
+
+        .settings-toggle input[type="checkbox"]:focus-visible {
+            outline: 2px solid #58a6ff;
+            outline-offset: 2px;
+        }
+
+        .settings-section-subheader {
+            margin: 1.6em 0 0.4em 0;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1.4px;
+            font-weight: 600;
+            color: #8b949e;
+        }
+
+        .settings-note {
+            padding: 10px 14px;
+            margin: 8px 0 14px 0;
+            background: #1c2128;
+            border-left: 3px solid #58a6ff;
+            border-radius: 6px;
+            color: #8b949e;
+            font-size: 0.85rem;
+            line-height: 1.5;
+        }
+
+        .settings-panel .settings-hint {
             display: block;
             margin-top: 1.5em;
             padding: 12px 16px;
@@ -1467,6 +1703,9 @@
             .reader-session-controls button { font-size: 0.75rem; padding: 8px 10px; }
             .reader-source-controls { gap: 8px; }
             .reader-source-controls button { font-size: 0.8rem; padding: 10px 12px; }
+            .settings-row { flex-direction: column; align-items: flex-start; }
+            .settings-row .settings-row-control { width: 100%; }
+            .settings-row select, .settings-row input[type="text"] { width: 100%; }
         }
 
         @media (max-width: 480px) {
@@ -1494,7 +1733,6 @@
         }
 
         /* ===== LINK STYLES ===== */
-        /* Unchanged appearance after click, matching dark theme. */
         a, a:link, a:visited, a:hover, a:active, a:focus {
             color: #79b8ff;
             text-decoration: none;
@@ -1514,12 +1752,10 @@
             outline-offset: 2px;
         }
 
-        /* Ensure visited links are identical to unvisited. */
         a:visited {
             color: #79b8ff;
         }
 
-        /* Help panel links inherit the same style. */
         .help-panel a {
             color: #79b8ff;
             border-bottom: 1px dotted #2a4a6a;

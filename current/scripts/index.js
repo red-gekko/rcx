@@ -25,6 +25,11 @@
                 storyCache: 'bloodhoundReader.storyCache.v1'
             };
 
+            // Divider markers live in the content string using a sentinel so
+            // the renderer can turn them into styled <div>s while TTS/copy
+            // never reads them out.
+            const DIVIDER_MARK_PREFIX = '\u0001DIVIDER\u0001';
+
             let pendingResumeProgress = null;
             let currentStoryFingerprint = '';
             let currentStorySource = '';
@@ -54,12 +59,12 @@
             const focusBtn = document.getElementById('focus-btn');
             const resumeBanner = document.getElementById('resume-banner');
             const clearProgressBtn = document.getElementById('clear-progress-btn');
-            const voiceSelect = document.getElementById('voice-select'); // may not exist in new layout
+            const voiceSelect = document.getElementById('voice-select'); // legacy; may not exist
             const chunkCounter = document.getElementById('chunk-counter');
             const chunkPanel = document.getElementById('chunk-panel');
             const chunkPanelText = document.getElementById('chunk-panel-text');
-            const speedSlider = document.getElementById('speed-slider'); // may not exist
-            const speedReadout = document.getElementById('speed-readout'); // may not exist
+            const speedSlider = document.getElementById('speed-slider');       // legacy; may not exist
+            const speedReadout = document.getElementById('speed-readout');     // legacy; may not exist
 
             const autoplayTimer = document.getElementById('autoplayTimer');
             const timerCountdown = document.getElementById('timerCountdown');
@@ -78,6 +83,7 @@
             const wakeLockIndicator = document.getElementById('wake-lock-indicator');
 
             let availableVoices = [];
+            let selectedVoiceIndex = '';   // the single source of truth for voice
             let chunks = [];
             let currentChunkIndex = -1;
             let currentUtterance = null;
@@ -87,7 +93,7 @@
             let ttsPaused = false;
             let currentSceneName = '';
             let currentSceneText = '';
-            let currentSceneHeader = '';   // Full header string for Copy Content
+            let currentSceneHeader = '';   // full header string, used by Copy Content
             let playbackRate = 1.1;
 
             let autoplayEnabled = false;
@@ -125,8 +131,6 @@
             let settingsVisible = false;
             let resumeChunkIndex = -1;
             let resumeAutoStart = false;
-            let resumeFromHelp = false;      // distinguish so we know what panel was open
-            let resumeFromSettings = false;
 
             let storyData = null;
             let debugLog = [];
@@ -135,6 +139,8 @@
             let wakeLockSentinel = null;
             let wakeLockSupported = ('wakeLock' in navigator);
             let wakeLockRequestPending = false;
+
+            /* ========== STORAGE ========== */
 
             function storageGet(key) { try { return localStorage.getItem(key); } catch (e) { console.warn('Storage read failed:', e); return null; } }
             function storageSet(key, value) { try { localStorage.setItem(key, value); return true; } catch (e) { console.warn('Storage write failed:', e); return false; } }
@@ -163,13 +169,14 @@
                     if (typeof prefs.includeVolumeHeaders === 'boolean') includeVolumeHeaders = prefs.includeVolumeHeaders;
                     if (typeof prefs.copyIncludeHeader === 'boolean') copyIncludeHeader = prefs.copyIncludeHeader;
                     if (typeof prefs.screenAwakeEnabled === 'boolean') screenAwakeEnabled = prefs.screenAwakeEnabled;
+                    if (typeof prefs.voiceIndex === 'string') selectedVoiceIndex = prefs.voiceIndex;
                 } catch (e) { console.warn('Preference restore failed:', e); }
             }
 
             function savePreferences() {
                 let voiceName = '', voiceLang = '';
-                if (voiceSelect && voiceSelect.value !== '' && availableVoices[voiceSelect.value]) {
-                    const v = availableVoices[voiceSelect.value];
+                if (selectedVoiceIndex !== '' && availableVoices[selectedVoiceIndex]) {
+                    const v = availableVoices[selectedVoiceIndex];
                     voiceName = v.name; voiceLang = v.lang;
                 }
                 storageSet(STORAGE_KEYS.preferences, JSON.stringify({
@@ -183,6 +190,7 @@
                     includeVolumeHeaders,
                     copyIncludeHeader,
                     screenAwakeEnabled,
+                    voiceIndex: selectedVoiceIndex,
                     voiceName,
                     voiceLang
                 }));
@@ -199,7 +207,7 @@
                     fingerprint: currentStoryFingerprint,
                     volume: volumeSelect.value,
                     episode: episodeSelect.value,
-                    scene: (wholeEpisodeMode || wholeVolumeMode || wholeSeriesMode) ? '' : sceneSelect.value,
+                    scene: isWholeModeActive() ? '' : sceneSelect.value,
                     wholeEpisode: wholeEpisodeMode,
                     wholeVolume: wholeVolumeMode,
                     wholeSeries: wholeSeriesMode,
@@ -230,6 +238,8 @@
                 resumeBanner.classList.add('visible');
                 setTimeout(() => resumeBanner.classList.remove('visible'), 1000);
             }
+
+            /* ========== FOCUS MODE ========== */
 
             function setFocusMode(enabled) {
                 document.body.classList.toggle('focus-mode', enabled);
@@ -274,9 +284,7 @@
             }
 
             async function requestWakeLock() {
-                if (!screenAwakeEnabled) {
-                    return;
-                }
+                if (!screenAwakeEnabled) return;
                 if (!wakeLockSupported) {
                     logDebug('Wake Lock API not supported in this browser — screen may sleep during narration.');
                     return;
@@ -371,6 +379,32 @@
                 s = s.replace(/^\s*[,;:]\s*/, '');
                 s = s.replace(/\s*[,;:]\s*$/, '');
                 return s.trim();
+            }
+
+            /* ========== DIVIDER MARKERS ========== */
+
+            function makeDividerMark(kind, name) {
+                return `${DIVIDER_MARK_PREFIX}${kind}\u0001${name}`;
+            }
+
+            function isDividerLine(line) {
+                return typeof line === 'string' && line.trimStart().startsWith(DIVIDER_MARK_PREFIX);
+            }
+
+            // Renders any divider marker in `text` back into readable plaintext.
+            function stripDividerMarksForPlain(text) {
+                return text.replace(
+                    new RegExp(`${DIVIDER_MARK_PREFIX}(\\w+)\\u0001([^\\n]*)`, 'g'),
+                    (_m, kind, name) => `${kind} - ${name}`
+                );
+            }
+
+            // Removes divider-marker lines entirely (structural, not spoken).
+            function stripDividerMarksForSpeech(text) {
+                return text
+                    .split('\n')
+                    .filter(line => !isDividerLine(line))
+                    .join('\n');
             }
 
             /* ========== SPEED SLIDER ========== */
@@ -495,7 +529,12 @@
                     currentChunkIndex >= 0 &&
                     currentChunkIndex < chunks.length) {
                     const c = chunks[currentChunkIndex];
-                    if (c.isPause) {
+                    const isDivider = !c.isPause && isDividerLine(c.text);
+                    if (isDivider) {
+                        chunkPanelText.textContent = '— section break —';
+                        chunkPanelText.classList.add('is-pause');
+                        chunkPanelText.classList.remove('is-empty', 'is-autoplay-wait');
+                    } else if (c.isPause) {
                         chunkPanelText.textContent = '— beat —';
                         chunkPanelText.classList.add('is-pause');
                         chunkPanelText.classList.remove('is-empty', 'is-autoplay-wait');
@@ -562,10 +601,18 @@
             /* ========== COPY CONTENT ========== */
 
             async function copyCurrentContentToClipboard() {
-                let text = currentSceneText || '';
+                // Store the raw text but strip any divider sentinels for the
+                // copied output so it looks clean on paste.
+                let bodyPlain = stripDividerMarksForPlain(currentSceneText || '');
+
+                let text = '';
                 if (copyIncludeHeader && currentSceneHeader) {
-                    text = currentSceneHeader + '\n\n\n\n' + text;
+                    text = currentSceneHeader + '\n\n\n\n' + bodyPlain;
+                } else {
+                    text = bodyPlain;
                 }
+
+                // A few blank lines at the end of the copied text.
                 text = text + '\n\n\n\n';
 
                 if (!text.trim()) {
@@ -686,17 +733,13 @@
                 return list.findIndex(item => item.volumeName === volVal);
             }
 
-            // Which list does nav use given current mode?
             function getCurrentNavList() {
-                if (wholeSeriesMode) {
-                    // Whole Series has no next-scene semantics; return a single
-                    // entry so autoplay doesn't try to loop.
-                    return [{}];
-                }
+                if (wholeSeriesMode) return [{}];
                 if (wholeVolumeMode) return getFlatVolumeList();
                 if (wholeEpisodeMode) return getFlatEpisodeList();
                 return getFlatSceneList();
             }
+
             function getCurrentNavIndex() {
                 if (wholeSeriesMode) return 0;
                 if (wholeVolumeMode) return getCurrentFlatVolumeIndex();
@@ -716,83 +759,99 @@
                 return storyData.volumes.find(v => v.name === volumeSelect.value) || null;
             }
 
-            // ── Scoped text builders ──
-
-            // Build the content for a single scene with optional header.
-            function buildSceneText(volume, episode, scene, opts) {
-                opts = opts || {};
-                let out = '';
-                if (opts.volumeHeader) out += opts.volumeHeader + '\n';
-                if (opts.episodeHeader) out += opts.episodeHeader + '\n';
-                if (opts.sceneHeader) out += opts.sceneHeader + '\n';
-                if (out) out += '\n';
-                out += scene.content;
-                return out;
+            function getSelectedScene() {
+                if (!storyData || !volumeSelect.value || !episodeSelect.value || !sceneSelect.value) return null;
+                const volume = storyData.volumes.find(v => v.name === volumeSelect.value);
+                if (!volume) return null;
+                const episode = volume.episodes.find(e => e.id === episodeSelect.value);
+                if (!episode) return null;
+                return episode.scenes.find(s => s.id === sceneSelect.value) || null;
             }
 
-            function makeSceneHeader(scene) {
-                return 'SCENE - ' + scene.name;
-            }
-            function makeEpisodeHeader(episode) {
-                return 'EPISODE - ' + episode.name;
-            }
-            function makeVolumeHeader(volume) {
-                return 'VOLUME - ' + volume.name;
-            }
+            /* ========== CONTENT BUILDERS ========== */
 
-            // Join an array of scene texts into one continuous block. We use
-            // SCENE_GAP_BLANK_LINES blank lines between scenes so the chunker
-            // emits a long pause between scenes.
             function joinWithGaps(pieces, gap) {
                 return pieces.join('\n'.repeat(gap + 1));
             }
 
-            function buildWholeEpisodeText(episode) {
+            function buildSceneTextInternal(scene) {
+                let out = '';
+                if (includeSceneHeaders) {
+                    out += makeDividerMark('SCENE', scene.name) + '\n\n';
+                }
+                out += stripIndentation(scene.content);
+                return out;
+            }
+
+            function buildWholeEpisodeTextInternal(episode) {
                 if (!episode || !episode.scenes.length) return '';
-                const pieces = episode.scenes.map(sc => {
-                    return buildSceneText(null, null, sc, {
-                        sceneHeader: includeSceneHeaders ? makeSceneHeader(sc) : ''
-                    });
-                });
+                const pieces = episode.scenes.map(sc => buildSceneTextInternal(sc));
                 return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES);
             }
 
-            function buildWholeVolumeText(volume) {
+            function buildWholeVolumeTextInternal(volume) {
                 if (!volume || !volume.episodes.length) return '';
                 const pieces = volume.episodes.map(ep => {
-                    return buildWholeEpisodeText(ep);
+                    let out = '';
+                    if (includeEpisodeHeaders) {
+                        out += makeDividerMark('EPISODE', ep.name) + '\n\n';
+                    }
+                    out += buildWholeEpisodeTextInternal(ep);
+                    return out;
                 });
-                // Between episodes, use a bigger gap.
                 return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES * 2);
             }
 
-            function buildWholeSeriesText() {
+            function buildWholeSeriesTextInternal() {
                 if (!storyData || !storyData.volumes.length) return '';
                 const pieces = storyData.volumes.map(vol => {
-                    let header = includeVolumeHeaders ? makeVolumeHeader(vol) : '';
-                    let body = buildWholeSeriesVolumeText(vol);
-                    return (header ? header + '\n\n' : '') + body;
+                    let out = '';
+                    if (includeVolumeHeaders) {
+                        out += makeDividerMark('VOLUME', vol.name) + '\n\n';
+                    }
+                    out += buildWholeVolumeTextInternal(vol);
+                    return out;
                 });
                 return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES * 3);
             }
 
-            // Volume body for Whole Series: like buildWholeVolumeText but
-            // includes episode headers.
-            function buildWholeSeriesVolumeText(volume) {
-                const epPieces = volume.episodes.map(ep => {
-                    const header = includeEpisodeHeaders ? makeEpisodeHeader(ep) : '';
-                    const scenePieces = ep.scenes.map(sc => {
-                        return buildSceneText(null, null, sc, {
-                            sceneHeader: includeSceneHeaders ? makeSceneHeader(sc) : ''
-                        });
-                    });
-                    const body = joinWithGaps(scenePieces, SCENE_GAP_BLANK_LINES);
-                    return (header ? header + '\n\n' : '') + body;
-                });
-                return joinWithGaps(epPieces, SCENE_GAP_BLANK_LINES * 2);
+            function buildCurrentContent() {
+                if (wholeSeriesMode) {
+                    if (!storyData || !storyData.volumes.length) return null;
+                    return {
+                        title: 'Bloodhound',
+                        body: buildWholeSeriesTextInternal(),
+                        header: 'SERIES - Bloodhound'
+                    };
+                }
+                if (wholeVolumeMode) {
+                    const volume = getSelectedVolume();
+                    if (!volume) return null;
+                    return {
+                        title: volume.name,
+                        body: buildWholeVolumeTextInternal(volume),
+                        header: 'VOLUME - ' + volume.name
+                    };
+                }
+                if (wholeEpisodeMode) {
+                    const episode = getSelectedEpisode();
+                    if (!episode) return null;
+                    return {
+                        title: episode.name,
+                        body: buildWholeEpisodeTextInternal(episode),
+                        header: 'EPISODE - ' + episode.name
+                    };
+                }
+                const scene = getSelectedScene();
+                if (!scene) return null;
+                return {
+                    title: scene.name,
+                    body: stripIndentation(scene.content),
+                    header: 'SCENE - ' + scene.name
+                };
             }
 
-            /* ========== SCENE / EPISODE / VOLUME / SERIES SELECTION ========== */
+            /* ========== NAVIGATION ========== */
 
             function selectSceneByFlatIndex(flatIndex, autoStart) {
                 const list = getFlatSceneList();
@@ -828,8 +887,6 @@
 
                 displaySelectedScene(autoStart);
                 updateSceneNavButtons();
-
-                logDebug(`Navigated to flat scene index ${flatIndex}: "${target.sceneName}"${autoStart ? ' (auto-start)' : ''}`);
             }
 
             function selectEpisodeByFlatIndex(flatIndex, autoStart) {
@@ -864,8 +921,6 @@
 
                 displaySelectedScene(autoStart);
                 updateSceneNavButtons();
-
-                logDebug(`Navigated to flat episode index ${flatIndex}: "${target.episodeName}"${autoStart ? ' (auto-start)' : ''}`);
             }
 
             function selectVolumeByFlatIndex(flatIndex, autoStart) {
@@ -902,48 +957,46 @@
 
                 displaySelectedScene(autoStart);
                 updateSceneNavButtons();
-
-                logDebug(`Navigated to flat volume index ${flatIndex}: "${target.volumeName}"${autoStart ? ' (auto-start)' : ''}`);
             }
 
             function goToPrevNav() {
-                if (wholeSeriesMode) return; // no siblings
+                if (wholeSeriesMode) return;
                 if (wholeVolumeMode) {
                     const idx = getCurrentFlatVolumeIndex();
-                    if (idx <= 0) { logDebug('Already at first volume.'); return; }
+                    if (idx <= 0) return;
                     selectVolumeByFlatIndex(idx - 1, autoplayEnabled);
                     return;
                 }
                 if (wholeEpisodeMode) {
                     const idx = getCurrentFlatEpisodeIndex();
-                    if (idx <= 0) { logDebug('Already at first episode.'); return; }
+                    if (idx <= 0) return;
                     selectEpisodeByFlatIndex(idx - 1, autoplayEnabled);
                     return;
                 }
                 const flatIndex = getCurrentFlatIndex();
-                if (flatIndex <= 0) { logDebug('Already at first scene.'); return; }
+                if (flatIndex <= 0) return;
                 selectSceneByFlatIndex(flatIndex - 1, autoplayEnabled);
             }
 
             function goToNextNav(autoStart) {
-                if (wholeSeriesMode) return; // no siblings
+                if (wholeSeriesMode) return;
                 if (wholeVolumeMode) {
                     const idx = getCurrentFlatVolumeIndex();
                     const list = getFlatVolumeList();
-                    if (idx < 0 || idx >= list.length - 1) { logDebug('Already at last volume.'); return; }
+                    if (idx < 0 || idx >= list.length - 1) return;
                     selectVolumeByFlatIndex(idx + 1, !!autoStart);
                     return;
                 }
                 if (wholeEpisodeMode) {
                     const idx = getCurrentFlatEpisodeIndex();
                     const list = getFlatEpisodeList();
-                    if (idx < 0 || idx >= list.length - 1) { logDebug('Already at last episode.'); return; }
+                    if (idx < 0 || idx >= list.length - 1) return;
                     selectEpisodeByFlatIndex(idx + 1, !!autoStart);
                     return;
                 }
                 const flatIndex = getCurrentFlatIndex();
                 const list = getFlatSceneList();
-                if (flatIndex < 0 || flatIndex >= list.length - 1) { logDebug('Already at last scene.'); return; }
+                if (flatIndex < 0 || flatIndex >= list.length - 1) return;
                 selectSceneByFlatIndex(flatIndex + 1, !!autoStart);
             }
 
@@ -1001,22 +1054,15 @@
                 copySceneBtn.disabled = !hasScene;
             }
 
-            function handlePrevSceneNavigation() {
-                logDebug('Scene nav: Previous');
-                goToPrevNav();
-            }
-
-            function handleNextSceneNavigation() {
-                logDebug('Scene nav: Next');
-                goToNextNav(autoplayEnabled);
-            }
+            function handlePrevSceneNavigation() { goToPrevNav(); }
+            function handleNextSceneNavigation() { goToNextNav(autoplayEnabled); }
 
             scenePrevBtn.addEventListener('click', handlePrevSceneNavigation);
             scenePrevBtnBottom.addEventListener('click', handlePrevSceneNavigation);
             sceneNextBtn.addEventListener('click', handleNextSceneNavigation);
             sceneNextBtnBottom.addEventListener('click', handleNextSceneNavigation);
 
-            /* ========== HELP PANEL ========== */
+            /* ========== HELP & SETTINGS PANELS ========== */
 
             const HELP_HTML = `
                 <div class="help-panel">
@@ -1029,10 +1075,10 @@
                     <h3>📖 Reading &amp; Navigation</h3>
                     <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>
                     <ul>
-                        <li><strong>Whole Series</strong>, <strong>Whole Volume</strong>, and <strong>Whole Episode</strong> toggles sit beneath their respective dropdowns. Exactly one of these can be active at a time, and each parses a progressively wider slice of the story as one continuous narration. When a wider toggle is on, the corresponding narrower dropdown is disabled.</li>
-                        <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the story. The step size follows whichever Whole-* toggle is active (scene, episode, or volume). Autoplay will advance by the same step.</li>
+                        <li><strong>Whole Series</strong>, <strong>Whole Volume</strong>, and <strong>Whole Episode</strong> toggles sit beneath their respective dropdowns. Exactly one can be active at a time, and each parses a progressively wider slice of the story as one continuous narration.</li>
+                        <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the story by whichever scope is active.</li>
                         <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story.</li>
-                        <li><strong>Header inclusion</strong> — Settings has toggles to include Scene / Episode / Volume headers inside wider-parsed text. These only apply when a Whole-* toggle is active.</li>
+                        <li><strong>Header inclusion</strong> — Settings has toggles to include Scene / Episode / Volume headers inside wider-parsed text.</li>
                     </ul>
 
                     <h3>🔊 Narration</h3>
@@ -1040,34 +1086,34 @@
                         <li><strong>Speak Scene</strong> — Begin narrating the current content from the start.</li>
                         <li><strong>Pause / Resume</strong> — Temporarily halt the narrator without losing your place.</li>
                         <li><strong>Stop</strong> — End narration entirely and reset the chunk counter.</li>
-                        <li><strong>Prev / Replay / Next (chunk buttons)</strong> — Skip backward, repeat, or skip forward one spoken chunk at a time. Useful for re-hearing a specific sentence.</li>
-                        <li><strong>Speed, Voice, and Screen Awake</strong> — These are now in the Settings panel.</li>
+                        <li><strong>Prev / Replay / Next (chunk buttons)</strong> — Skip backward, repeat, or skip forward one spoken chunk at a time.</li>
+                        <li><strong>Speed, Voice, and Screen Awake</strong> — These are in the Settings panel.</li>
                     </ul>
 
                     <h3>🔁 Autoplay</h3>
-                    <p>Toggle Autoplay on to have the reader automatically advance to the next item (scene, episode, or volume depending on the Whole-* mode) after the current one finishes. A countdown appears in the transcript panel, with a cancel button.</p>
+                    <p>Toggle Autoplay on to have the reader automatically advance to the next item (scene, episode, or volume depending on the Whole-* mode) after the current one finishes. A countdown appears in the transcript panel.</p>
 
                     <h3>📝 Transcript Panel</h3>
                     <p>The panel above always shows either the chunk currently being spoken, a beat marker for paragraph breaks, or a placeholder when idle. During an Autoplay countdown it shows the remaining seconds.</p>
 
                     <h3>🖱️ Interactive Chunks</h3>
-                    <p>While narration is active, each chunk in the scene becomes clickable. <strong>Hover</strong> over any sentence to see its boundaries; the chunk currently being spoken is highlighted in orange. <strong>Click</strong> a chunk to jump narration to that exact point and continue from there.</p>
+                    <p>While narration is active, each chunk in the scene becomes clickable. <strong>Hover</strong> over any sentence to see its boundaries; the chunk currently being spoken is highlighted in orange. <strong>Click</strong> a chunk to jump narration to that exact point.</p>
 
                     <h3>📂 Story Source</h3>
                     <ul>
-                        <li><strong>📂 Load from Computer</strong> — Clear the currently loaded story and switch this session to manual upload mode.</li>
-                        <li><strong>🔄 Reload from Server</strong> — Clear the currently loaded story and fetch the latest version of the story file, bypassing the browser cache.</li>
-                        <li><strong>🧹 Clear Loaded Story</strong> — Unload the current story from the reader without touching your saved reading position, narration preferences, or offline cache.</li>
-                        <li><strong>📋 Copy Content</strong> — Copy the currently displayed content to your clipboard. In Settings you can choose whether the header is included.</li>
+                        <li><strong>📂 Load from Computer</strong> — Clear the currently loaded story and switch to manual upload mode.</li>
+                        <li><strong>🔄 Reload from Server</strong> — Clear the currently loaded story and fetch the latest version from the server.</li>
+                        <li><strong>🧹 Clear Loaded Story</strong> — Unload the current story without touching your saved reading position or offline cache.</li>
+                        <li><strong>📋 Copy Content</strong> — Copy the current content to your clipboard. Settings controls whether the header is included.</li>
                     </ul>
 
                     <h3>💾 Reader Convenience</h3>
                     <ul>
-                        <li><strong>Remember where you were</strong> — Your last Volume, Episode, Scene, and Whole-* mode are saved in this browser and restored automatically when the same story version is loaded.</li>
-                        <li><strong>Persistent narration settings</strong> — Narration speed, voice, Autoplay, Whole-* modes, header-inclusion toggles, and Copy-Content options are all remembered between visits.</li>
-                        <li><strong>⛶ Focus Mode</strong> — Hides the surrounding controls and attempts to enter fullscreen for a cleaner reading view.</li>
-                        <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser as a fallback if the server cannot be reached on first page load.</li>
-                        <li><strong>Clear Saved Progress</strong> — Removes the remembered reading position. Your story cache and narration settings are unaffected.</li>
+                        <li><strong>Remember where you were</strong> — Last Volume / Episode / Scene / Whole-* mode are restored when the same story version loads.</li>
+                        <li><strong>Persistent settings</strong> — Speed, voice, Autoplay, Whole-* modes, header-inclusion toggles, and Copy options are remembered.</li>
+                        <li><strong>⛶ Focus Mode</strong> — Hides surrounding controls and attempts to enter fullscreen.</li>
+                        <li><strong>Offline persistence</strong> — The most recently loaded story is cached in your browser.</li>
+                        <li><strong>Clear Saved Progress</strong> — Removes the remembered reading position. Cache and settings are unaffected.</li>
                     </ul>
 
                     <h3>⚙️ Settings &amp; ❓ Help</h3>
@@ -1077,13 +1123,11 @@
                 </div>
             `;
 
-            /* ========== SETTINGS PANEL ========== */
-
             function settingsHTML() {
                 return `
                 <div class="settings-panel">
                     <h3>📚 Whole-* Header Inclusion</h3>
-                    <p>These options only apply when a <em>Whole Series</em>, <em>Whole Volume</em>, or <em>Whole Episode</em> toggle is active. They add a divider line above each included section (the underlying plaintext headers at the end of each scene are always stripped).</p>
+                    <p>These options only apply when a <em>Whole Series</em>, <em>Whole Volume</em>, or <em>Whole Episode</em> toggle is active. They add a divider line above each included section.</p>
 
                     <div class="settings-section-subheader">Included in the parsed narration text</div>
 
@@ -1103,7 +1147,7 @@
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-include-episode-headers">
                             Include Episode headers
-                            <span class="settings-row-hint">Adds an "EPISODE - &lt;name&gt;" divider above each episode (only meaningful for Whole Volume and Whole Series).</span>
+                            <span class="settings-row-hint">Adds an "EPISODE - &lt;name&gt;" divider above each episode.</span>
                         </label>
                         <span class="settings-row-control">
                             <label class="settings-toggle">
@@ -1116,7 +1160,7 @@
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-include-volume-headers">
                             Include Volume headers
-                            <span class="settings-row-hint">Adds a "VOLUME - &lt;name&gt;" divider above each volume (only meaningful for Whole Series).</span>
+                            <span class="settings-row-hint">Adds a "VOLUME - &lt;name&gt;" divider above each volume.</span>
                         </label>
                         <span class="settings-row-control">
                             <label class="settings-toggle">
@@ -1134,7 +1178,7 @@
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-copy-include-header">
                             Include header when copying
-                            <span class="settings-row-hint">Prepends the current content's title (e.g. "SCENE - Foreword") and a few blank lines before the copied text.</span>
+                            <span class="settings-row-hint">Prepends the current content's title and a few blank lines before the copied text.</span>
                         </label>
                         <span class="settings-row-control">
                             <label class="settings-toggle">
@@ -1159,7 +1203,7 @@
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-voice-select">
                             Voice
-                            <span class="settings-row-hint">Choose from the voices installed on your device. "Google UK English Male" is preferred when available.</span>
+                            <span class="settings-row-hint">Choose from the voices installed on your device.</span>
                         </label>
                         <span class="settings-row-control">
                             <select id="settings-voice-select" disabled>
@@ -1171,7 +1215,7 @@
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-screen-awake">
                             Screen Awake
-                            <span class="settings-row-hint">Ask the device to keep the screen on while narration is playing (uses the Screen Wake Lock API where supported).</span>
+                            <span class="settings-row-hint">Ask the device to keep the screen on while narration is playing.</span>
                         </label>
                         <span class="settings-row-control">
                             <label class="settings-toggle">
@@ -1184,6 +1228,35 @@
                     <span class="settings-hint">Press the Settings button again to close this panel and return to your content.</span>
                 </div>
                 `;
+            }
+
+            function buildSettingsVoiceDropdown() {
+                const voiceSel = document.getElementById('settings-voice-select');
+                if (!voiceSel) return;
+
+                voiceSel.innerHTML = '';
+                const def = document.createElement('option');
+                def.value = '';
+                def.textContent = '— Default —';
+                voiceSel.appendChild(def);
+
+                const sorted = [...availableVoices].sort((a, b) => {
+                    const aG = a.name.includes('Google') ? 0 : 1;
+                    const bG = b.name.includes('Google') ? 0 : 1;
+                    if (aG !== bG) return aG - bG;
+                    return a.name.localeCompare(b.name);
+                });
+
+                sorted.forEach(voice => {
+                    const option = document.createElement('option');
+                    option.value = availableVoices.indexOf(voice);
+                    const lang = voice.lang || '';
+                    option.textContent = `${voice.name} (${lang})${voice.default ? ' ★' : ''}`;
+                    voiceSel.appendChild(option);
+                });
+
+                voiceSel.disabled = availableVoices.length === 0;
+                voiceSel.value = selectedVoiceIndex;
             }
 
             function syncSettingsUI() {
@@ -1219,42 +1292,7 @@
                 const speedReadoutEl = $('settings-speed-readout');
                 if (speedReadoutEl) speedReadoutEl.textContent = playbackRate.toFixed(2) + '×';
 
-                // Voice select
-                const voiceSel = $('settings-voice-select');
-                if (voiceSel) {
-                    voiceSel.innerHTML = '';
-                    const def = document.createElement('option');
-                    def.value = '';
-                    def.textContent = '— Default —';
-                    voiceSel.appendChild(def);
-                    const sorted = [...availableVoices].sort((a, b) => {
-                        const aG = a.name.includes('Google') ? 0 : 1;
-                        const bG = b.name.includes('Google') ? 0 : 1;
-                        if (aG !== bG) return aG - bG;
-                        return a.name.localeCompare(b.name);
-                    });
-                    sorted.forEach(function(voice) {
-                        const option = document.createElement('option');
-                        option.value = availableVoices.indexOf(voice);
-                        const lang = voice.lang || '';
-                        option.textContent = `${voice.name} (${lang})${voice.default ? ' ★' : ''}`;
-                        voiceSel.appendChild(option);
-                    });
-                    voiceSel.disabled = availableVoices.length === 0;
-
-                    // Sync to current selection if any
-                    if (voiceSelect) voiceSel.value = voiceSelect.value;
-                    else {
-                        try {
-                            const raw = storageGet(STORAGE_KEYS.preferences);
-                            const prefs = raw ? JSON.parse(raw) : null;
-                            if (prefs && prefs.voiceName) {
-                                const idx = availableVoices.findIndex(v => v.name === prefs.voiceName && (!prefs.voiceLang || v.lang === prefs.voiceLang));
-                                if (idx >= 0) voiceSel.value = idx;
-                            }
-                        } catch (e) {}
-                    }
-                }
+                buildSettingsVoiceDropdown();
             }
 
             function attachSettingsListeners() {
@@ -1333,8 +1371,11 @@
                 if (voiceSel && !voiceSel.dataset.bound) {
                     voiceSel.dataset.bound = '1';
                     voiceSel.addEventListener('change', function() {
-                        if (voiceSelect) voiceSelect.value = voiceSel.value;
+                        selectedVoiceIndex = voiceSel.value;
+                        // Keep legacy dropdown in sync if present.
+                        if (voiceSelect) voiceSelect.value = selectedVoiceIndex;
                         savePreferences();
+                        logDebug(`Voice: selected index ${selectedVoiceIndex || '(default)'}`);
                     });
                 }
             }
@@ -1344,9 +1385,6 @@
 
                 resumeAutoStart = ttsActive;
                 resumeChunkIndex = currentChunkIndex;
-                resumeFromHelp = true;
-
-                logDebug(`Help: entered (ttsActive=${ttsActive}, chunk=${currentChunkIndex})`);
 
                 pauseNarrationForPanel();
 
@@ -1369,9 +1407,6 @@
 
                 resumeAutoStart = ttsActive;
                 resumeChunkIndex = currentChunkIndex;
-                resumeFromSettings = true;
-
-                logDebug(`Settings: entered (ttsActive=${ttsActive}, chunk=${currentChunkIndex})`);
 
                 pauseNarrationForPanel();
 
@@ -1411,25 +1446,17 @@
             }
 
             function exitHelpMode(silent) {
-                logDebug(`Help: exited (resumeAutoStart=${resumeAutoStart}, resumeChunk=${resumeChunkIndex})`);
-
                 helpVisible = false;
                 helpBtn.classList.remove('help-active');
                 helpBtn.textContent = '❓ Help';
-
                 restoreContentAfterPanel(silent);
-                resumeFromHelp = false;
             }
 
             function exitSettingsMode(silent) {
-                logDebug(`Settings: exited (resumeAutoStart=${resumeAutoStart}, resumeChunk=${resumeChunkIndex})`);
-
                 settingsVisible = false;
                 settingsBtn.classList.remove('settings-active');
                 settingsBtn.textContent = '⚙️ Settings';
-
                 restoreContentAfterPanel(silent);
-                resumeFromSettings = false;
             }
 
             function restoreContentAfterPanel(silent) {
@@ -1450,12 +1477,8 @@
                         const startIdx = (resumeChunkIndex >= 0 && resumeChunkIndex < chunks.length)
                             ? resumeChunkIndex
                             : 0;
-                        if (!silent) {
-                            setStatus(`Resumed: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
-                        }
-                        setTimeout(function() {
-                            playChunkAt(startIdx);
-                        }, 150);
+                        if (!silent) setStatus(`Resumed: ${currentSceneName} (${playbackRate.toFixed(2)}×)`);
+                        setTimeout(function() { playChunkAt(startIdx); }, 150);
                     }
                 } else {
                     if (!silent) setStatus(`Reading: ${currentSceneName}`);
@@ -1466,12 +1489,10 @@
             }
 
             helpBtn.addEventListener('click', function() {
-                if (helpVisible) exitHelpMode(false);
-                else enterHelpMode();
+                if (helpVisible) exitHelpMode(false); else enterHelpMode();
             });
             settingsBtn.addEventListener('click', function() {
-                if (settingsVisible) exitSettingsMode(false);
-                else enterSettingsMode();
+                if (settingsVisible) exitSettingsMode(false); else enterSettingsMode();
             });
 
             /* ========== SPEECH SYNTHESIS ========== */
@@ -1518,13 +1539,21 @@
                 if (!window.speechSynthesis) {
                     logDebug('SpeechSynthesis not supported in this browser');
                     speakBtn.disabled = true;
-                    if (voiceSelect) voiceSelect.disabled = true;
                     return;
                 }
 
                 availableVoices = window.speechSynthesis.getVoices();
                 logDebug(`Voices available: ${availableVoices.length}`);
 
+                // Only auto-pick a preferred voice if the user hasn't already
+                // picked one (or prefs restored one). Otherwise, respect their
+                // current selection.
+                if (selectedVoiceIndex === '') {
+                    const preferredIdx = pickPreferredVoiceIndex();
+                    if (preferredIdx >= 0) selectedVoiceIndex = String(preferredIdx);
+                }
+
+                // Legacy dropdown (if present).
                 if (voiceSelect) {
                     voiceSelect.innerHTML = '';
                     const defaultOption = document.createElement('option');
@@ -1548,19 +1577,11 @@
                     });
 
                     voiceSelect.disabled = false;
-
-                    let restoredIdx = -1;
-                    try {
-                        const raw = storageGet(STORAGE_KEYS.preferences);
-                        const prefs = raw ? JSON.parse(raw) : null;
-                        if (prefs && prefs.voiceName) restoredIdx = availableVoices.findIndex(v => v.name === prefs.voiceName && (!prefs.voiceLang || v.lang === prefs.voiceLang));
-                    } catch (e) {}
-                    const preferredIdx = restoredIdx >= 0 ? restoredIdx : pickPreferredVoiceIndex();
-                    if (preferredIdx >= 0) voiceSelect.value = preferredIdx;
+                    voiceSelect.value = selectedVoiceIndex;
                 }
 
-                // Sync settings-voice-select if settings is showing
-                if (settingsVisible) syncSettingsUI();
+                // Refresh the Settings dropdown if the panel is open.
+                if (settingsVisible) buildSettingsVoiceDropdown();
             }
 
             if (window.speechSynthesis) {
@@ -1578,7 +1599,12 @@
                 if (voiceSelect) voiceSelect.disabled = true;
             }
 
-            if (voiceSelect) voiceSelect.addEventListener('change', savePreferences);
+            if (voiceSelect) {
+                voiceSelect.addEventListener('change', function() {
+                    selectedVoiceIndex = voiceSelect.value;
+                    savePreferences();
+                });
+            }
             loadPreferences();
             updateSpeedReadout();
             updateAutoplayButton();
@@ -1610,6 +1636,18 @@
                     }
 
                     lastWasPause = false;
+
+                    // Divider lines: emit them as a single chunk so the viewer
+                    // can render them, but playChunkAt() will skip them.
+                    if (isDividerLine(trimmed)) {
+                        chunks.push({
+                            text: trimmed,
+                            isPause: false,
+                            isDivider: true,
+                            lineIndex: li
+                        });
+                        continue;
+                    }
 
                     if (trimmed.length <= maxLen) {
                         chunks.push({
@@ -1684,6 +1722,15 @@
             function playChunkAt(index) {
                 if (index < 0) index = 0;
 
+                // Skip divider chunks: they're structural, not spoken.
+                while (
+                    index < chunks.length &&
+                    chunks[index] &&
+                    chunks[index].isDivider
+                ) {
+                    index++;
+                }
+
                 if (index >= chunks.length) {
                     currentChunkIndex = chunks.length;
                     ttsActive = false;
@@ -1734,7 +1781,6 @@
                 const utterance = new SpeechSynthesisUtterance(sanitized);
                 currentUtterance = utterance;
 
-                const selectedVoiceIndex = voiceSelect ? voiceSelect.value : '';
                 if (selectedVoiceIndex !== '' && availableVoices[selectedVoiceIndex]) {
                     utterance.voice = availableVoices[selectedVoiceIndex];
                 }
@@ -1750,9 +1796,7 @@
                 };
 
                 utterance.onerror = function(event) {
-                    if (event.error === 'interrupted' || event.error === 'canceled') {
-                        return;
-                    }
+                    if (event.error === 'interrupted' || event.error === 'canceled') return;
                     logDebug(`Chunk error: ${event.error} — skipping`);
                     if (currentUtterance === utterance && ttsActive && !ttsPaused) {
                         playChunkAt(currentChunkIndex + 1);
@@ -1776,9 +1820,7 @@
                 ttsPaused = false;
                 pauseBtn.textContent = '⏸ Pause';
 
-                setTimeout(function() {
-                    playChunkAt(index);
-                }, 80);
+                setTimeout(function() { playChunkAt(index); }, 80);
             }
 
             function stopSpeaking() {
@@ -1886,6 +1928,8 @@
 
             /* ========== END TTS ========== */
 
+            /* ========== RENDERING ========== */
+
             function stripIndentation(content) {
                 if (!content) return '';
 
@@ -1912,21 +1956,6 @@
 
             function escapeHtml(s) {
                 return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            }
-
-            // Normalise our internal "divider" lines: they are prefixed with
-            // \u0001DIVIDER\u0001 so we can render them as <div class="parsed-divider">.
-            const DIVIDER_MARK_PREFIX = '\u0001DIVIDER\u0001';
-
-            function makeDividerMark(kind, text) {
-                // kind is 'SCENE', 'EPISODE', or 'VOLUME'
-                return `${DIVIDER_MARK_PREFIX}${kind}\u0001${text}`;
-            }
-
-            // Turn any divider marks in `text` back into plaintext (for TTS/copy).
-            function stripDividerMarksForPlain(text) {
-                return text.replace(new RegExp(`${DIVIDER_MARK_PREFIX}(\\w+)\\u0001([^\\n]*)`, 'g'),
-                    (_m, kind, name) => `${kind} - ${name}`);
             }
 
             function renderChunkedContent(stripped) {
@@ -1958,7 +1987,6 @@
 
                     lastWasPause = false;
 
-                    // Divider lines.
                     if (trimmed.startsWith(DIVIDER_MARK_PREFIX)) {
                         const rest = trimmed.substring(DIVIDER_MARK_PREFIX.length);
                         const sep = rest.indexOf('\u0001');
@@ -1987,113 +2015,6 @@
                 return html;
             }
 
-            // Build the "content" pipeline. Given the user's selection and
-            // current Whole-* mode, produce:
-            //   - title:   a heading to render at the top of the viewer
-            //   - body:    the raw text (with divider marks if the user wants
-            //              them; headers stripped otherwise)
-            //   - header:  the single-line header used by Copy Content when
-            //              "Include header" is checked (this is the plaintext
-            //              representation, e.g. "SCENE - Forename").
-            function buildCurrentContent() {
-                if (wholeSeriesMode) {
-                    if (!storyData || !storyData.volumes.length) return null;
-                    const title = 'Bloodhound';
-                    const header = 'SERIES - ' + (storyData.volumes[0] ? storyData.volumes[0].name.replace(/^.*?-\s*/, '') : '');
-                    // Real header: whole series is a bit odd — we'll just use
-                    // the first volume's name if available, else a generic.
-                    const headerClean = 'SERIES - Bloodhound';
-                    const body = buildWholeSeriesTextInternal();
-                    return { title, body, header: headerClean };
-                }
-                if (wholeVolumeMode) {
-                    const volume = getSelectedVolume();
-                    if (!volume) return null;
-                    const title = `${volume.name}`;
-                    const header = 'VOLUME - ' + volume.name;
-                    const body = buildWholeVolumeTextInternal(volume);
-                    return { title, body, header };
-                }
-                if (wholeEpisodeMode) {
-                    const episode = getSelectedEpisode();
-                    if (!episode) return null;
-                    const title = `${episode.name}`;
-                    const header = 'EPISODE - ' + episode.name;
-                    const body = buildWholeEpisodeTextInternal(episode);
-                    return { title, body, header };
-                }
-                // Single scene.
-                const scene = getSelectedScene();
-                if (!scene) return null;
-                const title = scene.name;
-                const header = 'SCENE - ' + scene.name;
-                return { title, body: scene.content, header };
-            }
-
-            // Internal builders that render marks for the viewer.
-
-            function buildSceneTextInternal(scene) {
-                let out = '';
-                if (includeSceneHeaders) {
-                    out += makeDividerMark('SCENE', scene.name) + '\n\n';
-                }
-                out += stripIndentation(scene.content);
-                return out;
-            }
-
-            function buildWholeEpisodeTextInternal(episode) {
-                if (!episode || !episode.scenes.length) return '';
-                const pieces = episode.scenes.map(sc => buildSceneTextInternal(sc));
-                return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES);
-            }
-
-            function buildWholeVolumeTextInternal(volume) {
-                if (!volume || !volume.episodes.length) return '';
-                const pieces = volume.episodes.map(ep => {
-                    let out = '';
-                    if (includeEpisodeHeaders) {
-                        out += makeDividerMark('EPISODE', ep.name) + '\n\n';
-                    }
-                    out += buildWholeEpisodeTextInternal(ep);
-                    return out;
-                });
-                return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES * 2);
-            }
-
-            function buildWholeSeriesTextInternal() {
-                if (!storyData || !storyData.volumes.length) return '';
-                const pieces = storyData.volumes.map(vol => {
-                    let out = '';
-                    if (includeVolumeHeaders) {
-                        out += makeDividerMark('VOLUME', vol.name) + '\n\n';
-                    }
-                    out += buildWholeVolumeTextInternal(vol);
-                    return out;
-                });
-                return joinWithGaps(pieces, SCENE_GAP_BLANK_LINES * 3);
-            }
-
-            function getSelectedScene() {
-                if (!storyData || !volumeSelect.value || !episodeSelect.value || !sceneSelect.value) return null;
-                const volume = storyData.volumes.find(v => v.name === volumeSelect.value);
-                if (!volume) return null;
-                const episode = volume.episodes.find(e => e.id === episodeSelect.value);
-                if (!episode) return null;
-                return episode.scenes.find(s => s.id === sceneSelect.value) || null;
-            }
-
-            // Existing public builders used by copy path (kept so external
-            // callers don't need to change — they now use the internal ones).
-            function buildWholeEpisodeText(episode) {
-                return buildWholeEpisodeTextInternal(episode);
-            }
-            function buildWholeVolumeText(volume) {
-                return buildWholeVolumeTextInternal(volume);
-            }
-            function buildWholeSeriesText() {
-                return buildWholeSeriesTextInternal();
-            }
-
             function showContent(title, content, autoStart, explicitHeader) {
                 if (!content) {
                     contentArea.innerHTML = `<div class="message">No content available for this selection.</div>`;
@@ -2110,12 +2031,8 @@
                     return;
                 }
 
-                // `content` might already be stripped / have divider marks.
                 const html = renderChunkedContent(content);
 
-                // For display header — if the title has divider marks, we
-                // should probably not show them, but the caller gives us a
-                // plain title anyway.
                 contentArea.innerHTML = `
                     <h2 class="scene-title">${escapeHtml(title || 'Untitled Scene')}</h2>
                     <div class="scene-content" id="scene-content">${html}</div>
@@ -2137,12 +2054,6 @@
                 }
             }
 
-            // Current scene text is stored raw (with marks). For TTS and copy
-            // we want the plaintext version.
-            function getPlaintextCurrent() {
-                return stripDividerMarksForPlain(currentSceneText);
-            }
-
             function attachChunkInteractions(container) {
                 if (!container) return;
                 container.addEventListener('click', function(e) {
@@ -2154,6 +2065,8 @@
                     jumpToChunk(idx);
                 });
             }
+
+            /* ========== SELECT HELPERS ========== */
 
             function populateSelect(select, items, defaultLabel) {
                 const currentValue = select.value;
@@ -2192,6 +2105,8 @@
                     if (select.options.length > 1) select.selectedIndex = 1;
                 }
             }
+
+            /* ========== PARSER ========== */
 
             function extractName(tagLine) {
                 let name = tagLine.replace(/^(VOLUME|EPISODE|SCENE)\s*[:—-]?\s*/, '');
@@ -2262,9 +2177,7 @@
                     saveScene();
                     if (currentEpisode && currentVolume) {
                         const exists = currentVolume.episodes.some(e => e.id === currentEpisode.id);
-                        if (!exists) {
-                            currentVolume.episodes.push(currentEpisode);
-                        }
+                        if (!exists) currentVolume.episodes.push(currentEpisode);
                         currentEpisode = null;
                     }
                 }
@@ -2364,7 +2277,8 @@
 
                 saveEpisode();
 
-                // Post-cleanup: remove stray trailing lines.
+                // Post-cleanup: remove stray trailing lines that look like a
+                // scene name left behind.
                 volumes.forEach(volume => {
                     volume.episodes.forEach(episode => {
                         episode.scenes.forEach(scene => {
@@ -2404,19 +2318,51 @@
                 return { volumes };
             }
 
+            /* ========== WHOLE-* TOGGLE GLUE ========== */
+
             function applyWholeTogglesFromState() {
-                // Ensure only one Whole-* is active at a time. Priority order
-                // (widest wins) is Series > Volume > Episode.
+                // Widest wins.
                 if (wholeSeriesMode) { wholeVolumeMode = false; wholeEpisodeMode = false; }
                 else if (wholeVolumeMode) { wholeSeriesMode = false; wholeEpisodeMode = false; }
                 else if (wholeEpisodeMode) { wholeSeriesMode = false; wholeVolumeMode = false; }
+
                 wholeSeriesToggle.checked = wholeSeriesMode;
                 wholeVolumeToggle.checked = wholeVolumeMode;
                 wholeEpisodeToggle.checked = wholeEpisodeMode;
+
                 sceneSelect.disabled = isWholeModeActive();
                 episodeSelect.disabled = wholeSeriesMode;
                 volumeSelect.disabled = false;
             }
+
+            wholeEpisodeToggle.addEventListener('change', function() {
+                wholeEpisodeMode = this.checked;
+                if (wholeEpisodeMode) { wholeVolumeMode = false; wholeSeriesMode = false; }
+                applyWholeTogglesFromState();
+                savePreferences();
+                if (storyData && volumeSelect.value && episodeSelect.value) displaySelectedScene(autoplayEnabled);
+                updateSceneNavButtons();
+            });
+
+            wholeVolumeToggle.addEventListener('change', function() {
+                wholeVolumeMode = this.checked;
+                if (wholeVolumeMode) { wholeEpisodeMode = false; wholeSeriesMode = false; }
+                applyWholeTogglesFromState();
+                savePreferences();
+                if (storyData && volumeSelect.value) displaySelectedScene(autoplayEnabled);
+                updateSceneNavButtons();
+            });
+
+            wholeSeriesToggle.addEventListener('change', function() {
+                wholeSeriesMode = this.checked;
+                if (wholeSeriesMode) { wholeEpisodeMode = false; wholeVolumeMode = false; }
+                applyWholeTogglesFromState();
+                savePreferences();
+                if (storyData && storyData.volumes.length) displaySelectedScene(autoplayEnabled);
+                updateSceneNavButtons();
+            });
+
+            /* ========== AUTO-SELECT & NAV UPDATE ========== */
 
             function autoSelectFirstScene() {
                 if (!storyData || !storyData.volumes.length) return;
@@ -2603,12 +2549,10 @@
                     return;
                 }
 
-                // Save progress
                 if (volumeSelect.value && episodeSelect.value) saveReadingProgress();
 
                 showContent(built.title, built.body, !!autoStart, built.header);
 
-                // Reset chunks for the new content
                 chunks = [];
                 currentChunkIndex = -1;
                 ttsActive = false;
@@ -2632,33 +2576,6 @@
             sceneSelect.addEventListener('change', function() {
                 if (cascadingSelectChange) return;
                 displaySelectedScene(autoplayEnabled);
-            });
-
-            wholeEpisodeToggle.addEventListener('change', function() {
-                wholeEpisodeMode = this.checked;
-                if (wholeEpisodeMode) { wholeVolumeMode = false; wholeSeriesMode = false; }
-                applyWholeTogglesFromState();
-                savePreferences();
-                if (storyData && volumeSelect.value && episodeSelect.value) displaySelectedScene(autoplayEnabled);
-                updateSceneNavButtons();
-            });
-
-            wholeVolumeToggle.addEventListener('change', function() {
-                wholeVolumeMode = this.checked;
-                if (wholeVolumeMode) { wholeEpisodeMode = false; wholeSeriesMode = false; }
-                applyWholeTogglesFromState();
-                savePreferences();
-                if (storyData && volumeSelect.value) displaySelectedScene(autoplayEnabled);
-                updateSceneNavButtons();
-            });
-
-            wholeSeriesToggle.addEventListener('change', function() {
-                wholeSeriesMode = this.checked;
-                if (wholeSeriesMode) { wholeEpisodeMode = false; wholeVolumeMode = false; }
-                applyWholeTogglesFromState();
-                savePreferences();
-                if (storyData && storyData.volumes.length) displaySelectedScene(autoplayEnabled);
-                updateSceneNavButtons();
             });
 
             /* ========== STORY LOADING ========== */
@@ -2704,7 +2621,6 @@
                 contentArea.innerHTML = `<div class="message"><p>${reason || 'No story loaded yet.'}</p></div>`;
 
                 updateSceneNavButtons();
-                logDebug(`Active story cleared${reason ? `: ${reason}` : ''}`);
             }
 
             function loadStoryFromText(text, requestId) {
@@ -2839,10 +2755,12 @@
             serverSourceBtn.addEventListener('click', function() { loadStoryFromServer(true); });
             clearStoryBtn.addEventListener('click', clearLoadedStory);
 
-            // On load, try server first.
-            loadStoryFromServer(false);
+            /* ========== BOOT ========== */
 
-            // Restore toggle UI from prefs *after* we attempt load.
+            loadPreferences();
             applyWholeTogglesFromState();
+
+            // Try server first on first load; silent cached fallback if it fails.
+            loadStoryFromServer(false);
 
         })();

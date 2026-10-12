@@ -18080,13 +18080,22 @@ VOLUME - Wolves Among Sheep
 			"Oh, good." Oliver nodded happily. "I enjoyed his company, too."
 			Sveta smiled proudly.
 			At that, Julia and Jonathan, who had finished their dinners, rose. They took their plates to the kitchen - taking deep breaths as if the air was softer.
-			"So..." William began awkwardly. "That Connor seemed nice."
-			"He is." Chloe smiled.
+			"So..." William began awkwardly. "Will you be seeing that Connor again?"
+			"He's one of my friends, so yes." she nodded curtly.
 			Victor scoffed.
 			"Something to say?" Chloe rolled her eyes.
 			"Three months in Drackhill and you're already hanging out with boys like that." he shrugged.
 			"Victor, come on now." William halfheartedly protested.
-			"It's true! Come on, dad - he wasn't exactly the most... elegant sort, was he?"
+			"It's true! Come on, dad - you know what that city's like!"
+			"Well, he seemed rather... rough around the edges, perhaps." William nodded.
+			"Oh, I'm sorry. I thought this was Christmas dinner - I didn't realise it was the 'Badmouth Chloe's friends hour.'" she sighed.
+			"No, no, we didn't mean it like that." William said hurriedly. "Just... I think you should really be focusing on your studies, rather than worrying about boys."
+			"Can you not?!" Chloe snapped. "How many times do I have to say it? We're *just friends.*"
+			"You'd think you'd've learned by now." Catherine scoffed.
+			"What?" Chloe said lowly. In truth, it didn't sound like a question - more a gracious offer for her mother to retract what she just said.
+			"Catherine." William warned. "Look, Chloe, no-one here is having a go at you - we just want what's best for you."
+			"You all have a funny way of showing it." she said under her breath.
+			"Can we not have the dramatic teenager act today?" Victor jeered. "It's really getting old. You can't fly into a foul attitude just because we pointed out that your new 'friend' isn't exactly the most elegant sort."
 			"He's a hell of a lot smarter than some I can mention." Chloe scowled, sipping her drink.
 			"What's that supposed to mean?" Victor asked, dabbing his mouth with a napkin.
 			"Case in point." she grinned.
@@ -18109,7 +18118,7 @@ VOLUME - Wolves Among Sheep
 			"I said, 'Go fuck yourself.' Quit hassling me and eat your dinner." she growled.
 			This time, Catherine snapped *hard.* "CHLOE! ENOUGH!"
 			Chloe turned to face Catherine, her blood boiling almost as hot.
-			"I have had it with this! Ever since you moved down to that wretched town, seeing that--that boy! You have turned into an uncouth, disobedient brat!" Catherine raged.
+			"I have had it with this! Ever since you moved down to that wretched town! You have turned into an uncouth, disobedient brat!" Catherine raged.
 			"Oh, shut up." Chloe scoffed, her mother's face turning red.
 			"What... what did you just say to me?!" she said, nearly screaming.
 			"I said, shut up. I'm tired. I'm tired of you constantly harassing me. Ooh, Chloe, don't speak Russian! Ooh, Chloe, don't do your insulin at the table! Ooh, Chloe, don't go to Drackhill! Ooh, Chloe, I didn't like that boy! For someone who's held a grudge against me since my birth, you sure do seem to give a lot of pointless, stupid input!"
@@ -18134,9 +18143,9 @@ VOLUME - Wolves Among Sheep
 			"It is only natural for children to seek to defy their parents." Sveta began.
 			"I've never defied mum." Victor replied, his voice somehow even more snobby than usual.
 			"Not her..." William muttered under his breath. Catherine shot him a cold look.
-			"That boy will ruin her. Mark my words - she's too naive to see what kind of man he is." Victor continued. "She was dumb enough to fall for that Francis--"
-			"Victor. Enough." William snapped, his blood boiling at the very mention of the name.
-			Catherine turned to Sveta.
+			"That boy will ruin her. Mark my words - she's too naive to see what kind of man he is." she continued. "She was dumb enough to fall for that Francis--"
+			"Catherine. Enough." William snapped, his blood boiling at the very mention of the name.
+			Catherine scoffed, and turned to Sveta.
 			"You can go now." she said, her words as cold as ice. Wordlessly, Sveta nodded. She stood, her gaze meeting Catherine's, and stared her down for a moment.
 			In that split second, Catherine trembled.
 			For the first time, she didn't see Sveta, the timid nurse who fled her home from war.
@@ -18150,13 +18159,13 @@ VOLUME - Wolves Among Sheep
 			The door opened slightly. "[Oh, dorogaya. You don't really want that, do you?]"
 			Chloe raised her head, her face damp. "Sveta?"
 			Sveta sat on the bed, next to her, and gently stroked her hair.
-			"[I understand, dorogaya. Family is always complicated. Do you think I always got along with my mother?]" she smiled, wiping Chloe's cheeks.
-			"[It's not fair, Sveta. She won't let me speak Russian to you, she won't let me into the university I chose, and now she...]"
-			Sveta looked into Chloe's eyes. "[She...]"
-			Chloe's eyes glistened. "[She won't let me see the boy I like.]"
+			"[I understand, dorogaya. Family is always complicated. Do you think I always got along with my parents?]" she smiled, wiping Chloe's cheeks.
+			"[It's not fair, Sveta. Mum won't let me speak Russian to you, she complains about the university I chose, and now...]"
+			Sveta looked into Chloe's eyes. "[Now...]"
+			Chloe's eyes glistened. "[They both keep badmouthing the boy I like.]"
 			Sveta nodded sadly. "Connor?"
 			"Da." Chloe replied, tears now streaming down her cheeks again.
-			"Dorogaya..." Sveta began, offering a sad smile. "[Let me tell you a story. When I was about your age, I met my beloved Sergei. My mother didn't approve - he was a modest farmer from the Tambov region, and we were promising Moscow office workers. Yes, even in Soviet times we had class discrimination. It was in a different form, but it was there all the same.]"
+			"Dorogaya..." Sveta began, offering a sad smile. "[Let me tell you a story. When I was about your age, I met my beloved Sergei. My parents didn't approve - he was a modest farmer from the Tambov region, and we were promising Moscow office workers. Yes, even in Soviet times we had class discrimination. It was in a different form, but it was there all the same.]"
 			"[I guess it takes more than burning down my grandparents' castles.]" Chloe quipped.
 			"[Well, that was a good start, in any case.]" Sveta grinned. "[If you told me ten years ago that I'd be in the same house as a Romanov, I'd call you yebanuty.]"
 			Chloe laughed, as Sveta continued. 
@@ -18165,11 +18174,11 @@ VOLUME - Wolves Among Sheep
 			Sveta grinned. "[Well remembered, dorogaya. But we're skipping ahead. I remember...]"
 			Her face turned nostalgic. She smiled, allowing herself to be lost in the memory for a moment, before continuing.
 			"[I remember one night he climbed up the drainpipe just to kiss me through the window. I was like a fairytale princess, and he was a dashing knight.]"
-			"[And what did you do? I mean, you chose him over your mother, didn't you?]" Chloe asked, engrossed in the story.
-			"[Well, at first I didn't.]" Sveta replied, chuckling slightly. "[At first, I let fear control me. It was thanks to my mother that I was able to get such a good office job. By disobeying her, I risked losing that job. But, oh my Sergei... he never knew when to give up. Well, in the end, the choice was clear. I ran away with him and moved to his village. Well, being an office worker wasn't very useful on a farm, but we managed. And once we saved up enough money, we decided it was my turn. We moved back to Moscow and I found a new job - this time, I was a staff nurse in the Army! My Sergei, bless him... he ended up working in a shelter for stray dogs. It was a dream come true for both of us. And shortly after, our little Alexei came along]"
-			"[But how did you manage to escape from your mother?]" asked Chloe, her tears starting to dry and be replaced by deep engagement.
-			"[Well, physically I just left in the middle of the night, taking nothing with me except my toothbrush and a spare nightgown.]" Sveta smirked, eliciting chuckles from both. "[But emotionally, I think I decided that I was not going to let someone who didn't want me to be happy dictate how I found happiness.]"
-			Chloe smiled warmly. She hesitated. "[You, um... you never really talk about them.]"
+			"[And what did you do? I mean, you chose him over your parents, didn't you?]" Chloe asked, engrossed in the story.
+			"[Well, at first I didn't.]" Sveta replied, chuckling slightly. "[At first, I let fear control me. It was thanks to my parents that I was able to get such a good office job. By disobeying them, I risked losing that job. But, oh my Sergei... he never knew when to give up. Well, in the end, the choice was clear. I ran away with him and moved to his village. Well, being an office worker wasn't very useful on a farm, but we managed. And once we saved up enough money, we decided it was my turn. We moved back to Moscow and I found a new job - this time, I was a staff nurse in the Army! My Sergei, bless him... he ended up working in a shelter for stray dogs. It was a dream come true for both of us. And shortly after, our little Alexei came along]"
+			"[But how did you manage to escape from your parents?]" asked Chloe, her tears starting to dry and be replaced by deep engagement.
+			"[Well, physically I just left in the middle of the night, taking nothing with me except my toothbrush and a spare nightgown.]" Sveta smirked, eliciting chuckles from both. "[But emotionally, I think I decided that I was not going to let people who didn't want me to be happy dictate how I found happiness.]"
+			Chloe smiled warmly. She hesitated. "[You, um... you never really talk about them. Sergei and Alexei, I mean. Um... what happened to them?]"
 			Sveta sighed. "[Well... when the war began, I was on deployment in the Caucasus. Do you remember the story I told you?]"
 			"[The one where you fended off an entire platoon of rebels?]" Chloe asked.
 			Sveta grinned. "[That one. We were fighting insurgents led by Zamaldayev.]" she said, nearly spitting the name.	"[But when we finished the evacuation, we learned Moscow had fallen. Most of the army left for Tbilisi, to regroup. I left for home. I decided we had to leave Russia, at least until things calmed down. And my boys...]" Sveta answered, her eyes welling up with tears. "[Sergei couldn't leave his dogs to starve. So he brought little Alexei to the shelter with him for one last trip, and... rebel forces captured some heavy artillery, that night. The shelter just so happened to be on the same block as an army depot. When they shelled it, the munitions inside caught fire. The shelter... my family...]"
@@ -20913,7 +20922,7 @@ VOLUME - Gods Among Men
 			They let the moment hang, as the others came out.
 			"The fuck is going on?" Trey asked.
 			"We're being targeted. The police chief, Dorsey, has claimed we're some kind of militant group, which means he can invoke the Terrorism Act and put us in here without charge." Tommy explained. "Worse, we don't have the right to a jury. We'll be tried by a government-appointed judge."
-			"What, the fuckin' Diplock courts!?" Vince snarled.
+			"What, the fuckin' Diplock courts?!" Vince snarled.
 			Pawel shuddered. "I grew up under Jaruzelski - and they still at least *pretended* to give you a trial."
 			Tommy chuckled. "So, we have fewer civil rights than citizens under a military dictatorship. We're *fucked.*"
 			Connor spoke up. "Tommy, have you heard from the Werewolf?" he asked, making a point in his facial expressions - "Be subtle."
@@ -26058,37 +26067,37 @@ VOLUME - Gods Among Men
 			He went inside, and phoned Chloe's number.
 			"Hi dad!" she answered.
 			"Hey, sweetheart! How are things?" he asked, smiling happily.
-			"Good, thanks! I've just got home from seeing friends."
+			"Good, thanks! I've just got home from seeing friends. We're gonna head out tonight."
 			"Aw, that's good, sweetheart. How are your friends?"
 			Catherine entered the room silently. William looked at her, and then back at the phone.
 			"They're good!" Chloe replied. "I, um... do you remember Connor?"
-			"Oh, yeah - the boy who drove you and Bea? He was nice." William replied. Catherine scoffed.
-			"Well, um... don't tell mum, but, I've kind of been seeing him a lot more lately." Chloe said, her blushing audible.
+			"Oh, yes." William nodded curtly.
+			"Well, um... I've kind of been seeing him a lot more lately." Chloe said, her blushing audible.
 			At this point, Catherine stepped in. "Chloe. Why do you do this to yourself?"
-			"Oh." Chloe said, her disappointment palpable.
-			"Sorry, darling - your mother just arrived." William explained, giving Catherine a dirty look.
-			"It's okay, dad. I was just telling you about Connor." she replied, her voice less happy now.
-			"Right, yes! How's that going?" he asked.
-			"Um, it's nice. He's... he's really sweet. I feel... I feel really happy when he's around."
+			"Oh. You're here too." Chloe said, her disappointment palpable.
+			"Sorry, darling - your mother just arrived." William explained.
+			"It's okay, dad. I was just telling you about Connor."
+			"Right, yes! So... you're seeing him?" he asked.
+			"Yeah. We've been on a couple of dates now, and... well, we're together. As in, boyfriend and girlfriend."
+			"...I see."
+			"You could at least sound a little happy for me." she sighed.
+			"Is he respecting your boundaries?"
+			"Yes, dad." she rolled her eyes. "Please, can we not do 'the talk' right now?"
 			"Chloe. You can't just date anyone who shows you attention." Catherine said dismissively.
 			"Catherine." William shook his head.
 			Chloe took a deep breath. "It's not just attention. Connor actually understands me. He listens, and he cares. I'm... I'm really happy with him."
 			"Happy? Is that what you call this? A fling that will end in heartbreak - like last time?"
 			Chloe paused for a moment. "Give my love to Sveta." she said, before hanging up.
-			William looked at Catherine, scowling.
-			"Catherine, you can't keep treating Chloe like this. She deserves our support."
-			"Support? You mean coddling her? She needs to learn how to fit into the world, William. It's not my fault if she struggles." Catherine hissed.
-			"Struggles? She's trying her best! You think pushing her away will help? It only drives her into her shell."
-			"I'm not pushing her away; I'm trying to prepare her for reality! If she can't keep up, what's going to happen when we're gone?" Catherine asked. A rare flash of emotion beyond scorn rushed over her.
-			"You really think shoving her aside is the answer? She's not just a reflection of us, Catherine. She's her own person."
-			"A person who's attracting the attention of that... that boy! Connor is unsuitable. Don't you want her to end up with someone who can give her the life she deserves?" she replied, her voice cold and unfeeling once more.
-			"You mean the life *you* think she deserves! Chloe likes him, and he treats her well. Why can't you see that? As her parents, we should be happy." he snapped back.
-			"Come off it, William. You know as well as I that boys like that are only interested in one thing. Two at a push. He'll have his fun, rob her blind, and leave her. And we'll be forced to deal with the aftermath yet again."
-			"You don't know that! Besides, she's a grown woman! She has a right to make her own choices! She's in love, Catherine!"
-			"Love? It's infatuation! She's not thinking clearly. You're too soft on her. She needs guidance, not encouragement for foolish dreams!" Catherine hissed again. "Look at Francis! Look at what happens when we trust Chloe's instincts!"
-			William sighed heavily. "Chloe is stronger than you think."
-			He left the room.
-			Catherine stood still for a moment, before she noticed something on her cheek - a tear.
+			William looked at Catherine, and sighed.
+			"You could've been more tactful."
+			"You mean spineless." she rolled her eyes. "We both know how this will end. Boys like that only want one thing. Two, at a push. He'll have his fun, rob her blind, and leave her. And we'll be forced to deal with the aftermath yet again."
+			"I... I refuse to believe that." he shook his head. "I--*we*--already let her down before."
+			"She was just as much to blame." she shrugged.
+			"She was fifteen, Catherine! And regardless, she'll always be our little girl!" he snapped. "We have a duty of care to her. We cannot - we *cannot* - let it happen again. But we need to be careful, lest we push her further into his arms."
+			"William, the first thing you need to understand - Chloe is smarter than either of us." Catherine shook her head. "The girl wastes her potential in Drackhill, but it's true. And she's definitely not got *your* spine - she's as headstrong as I am. Not to mention, she's a teenager. If she wants to be with this Connor, there's not much we can do."
+			"We can try." he sighed. "Their birthday is coming up soon - I'm sure she'll want to come up and see us."
+			"Sveta and your father, maybe. The dog, too." Catherine snarked. "Look... I'll have a think about the best course of action. For now, try not to get sciatica from all that backwards-bending you do."
+			"Yes, dear." he scowled, leaving.
 
 			That night, the gang were walking to the bus station from the Laughing Fox, after a big pub crawl. They opted for a casual route along the quayside, as flurries of snow flickered down.
 			"Woop woop!" Trey cheered drunkenly.
@@ -29087,7 +29096,7 @@ VOLUME - Gods Among Men
 			"So, Chlo." she began. "How drunk are we getting compared to last year?"
 			"Hopefully not vomit-inducing." Chloe chuckled.
 			"You excited to see your family?" Connor asked, smiling.
-			"Hah... my dad and Sveta, sure. Molly, too." Chloe sighed. Bea put a compassionate hand on Chloe's shoulder.
+			"Hah... my grandad and Sveta, sure. Molly, too." Chloe sighed. Bea put a compassionate hand on Chloe's shoulder.
 			"I like Molly! She was fun to play chases with." Sparky barked.
 			"Aww... I think Molly really liked you!" Chloe smiled, stroking Sparky's head.
 			"She's been spayed, right?" Bea quipped.
@@ -29176,15 +29185,9 @@ VOLUME - Gods Among Men
 
 			Sveta returned to the kitchen to finish up, and the group headed into the living room.
 			"So... where's mum and Victor?" Chloe asked.
-			"Um..." William began, wincing slightly. "Your mother and Victor are seeing Vivienne this afternoon."
+			"Um..." William began, wincing slightly. "Your mother and Victor are out shopping this afternoon."
 			"On our birthday?" Chloe replied, sadly.
-			"I'm sorry, darling. They'll be here for dinner." William said.
-			"Who's Vivienne?" Trey asked.
-			"My brother's girlfriend." Chloe replied, the distaste audible in her voice. "Oh, sorry - 'partner.'"
-			"Guessing you guys don't get on?" Amy noted.
-			"Eh... she's alright I suppose." Chloe shrugged. "A bit of an airhead, but not malicious."
-			"We went to school with her." Bea nodded. "'Airhead' is underselling it."
-			William chuckled. "Oh, and I got a letter from the King wishing you both a happy birthday. Well, most likely a servant wrote it, but still."
+			"I'm sorry, darling. They'll be here for dinner." William said. "Oh, and I got a letter from the King wishing you both a happy birthday. Well, most likely a servant wrote it, but still."
 			"Damn..." Amy muttered, surprised. "I know you said you guys were royals, but..."
 			"We're a cadet branch." William cut in. "Hardly privy-council. Though, I wouldn't mind a castle of my own, come to think of it."
 			"I mean, to me, this is a castle." Amy grinned.
@@ -29192,14 +29195,14 @@ VOLUME - Gods Among Men
 			With that, he got a phone call.
 
 			"Oh, it's Victor - excuse me." he said, answering. "Victor?"
-			"Hi, dad." Victor began. "Vivienne has insisted that she come over to wish Chloe a happy birthday, so she will be coming with us. Is the place presentable?"
-			"Yes, Victor, my house is as it always is." William replied curtly.
-			"Good. And - tell Chloe not to embarrass me."
-			"It is her birthday too, Victor. She may do as she pleases." William replied, a tranquil anger creasing his face.
+			"Hi, dad." Victor began. "Mother and I will be returning shortly. Is dinner ready?"
+			"Well, you never told me what you wanted, so we're just making what Chloe asked for." William shrugged.
+			"Oh, for God's sake. You know what I like!"
+			"Victor, you are nineteen years old. You can text me with what you want to have for dinner." he said firmly.
 			"Fine. Also - please don't tell me that 'Connor' is there."
 			Connor smirked and cleared his throat. "Hi, Victor. Happy birthday."
 			"Oh, Connor." Victor said, spooked. "I, um... will you be staying long?"
-			"Victor. Enough. You will *not* be rude to guests. I raised you better than that." William snapped. "Chloe's friends are here. If that is a problem for Vivienne, she may leave. If it will be a problem for you, you may also leave."
+			"Victor. Enough. You will *not* be rude to guests. I raised you better than that." William snapped. "Chloe's friends are here. If that is a problem for you, I suggest you get over it. You are more than welcome to invite your own friends to our house."
 			Victor sighed. "Friends?" he asked, emphasising the plural.
 			"This conversation is over. I will see you when you get here." William growled, and hung up.
 
@@ -29223,19 +29226,13 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			An hour had passed. Victor's car pulled up in the driveway.
-			Victor, Vivienne, and Catherine exited the car.
-			Victor turned to Vivienne.
-			"Viv, darling - I am truly sorry in advance. Chloe doesn't always choose the most polite company."
-			"Don't worry, my love. I am sure it will be fun!" she replied. Her voice was somehow posher than Victor's - so posh, it was a speech impediment. A hallmark of the aristocracy.
 			Catherine smirked. "Well, let's get this over with."
 			They headed into the living room, spotting Bea, Shannon, and Amy.
 			"Hello, Catherine!" Bea said, putting on a smile. "This is Shannon and Amy."
 			The girls nodded and waved.
 			"Beatrice." Catherine nodded. "Amy."
 			Her gaze fell on Shannon, and she scowled.
-			Victor nodded curtly. Vivienne walked over and shook their hands.
-			"I'm Vivienne. Pleasure to meet you all!" she said.
-			"Lovely to meet you, too." the girls smiled, ignoring Catherine.
+			Victor nodded curtly.
 			The group headed into the kitchen, where Chloe and Sveta were talking.
 			"[And then he said to me, "Woman, I'm your commanding officer." And, well, me and my big mouth - I said, "I don't care if you're Comrade Lenin's secret son. I'm not making you any fucking tea."]" Sveta laughed.
 			Chloe chuckled, wiping her eyes. "[So that's how you ended up peeling potatoes?]"
@@ -29244,32 +29241,25 @@ VOLUME - Gods Among Men
 			"Thanks." Chloe replied, deadpan. "Glad you decided to show up."
 			Catherine scoffed, and left the room.
 			"Happy birthday, Victor!" Sveta smiled.
-			"Um... thanks, Svetlana." Victor nodded awkwardly.
-			At that, Vivienne ran up and hugged Chloe.
-			"Hi Chloe! Oh, it is so good to see you. Happy birthday!" she said. Chloe awkwardly hugged her back.
-			"Thanks, Vivienne."
-			"Where is dad?" Victor asked.
-			"Out the back, with Connor, Trey, and the dogs." Chloe answered curtly.
-			"Oh, dogs? You have a new dog?" Vivienne asked, excitedly.
-			"Nah, Connor brought his dog." Chloe smirked.
-			Victor's face curled into a look of horror, as Vivienne opened the door.
-			Sparky and Molly both ran up to her happily, barking and yapping.
-			"Hi, I'm Connor, and this big man is Sparky."
-			"Oi, my name's Trey, not Sparky." Trey chimed in, nudging Connor playfully. Both chuckled.
-			William laughed, and walked over. "Hello again, Vivienne." he smiled.
-			Vivienne hugged him. "Hello, Mr. Derrington! It is so good to see you again!" she smiled.
-			Connor smiled, and then turned to face Victor. "Hey, Victor. Happy birthday."
+			"Um... thanks, Svetlana." Victor nodded awkwardly. "Where is dad?"
+			"Out the back, with Connor, Trey, and the dogs." Chloe answered.
+			"Dogs? Plural?" Victor's face curled, as Chloe grinned and opened the door.
+			Sparky and Molly both ran up happily, barking and yapping.
+			"Happy birthday, son!" William cheered, hugging him. Victor awkwardly held the embrace, before breaking.
+			"I'm Trey, by the way. Happy birthday, mate!"
+			Connor smiled. "Hey, Victor. Happy birthday."
+			Victor scoffed, and headed back inside, as did everyone else.
 
-			Victor scoffed, and headed back inside, as did everyone else. Sveta finished laying the table. A massive stack of pancakes had been made, along with an assortment of toppings - maple gammon, fried chicken, ice cream... the works.
+			Sveta finished laying the table. A massive stack of pancakes had been made, along with an assortment of toppings - maple gammon, fried chicken, ice cream... the works.
 			"Okay, everybody - I've made us a feast to rival Christmas." she smiled. Catherine re-entered the room.
 			"Thank you, Ms. Popova. You can go now." she said, sneering.
 			"Absolutely not." Chloe snapped. "Sveta, dorogaya - please stay for dinner."
 			Sveta smiled warmly. "Of course, dorogaya. Happy birthday."
 			Catherine scowled, and took her seat, as did everyone else. Chloe checked her blood sugar levels.
 			Catherine went to speak, but William jumped in before she could.
-			"So, Vivienne - how are things?"
-			"Good, thank you, William! "
-			Chloe rolled her eyes, and injected her insulin. Connor gave her a comforting smile.
+			"So, Svetlana - how are things?"
+			"Good, thank you! I worked late last night at the hospital - the agency needed some cover." she shrugged.
+			Chloe smiled, and injected her insulin. Connor gave her a comforting brush on the shoulder.
 			Catherine cleared her throat. "Are we forgetting something?"
 			"Ah yes." Victor said, placing his hands together, but Catherine stopped him.
 			"Connor." she said. The first time she'd spoken to him since he met her in mid-December. "Perhaps you'd like to say Grace?"
@@ -29286,20 +29276,19 @@ VOLUME - Gods Among Men
 			Connor smiled. "Nah, but I was brought up that way." he answered. "My family's Catholic."
 			William smiled back, glad to have the chance to get to know Connor better. "Is that so?"
 			"Yeah - I grew up in Derry."
-			"You mean Londonderry?" Vivienne asked. Everyone except Catherine and Victor shuffled uncomfortably.
+			"You mean Londonderry?" Victor asked. Everyone except Catherine and he shuffled uncomfortably.
 			"Ah." Connor chuckled awkwardly. "Well, let's just say that's a slight area of contention."
 			"So, um... you grew up in Derry? When did you move to England?" William changed the subject.
 			"2003." Connor answered. "Moved over to Devon."
-			"Why did you move?" Vivienne asked. William shuffled uncomfortably. He made a point of not asking the *why...*
+			"Why did you move?" Catherine pushed. William shuffled uncomfortably - he made a point of not asking the *why...*
 			Connor suppressed a sigh - he could tell she meant no harm by it.
 			"It, um... it was a violent time in Derry. We lived on the Bogside, so we got the worst of it." he explained as politely as possible.
 			"What, the IRA blew up your house?" Victor asked, suppressing a grin at poking the bear.
 			Connor's face turned grim for a moment. "No, not them."
 			Victor turned a little pale at that, taken aback slightly. Chloe squeezed his hand.
-			Vivienne smiled, unaware of any tension.
-			"And you're not religious any more then?" Victor asked.
-			"Victor. That's a little personal, don't you think?" William sighed.
-			"He's dating Chloe. I think we're entitled to ask personal questions." Catherine replied.
+			"And you're not religious any more then?" William asked.
+			"Dad, that's a little personal, isn't it?" Chloe sighed.
+			"He's dating you. I think we're entitled to ask personal questions." Catherine cut in.
 			Connor took a breath. "Nah, not anymore. When I was moved to England, the foster-home I was in wasn't particularly interested in religion. So, I stopped attending mass, and just sort of stopped believing from that." he explained.
 			Catherine scowled. "Well, that explains why you don't know the Lord's prayer."
 			Chloe sighed audibly. "Mum, you do realise that's the correct version for Catholics, right?"
@@ -29312,9 +29301,12 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			Everyone began to eat properly, now that the grace pissing-contest was done.
-			"I must say, your home is lovely, Catherine." Vivienne continued.
-			"Why, thank you, Vivienne." Catherine replied, smiling smugly.
-			"It's a great house, yeah." Trey added. "How long have you guys lived here?"
+			"So, um... you guys have done up the place since I was last here." Bea noted awkwardly.
+			"Why, thank you for noticing, Beatrice." Catherine replied, smiling smugly. "How are your family, by the way? I saw your mother the other day, but didn't get a chance to say hello."
+			"They're good, thanks. They're looking at getting a new dog." she nodded.
+			"They can borrow Sparky if they like. We charge £15 an hour for his presence." Amy quipped.
+			"Bargain." Bea grinned.
+			Trey twirled his fork. "How long have you guys lived here?"
 			"Oof, about... 17 years now?" William said unsurely.
 			"16." Catherine corrected.
 			"Right, yes, 16." William nodded curtly.
@@ -29333,7 +29325,7 @@ VOLUME - Gods Among Men
 			"What? They're having this insular conversation at the dinner table."
 			"You're welcome to join in at any time." Chloe muttered. Victor scoffed.
 			Connor cleared his throat. "So, um, Victor - what do you do for work?" he asked, trying to include him.
-			"Nothing." he replied curtly. "I'm currently in the final year of my Master's degree at Cambridge."
+			"Nothing." he replied curtly. "I'm currently in the first year of my degree at Cambridge."
 			"Nice." Connor nodded. "Studying what?"
 			"Economics."
 			"Awesome. What kind? Like, Austrian school, Keynesian, Marxist..."
@@ -29352,7 +29344,7 @@ VOLUME - Gods Among Men
 			Catherine scowled, while Sveta grinned fondly.
 			"I'm a bloke who read some economic books when he was 17." Connor replied evasively.
 			William cleared his throat. "So, Connor - what do you do for work?"
-			"I work in a garage." he answered.
+			"I, uh, I work in business." he answered. "A garage, mainly."
 			Victor chuckled.
 			"Something to say, Victor?" William snapped, fed up of this now.
 			"Not at all. What a bright future you have, Connor." Victor snarked.
@@ -29361,21 +29353,17 @@ VOLUME - Gods Among Men
 			"Are you rather technical, then?" Sveta asked.
 			"Yeah, I get by. I studied IT in college for a little while." she shrugged.
 			"And what do you do?" William asked, turning to Connor.
-			"Well, I--I'm the owner." he humble-bragged. Chloe smiled, and covertly put her hand on his under the table. He smiled back.
-			"What do you do for work, Viv?" Amy asked.
-			"Oh, me?" Vivienne replied. "I make my income through land and investments."
-			"Decent enough." Amy nodded, sipping her drink.
-			Catherine rolled her eyes at Amy's blatant lack of class. Amy smirked, knowing full well what effect she was having.
-			"I must say, I love the paintings you have here." Vivienne said, pointing at a painting on a wall. "Is that a FitzGerard?"
-			"Such a good eye you have, my love." Victor replied. "I don't suppose our guests would recognise a FitzGerard though."
-			William snapped hard. "Victor!"
+			"Well, I--I'm the owner." he humble-bragged. Chloe smiled, and covertly put her hand on his under the table.
+			"So, um... I love the paintings you have here." Bea said after an uncomfortable silence, pointing at the wall. "Is that a FitzGerard?"
+			"Good eye." Victor nodded. "I don't suppose your 'new friends' would recognise a FitzGerard though."
+			"Victor!" William snapped.
 			Trey quipped in. "I'll have you know I've broken into some very nice houses, thank you very much."
 			At that, the whole table, minus Victor and Catherine, erupted into laughter.
 
 		Chloe's birthday - dinner
 		______________________________
 		SCENE
-			A few hours passed, and it was late evening, as the group nursed their full bellies. Catherine and Victor had gone to bed, while Vivienne had left for home. Sparky was curled up on the floor with Molly, who had buried herself in him for warmth.
+			A few hours passed, and it was late evening, as the group nursed their full bellies. Catherine and Victor had gone to bed, while Sparky was curled up on the floor with Molly, who had buried herself in him for warmth.
 			"Well, I'd best be off." Sveta said, smiling warmly. "S dnem rozhdeniya, dorogaya."
 			Chloe hugged Sveta tightly. "Beregi sebya, Sveta. Ya lyublyu tebya."
 			"Ya tozhe tebya lyublyu." Sveta replied, hugging her back.
@@ -29402,13 +29390,14 @@ VOLUME - Gods Among Men
 			"Dibs on Connor!" Trey grinned. "Don't worry bro, I'll keep my hands to myself."
 			"If you like having those hands attached to your arms, you will." Connor snarked, eliciting chuckles.
 			Sparky yawned, nuzzling into Molly.
+			William cleared his throat. "To be clear - Connor, Chloe, you must sleep in separate rooms--"
+			"Yeah, we know, dad!" Chloe snapped. "Hence why Trey called dibs."
+			"Don't put it like that, it makes it sound dirty." Connor grimaced, grinning.
+			William let out a subdued chuckle, and headed upstairs.
 			"Night, guys." Bea said, heading upstairs.
 			"I'm gonna head up too." Trey stretched. "Happy birthday, Chlo."
 			"Yeah, me too." Amy said. "Happy birthday, Chlo."
 			"Thanks guys." Chloe smiled warmly. "See you in the morning."
-			William rose to his feet.
-			"I'll go to bed too. I'll see you in the morning. Happy birthday, darling." he said, hugging Chloe.
-			"Thanks, dad." Chloe beamed.
 			Lastly, Shannon stood. Chloe pulled her to one side.
 			"Hey..." she began, whispering slightly. "I'm sorry about my mum, I..."
 			"Don't be." Shannon smiled warmly. "You gave me fair warning, and hey, at least it's only been microaggressions. I'm glad you invited me - happy birthday."
@@ -29421,7 +29410,7 @@ VOLUME - Gods Among Men
 			They pulled apart, and looked deep into each other's eyes.
 			"You know... I'm really glad to have you here." she said.
 			"I'm glad to be here. And... I'm glad I'm with you." he replied.
-			Chloe sighed softly. "I'm sorry about dinner. They shouldn't have spoken to you like that."
+			Chloe sighed softly. "I'm sorry about... them. They shouldn't have spoken to you like that."
 			"I gave as good as I got." Connor smirked.
 			"Did you eat enough?" she asked, worried slightly.
 			"Yeah, I'm fine - I felt my muscles all twitch a few hours ago, so I think my metabolism's dropping." he replied.
@@ -29609,6 +29598,8 @@ VOLUME - Gods Among Men
 			"Hey, Connor?" Chloe called out.
 			Connor turned his head, and a snowball hit right into his face.
 			"Sorry. Couldn't resist." she grinned, kissing him.
+			"I have super-reflexes, too." he chuckled. "I just didn't expect such a betrayal."
+			Chloe pouted, and Connor laughed.
 			Bea's grin returned. "Smoke bombs? That's gotta be fake."
 			"Oh no, I can do those." he smirked, as his glove hissed into black fog. "Real bombs too. But I won't do that now, because it's a lot of effort. Also a bomb."
 			"Okay, I get it." she laughed. "Next you'll tell me you can spit acid, or something."
@@ -29736,11 +29727,11 @@ VOLUME - Gods Among Men
 		SCENE
 			Arriving back, the group grabbed their clothes and things, packing them into their cars.
 			"Oh, Chloe? Connor?" William asked. They both walked over.
-			"Chloe, your mother and I have been speaking today. I made it clear I wasn't happy with how she'd acted to you, Connor - and so she's agreed to give you a fair chance. I know it's a little strange, but - would you be alright if, before you leave, we sat down and had a little talk?"
+			"Chloe, your mother and I have been speaking today. I know it's a little strange, but - would you be alright if, before you leave, we sat down and had a little talk?"
 			"Dad, we've gotta head off - besides, we're Bea's lift." Chloe sighed.
 			"It's fine, there's space in Trey's car." Bea shrugged, before turning her voice quieter. "It might be a good idea, Chlo... at least she's trying for once."
 			Chloe paused. "Connor, are you comfortable with this?"
-			He shrugged as well. "If it makes your mum more willing to accept me, then sure."
+			He shrugged as well. "If it makes your parents happy, then sure."
 			Bea hugged Chloe tightly. "I'll see you in uni tomorrow, yeah? Happy birthday."
 			Chloe squeezed back. "Love you, girlie."
 			"Love you too." Bea beamed, heading out to Trey's car.
@@ -29755,7 +29746,7 @@ VOLUME - Gods Among Men
 			"It's how it goes, I guess..." William pinched the bridge of his nose. "Well, at least Sveta will be here when he gets back."
 
 			While outside, Connor checked his phone. A text.
-			"Bratan. It's on. Tomorrow morning. Hog and Hounds. Murphy there. Vulnerable." it read.
+			"Bratan. It's on. Tomorrow morning. Coordinates attached. Murphy there. Vulnerable." it read.
 			He suppressed a grin of excitement, and headed back inside.
 			"Connor, please, take a seat." William smiled softly. Connor nodded, and did so.
 			"Right, so... I know this probably feels a little awkward..." William began. "But... we just wanted to ask a few questions about you. To get to know you better."
@@ -29860,6 +29851,10 @@ VOLUME - Gods Among Men
 			"Oh, right - when your firm shorts a company and puts hundreds out of a job, that's just playing the market. When he robs a few wads of cash off of another gang, he's the devil incarnate."
 			"That is--that is not remotely the same thing. He broke the law! I'm not even comfortable having him here unsupervised anymore!"
 			"Well, if that's how you feel, then we're done here. I'll talk when you're ready to apologise." she said, standing to leave.
+			"You're not leaving! This conversation is not over. Listen, you know exactly why we're worried!"
+			"Can you *STOP* treating me like I'm an idiot?!" Chloe snapped. "I fell for *one* man's manipulations, and you have *no idea* how much I think about that! How often it plays on my mind when all I want to do is be happy with him! So yes, I've thought this through. *I can't help it!*"
+			"*Neither can I!*" William cried out. "Chloe... just, look at yourself! You've changed, ever since meeting him! I've--I've *never* seen you wear your hair like that. Did he tell you to change it?"
+			Chloe laughed - a dry, tired scoff. "You're kidding, right? For the first time since I was a kid, I'm not covering my ears out of shame. For the first time since it happened, I'm not keeping my bangs over my scar. And... and instead of thinking 'Oh great, she's feeling more confident' - *that's* your reaction?!"
 			"Chloe..." Catherine began. "I know I've not always shown it, but both of us - your father and I - just want the best for you."
 			"Yeah, the loving mother act is getting a little old, now. Can we switch back to raging narcissist?" Chloe snarked.
 			"Chloe!" William snapped. "I'm saying this for your own good. I'll drive you back to Drackhill tonight, if you want. But you are *not* seeing that boy again."
@@ -29905,7 +29900,7 @@ VOLUME - Gods Among Men
 			"My point is, no one can say for certain they'll still be moral in the future. I love Chloe. And part of that means I don't want her to fall out with you over this. Because if, in 10 years time, I'm a dickhead, she's gonna find it harder to come to you about it, because she'll think you'll say 'I told you so.'"
 			"But... I wouldn't do that." he meekly protested.
 			"Doesn't matter. She'll think you will. Listen... I'm not like Francis. I would never, ever hurt her like that. But I cannot guarantee that one day, I won't be a toxic arsehole who she shouldn't be with. And because I love her, I want her to have a support system, in case that ever happens. So please, for her sake - don't push her away."
-			William took a deep breath. "That's... admirably insightful, Connor. But... I'm afraid I'm still not comfortable with you two being together."
+			William took a deep breath. "That's... admirably self-aware, Connor. But... I'm afraid I'm still not comfortable with you two being together."
 			Connor shrugged. "I'm not gonna magically change how you feel. Just... think on it. Don't make things worse than they need to be."
 			William paused, then nodded. Connor got back in the car.
 			Chloe smiled softly, revealing her window was open.
@@ -30882,7 +30877,8 @@ VOLUME - Age of Heroes
 			"Shit... I'm sorry." he looked down. "It's my fault, I--"
 			"No, don't." she shook her head. "Look, I'm just tired is all. Haven't checked my blood sugar in a while, either. Same thing happened when you were out from the Judge - it's just exhaustion."
 			He smiled sadly. "Look, you need some rest. Is your home safe?"
-			"I've got work to do." she shrugged. He looked at her, wordlessly pressing.
+			"I've got work to do." she shrugged. "Don't fuss, okay? To tell you the truth, I've had absence seizures in front of you before, I just wasn't talking at the time, and they weren't that disruptive."
+			He looked at her, wordlessly pressing.
 			"Fine." she relented. "I'll get another patient bed into your room, and have a nap."
 			Connor smiled. "Thank you."
 			She hesitated. "Before I do... you should probably see Trey."

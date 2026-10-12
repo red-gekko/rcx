@@ -9,8 +9,6 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 current wip scene
-	have the protest scene start off the next; have Sparky and Gwen save the protestors, but many get dragged away. Bea seems to believe that Charlie was right that they shouldntve gone, but chloe rallies her
-
 
 
 
@@ -155,19 +153,6 @@ include a brief scene where connor takes custody of Eileen's things; he takes he
 
 
 
-consider making it so Chloe's parents' views on Connor are a little more nuanced:
-	William is overprotective; despite being perfectly polite to Connor, he expresses disapproval at chloe/"his little girl" dating someone so "rough around the edges" as he worries she'll get hurt again
-	Catherine is more apathetic here; expressing exasperation rather than hostility at their relationship, saying chloe will make her own mistakes and they'll have to pick up the pieces *again.*
-
-	changes to make:
-		foreshadow this by william bursting in on them while they're talking in her room, making a bullshit excuse to be there so he can keep an eye on connor; later, when she goes to fetch molly, he tells her that connor will not be staying with her tonight; embarrassed, she snaps that they're just friends, and he relents
-		have william make a few comments at christmas - mainly just him haflheartedly agreeing with the remarks made about connor not being suitable
-		either cut chloe's phone call home, or change it so william is instead being overprotective without overtly disapproving, while catherine is a little less condemning and more apathetic
-		on chloe's birthday, have william show an unusual interest in connor and chloe; have him be the one to instigate the questions at the dinner table, for instance
-
-	in chloe's birthday interview, have her dad accuse her of being changed by connor, pointing out her hairstyle being different - she snaps that it's because he, and her other friends too, are helping her feel like she doesn't need to hide away as much, and he (her dad) should be grateful for that
-
-
 
 
 
@@ -191,27 +176,6 @@ add a brief arc where connor can overhear emotional abuse being done in a flat b
 
 
 
-put some complexity back in! have sparky eat people, drag in deer carcasses, and bite connor in a nightmare again
-	biting connor scene (as before, have Connor storm out, hitting a Paladin spot without backup, and getting badly hurt, before they reconcile upon his return) (also, consider making connor's reaction more compassionate here, being frustrated but forgiving him; while pointing out that if that was amy, she'd lose a limb. he calms down and they head out):
-		That night, Connor and Sparky were in their flat. Sparky was asleep, twitching and crying.
-		"Hey, Sparky?" Connor asked.
-		"Sparky, wake up!" he said louder.
-		"Buddy, it's okay! You're just dreaming! Come on, wake up--"
-		As Connor shook him, he bolted up.
-		His eyes were aflame, glowing blood red. The Rage.
-		"NO! NONONO! YOU WON'T HURT ME! YOU WON'T DO THAT AGAIN!" Sparky barked, gnashing his teeth.
-		"Sparky, it's me! It's Connor!"
-		"NO! I WON'T LET YOU!" Sparky howled, and lunged for Connor. He bit Connor's wrist and clamped down.
-		Connor shouted in pain. As the teeth sank in, his pupils constricted down to pinpoints. Visions flashed in his mind - buzzsaws, shock collars, injections, blowtorches...
-		Sparky realised what he'd done. He jumped down and whimpered. The visions left Connor's mind.
-		"Connor, I'm sorry, I'm sor--"
-		Connor raised his fist at Sparky in rage, causing Sparky to flinch and whimper. Seeing this, he relented.
-		"Sit in that fucking dog bed and don't move until I come back." he commanded. Sparky sadly crawled over to his bed.
-		"I'm sorry, I didn't mean to, I'm sorry..." he sobbed.
-		Connor felt his phone vibrate. He checked it - GPS coordinates from Ivan.
-		"I'm going on a mission. I will see you when I return. Do not move an inch from that bed. You hear me?!" he growled.
-		"Yes, Connor, I hear you... I won't move an inch. I'm sorry, I'm sorry..."
-		Connor hesitated, then left.
 
 
 new arc - mourning and guilt
@@ -334,6 +298,8 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		Natch, he's able to badly stun Connor, and he throws a shock collar on him - he then sets it to full, and throws him into an SUV, intent on bringing Connor back to Paladin
 		However, before he can leave, Naismith arrives, and opens fire. Flashbang hits back, but a stray bullet destroys the collar's switch. Connor goes frenzy, and beats Flashbang within an inch of his life, before leaving him for Naismith - explaining he wants to know what Flashbang knows
 		Flashbang is thrown in the VPU of HMP Wickermast, keeping his silence. Later, during the second prison break, he helps the gang escape
+	Nightstick - a wannabe vigilante looking after Brynmore, weilding batons
+		Ooo actually!! Have Nightstick be Naimith's vigilante identity
 	The Changeling - a nondescript, androgynous humanoid who can change appearance at will, impersonating others almost flawlessly. They must be in contact range for this, as they need to use their psionics (which are tactile in nature) to get a copy of the target's personality (this also lets them replicate things like fingerprints etc)
 	Stinger - a mutant assassin who can fire venomed quills from their body potent enough to even take other superhumans down
 	Agent J - a mutant hitman with minor super-strength/toughness, as well as near-unparalleled martial arts prowess
@@ -439,26 +405,43 @@ Volume 3 plans:
 	cancer arc:
 		connor gets injected with something by a super-agent; turns out to be a highly malignant cancer. it rapidly spreads throughout his body, leeching his powers.
 		chloe does tests (tearjerker scene where connor, haggared and weak, sees her struggling to hold it together in front of him, and tells her it's okay for it to affect her too); she finds out that the cancer is disabling his healing factor, immune to chemo, and based on how rapidly it's spreading, will reach his brain stem in a few weeks, which will kill him
+		he has to use cybernetic implants to function; due to his weakening strength, he tearfully says to eileen and steve's graves that he can't keep his vow and the city safe, so he leaves the coagulator mk1 at the graves, and morphs up two air-powered hand cannons that become his new weapons
+
 
 	Ending:
 		Connor is wasting away with his cancer, and is lured into a trap by the Commandant. He is kidnapped and taken offshore, to a former oil rig. The Commandant dopes him with Skull, and says that enough is enough - it's time to end this. Chloe radios telling him the Kestrel's still down (it got destroyed in an earlier chapter) but they're on their way as fast as they can. The Commandant reveals he's rigged the place with thermobaric charges that are attached to a deadman's switch in his heart - he jeers that Connor won't have the guts to finish him. Connor spits that he'd burn the world to see him dead, and they fight
 		The fight is brutal, and Connor looks like he's gonna die, but Chloe gives him a psychic boost using Biomanipulation over their mindlink to power him up - she passes out from the strain. he fights hard, and finally has the commandant badly wounded. He shoves his hand into the Commandant's chest, and the following exchange happens:
-			"Ah, ah ah..." the commandant gurgles. "forgot about the deadman's switch?"
-			"I'm counting on it. When it goes off, I'll know you're a dead man." connor snarls
-			"hah... i don't think you'll survive tonight, but on the off chance that you do, i want you to know... I was right. might makes right."
-			"shut up."
-			"everything that happens after this... every great and horrible thing that your people do, the monsters they'll become... it'll all be in my name. all the death and destruction that comes will honour ME - your FATHER."
+			"still believe in might makes right, Davis? still think you're top of the food chain?"
+			"wait... wait..."
+			"That's it... Beg. Beg like I begged."
+			"Connor, wait. I need to tell you something." he whispers, pulling him in almost like a hug
+			pause
+			"I am so proud of you."
+			"shut up"
+			"you are so strong... you've proven yourself a worthy successor... almost."
+			"what are you talking about?"
+			"that nuke? it's on a deadman's switch. ten minute timer, don't worry - and the chopper's got ten minutes of fuel. Just enough to escape the blast radius."
+			"how do I shut it off?! TELL ME!"
+			"you can't! all you can do is run... or take it with you. prove yourself, connor. let these insects burn. become like me. become wrath! BECOME THE GOD YOU WERE MEANT TO BE!"
+			"SHUT UP AND DIE!" Connor howls, squeezing the heart
+			"agh... hah... doesn't matter. either way, I win. Tell your friends--tell 'em their hero's not coming back. now listen... you need to survive this, connor. carry on my--our--legacy. this is your last test. live another day. and then, i can die knowing that everything that happens after this... every great and horrible thing that you do, the monster you'll become... it'll all be in my name. all the death and destruction that comes will honour ME - your FATHER."
 			"my father?" he tilts his head, eyes aflame. "YOU'RE NOT MY *FATHER!*"
-			He rips out the commandant's heart, and crushes it. the commandant wheezes.
-			"left it... on a timer... go on. tell them... tell them their hero's not coming back..."
-			Connor looks over, and sees the two minute timer. he closes his eyes, and drags himself to it.
-			"Chloe? I... I don't know if you can hear this. Maybe you'll dream it." he begins, choking up.
-			"I promised I'd always be by your side. I swore i'd never let you down. and i... i'm gonna have to break that promise."
-			he sobs, as his body starts to give out.
-			"we've both known for a little while that my time was running out. i... i hoped i'd get a bit longer."
-			"the time we've had together... it's been the best months of my life. i'll always be with you... we're linked, now. tell the others... tell them i couldn't've left the world in safer hands."
-			the timer ticks down, a few seconds left.
-			"i love you."
+			He rips out the commandant's heart, and crushes it. the commandant wheezes. then, he beheads him.
+			"all units, this is vanguard..." he huffs. "it's over. the Commandant is dead."
+			"Connor?! Oh my God, you're alive!" Chloe gasps. the rest of the team echo the sentiment
+			"hah... come on guys, you know the rules. codenames only on the comms."
+			"what's the status of the commandant's nuke?" shannon asks
+			"primed. ten minutes on the timer." he sighs, starting the chopper. "i have a copter here - just enough fuel to get it clear of the city."
+			"wait..." shannon realises. "you'll be caught in the blast radius!"
+			"yeah. i know."
+			"connor! connor, wait. don't--you, you can still escape!" chloe begs
+			"you know that's not going to happen." he sniffs, taking off.
+			"no! connor, please!" amy cries
+			"what would you do in my place? guys... i'm a dead man already. and i... i'm sorry. I promised I'd always be by your side. I swore i'd never let you down. and i... i'm gonna have to break that promise."
+			he sobs, as he heads over the sea.
+			"we've all known for a little while that my time was running out. i... i hoped i'd get a bit longer. the time we've had together... it's been the best months of my life. i'll always be with you, okay? i couldn't've left the world in safer hands."
+			the timer ticks down, a few seconds left. they all beg in a chorus of cries
+			"i love you. all of you. i just... i wish i had more time."
 			*BOOM---FWOOSH!*
 			to hammer home his death, we focus in on his bloodied, ragged skeleton sinking beneath the waves, his one remaining red eye slowly dimming before going dark
 
@@ -1029,9 +1012,6 @@ Work on Sparky
 
 Have a funny scene where the gang hangs out, Chloe yawns, and Connor suggests she "slip into something more comfortable." before providing her with a hoodie and some joggers, then being oblivious when she bursts out laughing
 
-Boss fight: A mecha built specifically to take out Connor - it has a flamethrower, a minigun, a sonic weapon, and its hull discharges static in melee range
-	Given the expensiveness, have this one come from the Optimates
-
 Flesh out the Optimates faction
 	Have the Board manipulate Connor's contracts so he takes out their competitors
 
@@ -1178,6 +1158,7 @@ Whisper's Arc
 
 add a bit more humour; jokes include:
 	"no blacks, no dogs, no irish" "are you fucking kidding me (x3)"
+	"you guys hungry?" "i could murder a chinese" amy: "wh--what??"
 	"silly putty implies serious putty" "we had that in derry, i think it was called semtex"
 	maned wolf: not a wolf etc
 	"wagwan, dickheads." "manners." "sorry. wagwan dickheads, please"
@@ -1404,6 +1385,7 @@ at some point pre-big ID reveal, have connor and friends go to the leisure centr
 	finally, he takes the guy down again, and dislocates his arm. the guy screams "aghh! you broke my arm!" and connor says "No, i *dislocated it. here." *crunch* "Agghhhh!" "right, now, avoid any strenous activity for a couple days. So, no wanking, alright?"
 	chloe later says that was reckless, and she feels like she shouldn't enjoy watching him fight like that; but she couldn't help it. he chuckles, and flirts a bit
 
+	once Yaz is removed, there'll be loads of room in Warzones for this
 
 
 
@@ -1492,15 +1474,14 @@ once she-wolf is discharged, she takes the codename "Sovereign", resolving to st
 	(note on the retrovirus - connor jabs the commandant with it during a major battle. later, when connor's cancer starts getting really bad, they identify a number of black sites that the commandant could be recovering in, reasoning that he may have treatment that could save connor - while raiding these, connor gets captured)
 
 
-
-
-	Syphax the Destroyer - a demon who in ancient times would posess female Espers and torment them (at the time he was active, witchcraft was seen as feminine) - a sisterhood in the Order of Lazarus created a ritual to bind him; as Conditional Magic (as Morded calls it) is more potent, they made it so the ritual requires 5 women; if a man is present, then all present forfeit their souls. In modern times, ODIN send a strikeforce of Psi-Agents to take out the sisterhood and turn Syphax into a weapon; however, Syphax instead posesses the lead Psi-Agent, slaughters his soldiers, and escapes. It reads its host's mind, and learns that the strongest mortals are in Riverside - so, it goes there, and after a short battle, posesses Trey. While fighting a demonic Trey, Mordred telepathically tells Chloe of the ritual - Thrax is swatted aside by the demon-empowered Moxidar, while Mordred desperately uses his Demonology to barely contain Syphax's power.
+Syphax the Destroyer
+	a demon who in ancient times would posess female Espers and torment them (at the time he was active, witchcraft was seen as feminine) - a sisterhood in the Order of Lazarus created a ritual to bind him; as Conditional Magic (as Morded calls it) is more potent, they made it so the ritual requires 5 women; if a man is present, then all present forfeit their souls. In modern times, ODIN send a strikeforce of Psi-Agents to take out the sisterhood and turn Syphax into a weapon; however, Syphax instead posesses the lead Psi-Agent, slaughters his soldiers, and escapes. It reads its host's mind, and learns that the strongest mortals are in Riverside - so, it goes there, and after a short battle, posesses Trey. While fighting a demonic Trey, Mordred telepathically tells Chloe of the ritual - Thrax is swatted aside by the demon-empowered Moxidar, while Mordred desperately uses his Demonology to barely contain Syphax's power.
 	Those present at the time are Chloe (Adept), Bea (Stunlocke), Gwen (Whiplash), Eliza (Harpy), and Shannon. Shannon asks what happens if a man does the ritual, and Mordred explains. She hesitates, but the others encourage her, and she gingerly steps into place. Mordred dives out of the way, and they manage to soulbind Syphax and free Trey. Now, Syphax is bound in Riverside, being housed in the old Psi-Amp.
 	Shannon starts getting chatty with Syphax, who appreciates having some friendly conversation after 50,000 years. Much later, when Riverside is under attack yet again, Psi-Agents storm Shannon's workshop. Syphax's Psi-Amp detonates, killing them all. Shannon later questions if he likes her - he denies it, saying "It would be a waste to see one of such sharpness of mind be slain by these miscreants", then "if you died, I'd just be sat here for another eternity without any stimulating conversation" before finally admitting yes, he'd be sad if she was hurt. She repairs a captured Combat Mech, and retrofits the amp into it, creating a robotic host for Syphax - he refuses to actually join the team, instead becoming Shannon's bodyguard (essentially, he's a defender of Riverside, not a field agent as that'd be too OP)
 
 
-	A very dark supervillain - Svarog
-		Specifically, Svarog is Alexei Popov's ghost. Oxford, during the ODIN's Eyes arc, decides to torment Chloe and Sveta by heading to Sergei's ruined shelter, harvesting Alexei's dying engrams, and torments them; gaslighting them into believing that Sveta abandoned him to die and chose Chloe over him. Svarog (the Slavic god of fire and his initial moniker) corporeally manifests as a nondescript body wreathed in flames; at most, it wears a tattered trenchcoat made of super-flame-resistant material. Svarog decides to get 'revenge' on Chloe and Sveta, but eventually they're able to calm him down after finding out his true identity - though he's a recurring demonic threat for a while beforehand. Once defeated and pacified, he dissapates; Sveta hopes that there is an afterlife, and that he's finally found peace. later, during some kind of crisis event (maybe Oxford's Demon Invasion), Svarog returns to save Sveta
+A very dark supervillain - Svarog
+	Specifically, Svarog is Alexei Popov's ghost. Oxford, during the ODIN's Eyes arc, decides to torment Chloe and Sveta by heading to Sergei's ruined shelter, harvesting Alexei's dying engrams, and torments them; gaslighting them into believing that Sveta abandoned him to die and chose Chloe over him. Svarog (the Slavic god of fire and his initial moniker) corporeally manifests as a nondescript body wreathed in flames; at most, it wears a tattered trenchcoat made of super-flame-resistant material. Svarog decides to get 'revenge' on Chloe and Sveta, but eventually they're able to calm him down after finding out his true identity - though he's a recurring demonic threat for a while beforehand. Once defeated and pacified, he dissapates; Sveta hopes that there is an afterlife, and that he's finally found peace. later, during some kind of crisis event (maybe Oxford's Demon Invasion), Svarog returns to save Sveta
 
 
 

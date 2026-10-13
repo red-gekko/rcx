@@ -11,7 +11,7 @@ Werewolf Squad
 		Trey Morgan
 
 	Rampage
-		Amy Zhou
+		Amy Zhao
 
 	Heretic (formerly Judge)
 		Thrax
@@ -26,6 +26,7 @@ Riverside
 		Powers:
 			Super-Agent physicals
 			Unparalleled eyesight + superhuman aiming skills
+			Several guns
 
 	Adept
 		Name: Chloe Derrington
@@ -51,6 +52,28 @@ Riverside
 			EMPs
 			Onboard hacking devices
 
+	Jinx
+		Name: Shannon Taylor
+		Powers:
+			Hacking gear
+			Mission control (non-field combat)
+			Deployable combat drones and SPYD3R bots
+
+	Nightstick
+		Name: DCI Henry Naismith
+		Powers:
+			Super-Agent physicals
+			Expert detective
+			Riot gear
+				Stun batons
+				Ballistic shields
+				Tactical armour
+				Flashbang grenades
+				Tear gas grenades
+				Rubber bullet guns
+				Tranq dart gun
+
+Riverside International
 
 	The Marshal
 		Name: Frank Ryder
@@ -73,12 +96,6 @@ Riverside
 					Electric shocker
 				Silenced pistol
 
-	Jinx
-		Name: Shannon Taylor
-		Powers:
-			Hacking gear
-			Mission control (non-field combat)
-			Deployable combat drones and SPYD3R bots
 
 Riverside Youth
 
@@ -102,16 +119,16 @@ Riverside Youth
 			Can upload to backup bodies
 
 	Terror Toma
-		Name: Mal
+		Name: Malignant/'Mal'
 		Powers:
 			Complete shapeshifting
 			Can 'possess' consenting allies, empowering both
 			Advanced healing factor allowing regeneration mid-combat
 
 	Envoy
-		Name:Laeri G'Sharr
+		Name: Laeri G'Sharr
 		Powers:
-			Alien (nasper)
+			Alien (Nasper)
 			Advanced Psion:
 				Very powerful telepathy, able to mind control multiple enemies at once
 				Telekinesis includes fine manipulations
@@ -508,6 +525,8 @@ Optimates
 		Powers:
 			Werewolf-level physicals
 
+Independent
+
 	The Artist
 		Name: Marcel Vacher
 		Powers:
@@ -516,7 +535,6 @@ Optimates
 			Several body doubles prevent permanent death
 			Hypnotic powers
 
-Independent
 	
 	Pig Head
 		Name: Lazlo Aubrey

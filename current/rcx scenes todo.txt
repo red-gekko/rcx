@@ -17,7 +17,6 @@ current wip scene
 
 
 
-
 change the prison break sequence
 
 
@@ -300,12 +299,21 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		Flashbang is thrown in the VPU of HMP Wickermast, keeping his silence. Later, during the second prison break, he helps the gang escape
 	Nightstick - a wannabe vigilante looking after Brynmore, weilding batons
 		Ooo actually!! Have Nightstick be Naimith's vigilante identity
+		alternatively, have the TO24 spinoff be called "Nightsticks" - the term applies to the squad as a whole
+			maybe delete Moffat; potentially merge her with Lloyd to keep the gender balance
+				so the team would be:
+					leader: DCI Naismith
+					second in command: PS Nina
+					sniper/second detective: DC Moffat
+					scientist: FI Rogerson
+			the Nightsticks become a second team, who focus on Drackhill exclusively, use non-lethal methods (moffat snipes with a tranq gun, and they use rubber bullets and eponymous shock batons along with tear gas and flashbangs); they also work closely with Stunlocke II
+				they create a new VPU on Mercy Isle that houses any captive mutants
+					note that all Super-Agents have failsafes implanted that kill them if they are captured
+			When Connor is MIA-PD, the Nightsticks try to keep a hold of Drackhill while Riverside scramble to keep the world safe; they use a downscaled short-range Kestrel to rapid respond within the valley area
 	The Changeling - a nondescript, androgynous humanoid who can change appearance at will, impersonating others almost flawlessly. They must be in contact range for this, as they need to use their psionics (which are tactile in nature) to get a copy of the target's personality (this also lets them replicate things like fingerprints etc)
 	Stinger - a mutant assassin who can fire venomed quills from their body potent enough to even take other superhumans down
 	Agent J - a mutant hitman with minor super-strength/toughness, as well as near-unparalleled martial arts prowess
 		After J is thrown in VPU, he aids in the prison escape
-	The Troll - A hulking, dimwitted humanoid mutant, with dark blue skin. Prone to violent temper tantrums
-	The Goblin - a diminutive, crafty greenskin. Piggybacks on Troll and is the brains of their duo
 	Somniac - a psychic with the power to make people sleepwalk and control them in this state, as well as make them fall asleep through eye contact
 	Felix - a master contortionist and escape artist
 	Serial killers:

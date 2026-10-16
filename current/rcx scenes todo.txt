@@ -5,6 +5,7 @@ NOTE: this is a disorganised, chaotic mess for brainstorming. remove from final 
 !!!
 need to find a way to justify the transition from dark vigilante war to multiple caped supers existing
 !!!
+	Main thing? Magic. Lean into Esper stuff loads to make the transition to more fantastical happenings less jarring. Also, foreshadow the Judge and the Werewolves being aliens as much as possible
 
 
 
@@ -32,6 +33,8 @@ change the prison break sequence
 		for the escape - once they ditch the bully van, connor finds a manhole that they use to access the storm drains; first he places his hand and makes his echolocation noise, before opening it and descending. there, he finds a fishbat, and explains to the gang how he theorises that they're some kind of low-level Esper species; he mentions that finding out exactly what the hell a bunch of alien psychic eelbats are doing underneath the city is "on my todo list, but not exactly a priority at the moment" and then uses their magnetosenses to find Fr. Declan's cellar. there, he asks Declan to give refuge to Goblin and Troll while he and trey and shan go onwards; Declan agrees, and Connor thanks him; declan says "It's no trouble. Love thy neighbour, and all that." to connor's chuckling
 
 		also, the escape plan is because they can't remove the shock collars without being zapped themselves; connor's plan is to steal a gun to take out his, then force the other guard (the one he shoots th hand of) to switch off the others', sso that Troll can bust open the secure door
+
+		dont forget, if connor 'dies' from the shock, troll uses his super-strength to get connors hearts beating again
 
 		or, have the escape work because connor can survive draining the battery completely, so he has it zap him until it dies, then, now able to get in melee range of the guards (if prisoners get  within two feet of a guard, the collar goes off) he knocks out one, grabs his gun, takes the other hostage (shoots his hand) and then deactivates everyone else's collars and unlocks the VPU gate
 			have the guards notice connor's collar is rapidly losing power, and commenting that oh well, at least that's one less mouth to feed - when it reaches 0%, the guard he knocks out enters his cell, and connor pounces then
@@ -74,6 +77,11 @@ change the prison break sequence
 
 
 
+need to think about certain plot justifications
+	why does connor go to the Horse when he recruits Shannon?
+		make it clear he's there to see tommy - maybe a debrief is sorely needed, or connor needs some intel, or connor stole some things from the Skinners and is giving some  of it to Tommy (that one works best, since he could have the laptop for him to go through while Tommy takes in whatever other valuables connor nabbed)
+	think of a more cinematic way to  get connor and chloe dating/asking out
+		it should involve the gang a little more closely, ideally
 
 
 
@@ -106,16 +114,16 @@ remove Yaz completely. her arc contributes nothing of note. instead, end the the
 		end episode on high note soar
 		start next on battle of chechnya; replace opening with the medicine run for padding
 
-below is the water bottle moment: add that to the kid
+	below is the water bottle moment: add that to the kid
 
-			Connor sighed, looking down likewise. A high-pitched wail from Jack went right through Connor and Sparky's eardrums, hitting their enhanced senses especially hard.
-			"You need a hand with the wee man?" he asked, trying his hardest to not sound judgemental.
-			"Oh, he... sorry, he gets like this. Sometimes he cries and cries, and just won't stop." she replied, lifting him up and trying to soothe him. The crying lessened ever-so-slightly, but didn't stop.
-			Connor rubbed his eyes, grounding himself. "Here." he said, handing her a bottle of water from his bag. "Give him this."
-			She hesitated, but took the bottle and gave it to him. He began drinking, and started to calm down. By the time he finished sipping, he'd stopped crying entirely, and started to smile softly.
-			"Oh my god..." Yaz beamed. "How did you do that?"
-			"Eh." Connor shrugged. "When kids cry like that, it makes 'em hyperventilate - which freaks them out, and makes them cry even more. Have them drink something, and they're kinda forced to catch their breath."
-			Yaz smiled. "Thanks, Connor. I..." she stopped herself, before she could say "I wish you were his dad."
+				Connor sighed, looking down likewise. A high-pitched wail from Jack went right through Connor and Sparky's eardrums, hitting their enhanced senses especially hard.
+				"You need a hand with the wee man?" he asked, trying his hardest to not sound judgemental.
+				"Oh, he... sorry, he gets like this. Sometimes he cries and cries, and just won't stop." she replied, lifting him up and trying to soothe him. The crying lessened ever-so-slightly, but didn't stop.
+				Connor rubbed his eyes, grounding himself. "Here." he said, handing her a bottle of water from his bag. "Give him this."
+				She hesitated, but took the bottle and gave it to him. He began drinking, and started to calm down. By the time he finished sipping, he'd stopped crying entirely, and started to smile softly.
+				"Oh my god..." Yaz beamed. "How did you do that?"
+				"Eh." Connor shrugged. "When kids cry like that, it makes 'em hyperventilate - which freaks them out, and makes them cry even more. Have them drink something, and they're kinda forced to catch their breath."
+				Yaz smiled. "Thanks, Connor. I..." she stopped herself, before she could say "I wish you were his dad."
 
 
 
@@ -235,8 +243,31 @@ have the mook classes show up more than once though - have drones show up on mul
 
 
 
+in vol 3, gwen tutors connor on esper-ing; he asks why she can't just give him her powers via mind merge; she says "If it were that easy ODIN would've conquered the world a long time ago" and explains that the mind merge cannot transmit skills in there totality; the only way to do it would be to maintain a permanent link within a group where they can focus their power together
+	while meditating, gwen tells connor to focus on his breathing - to focus on the air itself, and its journey from his nose to his lungs and back again. he's able to focus in easily on the physical air, but struggles to maintain an image of it in his head once it's breathed out. she takes his hands, and shows him how she does it - he quips that she's not normally so touchy feely, and she blushes a little before focusing
 
 
+
+potentially for the calderfolk:
+	they are descendents of House Calder, the ruling nobles of Drackhill until the 1200s
+		House Calder began as the Caledwri, a Celtic tribe in the valley. following saxon conquest, their ruling clan migrated to Brittany, became a merchant house with significant investiture in the church, and upon the Norman conquest, they reclaimed the valley as House Calder.
+		The Lords Calder had always been fond of "witchcraft" (the family had an unusually high rate of Espers, largely due to their origins being pre-Celtic, the descendents of Pendrinn himself), and dug the Underhill in an effort to find the Dragon's Heart, a device of great psionic power
+		The Heart was found, and Lord Calder had the Mayor of Drackhill City become Steward of the Valley in his absence -  which is the origin of the Mayor being the executive head of the valley counicl - and he and House Calder moved almost in their entirety to the Underhill to conduct occult experiments. The Family began abducting vagrants to experiment on, which eventually lead to a revolt, and the particular section of the Underhill was sealed in - according to legend, the House Guard shrugged off arrows and hacked any knight who came for them to pieces; which is why the Order chose to use gunpowder to trigger a cave-in, and in secret, magically sealed the tunnel to prevent any psionic leakages.
+		The House survived underground however; the Dragon's Heart now awkaned and warping the fabric of reality around itself. The labirynth that they had colonised became bigger on the inside, and time runs faster inside than out (roughly, five minutes in the outside world is a fortnight in there); meanwhile an Arcanotrophic (that is, psi-metabolising) fungus is the backbone of their food chain, with several verminous creatures subsusting of fungus, and the Calderfolk (as the commoners are called) eat ratmeat and fungus.
+		All Calderfolk are inbred descendents of Lord Calder; the Heart's mutagenic properties preventing a bottleneck effect - they're more deformed from the mutations than they are the inbreeding. they developed an advanced caste system based on one's mutations, as well as lineage:
+			at the head, the Weavers - a house of Triclopses who can use their third eye to see futures, detect psi and aura, and perform highly powerful psiblasts. their heads look largely human save the third eye, so these are uncovered - but they wear thick robes to hide the fact that the rest of their bodies are no less deformed than the rest of their kind
+			beneath them, the House Guard - a kightly militant order composed of large, stoic, silent mutants who obey the Weavers' every word
+			the Death Cult operates outside of the traditional power structure - they are psychic assassins, primarily Blinkers; with the House Guard as the Weavers' right hand and the Cult as their left
+			after that, the Magistrates, non-triclopean Espers who range from minor telepaths to powerful warlocks. the most powerful however are sacrificed by the Weavers as soon as they are forseen, to prevent threat to their power. the Magistrates are the middle managers  of the city, and also its bureaucrats and record keepers. a sub-order, the Pyromancers, are more commonly seen in the army
+			then, the Alchemists, an order of Fleshcrafters and, well, alchemists, who focus on medicine and chemistry
+			then, you have the Guild of Artificers; closely working with the miners, they are the source of all manufacured goods in the 'undercity'. the city's tech level is a little strange; the most common stuff is of medieval, pre-gunpowder quality, but the Artificers have cobbled together scrap guns after reverse-engineering some surface artifacts brought back by Cult spies. They have even figured out how to harness electricity from the Heart. Overall, the tech level varies from medieval to Steampunk and some post-apunkalypse
+			the Men At Arms are the regular military of the Calderfolk, concerned with policing internal dissent, killing surface-dweller trespassers, putting down rogue Espers, and dealing with ghouls and demons
+			the average citizen toils for their short life, either mining new tunnels and patching up old ones, harvesting fungus (a horrible job, given the proximity to the Heart means constant mutation), or performing odd jobs for superiors. The Undercity's economy is a barter system, though their population growth has led to the re-emergence of currency
+			and beneath them, the Ghouls - anyone who is so badly deformed by the mutation as to turn feral - or maybe their mind breaking causes them to stop psychically resisting the mutation, who knows. Ghouls lurk mainly in the lower, abandoned tunnels, or stalk the Fungus Fields for fresh meat. Interestingly, ghouls don't seem to attack each other. also, Ghouls are fully capable of being Espers, which is a deadly combination. Some rogue espers also enthrall Ghouls as servants. the MaA above spend a good chunk of their  time dealing with Ghoul rebellions. "Domesticated" ghouls do exist in the Undercity, though - mainly as slaves in the fungus fields, or test subjects.
+		The Undercity is home to around 10,000 Calderfolk, all burrowed in their Hermetically (pun intended) sealed labyrinthe. Despite the horror stories, most are just oppressed people who want a better lot in life.
+		Chloe still becomes Adept from this - in this case, it's from the aftermath of a battle between the heroes and the Calderfolk; they're able to seize and seal off a segment of the tunnel they'd breached (they're initially investigating after they trace murders to the underhill, and then are attacked when they breach the tunnel), killing several attackers and securing artifacts for study - including a crude psi-amp that Gwen recognises as a convergent evolution of ODIN's psi-amps. this inspires them to secure a real ODIN-class psi-amp, kicking off an ODIN attack; then, while Chloe is experimenting on their psi artifacts, Whisper cloaks in and activates them (not knowing that Chloe was gonna be there until too late) and they detonate, badly wounding her while also saturating her with psychic energy. Connor saves her with his blood, and mind-merges in a trance with her comatose body to help her resist the mutations; when she wakes up, she's a Super-Agent, and also an Esper
+		the gang assume this was the Calderfolk, so they launch another assault on the Undercity, with Mordred helping via anti-magic wards and shields. they manage to capture several mutants as prisoners, and autopsy the ones who died. recognising a blockade won't work, chloe psychically interrogates one Weaver - she compells him to tell the truth as if he was under truth serum - and finds out about the Heart. Mordred explains the above history, saying he thought it was just a story, and that these sewer mutants were simply inbred Espers from house Calder - but the details line up, so the plan is a decapitation strike. the captive also lets slip that there is a faction of the Weavers who are in favour of peace, having forseen a future where Undercitizens and Overcitizens live in harmony; the main Weavers instead see war. further pushing reveals that this captive is themself part of the Peace faction, and after being treated well, agree to help the heroes negotiate
+		Mordred provides anti-mutagenic seals, and they capture the Heart, taking the Undercity's leadership hostage and installing the Peace faction. Section Zero initially prepares to set up an occupation authority, but Riverside agree that that's not the right solution - instead, they use antimagic seals to forcefully close the War faction's third eyes, while the Order, who are more familiar with the Calderfolk customs, provide protection to the new provisional goverment. They manage to keep the whole thing quiet enough; handing the War Weavers over to the Order to be interred in the Penitent Halls (a magically sealed bigger-on-the-inside dungeon on Mercy Isle); meanwhile the plan is to wait for Espers to become common public knowledge, before officially establishing contact between the Undercity and Drackhill; long term they plan to integrate the Undercity as a special district, but for now that's a pipe dream
 
 
 
@@ -815,7 +846,7 @@ at some point during the nuclear meltdown, do a homage to Spiderman Lifts the He
 
 have chloe develop healing serum - taking connor's regenerative stem cells, and finding a way to reprogram them with host DNA using her plasmid bomb technology. the new serum can heal severe injury and even partially stimulate organ and limb regrowth, but does not turn the subject into a super agent
 
-specifically, for when the judge mentions vampires - have some incredulity from one person, only for another to say "We're in a room with an alien and a talking dog, but vampires is where you draw the line?"
+specifically, for when the judge mentions vampires/demons - have some incredulity from one person, only for another to say "We're in a room with an alien and a talking dog, but vampires is where you draw the line?"
 
 
 a scene where the Judge is crying, and mentions that they didn't know that they kept count of how many they'd killed

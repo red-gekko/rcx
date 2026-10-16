@@ -14,13 +14,14 @@ Summary of Powers:
 
 	Biological Enhancements:
 		Circulatory/Respiratory System:
-			Multiple backup hearts and hyperoxygenated blood enhance resilience and physical performance.
+			Multiple backup hearts and hyperoxygenated blood enhance resilience and physical performance. Two primary hearts, and multiple small secondary hearts.
 			Capable of breathing toxic air or water temporarily; can survive without oxygen through anaerobic respiration.
 				[side effect - anaerobic respiration will eventually cause cryptobiosis, a coma-state. Cannot use full strength without oxygen either]
 			Blood vessels are capable of closing rapidly, massively reducing blood loss
-			Multilpe windpipes and chambered lungs allow constant breath - one lung breathes out while another breathes in while another supplies oxygen to the bloodstream
+			Multilpe windpipes and chambered lungs allow constant breath - one lung breathes out while another breathes in
 		Digestive/Urological System:
 			Can digest just about any organic matter. Multi-chambered stomach allows ruminant behaviour and easy toxin removal.
+			Super-strong stomach muscles allow for weaponised stomach acid spit
 			Liver and kidneys hyper-optimised. As long as healing factor is active, toxins are largely harmless in the bloodstream.
 				Side effect: Physically incabable of getting drunk. As in, can consume straight ethanol without intoxication. Having ethanol literally injected into their veins continously will at most make them feel "buzzed"
 				Anti-intoxication can however be disabled by lemon juice - somehow. Downing a cup of concentrated lemon juice, or eating a whole lemon, can allow them to get tipsy. They can't get past that, though.
@@ -65,6 +66,7 @@ Summary of Powers:
 				Can detect electromagnetic waves, such as those coming from electronic items or ionizing radiation
 				Can activate a synesthetic "Sense Mode", an Active Power that allows them to use all their super-senses at once, while cleanly formatting the input as visual
 		Backup neural network in the torso can restore basic function after head trauma - can theoretically survive decapitation.
+		Natural telepathic abilities; while minor without training, can perform tactile telepathic powers like mind-merging, mental probing, emotional reading, lie detecting, and more
 		'Paradrenaline' allows bursts of superhuman feats but induces catatonia afterward. Extreme stress can trigger "Berserker Rage", mindless rampages of unstoppable force
 		Nervous system able to communicate with itself to an unprecendented degree in biology - the body has a 'blueprint' that allows it to direct its healing without becoming overly tumour-ridden or creating malformed organs. While in Enhancement, the body can tell based on subconscious thoughts what improvements would be useful.
 		Senses are massively fine-tuned.
@@ -75,12 +77,8 @@ Summary of Powers:
 			Inside the eyes, a small bioluminescent organ emits low-frequency lights, which are used like a radar system to assist depth perception and provide night vision.
 				When in Berserker Rage, this organ goes haywire and produces visible red light, resulting in the iconic glowing red eyes.
 
-	Skills and Equipment:
-		Able to telepathically communicate with other superhumans at short range - in practical terms, no language barrier between supers. They can also use this to 'mind-merge' with each other, sharing tactical and intimate details
-		In posession of "Morphing Suit" - an organic substance they can eject from their skin to form clothes, armour, and weapons out of the substance - allowing them to change between costume and civillian clothes easily, and also means they always have a knife handy.
-
 	Vulnerabilities:
-		Seizures and migraines are a constant hindrance, exacerbated under stress.
+		Regular migraines are a constant hindrance, exacerbated under stress.
 		Healing is limited by food supply and can be overwhelmed by sustained or multi-faceted damage.
 		Use of so-called "Active Powers" (armour, wall-crawling, super-vision, Rage) will exhaust them quickly
 		Reliant on specialist diet of bodybuilding shakes and high-protein meals. When faced with starvation, loses access to super-strength and healing.
@@ -94,3 +92,69 @@ Summary of Powers:
 		Berserker Rage leads to constant violent urges that must be surpressed via self-harm
 		Requires a high caloric intake and may enter a "healing coma" for extreme damage.
 		Extreme healing factor means massive cancer risk - if anti-cancer systems are disabled, will quickly suffer from rapid cancer growth
+
+	Skills and Equipment:
+		Able to telepathically communicate with other superhumans at short range - in practical terms, no language barrier between supers. They can also use this to 'mind-merge' with each other, sharing tactical and intimate details
+		In posession of "Morphing Suit" - an organic substance they can eject from their skin to form clothes, armour, and weapons out of the substance - allowing them to change between costume and civillian clothes easily, and also means they always have a knife handy.
+			list of morphing powers:
+				clothing and costume
+					can quickly form new clothes, repair damage, clean, or change into costume
+				blades
+					several options - throwing knives, wrist-mounted swords, or handheld weapons. can use more exotic forms, like chain-tied knives, axes, or spears
+				adhesion
+					several micro-hooks form at the contact surface, allowing super-grip
+				armour
+					can expel more substance into the costume to thicken it
+				gauntlets
+					can thicken his gloves to make blunt weapons for nonlethal takedowns of superhumans
+				crossbows
+					can morph wrist-mounted crossbows, allowing for ranged attacks. can use blunter bolts for incapacitation, or sharp ones for kills
+				grappling/rope
+					can morph rope from the body; can be used with crossbows to form a grapple gun, swing from buildings, or restrain enemies
+						specifically, grappling hooks are formed with applying the adhesion power to a suction cup at the end of the rope, then firing this rope from either the crossbow, or an air/gas powered contraption (see below)
+				shields
+					use these when both defense and agility are needed - should typically be forearm bucklers rather than full ballistic shields unless he's covering someone else
+				gliding
+					morphs a cape that can rigidify on-command, and uses super-senses to detect updrafts and wind tunnels. can also use grappling to gain extra velocity (through pendulum swings or rapid reeling); can also use wall-running to gain altitude, or push self off of walls for extra speed
+					can also use air pressure (see below) to provide thrust, allowing indefinite flight as long as stamina is high. can also use for rapid air braking, and parachutes
+				caltrops
+					area denial weapons, as well as anti-vehicle traps
+				shock absorbers
+					handwave his ability to land on his feet from a glide by saying he morphs honeycomb pads on his boots, which dissolves after landing. this also goes in with the armour
+				bolas
+					use these for non-lethal capture - can morph them into hogties or cuffs once he catches them
+				net launchers
+					use these for wide-area non-lethal ranged capture
+				restraints
+					gags, blindfolds, handcuffs, hogties, or even hanging people by their ankles from the ceiling
+				water-walking
+					pads that keep him at surface level as long as he's sprinting
+				trip-lines
+					clotheslines used as traps or perches
+				prosthetic makeup
+					change unmasked appearance
+				first aid kit
+					tourniquets, splints, bandages, wound-covering sprayfoam (delivered from air power, see below), and more
+				multitools
+					lockpicks, screwdrivers, spanners, crowbars
+				pseudomorph
+					thin mannequin shaped like him to act as a decoy
+				air pressure maneuvers
+					can rapidly pressurise substance for various uses - see below for special ones
+				kinetic bursts
+					can use air pressure bursts to increase force in movement - making punches faster if a burst happens at the elbow, or make them deliver more force by bursting air from the knuckles on contact
+				smoke bombs
+					release a burst of morphing substance as an aerosol, creating a short-lived cloud
+				frag bombs
+					hardens the substance before bursting, creating chitinous frags at high velocity
+				sound funnel
+					don't use too often as it's a little goofy, but use it when he's trying to catch distant sounds
+				airsoft guns
+					compressed air firearms that can shoot pellets of biomass, with different variants
+						smoke rounds, which create a mini smoke bomb effect (if we allow pheremone manipulation, can also be used to disperse these)
+						dart rounds (can either be used as simple flechettes, or if PM is allowed as above)
+						acid rounds (rounds coated with stomach acid - supply acid to rounds by creating a running mouthguard tube to the shooting arm)
+						baton rounds - think rubber bullets
+						concussive rounds - above, but explodes on impact, delivering a wave of supercompressed air
+						explosive rounds - above, but uses the chitin frag power for lethal options
+						chitin rounds - baton rounds, but harder, sharper, and delivered at higher velocity, making them lethal

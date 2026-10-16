@@ -15215,8 +15215,8 @@ VOLUME - Wolves Among Sheep
 			"Great! We're almost done unpacking." he replied. "Wanna see the place?"
 			"Sure!" Chloe smiled. They entered.
 			"Wow!" she said upon seeing the basement. "This room's about as big as your flat!"
-			Connor chuckled. "It's making me agoraphobic." he quipped.
-			Chloe grinned. "Need a hand unpacking?"
+			Connor chuckled. "It's making me agoraphobic."
+			She grinned. "Need a hand unpacking?"
 			"Nah, nearly done. Just this last box, actually..." Connor said, picking up a small cardboard box. He opened it, and unpacked it - he found old electronics, a novelty tie, and a small jewellery box.
 			"I am *fascinated* by the way you organise things, bro." Trey laughed. Connor chuckled.
 			"It makes sense in my head!" he faux-protested. He opened the box, and revealed a bejewelled necklace, with ash-grey gems. It glittered and sparkled in the light. Next to it sat a small silver coin.
@@ -15298,7 +15298,7 @@ VOLUME - Wolves Among Sheep
 			Chloe shook her head.
 			Connor leant over the fire, preparing to tell the tale.
 
-			"Once upon a time, this land was a rolling steppe, shadowed by a great, black mountain. Inside, there was a silver city, home to a clan of subterranean monsters, called Bockas. Most Bockas are of the Gwidden type - a friendly, if mischievous type of Fae. The ones here, though - they were Bocka Dhu. They were a greedy folk - they'd sneak out from the mountain at night and steal from the villagers nearby. In Fae culture, this was practically heresy - the Fae had binding taboos on interfering with mortals who had not broken their rules. In fact, the Bockas used to have a contract with the mortal villagers; the humans would give them offerings, and they would protect them from disease. The Bocka Dhu, however, just took what they wanted with nothing in return. But one day, their king got too greedy, and robbed a Dragon's nest - Dragons were like Gods to the Fae. The Dragon was displeased with this insult, and so he said to the Bocka King;
+			"Once upon a time, this land was a rolling steppe, shadowed by a great, black mountain; known a the Draigpens. Inside, there was a silver city, home to a clan of subterranean monsters, called Bockas. Most Bockas are of the Gwidden type - a friendly, if mischievous type of Fae. The ones here, though - they were Bocka Dhu. They were a greedy folk - they'd sneak out from the mountain at night and steal from the villagers nearby. In Fae culture, this was practically heresy - the Fae had binding taboos on interfering with mortals who had not broken their rules. In fact, the Bockas used to have a contract with the mortal villagers; the humans would give them offerings, and they would protect them from disease. The Bocka Dhu, however, just took what they wanted with nothing in return. But one day, their king got too greedy, and robbed a Dragon's nest - Dragons were like Gods to the Fae. The Dragon was displeased with this insult, and so he said to the Bocka King;
 
 			"Thou hast taken what was mine,
 			Wretched Bocka with fire-eyes,
@@ -15333,7 +15333,7 @@ VOLUME - Wolves Among Sheep
 			Hearing this, the man was enraged at the Bockas' deception. As the Dragon fell to the ground, he turned his blade, steering the Dragon towards the mountain.
 			It hit the peak, landing right on the Bocka King. The mountain was shattered, leaving the valley underneath to run into the sea. The old mountain was named the Wyrm's Rock, and the new valley was called the Draca Hills.
 
-			The hero's body had been torn down to specks by the explosion. But seeped in magma and dragon blood, and the screaming souls of a thousand Bocka Dhu, he rose again. He pulled his blade from the peak, like Arthur did with Excalibur. It, like its master, had been reforged; now glowing with magical energy and coated in obsidian. The tribes united under his shadow, and as reptilian wings unfurled from his back, he soared upwards, blocking out the moon."
+			The hero's body had been torn down to specks by the explosion. But seeped in magma and dragon blood, and the screaming souls of a thousand Bocka Dhu, he rose again. He pulled his blade from the peak, like Arthur did with Excalibur. It, like its master, had been reforged; now glowing with magical energy and coated in obsidian. The tribes united under his shadow, and as draconic wings unfurled from his back, he soared upwards, blocking out the moon."
 
 			Finishing the tale, Connor looked up at his friends. Chloe was looking at him, almost dreamily.
 			"Or at least, that's the legend, anyway." he cleared his throat.
@@ -15343,16 +15343,27 @@ VOLUME - Wolves Among Sheep
 			"Well, the bastard needs to stop flapping his wings. It's been pissing it down lately." Trey grinned.
 			"I love old folklore like that." Chloe smiled. "You have to wonder, who comes up with that?"
 			"Well, it's not so far fetched." Trey began. "This valley has an unusually high amount of silver and gold ore."
-			"And fossils." Connor added. "In the Wyrmrock caves, they've found loads of weird fossils. Mostly, they look like animals - but some also look like people. Except... weird. Deformed, even. And also, the fossils were found in the same parts - meaning they're the same age."
+			"And fossils." Connor added. "In the Wyrmrock caves, they've found loads of weird fossils. Mostly, they look like animals - but some also look like people. Except... weird. And also, the fossils were found in the same parts - meaning they're the same age."
 			Chloe leant back, surprised. "That's insane. How is that not bigger news?"
-			"Well, I saw a documentary on that." Trey replied. "Supposedly, the dino-looking fossils were actually just deformed wildlife, same with the people. They reckon there was some disease that caused these deformities in the valley."
-			"I heard about that. Didn't that same doc also prove that there *was* a mountain here that blew up?" Connor asked.
-			"It's a weird one. They proved that there was something similar to a volcanic eruption 50,000 years ago in the valley - but, there's absolutely zero volcanic activity here. No fault lines, nothing. One of life's great mysteries." Trey grinned.
+			"Well, I saw a documentary on that." Trey replied. "They reckon there was some disease that caused these deformities in the valley."
+			"I heard about that. Didn't that same doc also prove that Wyrmrock *was* just a foothill to a much bigger mountain here that blew up?" Connor asked.
+			"It's a weird one. They proved that there was something similar to an asteroid impact 50,000 years ago that created the valley - but, the valley doesn't look the way it should do from something like that. They're not sure if it was a really weirdly shaped asteroid, or if the mountain's structure caused the unusual valley.. One of life's great mysteries." Trey grinned.
+			"The age of the story is also weird." Connor added. "Like, the fact that it references an ancient mountain being destroyed by an aerial impact, *and* we're pretty sure it predates Celtic settlement in the region - so it's possible that the story started out from the oral traditions of a tribe who actually witnessed the impact. Then the Celts come over and add Bockas to the mix, and then the Saxons come over and change up the names... it's pretty cool, when you think about it. There's even a theory that Pendrinn coming back from the dead to watch over us was a product of Christianisation."
 			"How do you guys know so much about this?" Chloe asked.
 			"It's a fun bit of trivia, I guess." Connor shrugged.
 			"I only know it because Connor infodumps when he's stoned." Trey quipped.
-			The three laughed heartily, and Chloe sneezed.
-			"Oh, excuse me." she said.
+			The three laughed heartily, and Chloe stroked her chin.
+			"The word 'Bocka' sounds familiar. Is it a type of Celtic spirit, or something?"
+			"Yeah - specifically, it's Cornish. The Welsh have the Pwca, the Scots have the Pooka, we Irish have the Puca - to my knowledge, they come from the Middle English 'Puck,' which itself comes from the Scandinavian terms like Puki, Puke, and Pugi."
+			"Ah, that makes sense - it's like in A Midsummer Night's Dream." she nodded.
+			The boys turned, and tilted their heads.
+			"You know? Puck? From the play?"
+			Eyebrows cocked in unison.
+			"Shakespeare?"
+			Trey grabbed a wooden stick that hadn't been cast onto the fire, and waggled it.
+			Chloe rolled her eyes, and giggled.
+			"You forget, we're uncultured swine down here." Connor grinned.
+			"Says the man who just recited a folk tale from memory." she quipped, before sneezing. "Oh, excuse me."
 			"Bless you." Connor said reflexively.
 			"Boo! Catholic!" Trey jeered.
 			She giggled. "Thank you, Connor."
@@ -15378,20 +15389,20 @@ VOLUME - Wolves Among Sheep
 			"The Winter Faire is on this weekend." Trey piped up. "Let's all go there."
 			Connor grinned. "Sounds like a plan."
 			Chloe smiled, as fire died down.
-			"I'd better head off." she smiled, before looking up at the night sky.
+			"I'd better head off." she nodded, before looking up at the night sky.
 			"You need a lift?" Connor asked.
 			"I don't mind getting a taxi. Thank you though!"
 			She opened her taxi app, and frowned.
 			"No taxis for the next 3 hours." she sighed.
 			"Your dad's a taxi driver, right?" Connor asked Trey.
 			"Yeah, and a lazy sod by the sounds of it." Trey snarked. The gang laughed.
-			Connor chimed in. "Offer's still there." he smiled.
+			"Offer's still there." Connor chimed in.
 			Chloe hesitated. "You'd do that for me?"
-			"Of course!" Connor tilted his head.
+			"Of course!" he tilted his head.
 			Chloe smiled warmly. "Okay - thank you so much!"
 			Trey smiled as the two left. He turned to face Sparky.
 			"They need to just kiss and get on with it." he chuckled.
-			"I'll say!" Sparky barked.
+			"I'll say!" Sparky yapped.
 
 		Connor moves in/Draca Hill
 		______________________________
@@ -25095,9 +25106,17 @@ VOLUME - Gods Among Men
 			"You do now." he smiled. "You're one of us, like it or not."
 			She scoffed, but smiled back.
 			"Who was that guy, who attacked you?" he asked.
-			"A Blinker. Low-level ODIN agent, able to rapidly travel across short distances." she sighed. "They normally deploy in teams - which tells me his attack hadn't been sanctioned by the others."
+			"A Blinker. Low-level ODIN agent, able to rapidly travel across short distances." she sighed.
+			"How?"
+			"You like questions, don't you?" she chuckled.
+			"I prefer answers." he quipped.
+			"They use telekinesis to warp space - it allows them to make the distance shorter. So, what would be a few paces away, they can cross in the same way you or I can lean forward a centimetre."
+			"Damn. Can you do that?"
+			"Never needed to learn." she shrugged. "Though... I'm more powerful now, so I guess it'd be worth studying once I get the time. Well, that, and ODIN's material."
+			"Well, I'm guessing we need to organise a counterstrike anyway." Connor nodded.
+			"Maybe not. Blinkers normally deploy in teams - which tells me his attack hadn't been sanctioned by the others."
 			"Does that mean they're not coming after you?" he tilted his head.
-			"No - it means they want to employ a more subtle approach." she shuddered. "I'll keep an eye out for any activity - if there are any other Espers in the city, we'll know about them."
+			"No - it means they want to employ a more subtle approach." she shuddered. "I'll keep an eye out for any activity - if there are any other Espers in the city, we'll know about them. Let's hold fire on counterattacking - we do *not* wanna piss off ODIN if we can help it."
 			Connor smiled, and stood. As he rejoined the gang, she leaned back, deep in thought.
 
 			Trey sauntered into the basement, yawning. Most had gone home - only Shannon and Sparky remained.

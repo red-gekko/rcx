@@ -3536,7 +3536,7 @@ VOLUME - Wolves Among Sheep
 			"This is a beautiful sight." she said, smiling.
 			"Yeah, it is." Connor nodded, before taking in the sights himself.
 			He pointed out to the various landmarks.
-			"There - by the coast. That's Angleport, the seaside town. They have a massive stony beach there, plus a bunch of coves that pirates used to use back in the day. Can you see the dockyard?"
+			"There - by the coast. That's Angleport; the biggest settlement outside of the city. They have a massive stony beach there, plus a bunch of coves that pirates used to use back in the day. Can you see the dockyard?"
 			She squinted, and shook her head. "I don't think I can make it out."
 			Connor shivered slightly. He wasn't sure if it was down to his heightened senses, or if her glasses were for more than just reading. He banished the thoughts, and carried on.
 			"I think it's a bit foggy, to be fair. On the other side of the river, there's Rexton - it's a seaside town. It's a little closer to us."
@@ -4498,7 +4498,7 @@ VOLUME - Wolves Among Sheep
 			Connor tapped a rhythm onto his steering wheel as they waited patiently in traffic. Trey had appointed himself as the car DJ - and thus, he called shotgun, much to Amy's chagrin. She got her revenge by placing herself right behind him, and took great pleasure in kicking the back of his seat. Beside her were Chloe and Bea, both eager to see the shores. Last but not least, Sparky's head rested on the backs of the seats, as he rested in the boot.
 			Finally, they found a car park that hadn't been completely colonised. Connor pulled into a space, and the gang disembarked.
 			"Wow!" Bea grinned, looking out at the horizon. "This place looks amazing."
-			"Welcome to Rexton!" Connor gestured out. "Originally a Saxon settlement called 'Cyninges Tun' - King's Town. When the Normans came here, they changed it to Rex Tun - the village was crown land before the reforms of Edward Longsh--"
+			"Welcome to Rexton!" Connor gestured out. "Originally a Saxon settlement called 'Cyninges Tun' - King's Town. When the Normans came here, they changed it to Rex Tun - the village was crown land before it was sold to House Calder by Richard the Lionheart in order to finance the Third--"
 			Trey did a fake yawn, and Connor rolled his eyes, grinning. "It's a beach town, basically." he shrugged.
 			The girls chuckled, and Connor popped open the boot. Sparky hopped out and stretched.
 			"Oh, biiiig stretch!" Amy cooed.
@@ -6450,10 +6450,10 @@ VOLUME - Wolves Among Sheep
 			"The Sewer People." Amy agreed, eyes wide.
 			"...the sewer people." Bea grinned sarcastically.
 			"The Sewer People." they both nodded in unison. They fought back their laughs, and continued.
-			"They've lived there for generations." Trey began. "Ever since the first tunnels were put down there in the 12th century."
+			"They've lived there for generations." Trey began. "Ever since the first tunnels were put down there in the 14th century."
 			"Oh, so when *I* start talking about the history, I'm a nerd." Connor snarked.
 			"Go on, then." Trey chuckled. "Tell us about the tunnels."
-			Connor sighed. "They were first built on orders of the Church - this was shortly after the Norman Conquest, and they wanted to win over the people. So they built this massive pipe network, taking fresh water straight from the Calder into a network of public fountains. But if a pipe sprung a leak, they would have to dig up the entire road to get to it - so they instead made these tunnels for easier maintenance access--"
+			Connor sighed. "They were first built on orders of Lord Calder - his house became Earls of the valley shortly after the Norman Conquest, and they wanted to win over the people. So, initially in the 12th century, they built this massive pipe network, taking fresh water straight from the river into a network of public fountains. But if a pipe sprung a leak, they would have to dig up the entire road to get to it - so they instead made the first tunnels for easier maintenance access--"
 			"Nerrrrd!" Trey and Amy jeered again. Connor rolled his eyes and laughed.
 			"The first tunnels were small - far too small for adults to squeeze through." she continued. "So they'd send kids instead - as young as 8. They had tiny little lamps made of animal fat, and they had to crawl on their bellies. The smell of burning fat would attract packs of hungry, oversized rats..."
 			"I've seen the rats." Trey added, shuddering. "They're huge, and they're ravenous. I saw a pack of them swarming over a dead fox - it was horrifying."
@@ -10537,7 +10537,7 @@ VOLUME - Wolves Among Sheep
 			"Fascinating..." the Commandant nodded. "It's a very strange business, this 'Werewolf' stuff, isn't it?"
 			"Very strange, sir." Chloe smiled.
 			"What's your take on him?" he asked. "He's a killer, sure... but I've heard many people think he's a superhero, too."
-			"I--I try not to think about it." she shrugged. "It would be good to learn more - if he's such a monster, why does he rescue people too? One time, he even saved me and my friends from some hooligans... but my job isn't to speculate on that, I suppose."
+			"I--I try not to think about it." she shrugged. "It would be good to learn more - if he's such a monster, why does he rescue people too? One time, he even saved my friends and I from some hooligans... but my job isn't to speculate on that, I suppose."
 			The Commandant chuckled. "No, I suppose it isn't. It would be... fascinating to learn who's behind the mask, wouldn't it?"
 			"I'm sure the police would be very happy with that, sir." she smiled.
 			"Well... I'll leave you to it, then. Take care, Ms. Derrington."
@@ -11989,7 +11989,7 @@ VOLUME - Wolves Among Sheep
 			"I'm not sure. One of the weird quirks of the valley, I guess." Bea shrugged.
 			"...why are you all looking at me?" Connor tilted his head, as a swathe of grinning faces turned to him.
 			"We're long overdue a history infodump." Amy snarked.
-			Connor rolled his eyes, laughing. "The mayoral office started out as the chief executive of the city; other parishes had their own leaders. But, during industrialisation, most government functions got centralised in the city. So, the mayor became the de facto administrator for the whole valley; when the Local Government Act 1974 got put in place, they formalised the position."
+			Connor rolled his eyes, laughing. "The mayoral office started out as the chief executive of the city as a whole; the boroughs were governed by magistrates, while other parishes had their own leaders - Danwich and Mercy Isle had Bishops, Angleport, Wickermast, and Pencroft had Mayors of their own; while Rexton, Bromney, Polwynn, and Blackmarsh had Barons - and all of them swore fealty to House Calder. But, after 1309, the Mayor took over the duties of the Earl, and then during industrialisation, most government functions got centralised in the city. So, the mayor was the de facto administrator for the whole valley; when the Local Government Act 1974 got put in place, they formalised the position."
 			Bea smirked, and pressed play.
 			"It's high time we stopped talking so much about 'Human Rights' and began taking seriously our Human Responsibilities. To each other, to our families, to our children." Norris said in response to a question about his views on abortion.
 			Bea paused it, infuriated. "What the hell kind of answer is that?!"
@@ -15348,10 +15348,35 @@ VOLUME - Wolves Among Sheep
 			"Well, I saw a documentary on that." Trey replied. "They reckon there was some disease that caused these deformities in the valley."
 			"I heard about that. Didn't that same doc also prove that Wyrmrock *was* just a foothill to a much bigger mountain here that blew up?" Connor asked.
 			"It's a weird one. They proved that there was something similar to an asteroid impact 50,000 years ago that created the valley - but, the valley doesn't look the way it should do from something like that. They're not sure if it was a really weirdly shaped asteroid, or if the mountain's structure caused the unusual valley.. One of life's great mysteries." Trey grinned.
-			"The age of the story is also weird." Connor added. "Like, the fact that it references an ancient mountain being destroyed by an aerial impact, *and* we're pretty sure it predates Celtic settlement in the region - so it's possible that the story started out from the oral traditions of a tribe who actually witnessed the impact. Then the Celts come over and add Bockas to the mix, and then the Saxons come over and change up the names... it's pretty cool, when you think about it. There's even a theory that Pendrinn coming back from the dead to watch over us was a product of Christianisation."
-			"How do you guys know so much about this?" Chloe asked.
-			"It's a fun bit of trivia, I guess." Connor shrugged.
-			"I only know it because Connor infodumps when he's stoned." Trey quipped.
+			"The age of the story is also weird." Connor added. "Like, the fact that it references an ancient mountain being destroyed by an aerial impact, *and* we're pretty sure it predates Celtic settlement in the region - so it's possible that the story started out from the oral traditions of a tribe who actually witnessed the impact. Then the Celts come over and add Bockas to the mix, and then the Saxons come over and change up the names... it's pretty cool, when you think about it. There's even a theory that Pendrinn coming back from the dead to watch over us was a product of Christianisation. And, to boot, House Calder claimed lineage from him - though that's obviously dubious."
+			"House Calder?" Chloe tilted her head. "You've mentioned them before, right?"
+			"Former Lords of the valley." Trey explained. "Descendants of the Caledwyri tribe - Pendrinn's people. The locals largely assimilated after the Saxon conquest, while their ruling clan was exiled to Brittany - they became a merchant family who bribed Church officials to legitimise them as House Calder, a minor noble house. When William the Conqueror came up, they helped finance the war and provided their House Guard as mercenaries - in exchange, they were reinstated as rulers of the valley - the Counts of Drackhill."
+			"That is, until Lord Calder XIII went mad." Connor chuckled. "But that's a story for another day."
+			"I've got time." Chloe grinned.
+			Connor smiled - glad for the chance to indulge himself. The sky was darker, now - and the flames cast an eerie light over his face.
+
+			"House Calder ruled us from 1066 to 1309. Lord Calder was the most corrupt of them all - and he was untouchable. He'd fabricated dirt on any rival in the valley - which meant his family controlled all the banks, the guilds, the markets, the land, and most importantly - the church. He had his second son installed as Grandmaster of the Order of Lazarus - a borderline-heretical holy order - in direct defiance of the Concordat of London. The conflict between secular lords and religious leaders was heating up in this era; but Calder was so powerful, he could appoint and dismiss abbots and bishops as he pleased. He paid lip service to his status as a vassal of Edward Longshanks and, later, Edward II - but in truth, he was an absolute monarch. Arguably, the first - predating Louis XIV by over 300 years. According to the story, he believed that something priceless was buried beneath the city. Ironically, the excavations he funded benefitted the working classes, since it gave them plenty of work; and the valley's high quantity of precious metals made the Guilds rich - but the taxes he levied against the other nobles to fund this endeavour angered them. They cooked up some accusations of witchcraft and even cannibalism, but the Order protected him from the worst of it. Until, that is - they found it."
+			He paused for effect, and Trey grinned as Chloe waited politely. Finally, her curiosity got the better of her etiquette.
+			"Found what?"
+			"Deep in the newborn Underhill, beneath all the earlier tunnels, they found what Lord Calder believed was the Dragon's heart. He had a dungeon built there - one so big, it was basically an underground castle. House Calder moved down there almost in its entirety - the Lord kept secluding himself in its chambers, which were so extensive, the Order would send messengers down for him, and they'd die of starvation on the way down. That's why the Mayor is the chief executive of the entire valley - back then, the Mayor of Drackhill City had to become the de facto Earl in order to keep the valley running. Worse, the workers in the Underhill began reporting screams coming from the Lord's chambers, loud enough to be heard from the sewer drains on the surface; and people started going missing. Rumours of arcane experiments and alchemical augmentation grew - there were whispers that Lord Calder had ensorcelled the long-dead Bocka Dhu, and sold his soul to the Devil."
+			Trey leaned forwards, as if he were a wrestler tagging in. "They started to believe those accusations of witchcraft and cannibalism were true. When Longshanks died, the nobility petitioned Edward II to restrain Lord Calder's powers. But the new king had troubles of his own - the war in Scotland was going badly, his barons were growing restless, and nobody at court was eager to start shit with the most powerful lord in the country. So, the nobles struck out on their own, riled up a mob, and stormed the Undercastle - and the House Guard, each one towering over the peasant levies, hacked them to pieces."
+			"Damn. I mean, that's pretty standard when you send torches and pitchforks against armed knights." she shrugged.
+			An ember flew past Connor's face, and he leaned in closer. "The Guard were barehanded." he revealed.
+			"...alright, that's a little spookier."
+			"They ended up chucking a load of barrels full of gunpowder down the tunnel, and then, they doused a dog in oil, flicked a candle on its tail, and sent it running down." Trey explained.
+			"Oh God, that's horrible!" she gasped.
+			"Lord Calder was experimenting on people and creating half-demon super-knights, but the dog bit is where you get squeamish?"
+			"No, no, she's right. Who cares about humans, anyway?" Sparky quipped.
+			Connor stifled a chuckle, and smiled. "I think the dog part is the saddest bit, too."
+			"Oh, so do I. I just think the rest is grim, too." Trey snarked.
+			Connor cleared his throat. "So, the explosion caved the tunnel in, and for good measure, they diverted an underground stream into the Undercastle, just to be sure. House Calder was sealed away."
+			"Let me guess - the 'Sewer People' you guys told Bea and I about are their descendants, right?" Chloe snarked.
+			"Oh, of course. That's why they're so freaky looking - they're a noble family, and you know how inbred those are."
+			Chloe let out a subdued chuckle.
+			"With no legitimate successors, the valley abolished the position of Earl, with the Mayor of Drackhill being declared first among equals by the resulting situation." Connor continued. "Calder's abuse of power, combined with Edward II's own autocratic tendencies, led to the Ordinances of 1311 that restricted the king's power to unilaterally appoint whoever to whatever. Calder became an abject example of how badly that can go. At the same time, they modelled Drackhill's new system on the Holy Roman Empire's Free Cities, becoming an autonomous government within England. Even after the Ordinances were repealed in 1322, the new semi-republican system remained. During the Civil War, the valley supported Parliament, and so maintained its autonomy even after Feudalism started its slow death. It wasn't until the Victorian era that the system was replaced, but even then, the valley kept its distance from Westminster. Come 1974, we got put in this awkward halfway between a normal county and a devolved government."
+			"I'll say it again - you missed your calling." Chloe beamed. "The way you can just recall all of that... it's amazing."
+			"Hey, *I'm* the one who knew about the Caledwyri." Trey meekly protested.
+			"Yeah, but you only knew it because I infodump even harder when I'm stoned." Connor quipped.
 			The three laughed heartily, and Chloe stroked her chin.
 			"The word 'Bocka' sounds familiar. Is it a type of Celtic spirit, or something?"
 			"Yeah - specifically, it's Cornish. The Welsh have the Pwca, the Scots have the Pooka, we Irish have the Puca - to my knowledge, they come from the Middle English 'Puck,' which itself comes from the Scandinavian terms like Puki, Puke, and Pugi."
@@ -15363,7 +15388,7 @@ VOLUME - Wolves Among Sheep
 			Trey grabbed a wooden stick that hadn't been cast onto the fire, and waggled it.
 			Chloe rolled her eyes, and giggled.
 			"You forget, we're uncultured swine down here." Connor grinned.
-			"Says the man who just recited a folk tale from memory." she quipped, before sneezing. "Oh, excuse me."
+			"Says the man who just recited a pair of folk tales from memory." she quipped, before sneezing. "Oh, excuse me."
 			"Bless you." Connor said reflexively.
 			"Boo! Catholic!" Trey jeered.
 			She giggled. "Thank you, Connor."
@@ -22221,12 +22246,38 @@ VOLUME - Gods Among Men
 			Connor screamed, as he writhed in agony. Lightning danced over his skin and drove into his flesh.
 
 			"Hey, Mickey?" a guard called, motioning at his monitor.
-			"What's up?"
+			"You so fine, you so fine you blow my mind..." the other guard quipped.
+			The first rolled his eyes.
 			"Collar 19 is draining rapidly. Shall we check it out?"
 			"Nah... it's tied to a terrorist." Mickey growled. "We'll check it out once it's finished."
 
 			Convulsion after convulsion. Howl after howl.
-			His hearts raced like a stampede of buffalo.
+			His hearts raced like a stampede of bison.
+			Finally, the collar stopped buzzing, and Connor went still.
+			Shannon hesitated, before gingerly placing her fingers on his neck.
+			"Um... fuck. Fuck! I can't get a pulse." she gasped.
+			Trey jumped in. "Um... okay, chest compressions. You do his right heart, I'll do his left."
+			"Okay... 3, 2, 1, go!"
+			They stiffened their arms, pushed down, and... nothing.
+			"Damn it... his ribs are too strong! I can't shift them!"
+			"Move!" Troll barked, shoving both out of the way. He knelt down, raised both his fists in the air, and slammed them down.
+			*THUMP! THUMP! THUMP! THUMP! THUMP!*
+			"GAAAAAGH!" Connor roared, as he rolled onto his side.
+			"Wolf Man am okay?"
+			"Fuh... fuck... Jesus..." Connor panted, clutching his chest and coughing up blood. "Hah... thanks, big guy."
+			"Well, now the stupid part of the plan is sorted..." Goblin grinned. "You ready to go?"
+			"Stand away from the door!" a guard called out, preparing to enter.
+			"Right on cue." Connor grinned, rushing to the door's side.
+			It swung open, and his comrades yelped in pain as their collars activated.
+			"Where's number 19?" he barked, pulling the switch.
+			"Right behind you." Connor growled.
+			The guard shrieked, and grabbed his sidearm--too slow. Connor's hand shot out and wrested it free. Then, he whipped it around the man's head, took off the safety, pulled back the slide, and pressed it into the guard's temple.
+			"How do I deactivate our collars?" he said calmly.
+			"Uh--uh--there's a console in the security room." the guard stammered, a trickle of blood running down his cheek from the pistol-whip.
+			"Good. *MOVE.*"
+			The guard gulped, and did so. Connor stood behind his human shield, as his allies breathed in relief at the guard's departure.
+			"That's it. Few more steps." Connor whispered, pushing the pistol into the guard's lumbar. "Do as you're told, and you get to walk home tonight."
+			"Fucking terrorist. They were right about you lot."
 
 		The Great Escape... Again
 		______________________________
@@ -24438,7 +24489,17 @@ VOLUME - Gods Among Men
 			"That... that looks amazing." she gasped, reaching out and feeling the material.
 			"I wasn't too sure on the skirt." Connor shrugged.
 			"*Waist cape.*" Trey hissed. Connor grinned and raised his hands defensively.
-			"So... what does this mean?" she asked.
+			"Last but not least..." Ivan chuckled, bringing over a scabbard.
+			Amy took it gingerly, and drew from the hilt. Its damascened blade glinted in the light, and she clicked a switch by the guard. It hummed with anticipation.
+			"Jesus..." she whispered in awe, before turning it off. "Although, did you have to make it a katana? I get enough confusion from white people as it is." she grinned.
+			"Technically, it'd be a chokuto, since it's straight." Shannon began. She saw the cocked eyebrows, and rolled her eyes.
+			"I forgot you were a weeb." Trey quipped.
+			"This sword is the only straight thing about me." Amy added, grinning.
+			"Besides, chokuto are based off of Chinese swords anyway, so it's fine." Trey nodded.
+			The eyebrows turned to him, and he chuckled. "I fuckin' looked it up, okay?"
+			"It doesn't matter where the sword's from, it matters that it works." Connor cut in. "Besides, it's more like a cross between a Falchion and a Messer, anyway. Like, a single-edged bastard sword."
+			He paused, and sighed. "Seriously? No eyebrows?"
+			"We all know *you're* a fucking nerd." Amy snarked. "Um... what does this mean? Me having this sword, now."
 			"It means..." Connor smiled proudly, "Welcome to the team, Stunlocke."
 			"You--You mean it?!"
 			"I do. You proved yourself this afternoon."
@@ -24464,7 +24525,8 @@ VOLUME - Gods Among Men
 			Shannon grinned. "That reminds me. Verdict, you're on recon duty. I've sent you the location - another Gambit site. I doubt you'll need backup."
 			"Prinyal." he nodded, as he pulled his overcoat atop his tactical gear. The fact that such a coat was designed for Commissars to brave Siberia was a fairly good indicator of how terrible weather in Drackhill was.
 			"And lastly, Stunlocke - you're going to be patrolling Belson. We've just finished modifying your bike - now, it'll keep your suit charged as long as you're plugged in. If you see anything fishy, call me and we'll assess the threat."
-			"Sounds good." Amy beamed, taking her earpiece.
+			"And keep the sword sheathed - trust me, it's a sharp one." Connor nodded. "Last time me and a Vibroblade tangled, I lost a *lot* of blood. Like, enough to make Dracula cum."
+			"...lovely." Amy grimaced, before giggling and taking her earpiece.
 			"...*I* wanna be a superhero." Trey groaned.
 			Connor put his hands on his friend's shoulders, and smiled.
 			"We've got the field covered. If you really wanna help, give Shannon some help down here. *Not* that kind of help." he quickly corrected.
@@ -24713,7 +24775,7 @@ VOLUME - Gods Among Men
 			"Nyet - he's on the plane to Mexico now." Ivan shook his head. "We tell him, he'll either abandon the op - a very bad thing to do when the FBI is paying - or, he'll be distracted. No - we can handle this together."
 			"Damn right, we can." Sparky barked. "Oh... forgot no one could hear me."
 			Amy knelt down, and stroked his ears.
-			"Do you guys have any trackers, or anything?"
+			"Do we have any trackers, or anything?"
 			"We sure do." Trey grinned. He brought up a screen on the laptop.
 			"She's not moved from this warehouse. Working theory is, she's been kidnapped and held there."
 			"But why? By who?" Amy tilted her head.
@@ -25427,7 +25489,7 @@ VOLUME - Gods Among Men
 			Bea smiled. "That's good. I mean, good that he's not pushed for it."
 			Chloe smiled, and looked ahead.
 			Bea gave a sad smile. "Also, Amy told me about that 'Laverty' guy last night. I had no idea... we were up half the night drinking, just... trauma dumping at each other, I suppose."
-			"Hey, if me and Connor are any indication, that means you guys will start dating." Chloe chuckled.
+			"Hey, if Connor and I are any indication, that means you guys will start dating." Chloe chuckled.
 			Bea stifled a blush, as they walked on.
 			"Chlo... what's on your mind?"
 			"Hm?" Chloe tilted her head.
@@ -26458,7 +26520,7 @@ VOLUME - Gods Among Men
 			Connor was taken aback. "No. I do not need your help." he said as firmly as he could. "I will not make you get involved in this."
 			"I'm already involved, aren't I? I'm studying you." Chloe tilted her head, her nerves settling. "Look, someone... someone very dear to me told me once... there's the law, and there's plain old right and wrong."
 			Connor winced at those words - his words.
-			"You saved me and my friends - a couple of times, in fact. And your actions helped get my boyfriend out of prison. So, you can't be as bad as people say. And... I think something is going on here. Something bad. So, if you're here, that means you're investigating, right?"
+			"You saved my friends and I - a couple of times, in fact. And your actions helped get my boyfriend out of prison. So, you can't be as bad as people say. And... I think something is going on here. Something bad. So, if you're here, that means you're investigating, right?"
 			"I am... but... I don't need your help. You could get hurt, and unlike me, you stay hurt." he replied, his voice faltering ever-so-slightly.--
 			"Look, here - my keycard." she said, grabbing it from her jacket. "I can use this to get us into the lower levels. I've only gone there once myself, but I still have access. I know they're doing some experiments down there - maybe it's connected to your work? I, um... I've had doubts about this place. You investigating here just confirms it."
 			"It is not safe." Connor countered. "You've seen the bodies of the men I kill. If they learned you were helping me... they'd kill you. Don't think they wouldn't."
@@ -31793,7 +31855,22 @@ VOLUME - Age of Heroes
 			"Thanks, sis." Connor smiled. "Any problems--"
 			"I'll phone *Trey,* not you." she said firmly, before grinning. "Anyway - fuck off, lovebirds. You're gonna be late."
 			"Wow, you can just *feel* the love, eh?" Connor grinned.
-			"Don't think, just because you've got powers, I can't kick your arse." she jabbed. With that, the laughing gang parted ways for the night.
+			"Don't think, just because you've got powers, I can't kick your arse." she jabbed.
+			"Oh, I almost forgot!" Shannon nodded, pulling a box out of her bag.
+			"Uh, happy Valentine's to you, too." Amy quipped, before opening it.
+			"Oh. That's fuckin' *sick!*" she cheered, raising the pair of black metal cylinders into the air.
+			"...yeah, I've always wanted cylinders." Trey cocked an eyebrow.
+			"No, we--we've been working on kitting Amy out a little bit more. I finished these off earlier." Shannon explained.
+			Amy grinned, and snapped the objects downwards. Immediately, they extended like telescopes.
+			"A pair of batons. That's pretty cool." Connor nodded.
+			"Just wait." Amy smirked, before clicking a button on the hilts. Red LEDs came to life, and they hummed with electricity.
+			"Stun batons - even better." Bea beamed.
+			"Stun escrima sticks, to be precise." Shannon noted.
+			"Oh, Shan, how many times? She's Chinese, not Filipino!" Trey laughed. "We'll get the same stink we got from the chokuto debate."
+			"Oh, no no." Amy grinned cheekily, before raising the batons and pressing their hilts together. Immediately, magnets at the bases locked together, and she spun the pair in unison.
+			"They combine into a Bo staff. Which is Chinese. So therefore, it's fine." Shannon quipped.
+			"It beats Skinners to a pulp - I could give a fuck where it's from." Amy laughed. "Hey, meatheads! Enjoy tonight - by the time I'm done, there won't be a city left to patrol."
+			With that, the laughing gang parted ways for the night.
 
 		Valentine's Day beginning
 		______________________________
@@ -32326,7 +32403,8 @@ VOLUME - Age of Heroes
 			"So why'd he look so different?" asked Ivan.
 			"That's the thing... their paired chromosomes." she shuddered. "17 pairs. Humans have 23, wolves have 39, rats have 21. The 17 have no analogue to any known species on Earth. We've only been calling them 'he' out of convenience - I have no idea based on the genetics whether they're male or female. The autopsies done by the KGB didn't look into gametes or genitalia, but... that's not important, anyway."
 			"So... the Judge is an alien?" Trey gasped.
-			"I... it's looking that way, yeah." she hesitantly nodded. "Presumably, whatever was done to you three in-utero was done to them, too."
+			"I... it's looking that way, yeah." she hesitantly nodded. "Presumably, whatever was done to you three in-utero was done to them, too. I couldn't establish any common markers between the fifteen unpaired and their 17 pairs - implying the 'Werewolf' DNA is as foreign to their species as it is to humans."
+			"Great. *Two* different alien species then." Trey groaned.
 			"He--they--definitely spoke like they were from another planet." Connor noted. "Kept calling me 'heretic' and 'youngblood' - mentioned 'the Lord.' Must be their religion."
 			"Confirms our suspicions - our mutations aren't from Earth." Trey sighed. "One existential crisis at a time."
 			"Boo hoo, you're not human. Humans aren't that great." Sparky quipped. The boys chuckled, allowing the moment.

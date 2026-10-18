@@ -1,6 +1,6 @@
 # Bloodhound — Interactive Anthology Reader
 
-An interactive web-based reader for the "Bloodhound" anthology series.
+An interactive web-based reader for the "Bloodhound" anthology series and related works.
 
 ## About
 This project presents the "Bloodhound" anthology in a chapter-verse style format, allowing readers to navigate by Volume, Episode, and Scene.

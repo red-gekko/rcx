@@ -2383,3 +2383,144 @@
     outline: 2px solid #58a6ff;
     outline-offset: 2px;
 }
+
+/* ============================================================ */
+/* LANDING PAGE — Continue-reading banner                       */
+/* ============================================================ */
+
+.continue-banner {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 18px;
+    margin: 0 0 24px 0;
+    background: linear-gradient(135deg, #1c2a3a, #162433);
+    border: 1px solid #2a4a6a;
+    border-radius: 10px;
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px solid #2a4a6a;
+    transition: border-color 0.2s, background 0.2s, transform 0.1s;
+}
+
+.continue-banner:hover {
+    border-color: #58a6ff;
+    background: linear-gradient(135deg, #24405c, #1c2a3a);
+    color: inherit;
+    border-bottom-color: #58a6ff;
+    text-decoration: none;
+}
+
+.continue-banner:active {
+    transform: scale(0.995);
+}
+
+.continue-banner:focus-visible {
+    outline: 2px solid #58a6ff;
+    outline-offset: 3px;
+}
+
+.continue-banner-icon {
+    font-size: 1.8rem;
+    flex-shrink: 0;
+    line-height: 1;
+}
+
+.continue-banner-body {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.continue-banner-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    font-weight: 600;
+    color: #8b949e;
+}
+
+.continue-banner-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #f0f6fc;
+    letter-spacing: -0.2px;
+}
+
+.continue-banner-where {
+    font-size: 0.82rem;
+    color: #8b949e;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.continue-banner-cta {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #79b8ff;
+    letter-spacing: 0.3px;
+    flex-shrink: 0;
+    transition: color 0.2s;
+}
+
+.continue-banner:hover .continue-banner-cta {
+    color: #a0c8f0;
+}
+
+@media (max-width: 480px) {
+    .continue-banner {
+        padding: 12px 14px;
+        gap: 12px;
+    }
+    .continue-banner-icon {
+        font-size: 1.5rem;
+    }
+    .continue-banner-title {
+        font-size: 0.98rem;
+    }
+    .continue-banner-cta {
+        display: none;
+    }
+}
+.gate-overlay {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.65);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 9999;
+}
+.gate-modal {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    padding: 22px 24px;
+    max-width: 420px;
+    width: calc(100% - 40px);
+    color: #e6edf3;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+}
+.gate-modal h3 { margin: 0 0 10px; font-size: 1.15rem; }
+.gate-modal p { margin: 0 0 14px; color: #c9d1d9; font-size: 0.92rem; line-height: 1.5; }
+.gate-modal small { color: #8b949e; }
+.gate-modal input[type="password"] {
+    width: 100%;
+    padding: 9px 11px;
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 6px;
+    color: #e6edf3;
+    font-size: 0.95rem;
+    box-sizing: border-box;
+}
+.gate-modal input[type="password"]:focus { outline: none; border-color: #58a6ff; }
+.gate-error { color: #f85149; font-size: 0.85rem; min-height: 1.1em; margin: 6px 0 4px; }
+.gate-actions { display: flex; justify-content: flex-end; gap: 8px; margin-top: 8px; }
+.gate-actions button {
+    padding: 7px 14px; border-radius: 6px;
+    border: 1px solid #30363d; background: #21262d;
+    color: #e6edf3; cursor: pointer; font-size: 0.9rem;
+}
+.gate-actions #gate-submit { background: #238636; border-color: #2ea043; }
+.gate-actions button:hover { filter: brightness(1.1); }

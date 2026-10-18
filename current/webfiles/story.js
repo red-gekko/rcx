@@ -7,7 +7,16 @@
         (function() {
             'use strict';
 
-            const STORY_FILE = 'bloodhound story scenes-WIP.txt';
+            /* ========== PER-PAGE CONFIG ========== */
+            // Each story.html sets window.STORY_CONFIG *before* loading this
+            // script. Fall back to Bloodhound defaults if a page forgets.
+            const CONFIG = window.STORY_CONFIG || {};
+            const STORY_FILE     = CONFIG.file          || 'bloodhound story scenes-WIP.txt';
+            const STORY_TITLE    = CONFIG.title         || 'Bloodhound';
+            const STORAGE_PREFIX = CONFIG.storagePrefix || 'bloodhoundReader';
+            const SERVER_GATE_HASH = (CONFIG.serverGateHash || '').toLowerCase().trim();
+            const SERVER_GATE_SESSION_KEY = `${STORAGE_PREFIX}.serverUnlocked.v1`;
+
             const PAUSE_BASE_MS = 500;
             const AUTOPLAY_DELAY_SEC = 2;
             const CHUNK_MAX_LEN = 320;
@@ -20,9 +29,9 @@
             const SCENE_GAP_BLANK_LINES = 4;
 
             const STORAGE_KEYS = {
-                preferences: 'bloodhoundReader.preferences.v2',
-                progress: 'bloodhoundReader.progress.v1',
-                storyCache: 'bloodhoundReader.storyCache.v1'
+                preferences: `${STORAGE_PREFIX}.preferences.v2`,
+                progress:    `${STORAGE_PREFIX}.progress.v1`,
+                storyCache:  `${STORAGE_PREFIX}.storyCache.v1`
             };
 
             // Divider markers live in the content string using a sentinel so
@@ -77,6 +86,7 @@
             const sceneNextBtnBottom = document.getElementById('scene-next-btn-bottom');
             const sceneNavSpacerBottom = document.getElementById('scene-nav-spacer-bottom');
             const copySceneBtn = document.getElementById('copy-scene-btn');
+            const downloadStoryBtn = document.getElementById('download-story-btn');
             const uploadSourceBtn = document.getElementById('upload-source-btn');
             const serverSourceBtn = document.getElementById('server-source-btn');
             const clearStoryBtn = document.getElementById('clear-story-btn');
@@ -123,6 +133,20 @@
             // ── Copy Content prefs ──
             let copyIncludeHeader = true;
 
+            // ── Bottom-button visibility prefs ──
+            let showUploadBtn   = true;
+            let showServerBtn   = true;
+            let showClearBtn    = true;
+            let showCopyBtn     = true;
+            let showDownloadBtn = true;
+            let showClearProgressBtn = true;
+
+            // ── Server gate state ──
+            let serverGateUnlocked = false;
+
+            // ── Raw loaded story text (for Download File) ──
+            let currentStoryText = '';
+
             // ── Narration prefs ──
             let screenAwakeEnabled = true;
 
@@ -139,6 +163,18 @@
             let wakeLockSentinel = null;
             let wakeLockSupported = ('wakeLock' in navigator);
             let wakeLockRequestPending = false;
+
+            /* ========== PAGE TITLE SYNC ========== */
+
+            // Keep <title> and the h1 span in sync with the configured title.
+            // (If the page already hard-codes them, this is a harmless no-op.)
+            try {
+                document.title = `${STORY_TITLE} — Interactive Reader + TTS`;
+                const titleSpan = document.querySelector('h1 > span');
+                if (titleSpan) titleSpan.textContent = STORY_TITLE;
+                const fileLabelCode = document.querySelector('.file-label code');
+                if (fileLabelCode) fileLabelCode.textContent = STORY_FILE;
+            } catch (e) { /* non-fatal */ }
 
             /* ========== STORAGE ========== */
 
@@ -170,6 +206,12 @@
                     if (typeof prefs.copyIncludeHeader === 'boolean') copyIncludeHeader = prefs.copyIncludeHeader;
                     if (typeof prefs.screenAwakeEnabled === 'boolean') screenAwakeEnabled = prefs.screenAwakeEnabled;
                     if (typeof prefs.voiceIndex === 'string') selectedVoiceIndex = prefs.voiceIndex;
+                    if (typeof prefs.showUploadBtn   === 'boolean') showUploadBtn   = prefs.showUploadBtn;
+                    if (typeof prefs.showServerBtn   === 'boolean') showServerBtn   = prefs.showServerBtn;
+                    if (typeof prefs.showClearBtn    === 'boolean') showClearBtn    = prefs.showClearBtn;
+                    if (typeof prefs.showCopyBtn     === 'boolean') showCopyBtn     = prefs.showCopyBtn;
+                    if (typeof prefs.showDownloadBtn === 'boolean') showDownloadBtn = prefs.showDownloadBtn;
+                    if (typeof prefs.showClearProgressBtn === 'boolean') showClearProgressBtn = prefs.showClearProgressBtn;
                 } catch (e) { console.warn('Preference restore failed:', e); }
             }
 
@@ -180,6 +222,12 @@
                     voiceName = v.name; voiceLang = v.lang;
                 }
                 storageSet(STORAGE_KEYS.preferences, JSON.stringify({
+                    showUploadBtn,
+                    showServerBtn,
+                    showClearBtn,
+                    showCopyBtn,
+                    showDownloadBtn,
+                    showClearProgressBtn,
                     playbackRate,
                     autoplayEnabled,
                     wholeEpisodeMode,
@@ -203,15 +251,72 @@
             function saveReadingProgress() {
                 if (!storyData || !currentStoryFingerprint || !volumeSelect.value || !episodeSelect.value) return;
                 if (!isWholeModeActive() && !sceneSelect.value) return;
+
+                // Resolve names + ordinals for the currently-selected items.
+                // Volumes are 0-based (Volume 0 is reserved for the codex /
+                // primer / foreword), episodes and scenes are 1-based.
+                // Names are what the landing page reads — the raw episode /
+                // scene fields below are IDs and aren't human-readable.
+                let volumeName = volumeSelect.value;   // this one is already a name
+                let episodeName = '';
+                let sceneName = '';
+                let volumeNumber = null, episodeNumber = null, sceneNumber = null;
+
+                try {
+                    const volValue = volumeSelect.value;
+                    let vi = storyData.volumes.findIndex(v => v.name === volValue);
+                    if (vi < 0) vi = storyData.volumes.findIndex(v => String(v.name).trim() === String(volValue).trim());
+                    logDebug(`saveProgress: volume "${volValue}" → index ${vi}`);
+
+                    if (vi >= 0) {
+                        volumeNumber = vi;                 // 0-based
+                        const vol = storyData.volumes[vi];
+                        volumeName = vol.name || volumeName;
+
+                        const epValue = episodeSelect.value;
+                        let ei = vol.episodes.findIndex(e => e.id === epValue);
+                        if (ei < 0) ei = vol.episodes.findIndex(e => e.name === epValue);
+                        logDebug(`saveProgress: episode "${epValue}" → index ${ei} (of ${vol.episodes.length})`);
+
+                        if (ei >= 0) {
+                            episodeNumber = ei + 1;
+                            const ep = vol.episodes[ei];
+                            episodeName = ep.name || '';
+
+                            if (!isWholeModeActive() && sceneSelect.value) {
+                                const scValue = sceneSelect.value;
+                                let si = ep.scenes.findIndex(s => s.id === scValue);
+                                if (si < 0) si = ep.scenes.findIndex(s => s.name === scValue);
+                                logDebug(`saveProgress: scene "${scValue}" → index ${si} (of ${ep.scenes.length})`);
+                                if (si >= 0) {
+                                    sceneNumber = si + 1;
+                                    sceneName = ep.scenes[si].name || '';
+                                }
+                            }
+                        }
+                    }
+                } catch (e) {
+                    logDebug(`saveProgress: exception — ${e.message || e}`);
+                }
+
+                logDebug(`saveProgress: final = vol#${volumeNumber} "${volumeName}", ep#${episodeNumber} "${episodeName}", sc#${sceneNumber} "${sceneName}"`);
+
                 storageSet(STORAGE_KEYS.progress, JSON.stringify({
                     fingerprint: currentStoryFingerprint,
+                    // Raw select values (kept for backward-compat / resume matching).
                     volume: volumeSelect.value,
                     episode: episodeSelect.value,
                     scene: isWholeModeActive() ? '' : sceneSelect.value,
+                    // Human-readable labels + ordinals.
+                    volumeName,
+                    episodeName,
+                    sceneName,
+                    volumeNumber,
+                    episodeNumber,
+                    sceneNumber,
                     wholeEpisode: wholeEpisodeMode,
                     wholeVolume: wholeVolumeMode,
                     wholeSeries: wholeSeriesMode,
-                    sceneName: currentSceneName,
                     savedAt: Date.now()
                 }));
             }
@@ -346,7 +451,6 @@
             if (!wakeLockSupported) {
                 logDebug('Wake Lock API unavailable — screen may turn off during long narration.');
             }
-
             /* ========== SPEECH TEXT SANITIZER ========== */
 
             function sanitizeForSpeech(text) {
@@ -598,11 +702,9 @@
                 updateChunkUI();
             }
 
-            /* ========== COPY CONTENT ========== */
+            /* ========== COPY / DOWNLOAD ========== */
 
             async function copyCurrentContentToClipboard() {
-                // Store the raw text but strip any divider sentinels for the
-                // copied output so it looks clean on paste.
                 let bodyPlain = stripDividerMarksForPlain(currentSceneText || '');
 
                 let text = '';
@@ -612,7 +714,6 @@
                     text = bodyPlain;
                 }
 
-                // A few blank lines at the end of the copied text.
                 text = text + '\n\n\n\n';
 
                 if (!text.trim()) {
@@ -649,6 +750,123 @@
 
             copySceneBtn.addEventListener('click', copyCurrentContentToClipboard);
 
+            function downloadCurrentStory() {
+                let text = currentStoryText;
+                if (!text) {
+                    const cached = getCachedStory();
+                    if (cached && cached.text) text = cached.text;
+                }
+                if (!text) { setStatus('No story loaded to download.', true); return; }
+
+                const name = currentStorySource && currentStorySource.startsWith('local:')
+                    ? currentStorySource.slice(6)
+                    : (STORY_FILE.split('/').pop().split('?')[0] || 'story.txt');
+
+                const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = name;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+                setStatus(`⬇ Downloaded: ${name}`);
+                logDebug(`Download File: ${name} (${text.length} chars)`);
+            }
+
+            if (downloadStoryBtn) {
+                downloadStoryBtn.addEventListener('click', downloadCurrentStory);
+            }
+
+            /* ========== SERVER GATE ========== */
+
+            function isServerGateEnabled() {
+                return SERVER_GATE_HASH.length === 64;
+            }
+
+            function readGateSession() {
+                try { return sessionStorage.getItem(SERVER_GATE_SESSION_KEY) === '1'; }
+                catch (e) { return false; }
+            }
+
+            function writeGateSession() {
+                try { sessionStorage.setItem(SERVER_GATE_SESSION_KEY, '1'); } catch (e) {}
+            }
+
+            async function sha256Hex(str) {
+                const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(str));
+                return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, '0')).join('');
+            }
+
+            function promptForPassword() {
+                return new Promise(resolve => {
+                    const overlay = document.createElement('div');
+                    overlay.className = 'gate-overlay';
+                    overlay.innerHTML = `
+                        <div class="gate-modal" role="dialog" aria-modal="true" aria-labelledby="gate-title">
+                            <h3 id="gate-title">🔒 Server Access</h3>
+                            <p>Enter the password to reload the story from the server.<br>
+                               <small>Loading from your computer and resuming your saved position remain unrestricted.</small></p>
+                            <input type="password" id="gate-password-input" autocomplete="current-password" placeholder="Password">
+                            <div class="gate-error" id="gate-error" aria-live="polite"></div>
+                            <div class="gate-actions">
+                                <button type="button" id="gate-cancel">Cancel</button>
+                                <button type="button" id="gate-submit">Unlock</button>
+                            </div>
+                        </div>
+                    `;
+                    document.body.appendChild(overlay);
+
+                    const input = overlay.querySelector('#gate-password-input');
+                    const errEl = overlay.querySelector('#gate-error');
+                    const submit = overlay.querySelector('#gate-submit');
+                    const cancel = overlay.querySelector('#gate-cancel');
+
+                    function close(value) {
+                        document.removeEventListener('keydown', onKey);
+                        overlay.remove();
+                        resolve(value);
+                    }
+                    function onKey(e) { if (e.key === 'Escape') close(null); }
+                    document.addEventListener('keydown', onKey);
+
+                    submit.addEventListener('click', () => {
+                        if (!input.value) { errEl.textContent = 'Password required.'; return; }
+                        close(input.value);
+                    });
+                    cancel.addEventListener('click', () => close(null));
+                    input.addEventListener('keydown', e => {
+                        if (e.key === 'Enter') { e.preventDefault(); submit.click(); }
+                    });
+                    setTimeout(() => input.focus(), 30);
+                });
+            }
+
+            async function ensureServerGateUnlocked() {
+                if (!isServerGateEnabled()) return true;
+                if (serverGateUnlocked) return true;
+                if (readGateSession()) { serverGateUnlocked = true; return true; }
+
+                const pwd = await promptForPassword();
+                if (pwd === null) {
+                    setStatus('Server load cancelled.', true);
+                    return false;
+                }
+
+                const hashed = await sha256Hex(pwd);
+                if (hashed !== SERVER_GATE_HASH) {
+                    setStatus('Incorrect password — server load blocked.', true);
+                    logDebug('Server gate: incorrect password.');
+                    return false;
+                }
+
+                serverGateUnlocked = true;
+                writeGateSession();
+                logDebug('Server gate: unlocked for this session.');
+                setStatus('Server access unlocked for this session.');
+                return true;
+            }
             /* ========== NAVIGATION LISTS ========== */
 
             function isWholeModeActive() {
@@ -819,9 +1037,9 @@
                 if (wholeSeriesMode) {
                     if (!storyData || !storyData.volumes.length) return null;
                     return {
-                        title: 'Bloodhound',
+                        title: STORY_TITLE,
                         body: buildWholeSeriesTextInternal(),
-                        header: 'SERIES - Bloodhound'
+                        header: 'SERIES - ' + STORY_TITLE
                     };
                 }
                 if (wholeVolumeMode) {
@@ -1000,6 +1218,15 @@
                 selectSceneByFlatIndex(flatIndex + 1, !!autoStart);
             }
 
+            function applyBottomButtonVisibility() {
+                uploadSourceBtn.style.display   = showUploadBtn   ? '' : 'none';
+                serverSourceBtn.style.display   = showServerBtn   ? '' : 'none';
+                clearStoryBtn.style.display     = showClearBtn    ? '' : 'none';
+                copySceneBtn.style.display      = showCopyBtn     ? '' : 'none';
+                if (downloadStoryBtn) downloadStoryBtn.style.display = showDownloadBtn ? '' : 'none';
+                if (clearProgressBtn) clearProgressBtn.style.display = showClearProgressBtn ? '' : 'none'
+            }
+
             function updateSceneNavButtons() {
                 const list = getCurrentNavList();
 
@@ -1011,6 +1238,8 @@
                     sceneNextBtnBottom.disabled = true;
                     sceneNavSpacerBottom.textContent = '—';
                     copySceneBtn.disabled = true;
+                    if (downloadStoryBtn) downloadStoryBtn.disabled = true;
+                    applyBottomButtonVisibility();
                     return;
                 }
 
@@ -1023,6 +1252,8 @@
                     sceneNextBtnBottom.disabled = true;
                     sceneNavSpacerBottom.textContent = '—';
                     copySceneBtn.disabled = true;
+                    if (downloadStoryBtn) downloadStoryBtn.disabled = true;
+                    applyBottomButtonVisibility();
                     return;
                 }
 
@@ -1052,6 +1283,8 @@
 
                 const hasScene = !!currentSceneText && !helpVisible && !settingsVisible;
                 copySceneBtn.disabled = !hasScene;
+                if (downloadStoryBtn) downloadStoryBtn.disabled = !hasActiveReadingProgress();
+                applyBottomButtonVisibility();
             }
 
             function handlePrevSceneNavigation() { goToPrevNav(); }
@@ -1064,13 +1297,15 @@
 
             /* ========== HELP & SETTINGS PANELS ========== */
 
-            const HELP_HTML = `
+            function helpHTML() {
+                const t = escapeHtml(STORY_TITLE);
+                return `
                 <div class="help-panel">
                     <h3>📄 Site Pages</h3>
                     <ul>
                         <li><a href="legal.html" rel="noopener">Legal Disclaimer &amp; Contact</a> — Full legal disclaimer, copyright and IP information, and a contact form for legal or licensing enquiries.</li>
-                        <li><a href="contentwarning.html" rel="noopener">Content Warning</a> — An in-depth guide to the sensitive content depicted in <em>Bloodhound</em>, including an episode-by-episode breakdown, support resources, and a form to suggest changes.</li>
-                        <li><a href="splitter.html" rel="noopener">Splitter</a> — A small tool for splitting the story file into separate episode .txt files, packaged as a downloadable .zip.</li>
+                        <li><a href="contentwarning.html" rel="noopener">Content Warning</a> — An in-depth guide to the sensitive content depicted in <em>${t}</em>, including an episode-by-episode breakdown, support resources, and a form to suggest changes.</li>
+                        <li><a href="../misc/splitter.html" rel="noopener">Splitter</a> — A small tool for splitting the story file into separate episode .txt files, packaged as a downloadable .zip.</li>
                     </ul>
                     <h3>📖 Reading &amp; Navigation</h3>
                     <p>The three dropdowns at the top let you pick a <strong>Volume</strong>, <strong>Episode</strong>, and <strong>Scene</strong>. When a story is loaded, the first available item in each list is chosen automatically.</p>
@@ -1105,6 +1340,7 @@
                         <li><strong>🔄 Reload from Server</strong> — Clear the currently loaded story and fetch the latest version from the server.</li>
                         <li><strong>🧹 Clear Loaded Story</strong> — Unload the current story without touching your saved reading position or offline cache.</li>
                         <li><strong>📋 Copy Content</strong> — Copy the current content to your clipboard. Settings controls whether the header is included.</li>
+                        <li><strong>⬇ Download File</strong> — Save the currently loaded story file to your device as a .txt file.</li>
                     </ul>
 
                     <h3>💾 Reader Convenience</h3>
@@ -1122,6 +1358,7 @@
                     <span class="help-hint">Press the Help button again to close this panel and return to your content.</span>
                 </div>
             `;
+            }
 
             function settingsHTML() {
                 return `
@@ -1184,6 +1421,87 @@
                             <label class="settings-toggle">
                                 <input type="checkbox" id="settings-copy-include-header">
                                 <span id="settings-copy-include-header-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <h3>🧰 Bottom Toolbar</h3>
+                    <p>Choose which buttons appear beneath the reader. Hiding a button is a <em>display</em> preference only — it is not access control.</p>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-upload-btn">
+                            Show "Load from Computer"
+                            <span class="settings-row-hint">The 📂 button in the bottom toolbar.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-upload-btn">
+                                <span id="settings-show-upload-btn-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-server-btn">
+                            Show "Reload from Server"
+                            <span class="settings-row-hint">The 🔄 button in the bottom toolbar.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-server-btn">
+                                <span id="settings-show-server-btn-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-clear-btn">
+                            Show "Clear Loaded Story"
+                            <span class="settings-row-hint">The 🧹 button in the bottom toolbar.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-clear-btn">
+                                <span id="settings-show-clear-btn-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-copy-btn">
+                            Show "Copy Content"
+                            <span class="settings-row-hint">The 📋 button in the bottom toolbar.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-copy-btn">
+                                <span id="settings-show-copy-btn-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-download-btn">
+                            Show "Download File"
+                            <span class="settings-row-hint">The ⬇ button in the bottom toolbar.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-download-btn">
+                                <span id="settings-show-download-btn-state">On</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-show-clear-progress-btn">
+                            Show "Clear Saved Progress"
+                            <span class="settings-row-hint">The 🗑 button in the session controls.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-show-clear-progress-btn">
+                                <span id="settings-show-clear-progress-btn-state">On</span>
                             </label>
                         </span>
                     </div>
@@ -1292,11 +1610,90 @@
                 const speedReadoutEl = $('settings-speed-readout');
                 if (speedReadoutEl) speedReadoutEl.textContent = playbackRate.toFixed(2) + '×';
 
+                const su = $('settings-show-upload-btn');
+                if (su) { su.checked = showUploadBtn; $('settings-show-upload-btn-state').textContent = showUploadBtn ? 'On' : 'Off'; }
+                const ss = $('settings-show-server-btn');
+                if (ss) { ss.checked = showServerBtn; $('settings-show-server-btn-state').textContent = showServerBtn ? 'On' : 'Off'; }
+                const sc = $('settings-show-clear-btn');
+                if (sc) { sc.checked = showClearBtn;  $('settings-show-clear-btn-state').textContent  = showClearBtn  ? 'On' : 'Off'; }
+                const sy = $('settings-show-copy-btn');
+                if (sy) { sy.checked = showCopyBtn;   $('settings-show-copy-btn-state').textContent   = showCopyBtn   ? 'On' : 'Off'; }
+                const sd = $('settings-show-download-btn');
+                if (sd) { sd.checked = showDownloadBtn; $('settings-show-download-btn-state').textContent = showDownloadBtn ? 'On' : 'Off'; }
+                const scp = $('settings-show-clear-progress-btn');
+                if (scp) { scp.checked = showClearProgressBtn; $('settings-show-clear-progress-btn-state').textContent = showClearProgressBtn ? 'On' : 'Off'; }
+
                 buildSettingsVoiceDropdown();
             }
 
             function attachSettingsListeners() {
                 const $ = (id) => document.getElementById(id);
+
+                const showUpload = $('settings-show-upload-btn');
+                if (showUpload && !showUpload.dataset.bound) {
+                    showUpload.dataset.bound = '1';
+                    showUpload.addEventListener('change', function() {
+                        showUploadBtn = this.checked;
+                        $('settings-show-upload-btn-state').textContent = showUploadBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
+
+                const showServer = $('settings-show-server-btn');
+                if (showServer && !showServer.dataset.bound) {
+                    showServer.dataset.bound = '1';
+                    showServer.addEventListener('change', function() {
+                        showServerBtn = this.checked;
+                        $('settings-show-server-btn-state').textContent = showServerBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
+
+                const showClear = $('settings-show-clear-btn');
+                if (showClear && !showClear.dataset.bound) {
+                    showClear.dataset.bound = '1';
+                    showClear.addEventListener('change', function() {
+                        showClearBtn = this.checked;
+                        $('settings-show-clear-btn-state').textContent = showClearBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
+
+                const showCopy = $('settings-show-copy-btn');
+                if (showCopy && !showCopy.dataset.bound) {
+                    showCopy.dataset.bound = '1';
+                    showCopy.addEventListener('change', function() {
+                        showCopyBtn = this.checked;
+                        $('settings-show-copy-btn-state').textContent = showCopyBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
+
+                const showDownload = $('settings-show-download-btn');
+                if (showDownload && !showDownload.dataset.bound) {
+                    showDownload.dataset.bound = '1';
+                    showDownload.addEventListener('change', function() {
+                        showDownloadBtn = this.checked;
+                        $('settings-show-download-btn-state').textContent = showDownloadBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
+
+                const showClearProgress = $('settings-show-clear-progress-btn');
+                if (showClearProgress && !showClearProgress.dataset.bound) {
+                    showClearProgress.dataset.bound = '1';
+                    showClearProgress.addEventListener('change', function() {
+                        showClearProgressBtn = this.checked;
+                        $('settings-show-clear-progress-btn-state').textContent = showClearProgressBtn ? 'On' : 'Off';
+                        savePreferences();
+                        applyBottomButtonVisibility();
+                    });
+                }
 
                 const includeScene = $('settings-include-scene-headers');
                 if (includeScene && !includeScene.dataset.bound) {
@@ -1372,7 +1769,6 @@
                     voiceSel.dataset.bound = '1';
                     voiceSel.addEventListener('change', function() {
                         selectedVoiceIndex = voiceSel.value;
-                        // Keep legacy dropdown in sync if present.
                         if (voiceSelect) voiceSelect.value = selectedVoiceIndex;
                         savePreferences();
                         logDebug(`Voice: selected index ${selectedVoiceIndex || '(default)'}`);
@@ -1389,8 +1785,8 @@
                 pauseNarrationForPanel();
 
                 contentArea.innerHTML = `
-                    <h2 class="scene-title">📚 Help — Bloodhound Reader</h2>
-                    <div class="scene-content help-panel-wrapper">${HELP_HTML}</div>
+                    <h2 class="scene-title">📚 Help — ${escapeHtml(STORY_TITLE)} Reader</h2>
+                    <div class="scene-content help-panel-wrapper">${helpHTML()}</div>
                 `;
                 sceneContentEl = null;
 
@@ -1411,7 +1807,7 @@
                 pauseNarrationForPanel();
 
                 contentArea.innerHTML = `
-                    <h2 class="scene-title">⚙️ Settings — Bloodhound Reader</h2>
+                    <h2 class="scene-title">⚙️ Settings — ${escapeHtml(STORY_TITLE)} Reader</h2>
                     <div class="scene-content settings-panel-wrapper">${settingsHTML()}</div>
                 `;
                 sceneContentEl = null;
@@ -1545,15 +1941,11 @@
                 availableVoices = window.speechSynthesis.getVoices();
                 logDebug(`Voices available: ${availableVoices.length}`);
 
-                // Only auto-pick a preferred voice if the user hasn't already
-                // picked one (or prefs restored one). Otherwise, respect their
-                // current selection.
                 if (selectedVoiceIndex === '') {
                     const preferredIdx = pickPreferredVoiceIndex();
                     if (preferredIdx >= 0) selectedVoiceIndex = String(preferredIdx);
                 }
 
-                // Legacy dropdown (if present).
                 if (voiceSelect) {
                     voiceSelect.innerHTML = '';
                     const defaultOption = document.createElement('option');
@@ -1580,7 +1972,6 @@
                     voiceSelect.value = selectedVoiceIndex;
                 }
 
-                // Refresh the Settings dropdown if the panel is open.
                 if (settingsVisible) buildSettingsVoiceDropdown();
             }
 
@@ -1637,8 +2028,6 @@
 
                     lastWasPause = false;
 
-                    // Divider lines: emit them as a single chunk so the viewer
-                    // can render them, but playChunkAt() will skip them.
                     if (isDividerLine(trimmed)) {
                         chunks.push({
                             text: trimmed,
@@ -1718,11 +2107,9 @@
                     }
                 }, 5000);
             }
-
             function playChunkAt(index) {
                 if (index < 0) index = 0;
 
-                // Skip divider chunks: they're structural, not spoken.
                 while (
                     index < chunks.length &&
                     chunks[index] &&
@@ -2027,6 +2414,7 @@
                     replayBtn.disabled = true;
                     nextBtn.disabled = true;
                     copySceneBtn.disabled = true;
+                    if (downloadStoryBtn) downloadStoryBtn.disabled = true;
                     updateSceneNavButtons();
                     return;
                 }
@@ -2277,8 +2665,6 @@
 
                 saveEpisode();
 
-                // Post-cleanup: remove stray trailing lines that look like a
-                // scene name left behind.
                 volumes.forEach(volume => {
                     volume.episodes.forEach(episode => {
                         episode.scenes.forEach(scene => {
@@ -2305,7 +2691,6 @@
                     });
                 });
 
-                // Stable IDs.
                 volumes.forEach((volume, volumeIndex) => {
                     volume.episodes.forEach((episode, episodeIndex) => {
                         episode.id = `episode-${volumeIndex}-${episodeIndex}`;
@@ -2321,7 +2706,6 @@
             /* ========== WHOLE-* TOGGLE GLUE ========== */
 
             function applyWholeTogglesFromState() {
-                // Widest wins.
                 if (wholeSeriesMode) { wholeVolumeMode = false; wholeEpisodeMode = false; }
                 else if (wholeVolumeMode) { wholeSeriesMode = false; wholeEpisodeMode = false; }
                 else if (wholeEpisodeMode) { wholeSeriesMode = false; wholeVolumeMode = false; }
@@ -2333,6 +2717,8 @@
                 sceneSelect.disabled = isWholeModeActive();
                 episodeSelect.disabled = wholeSeriesMode;
                 volumeSelect.disabled = false;
+
+                applyBottomButtonVisibility();
             }
 
             wholeEpisodeToggle.addEventListener('change', function() {
@@ -2608,6 +2994,7 @@
                 currentSceneHeader = '';
                 sceneContentEl = null;
                 storyData = null;
+                currentStoryText = '';
 
                 speakBtn.textContent = '🔊 Speak Scene';
                 pauseBtn.textContent = '⏸ Pause';
@@ -2630,6 +3017,7 @@
                     const parsed = parseStory(text);
                     storyData = parsed;
                     currentStoryFingerprint = makeStoryFingerprint(text);
+                    currentStoryText = text;
                     pendingResumeProgress = getSavedProgress();
 
                     if (!storyData.volumes || storyData.volumes.length === 0) {
@@ -2688,8 +3076,14 @@
                 reader.readAsText(file);
             });
 
-            function loadStoryFromServer(explicit) {
+            async function loadStoryFromServer(explicit) {
                 if (!confirmStoryReplacement('Reloading from the server')) return;
+
+                // Password gate — only blocks the explicit server-load path.
+                if (explicit && isServerGateEnabled() && !(await ensureServerGateUnlocked())) {
+                    return;
+                }
+
                 serverFetchDisabled = false;
                 clearActiveStory('Fetching the latest story from the server...');
                 const requestId = loadRequestId;
@@ -2746,7 +3140,7 @@
                 }
                 if (!confirmStoryReplacement('Clearing the loaded story')) return;
 
-                clearActiveStory('No story loaded. Use “Load from Computer” or “Reload from Server” to begin.');
+                clearActiveStory('No story loaded. Use "Load from Computer" or "Reload from Server" to begin.');
                 setStatus('Loaded story cleared. Saved reading position preserved.');
                 fileLoadArea.classList.add('visible');
             }
@@ -2759,8 +3153,39 @@
 
             loadPreferences();
             applyWholeTogglesFromState();
+            applyBottomButtonVisibility();
 
-            // Try server first on first load; silent cached fallback if it fails.
-            loadStoryFromServer(false);
+            if (isServerGateEnabled() && !readGateSession()) {
+                const cached = getCachedStory();
+                if (cached) {
+                    // Cache exists — show it silently, no prompt. Reader can
+                    // click "Reload from Server" later if they want fresh.
+                    currentStorySource = cached.source || 'offline-cache';
+                    const cacheDate = new Date(cached.savedAt).toLocaleString();
+                    setStatus(`🔒 Server access requires a password. Using cached story from ${cacheDate}.`);
+                    loadStoryFromText(cached.text, loadRequestId);
+                } else {
+                    // No cache to fall back on — this is a first-time visit with
+                    // the gate on. Prompt now, because otherwise there's nothing
+                    // to read and the reader has to guess that they should click
+                    // "Reload from Server".
+                    setStatus('🔒 Server access requires a password.');
+                    (async function() {
+                        const unlocked = await ensureServerGateUnlocked();
+                        if (unlocked) {
+                            // ensureServerGateUnlocked already wrote the session
+                            // flag, so loadStoryFromServer(false) won't re-prompt.
+                            loadStoryFromServer(false);
+                        } else {
+                            // Cancelled or wrong password — leave the reader with
+                            // the local-load fallback and a clear status message.
+                            clearActiveStory('🔒 Server access requires a password. Enter the password via “Reload from Server”, or load the story from your computer.');
+                            fileLoadArea.classList.add('visible');
+                        }
+                    })();
+                }
+            } else {
+                loadStoryFromServer(false);
+            }
 
         })();

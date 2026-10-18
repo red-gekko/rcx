@@ -3,125 +3,68 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bloodhound — Interactive Reader + TTS</title>
+    <title>Interactive Readers — Home</title>
 
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="webfiles/styles.css">
 </head>
 <body>
     <div class="container">
-        <h1>📖 <span>Bloodhound</span></h1>
+        <h1>📖 <span>Interactive Readers</span></h1>
+        <p class="subtitle">Read along with narration, save your place, and pick up where you left off.</p>
 
-        <div class="file-load-area" id="fileLoadArea">
-            <p style="color: #e6edf3; margin-bottom: 12px;">📂 Couldn't auto-load the story. Choose the file manually:</p>
-            <input type="file" id="fileInput" accept=".txt">
-            <button class="file-btn" onclick="document.getElementById('fileInput').click()">
-                Choose File
-            </button>
-            <span class="file-label">Select: <code>bloodhound story scenes-WIP.txt</code></span>
+        <div class="landing-intro">
+            <p>
+                This site hosts interactive readers for original stories. Each reader
+                parses the story into volumes, episodes, and scenes; lets you read at
+                your own pace; and narrates the text aloud using the voices installed
+                on your device.
+            </p>
+            <p>
+                Your reading position, speed, voice, and other preferences are stored
+                locally in your browser — per story — so switching between readers
+                won't lose your place in either one.
+            </p>
         </div>
 
-        <div class="nav-container">
-            <div class="nav-group">
-                <label for="volume-select">Volume</label>
-                <select id="volume-select">
-                    <option value="">— Loading —</option>
-                </select>
-                <label class="whole-episode-toggle" for="whole-series-toggle" title="Parse the entire story as one continuous text">
-                    <input type="checkbox" id="whole-series-toggle">
-                    <span>Whole Series</span>
-                </label>
-            </div>
-            <div class="nav-group">
-                <label for="episode-select">Episode</label>
-                <select id="episode-select" disabled>
-                    <option value="">— Select Episode —</option>
-                </select>
-                <label class="whole-episode-toggle" for="whole-volume-toggle" title="Parse every episode in the current volume as one continuous text">
-                    <input type="checkbox" id="whole-volume-toggle">
-                    <span>Whole Volume</span>
-                </label>
-            </div>
-            <div class="nav-group">
-                <label for="scene-select">Scene</label>
-                <select id="scene-select" disabled>
-                    <option value="">— Select Scene —</option>
-                </select>
-                <label class="whole-episode-toggle" for="whole-episode-toggle" title="Parse every scene in the current episode as one continuous text">
-                    <input type="checkbox" id="whole-episode-toggle">
-                    <span>Whole Episode</span>
-                </label>
-            </div>
+        <div class="story-cards">
+            <a class="story-card" target="_blank" rel="noopener noreferrer" href="Bloodhound/story.html">
+                <div class="story-card-icon" aria-hidden="true">📖</div>
+                <div class="story-card-body">
+                    <h2 class="story-card-title">Bloodhound</h2>
+                    <p class="story-card-desc">
+                        They shot him in the head, cut him open, and made him into a weapon.
+                        Now, Connor Barrett is the only thing standing between Drackhill's monsters and the people he loves - with a talking wolf, a crew of misfits, and brutal violence.
+                        The old world is dying. The new world struggles to be born. And now is the time of monsters.
+                    </p>
+                    <span class="story-card-cta">Open reader →</span>
+                </div>
+            </a>
+
+            <a class="story-card" target="_blank" rel="noopener noreferrer" href="YML/story.html">
+                <div class="story-card-icon" aria-hidden="true">📖</div>
+                <div class="story-card-body">
+                    <h2 class="story-card-title">Young Man Logan</h2>
+                    <p class="story-card-desc">
+                        You know him as Wolverine. As Howlett. As Old Man Logan.
+                        But... what was he like as a boy?
+                        Travel through the Old West as James Logan carves his name in the ground.
+                    </p>
+                    <span class="story-card-cta">Open reader →</span>
+                </div>
+            </a>
+        </div>
+        <br/><br/><br/>
+        <div class="landing-footer-links">
+            <a target="_blank" rel="noopener noreferrer" href="misc/splitter.html">Story Splitter Tool</a>
+                <p class="story-card-desc">
+                    A small tool for splitting the story file into separate episode .txt files, packaged as a downloadable .zip.
+                </p>
         </div>
 
-        <div class="tts-controls">
-            <button id="speak-btn" disabled>🔊 Speak Scene</button>
-            <button id="pause-btn" disabled>⏸ Pause</button>
-            <button id="prev-btn" disabled title="Previous chunk">⏮ Prev</button>
-            <button id="replay-btn" disabled title="Replay current chunk">🔁 Replay</button>
-            <button id="next-btn" disabled title="Next chunk">⏭ Next</button>
-            <button id="stop-btn" disabled>⏹ Stop</button>
-            <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
-            <button id="help-btn" title="Show help">❓ Help</button>
-            <button id="settings-btn" title="Show settings">⚙️ Settings</button>
-            <button id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
-            <span class="wake-lock-indicator" id="wake-lock-indicator" title="Screen will stay awake while narration is playing">🔆 Screen Awake</span>
-            <span class="chunk-counter" id="chunk-counter">— / —</span>
+        <div class="status">
+            Tip: open both readers in separate tabs — each keeps its own saved progress.
         </div>
-
-        <div class="chunk-panel" id="chunk-panel">
-            <div class="chunk-panel-label">Currently speaking:</div>
-            <div class="chunk-panel-text is-empty" id="chunk-panel-text">Narrated text will appear here.</div>
-
-            <div class="autoplay-timer" id="autoplayTimer" style="display:none;">
-                <span class="timer-label">Auto‑advance in</span>
-                <span class="timer-countdown" id="timerCountdown">5</span>
-                <span class="timer-label">sec</span>
-                <button class="cancel-autoplay-btn" id="cancelAutoplayBtn">✕ Cancel autoplay</button>
-            </div>
-        </div>
-
-        <div class="scene-nav-row">
-            <button id="scene-prev-btn" disabled title="Previous scene">◀ Previous Scene</button>
-            <span class="nav-spacer" id="scene-nav-spacer">—</span>
-            <button id="scene-next-btn" disabled title="Next scene">Next Scene ▶</button>
-        </div>
-
-        <div class="resume-banner" id="resume-banner"></div>
-
-        <div class="content-area" id="content-area">
-            <div class="message">Loading story content<span class="loading-dots"></span></div>
-        </div>
-
-        <div class="scene-nav-row">
-            <button id="scene-prev-btn-bottom" disabled title="Previous scene">◀ Previous Scene</button>
-            <span class="nav-spacer" id="scene-nav-spacer-bottom">—</span>
-            <button id="scene-next-btn-bottom" disabled title="Next scene">▶ Next Scene</button>
-        </div>
-
-        <div class="reader-source-controls">
-            <button class="upload-source-btn" id="upload-source-btn" title="Clear the current story and load a .txt file from your computer">
-                📂 Load from Computer
-            </button>
-            <button class="server-source-btn" id="server-source-btn" title="Clear the current story and fetch the latest version from the server">
-                🔄 Reload from Server
-            </button>
-            <button class="clear-story-btn" id="clear-story-btn" title="Unload the current story without touching your saved reading position or preferences">
-                🧹 Clear Loaded Story
-            </button>
-            <button id="copy-scene-btn" disabled title="Copy this content to the clipboard">📋 Copy Content</button>
-        </div>
-
-        <div class="reader-session-controls">
-            <button id="clear-progress-btn" title="Forget the saved reading position for this reader">🗑 Clear Saved Progress</button>
-        </div>
-
-        <div class="status" id="status">Loading the text file...</div>
-
-        <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
-        <div class="debug-info" id="debug-info"></div>
     </div>
-
-
-    <script src="scripts/index.js"></script>
+    <script src="webfiles/index.js"></script>
 </body>
 </html>

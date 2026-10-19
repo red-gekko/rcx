@@ -141,6 +141,9 @@
             let showDownloadBtn = true;
             let showClearProgressBtn = true;
 
+            // ── Clear Loaded Story behaviour ──
+            let clearStoryAlsoClearsProgress = false;
+
             // ── Server gate state ──
             let serverGateUnlocked = false;
 
@@ -211,6 +214,7 @@
                     if (typeof prefs.showClearBtn    === 'boolean') showClearBtn    = prefs.showClearBtn;
                     if (typeof prefs.showCopyBtn     === 'boolean') showCopyBtn     = prefs.showCopyBtn;
                     if (typeof prefs.showDownloadBtn === 'boolean') showDownloadBtn = prefs.showDownloadBtn;
+                    if (typeof prefs.clearStoryAlsoClearsProgress === 'boolean') clearStoryAlsoClearsProgress = prefs.clearStoryAlsoClearsProgress;
                     if (typeof prefs.showClearProgressBtn === 'boolean') showClearProgressBtn = prefs.showClearProgressBtn;
                 } catch (e) { console.warn('Preference restore failed:', e); }
             }
@@ -227,6 +231,7 @@
                     showClearBtn,
                     showCopyBtn,
                     showDownloadBtn,
+                    clearStoryAlsoClearsProgress,
                     showClearProgressBtn,
                     playbackRate,
                     autoplayEnabled,
@@ -1506,6 +1511,20 @@
                         </span>
                     </div>
 
+                    <h3>🧹 Clear Loaded Story</h3>
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-clear-story-full-reset">
+                            Also clear saved reading position and offline cache
+                            <span class="settings-row-hint">When enabled, "Clear Loaded Story" forgets where you were and deletes the offline copy. Preferences (speed, voice, toggles) are always kept. Off by default.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-clear-story-full-reset">
+                                <span id="settings-clear-story-full-reset-state">Off</span>
+                            </label>
+                        </span>
+                    </div>
+
                     <h3>🔊 Narration</h3>
                     <div class="settings-row">
                         <label class="settings-row-label" for="settings-speed-slider">
@@ -1620,6 +1639,8 @@
                 if (sy) { sy.checked = showCopyBtn;   $('settings-show-copy-btn-state').textContent   = showCopyBtn   ? 'On' : 'Off'; }
                 const sd = $('settings-show-download-btn');
                 if (sd) { sd.checked = showDownloadBtn; $('settings-show-download-btn-state').textContent = showDownloadBtn ? 'On' : 'Off'; }
+                const cf = $('settings-clear-story-full-reset');
+                if (cf) { cf.checked = clearStoryAlsoClearsProgress; $('settings-clear-story-full-reset-state').textContent = clearStoryAlsoClearsProgress ? 'On' : 'Off'; }
                 const scp = $('settings-show-clear-progress-btn');
                 if (scp) { scp.checked = showClearProgressBtn; $('settings-show-clear-progress-btn-state').textContent = showClearProgressBtn ? 'On' : 'Off'; }
 
@@ -1681,6 +1702,16 @@
                         $('settings-show-download-btn-state').textContent = showDownloadBtn ? 'On' : 'Off';
                         savePreferences();
                         applyBottomButtonVisibility();
+                    });
+                }
+
+                const clearFullReset = $('settings-clear-story-full-reset');
+                if (clearFullReset && !clearFullReset.dataset.bound) {
+                    clearFullReset.dataset.bound = '1';
+                    clearFullReset.addEventListener('change', function() {
+                        clearStoryAlsoClearsProgress = this.checked;
+                        $('settings-clear-story-full-reset-state').textContent = clearStoryAlsoClearsProgress ? 'On' : 'Off';
+                        savePreferences();
                     });
                 }
 
@@ -3138,10 +3169,24 @@
                     setStatus('No story is currently loaded.');
                     return;
                 }
-                if (!confirmStoryReplacement('Clearing the loaded story')) return;
 
-                clearActiveStory('No story loaded. Use "Load from Computer" or "Reload from Server" to begin.');
-                setStatus('Loaded story cleared. Saved reading position preserved.');
+                const label = clearStoryAlsoClearsProgress
+                    ? 'Clearing the loaded story, saved reading position, and offline cache'
+                    : 'Clearing the loaded story';
+
+                if (!confirmStoryReplacement(label)) return;
+
+                if (clearStoryAlsoClearsProgress) {
+                    // Full reset: also forget reading position and delete offline cache.
+                    clearSavedProgress(false);
+                    try { localStorage.removeItem(STORAGE_KEYS.storyCache); } catch (e) {}
+                    logDebug('Clear Loaded Story: also cleared saved progress + offline cache (per pref).');
+                }
+
+                clearActiveStory('No story loaded. Use “Load from Computer” or “Reload from Server” to begin.');
+                setStatus(clearStoryAlsoClearsProgress
+                    ? 'Loaded story, saved reading position, and offline cache all cleared.'
+                    : 'Loaded story cleared. Saved reading position preserved.');
                 fileLoadArea.classList.add('visible');
             }
 

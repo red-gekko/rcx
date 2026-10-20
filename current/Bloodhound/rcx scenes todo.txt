@@ -47,6 +47,28 @@ rcx/
 story.html are identical, the only difference being which file they call.
 also, add password protection to the stories; figure out how to do this in a way not vulnerable to simple inspect element attacks
 
+change the story.html files to a new setup
+Bloodhound.txt - the Live version of the story, containing all complete episodes currently made
+Bloodhound-WIP.txt - the working branch.
+
+
+
+
+
+
+During Hurt, have Amy not-so-subtly get the DJ to put on a slow song
+
+
+
+
+
+Dont forget to have Connor pick chlo up in the Renegade on their first date
+
+
+
+
+
+have a think about other ways to get them dating properly
 
 
 

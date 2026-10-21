@@ -53,7 +53,11 @@
                 </label>
             </div>
         </div>
-
+        <div class="tts-controls">
+            <button class="debug-toggle" id="help-btn" title="Show help">❓ Help</button>
+            <button class="debug-toggle" id="settings-btn" title="Show settings">⚙️ Settings</button>
+            <button class="debug-toggle" id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
+        </div>
         <div class="tts-controls">
             <button id="speak-btn" disabled>🔊 Speak Scene</button>
             <button id="pause-btn" disabled>⏸ Pause</button>
@@ -117,9 +121,7 @@
         <div class="status" id="status">Loading the text file...</div>
 
         <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
-        <button class="debug-toggle" id="help-btn" title="Show help">❓ Help</button>
-        <button class="debug-toggle" id="settings-btn" title="Show settings">⚙️ Settings</button>
-        <button class="debug-toggle" id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
+
         <div class="debug-info" id="debug-info"></div>
     </div>
 
@@ -129,7 +131,7 @@
         file: 'Young Man Logan-WIP.txt',
         title: 'Young Man Logan',
         storagePrefix: 'YoungManLoganReader',
-        serverGateHash: 'eda8e3cfce3342404e60dc67ed3a25208235573d63277df1152b255725359c43'
+        serverGateHash: ''
       };
     </script>
     <script src="../webfiles/story.js"></script>

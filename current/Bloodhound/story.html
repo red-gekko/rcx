@@ -53,7 +53,11 @@
                 </label>
             </div>
         </div>
-
+        <div class="tts-controls">
+            <button class="debug-toggle" id="help-btn" title="Show help">❓ Help</button>
+            <button class="debug-toggle" id="settings-btn" title="Show settings">⚙️ Settings</button>
+            <button class="debug-toggle" id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
+        </div>
         <div class="tts-controls">
             <button id="speak-btn" disabled>🔊 Speak Scene</button>
             <button id="pause-btn" disabled>⏸ Pause</button>
@@ -117,18 +121,16 @@
         <div class="status" id="status">Loading the text file...</div>
 
         <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
-        <button class="debug-toggle" id="help-btn" title="Show help">❓ Help</button>
-        <button class="debug-toggle" id="settings-btn" title="Show settings">⚙️ Settings</button>
-        <button class="debug-toggle" id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
+
         <div class="debug-info" id="debug-info"></div>
     </div>
 
     <!-- Per-page story config — MUST come before story.js -->
     <script>
       window.STORY_CONFIG = {
-        file: 'bloodhound-wip.txt',
+        file: 'Bloodhound-WIP.txt',
         title: 'Bloodhound',
-        storagePrefix: 'bloodhoundReader',
+        storagePrefix: 'BloodhoundReader',
         serverGateHash: ''
       };
     </script>

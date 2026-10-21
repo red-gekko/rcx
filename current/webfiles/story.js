@@ -136,7 +136,7 @@
             let wholeSeriesMode = false;
 
             // ── Header-inclusion prefs (used when a "whole" mode is active) ──
-            let includeSceneHeaders = true;
+            let includeSceneHeaders = false;
             let includeEpisodeHeaders = true;
             let includeVolumeHeaders = true;
 

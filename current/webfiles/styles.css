@@ -2080,9 +2080,9 @@ input[type="file"] { display: none; }
     color: var(--bh-highlight);
     font-weight: bold;
     font-style: italic;
-    font-size: 1.1em;
+    font-size: 1.15em;
 }
-.blurb .blurb-prepunch { font-weight: bold; }
+.blurb .blurb-prepunch { font-weight: bold; font-size: 1em}
 
 .blurb .blurb-link a {
     color: #3d85c6;

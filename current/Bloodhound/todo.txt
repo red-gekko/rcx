@@ -11,45 +11,7 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
-for the website - turn index.html into a portal, where one can access the readers for both Bloodhound and Young Man Logan, along with others too. so site would be:
-rcx/
-	current/
-		index.html
-		styles.css
-		scripts/
-			contentwarning.js
-			legal.js
-			splitter.js
-			index.js
-			story.js
-		bloodhound/
-			story.html
-			bloodhound-WIP.txt
-			legal.html
-			contentwarning.html
-		yml/
-			story.html
-			young man logan-WIP.txt
-			legal.html
-			contentwarning.html
-		generic story/
-			story.html
-			generic-WIP.txt
-			legal.html
-			contentwarning.html
-		misc/
-			splitter.html
-	legacy/
-	rottencore-junkfiles/
-	readme.md
-	index.html (autoredirect to /current/index.html)
 
-story.html are identical, the only difference being which file they call.
-also, add password protection to the stories; figure out how to do this in a way not vulnerable to simple inspect element attacks
-
-change the story.html files to a new setup
-Bloodhound.txt - the Live version of the story, containing all complete episodes currently made
-Bloodhound-WIP.txt - the working branch.
 
 
 

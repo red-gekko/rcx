@@ -919,7 +919,7 @@ select {
 }
 .tts-controls button.help-active,
 .tts-controls button.settings-active {
-    background-color: #2a2f4a;
+    background-color: var(--border);
     border-color: var(--accent-red);
     color: var(--accent-red-dim);
 }

@@ -530,7 +530,35 @@
                 }
                 return out;
             }
+            // Returns a copy of `text` with all redacted regions removed, using the same
+            // //// ... \\\\ semantics as the parser. A //// with no matching \\\\ removes
+            // everything from that point to EOF.
+            function stripRedactedRegions(text) {
+                if (!text) return text;
+                if (ignoreCutoffMarker) return text;   // toggle on -> nothing is redacted
 
+                const lines = text.split(/\r?\n/);
+                const out = [];
+                let redacting = false;
+
+                for (const line of lines) {
+                    const trimmed = line.trim();
+
+                    if (trimmed === CUTOFF_MARKER) {
+                        redacting = true;
+                        continue;               // drop the marker line itself
+                    }
+                    if (trimmed === RESUME_MARKER) {
+                        redacting = false;
+                        continue;               // drop the marker line itself
+                    }
+                    if (redacting) continue;    // drop redacted content
+
+                    out.push(line);
+                }
+
+                return out.join('\n');
+            }
             /* ========== DIVIDER MARKERS ========== */
 
             function makeDividerMark(kind, name) {
@@ -796,7 +824,6 @@
             }
 
             copySceneBtn.addEventListener('click', copyCurrentContentToClipboard);
-
             function downloadCurrentStory() {
                 let text = currentStoryText;
                 if (!text) {
@@ -804,6 +831,16 @@
                     if (cached && cached.text) text = cached.text;
                 }
                 if (!text) { setStatus('No story loaded to download.', true); return; }
+
+                // Respect the cutoff toggle: with redaction enabled (default), remove
+                // any ////-delimited regions from the file before saving it.
+                const redactedCount = ignoreCutoffMarker ? 0 : countRedactedRegions(text);
+                text = stripRedactedRegions(text);
+
+                if (!text.trim()) {
+                    setStatus('Nothing to download — all content is currently redacted.', true);
+                    return;
+                }
 
                 const name = currentStorySource && currentStorySource.startsWith('local:')
                     ? currentStorySource.slice(6)
@@ -818,8 +855,27 @@
                 a.click();
                 document.body.removeChild(a);
                 URL.revokeObjectURL(url);
-                setStatus(`⬇ Downloaded: ${name}`);
-                logDebug(`Download File: ${name} (${text.length} chars)`);
+
+                if (redactedCount > 0) {
+                    setStatus(`⬇ Downloaded: ${name} (${redactedCount} redacted region${redactedCount === 1 ? '' : 's'} omitted)`);
+                    logDebug(`Download File: ${name} — ${redactedCount} region(s) redacted, ignoreCutoffMarker=${ignoreCutoffMarker}`);
+                } else {
+                    setStatus(`⬇ Downloaded: ${name}`);
+                    logDebug(`Download File: ${name} (${text.length} chars)`);
+                }
+            }
+
+            function countRedactedRegions(text) {
+                if (!text) return 0;
+                const lines = text.split(/\r?\n/);
+                let count = 0;
+                let inRegion = false;
+                for (const line of lines) {
+                    const trimmed = line.trim();
+                    if (trimmed === CUTOFF_MARKER && !inRegion) { count++; inRegion = true; }
+                    else if (trimmed === RESUME_MARKER) { inRegion = false; }
+                }
+                return count;
             }
 
             if (downloadStoryBtn) {

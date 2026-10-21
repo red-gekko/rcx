@@ -18,7 +18,7 @@
             <button class="file-btn" onclick="document.getElementById('fileInput').click()">
                 Choose File
             </button>
-            <span class="file-label">Select: <code>bloodhound.txt</code></span>
+            <span class="file-label">Select: <code>bloodhound-WIP.txt</code></span>
         </div>
 
         <div class="nav-container">
@@ -62,9 +62,6 @@
             <button id="next-btn" disabled title="Next chunk">⏭ Next</button>
             <button id="stop-btn" disabled>⏹ Stop</button>
             <button id="autoplay-btn" disabled title="Automatically advance to the next scene">🔁 Autoplay: Off</button>
-            <button id="help-btn" title="Show help">❓ Help</button>
-            <button id="settings-btn" title="Show settings">⚙️ Settings</button>
-            <button id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
             <span class="wake-lock-indicator" id="wake-lock-indicator" title="Screen will stay awake while narration is playing">🔆 Screen Awake</span>
             <span class="chunk-counter" id="chunk-counter">— / —</span>
         </div>
@@ -109,24 +106,27 @@
             <button class="clear-story-btn" id="clear-story-btn" title="Unload the current story without touching your saved reading position or preferences">
                 🧹 Clear Loaded Story
             </button>
-            <button id="copy-scene-btn" disabled title="Copy this content to the clipboard">📋 Copy Content</button>
-            <button id="download-story-btn" disabled title="Download the currently loaded story file">⬇ Download File</button>
         </div>
 
-        <div class="reader-session-controls">
+        <div class="reader-source-controls">
+            <button id="download-story-btn" disabled title="Download the currently loaded story file">⬇ Download File</button>
+            <button id="copy-scene-btn" disabled title="Copy this content to the clipboard">📋 Copy Content</button>
             <button id="clear-progress-btn" title="Forget the saved reading position for this reader">🗑 Clear Saved Progress</button>
         </div>
 
         <div class="status" id="status">Loading the text file...</div>
 
         <button class="debug-toggle" id="debug-toggle">📋 Show Debug Info</button>
+        <button class="debug-toggle" id="help-btn" title="Show help">❓ Help</button>
+        <button class="debug-toggle" id="settings-btn" title="Show settings">⚙️ Settings</button>
+        <button class="debug-toggle" id="focus-btn" title="Enter focus mode and fullscreen">⛶ Focus Mode</button>
         <div class="debug-info" id="debug-info"></div>
     </div>
 
     <!-- Per-page story config — MUST come before story.js -->
     <script>
       window.STORY_CONFIG = {
-        file: 'bloodhound.txt',
+        file: 'bloodhound-wip.txt',
         title: 'Bloodhound',
         storagePrefix: 'bloodhoundReader',
         serverGateHash: ''

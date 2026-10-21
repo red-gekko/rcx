@@ -28,6 +28,16 @@
             // chunks between scenes (a long beat) so we use 4 blank lines.
             const SCENE_GAP_BLANK_LINES = 4;
 
+            // ── Cutoff / Resume markers ──
+            // CUTOFF_MARKER: parsing stops at the first line whose trimmed
+            // content equals this marker (unless the user enables "Ignore
+            // cutoff marker" in Settings).
+            // RESUME_MARKER: parsing always continues from here onwards.
+            // Both marker lines are stripped from all rendered, copied, and
+            // spoken output.
+            const CUTOFF_MARKER = CONFIG.cutoffMarker || '////';
+            const RESUME_MARKER = CONFIG.resumeMarker || '\\\\';
+
             const STORAGE_KEYS = {
                 preferences: `${STORAGE_PREFIX}.preferences.v2`,
                 progress:    `${STORAGE_PREFIX}.progress.v1`,
@@ -144,6 +154,11 @@
             // ── Clear Loaded Story behaviour ──
             let clearStoryAlsoClearsProgress = false;
 
+            // ── Cutoff marker prefs ──
+            // When true, the CUTOFF_MARKER line is ignored entirely (as if it
+            // were just a RESUME_MARKER). Off by default.
+            let ignoreCutoffMarker = false;
+
             // ── Server gate state ──
             let serverGateUnlocked = false;
 
@@ -216,6 +231,7 @@
                     if (typeof prefs.showDownloadBtn === 'boolean') showDownloadBtn = prefs.showDownloadBtn;
                     if (typeof prefs.clearStoryAlsoClearsProgress === 'boolean') clearStoryAlsoClearsProgress = prefs.clearStoryAlsoClearsProgress;
                     if (typeof prefs.showClearProgressBtn === 'boolean') showClearProgressBtn = prefs.showClearProgressBtn;
+                    if (typeof prefs.ignoreCutoffMarker === 'boolean') ignoreCutoffMarker = prefs.ignoreCutoffMarker;
                 } catch (e) { console.warn('Preference restore failed:', e); }
             }
 
@@ -245,7 +261,8 @@
                     screenAwakeEnabled,
                     voiceIndex: selectedVoiceIndex,
                     voiceName,
-                    voiceLang
+                    voiceLang,
+                    ignoreCutoffMarker
                 }));
             }
 
@@ -461,6 +478,8 @@
             function sanitizeForSpeech(text) {
                 if (!text) return '';
                 let s = text;
+                // Strip cutoff / resume markers so TTS never reads them.
+                s = stripCutoffAndResumeMarkers(s);
                 s = s.replace(/\*{2,}/g, ' ');
                 s = s.replace(/\*/g, '');
                 s = s.replace(/(^|\s)_([^_]+)_(?=\s|$)/g, '$1$2');
@@ -488,6 +507,28 @@
                 s = s.replace(/^\s*[,;:]\s*/, '');
                 s = s.replace(/\s*[,;:]\s*$/, '');
                 return s.trim();
+            }
+
+            /* ========== CUTOFF / RESUME MARKERS ========== */
+
+            // Removes any line that is exactly the cutoff or resume marker,
+            // and any inline occurrences of either marker.
+            function stripCutoffAndResumeMarkers(text) {
+                if (!text) return text;
+                let out = text;
+                if (CUTOFF_MARKER) {
+                    out = out.split('\n')
+                        .filter(line => line.trim() !== CUTOFF_MARKER)
+                        .join('\n');
+                    out = out.split(CUTOFF_MARKER).join('');
+                }
+                if (RESUME_MARKER) {
+                    out = out.split('\n')
+                        .filter(line => line.trim() !== RESUME_MARKER)
+                        .join('\n');
+                    out = out.split(RESUME_MARKER).join('');
+                }
+                return out;
             }
 
             /* ========== DIVIDER MARKERS ========== */
@@ -711,6 +752,7 @@
 
             async function copyCurrentContentToClipboard() {
                 let bodyPlain = stripDividerMarksForPlain(currentSceneText || '');
+                bodyPlain = stripCutoffAndResumeMarkers(bodyPlain);
 
                 let text = '';
                 if (copyIncludeHeader && currentSceneHeader) {
@@ -813,7 +855,20 @@
                             <h3 id="gate-title">🔒 Server Access</h3>
                             <p>Enter the password to reload the story from the server.<br>
                                <small>Loading from your computer and resuming your saved position remain unrestricted.</small></p>
-                            <input type="password" id="gate-password-input" autocomplete="current-password" placeholder="Password">
+
+
+                            <div class="gate-password-wrap">
+                                <input type="password" id="gate-password-input"
+                                       autocomplete="current-password"
+                                       placeholder="Password">
+                            </div>
+                            <div class="password-toggle">
+                                <label class="whole-episode-toggle">
+                                    <input type="checkbox" id="gate-toggle-password">
+                                    Show password
+                                </label>
+                            </div>
+
                             <div class="gate-error" id="gate-error" aria-live="polite"></div>
                             <div class="gate-actions">
                                 <button type="button" id="gate-cancel">Cancel</button>
@@ -827,23 +882,53 @@
                     const errEl = overlay.querySelector('#gate-error');
                     const submit = overlay.querySelector('#gate-submit');
                     const cancel = overlay.querySelector('#gate-cancel');
+                    const toggle = overlay.querySelector('#gate-toggle-password');
+
+
+                    toggle.addEventListener('change', () => {
+                        input.type = toggle.checked ? 'text' : 'password';
+                    });
+
+                    // Toggle password visibility
+                    toggle.addEventListener('click', () => {
+                        const showing = input.type === 'password';
+                        input.type = showing ? 'text' : 'password';
+                        toggle.textContent = showing ? 'Hide' : 'Show';
+                        toggle.setAttribute('aria-label',
+                            showing ? 'Hide password' : 'Show password');
+                        toggle.setAttribute('aria-pressed', String(showing));
+                        input.focus();
+                    });
 
                     function close(value) {
                         document.removeEventListener('keydown', onKey);
                         overlay.remove();
                         resolve(value);
                     }
-                    function onKey(e) { if (e.key === 'Escape') close(null); }
+
+                    function onKey(e) {
+                        if (e.key === 'Escape') close(null);
+                    }
+
                     document.addEventListener('keydown', onKey);
 
                     submit.addEventListener('click', () => {
-                        if (!input.value) { errEl.textContent = 'Password required.'; return; }
+                        if (!input.value) {
+                            errEl.textContent = 'Password required.';
+                            return;
+                        }
                         close(input.value);
                     });
+
                     cancel.addEventListener('click', () => close(null));
+
                     input.addEventListener('keydown', e => {
-                        if (e.key === 'Enter') { e.preventDefault(); submit.click(); }
+                        if (e.key === 'Enter') {
+                            e.preventDefault();
+                            submit.click();
+                        }
                     });
+
                     setTimeout(() => input.focus(), 30);
                 });
             }
@@ -1319,6 +1404,7 @@
                         <li><strong>◀ Previous Scene / Next Scene ▶</strong> — Step through the story by whichever scope is active.</li>
                         <li><strong>Scene position indicator</strong> — Between the two scene nav buttons, shows your place in the story.</li>
                         <li><strong>Header inclusion</strong> — Settings has toggles to include Scene / Episode / Volume headers inside wider-parsed text.</li>
+                        <li><strong>Cutoff &amp; resume markers</strong> — A line consisting of <code>${escapeHtml(CUTOFF_MARKER)}</code> stops the reader from loading any content after it (unless <em>Ignore cutoff marker</em> is enabled in Settings). A line consisting of <code>${escapeHtml(RESUME_MARKER)}</code> lets parsing continue from that point onward — useful for cutting out sections without stopping the whole file. Both marker lines are hidden from the reader entirely.</li>
                     </ul>
 
                     <h3>🔊 Narration</h3>
@@ -1368,6 +1454,26 @@
             function settingsHTML() {
                 return `
                 <div class="settings-panel">
+                    <h3>⏹ Cutoff &amp; Resume Markers</h3>
+                    <p>Your story file can include special marker lines to hide sections. A line consisting of <code>${escapeHtml(CUTOFF_MARKER)}</code> stops the reader from loading any content after it. A line consisting of <code>${escapeHtml(RESUME_MARKER)}</code> lets parsing continue from that point onwards. Both marker lines are always hidden from the reader.</p>
+
+                    <div class="settings-row">
+                        <label class="settings-row-label" for="settings-ignore-cutoff">
+                            Ignore cutoff marker
+                            <span class="settings-row-hint">When enabled, the cutoff marker (<code>${escapeHtml(CUTOFF_MARKER)}</code>) is treated like a resume marker: it is removed, and parsing continues. When disabled (default), everything after the cutoff marker is withheld. The resume marker (<code>${escapeHtml(RESUME_MARKER)}</code>) always lets parsing continue.</span>
+                        </label>
+                        <span class="settings-row-control">
+                            <label class="settings-toggle">
+                                <input type="checkbox" id="settings-ignore-cutoff">
+                                <span id="settings-ignore-cutoff-state">Off</span>
+                            </label>
+                        </span>
+                    </div>
+
+                    <div class="settings-note">
+                        Changing this reloads the currently loaded story so the change takes effect immediately. Your saved reading position is preserved.
+                    </div>
+
                     <h3>📚 Whole-* Header Inclusion</h3>
                     <p>These options only apply when a <em>Whole Series</em>, <em>Whole Volume</em>, or <em>Whole Episode</em> toggle is active. They add a divider line above each included section.</p>
 
@@ -1599,6 +1705,12 @@
             function syncSettingsUI() {
                 const $ = (id) => document.getElementById(id);
 
+                const ignoreCutoff = $('settings-ignore-cutoff');
+                if (ignoreCutoff) {
+                    ignoreCutoff.checked = ignoreCutoffMarker;
+                    $('settings-ignore-cutoff-state').textContent = ignoreCutoffMarker ? 'On' : 'Off';
+                }
+
                 const includeScene = $('settings-include-scene-headers');
                 if (includeScene) {
                     includeScene.checked = includeSceneHeaders;
@@ -1649,6 +1761,20 @@
 
             function attachSettingsListeners() {
                 const $ = (id) => document.getElementById(id);
+
+                const ignoreCutoff = $('settings-ignore-cutoff');
+                if (ignoreCutoff && !ignoreCutoff.dataset.bound) {
+                    ignoreCutoff.dataset.bound = '1';
+                    ignoreCutoff.addEventListener('change', function() {
+                        ignoreCutoffMarker = this.checked;
+                        $('settings-ignore-cutoff-state').textContent = ignoreCutoffMarker ? 'On' : 'Off';
+                        savePreferences();
+                        if (currentStoryText) {
+                            logDebug(`Cutoff marker: ignore=${ignoreCutoffMarker}; re-parsing loaded story.`);
+                            loadStoryFromText(currentStoryText, loadRequestId);
+                        }
+                    });
+                }
 
                 const showUpload = $('settings-show-upload-btn');
                 if (showUpload && !showUpload.dataset.bound) {
@@ -2351,6 +2477,10 @@
             function stripIndentation(content) {
                 if (!content) return '';
 
+                // Strip any cutoff/resume marker lines from the scene body so
+                // they can never be rendered, copied, or spoken.
+                content = stripCutoffAndResumeMarkers(content);
+
                 const lines = content.split('\n');
                 let minIndent = Infinity;
 
@@ -2561,7 +2691,6 @@
 
                 return lines.join('\n');
             }
-
             function parseStory(text) {
                 logDebug('=== Starting parse ===');
                 const lines = text.split(/\r?\n/);
@@ -2573,6 +2702,7 @@
                 let sceneContent = [];
                 let inScene = false;
                 let sceneIndentLevel = 0;
+                let redacting = false;   // true while inside a //// ... \\\\ region
 
                 let volumeCount = 0;
                 let episodeCount = 0;
@@ -2582,6 +2712,7 @@
                     if (inScene && currentScene && currentEpisode) {
                         let content = sceneContent.join('\n').trimEnd();
                         content = removeTrailingSceneName(content, sceneIndentLevel);
+                        content = stripCutoffAndResumeMarkers(content);
                         currentEpisode.scenes.push({
                             id: `scene-tmp-${Date.now()}-${Math.random()}`,
                             name: currentScene,
@@ -2604,6 +2735,34 @@
                 for (let i = 0; i < lines.length; i++) {
                     const line = lines[i];
                     const trimmed = line.trim();
+
+                    // ── Cutoff marker ──
+                    // Starts a redacted region. If the reader enabled "Ignore cutoff
+                    // marker", this is a no-op. A region ends at the next RESUME
+                    // marker, or runs to EOF if there is none.
+                    if (trimmed === CUTOFF_MARKER) {
+                        if (ignoreCutoffMarker) {
+                            logDebug(`Parser: ignoring cutoff marker at line ${i}.`);
+                        } else {
+                            logDebug(`Parser: entering redacted region at line ${i}.`);
+                            redacting = true;
+                        }
+                        continue;
+                    }
+
+                    // ── Resume marker ──
+                    // Ends a redacted region (and is a harmless no-op outside one).
+                    if (trimmed === RESUME_MARKER) {
+                        if (redacting) logDebug(`Parser: leaving redacted region at line ${i}.`);
+                        redacting = false;
+                        continue;
+                    }
+
+                    // While redacting, skip all content but keep scanning for the
+                    // resume marker so structural parsing (VOLUME/EPISODE/SCENE
+                    // boundaries) still flushes correctly when we come out the other
+                    // side.
+                    if (redacting) continue;
 
                     if (trimmed === '') {
                         if (inScene && currentScene) sceneContent.push(line);
@@ -2685,6 +2844,7 @@
                 if (inScene && currentScene && currentEpisode) {
                     let content = sceneContent.join('\n').trimEnd();
                     content = removeTrailingSceneName(content, sceneIndentLevel);
+                    content = stripCutoffAndResumeMarkers(content);
                     currentEpisode.scenes.push({
                         id: `scene-tmp-${Date.now()}-${Math.random()}`,
                         name: currentScene,
@@ -2731,7 +2891,11 @@
                     });
                 });
 
-                return { volumes };
+                // If we ended the file while still inside a redacted region, the story
+                // was truncated (a //// with no matching \\\\).
+                const cutoffReached = redacting;
+
+                return { volumes, cutoffReached };
             }
 
             /* ========== WHOLE-* TOGGLE GLUE ========== */
@@ -2856,7 +3020,11 @@
 
                 populateSelect(episodeSelect, [], '— Select Episode —');
                 populateSelect(sceneSelect, [], '— Select Scene —');
-                setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                let loadedMsg = `Loaded ${storyData.volumes.length} volume(s).`;
+                if (storyData.cutoffReached && !ignoreCutoffMarker) {
+                    loadedMsg += ' Content truncated at cutoff marker — enable "Ignore cutoff marker" in Settings to load the rest.';
+                }
+                setStatus(loadedMsg);
                 speakBtn.disabled = true;
                 chunks = [];
                 currentChunkIndex = -1;
@@ -3055,8 +3223,16 @@
                         throw new Error('No volumes found in the file.');
                     }
 
+                    if (storyData.cutoffReached && !ignoreCutoffMarker) {
+                        logDebug('Story loaded with cutoff marker — remaining content withheld.');
+                    }
+
                     updateNavigation();
-                    setStatus(`Loaded ${storyData.volumes.length} volume(s).`);
+                    let loadedMsg = `Loaded ${storyData.volumes.length} volume(s).`;
+                    if (storyData.cutoffReached && !ignoreCutoffMarker) {
+                        loadedMsg += ' Content truncated at cutoff marker — enable "Ignore cutoff marker" in Settings to load the rest.';
+                    }
+                    setStatus(loadedMsg);
                     fileLoadArea.classList.remove('visible');
                 } catch (error) {
                     console.error('Error:', error);

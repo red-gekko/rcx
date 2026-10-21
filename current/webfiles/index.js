@@ -139,8 +139,8 @@
         const banner = document.createElement('a');
         banner.className = 'continue-banner';
         banner.href = story.url;
-        banner.target = '_blank';
-        banner.rel = 'noopener noreferrer';
+        //banner.target = '_blank';
+        //banner.rel = 'noopener noreferrer';
         banner.setAttribute(
             'aria-label',
             `Continue reading ${story.title} from ${where}, last saved ${when}`

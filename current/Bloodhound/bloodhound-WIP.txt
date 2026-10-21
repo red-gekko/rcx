@@ -162,7 +162,7 @@ VOLUME - CODEX
 ______________________________
 VOLUME - Wolves Among Sheep
 	______________________________
-	EPISODE - Beginnings
+	EPISODE - Last Things First
 		______________________________
 		SCENE
 			The morning sun dragged itself up from the horizon, shining softly over Geneva. Cold autumnal winds swept through the World City, scattering orange leaves like glitter on a child's drawing. Zeppelins floated through the skies, while jetplanes criss-crossed above them. Down below, the people moved like ants.
@@ -7034,12 +7034,12 @@ VOLUME - Wolves Among Sheep
 			She stood, and the alcohol hit her. She stumbled and fell. Connor dashed in and caught her, gently helping her down onto the sofa.
 			"Whoa..." she laughed. "Thank you... sorry... I just feel so woozy..."
 			"You need a hand getting back to bed?" he asked.
-			"Hahah... yeahhhh..." she slurred.
-			Connor chuckled, and walked her to her bed.
-			"Thanks..." she smiled.
-			"Haha, no worries... you sure you'll be okay tonight?"
+			"Um... I'll be okay, but... can you just help me balance."
+			Connor smiled, and walked her to her bed.
+			"Thanks..." she nodded. "I'm... sorry to be a burden."
+			"You're not." he shook his head. "You sure you'll be okay tonight?"
 			"Yeah, I'll be okay... just haven't drank that much in a while." she chuckled, not fully with it.
-			"Okay then... call me if you need to, okay?" he said, his voice betraying his concern.
+			"Okay then... call me if you need to, okay?"
 			"I will do... see you soon! Get home safe!" she replied, happily falling asleep.
 			"Goodnight Chloe! Get well soon!" Sparky barked.
 			Connor smiled, and gently pulled a blanket over her. He grabbed a saucepan from her cupboard, and placed it on her bedside, in case she needed to throw up.
@@ -11526,13 +11526,18 @@ VOLUME - Wolves Among Sheep
 			Bea chuckled. "Come on, Chloe - let's go get some nibbles."
 			"Ooh, sounds good." Chloe giggled, heading inside with Bea.
 			Trey smiled. "Bless her. I remember our first joint." he said, pointing at Connor.
-			"Ugh, don't even..." Connor groaned.
+			"Ugh, don't even..." Connor groaned, the memory turning back.
+
+			"Jesus... you are high as balls." Amy noted, as Connor finished puking into a bowl.
+			"Balls are down low, so actually, I'm sober." he protested between spews.
+			"Oh yeah? Who was the first president of the USA?" Trey asked.
+			"Jorg Washingmachine." Connor confidently asserted.
+			"Damn, he's good." Trey grinned, before throwing up himself.
+
 			"What did I tell you was in it?" Trey asked, giggling.
-			"You told me it was really weak and mostly tobacco." Connor said, side-eyeing Trey.
-			"This was after the super-laxatives, right?" Trey asked, now laughing.
-			"At least I didn't shart myself." Connor chuckled, sipping his drink.
-			"I remember when I first whiteyed." Amy laughed.
-			"I'm gonna grab a drink, bro. Want one?" Connor asked.
+			"You told me it was really weak and mostly tobacco."
+			"This was after the super-laxatives, right?"
+			"At least I didn't shart myself." Connor chuckled. "I'm gonna grab a drink, bro. Want one?"
 			"Hell yeah! Pour me another rum & cola." Trey nodded.
 			Connor clicked his teeth affirmatively, and headed inside. Amy joined him, thirsty herself.
 			Trey took a drag on the joint, trying and failing to mimic Connor's trick.
@@ -11555,10 +11560,10 @@ VOLUME - Wolves Among Sheep
 			He heard Trey say "Uh-huhhh..." slowly.
 			"You want coffee?"
 			"Yes please..." Trey said, half-asleep.
-			Connor nodded, rose, and knocked on Phil's room's door. Chloe answered.
+			Connor nodded, rose, and knocked on Phil's room's door. Chloe threw on a jumper, and answered.
 			"Morning!" she said cheerfully.
 			"Morning!" Connor smiled back. "I'm gonna make coffees. You want one?"
-			"I'd love one." she nodded, putting her glasses on and looking at his lips.
+			"I'd love one." she nodded, putting her glasses on and reading his lips.
 			"How do you take it?"
 			"Oh, milk, no sugar - unless you have sweetener?" she smiled. "Diabetes, eh?"
 			Connor chuckled back. "Bea?" he asked.
@@ -13215,7 +13220,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - The Belson Strangler, Part 1
+	EPISODE - The Belson Strangler, Part 1 -  Midnight Murders
 		______________________________
 		SCENE
 			Her eyes were still open. That was the worst part.
@@ -13845,7 +13850,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - The Belson Strangler, Part 2
+	EPISODE - The Belson Strangler, Part 2 - The Terror of Torbrook
 		______________________________
 		SCENE
 			"Thanks, Dave. Let me know if anything changes." Kat nodded softly.
@@ -18594,7 +18599,7 @@ VOLUME - Wolves Among Sheep
 			Hero.
 
 		New Year's
-////
+
 
 ______________________________
 VOLUME - Gods Among Men
@@ -19887,7 +19892,7 @@ VOLUME - Gods Among Men
 			The group shuffled to make room. Connor ended up beside Chloe, Sparky curling at his feet. Charlie sat across from them, Bea beside him.
 			"So." Charlie began, stirring his coffee. "How's everyone coping with the... situation?"
 			"What situation?" Trey asked.
-			"The terrorist attacks. The curfew. The general sense that the world's gone mad." Charlie shrugged. "I assume you've all been following the news."
+			"The terrorist attacks. The curfew. The blackouts. Or just the general sense that the world's gone mad." Charlie shrugged. "I assume you've all been following the news."
 			"It's hard not to." Chloe said.
 			"It's about time someone did something about that vigilante." Charlie said, almost casually. "The Werewolf. Whatever you want to call him."
 			Amy's jaw tightened. "What do you mean?"
@@ -21733,7 +21738,7 @@ VOLUME - Gods Among Men
 
 		Gathering Storm
 
-
+////
 	______________________________
 	EPISODE - Breakout
 		______________________________
@@ -22423,8 +22428,7 @@ VOLUME - Gods Among Men
 
 			"Hey, Mickey?" a guard called, motioning at his monitor.
 			"You so fine, you so fine you blow my mind..." the other guard quipped.
-			The first rolled his eyes.
-			"Collar 19 is draining rapidly. Shall we check it out?"
+			The first rolled his eyes. "Collar 19 is draining rapidly. Shall we check it out?"
 			"Nah... it's tied to a terrorist." Mickey growled. "We'll check it out once it's finished."
 
 			Convulsion after convulsion. Howl after howl.
@@ -22441,9 +22445,10 @@ VOLUME - Gods Among Men
 			"GAAAAAGH!" Connor roared, as he rolled onto his side.
 			"Wolf Man am okay?"
 			"Fuh... fuck... Jesus..." Connor panted, clutching his chest and coughing up blood. "Hah... thanks, big guy."
-			"Well, now the stupid part of the plan is sorted..." Goblin grinned. "You ready to go?"
+			"Well, now the openly suicidal part of the plan is sorted..." Goblin grinned.
+			"We can move onto the arguably suicidal bit." Connor nodded.
 			"Stand away from the door!" a guard called out, preparing to enter.
-			"Right on cue." Connor grinned, rushing to the door's side.
+			"Right on cue." Connor smirked, rushing to the door's side.
 			It swung open, and his comrades yelped in pain as their collars activated.
 			"Where's number 19?" he barked, pulling the switch.
 			"Right behind you." Connor growled.
@@ -22454,6 +22459,7 @@ VOLUME - Gods Among Men
 			The guard gulped, and did so. Connor stood behind his human shield, as his allies breathed in relief at the guard's departure.
 			"That's it. Few more steps." Connor whispered, pushing the pistol into the guard's lumbar. "Do as you're told, and you get to walk home tonight."
 			"Fucking terrorist. They were right about you lot."
+			"Says the jackboot. Now move, before I perform some amateur chiropracty with a handgun."
 
 		The Great Escape... Again
 		______________________________
@@ -27876,7 +27882,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Judgement Day, Part 1
+	EPISODE - Judgement Day, Part 1 - Valley of the Shadow of Death
 		______________________________
 		SCENE
 			It had been a chaotic few days - but days, nonetheless. The sun dragged itself up, whispering over the valley.
@@ -28285,7 +28291,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Judgement Day, Part 2
+	EPISODE - Judgement Day, Part 2 - Broken Hearts and Bones
 		______________________________
 		SCENE
 			It was early hours of the 26th of September, 1996. 03:27 AM.
@@ -28746,7 +28752,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Judgement Day, Part 3
+	EPISODE - Judgement Day, Part 3 - Revelations
 		______________________________
 		SCENE
 			The Riverside Squad stood on a junction in the night-time, ready for war.

@@ -805,7 +805,7 @@ VOLUME - Wolves Among Sheep
 			He looked down at his emaciated body, and closed his eyes.
 			A torturer approached, along with the Commandant.
 			"He just won't give in." the torturer snarled. "His system's processing the drugs faster than we can cook 'em. As for the conditioning, we're not getting any results... he still clings to his old identity. We've tried memory deletion techniques, but those only seem to stop him from fully forming *new* memories, not erasing old ones."
-			"Hah... you've gotta give him some credit, I suppose. Kid's got heart." the Commandant grinned. "I have to go back... Oxford will've heard about this by now. Give him your worst. I want him broken and reformed when I get back."
+			"Hah... you've gotta give him some credit, I suppose. Kid's got heart." the Commandant grinned. "I have to go back... the alien is a damn snitch. Give him your worst - I want him broken and reformed when I get back."
 			"What about Six?"
 			"We've arranged transfer." the Commandant nodded grimly. "His little canine companion won't be pulling any tricks like that again... you have your orders. Do to him as you please."
 			"Yes, sir."
@@ -13221,7 +13221,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - The Belson Strangler, Part 1 -  Midnight Murders
+	EPISODE - The Belson Strangler, Part 1 - Killing Spree
 		______________________________
 		SCENE
 			Her eyes were still open. That was the worst part.
@@ -13851,7 +13851,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - The Belson Strangler, Part 2 - The Terror of Torbrook
+	EPISODE - The Belson Strangler, Part 2 - Thin Blue Line
 		______________________________
 		SCENE
 			"Thanks, Dave. Let me know if anything changes." Kat nodded softly.
@@ -14132,7 +14132,7 @@ VOLUME - Wolves Among Sheep
 			Connor nodded, as his visage became one of grim determination.
 			"I do."
 
-		Raid/Dorsey browbeats/Press Conference
+		Dorsey browbeats/Terror in Torbrook
 		______________________________
 		SCENE
 			The mood in the city was grim - well, grimmer than usual. Atop Rydon tower, Connor and Sparky overlooked the city.
@@ -18220,7 +18220,7 @@ VOLUME - Wolves Among Sheep
 			"Just because you're not guilty here, doesn't mean you're not guilty there, you wicked rogue." she retorted.
 			Andrew was openly scowling at Trey and Phil, but chose not to cause a scene. The family finished dinner and sat down.
 
-			"...and so she says to me, "Don't look at me with that tone of voice! It smells a funny colour!"" Jamal finished an anecdote with, causing an eruption of laughter across the room.
+			"...and so she says to me, 'Don't look at me with that tone of voice! It smells a funny colour!'" Jamal finished an anecdote with, causing an eruption of laughter across the room.
 			"Right, we'd best be off soon." Phil said, checking his phone.
 			"So soon?" Patricia asked, saddened.
 			"Sorry, mama - we've got to go see Kerry's folks." Phil explained, his voice breaking ever-so-slightly at the mention of his late wife.
@@ -25021,7 +25021,7 @@ VOLUME - Gods Among Men
 			Connor sighed, conflicted. "I don't know... it just feels like I'm being played, here."
 			"Look, Murillo getting his hands on super-serum isn't something any of us want. Is it?"
 			Connor shook his head, then changed the subject. "Anyway, isn't this the part where we go over the regional history?"
-			"I'm FBI. My expertise extends to "Some of the drugs we caught the CIA selling originated here.""
+			"I'm FBI. My expertise extends to 'Some of the drugs we caught the CIA selling originated here.'"
 			"Riveting." Connor smirked.
 			The man laughed, and they arrived on a private airfield in Baja California. They disembarked, and the man showed Connor to an ATV.
 			"Buena caza, mi amigo." he grinned. Connor smirked, and drove onwards.
@@ -28510,15 +28510,18 @@ VOLUME - Gods Among Men
 			In the hospital, Judi looked at Connor's body, confused. Naismith was with her.
 			"So... he's healing?" she asked.
 			Naismith nodded. "See the movement? He's at least alive."
-			"Okay... I don't know how to speed up his healing, but we can at least keep an eye on his vitals." she said, hooking up EEG stickers to Connor's head.
+			"Okay... I don't know how to speed up his healing, but we can at least keep an eye on his vitals." she said, hooking up EEG stickers to Connor's head. She pulled up the tattered remains of his mask, and looked closer.
+			"He looks... familiar." Naismith pondered. "...nah, can't place him."
+			"He's pretty badly mangled." Judi shrugged. "I've never seen under his mask before now, either."
+			"I've spent months now, hoping to get a peek... and now I have, and I don't want it." Naismith nodded sombrely.
 			"I have to ask, Henry..." Judi began. "What is that on your eyes?"
 			"I, um..." he sighed. "I was dying. He saved me."
 			Judi swallowed, and took a deep breath. "Well, let's return the favour." she nodded.
 			Naismith nodded back, and left the room, returning to his squad.
 			"Sir." Nina whispered, still in shock.
 			"Nina... you can all go home now. There's nothing we can do." Naismith said sadly.
-			"Are you sure, sir?" Nina asked.
-			"I'm sure. The medics are doing all they can. I'll stay here in case there's any changes - I'll call Ward in the morning with an update. Phone me if anything changes."
+			"Are you sure, sir?"
+			"I'm sure. The medics are doing all they can. I'll stay here in case there's any changes - I'll call Ward with an update. Phone me if anything changes."
 			With that, the team nodded, and took their leave.
 
 			"[Okay, remember, you're not here as Connor's girlfriend. You're here as a scientist who works with the Werewolf. Naismith will be there, but don't worry, he's even more connected to us than you are. We just need to make sure no one knows it's Connor under that mask.]" Ivan explained.
@@ -28539,10 +28542,10 @@ VOLUME - Gods Among Men
 			"Hello?" Ward asked, her eyebrow raised.
 			"This is a specialist of ours." Ivan cut in. "Chto vam nuzhno, Chloe?"
 			Chloe paused. "Mne nuzhno oborudovaniye dlya dializa, i apparaty, kotoryye oni ispol'zuyut dlya podderzhaniya kisloroda v krovi do perelivaniya." she answered.
-			"She needs dialysis equipment, and blood oxygenators." Ivan relayed.
-			"Got it. Ms. Rosenbaum?" Ward asked, turning.
-			"Yes, ma'am?"
-			"I need dialysis equipment and blood oxygenators. And..." Ward's voice turned to a conspiratorial whisper, "This is all covered by the Official Secrets Act. Do not divulge to anyone who is staying here."
+			"Ms. Rosenbaum?" Ivan asked, turning.
+			"Yes, sir?"
+			"She needs dialysis equipment, and blood oxygenators."
+			"And..." Ward's voice turned to a conspiratorial whisper, "This is all covered by the Official Secrets Act. Do not divulge to anyone who is staying here."
 			"Don't worry, ma'am." Judi nodded. "Strictly confidential. I'll get those devices now."
 
 			An hour passed. Chloe tinkered away, trying her hardest to jury-rig the machines.
@@ -28561,7 +28564,7 @@ VOLUME - Gods Among Men
 			She shook her head. "No. I can do this. I have to."
 			"Need a hand?" Ivan asked, popping his head in.
 			"I..." Chloe thought for a moment, and looked down at Connor's body. "There's rib-bone in his chest cavity, where his hearts need to be. My hands are too shaky - can you remove the bone fragments? I'll keep working on these."
-			Ivan nodded, and grabbed a pair of tongs to remove the bone.
+			Ivan nodded, and grabbed a pair of tongs.
 			Chloe moved back over to the dialysis machines.
 			"Lactic acid build-up. Thankfully, your kidneys are still intact." she mused. She tinkered further, rigging the oxygenators to provide oxygen straight into his bloodstream.
 			Ivan looked over at Chloe, noticing the tension in her posture. "You're doing everything you can." he said, his voice steady but gentle. "He's lucky to have you."
@@ -28586,7 +28589,7 @@ VOLUME - Gods Among Men
 			"Thanks..." she whispered softly, as he left.
 
 			Ivan's car pulled up outside the safehouse. He took a deep breath, and opened the door.
-			"Hey!" Amy waved, still in her powersuit. She took off the helmet. "Just got back from patrol. Sparky and Trey popped out for some air, if you're looking for them."
+			"Hey!" Amy waved, still in her powersuit. She took off the helmet. "We just got back from patrol. Sparky and Trey popped out for some air, if you're looking for them."
 			"How's Connor getting on?" asked Gwen, peeling off her domino mask.
 			"You haven't told them?" Ivan tilted his head.
 			"I thought you should." Shannon shrugged.
@@ -28642,13 +28645,40 @@ VOLUME - Gods Among Men
 			Ivan raised his eyebrows. "Wish I could do that." he quipped.
 			Chloe chuckled softly, and looked down. Connor twitched slightly.
 
-			The room was dark, and its air almost oppressively humid. Connor was chained up, and being beaten with cattle prods. His vision flickered red, the chains biting into his wrists. Each crack felt like fire searing through his veins. He tasted blood, sharp and metallic, as his screams echoed in the cold, unyielding chamber.
+			The room was dark, and its air almost oppressively humid. Connor was chained up, and being beaten with cattle prods. His vision flickered red, the chains biting into his wrists. Each crack felt like fire searing through his veins. He tasted blood, as his screams echoed in the cold, unyielding chamber.
 			Zhao stood there, wincing. He looked over his computer screen.
 			"Xeno-adrenaline levels rising. Sir, we---we have what we need."
 			"Keep hurting him." the Commandant growled, smirking. "Agent?"
-			A Super-Agent at his flank drove needles into his chest. Blood siphoned out, being taken into canisters.
-			The Judge skulked in from the shadows. "Enough. The Youngblood must rest."
-			The Commandant scowled, but relented.
+			A Super-Agent torturer at his flank drove needles into his chest. Blood siphoned out, being taken into canisters. He recognised the man from somewhere.
+			Oh... of course. This bit.
+			The Werewolf just died - it was only fitting he got to see where he wwas born, too. 
+			But... what was *he* doing here?!
+			The Judge skulked in from the shadows. "Abomination."
+			The Commandant scowled, turning. "'Judge.' To what do I owe the displeasure?"
+			"You were given orders." the Judge shook its head. "The Lord sent me to check up on you. Perhaps you shall enlighten him on... this?"
+			"Feel bad for him, do you?" the Commandant laughed. "I didn't think your people could get... 'attached' like that."
+			"The Youngblood is kin, abomination." the Judge snarled. "If you require more Converts, you can request my blood, and I will provide when I dain to. Until then... let the Youngblood rest."
+			"You done, yet?"
+			"I will give you a chance to explain yourself to the Lord." the Judge stood firmly. "My craft is waiting atop this ramshackle facility. We will be departing momentarily. Genetor?"
+			Zhao looked up, trembling slightly.
+			"I am to debrief you away from the abomination. Come."
+			Zhao nodded quickly, and he and the Judge left.
+			Once again, Connor felt his consciousness flash back in.
+			"He just won't give in." the torturer snarled. "His system's processing the drugs faster than we can cook 'em. As for the conditioning, we're not getting any results... he still clings to his old identity. We've tried memory deletion techniques, but those only seem to stop him from fully forming *new* memories, not erasing old ones."
+			"Hah... you've gotta give him some credit, I suppose. Kid's got heart." the Commandant grinned. "I have to go back... the alien is a damn snitch. Give him your worst - I want him broken and reformed when I get back."
+			"What about Six?"
+			"We've arranged transfer." the Commandant nodded grimly. "His little canine companion won't be pulling any tricks like that again... you have your orders. Do to him as you please."
+			"Yes, sir."
+
+			He stepped forward, approaching Connor's body.
+			Beaten. Broken. Bleeding.
+			The dark urge only strengthened.
+			"Still fighting, are we?" he audibly grinned. "You know... this can all end right now. Say the word, and I'll put you out of your misery."
+			Connor let out a ragged breath.
+			"I can't hear you..." the man taunted, leaning in. "Say it."
+			The unmistakable sound of a helicopter taking off flashed in Connor's ears. He let out another whisper.
+			"I'm listening..." the man grinned.
+			At that, Connor's head turned. He clamped his mouth around the man's throat, and bit down.
 
 			Back to the hospital room, Chloe looked over the EEG machine.
 			"Not just a dream... a nightmare." she observed. She squeezed Connor's hand. "Wake up, Connor... please..." she begged. 
@@ -31244,7 +31274,7 @@ VOLUME - Age of Heroes
 			A man in a white labcoat approached.
 			"Oh, mademoiselle Derrington? Le chien commence a s'agiter." he began.
 			"Ah..." she nodded. "Merci, Docteur Bouzid."
-			She turned to the others. "Sorry - Connor, this is Dr. Bouzid. He's a trauma surgeon from Algeria - the Major had him flown over earlier, since Judi's preoccupied. He said Sparky is stirring - let's go see him."
+			She turned to the others. "Sorry - Connor, this is Dr. Bouzid. He's a trauma surgeon from Algeria - the Major had him flown over earlier, since Judi's, um... 'preoccupied' with the casualties from the battle. He said Sparky is stirring - let's go see him."
 			"Algeria?" Connor tilted his head.
 			Bouzid nodded deferentially. "Al-Dhib. Vive l'Algerie, mort aux tyrans."
 			Connor smirked.
@@ -32248,7 +32278,7 @@ VOLUME - Age of Heroes
 
 			He thought for a moment, again. "When did you figure out I was the Werewolf?"
 			"How do you mean?" she cocked an eyebrow.
-			"When they made me take off my mask." he said. "You kept whispering to yourself: "Don't be Connor, don't be Connor.""
+			"When they made me take off my mask." he said. "You kept whispering to yourself: 'Don't be Connor, don't be Connor.'"
 			She shrugged. "I had a hunch. When you'd been in the labs, you... reminded me of yourself. Sure, you hid the voice pretty well, but the way you walk, or move your hands - plus, what with the expressive mask you started wearing - set off my subconscious alarm bells. Then, when we were sparring after, and we practiced the weapon grab - that only reinforced it. Besides, why else would they want you to take off your mask, if not to freak me out?"
 			Connor nodded sadly. "I... I know I've already said sorry, but..."
 			"It's okay." she smiled. "You've been honest with me ever since. Anyway... I can't really ask you the same question, so... hit me with another!"

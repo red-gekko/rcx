@@ -23,9 +23,77 @@
 
     <input type="file" id="fileInput" accept=".txt,text/plain">
 
-    <button id="splitBtn" disabled>Split &amp; Download ZIP</button>
+    <div class="reader-source-controls">
+        <button id="splitBtn" disabled>⬇️ Split and Download ZIP</button>
+    </div>
 
     <div class="log" id="log" style="display:none;"></div>
+
+    <!-- Settings Panel -->
+    <div class="settings-panel-wrapper" style="margin-top: 30px;">
+        <h3>⚙️ Splitter Settings</h3>
+        <div class="settings-panel">
+
+            <div class="settings-section-subheader">Parsing Options</div>
+
+            <div class="settings-row">
+                <label class="settings-row-label" for="setting-ignore-cutoff">
+                    Ignore cutoff marker (<code>////</code>)
+                    <span class="settings-row-hint">When enabled, the cutoff marker is treated like a resume marker: it is removed, and parsing continues. When disabled (default), everything after the cutoff marker is excluded from the output.</span>
+                </label>
+                <span class="settings-row-control">
+                    <label class="settings-toggle">
+                        <input type="checkbox" id="setting-ignore-cutoff">
+                        <span id="setting-ignore-cutoff-state">Off</span>
+                    </label>
+                </span>
+            </div>
+
+            <div class="settings-row">
+                <label class="settings-row-label" for="setting-include-scene-headers">
+                    Include Scene headers in output
+                    <span class="settings-row-hint">Adds a <code>SCENE - [name]</code> line at the start of each scene's content. The scene's name is taken from the line immediately preceding the next <code>______________________________</code> divider (or the next <code>SCENE</code> marker, if no divider exists). If disabled, the scene name line is removed entirely.</span>
+                </label>
+                <span class="settings-row-control">
+                    <label class="settings-toggle">
+                        <input type="checkbox" id="setting-include-scene-headers" checked>
+                        <span id="setting-include-scene-headers-state">On</span>
+                    </label>
+                </span>
+            </div>
+
+            <div class="settings-row">
+                <label class="settings-row-label" for="setting-include-episode-headers">
+                    Include Episode headers in output
+                    <span class="settings-row-hint">Adds an <code>EPISODE - [name]</code> line at the top of each episode's file. If disabled, episode headers are omitted.</span>
+                </label>
+                <span class="settings-row-control">
+                    <label class="settings-toggle">
+                        <input type="checkbox" id="setting-include-episode-headers" checked>
+                        <span id="setting-include-episode-headers-state">On</span>
+                    </label>
+                </span>
+            </div>
+
+            <div class="settings-row">
+                <label class="settings-row-label" for="setting-include-volume-headers">
+                    Include Volume headers in output
+                    <span class="settings-row-hint">Adds a <code>VOLUME - [name]</code> line at the top of each episode's file if it belongs to a volume. If disabled, volume headers are omitted.</span>
+                </label>
+                <span class="settings-row-control">
+                    <label class="settings-toggle">
+                        <input type="checkbox" id="setting-include-volume-headers" checked>
+                        <span id="setting-include-volume-headers-state">On</span>
+                    </label>
+                </span>
+            </div>
+
+            <div class="settings-note">
+                Changing these options and re-splitting the file will apply the new settings. Your preferences are saved for future sessions.
+            </div>
+
+        </div>
+    </div>
 
     <div class="note">
         <strong>How it works:</strong> The script looks for lines matching
@@ -34,10 +102,11 @@
         episode's file. Episodes are numbered sequentially within each volume,
         and volumes are numbered sequentially in the order they appear.
         <br><br>
-        <strong>Formatting:</strong> Within each episode, <code>SCENE</code> headers are placed
-        at column 0, and scene content is indented with a single tab. Any deeper
-        indentation from the source is collapsed to one tab to keep the reading
-        clean. All processing happens in your browser — nothing is uploaded anywhere.
+        <strong>Formatting:</strong> The splitter removes the decorative
+        <code>______________________________</code> lines, strips all source indentation,
+        and reformats content with a single tab. Scene names are detected by
+        the line immediately preceding the next divider. All processing happens
+        in your browser — nothing is uploaded anywhere.
     </div>
 
 </div>

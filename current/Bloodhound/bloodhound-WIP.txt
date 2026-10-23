@@ -84,8 +84,8 @@ VOLUME - CODEX
 			America, under an increasingly frail FDR and a secretly-dying Butler, extended Lend-Lease to the desperate Soviets, despite the protestation of the isolationist Long. In response, German U-boats began sinking Atlantic convoys, which only enraged the American public and further wounded the Isolationist movement.
 			If the Kingfish wanted to keep his crown, he needed to adapt.
 
-			In the Pacific, Japan's hunger for empire only grew. Its proxy war in China, coupled with total humiliation in Khalkin Gol, led to the sidelining of the Army, with the immense Zaibatsu corporations backing the Imperial Navy's ambitions for Pacific dominance. The army was instead ordered to focus on China, while the 'real war' would be fought at sea. Plans were drawn up for operations to begin in February, 1940.
-			The resentment, along with extremist racism endemic to the army, lead to horrific atrocities across China. From sickening experiments in Manchuria that would make Frankenstein pale, to unspeakable brutality in Nanjing - if an alien force was looking at Eurasia, they'd see two increasingly disgusting genocides, spreading like wildfire.
+			In the Pacific, Japan's hunger for empire only grew. Its proxy war in China, coupled with total humiliation in Khalkhin Gol, led to the sidelining of the Army, with the immense Zaibatsu corporations backing the Imperial Navy's ambitions for Pacific dominance. The army was instead ordered to focus on China, while the 'real war' would be fought at sea. Plans were drawn up for operations to begin in February, 1940.
+			The resentment, along with extremist racism endemic to the army, led to horrific atrocities across China. From sickening experiments in Manchuria that would make Frankenstein pale, to unspeakable brutality in Nanjing - if an alien force was looking at Eurasia, they'd see two increasingly disgusting genocides, spreading like wildfire.
 			While the IJA committed crime after crime, the IJN struck across the Pacific - first, seizing French territories in Indochina; then, taking Indonesia from the occupied Dutch; and last, attacking British and American holdings - culminating in its occupation of the Philippines and a sponsored uprising of Hindu nationalists in the Raj - and at the same time, a shocking invasion of Hawaii.
 
 			A vengeful Congress, shepherded by Butler, declared war on the Axis - against a U-Boat campaign in the Atlantic, and a mass-expansion in the Pacific. Long knew he couldn't fight for isolation anymore - so he, ever the masterful spin doctor, got to work re-framing the war as a continuation of his campaign against Wall Street - a fight against fat cats, at home and abroad, who would dare to threaten the American people.
@@ -4369,7 +4369,7 @@ VOLUME - Wolves Among Sheep
 			The bullet slammed into the Werewolf's shoulder - and made a clinking sound as it hit the ground. A small splash of blood was all that marked where it had been.
 			"Oh god! Oh god!" Dobel cried, shooting again. And again. And again.
 			Connor closed the gap, and raised him in the air by the neck.
-			"*He can't help you.*" he snarled. His free hand morphed a wristblade that made a noticeable *SHNK!* noise as it formed.
+			"*He can't help you.*" he snarled. His free hand morphed a wristblade that made a noticeable *SHINK!* noise as it formed.
 			"P--please! I'll do anything!"
 			"How can we fix him?" Connor whispered, with terrifying calm.
 			"I--I'm not sure."
@@ -4616,13 +4616,17 @@ VOLUME - Wolves Among Sheep
 			"What, he couldn't be arsed to run for office again?" Connor quipped. "Anyway - is there anything I need to know about the region as a whole? I heard mention of war with Tunisia."
 			The man sighed, and checked his notes again. "How much do you know about North African politics?"
 			"Just give me the basics." Connor chuckled.
-			"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Ba'ath Party - and the Islamic Republic of Egypt, led by the Muslim Brotherhood. As you can guess from the names, the UAF supports secular pan-Arabism, while the IRE supports Islamism. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist militants backed by the UAF, and a small democratic movement caught in between."
+			"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Arab Socialist Ba'ath Party - and the Islamic Republic of Egypt - led by the Muslim Brotherhood. As you can guess from the names, the Ba'athists support secular pan-Arabism, while the Brotherhood supports Islamism. The Ba'athists themselves are divided into the 'Arabian' faction that is opposed to North African expansion and ethnic chauvinism, while the 'Arabist' faction is... not that. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist militants backed by the UAF, and a small democratic movement caught in between."
 			He pulled out a map of the region, to better illustrate his lecture.
 			"Tunisia is a democratic, multi-party republic - one of the few in the region. They mainly side with the UAF on regional politics, though - since both are secular modernists. When the Algerian Civil War ended, most of the rebels either went out to Libya to fight there, or sought refuge in Tunisia. From what we know, the military establishment in Algeria, especially Hattab's clique, don't want to get stuck in a quagmire of intervention in Libya - but they *do* want to 'settle the score' with the remnants in Tunisia."
 			"Right... so who's backing Hattab, and who's backing us?" Connor asked, somewhat bored.
-			"Hattab is primarily backed by South Africa - primarily because the SPA supports pan-Africanism." the man replied. "The UAF is more or less neutral - Hattab's nationalist policies and anti-Islamism would ordinarily appeal to them - but South Africa and the UAF are rivals for influence in Africa, which complicates things. We, on the other hand, were approached by French intelligence, who back the SPA."
-			"I thought this contract came from a construction company?" Connor tilted his head.
-			"It does. A Swiss company is footing the bill - they have several contracts with the current government, specifically building railways. Those contracts would fall through in the event of civil war. Aside from that, we're also receiving minor support from Tunisia, who want Hattab gone before he can threaten them. No word yet on if the Brotherhood has anything to do with this, but I doubt it."
+			"Hattab is primarily backed by South Africa - primarily because the SPA supports pan-Africanism, which is a massive threat to Apartheid." the man replied. "The UAF and Turkey are split - Hattab's anti-Islamism would ordinarily appeal to them, so the Kemalists in Turkey are providing token intelligence to him; but the UAF and South Africa are rivals, and the Arabian faction support Pan-Africanism too. Not to mention, the UAF is allied with Tunisia."
+			"Complicated." Connor chuckled.
+			"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
+			"Why do the French back an anti-colonial party?"
+			"Because a civil war just across the Mediterranean from them would be bad for business." he shrugged.
+			"I thought this contract came from a construction company."
+			"It does, too. A Swiss company is footing the actual bill - they have several contracts with the current government, specifically building railways. Those contracts would fall through in the event of civil war. French Intelligence provided us with our brief, and aside from that, we're also receiving minor support from Tunisia, who want Hattab gone before he can threaten them. No word yet on if the Brotherhood has anything to do with this, but I doubt it."
 			Connor paused, hesitant.
 			"What's wrong?" Sparky asked.
 			"Nothing, buddy." he said quickly. "Alright, what's the plan?"
@@ -7319,7 +7323,7 @@ VOLUME - Wolves Among Sheep
 			It was the 5th of November, 2015, and the evening sun began to sink beneath the sea.
 			Like most evenings lately, though - this one was the beginning of a monster's prowl.
 			Connor overlooked a group of Super-Agents - each one with the tell-tale black-veined eye sockets of genetically enhanced super-soldiers. Scanning the warehousing unit with glowing red eyes, he watched their visible heartbeats become big red bullseyes in his field of view.
-			His wristblades made an audible *SHNK!* as they formed. His eyes flared, as he stepped off of the ledge.
+			His wristblades made an audible *SHINK!* as they formed. His eyes flared, as he stepped off of the ledge.
 			He descended, moving faster than any human could follow, dropping down into the middle of the group with a sickening crack of bones. The Agent he landed on was now a heap of gore.
 			The Rage demanded blood. Connor grinned - for once, he could agree with it.
 			The fight was brutal and fast. Connor tore through them, the air groaning with every sweep of his blades. He didn't hold back - they weren't people, not anymore. They were weapons, and they needed to be neutralised.
@@ -8268,7 +8272,7 @@ VOLUME - Wolves Among Sheep
 			Connor dived behind a stack of crates as bullets shredded the wood. Splinters rained down, and he felt a round graze his shoulder - hot, sharp, but shallow.
 			"IT'S THE TRAITOR!" one of them roared.
 			"KILL HIM!"
-			Connor burst from cover, his wristblades extending with a familiar *SHNK!*
+			Connor burst from cover, his wristblades extending with a familiar *SHINK!*
 			He closed the distance in three strides, ducking under a wild swing and driving his blade into the first Agent's gut.
 			The man gasped, blood bubbling from his lips. Connor twisted the blade, then ripped it free, spilling intestines onto the floor.
 			Four.
@@ -8628,13 +8632,13 @@ VOLUME - Wolves Among Sheep
 
 			The phone rang twice before Naismith picked up.
 			"Barrett."
-			Connor's voice was hollow.  "The Werewolf. He'll be in Ludford Park tonight."
+			Connor's voice was hollow. "The Werewolf. He'll be in Ludford Park tonight."
 			A pause.
 			"How do you know?"
 			"I set it up." Connor closed his eyes. "He trusts me. He won't know what's coming."
 			Another pause.
 			"You're doing the right thing, Connor."
-			Connor said nothing. He just hung up.
+			Connor said nothing, and cut off the call.
 			He stood in the middle of the street, staring at a wall.
 			He had killed a man. He had broken an old woman's heart - literally.
 			Monster.
@@ -8688,8 +8692,8 @@ VOLUME - Wolves Among Sheep
 			Connor stared out at the skyline.
 			"You remember what happened when I got arrested?"
 			Sparky nodded.
-			Connor sighed. "Naismith had questions. About me. About the Werewolf. About why I was in the wrong place at the wrong time. He didn't know, but he was starting to suspect. And with everything that's happened - me disappearing, coming back stronger, and the Werewolf only appearing after I came back... it was only a matter of time before he put the pieces together."
-			"So you staged this, to throw him off?"
+			Connor sighed. "Naismith had questions. About me. About the Werewolf. About why I was in the wrong place at the wrong time. He didn't know, but he was starting to suspect. And with everything that's happened - me disappearing, coming back stronger, and the Werewolf only appearing after I came back... it was only a matter of time before he put the pieces together. He's damn good."
+			"So you staged this, to throw him off our scent?"
 			Connor shrugged. "Now he thinks I'm a victim. A witness. Someone who needs protecting, not investigating. And now, he'll be worried about who could've leaked this... he'll be distracted. Off his game."
 			"He seems to always be only a step behind us." Sparky pondered. "It's never long after we strike that he turns up."
 			"Well, hopefully that'll change."
@@ -8877,6 +8881,7 @@ VOLUME - Wolves Among Sheep
 			"Fun stuff." Connor grinned.
 			"We just finished a lab session." Chloe chimed in. "Dissections, this time."
 			"Gross." Bea chuckled, putting down her food. Chloe let out a giggle.
+
 			They finished their lunch, and headed out of the bistro. There, a man in military uniform with a bright red poppy held a collection box.
 			He marched up to the group. "Poppy appeal. Donations, please."
 			"Oh, uh..." Bea fumbled at her pockets. "Sorry, I'm out of change!"
@@ -8895,7 +8900,9 @@ VOLUME - Wolves Among Sheep
 			Connor took a deep breath, staring into the soldier's soul. He nodded, and they moved.
 			"Very brave, kid!" the soldier jeered. "Mouthing off at real men who fought for your freedoms!"
 			Connor's head snapped around, but Chloe jerked his arm.
-			"Don't." she said firmly. He sighed, and carried on walking. The trio came to a halt and leaned against a wall.
+			"Don't." she said firmly. He sighed, and carried on walking.
+
+			The trio came to a halt, and leaned against a wall.
 			"Fuckin' Tan. Fought for my chains, more like!" he hissed.
 			"Okay, what's going on?" Bea asked firmly.
 			Connor raised an eyebrow.
@@ -8907,7 +8914,7 @@ VOLUME - Wolves Among Sheep
 			He sighed. "Seeing a man in uniform cornering us isn't a happy memory even ignoring that. To me, a soldier is someone who kicks down your door, screams in your face, smashes your windows, and beats you in the chest. And he had the nerve... the fuckin' nerve to shake his little collection box in our faces and ask for money?"
 			"It's the poppy appeal..." Chloe shrugged. "I mean, they do help people--"
 			"They help *soldiers.*" he corrected. "Call me heartless, but they're not better than anyone else. They don't deserve their own special charity, some massive public campaign, or every single person wearing a special flower just for them."
-			He let out a breath, and bowed his head. "Sorry - I don't mean to rant about it. I know you guys get it."
+			He let out a breath, and bowed his head. "Sorry - I don't mean to rant about it. I know yous both get it."
 			"We do." Bea nodded softly. "Look, we've gotta get back to uni, but... are you gonna be okay?"
 			"Yeah, why?" he tilted his head.
 			"Connor... what you're describing, it... it sounds like PTSD." Chloe said gently.
@@ -8959,10 +8966,13 @@ VOLUME - Wolves Among Sheep
 			"Other than that... I know you've not said much about it, but... how are you holding up with Eileen's passing?"
 			He looked away. Hated that he couldn't tell her the whole story.
 			"I'm okay, I guess. I'm just glad I got to be with her at the end. I've stored some of her stuff at Riverside - along with her old bike. The rest, I'm donating to charity, like she would've wanted."
-			Before he could continue, his ears pricked up. His burner phone was ringing.
-			"One sec." he said, rushing into his room. He answered it.
+			"Bless you. It's really nice that you were looking after her. How'd you say you met her, again?"
+			"Uh--at the cemetery." he nodded. "Her son's funeral."
+			"What were you doing there?"
+			Before he could answer, his ears pricked up - his burner phone was ringing.
+			"One sec." he said, rushing into his room.
 			"Hello?"
-			"Hi, Connor." the other voice replied.
+			"Hi, Connor."
 			"Commandant..." Connor snarled, his face going white.
 			"Commandant?!" Sparky jumped up, barking and curling his lip.
 			"What's wrong?" Amy asked, confused.
@@ -8993,7 +9003,7 @@ VOLUME - Wolves Among Sheep
 			He felt the pressure building up under his skin again. Like he was going to explode.
 			"Just please... get outta my way." he pleaded.
 			"Not. Fucking. Happening." she shook her head.
-			"*GET OUT OF MY WAY!*" he roared.
+			"*GET OUT OF MY WAY!*"
 			She went pale. Not just pale, but practically white. She stumbled, and fell backwards.
 			He could hear her heartbeat. It was going a mile a minute. He turned, and spotted his reflection in the window.
 			"Oh... f-fuck." he whispered.
@@ -9246,7 +9256,7 @@ VOLUME - Wolves Among Sheep
 			Immediately, his eyes flashed red for a second. He saw Amy's heartbeat behind her door.
 			She was sat against it, as if barricading herself away.
 			Timidly, he approached. He could hear her breathing quicken as he walked, and her heart skip a beat as he knocked.
-			"Amy..." he whispered. "It's... it's me. Connor."
+			"Amy..." he whispered, his mask melting away as he pulled his hood down. "It's... it's me. Connor."
 			She didn't say anything. She just silently sobbed, covering her mouth so as not to scream.
 			He sat down against her door. Even without super-senses, she could feel her brother's presence opposite her.
 			Connor sighed. "These... these men, they shot me in the head. They took me away, and they... did something to me. Experimented on me. Tortured me. Made me into... this."
@@ -9488,7 +9498,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			The penthouse office had a smell. Cigars, old leather, and sin.
-			Lord Oxford's silhouette was framed against the rain-lashed window. He looked out at the city - *his,*  along with everything else in the  world. Or at least, he carried himself as if that were true.
+			Lord Oxford's silhouette was framed against the rain-lashed window. He looked out at the city - *his,* along with everything else in the world. Or at least, he carried himself as if that were true.
 			A heavyset man in a business entered timidly. So timidly, in fact, you wouldn't think it was his office, his penthouse, or his company.
 			"Lord Oxford." he said, with the voice of a slavish toady.
 			The old man didn't turn. "As you were, Morland. Report."
@@ -9957,11 +9967,12 @@ VOLUME - Wolves Among Sheep
 			Ivan paused, before taking a deep puff once more.
 			"Once." he finally said. "Grozny, Chechen ASSR. See, I was fairly high-ranking. Regimental Commissars aren't there to keep an eye on the troops, they're there to keep an eye on the general. A commanding officer was running away, leaving us soldiers to die. So, I shot him in the head, and rallied our troops. We drove the rebels back. After that, my time as a Commissar was finished - no way in hell any general would willingly work with me. So, the KGB approached me, and the rest, as they say, is history."
 			Connor leant back in awe.
-			"Anyway, enough history." Ivan grinned, before turning serious. "I've got some bad news."
+
+			"Anyway, enough backstory." Ivan grinned, before turning serious. "I've got some bad news."
 			"Me too." Connor sighed. "You first."
 			"The police. There was a report about a little incident last night - two Skinners got mauled by a boy and his wolf. Sound familiar?"
 			"They reported it?" Connor tilted his head.
-			"Da. Coppers were gonna come and get you for GBH and violating the Dangerous Dogs Act. They were also gonna seize, and probably kill Sparky. Well, they'd *try* - and I imagine that'd be a whole new issue. Thankfully, MI5 managed to pull some strings, get you off the hook... and on theirs. You owe them a favour now." he nodded grimly.
+			"Da. Coppers were gonna come and get you for GBH and violating the Dangerous Dogs Act. They were also gonna seize, and probably kill Sparky. Well, they'd *try* to kill the little volchonok - and I imagine that'd be a whole new issue. Thankfully, MI5 managed to pull some strings, get you off the hook... and on theirs. You owe them a favour now." he nodded grimly.
 			"Shit..." Connor sighed.
 			"What about you? Your bad news?" Ivan asked.
 			"The police, too." Connor sighed. "They've got my hand."
@@ -9975,7 +9986,7 @@ VOLUME - Wolves Among Sheep
 			Connor paused, then pointed at Amy and Sparky. "Um... she knows about me."
 			Ivan tilted his head.
 			"She, um..." he continued. "You've heard of the Commandant?"
-			Ivan cocked an eyebrow. "He's their leader."
+			Ivan cocked an eyebrow. "He's with the conspiracy - one of their heavies."
 			"Yeah." Connor grimaced. "He tortured me and Sparky personally. Anyway, he phoned me the other night. Baited us into a trap. I got so worked up, I accidentally shapeshifted in front of her. Ended up telling her everything."
 			Ivan stroked his chin. "Can she be trusted?" 
 			Connor met his gaze. "If she couldn't, what would you do?"
@@ -10009,14 +10020,14 @@ VOLUME - Wolves Among Sheep
 			"What do you mean?"
 			"First, that's your debt to MI5 paid in full. Second, they'll manipulate the police investigation against you - throw spanners in works, make evidence go missing, etc. And third, I have good evidence he's working with the Skinners - taking him out will weaken their chain."
 			Connor thought for a moment. "Why would the Optimates want a child trafficker?"
-			"A couple reasons." Ivan grimaced. "First... well, a lot of them are just degenerates. Second... there's a PaladinCorp proxy in the Congo. They like to recruit young, so I've heard."
+			"A couple reasons." Ivan grimaced. "First... well, a lot of them are just degenerates. Second... we've found evidence that they're using kids for... experiments."
 			"How do we know MI5 isn't another puppet of the Optimates?"
 			"The wider agency? Oh da, it's compromised. But my contact - he's clean, I made sure. He's no communist, but he's an honest man. One who doesn't want fascist cabals and men like Hughes running around."
 			Connor hesitated for a moment. "I don't know... I've kinda sworn off killing normal humans."
 			"He is not a 'normal human'. A bad man, very bad man - and he works with the Optimates. Is that not enough? This man trafficked kids, to god-knows-where." Ivan countered, disgust dripping from his words. "And he's still out there, sipping champagne with politicians."
 			"I know. Ivan, if I were... if I were still human, I wouldn't be having this debate. But..."
 			"How does having superpowers change anything?" Ivan tilted his head.
-			"Because it's one thing to kill Super-Agents. They can't be taken down non-lethally, and they're a threat as long as they're alive - doubly so if they're fascist cabalites. Killing humans... it's a slippery slope. One day, I kill a nonce, the next I kill a mobster, then a petty criminal, and before we know it I'm butchering jaywalkers."
+			"Because it's one thing to kill Super-Agents. They can't be taken down non-lethally, and they're a threat as long as they're alive - doubly so if they're fascist cabalites. Killing humans... it's a slippery slope. One day, I kill a nonce, the next I kill a mobster, then a petty criminal, and before we know it I'm butchering litterers."
 			"Don't act like it's your first time." Ivan shook his head. "I've read your file. Your foster-carer?"
 			"You're not getting it, Ivan. There's... something evil in me. A demon in my skull. Always pushing, always tempting. I don't know how strong your senses are, but I can hear people's heartbeats. Not just that - *see* them. When your body's designed to be the perfect predator - everyone around you starts looking like prey. Indulging that, letting that side of me grow - it's bad enough killing the Super-Agents. I wanna kill him - believe me, I do. But I've gotta have some lines, and the ones I have are getting blurrier by the day."
 			"What other options are there?" Ivan sighed. "I'll tell you a secret, Connor - Hughes has superpowers of his own. Money. Connections. If he didn't want you to kill him, he shouldn't be selling kids for cabalites. Humans don't do that."
@@ -10070,14 +10081,14 @@ VOLUME - Wolves Among Sheep
 		SCENE
 			Alan Hughes sat in his luxurious home, sipping from a glass of red wine. He glanced at his phone, and then it rang.
 			"Hello, your honour! ...Good, glad to hear she was to your liking. Another? Of course! What do you want? ...Okay, how old? Hmm... youngest I can do is 7. Excellent. See you soon."
-			He raised the glass to his lips, but the sound of a *SHNK!* behind him stopped him cold, as a bolt whizzed past him. Slowly, he turned around to see Connor, standing in the shadows, his crossbow aimed directly at his face.
+			He raised the glass to his lips, but the sound of a *SHINK!* behind him stopped him cold, as a bolt whizzed past him. Slowly, he turned around to see Connor, standing in the shadows, his crossbow aimed directly at his face.
 			"It could be over like that, Hughes." Connor growled. "And it will be - if you don't confess."
-			Hughes froze for a moment, his eyes flicking to the crossbow, then back to Connor. His expression faltered for a brief second, but then he quickly recovered, a smirk playing at the edges of his lips.
+			Hughes froze for a moment, his eyes flicking to the crossbow, then back to the Werewolf. His expression faltered for a brief second, but then he quickly recovered, a smirk playing at the edges of his lips.
 			"Don't try to call for help." Connor snarled. "The men you had outside folded easy enough."
 			"Oh god... okay, I knew this day would come. I'll confess. Just - just don't pull that trigger, alright?" Hughes trembled.
 			Connor kept the crossbow steady, not lowering it for a second. "You have three hours. Try to skip town, I'll kill you."
-			Hughes nodded, the smile still present but now forced. He looked almost relieved.
-			"Yeah, yeah, I'll... I'll get the confession ready. You'll have it, don't worry." he half-begged.
+			Hughes nodded - he looked almost relieved.
+			"Yeah, yeah, I'll... I'll get the confession ready. You'll have it, don't worry."
 			"Try anything funny, and you'll regret it."
 			Without another word, Connor grabbed Hughes by the throat and raised him in the air.
 			For a moment, the world went silent.
@@ -10132,6 +10143,34 @@ VOLUME - Wolves Among Sheep
 			"...I'm sorry."
 			"Don't be." Trey smiled sadly. "Just... don't be a stranger."
 			He rose, and embraced his best friend. Connor sighed, and hugged him back tightly.
+			After a moment, he pulled away, glancing towards the bar. A young woman stood there, waiting for her drinks.
+			Connor grinned, nudging Trey.
+			"Here, I'll make it up to you."
+			Before Trey could respond, Connor wandered over to the bar, leaning against it beside her.
+			"Hey, girl. Are you a burst appendix?"
+			She gave him a funny look. "What?"
+			"'Cause I'd like to take you out."
+			There was a moment of silence.
+			"On a date." he clicked, making finger guns.
+			"Oh, God." Trey muttered, immediately realising what Connor was up to.
+			The woman burst out laughing. "Was that seriously your best shot?"
+			"Absolutely not. I've got worse."
+			"I'd hate to hear them."
+			"Trust me, you would."
+			Trey wandered over, shaking his head.
+			"Sorry about him. He's usually like this."
+			"Usually?" the woman laughed.
+			"Unfortunately." Trey grinned, holding out his hand. "I'm Trey, by the way."
+			She smiled, taking it. "Tara."
+			"Nice to meet you, Tara. So... you come here often?"
+			"Often enough to recognise a wingman." she grinned.
+			"...is it working?"
+			"Hmm... buy me a drink, and I'll let you know."
+			Connor glanced between them, grinning as Trey effortlessly picked up the conversation.
+			As he slipped away, Trey gave him a thankful wink. He chuckled, and pulled his red hood up.
+			He stepped into the rain, and took a deep breath. Then he darted into an alleyway, and his hood turned black as his costume reformed.
+			He liked being Connor. It was fun. Calming. Normal.
+			But what was coming didn't need Connor - not the Connor they killed. It needed *him.*
 
 			It was raining, now. DI Naismith stood in the police station car park, smoking a cigarette.
 			A rattling noise caught his attention, and he turned to look. Then, he felt something grab his arm, twisting it, before slamming him against his car bonnet.
@@ -10143,7 +10182,7 @@ VOLUME - Wolves Among Sheep
 			"Because I heard the way you hissed his name. We share an enemy."
 			He struggled against Connor's iron grip. "Nah... there's no way I'm doing you a fav--"
 			Connor cut him off by lifting him up, and slamming him back down, winding him.
-			"LISEN TO ME! It'll be in Belson - Rudyard Street. I'm killing him tonight either way - if you wanna miss the party, that's on you."
+			"LISTEN TO ME! It'll be in Belson - Rudyard Street. I'm killing him tonight either way - if you wanna miss the party, that's on you."
 			At that, Nina arrived, and immediately drew her gun.
 			"ARMED POLICE! STAY RIGHT THERE!" she barked.
 			Connor spun around, and shoved Naismith right at her - then threw a smoke bomb down at his feet.
@@ -10506,9 +10545,14 @@ VOLUME - Wolves Among Sheep
 			Jones stroked his chin, impressed. "Good find." he nodded. "I guess you could say you're rather 'handy', eh?"
 			Chloe rolled her eyes, but couldn't help but laugh.
 			"Okay... let's take a look at the bones--Agh!" she gasped.
-			The hand's finger twitched slightly, before going still again.
+			The hand gripped hold of hers, tightly. Not as tight as it used to be able to, but tight enough to hold on.
+			"Um... uh..." she stammered. Then, thankfully, it went limp once more.
 			"...Jesus." Jones shuddered.
-			Chloe breathed out. "It's still alive... barely, but still. It must be respirating anaerobically... we'd better hurry up and refreeze it before it starts to decompose."
+			Chloe breathed out. "It's still alive... barely, but still. It must be respirating anaerobically."
+			"But how the hell is it moving without a brain?" Jones cocked a brow.
+			"...octopus." she realised.
+			"...what?"
+			"An octopus's arms have additional neurons, which allows them to act independently." she explained. "I can't think of a better explanation - though I'd like to get a closer look inside. Of course, if it's defrosted enough to spasm like that... we'd better hurry up and refreeze it before it starts to decompose."
 			"Rather you than me." Jones grinned. "We've got a cold box for that?"
 			She tilted her head. Jones stood up, and grabbed a metal box - it looked a little bit like a microwave.
 			"Cold box. It's basically a blast chiller you can dissect in." he explained. "There's these little ports at the back with gloves, and the tools are already in there."
@@ -10531,13 +10575,14 @@ VOLUME - Wolves Among Sheep
 			"How's it going?" Jones asked, looking over.
 			"It's... fascinating." Chloe began, smiling enthusiastically. "Whatever this 'Werewolf' is, his strength is truly something else. By my estimations, a single punch could have the force of a jackhammer."
 			"Jeez." Jones grinned. "I wouldn't wanna go up against something like that."
-			"I'll say." Chloe nodded. With that, their lab door opened.
+			"I'll say." Chloe nodded. "I've got some tissue samples - I'll need to take a look at those neurons."
+			With that, their lab door opened.
 			"Oh, hello!" she said cheerfully.
-			"Good afternoon." the Commandant said, walking forward. His black-veined eyes were sat behind a pair of thick sunglasses.
+			"Good afternoon." the Commandant smiled, walking forward. His black-veined eyes were sat behind a pair of thick sunglasses.
 			"Can we help you, sir?" Jones asked, subtly positioning himself in front of her, as if making a human shield.
 			"Just having a look around is all." he nodded back, before extending his hand. "George Davis - I'm the Commandant of PaladinCorp."
 			"Lovely to meet you, Mr. Davis." Chloe smiled warmly, shaking his hand. "Chloe Derrington."
-			"Lovely to meet you, too." he smiled affably. "What are you working on?"
+			"Lovely to meet you, too." he chuckled affably. "What are you working on?"
 			"Oh, I--" she stammered, "I'm not sure if--"
 			"It's okay." Jones said softly. "PaladinCorp is one of our biggest shareholders. You can tell him."
 			The Commandant grinned, looking down at Connor's hand.
@@ -10587,6 +10632,7 @@ VOLUME - Wolves Among Sheep
 			"It's probably nothing." he quickly covered, hating the lie.
 			"How do you know about them?"
 			He looked away, before sighing. "They were involved, back home. They gave weapons and training to Loyalist paras."
+			Not *technically* a lie - but close enough that he felt sick.
 			"Oh, my god." Chloe shook her head. "I'm so sorry... oh god, should I even be working there? What if they want us to... to figure out how to make more of that serum?"
 			Connor gently put his hand on her shoulder. "That's not what you're doing, is it? You're analysing the Werewolf... and hey, you've said before how much you love working on this kind of thing. Don't worry about Paladin... I'm sure it'll all be fine."
 			Chloe smiled softly, rubbing his hand. "Thanks, Connor. That... means a lot."
@@ -10628,7 +10674,7 @@ VOLUME - Wolves Among Sheep
 			"YES! OH GOD, YES!"
 			Connor walked away, and ducked into an alleyway just as the cops arrived. The 'gun' melted back into gel, and was absorbed into his hand. He grinned giddily under his bandana.
 
-			"He was very understanding and apologetic." Connor chuckled. "He promised he would make sure this didn't happen again."
+			"Just a friendly discussion. He was very understanding and apologetic." Connor chuckled. "He promised he would make sure this didn't happen again."
 			"I'm--I'm sorry you went to any trouble on my account--"
 			"Trouble?" he grinned. "It was a pleasure."
 			At that, they drove into Redbridge, and pulled up outside the repair shop.
@@ -12681,9 +12727,9 @@ VOLUME - Wolves Among Sheep
 			"So, Trey's pulled." Connor began.
 			"Slaaaag." Amy jeered.
 			"Shut up." Trey laughed. "You're not getting invited to the wedding."
-			Connor grinned. "I won't lie though - you were a little camp there. She might think you're her new GBFF."
-			"GBFF?" Bea cocked an eyebrow.
-			"Gay Best Friend for Life." Trey sighed. "He's right actually - the pain of being a disaster bi. I'll be flirting with a woman, and I have to ask myself if we're queening out or if I'm actually shooting my shot."
+			Connor grinned. "I won't lie though - you were a little camp there. She might think you're her new GBF."
+			"GBF?" Bea cocked an eyebrow.
+			"Gay Best Friend." Trey sighed. "He's right actually - the pain of being a disaster bi. I'll be flirting with a woman, and I have to ask myself if we're queening out or if I'm actually shooting my shot."
 			"I'll say." Amy chimed in. "One time, this girl I liked posted a really hot picture, so I commented on it, saying she looked really good - she replied 'coming from you xx' - and, like, I'm not saying that to be your mate, I'm *trying* to shag you."
 			"Fuckin' double standards." Connor faux-growled. "If I said something half as pervy, you'd all castrate me."
 			"Yeah, but it's just... it's different, getting perved on by a woman." Bea grinned. "It feels more like a compliment."
@@ -12706,7 +12752,7 @@ VOLUME - Wolves Among Sheep
 			Chloe hesitated, before leaning forward. "Connor, do you want to feel a little better?"
 			Bea looked at her wide-eyed, grinning.
 			"I'm listening." Connor chuckled.
-			"Me and Bea once got wasted, too. Then, apropos of nothing..."
+			"Me and Bea once got wasted, too. Then, apropos of nothing, she..."
 			"Okay, you make me sound like a creeper there." Bea cut in, laughing. "You're supposed to experiment at this age, right?"
 			"I knew it." Amy gasped, rising.
 			"Sorry, hun - I'm taken." Bea laughed. Chloe gave off a subdued chuckle.
@@ -12861,7 +12907,7 @@ VOLUME - Wolves Among Sheep
 			"You're awake."	Ivan's voice came from somewhere to his left. "Good. I was starting to worry."
 			Connor turned his head slowly, and saw his Commissar. The safehouse was small, barely furnished.
 			Ivan looked exhausted. There was a bandage wrapped around his ribs, visible through the tear in his shirt.
-			"What happened?" Connor asked, trying to sit up. His arms gave out almost immediately, and he collapsed back onto the  with a groan. "Where's--"
+			"What happened?" Connor asked, trying to sit up. His arms gave out almost immediately, and he collapsed back onto the bed with a groan. "Where's--"
 			He stopped, and looked down at himself.
 			He was wearing a dressing gown. A faded, floral thing that looked like it had been nabbed from a charity shop.
 			"Whose is this?"
@@ -13515,7 +13561,7 @@ VOLUME - Wolves Among Sheep
 			Connor tilted his head. "Those being?"
 			"My vitiligo, and being mixed race?" Bea cocked an eyebrow.
 			"You're biracial?" Trey asked.
-			"Yeah. The vitiligo throws people, to be fair." she shrugged. "I swear to god, the amount of people who assume that the two are linked boils my blood."
+			"Yeah. The vitiligo throws people, to be fair." she shrugged. "I swear to god, the amount of people who assume that the two are linked boils my blood. 'Oh, well you're half black and half white, but *literally.*' Ugh, it's so annoying. Almost as bad as when they think it's contagious - almost."
 			"I can imagine." Connor nodded sympathetically. "Well, in that case, I guess you're white now too. Sorry sis, that actually puts us in the majority - your makeup is hereby denounced."
 			"Fuck yourself, honkey." Amy cut back.
 			"Hey, I'm also black by that logic." Bea laughed. "So actually, whites are only a plurality here."
@@ -15719,7 +15765,7 @@ VOLUME - Wolves Among Sheep
 			"There always is... what's wrong?"
 			"That depot? It's already taken."
 			"By who?"
-			"I don't know. But whoever it is, they made a mess of the Super-Agents, and destroyed the serum like I'd planned on. And weirder still - they used a bow and arrow."
+			"I don't know. But whoever it is, they made a mess of the Super-Agents, and destroyed the serum like I'd planned on - except there were a few vials unaccounted for. And weirder still - they used a bow and arrow."
 			"So... the Optimates have made an enemy of a KGB sniper, an autistic Irishman, a warg... and Robin Hood." Connor sighed. "Any leads?"
 			"Not yet. That's only half of the bad news." Ivan stroked his beard. "The other half? The serum in that shipment - it was outbound."
 			Connor ran his hands through his hair. "You... you mean Paladin has started producing serum *within* Drackhill?"
@@ -16213,14 +16259,20 @@ VOLUME - Wolves Among Sheep
 			He stepped off to the side of the room, and stood for a moment. He looked out of the clock face, and then cast his gaze down on the city. The racket of rain hitting glass piped up. He looked around the hideout, and spotted some bits and bobs - an antique, pedal-powered sewing machine, and a set of tools on a workbench, fitted with a hand-cranked whetstone. A washing line held an assortment of casual clothes, suspended between a pair of rusted gears.
 			"Aren't you a little exposed, out here?" he cocked an eyebrow.
 			"Not at all. For starters, those windows are partially reflective - like interrogation rooms. We'd need a lot of light in here for anyone to see inside properly. And besides, who the hell would actually live in an abandoned clock tower?"
-			"Well, that was my second question." he grinned. At that, a pigeon flew up from a hole in the floor, and landed on her bench.
+			"Well, that was my second question." he grinned. At that, an Eagle-Owl flew in from the roof hatch, and landed on her bench.
 			"Case in point." he snarked.
-			"Hello, Reginald!" she beamed, approaching. The pigeon flapped its wings excitedly at her approach, and cooed as she stroked the nape of its neck.
-			"'Reginald?'"
-			She blushed slightly. "Yes, I... I gave them names. I... I appreciate their company. Thankfully, their roost is beneath us, so I don't need to worry about contamination."
-			"Wow." he smiled. "I never thought I'd see the big bad Whiplash making friends with pigeons."
-			"It's for tactical purposes too." she protested. "Animals are especially receptive to tactile telepathy, as they lack the instinct of secrecy common in humans. I can find out from them if there is anything in the city that I need to know about. And pigeons are particularly good at keeping track of their location, which means I can learn the specific coordinates of the intel they acquire."
-			"I did the same once, with some eel-bats." Connor nodded. "Um... long story."
+			"Hey, Bubo!" she beamed, approaching. The owl flapped its wings excitedly at her approach, and cooed as she stroked the nape of its neck. Its amber eyes had the typical black veins Connor was now familiar with.
+			"'Bubo?'"
+			She blushed slightly. "Yes, I... it's a long story."
+			"I've got time."
+			"He lived here before me. At first, I was careful not to disturb him, but he's surprisingly bold. So, I let him eat what I had left over, and he kept the rats and pigeons under control. With me living here alongside him though, the vermin started to clear out - so he began venturing for other meals."
+			"A great big owl in the city... that's new." Connor stroked his chin.
+			"For a reason. He came back one morning, half-dead. A cat must've got to him. So, I..."
+			"...attacked a Paladin depot, swiped a little serum, destroyed the rest to cover your tracks, and healed him with that." Connor nodded in realisation. "That ties up a few dangling threads. Still... why go to all that trouble?"
+			"I... I appreciate his company." she admitted - more to herself than to him.
+			"Wow." he smiled. "I never thought I'd see the big bad Whiplash making friends with an owl."
+			"It's for tactical purposes too." she protested. "Animals are especially receptive to tactile telepathy, as they lack the instinct of secrecy common in humans. Bubo and I are linked, so he can provide me with reconnaissance, and now he's been enhanced, he's pretty handy in a fight. If we weren't going after that cyber-Jotunn, I'd've brought him with me."
+			"I did the same once, with some eel-bats." Connor nodded. "Um... long story, too."
 			"Anyway, this place is good for what I need." she shrugged. "I can easily anticipate any attack, and the hatch on the roof lets me escape quickly in an emergency. The position gives me plenty of opportunities for recon, as well - I can use my powers to help with travelling rooftops, or assist with my grappling. Besides, none of my equipment needs electricity. I've got the sewing machine for costume repairs, and I have enough hand tools for fletching my arrows."
 			"Yeah, but... where do you poop?"
 			She rolled her eyes, before letting out a brief chuckle. "There's a 24-hour gym a stone's throw away. It has toilets and showers. It wasn't too hard to figure out the door code. All I need to do is throw on some typical exercise clothes, put some concealer makeup over the tell-tales, and I blend in seamlessly."
@@ -16238,8 +16290,8 @@ VOLUME - Wolves Among Sheep
 			She looked away. "Maybe. There are still a few loose ends I need to tie up before I can make a commitment like that."
 			"You mean, you need to mentally prepare yourself to let your guard down around us." Connor cocked an eyebrow.
 			She went to deny it, but sighed instead. He gave her a soft smile, and nodded.
-			Reginald let out a soft coo, before flying back down to his roost.
-			"Besides, I'm not ready to leave my new friends behind." she grinned.
+			Bubo let out a soft hoot, before flying back up to his roost.
+			"Besides, I kind of like it here." she grinned.
 
 			Connor stepped away, and looked back out the window, his eyes glazing slightly.
 			"What's wrong?" Gwen asked.
@@ -16304,7 +16356,7 @@ VOLUME - Wolves Among Sheep
 			"Oh my god, you're okay..." Amy gasped, rushing over to them. Trey stood stunned, but shook his head, and joined them. After a quick group hug, he helped them inside.
 
 			"What happened?" Amy asked, setting down a cup of tea. Sparky greedily ate his promised beefsteak, and passed out in his bed.
-			"A cyborg giant beat the shit out of me, and then a psychic dominatrix rescued us." Connor shrugged, grinning.
+			"A cyborg giant beat the shit out of me, and then a psychic dominatrix rescued us, and we crashed round her place in Belson Clock Tower, where I met her mutant owl." Connor shrugged, grinning.
 			"Damn..." Trey gasped. "You... you're not fucking with me, are you?"
 			"No, that pretty much covers it." Connor groaned, stretching. "I'll be fine. Just need a good night's rest."
 			Trey hesitated for a little while, before finally speaking.
@@ -16694,7 +16746,7 @@ VOLUME - Wolves Among Sheep
 			"I've... been there." he began.
 			She turned, just slightly.
 			"I don't scar easily, and--it was long enough ago that they've faded." he explained.
-			Not a lie. He hated that so much of what he said nowadays needed to be noted as such - never true. Just... not false.
+			Not a lie. He hated that so much of what he said nowadays needed to be qualified like that - never true, just... not false.
 			"I... I'm so sorry, I didn't--"
 			"It's alright." he smiled softly. "I'm not trying to say I know exactly what you've been through, but... I'm not gonna judge you. Just like you won't judge me."
 			She hesitated, before walking slowly towards him.
@@ -20109,7 +20161,7 @@ VOLUME - Gods Among Men
 			The incumbent fell backwards, shortly joined by his bodyguards.
 			Ward crawled under her table, desperately pressing at the wound.
 			Then, an explosion rocked the air, and glass rained down from the centre's skylight.
-			"GRAAAAAGH!" Connor howled, his wristblades gleaming in the light. Sparky landed a foot away, while Ivan grappled down and ducked into cover. Gwen came down almost gracefully, before readying her bow.
+			"GRAAAAAGH!" Connor howled, his wristblades gleaming in the light. Sparky landed a foot away, while Ivan grappled down and ducked into cover. Gwen came down almost gracefully, before readying her bow. Bubo fluttered down beside her, wearing sharp metal gloves over his talons.
 			"We'll cover you! Go, go, go!" Ivan barked, drawing Fyodor and laying down suppressing fire.
 			"Spartacus! You take left, I'll take right!" Connor roared, before the twin Werewolves charged.
 
@@ -20125,6 +20177,9 @@ VOLUME - Gods Among Men
 			*CLICK-CLACK!* one Agent's shotgun snapped. Before it could fire, though--*SHIK!*
 			"Watch your back!" Gwen barked, as her arrow punched through an eyeball.
 			"That's what you're for." Connor quipped, before spinning around and decapitating another.
+			A third swept his machete out, slicing through Connor's guard. He flipped back and went to counterattack, before--
+			"AAAAGH!" the Agent screamed, as an owl's talons dug into his eyeballs. Connor tilted his head, before impaling.
+			"Good boy, Bubo." he grinned, before looking out to the front door.
 			Damn. More of them. This was gonna get ugly.
 			A piercing roar cut in through the chaos, as thundering steps came in.
 			"Oh, fuck." Connor groaned. "Whiplash, Verdict - focus on the remaining gunmen. Spartacus... with me."
@@ -21458,7 +21513,7 @@ VOLUME - Gods Among Men
 			"Right, we'll give you some privacy." Vince nodded gently. "You go in first, we'll go in after."
 			"Oi. That's not how it works, and you know that." a prison officer scowled. "One of you lot being a deviant doesn't me----"
 			His words were stopped by Connor's hand exploding out and wrapping around his neck.
-			"Feel that?" he whispered with tranquil fury. "My grip? Think about that. Think about how, oh sure, you might be able to scream for help - but not quickly enough to save your own skin. *She. Showers. First.* Any objections, I'll grab that nightstick and shove it so far up your arse, you'll taste metal. *Understood?*"
+			"Feel that?" he whispered with tranquil fury. "My grip? Think about that. Think about how, oh sure, you might be able to scream for help - but not quickly enough to save your own skin. *She. Showers. First.* Any objections, I'll grab that baton and shove it so far up your arse, you'll taste metal. *Understood?*"
 			The guard hurriedly nodded, and was released.
 			"That's my boy." Vince grinned proudly. "Go on, Shannon. We'll be out here. Anyone tries to come in... they'll learn soon enough."
 
@@ -21901,8 +21956,10 @@ VOLUME - Gods Among Men
 
 			It turned late, now - very late. Amy rolled her way through the city, her eyes heavy and muscles aching as she tried to keep a low profile.
 			"Fuck..." she huffed. "Wish I could shapeshift like him..."
-			Before she could groan any more, she heard a cracking noise in the air. She turned to face it, and felt a whip wrap around her neck.
-			"Urk!" she gasped, grabbing for it. Too late. It folded and knotted itself into a noose, as she was hoisted in the air. The bike fell to its side, as she choked and coughed, dangling from a street light. Her hooded attacker held the other end tight.
+			She saw something - amber eyes looking at her. They were perched on a street light.
+			An owl? Didn't think you'd find those in the city, but--
+			Before she could even finish the thought, she heard a cracking noise in the air. She turned to face it, and felt a whip wrap around her neck.
+			"Urk!" she gasped, grabbing for it. Too late. It folded and knotted itself into a noose, as she was hoisted in the air. The bike fell to its side, as she choked and coughed, dangling from the post. Her hooded attacker held the other end tight, as the owl flew to her shoulder.
 			"Oh, you bastards are getting brave, aren't you?" Gwen snarled. "Sending a Crusader unit, out in the open?"
 			She tried to say something - to beg, maybe - but could only spit and gag.
 			Gwen drew her knife, and used it to pin the rope to the ground.
@@ -21922,7 +21979,11 @@ VOLUME - Gods Among Men
 			"Hey, me and Connor share everything." she smirked, now breathing more steadily.
 			Gwen bowed her head. "I know Connor. He, uh--"
 			"Oh, you're the psychic dominatrix, right?" Amy gasped. "Uh, I--I mean..."
-			"*That's* how he described me? Oh, he's in so much trouble..." she snarked. "Sorry about that, I... I thought you were one of them."
+			"*That's* how he described me? Oh, he's in so much trouble..." she snarked.
+			"He mentioned the owl, too. Can I stroke him?"
+			"Uh, sure." Gwen cocked an eyebrow. Amy took off her gauntlet, and gently held her hand out. Bubo tilted his head, but relaxed.
+			"Hey, buddy..." she cooed. "You're beautiful, aren't you?"
+			Gwen cleared her throat. "Sorry about that, I... I thought you were one of them."
 			"I'll get the suit customised a little, just for future." Ivan sighed. "As in, Connor's future. You need to put that suit back where you found it."
 			"But why? I can help out. Don't tell me the city doesn't need it."
 			"If Connor found out you were doing this, and you got hurt... he'd never forgive himself. Or us." Ivan shook his head.
@@ -21933,7 +21994,7 @@ VOLUME - Gods Among Men
 			"Deal." Amy chuckled. She put the helmet back on, and the three parted ways.
 
 			The midnight moon illuminated the city, as Amy - now in her civilian clothes - came in through the garage door. Immediately, she was pounced upon by Sparky.
-			"Amy! Where did you go?! Is everything okay?" he asked between frantic licks.
+			"Amy! Where did you go?! Is everything okay? Why do you smell like an owl?" he asked between frantic licks.
 			"Hah, hey buddy..." she chuckled. "Please don't disappear like that again. Or at least next time... can you wait until you're not in daycare?"
 			He nodded, before going back to licking. She giggled, lying down. The two snuggled warmly, and fell asleep splayed out on the sofa.
 
@@ -21988,7 +22049,7 @@ VOLUME - Gods Among Men
 			"I missed your fun facts." Vince beamed.
 			"Oh, I only know because I read up on the Illuminati, just in case it *was* them." Connor snarked. "They're not the Knights Templar, the Freemasons, the Assassins, or the Hermetic Order, either."
 			"No, just... a Roman political party. Jesus, fuck." Tommy groaned.
-			"No, they just liked the symbolism." Connor shook his head. "I *did* find some links to the Maxwell Society, the various old Hellfire Clubs, Opus Dei, and several megacorps, too."
+			"No, they just liked the symbolism. They're a bunch of Victorian oligarchs." Connor shook his head. "I *did* find some links to the Maxwell Society, the various old Hellfire Clubs, Opus Dei, the Ahnenerbe, and several megacorps, too."
 			"How did we get caught up in this, again?"
 			"They shot me in the head and turned me into *this.*" Connor answered clinically. "Why they did *that,* I'm still working out."
 			He looked off into the distance, as Vince cleared his throat.
@@ -22463,7 +22524,7 @@ VOLUME - Gods Among Men
 			The guard gulped, and did so. Connor stood behind his human shield, as his allies breathed in relief at the guard's departure.
 			"That's it. Few more steps." Connor whispered, pushing the pistol into the guard's lumbar. "Do as you're told, and you get to walk home tonight."
 			"Fucking terrorist. They were right about you lot."
-			"Says the jackboot. Now move, before I perform some amateur chiropracty with a handgun."
+			"Says the jackboot. Now move, before I put something in your pelvis."
 
 		The Great Escape... Again
 		______________________________
@@ -22791,7 +22852,7 @@ VOLUME - Gods Among Men
 			They aimed their guns at him.
 			Connor took a deep breath, and raised his arms in defiance.
 			Without further ado, their guns roared and blazed. Connor ducked and shifted as well as he could, but they were far better shots than his human foes. At least 40 bullets slammed into his hide, tore past his skin, and dug into his flesh.
-			With a sharp *SHNK,* he morphed out his blades. Time froze to a standstill as his paradrenaline spiked. He swiped out with his blades, and bullets were slashed in half. He continued this motion, sending projectiles ricocheting off into the air. One bounced from his blade into an Agent's thigh, eliciting a roar of pain. Connor couldn't help but grin.
+			With a sharp *SHINK,* he morphed out his blades. Time froze to a standstill as his paradrenaline spiked. He swiped out with his blades, and bullets were slashed in half. He continued this motion, sending projectiles ricocheting off into the air. One bounced from his blade into an Agent's thigh, eliciting a roar of pain. Connor couldn't help but grin.
 			Finally, they ran out of bullets. They dropped their guns, and drew black machetes.
 			"About time." Connor growled in anticipation.
 			The first Agent lunged. Connor met him head-on, slicing at his legs. Then, he drove his blade through the Agent's gut, and he twisted. The body slumped to the ground, as blood poured out.
@@ -24659,17 +24720,21 @@ VOLUME - Gods Among Men
 			"Yo. How come you're working so late?" she asked.
 			"Because I'm the only bastard here who isn't skiving off shifts to go save the world, or some shit." he snarked. "Nah, it's my dad's taxi, so I'm doing him a favour. Come, this way."
 			She cocked an eyebrow, as he led her down into the basement.
-			There, she saw Shannon tinkering away on a circuit board - specifically, one of the controllers for her suit. She saw Ivan cleaning Isabella. She saw Gwen at a workstation, sharpening some arrowheads. Sparky lay in his corner chewing a bone, while Connor was experimenting with his morphing powers.
+			There, she saw Shannon tinkering away on a circuit board - specifically, one of the controllers for her suit. She saw Ivan cleaning Isabella. She saw Gwen at a workstation, sharpening some arrowheads, while Bubo had perched on a motorbike handlebar. Sparky lay in his corner chewing a bone, while Connor was experimenting with his morphing powers.
 			"That's where I got the idea for a bow." Gwen grinned as he morphed his crossbows.
 			"Bet you wish you had unlimited ammo like me." he snarked. "I got the idea for a glider from you."
 			"Ah, so we're both just shameless copycats."
-			"Keep talking. I'll start morphing whips, next." he quipped back. "By the way - Gwen, Ivan - where are yous two staying?"
+			"Keep talking. I'll start morphing whips, next." he quipped back. "Also, my telepathically-bonded animal sidekick can *talk.*"
+			"Don't listen to him, he's just jealous of your wings." she cooed, gently scratching Bubo's stomach.
+			"By the way - Gwen, Ivan - where are yous two staying?"
 			"In derelict safehouses." Ivan shrugged. "Why?"
-			"There's a motel upstairs. Better than some dingy Soviet barracks." Connor grinned. He turned, and lit up.
+			"There's a motel upstairs. Better than some dingy Soviet barracks and an abandoned clock tower." Connor grinned.
+			"Once the heat dies down, we'll head back to the tower." Gwen smiled. "It's a good location, anyway."
+			Connor nodded, turned, and lit up.
 			"Hey - there she is!"
 			The others started clapping, cheering, and grinning, as Amy gingerly entered the room.
 			"What's all this for?" she asked.
-			"Welcome to the first official meetup of the Riverside Squad!" Connor smiled. "Looks like we're all here."
+			"Well, I know it's not exactly a billionaire's secret cave or a giant flying aircraft carrier, but... Welcome to the first official meetup of the Riverside Squad!" Connor smiled. "Looks like we're all here."
 			"I tried telling him the name was dumb." Trey chimed in.
 			"Hey, I kinda like it. It's got some charm." Shannon grinned.
 			Connor smirked. "Oh yeah, I'd introduce you guys, but... well, I told Gwen that Stunlocke would be joining us, only for Ivan to sheepishly explain you'd already met."
@@ -24776,7 +24841,7 @@ VOLUME - Gods Among Men
 			"I'm using the direct channel, dipshit."
 			"Oh, that's fine then. Alright... we went to that arcade place on Jersey Road..."
 
-			Gwen threw the goons to the curb, grinning as they groaned half-consciously. Being hit in the face by a person who could give you vertigo with a look will do that.
+			Gwen threw the goons to the curb, grinning as they groaned half-consciously. Being hit in the face by a person who could give you vertigo with a look will do that. Bubo turned his head from his perch, and clacked his beak in alert.
 			"Whiplash..." a voice whispered in her ear. She quickly turned, and her eyes darted about.
 			"Who's there?!" she snapped, drawing her bow. Before she could react further, she felt the air shift, and a blade press against her throat.
 			Her attacker - a male figure, bound up in a kevlar bodysuit and a full-face gas mask - growled. His weapon of choice - a damascened shortsword - caught the light before her jugular.
@@ -24789,6 +24854,9 @@ VOLUME - Gods Among Men
 			Gwen's pupils shrank down to pinpoints, as her irises shifted to a deep violet.
 			"I... obey..." she muttered, as though trying hard to not speak the words.
 			"Good."
+			Bubo's amber eyes widened, as he watched her be taken away.
+			He peered into Gwen's mind through their link, and recoiled in shock.
+			He needed help.
 
 		Patrol
 
@@ -24971,7 +25039,7 @@ VOLUME - Gods Among Men
 
 			"Thanks for coming in, guys." Shannon began, rubbing her tired eyes.
 			"No problem." Ivan wearily nodded. "What's wrong?"
-			"Whiplash didn't make it back last night. Her comms went down shortly after she called about those robbers." she explained.
+			"Whiplash didn't make it back last night. Her comms went down shortly after she called about those robbers." she explained. "Then, Bubo came barrelling back here, and was clearly agitated."
 			"Shit... should we tell Connor?" asked Amy.
 			"Nyet - he's on the plane to Mexico now." Ivan shook his head. "We tell him, he'll either abandon the op - a very bad thing to do when the FBI is paying - or, he'll be distracted. No - we can handle this together."
 			"Damn right, we can." Sparky barked. "Oh... forgot no one could hear me."
@@ -24990,6 +25058,14 @@ VOLUME - Gods Among Men
 			"I *think* that was a vote in my favour." she grinned, stroking him.
 			Ivan sighed. "Connor's gonna kill me... fine. But you do not engage directly. First, we recon the site. If it's too dangerous, I'm pulling you out. Understood?"
 			"Sir, yes sir." she grinned.
+			Sparky hesitated, but jumped up to Bubo's perch. The owl tilted his head, and pulled back as Sparky pushed his nose against his belly.
+			"I'm Sparky." he began. "Listen, Gwen's in trouble. Can you show me what happened?"
+			Bubo recalled the events quickly, and passed them over.
+			Sparky nodded, and pushed his paws against Amy and Ivan.
+			"There." he thought. "That's her attacker. Please, please tell me you can see this!"
+			"I... felt something, there." Amy nodded.
+			Sparky groaned in frustration. "Let's move. Bubo?"
+			The owl flapped his wings, ready.
 
 			Gwen struggled against her bonds as the blade-wielding ODIN operative fixed probes, needles, and esoteric devices to her.
 			"I won't... I won't come back..." she scowled.
@@ -25082,7 +25158,9 @@ VOLUME - Gods Among Men
 			The three heroes of Drackhill stood at Ivan's recon point, looking down at the small safehouse.
 			"One operative, armed with blades." he noted, peering through his binoculars. "Whiplash's in the middle, bound up."
 			"Do we have any idea what he's capable of?" Amy asked nervously.
-			"No clue. Our intel on ODIN is as sparse as it gets." he sighed. "From what she's told me, though, she's an elite of theirs - most can't do what she does. They're still dangerous, though."
+			"He can move really fast." Sparky yapped.
+			"...I'm so sorry, buddy." Amy whispered. "If only I was an Esper, too."
+			"As for me, I have no clue." Ivan sighed. "Our intel on ODIN is as sparse as it gets. From what she's told me, though, she's an elite of theirs - most can't do what she does. They're still dangerous, though."
 			Sparky's crimson eyes looked the facility up and down.
 			"Ivan." he barked. Then he pointed with his nose to the edge of the roof, and pointed again at the windows. He barked quickly, as if imitating gunfire.
 			"You... you want me providing cover fire?" he tilted his head.
@@ -25091,12 +25169,14 @@ VOLUME - Gods Among Men
 			Again, a nod of the wolf's head.
 			"...you make a good tactician, volchonok." Ivan beamed. "Alright, I can't think of a better plan. Still - Stunlocke, I recommend you hold back to begin with. Let Sparky get an idea of exactly how his powers work before you go charging in."
 			"Last thing we need is to find out he has electrokinesis..." she grimaced. "Alright, I'm game."
+			"Bubo, you keep your distance. Try and harass the bad guy if you can."
+			The owl almost nodded, and stretched his wings. He hated being awake in the day - but his friend needed him.
 			"Well, team... let's do this." he nodded, drawing Isabella and looking through her scope.
 
 			The safehouse doors slammed open as the scarlet-eyed wolf prowled in. He looked up at the ODIN Agent.
 			"Let my friend go." he barked.
 			"An Esper dog? No... you must be Subject Six." the Agent grinned.
-			"That's not my name anymore." Sparky growled lowly. "Let her go!"
+			"That's not my name anymore." Sparky growled lowly, as Bubo flew in. "Let her go!"
 			Gwen's head was slumped down, as she twitched in her chair.
 			"She's with us, now. Leave, or you will regret it."
 			"I'm leaving here with her." he snarled. "And your head."
@@ -25113,7 +25193,7 @@ VOLUME - Gods Among Men
 			The wolf snarled as he took another bite - this time at the Agent's gut. He cut past the kevlar into the flesh, and went to bite deeper - but the Agent was again a blur. Before Sparky could even clamp down, he moved a few feet backwards.
 			His eyes flashed crimson, and his carapace began to ripple. Then, it burst.
 			"Gah!" the Agent hissed, as he rubbed his visor clean of the black biomass. He looked up, and saw gnashing teeth headed towards him.
-			His kevlar suit ripped, along with his chest - but a sweep of his blade and a flash-step three paces back brought the fight back under his control.
+			His kevlar suit ripped, along with his chest - but a sweep of his blade and a flash-step three paces brought the fight back under his control.
 
 			"Okay... his power seems limited to only a short distance, and he can't do it too much." Ivan whispered over the radio.
 			"I'm going in." Amy nodded.
@@ -25127,7 +25207,7 @@ VOLUME - Gods Among Men
 			The Agent shifted, but only by a pace or two. Sparky fell to the floor, dazed somewhat.
 			"Feels weird, doesn't it?" the Agent grinned. "Not something it's easy to get used to, I'll tell you."
 			He raised his blade. "Don't worry about Whiplash. We'll take good care of her."
-			Before he could taunt any more. Sparky lurched upwards, and the Agent dashed back.
+			Before he could taunt any more, Bubo sliced his talons down the back of the Agent's neck. Then, Sparky lurched upwards, and the Agent dashed.
 			Amy grinned as she realised what he'd done, and punched her hand through the wall. It slammed into his back.
 			The shock gauntlets pulsed into him, and he howled in pain, scrambling to get away. He fell to his knees, and frantically swept his sword backwards.
 			It made a weird, almost sloshing sound as it clashed with Amy's Vibroblade. Her sword went through his like a hot knife through butter, and he held the hilt in shock.
@@ -25143,8 +25223,8 @@ VOLUME - Gods Among Men
 			Amy looked up, her eyes shaking behind her visor.
 			"Let's... let's just get Whiplash outta here."
 			She walked over, and cut Gwen's restraints. She stumbled to her feet, her eyes blazing violet.
-			"Gwen! Are you okay?" Sparky asked.
-			He was answered by a kick to the head that sent him tumbling backwards.
+			"Gwen! Are you okay?" Sparky asked. Bubo likewise flew to her shoulder.
+			He was answered by a kick to the head that sent him tumbling backwards. She then struck Bubo hard enough to knock him to the ground.
 			"Oh, blyat..." Ivan grimaced.
 
 			"Gwen, it's me! Sparky! Your friend!" he pleaded, as she sent a punch to Amy's chest that sent her skidding.
@@ -25154,12 +25234,12 @@ VOLUME - Gods Among Men
 			"Gwen, please!" Sparky begged, pouncing into her chest. He knocked her back, but she struck him again.
 			Amy dived in, wrapping her in a tackle. She sent volt after volt into their brainwashed friend, before releasing the grip.
 			Gwen stumbled forward, and Sparky pounced again. He pinned her down, as she jabbed him in the side with her fists.
-			"Stop! You don't want to do this!" he barked.
+			"Stop! You don't want to do this!" he barked. Bubo gripped his talons into the device on her head - trying to pry it off.
 			"Stunlocke..." Ivan began unsurely. "They can take it - shock them both."
 			"No! I can't just do that!"
 			"You don't have a choice."
 			Sparky tried to hold her down, but each strike felt like it hit him three times. He was fast running out of options.
-			Then, an idea. He shoved his head up against hers, and closed his eyes.
+			Then, an idea. He shoved his head up against hers, and closed his eyes. Bubo felt his own mind join in.
 
 			He felt weightless.
 			Not like he was floating... 'massless' might be a better term.
@@ -25167,28 +25247,29 @@ VOLUME - Gods Among Men
 			And then, everything.
 			"KILL. KILL. KILL." a voice pounded inside their heads.
 			"No! They're my friends! I... I can't!" she begged.
-			"Gwen! It's me!"
-			"Sparky?!"
+			"Gwen! It's us!"
+			"Sparky?! Bubo?!"
 			"KILL! KILL! KILL!"
 			"Who's that?" Sparky barked into the formless void.
-			And then, he recognised it.
+			"Bad guy. Bad bad guy. Hurt Bubo head. Hurt Gwen. Hurt Gwen hurt Bubo. Bubo love Gwen." the owl's mind nattered.
+			And then, Sparky recognised it.
 			The Rage. The urge. The fury that ran through his veins, and the veins of anyone else who had been exposed to Super-Serum. Only now, given voice.
-			"Sparky, I... I can't stop it." she lamented.
-			"Yes you can!" he nodded. "It's your body, not theirs!"
+			"I... I can't stop it." she lamented.
+			"Yes you can!" Sparky nodded. "It's your body, not theirs!"
 			"You don't get it! They've conditioned me since I was a little girl! They've made me into a weapon! I DON'T HAVE A CHOICE!"
-			"Then kill me." Sparky nodded.
+			"Then kill us." Sparky nodded.
 			"I..." she thought, frozen in her mind. "I... don't want to."
 			"Then don't."
-			She opened her eyes, as did he. He saw through her eyes, and she saw through his. Two became one.
-			The devices attached to her began to spark, as Amy sent lightning through both. They screamed as their eyes burned violet, before going limp.
+			She opened her eyes, as did they. Each saw through the others' eyes. Three became one.
+			The devices attached to her began to spark, as Amy sent lightning through the trio. They screamed as their eyes burned violet, before going limp.
 			Ivan leapt down from his perch, and observed the scene.
 			"They're... they're alive." he nodded.
 			Amy took a deep breath. "Is it normally this... weird?"
 			"This is one of the stranger days." Ivan quipped. "Base, this is Verdict. Whiplash is secure."
 			"Nice one." Shannon smiled. "How is she?"
-			"Unconscious. So's Spartacus."
+			"Unconscious. So's Bubo and Spartacus."
 			"Damn..." Trey sighed. "You'd better get back here, then."
-			"Prinyal." Ivan nodded. "I'll take Spartacus, you take her?"
+			"Prinyal." Ivan nodded. "I'll take Spartacus, you take her and the owl?"
 			Amy smiled faintly, hoisting their hopefully un-brainwashed friend atop her shoulders, and the pair headed to his car.
 
 		ODIN fight
@@ -25270,11 +25351,11 @@ VOLUME - Gods Among Men
 
 			Connor opened up the doors, and headed down to the basement.
 			"Evening, Shannon! How's patrolling going for--" he began, before going pale.
-			"Sparky! Gwen! What's wrong?!"
+			"Shit! What's wrong?!"
 			"Hey, Connor..." Shannon began awkwardly. "Uh... no patrols tonight, we're... busy."
 			"They're okay." Amy said softly. "Just resting."
 			"What happened?"
-			"Gwen was kidnapped by ODIN." Ivan nodded grimly. "We mounted a rescue mission, but... they had some device or something on her head. Kept her under their thumb. Sparky must've mind-merged with her, and somehow broke it - knocking both out."
+			"Gwen was kidnapped by ODIN." Ivan nodded grimly. "We mounted a rescue mission, but... they had some device or something on her head. Kept her under their thumb. Sparky and Bubo must've mind-merged with her, and somehow broke it - knocking both out."
 			Connor rushed over, and pressed his hands against their heads.
 			"Yeah, they're okay. Just sleeping it off." he nodded. "Fuck..."
 			"Stunlocke was exceptional." Ivan smiled proudly.
@@ -25298,7 +25379,7 @@ VOLUME - Gods Among Men
 			"He knew about one of my weaknesses too - the sonic one." Connor sighed. "Murillo's dangerous."
 			"You're a lot more." Shannon chimed in.
 			"Hah. Thanks. Anyway - how's your day been?"
-			"Oh, so-so." she shrugged. "Currently troubleshooting some issue with our networks."
+			"Oh, so-so." she shrugged. "Trey had to head off early to go see his dad, so I've been working on our systems. Currently troubleshooting one of our scanners."
 			"Hah... trouble-shooting." Ivan grinned. "I shoot trouble, too."
 			"'Troubleshooter' would make a good codename. You know, if we ever hire any more snipers." Amy mused, grinning.
 			"Hey, I like Verdict. Besides, it's the same in Russian. *Verdikt.*" Ivan laughed.
@@ -25328,8 +25409,8 @@ VOLUME - Gods Among Men
 			"Of course, sir." Morland nodded. "Last thing we need is the traitor getting another Subject Six on his hands... least of all one as sneaky as a rat."
 			"I'll handle it. In case of any unexpected activations." the Commandant said, cutting off the call.
 
-			Gwen and Sparky's eyes snapped open in unison.
-			"Hey, hey, it's okay, you're both okay." Connor rushed over.
+			Gwen, Sparky, and Bubo's eyes snapped open in unison.
+			"Hey, hey, it's okay, you're all okay." Connor rushed over.
 			"Fuck... my head is killing me." Gwen groaned.
 			"Mine, too." Sparky nodded, stretching.
 			"Oh my god." Amy gasped.
@@ -25358,11 +25439,29 @@ VOLUME - Gods Among Men
 			Sparky grinned cheekily. "I'm gonna prank Trey."
 			The gang giggled at that, and Sparky immediately got to work blabbering to his non-Esper packmates.
 
-			Connor shuffled over to Gwen, whose eyes were phasing from blue to violet, and back again.
-			"Everything okay?" he asked.
-			"Better than okay..." she grinned. She pointed her hand at a stack of papers, and waved it.
+			"Where's Bubo?" Gwen asked, looking around.
+			"He's right there--what?" Connor cocked an eyebrow, looking at where his bed was.
+			"Shit - let me check the CCTV." Shannon nodded, leaning into her monitor.
+			"Bubo? Bubo!" Gwen called out.
+			"Um... he's, um..." Shannon stammered.
+			"Where?"
+			"...right in front of us."
+			Connor looked at the perch, squinting.
+			There... there was *something* there. What?
+			His eyes flashed red as his senses kicked in.
+			"Oh, now that's handy." he grinned. He reached out, and tapped the ledge. Bubo, startled, flapped his wings.
+			"There you are! How did... of course." Gwen realised.
+			"Care to share what you've learned?" Ivan cocked an eyebrow.
+			"Obscuration." she nodded. "I hated that class in ODIN. The feedback must've keyed into his natural stealthy instincts, and let him use it."
+			"It's like he's a blind spot." Connor tilted his head. "If he stands still, I can't see him."
+			"...Blindspot!" Amy grinned.
+			"We're *not* giving a call sign to an owl." Ivan chuckled.
+			"I like it." Gwen shrugged, as Bubo flew over to her.
+			"He's good." she noted. "The power doesn't work if he's moving, but that'll still be useful. Our psychic link is stronger now, too - from what I remember back in my studies, that opens up several possibilities."
+			"And what about you?" Amy asked. "What's your new power?"
+			"I don't know if it works like that." Gwen chuckled, before her eyes phased from blue to violet, and back again. She pointed her hand at a stack of papers, and waved it.
 			Immediately, a gust of wind knocked them from the table.
-			"Holy shit. How'd you do that?" he asked.
+			"Holy shit. How'd you do that?" Connor asked.
 			"Air is in constant motion. And with the feedback settled, I can manipulate it too." she grinned. "I think... I think I just got a power boost."
 			"ODIN's gonna rue the day." Connor chuckled.
 			She nodded softly. "This team... it saved my life. I've... I've never had people like that before."
@@ -25371,7 +25470,7 @@ VOLUME - Gods Among Men
 			"Who was that guy, who attacked you?" he asked.
 			"A Blinker. Low-level ODIN agent, able to rapidly travel across short distances." she sighed.
 			"How?"
-			"You like questions, don't you?" she chuckled.
+			"You like questions, don't you?"
 			"I prefer answers." he quipped.
 			"They use telekinesis to warp space - it allows them to make the distance shorter. So, what would be a few paces away, they can cross in the same way you or I can lean forward a centimetre."
 			"Damn. Can you do that?"
@@ -25451,13 +25550,13 @@ VOLUME - Gods Among Men
 			Beneath their feet, Sparky's super-hearing made his ears prick up.
 
 			"Alright, team, here's your assignments for tonight." Shannon nodded. "Verdict, you're on recon duty, as per. Stunlocke, you're on bike patrol across Belson. Spartacus, you're on glider duty over Caldermouth."
-			"How about me?" Gwen asked.
+			"How about us?" Gwen asked, with Bubo on her shoulder.
 			Shannon grinned, handing over a belt-shaped object. At the back, it was thick with composite fabric.
 			"I was up all night with Trey getting this to work." she nodded. "It's a compact, foldable paraglider. Press the button on the clasp to deploy it, and you can use your powers to rapidly inflate it, and manipulate airflow to glide indefinitely. I've earmarked tonight for you to practice with it."
 			Gwen took the belt, and pressed the clasp as instructed. Immediately, it unfolded into a small glider with handles on either side.
 			"We've also added some hook-y things to your suit's shoulders." Trey added, demonstrating. "You can clip the glider to those to leave your hands free."
 			"This... this is gonna be really handy." Gwen nodded, a surprised smile cracking over her face. "Uh... thanks, guys."
-			"It's really fun!" Sparky smiled. "And now that you can mess with air, you'll be amazing at it!"
+			"It's really fun!" Sparky smiled. "And now that you can mess with air, you'll be amazing at it! I'm sure Bubo will appreciate the flying partner, too."
 			Gwen grinned. "Where's Connor--Sorry, 'Vanguard?'"
 			"He's on a date." Amy beamed. "And unless there's a crisis, he's *not* getting called away."
 
@@ -25571,7 +25670,7 @@ VOLUME - Gods Among Men
 			"Oh, hi, random superhero." Connor awkwardly waved. Thankfully, Raj's family hadn't taken notice.
 			Gwen grinned, then faced the fire. She closed her eyes, and took a deep breath.
 			"Are you doing what I think you're doing?" he asked.
-			She focused. Focused her power on the air around her. Manipulated its motion like a potter with clay.
+			She focused. Focused her power on the air around her. Manipulated its motion like a potter with clay. Bubo swooped in, and his eyes glowed too - lending his own psychic energy to her.
 			A hot breeze flowed over them, as the fires died down. Oxygen flew out as she pushed and pulled at the winds. Embers fluttered through the street, before cooling into ash.
 			"It's still burning. But I think I can keep it contained until the firefighters arrive." she grinned giddily.
 			"You're... wow." Connor nodded in awe.
@@ -25867,9 +25966,9 @@ VOLUME - Gods Among Men
 
 			The rain had picked up, now - it pelted down into the valley, as usual. Despite that, it failed to put a damper on one Werewolf's mood.
 			"WOOOOO!" Connor cheered, soaring through the skies in his glider. He felt an updraft ahead, and sailed atop it, grinning wildly.
-			"Someone's in a good mood." Gwen chuckled, gracefully moving by his side on her paraglider.
+			"Someone's in a good mood." Gwen chuckled, gracefully moving by his side on her paraglider as Bubo fluttered near her.
 			"How could I not be? The city's in a good place, my social life is the best it's ever been, and I'm a mile above ground." he laughed back, doing a spin through a cloud.
-			She grinned. "I'll admit... the gliding--well, flying in my case... it's pretty fun."
+			She grinned. "I'll admit... the gliding--well, flying in our case... it's pretty fun."
 			"It is, isn't it?!" he beamed. "There aren't many perks to this job... but being able to take to the sky is definitely one of them."
 			"I feel bad for Amy - Ivan too, I guess. They're stuck on the ground." she chuckled. "Oh, by the way - you could probably improve your glider's aerodynamics with a little tinkering."
 			"Hey, I like it as it is." he snarked, flaring his wings in emphasis.
@@ -25881,7 +25980,7 @@ VOLUME - Gods Among Men
 			He closed his eyes, as a globule formed over his mouth and nose, hardening into an air trap. A thick pair of tubes snaked out, trailing off into each wing.
 			Thin ridges rippled across the membrane, as thousands of tiny bellow-tubes inflated beneath the skin.
 			He took a deep breath through all four lungs, their superhuman muscles drawing in a gust. Then, his mask sealed tightly, and as his lungs deflated with all their might. The air shot out of his mouth, then through the tubes and into the bellows. Miniscule nozzles at the edge of the cape flared.
-			*THWUMP!*
+			*SHH-WOOSH!*
 			The resulting jet-stream made him lurch forwards, and the sudden shove nearly folded his wings. He yelped, dipped twenty feet, then recovered with a laugh.
 			"There you go! How was that?" she grinned.
 			"Good!" he nodded, gasping for air. "Takes a lot out of you, though."
@@ -25889,15 +25988,18 @@ VOLUME - Gods Among Men
 			"Alright! God, you invented aerokinesis less than 72 hours ago, and you think you're an expert." he snarked.
 			She rolled her eyes, before forming a wind tunnel ahead of her, as if to demonstrate.
 			The wings flexed, as more and more pumps formed. The nozzles tightened and multiplied, and he repeated the manoeuvrer.
-			*SHH-WOOSH!*
+			*THWUMP!*
 			This time, he launched ahead, before flaring his wings and soaring upwards.
-			"That's more like it." she grinned. A second wind tunnel formed around her, as she struggled to keep pace.
+			"That's more like it." she grinned. A second wind tunnel formed around her, as she and Bubo struggled to keep pace.
 			"Alright, enough playtime - we should start *actually* patrolling the city."
 			"Sir, yes, sir."
 			The pair dived down through the clouds, sailing across the cityscape.
 			"I'll take Belson - Sparky's mission just finished, and Amy's got the evening off." Gwen smiled.
 			"Yeah - she's meeting with Chloe, largely to talk about me behind my back." Connor grinned. "I'll take Redbridge - we haven't done a good sweep of the place for a while."
-			"Copy that. See you back at base."
+			"Copy that. See you back at base. Bubo - you ready?"
+			Again, Connor could've sworn the owl nodded. He dived down, and she turned southwards.
+			She sent a gust up Bubo's way, taking a little pressure off his wings.
+			A family. Even thinking the word was difficult, but... she was glad to call them hers.
 
 			The rain was coming down harder now, turning the city's streets into rivers of reflected light. He glided low over Redbridge, scanning for trouble.
 			Nothing yet. Just the usual - a few drunks, a couple arguing, a fox rooting through a bin. The city's streets were much safer to walk since he began his crusade - but it seemed no one at all wanted to fuck with the Werewolf's home turf.
@@ -26953,7 +27055,7 @@ VOLUME - Gods Among Men
 			Amy finished suiting up, and hopped onto her motorbike.
 			"I'll race you." she quipped, putting on her helm.
 			Connor would normally snark back. Instead he nodded, and morphed his glider. It inflated as he leapt into the air.
-			*SHH-WOOSH!*
+			*THWUMP!*
 			The Werewolf ripped into the sky, his eyes aflame.
 
 			As they moved, Connor felt his phone ring.
@@ -27029,7 +27131,7 @@ VOLUME - Gods Among Men
 			"I have to be. Chloe needs me."
 			"Vanguard - this is Whiplash. I took to the sky as soon as I heard the news."
 			"You're a voice for sore ears." Connor smiled. "What's your status?"
-			"I'm gliding over the roof. There's an Agent holding someone at gunpoint. Want me to intervene?"
+			"I'm gliding over the roof with Blindspot. There's an Agent holding someone at gunpoint. Want me to intervene?"
 			"No - he'll kill her if anyone other than me shows up. Maintain aerial obs, but do not engage."
 			"Copy that."
 			He took a deep breath, re-morphed his mask, and headed up to the rooftop. There, he saw Banner, clad in armour, pointing his gun at Chloe.
@@ -27997,7 +28099,7 @@ VOLUME - Gods Among Men
 			"You..." Nina gasped. "You were there with the Giant, weren't you?"
 			"Well met, PS Chowdhury. Congratulations on your promotion. Speaking of... congratulation on your promotion from mankind to *this,* DCI Naismith." Ivan smirked, turning to face him.
 			"The KGB... what's the KGB doing here, Ma'am?" Moffat asked.
-			"Mr. Sokolov is, as he said, a specialist in these matters. He has direct contact with the Werewolf, and important intel on the conspiracy we're facing." Ward answered, sitting down. "I... I have spoken with people at the Home Office, and confirmed that, in these exceptional circumstances, this collaboration is  legitimate. Mr. Sokolov, please begin your report."
+			"Mr. Sokolov is, as he said, a specialist in these matters. He has direct contact with the Werewolf, and important intel on the conspiracy we're facing." Ward answered, sitting down. "I... I have spoken with people at the Home Office, and confirmed that, in these exceptional circumstances, this collaboration is legitimate. Mr. Sokolov, please begin your report."
 			"Thank you, ma'am." Ivan began. "Here." he brought up a slide. "Our enemies. Plague. The Optimates."
 			"Who?" Rogerson asked.
 			"Fascist billionaires." Ivan replied nonchalantly.
@@ -28159,9 +28261,9 @@ VOLUME - Gods Among Men
 			Chloe chuckled. "Should I say 'Gwen,' or 'Whiplash?'"
 			"Gwen's fine." she grinned. "I don't really have much of a secret identity. Before joining the team, I was an assassin. In fact, Connor was my target."
 			"That reminds me - who do you reckon would win if we fought again?" Connor grinned.
-			"Well, I've got my new powers - and my old ones are stronger now, too." she stroked her chin. "But you've gotten tougher since we first fought. And a lot of my advantage last time was reliant on you not knowing how my powers worked. Once you clocked them, the fight was over pretty quickly."
+			"Well, I've got my new powers - and my old ones are stronger now, too." she stroked her chin. "But you've gotten tougher since we first fought. And a lot of my advantage last time was reliant on you not knowing how my powers worked. Once you clocked them, the fight was over pretty quickly. Then again, Bubo might give me an advantage..."
 			"...remind me to fit in some bantering lessons." he quipped. "Anyway, Chloe had some questions about how Espers work."
-			"I'm your girl." Gwen nodded. The women sat at a table, while Connor felt his phone ring.
+			Gwen nodded, and they sat at a table, while Connor felt his phone ring.
 			"Privet, tovarishch!" Ivan began.
 			"Verdict - everything okay?"
 			"Da, all good - except for the brutal maiming and killing of one Callum Ritter."
@@ -28651,13 +28753,13 @@ VOLUME - Gods Among Men
 			"Keep hurting him." the Commandant growled, smirking. "Agent?"
 			A Super-Agent torturer at his flank drove needles into his chest. Blood siphoned out, being taken into canisters. He recognised the man from somewhere.
 			Oh... of course. This bit.
-			The Werewolf just died - it was only fitting he got to see where he wwas born, too. 
+			The Werewolf just died - it was only fitting he got to see where he was born, too. 
 			But... what was *he* doing here?!
 			The Judge skulked in from the shadows. "Abomination."
 			The Commandant scowled, turning. "'Judge.' To what do I owe the displeasure?"
 			"You were given orders." the Judge shook its head. "The Lord sent me to check up on you. Perhaps you shall enlighten him on... this?"
 			"Feel bad for him, do you?" the Commandant laughed. "I didn't think your people could get... 'attached' like that."
-			"The Youngblood is kin, abomination." the Judge snarled. "If you require more Converts, you can request my blood, and I will provide when I dain to. Until then... let the Youngblood rest."
+			"The Youngblood is kin, abomination." the Judge snarled. "If you require more Converts, you can request my blood, and I will provide when I deign to. Until then... let the Youngblood rest."
 			"You done, yet?"
 			"I will give you a chance to explain yourself to the Lord." the Judge stood firmly. "My craft is waiting atop this ramshackle facility. We will be departing momentarily. Genetor?"
 			Zhao looked up, trembling slightly.
@@ -28739,8 +28841,8 @@ VOLUME - Gods Among Men
 			Sparky looked up at Connor.
 			"I'll fight with you. I'll harass this 'Judge' while you go in for the kill. Just... be careful, okay?"
 			"I'm not going to be in the melee. I'll take sniping point - keep him busy with that." Ivan nodded.
-			"I'll provide telekinetic support." Gwen nodded. "Make your hits harder, and his veer off."
-			"And my Pulsar should give you some openings." Amy added. "We can do this if we all go together."
+			"I'll provide telekinetic support." Gwen nodded. "Make your hits harder, and his veer off. I'll have Bubo watching his back, too - let you know of any openings."
+			"And even if there aren't any, my Pulsar should give you some." Amy added. "We can do this if we all work together."
 			"...I guess me and Shan can provide moral support." Trey snarked.
 			"We've been working on some improvements for Amy's suit." Shannon smiled. "We'll retrofit them on right away."
 			Connor smiled softly. He looked up at Chloe.
@@ -28791,14 +28893,16 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			The Riverside Squad stood on a junction in the night-time, ready for war.
-			Ivan adjusted Isabella's scope, and checked her ammunition. Gwen's eyes flexed violet as she made a dust devil at the ground, readying her powers. Amy's gauntlets crackled as she drew the Pulsar and the Vibroblade, holding them like a pirate holds a flintlock and cutlass.
+			Ivan adjusted Isabella's scope, and checked her ammunition. Gwen's eyes flexed violet as she made a dust devil at the ground, readying her powers. Bubo meanwhile circled the sky above, keeping a close watch. Amy's gauntlets crackled as she drew the Pulsar and the Vibroblade, holding them like a pirate holds a flintlock and cutlass.
 			Connor and Sparky, meanwhile, felt their costumes ripple and morph with fury. Connor reached to his belt, checking the two metal syringes attached.
 			Then, a black car pulled up to the group. They readied their weapons, as Naismith stepped out.
-			"Evening, guys." he nodded. He was kitted out in tactical armour, and held a police-issue assault rifle. His black veins pulsed in readiness.
+			"Evening, guys." he nodded. He was kitted out in tactical armour, and held a ballistic shield, and an electrified baton. His black veins pulsed in readiness.
 			"Detective? What are you doing here?" Connor asked.
 			"Helping." he nodded. "You may be the vigilantes, but this is *my* city too. And in case you forgot, some dickhead gave me superpowers."
 			"It's dangerous." Connor shook his head.
 			"It's my job." he stood firmly.
+			"You're not going to do much damage with a nightstick." Gwen noted.
+			"And you will, waving some rope around?" Naismith grinned.
 			Ivan shrugged. "Welcome to the team. Here's an earpiece."
 			"I guess that's my cue." Shannon chimed in. "All units, this is Jinx - radio check."
 			"Vanguard, reporting."
@@ -28806,8 +28910,11 @@ VOLUME - Gods Among Men
 			"Stunlocke. I'm here."
 			"Whiplash, ready."
 			"Sparky--Uh, I mean Spartacus. Here."
-			"'Detective,' on site." Naismith grinned.
-			"Thanks. I've hacked into the traffic control system - diverted all traffic away from your location. Collateral damage shouldn't be too much of a concern - but try not to level the block, while you're there."
+			"'Detective,' on site." Naismith chuckled.
+			"Hang on!" Amy cut in. "Nightstick. That can be your callsign."
+			"Can we not do this now?" Connor hissed.
+			"I'll take it." Naismith grinned.
+			Shannon rolled her eyes audibly. "I've hacked into the traffic control system - diverted all traffic away from your location. Collateral damage shouldn't be too much of a concern - but try not to level the block, while you're there."
 			"Civilian presence?" Connor asked.
 			"Should be none - the only buildings nearby are shops, which are all closed."
 			"Good."
@@ -28834,7 +28941,7 @@ VOLUME - Gods Among Men
 			At that, a van roared into the scene, and a squad of armed men - Super-Agents - poured out.
 			"What are your orders, Master?" one asked.
 			"Oh, look at them." the Judge chuckled. "Did you think I wouldn't bring my own underlings?"
-			"Shit..." Shannon gasped. "Detective, Stunlocke, Whiplash - focus on the Agents. Werewolves, take on the Judge. Verdict, cover both teams."
+			"Shit..." Shannon gasped. "Nightstick, Stunlocke, Whiplash - focus on the Agents. Werewolves, take on the Judge. Verdict, Blindspot, cover both teams."
 			"Prinyal." Ivan nodded.
 			Connor drew his own blades. Him and Sparky charged forwards.
 
@@ -28855,10 +28962,10 @@ VOLUME - Gods Among Men
 
 			Across the street, the more mundane heroes clashed with the Super-Agents.
 			Naismith charged in with his riot shield, deflecting a blow and pressing his pistol into an Agent's abdomen, before firing. At such range, the Agent's kevlar was useless, and he crouched in agony. An arrow from Gwen shot right through his head, finishing him.
-			Naismith pushed through the chaos like a battering ram. A Super-Agent swung a baton down at his head; he angled his riot shield just enough to catch the impact and roll it off-line, then drove forward with a brutal shield-bash that folded the Agent backward over a parked car. Naismith didn't pause to admire it - his pistol was already up. Two controlled shots punched through the gap under the Agent's armour, dropping him where he fell.
+			Naismith pushed through the chaos like a battering ram. A Super-Agent swung a blade down at his head; he angled his riot shield just enough to catch the impact and roll it off-line, then drove forward with a brutal shield-bash that folded the Agent backward over a parked car. He struck out with his baton, and the Agent stumbled down. Then he holstered it, and drew his sidearm. Two in the head at point blank rage did the job nicely.
 			A second Agent rounded the corner and opened fire. Naismith ducked behind the shield as rounds hammered it, then snapped his rifle up one-handed and fired through the recoil gap in the enemy's stance. The shot caught the Agent in the shoulder joint, spinning him off balance. Naismith advanced through the opening, stepping in close and finishing with a point-blank shot before the man could recover.
 
-			Gwen moved differently from everyone else - less like she was dodging, more like the world was obligingly getting out of her way. Incoming fire bent off-course in mid-air, trajectories shifting just enough to miss her by inches instead of impact. She exhaled once, and the air around her tightened, attentive.
+			Gwen moved differently from everyone else - less like she was dodging, more like the world was obligingly getting out of her way. Incoming fire bent off-course in mid-air, trajectories shifting just enough to miss her by inches instead of impact. She exhaled once, and the air around her tightened, attentive. Bubo relayed everything his eyes caught straight into her subconscious.
 			Her bow was already drawn.
 			She didn't aim in any conventional sense. The arrow left the string and curved through the chaos in a smooth, deliberate arc, slipping between two Super-Agents and punching through a visor seam. The target dropped without time to react.
 			A second Agent rushed her. Gwen snapped her wrist and a whip cracked out, wrapping around his rifle mid-swing. She twisted, and the air itself seemed to assist the motion - wrenching the weapon aside and pulling the Agent off balance. A follow-up pulse of compressed air struck him square in the torso and threw him back into a concrete wall.
@@ -28940,7 +29047,7 @@ VOLUME - Gods Among Men
 			Connor touched his chest, feeling his hearts beat. "8 hours, then. 8 hours to regrow a heart."
 			Chloe, now fully awake, touched his chest, likewise feeling the beat.
 			"Where's everyone else?" he asked.
-			"Amy's gone back to her place." she nodded. "Her suit needs some repairs, so she's benched for now. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen's gone back on her glider, to keep an eye on the city for tonight."
+			"Amy's gone back to her place." she nodded. "Her suit needs some repairs, so she's benched for now. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen and Blindspot have gone back on her glider, to keep an eye on the city for tonight."
 			Connor smiled. "They're a good team."
 			"You... you are so, so strong." she began, teary eyed.
 			"I don't know what I'd do if you weren't here to patch me up." Connor replied. "Physically and... you know, everything else."
@@ -29547,6 +29654,7 @@ VOLUME - Gods Among Men
 			Chloe leaned back, mentally noting another topic to study.
 			"Any other psychic powers you guys have?" Bea quipped.
 			"We can mind-merge." Connor nonchalantly replied. "Even weirder, if we're asleep and touching, we share dreams. Oh, and Gwen - or Whiplash, if you prefer - can manipulate motion. And air."
+			"And her pet owl can turn invisible. Kind of." Sparky added.
 			"Jesus..." Bea gasped.
 			"You know..." Connor began, looking at Chloe. "Back when you first met him, he was trying to give me flirting tips." he admitted.
 			Chloe laughed. "What kind of tips?"
@@ -30900,17 +31008,17 @@ VOLUME - Gods Among Men
 			By this point, the police had finally arrived. TO-24 came armed to the teeth, and began unloading their rifles into Junior. The bullets didn't even break past the first layer of flesh.
 			Sparky clamped his jaws around Junior's arm, tore out a chunk, and repeated. Black blood and bile dripped from the brawl.
 			Gwen forced herself to her knees, and stretched her fingers out.
-			Junior's chest heaved as the air in its lungs was pulled out. A vortex of wind formed around its face, stealing precious oxygen away.
+			Junior's chest heaved as the air in its lungs was pulled out. A vortex of wind formed around its face, stealing precious oxygen away. Meanwhile Bubo swiped down, and his talons cut into the monster's hide.
 			Sparky grinned, and took another bite. And another. And another.
 			Junior's eyes blazed as it tried to howl in fury. On the last bite, Sparky was a nanosecond too slow.
-			It grabbed him, and launched him as far as he would go. Gwen dropped her grip on the vortex, softening Sparky's impact against the rubble.
+			It grabbed him, and launched him as far as he would go - then sent a backwards swing at the owl. Gwen dropped her grip on the vortex, softening Sparky's impact and shifting Bubo out of the way.
 			In ODIN, Agents were taught that compassion was a weakness. That if an ally needed your help, they were a liability to be discarded. That sacrificing yourself to save another was insane.
 			Gwen had come a long way since those days.
 			As Junior took a deep breath and snarled savagely, she closed her eyes. She did her best to divert the downward swipe, but not enough.
 			Junior's claws tore into her back, ripping out fragments of spine.
 			Before the second, execution swipe could come, Sparky slammed into its side like a bullet. It rocked away, crashing into the ground.
 			Gwen tried her hardest to cling on - to keep her eyes open, to fight back, to *something...*
-			Nothing. Her violet eyes dimmed to blue, before her eyelids covered them. Raspy, bloody breaths choked out from her mouth.
+			Nothing. Her violet eyes dimmed to blue, before her eyelids covered them. Raspy, bloody breaths choked out from her mouth. Bubo dived, gripped her shoulders with his talons, and with all his might, dragged her into an alleyway.
 
 			A plane ripped through the skies above, and an object seemed to fall from it. Sparky was distracted for a millisecond at most, but that was all Junior needed. It grabbed him by the neck, and raised him up, before sinking a claw into Sparky's abdomen.
 			"NO! KILL YOU! *KILL YOU!*" Sparky screamed in protest.
@@ -30924,7 +31032,7 @@ VOLUME - Gods Among Men
 			*BOOM!*
 			A second explosive round went off, this time in Junior's back. It screamed wildly, and launched a downward strike at Sparky, who rolled out of the way just in time. Sparky leapt up, biting down on Junior's chin, his claws swiping wildly at the monster's chest. Chunks of flesh fell to the ground, before Junior jumped in the air and belly-flopped, crushing Sparky's ribs.
 			Junior rose, and beat the ground again, making noticeable cracking noises in both Sparky and the tarmac beneath him.
-			"Detective! Fall back!" Ivan roared. Naismith barely dodged as Junior swept down.
+			"Nightstick! Fall back!" Ivan roared. Naismith barely dodged as Junior swept down.
 			"Like hell!" he barked over the radio.
 			"Get the civilians out of here! Don't waste yourselves on this!"
 			Naismith hesitated, before drawing Connor's Coagulator. "All units, focus on evac! Leave this to the professionals."
@@ -31399,17 +31507,30 @@ VOLUME - Age of Heroes
 			"The Optimates are running scared." Bevan nodded. "Today, the world is waking up to a new order - one where superhumans and monsters can battle in their homes. And people are afraid - and they want the men who did this to suffer. I expect right now, co-conspirators are quietly cutting ties to avoid being caught up in your - our - retribution. And benefactors are popping their heads from the shadows. Make no mistake - what Murphy did was an atrocity, but more than that - it was a fuck-up."
 			Connor nodded. "I get the feeling that that doesn't mean we don't have to worry about the Optimates - just now, we have to worry about a hundred other cabals as well."
 			"That is also true." Bevan sighed. "How are our friends downstairs?"
-			"Trey's one of us now." Connor sighed. "Sparky's gonna be fine. Ivan's in a bad way, but he's awake. Tough bastard. I just popped in on Gwen - she's sleeping, but she'll be okay."
+			"Trey's one of us now." Connor sighed. "Sparky's gonna be fine. Ivan's in a bad way, but he's awake. Tough bastard. I just popped in on Gwen - she's sleeping, but she'll be okay. Bubo's refusing to leave her side, and I don't blame him."
 			"Good to hear. And the medical staff I seconded?"
 			"They're good. Chloe's been taking the lead, seeing as she knows the most about us. It helps that several of her notes are here, anyway." Connor shrugged. "Why Algerians? Surely MI5 has medical staff."
 			"I'm not with MI5." Bevan began. He cleared his throat.
 			"Who are you with, then?"
 			"Directorate of Military Intelligence, Section Zero. Officially, we don't exist. Unofficially, our job is to investigate, regulate, and deal with superhuman threats."
 			"That's a very specific remit. When were you founded?"
-			"That is a good question." Bevan chuckled. "No one's sure. Comes with the territory of being an agency that doesn't exist."
-			Connor nodded. "So, why can't Section Zero supply medical staff?"
-			"As it stands, I can't quite rule out a leak." Bevan shook his head. "I can't say for certain nobody in the Home Office told Murphy in advance of the op. As such, until I can verify we're secure, I'm not trusting anyone in the Directorate. I would've called the KGB, but Mr. Morozov has said they're tied up at the moment - unsure why. Thus, I called in a favour from President Bennani. Seems he and his government take their debt to you very seriously."
-			Connor bowed his head. "Anyway... I'm gonna go check on Trey. See you later."
+			"That is a good question." Bevan chuckled. "No one's sure. Comes with the territory of being an agency that doesn't exist. However... our oldest documents, and our first known mission, was fighting against the Ahnenerbe."
+			"The Ahnenerbe? The weird witch-club in the SS?"
+			"You know your history." Bevan grinned.
+			"I looked into it. The Ahnenerbe were connected to the Optimates. I mean, *really* connected. I mean 'Wolfram Sievers escaped Nuremberg and was an angel investor in Vitalis' connected."
+			"Indeed. So, we've been at war with them for a long while. That's half the reason we're underfunded compared to sections Five and Six."
+			"The other half?"
+			"Well, according to public record, Espers, mutants, and cyborgs don't exist, and neither do we. Most of our funding comes from... covert sources."
+			Connor nodded. "So, that's why Section Zero can't supply medical staff?"
+			"In part. There's also the fact that as it stands, I can't quite rule out a leak." Bevan shook his head. "I can't say for certain nobody in the Home Office told Murphy in advance of the op. As such, until I can verify we're secure, I'm not trusting anyone in the Directorate. I would've called the KGB, but Mr. Morozov has said they're tied up at the moment - unsure why. Thus, I called in a favour from President Bennani. Seems he and his government take their debt to you very seriously."
+			"You're Ivan's contact, aren't you?" Connor cocked an eyebrow. "I'm guessing his branch of the KGB is their equivalent?"
+			"Yes, and Mr. Morozov is my less handsome Russian doppelganger." Bevan grinned. "ODIN used to be our American counterpart, but... well, they swiftly turned their coats. Speaking of... on both ethical and practical grounds, we have been unable to field superhuman operatives - until now. The KGB has Mr. Sokolov; can I count on Riverside in the coming war?"
+			"Like you said, we've been at war for a long while. And Ivan's with us - not the KGB. We're not spooks."
+			"That's not a no."
+			"It's... I have to ask the others first. Either way, I wanna say something, because the FBI got a little confused about this. We're not your attack dogs. We're barely your bloodhounds. Collaboration to us means you give us intel to help us kill super-cunts we were already after. You give us an order we don't like, and we'll say so - loudly. You even think of using Serum, and there's hell to pay. Am I clear?"
+			Bevan nodded, and a grin of respect crawled up his face.
+			"Crystal."
+			Connor smiled, relieved. "Anyway... I'm gonna go check on Trey. See you later."
 			"I'm sure you will." Bevan chuckled. "Until then, Mr. Barrett."
 
 		Smoking with Bevan
@@ -31982,7 +32103,7 @@ VOLUME - Age of Heroes
 			"Y-yeah, well, you guys would beat us anyway, so... saves us the hassle." a thug replied.
 			"Oh." Trey shrugged. "Wait, so... you're okay with being arrested?"
 			"Well, it's either get arrested, or have you guys break our bones and *then* get arrested, right?" another shrugged back.
-			"Fair enough." Connor chuckled, before pulling out his phone. "Detective - site's secure. Paramedics not required."
+			"Fair enough." Connor chuckled, before pulling out his phone. "Nightstick - site's secure. Paramedics not required."
 			"Not required as in 'because they're all dead,' or..."
 			"Nah, it turns out we're pretty fuckin' terrifying." Connor snarked.
 
@@ -31992,7 +32113,7 @@ VOLUME - Age of Heroes
 			The last of the Disciples had been cuffed and taken away, and Naismith turned to the three Werewolves.
 			"Well, well - new hire?" he chuckled.
 			"Hi." Trey waved awkwardly.
-			"Oh yeah - this is DCI Naismith. Don't worry about the veins, he's on our side." Connor smiled. "Detective, this is... um... we haven't got a codename for him yet."
+			"Oh yeah - this is DCI Naismith. Don't worry about the veins, he's on our side." Connor smiled. "Nightstick, this is... um... we haven't got a codename for him yet."
 			"Werewolf II." Trey shrugged.
 			"Actually, tradition states you have to go by Grom until you get your own codename." Connor grinned. "I had to, as well."
 			"Nice one." Naismith chuckled. He waited until the other officers had left, before leaning in conspiratorially.
@@ -32517,7 +32638,8 @@ VOLUME - Age of Heroes
 			"Hah... hey." she stretched. "How long have I been out?"
 			"Nearly a week." Connor admitted. "We had to keep you sedated - you don't heal as fast as us."
 			"Shit... how did the fight go?" she asked.
-			"Badly. But I managed to stop it." he nodded, sitting by her bedside. "The bigger news - Trey's one of us."
+			"Badly. But I managed to stop it." he nodded, sitting by her bedside. Bubo gently pushed his head into Connor's side, and he affectionately stroked the owl.
+			"The bigger news - Trey's one of us."
 			"How do you mean?"
 			"I mean, he has the same mutations me and Sparky do. And they've been activated."
 			"Oh..." Gwen gasped. "That's... very big news."
@@ -32859,7 +32981,7 @@ VOLUME - Age of Heroes
 			"Even if you were a Werewolf right now, we'd still need someone doing what you're doing." Shannon shook her head. "Connor said it best - the city needs its hero."
 			"I suppose." she shrugged. "But I could still be the hero the city needs as a Werewolf. And I could do so much more, too."
 			"Well, when Chloe gets back, you guys can figure out how to... I dunno, switch the powers on or whatever. Though to be fair, I think I heard her say she wants to run some tests on you to find out what a Werewolf's biology looks like pre-activation."
-			"Hah. Ever the scientist." Amy smirked. "Anyway, how's Gwen doing?"
+			"Hah. Ever the scientist." Amy smirked. "Anyway, how's Whiplash doing?"
 			"She's resting right now. I've not told her what's going on in Karelia, just to be safe." Shannon nodded. "We reckon she'll be up and about soon, though."
 			"That's good. We could use the extra hands." Amy sighed. "Anyway, I'd better get back to it."
 			"See you later, Stunlocke." Shannon smiled.

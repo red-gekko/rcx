@@ -335,6 +335,15 @@
 		Ghoul/Ghouls - the result of blood starvation, or intentional abuse by their sires - these vampires are almost zombie-like
 		Sapiovore/Sapiovores - a disease similar to vampirism which afflicts the host with a burning desire to consume meat, especially meat taken from fellow sapients. Allows the host to take on memories and genetic traits of food
 		Reproduces through spread, biologically immortal
+	Veyran/Veyrans - eusocial mammaloids, originally evolving on ancient Lulamar and cultivated by Lulamarians.
+		"Rippers" - agile, almost panther-like; and with the "Stalker" sub-caste that can use mimetic camouflage
+		"Breakers" - hulking, thick-skinned; described as a "rhino-bear" by human observers.
+		"Spitters" - rather explanatory, but acid-spitting range attackers. they look a lot like tapirs
+		"Spiners" - slow-moving, and can launch chitinous spines. A fatter variant of the Spitter
+		"Flyers" - Bat-winged, with electric-eel-like tails and sharp claws
+		"Feeders" - bovinoid caste that produces both high-energy jelly, as well as meaty growths on the body that can be "sheared"; essentially, it can be butchered repeatedly. Feeders are very rare among wild examples of this species. Domesticated versions often posses silky fur that can also be sheared, extra leathery skin that can also be taken off non-lethally, along with bony outgrowths for toolmaking. It is theorised that Feeders are a deformed offshoot of this race, hence their lack of prevalence in wild variants; their only use being found either in very large colonies (where they provide high-energy nutrients in spaces with abundance of grasses), or in domesticated environments
+		"Boomers" - a severely mutated Feeder variant, covered in explosive pustules where its meat growths would be. Only found in badly unwell or domesticated colonies.
+		"Crawlers" - apelike creatures of heightened intellect, usually found in well-established colonies. They are general-purpose workers, scouts, and warriors, and use tools and primitive weaponry. Crawlers are highly prised in some societies, with a few even being uplifted into sapience.
 	Vreggid/Vreggids - A group of molluscoids who are physically weak but remarkably effective at tool development, leading to advanced robotics in even their early history. They reproduce via special organisms called "breeding pools" which churn out a number of Vreggid individuals roughly once a year.
 		Evolved from vertebrate molluscoid-amphibians parasitised by mutarch larvae
 		Prefers temperate-to-tropical swamps

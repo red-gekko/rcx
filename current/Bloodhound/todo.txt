@@ -13,11 +13,8 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
-
-
 current wip scene
 	all left for vol 2 is between Star-Crossed and Gunshots - we're on the home stretch now!
-		Consider if TO24 should be downscaled to just Nightstick and Akimbo (Naismith and Nina)
 		Gotta write Amy and Connor visiting Vince; they mention the below bit
 		Remove Yaz at the end of Star-Crossed, putting Mikhaela earlier in her plac
 		Add both Medicine Run and Zack's interviews to Warzones
@@ -25,6 +22,30 @@ current wip scene
 			Of course, Sparky's word are inaudible over broadcast, so instead, he might be there in connor's interview, and connor explains that he's the telepathic wolf; they're both the Werewolf, collectively (not giving his name as vanguard)
 		Have Bea mention the forums during the post sparring date; then add a little more where, crashing back at Riverside, Shannon reveals that people are shipping Vanguard and Verdict (toxic yaoi) - write the cringey excerpt in all its glory
 		after that, should mostly be done
+
+
+
+volume 2 big changes:
+	have shannon involved more in group outings from post-charlie onwards
+
+	add a few scenes where the gang learn about their public presence
+		first, a news report from Zack doing a profile on the various superheroes
+			have Bea express admiration for Stunlocke in particular
+			this happens between open day and Splash
+		later, have Bea reveal she's on a forum that goes on about the superheroes
+			funny gag where she reveals theres a shipping war; she says there's a big argument on the forum between "Team Stunlocke" and "Team Whiplash". Connor asks if there's a "Team Werewolf" and Bea grins "Everyone's Team Werewolf." she then reveals that people are shipping the Werewolf with either Whiplash or Stunlocke; Connor and Amy are grossed out
+			later shannon sends him yaoi of him and Ivan, to his horror and ivan's delight
+			this happens in the post-sparring practice date, before vitalis siege
+
+	medicine run
+		shannon reports there's been a string of thefts of critical medicine lately; asks amy and olivia to investigate
+		they follow a lead to a gang of thugs; amy knocks out a bunch and subdues their leader, demanding he talk. he snarks "you ain't the werewolf! i'm not telling you nuffin!" then amy zaps him and says "i can keep doing that until your heart gives out. then, i'll resucitate you, and do it again. start. talking." he immediately spills
+		they find the location of the latest shipment of drugs; amy goes to attack, but shannon chimes in and says their best bet is following it covertly to wherever they're keeping the other drugs; amy reluctantly hides while olivia follows it on her glider. when it arrives at a depot, the girls raid it while shannon puts a call out to naismith
+
+		have olivia use a new tool for non-lethal combat - the Swingshot, a smooth-balled flail that clips to her bracers
+
+		have this come up post-judge, where dr rosenbaum notes that the vigilantes saved countless lives by retrieving those meds, and so the hospital will provide any equipment chloe needs
+
 
 
 
@@ -57,38 +78,41 @@ change the prison break sequence
 
 
 
-remove Yaz completely. her arc contributes nothing of note. instead, end the theatre date on a high note with connor soaring through the sky, and begin the next episode in chechnya. the only moment worth keeping is looking after a baby - find something for that to be included with, where connor and sparky care for a baby in the motel, and chloe sees him humming the lullaby
-	solution; instead of after, have this happen *before* the theatre date:
-		1. Tommy is threatening some Skull mook to stay off his territory, when he gets a call from Mikhaela, the sex worker who Sparky saved. She's been evicted, so Tommy tells her to hang tight, he'll be there shortly. He then smacks the Skull again and tells Pawel to dump him somewhere
-		2. Connor is getting ready for his date with Trey, doing the tuxedo thing, when Tommy turns up with Mikhaela and the kid in tow. He asks that connor helps her get checked in; Connor does, while Trey and Shannon covertly cover up any evidence of them being superheroes. Sparky plays with the kid, doing the whole biggoggie speech.
-			2a. Connor calls chloe, convo below:
-				hey, you!
-				hey, um... i'm really sorry, but something's come up at the motel. don't worry, i'm not bailing again - but i don't know if i'll have time to pick you up *and* get to the theatre on time
-				hey, it's fine! as long as you're still coming to the theatre, it's absolutely fine. is everything alright at the motel?
-				yeah, it's all good, it's just *clears throat* we've had a woman and her kid turn up; she's just been evicted, they're completely broke... and i have room here, so i'm just sorting a room now
-				aww... connor, please don't ever feel like you need to be nervous about doing the right thing because of me, okay? even if this *did* mean you couldn't make it to the theatre, we could work something out.
-				thanks... that really means a lot
-				hey... i've got time to kill if you're not coming here; maybe i can get to yours?
-				uh--yeah, that works!
-				brilliant. i'll see you soon
-		3. chloe arrives, and walks into the common room to find connor soothing the kid by singing black velvet band. he hands him off to his mother, and they leave; tommy says he'll take sparky for a walk "as thanks"
-		later, chloe mentions black velvet band asking about it; more clean than connor saying craic randomly
-		end episode on high note soar
-		start next on battle of chechnya; replace opening with the medicine run for padding
-
-	below is the water bottle moment: add that to the kid
-
-				Connor sighed, looking down likewise. A high-pitched wail from Jack went right through Connor and Sparky's eardrums, hitting their enhanced senses especially hard.
-				"You need a hand with the wee man?" he asked, trying his hardest to not sound judgemental.
-				"Oh, he... sorry, he gets like this. Sometimes he cries and cries, and just won't stop." she replied, lifting him up and trying to soothe him. The crying lessened ever-so-slightly, but didn't stop.
-				Connor rubbed his eyes, grounding himself. "Here." he said, handing her a bottle of water from his bag. "Give him this."
-				She hesitated, but took the bottle and gave it to him. He began drinking, and started to calm down. By the time he finished sipping, he'd stopped crying entirely, and started to smile softly.
-				"Oh my god..." Yaz beamed. "How did you do that?"
-				"Eh." Connor shrugged. "When kids cry like that, it makes 'em hyperventilate - which freaks them out, and makes them cry even more. Have them drink something, and they're kinda forced to catch their breath."
-				Yaz smiled. "Thanks, Connor. I..." she stopped herself, before she could say "I wish you were his dad."
 
 
 
+
+
+
+
+
+
+
+cute cheeky moment; connor's trimming his beard, and asks chloe what she thinks of his facial hair; she says she likes it when he has a bit of scruff; then later, they're looking in a mirror (or taking a selfie) and he quips that it's like a fairy tale - he's the scruffy outlaw, and she's the beautiful princess.
+
+another moment, maybe with above maybe not; when talking about their respective heritages, connor quips that theyre "like romeo and juliet" to which chloe says "remind me to make sure next time we go to the theatre, we watch that one"
+
+
+
+
+at some point, have zack contact the gang and they do interviews
+
+
+something that was revealed to me in a dream; that may be useful
+	the dream was, i and some people i was working with had had someone in for a trial shift that day. the others found him to be annoying. they asked me for my opinion, and i said "well yeah, he could be a little frustrating at times, but i don't think it was malicious or anything" and they immediately went "who said malicious?" and assumed I was having a go at them, and then immediately started having a go at me, interrupting and shouting down any attempts from me to explain myself
+	yeah, it's a good summary of autism; add it to connor perhaps
+
+
+
+
+
+
+have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
+
+
+
+in vol 3, gwen tutors connor on esper-ing; he asks why she can't just give him her powers via mind merge; she says "If it were that easy ODIN would've conquered the world a long time ago" and explains that the mind merge cannot transmit skills in there totality; the only way to do it would be to maintain a permanent link within a group where they can focus their power together
+	while meditating, gwen tells connor to focus on his breathing - to focus on the air itself, and its journey from his nose to his lungs and back again. he's able to focus in easily on the physical air, but struggles to maintain an image of it in his head once it's breathed out. she takes his hands, and shows him how she does it - he quips that she's not normally so touchy feely, and she blushes a little before focusing
 
 
 flesh out connor's day job;
@@ -129,40 +153,6 @@ emphasise connor's inherent terrifying nature
 	have Trey design a sigil for Connor to start using
 	have Connor go berserk against some regular thugs - he doesn't kill them, but is way more brutal than normal, sparing one for last to scream his questions
 	have him laugh when spooking thugs, like in Last Rites
-
-
-
-
-
-
-
-
-
-cute cheeky moment; connor's trimming his beard, and asks chloe what she thinks of his facial hair; she says she likes it when he has a bit of scruff; then later, they're looking in a mirror (or taking a selfie) and he quips that it's like a fairy tale - he's the scruffy outlaw, and she's the beautiful princess.
-
-another moment, maybe with above maybe not; when talking about their respective heritages, connor quips that theyre "like romeo and juliet" to which chloe says "remind me to make sure next time we go to the theatre, we watch that one"
-
-
-
-
-at some point, have zack contact the gang and they do interviews
-
-
-something that was revealed to me in a dream; that may be useful
-	the dream was, i and some people i was working with had had someone in for a trial shift that day. the others found him to be annoying. they asked me for my opinion, and i said "well yeah, he could be a little frustrating at times, but i don't think it was malicious or anything" and they immediately went "who said malicious?" and assumed I was having a go at them, and then immediately started having a go at me, interrupting and shouting down any attempts from me to explain myself
-	yeah, it's a good summary of autism; add it to connor perhaps
-
-
-
-
-
-
-have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
-
-
-
-in vol 3, gwen tutors connor on esper-ing; he asks why she can't just give him her powers via mind merge; she says "If it were that easy ODIN would've conquered the world a long time ago" and explains that the mind merge cannot transmit skills in there totality; the only way to do it would be to maintain a permanent link within a group where they can focus their power together
-	while meditating, gwen tells connor to focus on his breathing - to focus on the air itself, and its journey from his nose to his lungs and back again. he's able to focus in easily on the physical air, but struggles to maintain an image of it in his head once it's breathed out. she takes his hands, and shows him how she does it - he quips that she's not normally so touchy feely, and she blushes a little before focusing
 
 
 horror plot - they discover what the Optimates are using the kids for; non-ODIN compatible kids are having their brains extracted and used as wetware components. The kids are still semi-conscious, and in agony.
@@ -240,28 +230,6 @@ extra bases!
 	Have a cave in Wyrmrock to use as a perch; have it behind a waterfall; it's a winding cave system that's perfect for storage
 	An office in Rydon Tower, Caldermouth; providing cover for both it and Torbrook
 
-
-
-volume 2 big changes:
-	have shannon involved more in group outings from post-charlie onwards
-
-	add a few scenes where the gang learn about their public presence
-		first, a news report from Zack doing a profile on the various superheroes
-			have Bea express admiration for Stunlocke in particular
-			this happens between open day and Splash
-		later, have Bea reveal she's on a forum that goes on about the superheroes
-			funny gag where she reveals theres a shipping war; she says there's a big argument on the forum between "Team Stunlocke" and "Team Whiplash". Connor asks if there's a "Team Werewolf" and Bea grins "Everyone's Team Werewolf." she then reveals that people are shipping the Werewolf with either Whiplash or Stunlocke; Connor and Amy are grossed out
-			later shannon sends him yaoi of him and Ivan, to his horror and ivan's delight
-			this happens in the post-sparring practice date, before vitalis siege
-
-	medicine run
-		shannon reports there's been a string of thefts of critical medicine lately; asks amy and olivia to investigate
-		they follow a lead to a gang of thugs; amy knocks out a bunch and subdues their leader, demanding he talk. he snarks "you ain't the werewolf! i'm not telling you nuffin!" then amy zaps him and says "i can keep doing that until your heart gives out. then, i'll resucitate you, and do it again. start. talking." he immediately spills
-		they find the location of the latest shipment of drugs; amy goes to attack, but shannon chimes in and says their best bet is following it covertly to wherever they're keeping the other drugs; amy reluctantly hides while olivia follows it on her glider. when it arrives at a depot, the girls raid it while shannon puts a call out to naismith
-
-		have olivia use a new tool for non-lethal combat - the Swingshot, a smooth-balled flail that clips to her bracers
-
-		have this come up post-judge, where dr rosenbaum notes that the vigilantes saved countless lives by retrieving those meds, and so the hospital will provide any equipment chloe needs
 
 
 during the belson riots, have there be mention of vitalis getting looted; have this be where the Skulls start to form

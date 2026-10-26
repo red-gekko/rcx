@@ -6315,7 +6315,7 @@ VOLUME - Wolves Among Sheep
 			"So... you were what, an abattoir?"
 			"Murderer. Call it what it was. Murder."
 			"You've murdered a lot of people recently, Hamlet." Connor scowled.
-			"AND THEY DESRVED IT! ALL OF THEM!"
+			"AND THEY DESERVED IT! ALL OF THEM!"
 			Connor readied his fists for another bout. "Alright, former abattoir turned psycho cannibal, I get that bit. I even get the whole 'haunted by dead pigs, goes after pig farmers' shtick. But... and I mean this respectfully... what the fuck is up with your face?"
 			"Kind man..." the swineface smiled. "Taught me how to listen to the Pigs. Then he stuck his knives in my face and made me... better."
 			Pig Head reached for his snout, and honked it like a clown's nose. He let out an oink, and giggled.
@@ -12959,8 +12959,8 @@ VOLUME - Wolves Among Sheep
 			"Sometimes?" she pressed.
 			"...sometimes I hate these powers. Not even the trauma, or the pain they give me... but the responsibility. I miss not hearing things like that. I miss being able to ignore all the shit in this city... but I can't. Like, right now, I can hear there's an irregular heartbeat in the crowd. Maybe the person doesn't know about it. Maybe I could tell them, and save their life. Or her - over there, by the bar. She's twelve weeks pregnant, give or take. Based on how much gin she's putting away, I assume she doesn't know. It's only a couple of missed periods - maybe that's normal for her. Should I tell her? Would either of those people believe me? Wouldn't that blow my cover for nothing? Hell, maybe by just being the Werewolf, I invade the privacy of every living being in my vicinity."
 			She smiled sadly. "I'm sorry. It sounds... exhausting."
-			"It is." he sighed. "It's... it's why I struggle to switch off. You know, whenever I'm at home at night, all I can hear is sirens. When I'm on patrol, I pick up little cries people make - and I do what I can, but it's never enough. I plug one hole, and three more spring up."
-			"I... I don't know what to suggest." she began, looking away. "I wanna tell you to take more time off, but... you can't. Fuck it, maybe I need to figure out your Kryptonite."
+			"It is." he sighed. "It's... it's why I struggle to switch off. You know, whenever I'm at home at night, all I can hear is sirens. When I'm on patrol, I pick up little cries people make - and I plug one hole, and three more spring up. I do what I can - like saving Clara, like taking down Ms. Pilton, but... it's never enough."
+			"I... I don't know what to suggest." she began, looking away. "I wanna tell you to take more time off, but... you can't. You can't switch off, and... it's not fair. Fuck it, maybe I need to figure out your Kryptonite."
 			"That's... not how it works. You can't just switch off my powers." he grinned. "Anyway... I'll see you tonight."
 			"Yeah... see you."
 
@@ -24677,7 +24677,7 @@ VOLUME - Gods Among Men
 			"One more thing." Ward began. "It has not escaped my attention that you both have impressive service records - particularly, Constable, given your relative lack of time here. Therefore, I will contact Chief Tulloch to make it official, but in the time being, I am hereby granting you both promotions. PC Chowdhury, I am hereby making you an acting Police Sergeant. DI Naismith, I am hereby making you an acting DCI."
 			"I... thank you, Ma'am! I won't let you down!" Nina replied, her face alight with pride.
 			"Thank you, Ma'am. I... I really appreciate it. We will not fail." Naismith said, surprised and pleased that an executive was finally recognising him.
-			She sighed. "And lastly... desperate times call for desperate measures, so in my capacity as commissioner of the Drackhill Valley Police Force, I have been in contact with the home office. We have agreed to restore order by having patrol officers seconded from neighbouring forces to fill in our gaps, but more importantly... we have been authorised to form a new, special task force. Tactical Operations team 24 - TO-24. DCI Naismith, I am hereby assigning command of this unit to you. Given the previous... institutional concerns... I have decided that TO-24 will report the progress of its investigations directly to me."
+			She sighed. "And lastly... desperate times call for desperate measures, so in my capacity as commissioner of the Drackhill Valley Police Force, I have been in contact with the home office. We have agreed to restore order by having patrol officers seconded from neighbouring forces to fill in our gaps, but more importantly... we have been authorised to form a new, special task force. Tactical Operations team 24 - TO-24. It'll be a small unit - just the two of you, to start with, with authority to pull in whatever officers or resources you need. DCI Naismith, I am hereby assigning command of this unit to you. Given the previous... institutional concerns... I have decided that TO-24 will report the progress of its investigations directly to me."
 			"Thank you, Ma'am." Naismith said graciously. "We won't let you down."
 			"Godspeed, officers." Ward smiled.
 			With that, the two officers clicked their heels in salute, and left.
@@ -26236,7 +26236,7 @@ VOLUME - Gods Among Men
 
 		Post-Murillo/I Hear You
 
-
+////
 	______________________________
 	EPISODE - Star-Crossed
 		______________________________
@@ -26464,53 +26464,53 @@ VOLUME - Gods Among Men
 		Connor bails/Raj fire
 		______________________________
 		SCENE
-			The next morning, mayor Ward entered a briefing room, along with an older man in an executive officer's uniform. Immediately, Naismith, Nina, and 3 other officers all stood and clicked their heels.
+			The next morning, mayor Ward entered a briefing room, along with an older man in an executive officer's uniform. Immediately, Naismith and Nina stood and clicked their heels.
 			"As you were." Ward said. She approached the projector and began her presentation.
-			"Thank you all for attending. As you know, I am mayor Helen Ward, and this is Acting Chief Constable Paul Tulloch. This is the first meeting of Tactical Operations team 24, or TO-24. Please introduce yourselves." 
+			"Thank you for attending. As you know, I am mayor Helen Ward, and this is Acting Chief Constable Paul Tulloch. This is the first meeting of Tactical Operations team 24, or TO-24."
 			"DCI Henry Naismith." he said, rising.
 			"Police Sergeant Nina Chowdhury." she rose with him.
-			"DC Cheryl Moffat." "PC Adrian Lloyd." "FI Lucas Rogerson." the 3 officers stated.
-			"Excellent." Tulloch nodded. "TO-24, this is your objective. You are to investigate the string of killings attached to the 'Werewolf' vigilante. You are also to investigate any criminal elements his activities may be targeting. DCI Naismith, if you would." 
-			Naismith nodded, addressing the team. "Thank you ma'am. PS Chowdhury and I met with Vitalis yesterday to analyse the findings on these 'superhumans.' The results were... well, it's best if you all take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
-			"Thanks to the work of Ms. Derrington over at Vitalis, we've been able to isolate a few key facts. 1: these Superhumans use some kind of substance called Paradrenaline - overloads of which can cause so-called 'Rages.' We believe one such Rage was responsible for the bloodbath at the Auction House." Naismith shuddered.
-			Moffat shook her head. "Rages?" She paused, then cleared her throat. "No offence, sir - but how are we supposed to capture it?"
-			Naismith looked at her, smiling softly. "None taken, DC Moffat. I agree, capture is going to be tricky - especially given his resistance to injury."
-			"Is it true that he was shot in the face and survived?" Lloyd asked, nervously.
-			"Yes, it's true. He was also gassed with Chlorine, survived an explosion, cut off his own hand only to grow a new one, hell, only last night he was impaled... it's not going to be easy fighting him. Thankfully, he's not interested in fighting police, by the seems of it. In all the incidents where we've shown up on time to get to him, he's only caused minor injuries to a few officers. Given what he's capable of, that should help us all sleep at night."
-			"Wow..." Lloyd said, shocked. "How do you even begin to make something like that?"
-			"Moving on... within the 61 chromosomes found in the Werewolf's DNA, there are 46 normal human chromosomes. We strongly believe these to be the original chromosomes of... whatever the Werewolf once was. I've asked Vitalis to isolate them, and provide them to us. From that, we can check them against our own databases, and see if anyone matches."
+			"Excellent." Tulloch nodded. "TO-24, this is your objective. You are to investigate the string of killings attached to the 'Werewolf' vigilante. You are also to investigate any criminal elements his activities may be targeting. To that end, I will assist you in seconding officers as and when you need them - but due to the sensitive nature of this inquiry, we'll be keeping plenty in house."
+			"I have a list here of staff you can have on speed dial." Ward began. "A DC Cheryl Moffat - she worked on a Missing Persons case you found yourselves involved in. PC Adrian Lloyd - CT sniper, and one who quit when Dorsey's soft coup came into place; he's rejoined, and he'll be your liaison with armed support. Lastly, FI Lucas Rogerson can help with any forensics you need."
+			"Thank you, ma'am." Naismith bowed his head.
+			Tulloch cleared his throat. "DCI Naismith, if you would." 
+			Naismith nodded, turning. "Thank you, sir. PS Chowdhury and I met with Vitalis the other day, to analyse the findings on these 'superhumans.' The results were... well, it's best if you both take a look." Naismith showed the slide detailing the genetic analysis of the Super-Agents - and of the Werewolf. 
+			"Thanks to the work of Ms. Derrington over at Vitalis, we've been able to isolate a few key facts. 1: these Superhumans use some kind of substance called Paradrenaline - overloads of which can cause so-called 'Rages.' We believe one such Rage was responsible for the bloodbath at the Auction House." Nina shuddered.
+			Tulloch shook his head. "Rages?"
+			He paused, then cleared his throat. "No offence, Inspector - but how are we supposed to capture it?"
+			"None taken, sir. I agree, capture is going to be tricky - especially given his resistance to injury."
+			"Is it true that he was shot in the face and survived?" Ward asked. "I've read the reports, but..."
+			"Yes, it's true. He was also gassed with Chlorine, survived an explosion, cut off his own hand only to grow a new one, hell, only last week he was impaled... it's not going to be easy fighting him. Thankfully, he's not interested in fighting police, by the seems of it. In all the incidents where we've shown up on time to get to him, he's only caused minor injuries to a few officers. Given what he's capable of, that should help us all sleep at night."
+			"How do you even begin to make something like that?" Tulloch asked, shocked.
+			"That's what we're trying to find out, sir." Naismith replied grimly. "Within the 61 chromosomes found in the Werewolf's DNA, there are 46 normal human chromosomes. We strongly believe these to be the original chromosomes of... whatever the Werewolf once was. I've asked Vitalis to isolate them, and provide them to us. From that, we can check them against our own databases, and see if anyone matches."
 			Silently, Naismith paused. He didn't *want* to find the Werewolf anymore. They were allies now. But he knew he couldn't ignore this lead. He sighed, the weight of the decision settling in.
-			"That's... that must be a joke, right?" Rogerson began. "Sorry, sir. I've worked as a Forensic Investigator for 5 years now, and not once have I seen anything like that."
-			"That's what I thought." Naismith nodded. "But no... it's genuine."
+			"I've worked as a detective for 15 years now. I've seen some strange things. But not once have I seen anything like this." He clicked to the next slide. "It's genuine. I've verified it myself."
+			"Aside from him, there's the matter of his associates." Nina began, turning the page. "We've identified a sniper, codename Verdict; a canine, codename Spartacus; a female who fights with a bow and arrow, and we've seen unconfirmed reports of... telekinetic abilities, codename Whiplash..."
+			"And the newest member of the team - another female, this one in some kind of powered cerametallic exoskeleton, codename Stunlocke."
+			"A whole team of them..." Ward realised.
 			"Right then." Tulloch shuffled. "And as I understand it, you have a CHIS who has been supplying you with intel on the Werewolf's activities?"
 			"Yes, sir." Naismith began. "I'm not at liberty to disclose the CHIS's identity, but he's provided me with good information."
 			"This isn't just another case. We're dealing with something unprecedented here. Whatever this 'Werewolf' is, he's a symptom of something bigger. And we need to be ready." Ward said, her face grim. "Let's do this right. No room for mistakes."
-			With that, the officers stood and clicked their heels in respect. "Ma'am!" they all shouted. The officers exchanged a brief glance, their faces hardening. Ward's words hit home.
-			"I will be blunt." she continued. "You were all chosen to be assigned to this squad because your records indicate you stood up against institutional malpractice. Dorsey tried to have each of you reassigned, hoping you'd be silenced. Well, I'll take that bastard's words as a ringing endorsement of your integrity. If he didn't trust you, then I damn well do."
-			At those words, the officers smiled proudly.
+			With that, they stood and clicked their heels in respect. "Ma'am!" they nodded.
+			"I will be blunt." she continued. "I chose you two specifically because your records indicate you stood up against institutional malpractice. Dorsey tried to have you both reassigned, hoping you'd be silenced. Well, I'll take that bastard's words as a ringing endorsement of your integrity. If he didn't trust you, then I damn well do."
+			At those words, Naismith and Nina exchanged a glance - something passing between them that didn't need words.
 			"But do not get complacent. This force has been corrupted from within. I will not - *not* - allow that to happen again. The Werewolf is merely one slice of the pie. We need to bring the whole case to the light."
+			"I'll be mainly hands-off on this investigation, to be clear." Tulloch cut in awkwardly. "Needless to say, Chief Constables micromanaging this case isn't a happy memory. If you need anything, reach out to me - but you'll mainly report to mayor Ward."
 			"Well then!" she finished, smiling. "Let's get to work."
-			"Ma'am!" the officers clicked their heels once more. They began to interact as Ward left, talking and getting to know each other.
-			"So, as I said, I'm DC Moffat. The blokes in Mispers call me Moffie - don't ask. And don't ever, ever call me that." she smirked.
-			"Pleased to meet you properly, Moffie." Naismith grinned. Moffat rolled her eyes and laughed.
-			"I'm Adrian-er, PC Adrian Lloyd. Just got transferred here out of Counter Terrorism." Lloyd began.
-			"Wow! What was your job there?" Nina asked.
-			"Marksman. Yeah, I know I seem bumbling, but... well, look at my stats." he said shyly.
-			"If you were a marksman in CT, you must be good." Moffat replied in awe.
-			"I'm Chief Constable Tulloch, as you all know. I'll be mainly hands-off on this investigation - needless to say, Chief Constables micromanaging this case isn't a happy memory. If you need anything, reach out to me - but you'll mainly report to mayor Ward."
-			"And I'm Rogerson, Forensic Investigator."
-			"You said you'd been an FI for 5 years?" Lloyd asked.
-			"That's right - seen some twisted shit. I was the one who did the first review on the Werewolf's hand - though we weren't calling him that back then. I'm not happy we sent it off to Vitalis, but I'm glad it's getting looked at, at least. Still, those chromosomes... that's weird. I mean, how can you have that many?" he mused.
-			"I'm sure we'll find out... whatever he is, we have a mission to complete." Lloyd said nervously.
-			With that, the team continued to mingle. Nina went to one side with Naismith.
-			"That was a great presentation, sir." she said to him, smiling proudly.
-			"Hah, really?" Naismith asked, chuckling. "Never had my own team before. Thanks for the vote of confidence."
+			At that, Ward and Tulloch left. Naismith and Nina stood alone in the briefing room.
+			"That was a great presentation, sir." Nina said, smiling proudly.
+			"Hah, really?" Naismith asked, chuckling. "First time I've had a unit of my own, even if it is just us two. Thanks for the vote of confidence."
 			"I've got your back, sir." she nodded.
 			Naismith paused. "I thought I'd be glad to bring him in, but now... now it feels more complicated. How do you arrest someone who might be fighting for something good? And if we don't, what does that make us?"
-			"To tell you the truth, sir? I don't think Ward wants us to find him - I think our true objective is to crack open the cabal he's after. She doesn't strike me as someone who chases shadows. She wants us to follow the Werewolf, sure - but this conspiracy - they're the real criminals here. No one will cry if we go after them too." Nina replied, whispering. 
+			"To tell you the truth, sir? I don't think Ward wants us to find him - I think our true objective is to crack open the cabal he's after. She doesn't strike me as someone who chases shadows. She wants us to follow the Werewolf, sure - but this conspiracy - they're the real criminals here. No one will cry if we go after them too."
 			Naismith smiled, invigorated by his comrade's words.
 
-		Naismith meets TO-24/Prison Visit
+		Naismith meets TO-24
+		______________________________
+		SCENE
+			"Barrett! Visitor." the guard barked from behind the door.
+			Vince yawned
+
+		Prison Visit
 		______________________________
 		SCENE
 			Chloe finished her classes for the day, and spotted Bea waiting outside her lecture hall. Smiling, she walked over.
@@ -26898,7 +26898,7 @@ VOLUME - Gods Among Men
 
 		Post-Theatre
 
-////
+
 	______________________________
 	EPISODE - Warzones
 		______________________________
@@ -27663,10 +27663,10 @@ VOLUME - Gods Among Men
 			"Oh, hey Verdict - let me guess..."
 			"Yes - Vitalis's under siege. Get there now. I'm in London at the moment - long story. I'll see you soon, tovarishch."
 			Finally, Connor arrived. He felt his phone ringing, and looked at the scene - the entrance to the labs. DCI Naismith was there, ringing him. Upon spotting him, he hung up. Connor approached.
-			"Werewolf." Naismith nodded. The armed officers in TO-24 aimed their guns at him.
+			"Werewolf." Naismith nodded. The armed officers beside aimed their guns at him.
 			"Hold your fire!" he barked.
-			"Sir?" DC Moffat asked. "But sir, he's... the Werewolf."
-			"DC Moffat, stand down." Naismith replied. She hesitated, but put her gun down. Amy pulled up in her bike behind them.
+			"Sir?" one asked. "But sir, he's... the Werewolf."
+			"Stand down, on orders of TO-24." Nina said firmly. The officers hesitated, but put their guns down. Amy pulled up in her bike behind them.
 			"Listen to me." Connor growled. "Inside that building are monsters beyond your capabilities. You go in there, it's a bloodbath - for everyone except the ones who need killing. Let me get in, I'll kill the Super-Agents, and you can rescue the humans."
 			Naismith nodded. "10 minutes. After that, we're going in."
 			"Got it." Connor replied, and headed inside.
@@ -27805,11 +27805,10 @@ VOLUME - Gods Among Men
 		SCENE
 			An hour later, Chloe was in the police interview room. Nina was sat with her.
 			"They shouldn't be much longer... can I get you a drink or anything?" she asked.
-			"Um... just water, please." Chloe said, still in shock. Nina nodded, and fetched a glass of water. With that, DC Moffat and DCI Naismith entered.
-			"Sorry about the delay." Naismith began. "Can I get you anything before we begin, Chloe?"
+			"Um... just water, please." Chloe said, still in shock. Nina nodded, and fetched a glass of water. With that, Naismith entered.
+			"Sorry about the delay." he began. "Can I get you anything before we begin, Chloe?"
 			"No thank you... I, um, I have water."
-			Naismith nodded, and pressed the recording button on the tape. "TO-24 Interview of Ms. Chloe Derrington, by DCI Henry Naismith, DC Cheryl Moffat, and PS Nina Chowdhury. Please state your names for the tape."
-			"DC Moffat."
+			Naismith nodded, and pressed the recording button on the tape. "TO-24 Interview of Ms. Chloe Derrington, by DCI Henry Naismith, and PS Nina Chowdhury. Please state your names for the tape."
 			"PS Chowdhury."
 			"Chloe Derrington."
 			"DCI Naismith. Now, Chloe, before we get started, I want to make it clear that you are being interviewed as a witness, not a suspect in any criminal matter. You are not under caution, nor in any trouble. You can say 'no comment' to any of my questions, and we can stop the interview at any time. Is that all clear?" he asked.
@@ -27823,32 +27822,31 @@ VOLUME - Gods Among Men
 			"Yeah, that's right. He, um..." Chloe paused, not wanting to reveal Connor's - or her - involvement. "He told the Werewolf that he'd kill me unless he came there immediately, and alone."
 			"Right... and when he came up, what happened?"
 			"They fought. It was... at one point, the Werewolf drew a blade, and stabbed the man with it. The man just took the blade and ran him through. Then, the Werewolf slashed his face, and..." she shuddered at the memory.
-			"You're doing very well, Chloe." Moffat smiled. Chloe nodded.
+			"You're doing very well, Chloe." Nina smiled.
 			"They ended up in a scuffle. The man was jumped on the Werewolf's back. So he... he basically committed Seppuku."
 			"He impaled himself, and the other man?" Naismith asked.
 			"Yes." she said, closing her eyes for a moment.
-			Naismith's face softened for a moment. "You've been through a lot, Chloe. I know this isn't easy, but you're doing great."
-			"And what happened after that?" Moffat asked.
+			Naismith's face softened for a moment. "You've been through a lot, Chloe. I know this isn't easy, but you're doing great. What happened after that?"
 			"He, um... I helped the Werewolf back up to his feet. He was injured, and, well, he was saving me, so..." Chloe looked away.
 			"No one's going to question your decision there." Naismith smiled.
 			Chloe nodded, and continued. "The man... he drew his gun again, and grabbed me. Held me at gunpoint again. I think he knew he was losing, so he wanted an out."
 			"And what happened next?"
 			Chloe's mind flashed - Connor's face under the mask. She banished the thought - she *could not* tell them.
 			"I... I tried to disarm him. My boyfriend, he... he teaches me martial arts. I grabbed the man's wrist, and pushed him back. But he was too strong - he held on to the gun. He aimed at me, and as he fired, the Werewolf pushed him off the rooftop... they both fell."
+			Not a lie. So, that's how he does it.
 			"Is that where you got the injury on your face from?" Naismith asked, pointing to the cut on her cheek.
 			"Yeah... the bullet just missed me. I think it grazed my cheek." she nodded, touching the cut, and running her finger over her older scar beneath.
-			"So, after that... we found you in the alleyway, next to the Agent's body." Moffat began.
+			"So, after that... we found you in the alleyway, next to the Agent's body." Nina began.
 			"Yes, I... I ran down the stairs to see what had happened. I... I wasn't thinking straight." Chloe replied.
-			"Well, he had saved your life. It's only natural to want to check on him." Nina added, smiling sympathetically.
+			"Well, he had saved your life. It's only natural to want to check on him." she smiled sympathetically.
 			Chloe cleared her throat. "I made it to the alleyway, and found both bodies. The Werewolf - his back was snapped. He was... slumped over backwards..."
-			"But his body was missing - did he survive?" Naismith asked, eager for information.
+			"But his body was missing - did he survive?" Naismith asked eagerly.
 			"He, um... I pulled his body down and laid it flat. I... I just planned to give CPR. But he got up, and..." her mind flashed to Connor's agony again.
 			"He was in pain. So, I helped him up, and then he left. I... I didn't see where he went." she finished.
 			"That all checks out..." Naismith said, reviewing his notes. "Well, Chloe - you're free to go. We'll contact you if we need anything. Vitalis will be closed for the time being - I'm sure your boss will let you know once we've cleared out."
 			"Thank you..." Chloe said, still unsure.
-			"Interview terminated at 22:28." Moffat nodded, switching off the recorder.
-			"Chloe, do you need a lift home?" Nina asked.
-			"I, um... yes please." Chloe replied.
+			"Interview terminated at 22:28." Nina nodded, switching off the recorder. "Chloe, do you need a lift home?"
+			"I, um... yes please."
 			With that, Nina took Chloe to her car.
 			"Where to?"
 			"Riverside Repairs, Redbridge." she answered.
@@ -27911,7 +27909,7 @@ VOLUME - Gods Among Men
 			There, Shannon was sat at her desktop. Amy had just finished changing out of her powersuit, and Sparky curled up next to her.
 			"Hey, Chloe..." Shannon said awkwardly. "Um... welcome to the safehouse."
 			Chloe looked around. It still didn't quite feel real.
-			"I'm sorry..." Connor began, but his phone rang. He checked it, and it was Naismith.
+			"I'm sorry..." Connor began, but his phone rang.
 			"It's Naismith - the detective on my case. I'd better take this."
 			"Fine." Chloe nodded. He answered.
 			"Werewolf! There's Agents here, they're slaughtering us! Please, help us!" he screamed.
@@ -27949,15 +27947,15 @@ VOLUME - Gods Among Men
 		Telling the Truth
 		______________________________
 		SCENE
-			Bullets flew overhead, ricocheting off the walls and the metal framework of the station as TO-24 took cover behind a crumbling pillar. 
+			Bullets flew overhead, ricocheting off the walls and the metal framework of the station as officers took cover behind a crumbling pillar. 
 			The air filled with the deafening sounds of gunfire.
 			"ALL UNITS! SECURITY STATUS ZERO! TERRORIST ATTACK IN PROGRESS!" Naismith barked over the radio, his voice strained with urgency.
 			He gripped his side as a stray bullet suddenly found its mark. It struck his leg, and he stumbled, falling to the ground with a grunt of pain.
 			"SIR!" Nina roared, rushing to his aid. She narrowly avoided being shot herself, diving behind a makeshift barricade just in time.
 			She crouched beside him, her breath ragged. "You're hit!"
 			Naismith grimaced but waved her off. "Nina..." he grunted, his face pale. "Get the civilians out of here. I'll hold them off."
-			"No, sir!" Nina replied firmly. "I'm not leaving you! None of us are!"
-			The rest of the team echoed her sentiment. But before any more could be said, the gunfire stopped, leaving only the tense silence of anticipation.
+			"No, sir!" Nina replied firmly. "I'm not leaving you!"
+			Before any more could be said, the gunfire stopped, leaving only the tense silence of anticipation.
 			From the shadows ahead, a low chuckle broke the stillness. The gunmen's leader turned to the door.
 			"Look who it is." he growled lowly.
 			Connor emerged, stepping forward from the darkness, his figure imposing even as he limped slightly. His eyes, glowing a fierce red, locked onto the leader.
@@ -27995,18 +27993,13 @@ VOLUME - Gods Among Men
 			Connor stood over the body, breathing heavily, his eyes still burning with fury. He clutched his back - it wasn't even half healed.
 			"SIR!" Nina barked, running over to a bleeding-out Naismith. Connor joined her.
 			Naismith was in a bad way. He could barely breathe, blood poured from his mouth... this was serious.
-			"Hey, come on, Detective... come on, you've still got a few more times to show up and annoy me before you go." Connor said, worriedly. Naismith chuckled through the sputtering. Connor looked up, and recognised FI Rogerson.
-			"YOU!" he barked. "The serum they use - what is in it?"
-			"Um, I..." Rogerson stuttered.
-			"SPIT IT OUT!"
-			"Umm, blood! Your blood!" he replied.
-			"Yeah, I know - what else?"
-			"Uh, just preservatives!"
-			"So my fresh blood... that's what we need." Connor mused.
-			"What are you doing?!" DC Moffat asked, shocked.
+			"Hey, come on, Detective... come on, you've still got a few more times to show up and annoy me before you go." Connor said, worriedly. Naismith chuckled through the sputtering. 
+			He thought for a hundred years in half a heartbeat.
+			"Remember She-Wolf, Detective? If you develop a psychotic crush on me, I'll geld you."
+			"What are you doing?" Nina asked.
 			"Something really, *really* stupid. Thank me later." Connor replied. He looked at his hand, and morphed an object - some kind of injector - and had it embed itself in his skin.
 			"I'm sorry, Detective." he whispered, and stabbed. Naismith howled in agony, his eyes went bloodshot, and he turned limp - but he was breathing.
-			"WHAT THE HELL DID YOU JUST DO?!" PC Lloyd screamed.
+			"What... what the hell did you just do?!" Nina gasped.
 			"Saved him. Get him to the hospital. And... watch him. See what happens." Connor replied. He hobbled out of the station, blood still following his trail. He escaped into the night.
 
 			In a dimly-lit office, the Commandant was smoking a cigar. A knock at the door.
@@ -28484,8 +28477,8 @@ VOLUME - Gods Among Men
 			"One day." Connor chuckled. "Greg Morland. Dead in a clearly staged suicide. You have his address?"
 			"We do. Okay, thanks mate - I'll come over first thing. I'm back in action now - that serum worked a treat."
 			"Good to hear - Contact me when you find something. I'm guessing your case is about to become complicated."
-			"You have no idea. With all the coppers who died yesterday, there's a real chance TO-24 might have to just refocus on other cases. We'll end up turning a blind eye to you and yours." Naismith mused.
-			"Well, that works for me. Detective..." Connor began, hesitating a little. "Our collaboration works both ways. If you need a hand, just phone me."
+			"You have no idea. With all the coppers who died yesterday, there's a real chance we might have to just refocus on other cases. We'll end up turning a blind eye to you and yours. Well, *more* of a blind eye, anyway." Naismith mused.
+			"That works for me. Detective..." Connor began, hesitating a little. "Our collaboration works both ways. If you need a hand, just phone me."
 			"Will do. Thanks... for a brutal serial killer, you're half decent." Naismith replied, his smirk audible.
 			"And for a stuck-up fed, you're not so bad." Connor snarked back. With that, he headed home.
 
@@ -28639,7 +28632,7 @@ VOLUME - Gods Among Men
 		Chloe meets the Knowers
 		______________________________
 		SCENE
-			That afternoon, Naismith stood alone in TO-24's briefing room, facing a wall with notes on it. Mayor Ward entered the room. 
+			That afternoon, Naismith stood alone in a briefing room, facing a wall with notes on it. Mayor Ward entered.
 			Naismith clicked his heels and stood to attention, turning to face her. He was wearing sunglasses - to conceal the black-veined eyes of the Super-Agent.
 			"As you were." Ward said. Naismith's posture relaxed slightly.
 			"Ma'am. It's good to be back."
@@ -28649,7 +28642,8 @@ VOLUME - Gods Among Men
 			"Ironically, better than before. I... I've been struggling with a lack of purpose lately, but this... it feels like a new lease on life."
 			"Any... any violent urges?" Ward questioned, getting closer to her point - Is he safe?
 			"None, ma'am. I definitely feel more *active,* but in no way am I like the men we've been fighting." Naismith replied firmly.
-			"Good to hear." Ward said, clearly relieved. "In that case, please attend my office at 12PM. I've called in the rest of the team - We're having a briefing to assess our next steps."
+			That was mostly true. Or rather - pain was such an old friend of his, he was skilled in forcing it down..
+			"Good to hear." Ward said, clearly relieved. "In that case, please attend my office at 12PM. I've called in Nina, too - we're having a briefing to assess our next steps."
 			"Very good, ma'am." Naismith nodded.
 
 			At the same time, Connor and Chloe were in a supermarket, buying food.
@@ -28668,41 +28662,37 @@ VOLUME - Gods Among Men
 			Chloe put out her hand, offering to take some shopping. Oblivious to the offer, Connor shifted the shopping into one of his hands, and held her hand with his free one.
 			"That's not--nevermind." she smiled warmly.
 
-			Back in Ward's office, TO-24 were assembled and waiting.
-			"How are you feeling, sir?" Moffat asked, her voice showing a rare level of compassion beyond her carefree persona.
-			"I'm good, Moffie." Naismith smirked, causing her to roll her eyes and chuckle.
+			Back in Ward's office, the two officers of TO-24 were assembled and waiting.
+			"How are you feeling, sir?" Nina asked hesitantly.
 			He took off his shades to reveal his eyes. "I'll never be the same man again, but... I'm not too cut up about that."
 			Nina gave him a caring glance. "It's... it's good to see you doing so well, sir." she said.
 			"If you hadn't covered me there, Nina, I'd be dead. So, thank you." he nodded. Nina smiled proudly.
-			"Um... does anyone know why Ward's called us in?" Lloyd asked nervously.
-			"To give us all commendations and cushy desk jobs?" Rogerson quipped. "Hey, a man can dream right?"
-			Naismith chuckled. With that, Ward entered. The team snapped to attention.
+			"Um... any idea why Ward's called us in?"
+			"To give us all commendations and cushy desk jobs? Hey, a man can dream right?"
+			With that, Ward entered. The pair snapped to attention.
 			"As you were." she said, smiling. "Thank you all again for coming in on short notice. I won't sugar-coat it. It's a fucking mess in this city." she began. "The attack on the station - 17 officers lost their lives."
 			Ward's face looked more grim than ever. The team looked down at their feet.
 			"As if that's not bad enough, I've heard word from station chiefs. Over 40 letters of resignation have been sent in across all departments. Officers are terrified that they could be next. That's not even getting into the fact that so many officers either resigned or were arrested following the Dorsey fiasco." she continued.
 			Naismith winced at the news.
 			"So, as a result..." Ward sighed, "I have had to make the very, very difficult decision... to bring in outside help. Please come in, Mr. Sokolov."
-			With that, Ivan entered the office. TO-24 stood to attention, but Ivan raised his hand in an easing gesture.
-			"As you all were." he said. "My name is Ivan Sokolov, codename Verdict. I am the KGB's specialist in all things... mutant." he began, removing his shades to reveal his own black-veined eyes.
+			With that, Ivan entered the office. They stood to attention, but Ivan raised his hand in an easing gesture.
+			"As you were." he said. "My name is Ivan Sokolov, codename Verdict. I am the KGB's specialist in all things... mutant." he began, removing his shades to reveal his own black-veined eyes.
 			"You..." Nina gasped. "You were there with the Giant, weren't you?"
 			"Well met, PS Chowdhury. Congratulations on your promotion. Speaking of... congratulation on your promotion from mankind to *this,* DCI Naismith." Ivan smirked, turning to face him.
-			"The KGB... what's the KGB doing here, Ma'am?" Moffat asked.
+			"The KGB... what's the KGB doing here, Ma'am?" Nina asked.
 			"Mr. Sokolov is, as he said, a specialist in these matters. He has direct contact with the Werewolf, and important intel on the conspiracy we're facing." Ward answered, sitting down. "I... I have spoken with people at the Home Office, and confirmed that, in these exceptional circumstances, this collaboration is legitimate. Mr. Sokolov, please begin your report."
 			"Thank you, ma'am." Ivan began. "Here." he brought up a slide. "Our enemies. Plague. The Optimates."
-			"Who?" Rogerson asked.
-			"Fascist billionaires." Ivan replied nonchalantly.
-			"What?!" Lloyd gasped.
+			"Who?" Ward asked.
+			"Fascist billionaires." Naismith replied nonchalantly.
 			"A cabal of the rich elites, dedicated to seizing power. They found something. Something... horrifying." Ivan explained. "Somehow, they discovered the means to change humanity into weaponry. This is where their 'Serum' comes from."
-			"The 'Serum' is derived from the Werewolf's blood." Rogerson noted.
-			"That's true - which is strange, as we believe that the Werewolf was created from the Serum. They must - they *must* have an original supply somewhere. One they used to make the Werewolf. According to our own studies on my blood, Super-Agents can be used to create serum, though our blood is weak and often causes minor or harmful mutations when used. The Werewolf's blood appears to be 'pure', for lack of a better term. We believe that sufficient injection of the proper serum can make one a 'purestrain' - a being that is to Agents what we are to humans. These 'Purestrains' can be used to create the proper serum." Ivan replied.
-			"That, or the Werewolf is the original source." Rogerson shrugged.
+			"The 'Serum' is derived from the Werewolf's blood." Naismith noted.
+			"Yes, I know - the same blood runs in both our veins." Ivan nodded. "Which is strange, as we believe that the Werewolf was created from the Serum. They must - they *must* have an original supply somewhere. One they used to make the Werewolf. According to our own studies on my blood, Super-Agents can be used to create serum, though our blood is weak and often causes minor or harmful mutations when used. The Werewolf's blood appears to be 'pure', for lack of a better term. We believe that sufficient injection of the proper serum can make one a 'purestrain' - a being that is to Agents what we are to humans. These 'Purestrains' can be used to create the proper serum." Ivan replied.
+			"That, or the Werewolf is the original source." Naismith shrugged.
 			"Nyet - the Werewolf became active after Paladin fielded its first Super-Agents." Ivan said, a flash over his eyes - a memory. For a split second, he was back in Sukhumi in 2009, fighting monster-men. He banished the memory.
-			"Hm." Rogerson replied, sceptical.
-			"FI Rogerson." Ward said, causing Rogerson to stand to attention.
-			"Ma'am. Apologies, Mr. Sokolov."
-			"No need. Our knowledge is incomplete. Much of this is theory - hard-earned, but unproven. In truth, we are grasping at shadows, hoping the light reveals something useful. Scepticism is good. Trust nothing without verification. Hah, you'd be good in KGB, Rogerson." Ivan quipped.
+			"Hm." Nina replied, sceptical.
+			"Our knowledge is incomplete. Much of this is theory - hard-earned, but unproven. In truth, we are grasping at shadows, hoping the light reveals something useful. Scepticism is good. Trust nothing without verification. Hah, you'd be good in KGB, Nina." Ivan quipped.
 			"So, as you were saying, Mr. Sokolov." Ward interjected.
-			"Yes, ma'am. The attack at Vitalis and here was devastating - but Paladin also lost their top Agents. They'll likely start using increasingly unstable strains of mutant to fight us - in particular, unhinged, psychotic creatures, almost forever trapped in a Rage. Such things would be... highly problematic for TO-24 to face on its own. Therefore, I and the Werewolf will be available to the police, to face these monsters for you."
+			"Yes, ma'am. The attack at Vitalis and here was devastating - but Paladin also lost their top Agents. They'll likely start using increasingly unstable strains of mutant to fight us - in particular, unhinged, psychotic creatures, almost forever trapped in a Rage. Such things would be... highly problematic for the force to face on its own. Therefore, I and the Werewolf will be available to the police, to face these monsters for you."
 
 			In an extravagant country home, an old man stood at his balcony, looking out at stretches upon stretches of land.
 			The study room behind him had a coat of arms hanging on the walls - the coat of the House of de Vere - the Earls of Oxford.
@@ -28815,7 +28805,7 @@ VOLUME - Gods Among Men
 		______________________________
 		SCENE
 			It was early morning.
-			Naismith, Ivan, and the rest of TO-24 were observing a brutal crime scene - A man was hanging from a street light, strung up by his own entrails - his mouth had been carved into a smile, and his tongue hanged from a slash in his throat, still attached. Carved into his forehead was the word "PARASITE."
+			Naismith, Nina, and Ivan were observing a brutal crime scene - A man was hanging from a street light, strung up by his own entrails - his mouth had been carved into a smile, and his tongue hanged from a slash in his throat, still attached. Carved into his forehead was the word "PARASITE."
 			"Who was this man?" Ivan asked, stroking his beard.
 			"Callum Ritter." Naismith answered. "A higher-up in the Skinners. His body was reported an hour ago. We know he had run-ins with the Werewolf before."
 			Ivan shook his head. "Wasn't him. Not his style."
@@ -28823,25 +28813,25 @@ VOLUME - Gods Among Men
 			"But look at the way he's been strung up. No human could do that in such a short space of time. This was superhuman. But Super-Agents don't play with their kills like this." Ivan explained, tilting his head.
 			"And the writing - is that meant to be a message?" Nina asked.
 			"Da. The question is, to whom?"
-			As they spoke, a car pulled up. Ward came out. TO-24 stood to attention.
+			As they spoke, a car pulled up. Ward came out. The three stood to attention.
 			"As you were." she said wearily, before approaching. "So, team - thoughts?"
 			"Ma'am." Naismith began. "Victim is Callum Ritter - a high-ranking Skinner goon."
-			"Suspects?" Ward asked.
+			"Suspects?"
 			"I've been asking Mr. Sokolov about that - the one with most motive would be the Hoods, but this doesn't seem either theirs nor the Werewolf's style." Naismith replied.
 			Ward turned to face Ivan. "I see. Mr. Sokolov, your thoughts?"
 			"Ma'am." he began. "I think this was the Optimates."
-			"And why is that?" Ward asked, confused.
+			"And why is that?"
 			"The precision, the message - it's calculated chaos. Classic. They don't just want death; they want division. I think they're trying to reignite war between the Skinners and the Hoods, by framing the Werewolf. By doing so, the Werewolf would be forced to defend his friends there, giving Paladin some breathing room."
 			"Allowing them to recover from their losses..." Ward realised. "Very well. I'll talk to Vice - from now on, we're going to have to turn a blind eye to Redbridge. I hate to admit it, but they're better than the Skinners - and we don't have the manpower to police the whole city anymore. As for whoever was the killer was, Mr. Sokolov, I would like you to bring in the Werewolf to help us locate him."
 			"As you wish, Ma'am." Ivan nodded.
-			"Um, ma'am - could I have a quick word in private?" Moffat asked.
+			"Um, ma'am - could I have a quick word in private?" Nina asked.
 			Ward nodded, and the two headed out of earshot of the others.
-			"What is the matter, Constable?" Ward asked.
-			"Beg your pardon, ma'am..." Moffat began, "But... I'm worried. We're working with the *KGB,* and allowing them to set the terms of our investigation. Worse, you saw his eyes - he's one of them, a Super-Agent. How can we trust him?"
-			"I understand your concern, DC Moffat..." Ward sighed, "And I likewise have my concerns. However, the directive to have Mr. Sokolov work with our team came down from not just the Home Office - MI5 asked for this. If MI5 are telling you to let the KGB take the reins, you have to assume there's a very, *very* good reason."
-			Moffat smiled softly. "I... thank you, ma'am. I just needed to know we weren't being played."
+			"What is the matter, Nina?"
+			"Beg your pardon, ma'am..." she began, "But... I'm worried. We're working with the *KGB,* and allowing them to set the terms of our investigation. How can we trust him?"
+			"I understand your concern..." Ward sighed, "And I likewise have my reservations. However, the directive to have Mr. Sokolov work with our team came down from not just the Home Office - MI5 asked for this. If MI5 are telling you to let the KGB take the reins, you have to assume there's a very, *very* good reason."
+			Nina smiled softly. "I... thank you, ma'am. I just needed to know we weren't being played."
 			"We're definitely being played. Just not by the KGB." Ward nodded. "Let's get these bastards."
-			Moffat saluted. "Ma'am!" she said, and returned to the group.
+			Nina saluted. "Ma'am!" she said, and returned to the group.
 			Ivan took out his burner phone, and called Connor.
 
 			"So... Gwen, meet Chloe. Chloe, Gwen."
@@ -28885,14 +28875,13 @@ VOLUME - Gods Among Men
 			"Mail-in ballot." Connor quipped.
 			She couldn't help but crack a smirk. "You also sprung me from an unlawful imprisonment. If you ever run for mayor, you've got *my* vote. Now, Mr. Sokolov here was talking to his friends, to see if any of them know of any active Paladin operatives. Mr. Sokolov?"
 			"Da, thank you, Ma'am." Ivan began. "We've heard rumours of particularly unhinged specimens - ones who were twisted by the serum into psychotic monsters. That could have done this, in my view."
-			Connor opened his mouth to speak, but before he could, PC Lloyd rushed over.
-			"Beg pardon, Ma'am - we've just had a call from uniforms in Drury Road, Oscar Place, and Norling Avenue - similar string-ups. All the same MO - and looks like all were done last night. This is a spree killer." he explained.
+			Connor opened his mouth to speak, but before he could, Nina rushed over.
+			"We've just had a call from uniforms in Drury Road, Oscar Place, and Norling Avenue - similar string-ups. All the same MO - and looks like all were done last night. This is a spree killer." she explained.
 			"The vics?" Naismith asked.
-			"Disciples, based on preliminary findings." Lloyd nodded.
+			"Disciples, based on preliminary findings."
 			"He's mocking me." Connor growled. "Or framing me. Those are all in Belson - odds are he'll strike again tonight. And each one was on high-traffic spots. Once it gets dark, I'll patrol Belson on the lookout. Whoever this freak is, he dies tonight."
-			Lloyd shuddered in awe, as he heard the Werewolf speak. Ward turned to face Connor.
-			"First duty is and always will be preservation of life. Remember that, 'Werewolf.'" she said.
-			"I'm preserving lives, don't worry. Four died last night - only one will die tonight." he replied.
+			"First duty is and always will be preservation of life. Remember that, 'Werewolf.'" Ward said firmly.
+			"I'm preserving lives, don't worry. Four died last night - only one will die tonight."
 			He walked away, and pressed is fingers to his ears.
 			"All units, this is Vanguard. Did anyone see any mutilations in Belson last night?"
 			"We'd've reported it if we did." Gwen noted.
@@ -29121,12 +29110,11 @@ VOLUME - Gods Among Men
 			"And you have a better idea? Look, you're here on official state business, *da?*" Naismith snarked, trying and failing to pronounce it.
 			"Da." Ivan nodded, making a point of saying it properly.
 			"Then the Official Secrets Act applies. Come on, let's get him somewhere they at least have some equipment we can try and use."
-			With that, the rest of TO-24 arrived.
-			"Holy shit..." Moffat said.
-			"No..." Nina added, her face pale.
-			"He's not dead." Naismith replied. "Come on, we have to get him to the hospital."
+			With that, Nina - the token human - arrived.
+			"Holy shit..." she panted. "No..."
+			"He's not dead." Naismith cut in. "Come on, we have to get him to the hospital."
 			Ivan rose. "I'm going to get a friend - someone who knows this man's biology better than anyone on Earth. Get him safe. There's a surgeon who he has history with - Judith Rosenbaum. Have her handle the admin. If he doesn't make it out alive, we're all *fucked,* understood?"
-			"Come on, team. Mr. Sokolov, we'll meet you there." Naismith nodded.
+			"Come on, Nina. Mr. Sokolov, we'll meet you there." Naismith nodded.
 
 			Back at the safehouse, Chloe was making a meal in the staff kitchen - a cheesy pasta bake. She made a point of dropping some grated cheese on the floor every time she put some in the dish.
 			"I keep this up, there won't be much cheese for us!" she laughed.
@@ -29139,11 +29127,10 @@ VOLUME - Gods Among Men
 			"I wanted to talk with you for ages." Sparky beamed. "You're part of my pack."
 			She chuckled, stroking his ears.
 
-			TO-24 arrived in A&E. They headed to the reception.
-			"DCI Naismith, TO-24. Get me Judith Rosenbaum." Naismith ordered.
-			Judi arrived. "Henry, it's been a... oh my goodness, is that..." she gasped upon seeing the Werewolf's body.
+			"DCI Naismith, TO-24. Get me Judith Rosenbaum." Naismith ordered, arriving at the reception. Behind him was Nina, pushing Connor's lifeless body on a gurney.
+			Judi arrived. "Henry, it's been a... oh my goodness, is that..."
 			"Yes it is. And he's still alive, Judi. He needs help."
-			"I... right, this way." she beckoned, as they brought his gurney away.
+			"I... right, this way." she beckoned, as they brought him away.
 
 			Sparky greedily devoured his second--no, third--actually, fourth--bowl of pasta. Chloe chuckled as she watched from her workbench.
 			"Nice, eh buddy? Not bad for someone who never cooks." she smirked.
@@ -29210,17 +29197,17 @@ VOLUME - Gods Among Men
 			Judi swallowed, and took a deep breath. "Well, let's return the favour." she nodded.
 			Naismith nodded back, and left the room, returning to his squad.
 			"Sir." Nina whispered, still in shock.
-			"Nina... you can all go home now. There's nothing we can do." Naismith said sadly.
-			"Are you sure, sir?"
-			"I'm sure. The medics are doing all they can. I'll stay here in case there's any changes - I'll call Ward with an update. Phone me if anything changes."
-			With that, the team nodded, and took their leave.
+			"Nina... you can go home now. There's nothing we can do." Naismith said sadly.
+			"No way, sir." she said firmly. "I'm not learning anything in a phone call. I... I need to see this through."
+			He smiled softly. "Alright, PS Chowdhury. Let's lock this hospital down. Get CT on the phone, covering the weak spots. If this freak comes here... we can at least slow him down."
+			"Sir." she nodded, her brows creased with determination.
 
 			"[Okay, remember, you're not here as Connor's girlfriend. You're here as a scientist who works with the Werewolf. Naismith will be there, but don't worry, he's even more connected to us than you are. We just need to make sure no one knows it's Connor under that mask.]" Ivan explained.
 			"Got it." Chloe replied in English.
 			With that, they arrived. Naismith stood.
 			"Chloe? What are you doing here?"
 			"I, um... I didn't tell you this before, detective, but I've been working for the Werewolf for a little while now. I've told no-one, but Mr. Sokolov here wanted my help trying to patch him up." Chloe said, as confidently as she could muster.
-			"Well, great... it's good to have some specialist expertise. Ms. Rosenbaum just left, she's been adding EEG machines to his room. Go take a look - we'll wait out here. Let us know whatever kind of equipment you think you'll need." Naismith replied, glad to see her.
+			"Well, great... it's good to have some specialist expertise. Judi just left, she's been adding EEG machines to his room. Go take a look - we'll wait out here. Let us know whatever kind of equipment you think you'll need."
 			"Thanks..." Chloe said, mentally preparing herself to see Connor's state.
 			Nothing could have prepared her.
 
@@ -29636,7 +29623,7 @@ VOLUME - Gods Among Men
 			Connor touched his chest, feeling his hearts beat. "8 hours, then. 8 hours to regrow a heart."
 			Chloe, now fully awake, touched his chest, likewise feeling the beat.
 			"Where's everyone else?" he asked.
-			"Amy's gone back to her place." she nodded. "Her suit needs some repairs, so she's benched for now. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen and Blindspot have gone back on her glider, to keep an eye on the city for tonight."
+			"Amy's gone back out." she nodded. "Her suit needed some repairs, so Shannon's downstairs fixing it up while she sticks to scouting. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen and Bubo have gone back on her glider, to keep an eye on the city for tonight."
 			Connor smiled. "They're a good team."
 			"You... you are so, so strong." she began, teary eyed.
 			"I don't know what I'd do if you weren't here to patch me up." Connor replied. "Physically and... you know, everything else."
@@ -31154,20 +31141,6 @@ VOLUME - Gods Among Men
 			08:57 AM, GMT.
 			Snowy skies over Drackhill. Not a drop of rain.
 
-			The Central Police Station was a chaotic heap these days, what with half the force being arrested or dead.
-			Still, it was back to the grindstone for TO-24.
-			"Thanks again, everyone, for coming in on short notice. I figured this shouldn't wait." FI Rogerson began.
-			"What's up, Lucas?" Naismith asked, tilting his head slightly.
-			"Well, sir... as you all may remember, Vitalis's scientists managed to isolate 46 human chromosomes from the Werewolf's DNA."
-			Naismith took a deep breath. "Not this..." he thought.
-			"Well, once we had those sent over, I put in a request for the genetics lab to check the chromosomes for any link on the police database." Rogerson continued. "They've just contacted me, informing me that, while the chromosomes themselves aren't on any national database, someone linked to them is."
-			He clicked the projector, and the slide changed. Vince's mugshot appeared.
-			"Vincent Barrett." he began.
-			"Barrett..." Nina gasped silently.
-			"Founder of the Hoods, currently in HMP Northgate. The match is partial but close enough to suggest a second-degree relationship - grandparents, or parent's siblings. Mitochondrial DNA is tricky, since the Werewolf's mitochondria aren't exactly what you'd call standard - but at least a few of them gave a positive match. They confirm Barrett is related to the Werewolf through a recent common female ancestor - based on the closeness of the match, we assume one's mother was the other's grandmother. Y-chromosomes are both completely distinct, and there's no runs of homozygosity - so we can firmly place the relation on the maternal side. One's an uncle, the other a nephew."
-			"He was there in jail." Naismith began, shocked. "Him and his nephew saved me from some loon. Wait..."
-			"We only found one living relative." Rogerson nodded grimly, clicking the projector - revealing a photo of Connor.
-
 			The alarm beeped softly, as Connor crawled out of bed.
 			"Ugh... already?" Sparky groaned.
 			"It's been 6 hours." Connor shrugged, chuckling. He pulled out his phone.
@@ -31185,25 +31158,39 @@ VOLUME - Gods Among Men
 			"Yeah, of course." she smiled warmly. "I love you."
 			"I love you too." he beamed, and cut off the call.
 
-			"Connor Barrett. Vincent's nephew. This photo here is from his arrest alongside Vincent. However, Vincent claimed to have strongarmed the boy into joining him, and so no charges were brought - and, crucially, no DNA samples were taken. Despite this, Connor has made a few visits to Northgate over the last few months. And, as the boss just said, he was in there during Dorsey's little purge."
-			"And the Werewolf is connected to Redbridge, isn't he?" Lloyd asked.
-			"Yeah, that's correct." Rogerson nodded. "From what we can gather, Connor was raised in Londonderry by his grandparents - his mother died when he was a baby, and his father is unknown. He moved back to Devon at age 7, when the Bogside War kicked off. There, he was raised in a children's home. At age 8, he discovered that one of his carers was molesting his sister, and killed him. He and his foster-sister were then re-homed by Vincent, who raised them both from then on."
-			"So, what - we think Vincent is in on the conspiracy?" Moffat tilted her head.
-			"No way. The Werewolf's out to destroy Paladin. Why would his uncle be with them?" Naismith shook his head.
-			"Sir, I..." Nina spoke up. "I know him."
-			"You do?"
-			"Yes." she nodded. "I was processing a DV case, and he was a friend of the vic, who rescued her. Looking back... he ripped the suspect's door off of its hinges. It adds up... what's more... you remember Chloe Derrington?"
-			"Of course, she's the only one at Vitalis who spoke to us. And she works with the Werewolf." he nodded. "Hang on..."
-			"Yeah, he's her boyfriend." Nina nodded. "She asked to be dropped off to see him right after the attack on Vitalis."
-			"Does she know?" Moffat asked.
-			"No idea." Nina shrugged.
-			"If she doesn't, we kind of have a moral duty to tell her." Moffat said, her brow furrowing.
-			"She should know. After that freak nearly killed him, she was there patching him up for three days." Naismith added. "It doesn't take a genius to put two-and-two together, and she *is* a genius."
-			He paused, stroking his chin. He felt a migraine coming on - for once, not from the super-serum, but from genuine stress.
-			"Who else knows about this, Lucas?" he asked.
-			"No-one, sir. I specifically made sure that the genetics team wouldn't see the names of anyone involved - only the DNA itself." Rogerson replied.
-			"Good. Okay... what we just heard does *not* leave this room." Naismith said firmly. "Like it or not, we're on his side now. We still call him 'the Werewolf', we still do as we did before. Under no circumstances do we change any of our behaviours. Got it?"
-			"Sir!" everyone replied, nodding.
+			The Central Police Station was a chaotic heap these days, what with half the force being arrested or dead.
+			Still, it was back to the grindstone for TO-24.
+			Naismith was already in the briefing room when Nina arrived, staring at a file on the table. He looked like he hadn't slept - then again, black veins and eyebags look rather similar.
+			"Sir?" she asked, closing the door behind her. "You said it was urgent."
+			"It is."
+			She sat, and he pushed the file across to her.
+			"Before the siege, Vitalis sent over the Werewolf's human chromosomes. Our genetics lab ran them against our database."
+			Nina opened the file, and a mugshot stared back at her.
+			"Vincent Barrett." Naismith's voice was flat. "Founder of the Hoods. Currently in HMP Northgate. The match is partial but close enough to suggest a second-degree relationship - grandparents, or a parent's sibling. Mitochondrial DNA confirms a recent common female ancestor. Y-chromosomes are distinct, no runs of homozygosity. The relation is on the maternal side. One's an uncle, the other a nephew."
+			Nina stared at the photo. "Barrett... as in, Connor Barrett's uncle?"
+			"The very same." he gulped. "The kid played us like a fiddle - first, when Dobel went after him, then when he pretended to snitch on himself, then when we were in jail together... it was right in front of me and I never saw it."
+			"What's Connor's history, besides what he has with us?"
+			He pulled out a second photo and placed it on the table.
+			It was Connor, but a little younger. Scared. Sad, maybe. The arrest photo from years ago.
+			"When Vince was arrested, Connor was there too. But no charges were brought - Vince claimed he strongarmed the boy into joining him. No DNA samples were taken - we never thought to take any when we nabbed him, either, only fingerprints."
+			Nina looked up. "The Werewolf is connected to the Hoods - of course. All this time, we thought they were separate - they're one and the same."
+			"Yeah." Naismith nodded. "Connor was raised in Derry by his grandparents. Mother died when he was a baby, father unknown. Moved back to Drackhill at age 7, when the Bogside War kicked off - Ashcliffe Children's Home. At age 8, he discovered one of his carers was molesting his foster-sister, and killed him. He and the girl were re-homed by Vincent after that."
+			"...I didn't mention the DV case, did I?"
+			"DV?! No, surely not. That'd be like if Pol Pot had a book club."
+			"Not him. I processed a DV case - he was a friend of the victim. He rescued her. Looking back..." she swallowed, "he ripped the suspect's door off its hinges. I didn't think anything of it at the time. I just thought he was strong and pissed off."
+			She paused. "Chloe Derrington."
+			"What about her?
+			"He's her boyfriend. She asked to be dropped off to see him right after the attack on Vitalis."
+			Naismith was silent for a long moment. "Does she know?"
+			"No idea."
+			"She should." he rubbed his temples. "After that freak nearly killed him, she was there patching him up for three days. It doesn't take a genius to put two-and-two together, and she *is* a genius."
+			He paused, stroking his chin. The migraine was building behind his eyes - not from the serum this time, but from genuine stress.
+			"Who else knows about this?" Nina asked.
+			"No-one. The genetics team never saw the names - only the DNA itself. The report is classified at the top level - only you, me, and the King have authority to read it."
+			"Good." Nina took a deep breath. "Okay. Let's agree... let's agree that what we just learned doesn't leave this room."
+			"Definitely. Like it or not, we're on his side now. We still call him 'the Werewolf.' We still do as we did before."
+			He stood, gathering the photos. "We've got a job to do. And right now, that job is making sure the people of this city are safe - whether that's from Paladin, or from whatever else is out there. The Werewolf's identity is... irrelevant to that."
+			"Sir." she nodded firmly. She gathered the files as they both rose, and headed out.
 
 		TO-24 Find Connor
 		______________________________
@@ -31592,7 +31579,7 @@ VOLUME - Gods Among Men
 			"DIE!" Sparky roared ferociously, sinking his claws into Junior's face. "DIE! DIE! *DIE!*"
 			Junior howled, and beat its fists into Sparky's side.
 			The young wolf didn't care. No pain or injury would slow him down. He embraced his Rage.
-			By this point, the police had finally arrived. TO-24 came armed to the teeth, and began unloading their rifles into Junior. The bullets didn't even break past the first layer of flesh.
+			By this point, the police had finally arrived. Naismith and Nina came armed to the teeth, and began unloading their rifles into Junior. The bullets didn't even break past the first layer of flesh.
 			Sparky clamped his jaws around Junior's arm, tore out a chunk, and repeated. Black blood and bile dripped from the brawl.
 			Gwen forced herself to her knees, and stretched her fingers out.
 			Junior's chest heaved as the air in its lungs was pulled out. A vortex of wind formed around its face, stealing precious oxygen away. Meanwhile Bubo swiped down, and his talons cut into the monster's hide.
@@ -32700,13 +32687,13 @@ VOLUME - Age of Heroes
 			The last of the Disciples had been cuffed and taken away, and Naismith turned to the three Werewolves.
 			"Well, well - new hire?" he chuckled.
 			"Hi." Trey waved awkwardly.
-			"Oh yeah - this is DCI Naismith. Don't worry about the veins, he's on our side." Connor smiled. "Nightstick, this is... um... we haven't got a codename for him yet."
+			"Oh yeah - this is DCI Naismith - codename Nightstick. Don't worry about the veins, he's on our side." Connor smiled. "Nightstick, this is... um... we haven't got a codename for him yet."
 			"Werewolf II." Trey shrugged.
 			"Actually, tradition states you have to go by Grom until you get your own codename." Connor grinned. "I had to, as well."
 			"Nice one." Naismith chuckled. He waited until the other officers had left, before leaning in conspiratorially.
 			"Um... we know who you are. Connor."
 			Connor rubbed his temples. "Gonna arrest me?"
-			"Of course not. But the DNA tests came back, and you're a partial match for your uncle. Not to mention, right after Belson, he gets released? I *am* a detective, you know. Just thought I'd let you know - no one outside of TO-24 knows, not even the mayor."
+			"Of course not. But the DNA tests came back, and you're a partial match for your uncle. Not to mention, right after Belson, he gets released? I *am* a detective, you know. Just thought I'd let you know - no one except me and Nina know, not even the mayor."
 			Connor chuckled.
 			"Wait..." Trey gasped. "You're the cop from the prison, right?"
 			"Um... yeah?" Naismith tilted his head.

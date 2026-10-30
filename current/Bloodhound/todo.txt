@@ -13,52 +13,11 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
-current wip scene
-	all left for vol 2 is between Star-Crossed and Gunshots - we're on the home stretch now!
-		Gotta write Amy and Connor visiting Vince; they mention the below bit
-		Remove Yaz at the end of Star-Crossed, putting Mikhaela earlier in her plac
-		Add both Medicine Run and Zack's interviews to Warzones
-			for the interviews, think about Sparky's codename - maybe just have him be 'the Werewolf' rather than Spartacus to prevent a leak (since chlo and bea know his full name is spartacus) - connor keeps Vanguard
-			Of course, Sparky's word are inaudible over broadcast, so instead, he might be there in connor's interview, and connor explains that he's the telepathic wolf; they're both the Werewolf, collectively (not giving his name as vanguard)
-		Have Bea mention the forums during the post sparring date; then add a little more where, crashing back at Riverside, Shannon reveals that people are shipping Vanguard and Verdict (toxic yaoi) - write the cringey excerpt in all its glory
-		after that, should mostly be done
-
-
-
-volume 2 big changes:
-	have shannon involved more in group outings from post-charlie onwards
-
-	add a few scenes where the gang learn about their public presence
-		first, a news report from Zack doing a profile on the various superheroes
-			have Bea express admiration for Stunlocke in particular
-			this happens between open day and Splash
-		later, have Bea reveal she's on a forum that goes on about the superheroes
-			funny gag where she reveals theres a shipping war; she says there's a big argument on the forum between "Team Stunlocke" and "Team Whiplash". Connor asks if there's a "Team Werewolf" and Bea grins "Everyone's Team Werewolf." she then reveals that people are shipping the Werewolf with either Whiplash or Stunlocke; Connor and Amy are grossed out
-			later shannon sends him yaoi of him and Ivan, to his horror and ivan's delight
-			this happens in the post-sparring practice date, before vitalis siege
-
-	medicine run
-		shannon reports there's been a string of thefts of critical medicine lately; asks amy and olivia to investigate
-		they follow a lead to a gang of thugs; amy knocks out a bunch and subdues their leader, demanding he talk. he snarks "you ain't the werewolf! i'm not telling you nuffin!" then amy zaps him and says "i can keep doing that until your heart gives out. then, i'll resucitate you, and do it again. start. talking." he immediately spills
-		they find the location of the latest shipment of drugs; amy goes to attack, but shannon chimes in and says their best bet is following it covertly to wherever they're keeping the other drugs; amy reluctantly hides while olivia follows it on her glider. when it arrives at a depot, the girls raid it while shannon puts a call out to naismith
-
-		have olivia use a new tool for non-lethal combat - the Swingshot, a smooth-balled flail that clips to her bracers
-
-		have this come up post-judge, where dr rosenbaum notes that the vigilantes saved countless lives by retrieving those meds, and so the hospital will provide any equipment chloe needs
 
 
 
 
 
-
-
-
-
-change the prison break sequence
-
-
-	later on, have Connor and Amy drop by the prison to catch up. They explain that Amy's working as Stunlocke more long-term now, while Vince says that during the chaos, Pig Head ate Chapman.
-		this happens in Star-Crossed
 
 
 
@@ -95,7 +54,6 @@ another moment, maybe with above maybe not; when talking about their respective 
 
 
 
-at some point, have zack contact the gang and they do interviews
 
 
 something that was revealed to me in a dream; that may be useful
@@ -217,7 +175,7 @@ Notes for the sewer mutants plot:
 	They agree to hand over the workmen's remains, and never attack humans again, in exchange for regular food deliveries and being placed under Connor's protection
 	This arc is where the Judge decides to change their name to the Heretic.
 	If wanted, this can also be how Adept starts
-	At one point, connor asks how the device works; olivia explains ODIN use devices like this to continuously produce psychic effects, in this case Biomanipulation. Connor asks if they'll get mutated, and she explains no; Espers are naturally resistant to the effect, and can only be mutated by it if they want to be. That's why the cult leadership is Espers; they're the most stable of the muties. It's also why the batfishes are alive; their psychic link is the result of selection pressure
+	At one point, connor asks how the device works; gwen explains ODIN use devices like this to continuously produce psychic effects, in this case Biomanipulation. Connor asks if they'll get mutated, and she explains no; Espers are naturally resistant to the effect, and can only be mutated by it if they want to be. That's why the cult leadership is Espers; they're the most stable of the muties. It's also why the batfishes are alive; their psychic link is the result of selection pressure
 	Chloe studies the device once it's deactivated; it's only when it explosively reactivates that she becomes Adept
 
 	ODIN placed the device in the Underhill long before the events of the story; the purpose was to subconsciously direct the sewer mutants into an uprising against the city-dwellers, which would then be crushed by Paladin/Gambit Agents - a false flag attack to allow them to seize power amidst the confusion. Junior's attack, Riverside's heroism, were all unforseen. Also, they didn't expect a hero like Connor to resolve the situation largely peacefully by exploiting internal factionalism
@@ -248,16 +206,12 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 	Nightstick - a wannabe vigilante looking after Brynmore, weilding batons
 		Ooo actually!! Have Nightstick be Naimith's vigilante identity
 		alternatively, have the TO24 spinoff be called "Nightsticks" - the term applies to the squad as a whole
-			maybe delete Moffat; potentially merge her with Lloyd to keep the gender balance
-				so the team would be:
-					leader: DCI Naismith
-					second in command: PS Nina
-					sniper/second detective: DC Moffat
-					scientist: FI Rogerson
+			deleted most of to24, they're now just the duo
 			the Nightsticks become a second team, who focus on Drackhill exclusively, use non-lethal methods (moffat snipes with a tranq gun, and they use rubber bullets and eponymous shock batons along with tear gas and flashbangs); they also work closely with Stunlocke II
 				they create a new VPU on Mercy Isle that houses any captive mutants
 					note that all Super-Agents have failsafes implanted that kill them if they are captured
 			When Connor is MIA-PD, the Nightsticks try to keep a hold of Drackhill while Riverside scramble to keep the world safe; they use a downscaled short-range Kestrel to rapid respond within the valley area
+			the team is still to24 now - instead, Nightstick is Naismith, while Nina becomes Slamshot II
 	The Changeling - a nondescript, androgynous humanoid who can change appearance at will, impersonating others almost flawlessly. They must be in contact range for this, as they need to use their psionics (which are tactile in nature) to get a copy of the target's personality (this also lets them replicate things like fingerprints etc)
 	Stinger - a mutant assassin who can fire venomed quills from their body potent enough to even take other superhumans down
 	Agent J - a mutant hitman with minor super-strength/toughness, as well as near-unparalleled martial arts prowess
@@ -277,6 +231,10 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 		Fr Declan reports that some of his parishoners have sent their kids to a conversion therapy camp, and so trey and shannon go undercover as "patients" seeking conversion in order to gather evidence and help rescue the others
 
 
+maybe at some point pre-big ID reveal, have connor and friends go to the leisure centre gym. plenty of sweet moments here; like a swimming game, or chloe feeling self-conscious and connor reassuring her; some steroid meathead  starts on trey, and connor steps in; the guy says if he thinks hes a big man then step in the ring; the others tell connor not to take the bait, but amy encourages him to teach this prick a lesson
+	while in the ring, connor effortlessly dodges and counters each strike, while even giving pointers in jest, like "never been hit properly before? you need to turn with the strike. the kinetic energy has to go somewhere - you wanna stop that somewhere from being you"  and "you've focused too much on bulk. you're agile for your size, but you need to incorporate some stretches into your routines if you wanna fight for real" and, after countering by a strike to the armpit "pressure points. never do a haymaker if you're not 100% sure they can't counter; you're leaving yourself far too open" and after a throw "control yourself. you're top-heavy - if i wanna tip you over, i just need a little leverage, and bull-rushing me is a surefire way to let me have it"
+	finally, he takes the guy down again, and dislocates his arm. the guy screams "aghh! you broke my arm!" and connor says "No, i *dislocated it. here." *crunch* "Agghhhh!" "right, now, avoid any strenous activity for a couple days. So, no wanking, alright?"
+	chloe later says that was reckless, and she feels like she shouldn't enjoy watching him fight like that; but she couldn't help it. he chuckles, and flirts a bit
 
 
 
@@ -1114,18 +1072,10 @@ Whisper's Arc
 
 add a bit more humour; jokes include:
 	"no blacks, no dogs, no irish" "are you fucking kidding me (x3)"
-	"you guys hungry?" "i could murder a chinese" amy: "wh--what??"
 	"silly putty implies serious putty" "we had that in derry, i think it was called semtex"
 	maned wolf: not a wolf etc
 	"wagwan, dickheads." "manners." "sorry. wagwan dickheads, please"
 	chloe and connor struggle with jar - comical scene
-	setting up Trey's tinder:
-		"He in the streets/Him in the sheets"
-		"Pronouns like a coughing butler: He/him"
-			after this, connor notes that it's nice the dating apps ask for pronouns; trey replies it's a queer dating app, and "not everyone is looking for clothed hugging with a good Catholic lass"
-			connor quips "you should. catholics are filthy"
-			amy chimes in "yeah. my ex went to a catholic boarding school. taught me some crazy shit"
-			connor goes on "we're all a little freaky. it's because we're both deeply repressed and yet we can get forgiven for all kinds of shite"
 	sparky playing poker - he always loses because he wags his tail when he gets a good hand
 		maybe have this gag come in before the gang play a game together?
 	chloe and bea show up wearing the same outfit, and are bemused. they then wonder if boys have the same reaction, before an imagine spot of trey and connor showing up in the same outfit, before pointing and going "oi oiiiiiiiiii!"
@@ -1336,12 +1286,7 @@ All volumes:
 
 
 
-at some point pre-big ID reveal, have connor and friends go to the leisure centre gym. plenty of sweet moments here; like a swimming game, or chloe feeling self-conscious and connor reassuring her; some steroid meathead  starts on trey, and connor steps in; the guy says if he thinks hes a big man then step in the ring; the others tell connor not to take the bait, but amy encourages him to teach this prick a lesson
-	while in the ring, connor effortlessly dodges and counters each strike, while even giving pointers in jest, like "never been hit properly before? you need to turn with the strike. the kinetic energy has to go somewhere - you wanna stop that somewhere from being you"  and "you've focused too much on bulk. you're agile for your size, but you need to incorporate some stretches into your routines if you wanna fight for real" and, after countering by a strike to the armpit "pressure points. never do a haymaker if you're not 100% sure they can't counter; you're leaving yourself far too open" and after a throw "control yourself. you're top-heavy - if i wanna tip you over, i just need a little leverage, and bull-rushing me is a surefire way to let me have it"
-	finally, he takes the guy down again, and dislocates his arm. the guy screams "aghh! you broke my arm!" and connor says "No, i *dislocated it. here." *crunch* "Agghhhh!" "right, now, avoid any strenous activity for a couple days. So, no wanking, alright?"
-	chloe later says that was reckless, and she feels like she shouldn't enjoy watching him fight like that; but she couldn't help it. he chuckles, and flirts a bit
 
-	once Yaz is removed, there'll be loads of room in Warzones for this
 
 
 

@@ -3,7 +3,7 @@ from pathlib import Path
 import re
 import shutil
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "bloodhound-WIP.txt"
 OUTPUT = ROOT / "episodes"
 

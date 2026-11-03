@@ -1,0 +1,41 @@
+
+name: Split Bloodhound Story
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'current/Bloodhound/bloodhound-WIP.txt'
+      - 'current/Bloodhound/scripts/split_story.py'
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Split story into episodes
+        run: python current/Bloodhound/scripts/split_story.py
+
+      - name: Commit generated episodes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add current/Bloodhound/episodes/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Automatically split Bloodhound episodes"
+            git push
+          fi

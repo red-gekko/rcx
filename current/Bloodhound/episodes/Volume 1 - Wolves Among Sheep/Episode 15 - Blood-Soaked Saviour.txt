@@ -502,10 +502,10 @@ SCENE - Ivan reveals the Optimates
 	Connor laughed. "Anyway... she's trustworthy. She wouldn't tell anyone. Hell, she spent half our conversation browbeating me into keeping schtum."
 	Ivan smiled. "Good. And... it's good to have someone who knows. Don't tell the world, but having a family member to talk to about this... that'll help keep you sane."
 
-	Connor nodded. "By the way, I sent you over some files from the other night. Did you find the man you were looking for?"
-	"Nyet... we did find something though. A name. Optimates."
+	Connor nodded. "You mentioned you'd had a message through, too? Some new lead?"
+	"Da... A name. Optimates."
 	"What's that?"
-	"The name originates from an ancient Roman political faction - one dedicated to protecting the rich and powerful. It seems this modern-day iteration has the same goals... we thought the whole thing was a hoax, until recently - but files we got from the Algerian DRS confirmed what we already suspected."
+	"The word originates from an ancient Roman political faction - one dedicated to protecting the rich and powerful. It seems this modern-day iteration has the same goals... we thought the whole thing was a hoax, until recently - but files we got from the Algerian DRS confirmed what we already suspected."
 	"You're talking about... what, the Illuminati?" Connor tilted his head.
 	"Nyet." Ivan shook his head. "This isn't some bullshit conspiracy theory - it's a real, genuine cabal. As far as we can tell, they've been active since the Victorian era - and they were financial backers of the Axis powers during the Second World War."
 	"Holy shit..." Connor whispered. "They're fascists?"

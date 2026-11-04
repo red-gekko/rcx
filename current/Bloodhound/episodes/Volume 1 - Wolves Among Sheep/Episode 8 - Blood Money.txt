@@ -123,13 +123,17 @@ SCENE - Hattab briefing
 	"What, he couldn't be arsed to run for office again?" Connor quipped. "Anyway - is there anything I need to know about the region as a whole? I heard mention of war with Tunisia."
 	The man sighed, and checked his notes again. "How much do you know about North African politics?"
 	"Just give me the basics." Connor chuckled.
-	"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Arab Socialist Ba'ath Party - and the Islamic Republic of Egypt - led by the Muslim Brotherhood. As you can guess from the names, the Ba'athists support secular pan-Arabism, while the Brotherhood supports Islamism. The Ba'athists themselves are divided into the 'Arabian' faction that is opposed to North African expansion and ethnic chauvinism, while the 'Arabist' faction is... not that. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist militants backed by the UAF, and a small democratic movement caught in between."
+	"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Arab Socialist Ba'ath Party - and the Islamic Republic of Egypt - led by the Muslim Brotherhood. As you can guess from the names, the Ba'athists support secular pan-Arabism, while the Brotherhood supports Islamism. The Ba'athists themselves are divided into the 'Arabian' faction that is opposed to North African expansion and ethnic chauvinism, while the 'Arabist' faction is... not that. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist, Gaddafist militants backed by the UAF, and a small democratic movement caught in between."
 	He pulled out a map of the region, to better illustrate his lecture.
 	"Tunisia is a democratic, multi-party republic - one of the few in the region. They mainly side with the UAF on regional politics, though - since both are secular modernists. When the Algerian Civil War ended, most of the rebels either went out to Libya to fight there, or sought refuge in Tunisia. From what we know, the military establishment in Algeria, especially Hattab's clique, don't want to get stuck in a quagmire of intervention in Libya - but they *do* want to 'settle the score' with the remnants in Tunisia."
-	"Right... so who's backing Hattab, and who's backing us?" Connor asked, somewhat bored.
-	"Hattab is primarily backed by South Africa - primarily because the SPA supports pan-Africanism, which is a massive threat to Apartheid." the man replied. "The UAF and Turkey are split - Hattab's anti-Islamism would ordinarily appeal to them, so the Kemalists in Turkey are providing token intelligence to him; but the UAF and South Africa are rivals, and the Arabian faction support Pan-Africanism too. Not to mention, the UAF is allied with Tunisia."
+	"Right... so who's backing Hattab, and who's backing us?"
+	"Hattab is backed by South Africa - primarily because the SPA supports pan-Africanism, which is a massive threat to Apartheid." the man replied. "The UAF and Turkey are split - Hattab's anti-Islamism would ordinarily appeal to them, so the Kemalists in Turkey are providing token intelligence to him; but the UAF and South Africa are rivals, and the Arabian faction support Pan-Africanism too. Not to mention, the UAF is allied with Tunisia."
 	"Complicated." Connor chuckled.
-	"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
+	"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "We have reasonable suspicion that Iran is supporting Hattab, too."
+	"I thought Iran was halfway to collapse?" Connor tilted his head.
+	"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.'"
+	"...any other national histories I need to learn?" Connor snarked. "How long's this damn flight?"
+	The man chuckled. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
 	"Why do the French back an anti-colonial party?"
 	"Because a civil war just across the Mediterranean from them would be bad for business." he shrugged.
 	"I thought this contract came from a construction company."
@@ -502,14 +506,6 @@ SCENE - Charlie begins
 
 SCENE - Algeria Aftermath
 
-	Back in Algiers, Ivan and a few other KGB operatives stood in the office of President el-Bennani.
-	"Once more, my eternal thanks." the President said, smiling.
-	"All in a day's work, Mr. President." Ivan nodded deferentially.
-	"Now... I understand, working with the KGB comes with strings attached, no?" he tilted his head.
-	"Give me everything you have on Hattab. Everything on the Paladin mercs he was working with. And..." Ivan hesitated. "Any files containing a specific word."
-	"What word?"
-	"Optimates." Ivan said, his brow furrowing.
-
 	It was the dead of night, now. Connor and Sparky re-entered their flat, and crept in softly.
 	"Where the *FUCK* have you been all day?" Amy snapped. Connor jumped.
 	"Hey, sis... sorry, I, uh... lost track of time with this one." he quickly lied.
@@ -545,7 +541,7 @@ SCENE - Algeria Aftermath
 	"I'll see you both in the morning."
 	"Yeah." he smiled softly, before heading to his room. He let out a deep breath, and ran his hands through his hair.
 
-	The Swiss Alps always looked beautiful. But at sunset, they were simply gorgeous.
+	The Swiss Alps always looked beautiful. But at sunset, they were simply divine.
 	Dr. Eugene Neumann knew this, of course - that's why he chose a penthouse with a balcony. He let the cold air fill his lungs, as he closed his eyes and took it in.
 	He was a tall, middle-aged man, with lightly tanned skin and a shaved head. His black-veined eyes were subtle - far less prominent than the average Super-Agent. Indeed, he could easily pass as human.
 	His serenity was interrupted by a noise in his ear.
@@ -555,7 +551,7 @@ SCENE - Algeria Aftermath
 	"Doctor." Oxford began.
 	"Lord Oxford." he muttered. "To what do I owe the displeasure?"
 	"You fucked around with my coup in Algeria, that's what." Oxford snapped back. "What kind of game are you playing?"
-	"I suppose you expected me to just let you run roughshod over my mother's homeland, then?" Neumann snarked. "After your stunt in Geneva... I'm done humouring you."
+	"I suppose you expected me to just let you run roughshod over my mother's homeland, then?" Neumann snarked. "After your stunt in Geneva... I'm done humouring you. Besides, I have billions in construction contracts out there. Your idiot Hattab would've been deposed sooner or later."
 	"Geneva was a rogue element, I assure you." Oxford sighed.
 	"Oh? Then you've killed the Commandant and purged PaladinCorp?"
 	Oxford scoffed. "I don't have to justify myself to you. Your machinations have set my plans back by weeks, if not months. Do I need to remind you of your... obligations?"
@@ -576,3 +572,8 @@ SCENE - Algeria Aftermath
 	"Get the fuck out of my house." he growled.
 	Oxford scoffed, turned, and left.
 	Neumann sat back down, catching his breath.
+	"Maria?" he began over his earpiece. "[Double all security force deployments. And provide Section Zero - as well as the KGB - with everything they need.]"
+	"Oui, monsieur. Autre chose?"
+	"[...send a message to Sokolov. A single word.]"
+	"Monsieur?"
+	"Optimates."

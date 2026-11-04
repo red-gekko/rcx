@@ -259,7 +259,7 @@ SCENE - Smoking with Bevan
 	"That is a good question." Bevan chuckled. "No one's sure. Comes with the territory of being an agency that doesn't exist. However... our oldest documents, and our first known mission, was fighting against the Ahnenerbe."
 	"The Ahnenerbe? The weird witch-club in the SS?"
 	"You know your history." Bevan grinned.
-	"I looked into it. The Ahnenerbe were connected to the Optimates. I mean, *really* connected. I mean 'Wolfram Sievers escaped Nuremberg and was an angel investor in Vitalis' connected."
+	"I looked into it. The Ahnenerbe were connected to the Optimates. I mean, *really* connected. I mean 'Wolfram Sievers secretly escaped Nuremberg and was an angel investor in Vitalis' connected."
 	"Indeed. So, we've been at war with them for a long while. That's half the reason we're underfunded compared to sections Five and Six."
 	"The other half?"
 	"Well, according to public record, Espers, mutants, and cyborgs don't exist, and neither do we. Most of our funding comes from... covert sources."
@@ -269,7 +269,7 @@ SCENE - Smoking with Bevan
 	"Yes, and Mr. Morozov is my less handsome Russian doppelganger." Bevan grinned. "ODIN used to be our American counterpart, but... well, they swiftly turned their coats. Speaking of... on both ethical and practical grounds, we have been unable to field superhuman operatives - until now. The KGB has Mr. Sokolov; can I count on Riverside in the coming war?"
 	"Like you said, we've been at war for a long while. And Ivan's with us - not the KGB. We're not spooks."
 	"That's not a no."
-	"It's... I have to ask the others first. Either way, I wanna say something, because the FBI got a little confused about this. We're not your attack dogs. We're barely your bloodhounds. Collaboration to us means you give us intel to help us kill super-cunts we were already after. You give us an order we don't like, and we'll say so - loudly. You even think of using Serum, and there's hell to pay. Am I clear?"
+	"It's... I have to ask the others first. Either way, I wanna say something, because the Americans got a little confused about this. We're not your attack dogs. We're barely your bloodhounds. Collaboration to us means you give us intel to help us kill super-cunts we were already after. You give us an order we don't like, and we'll say so - loudly. You even think of using Serum, and there's hell to pay. Am I clear?"
 	Bevan nodded, and a grin of respect crawled up his face.
 	"Crystal."
 	Connor smiled, relieved. "Anyway... I'm gonna go check on Trey. See you later."

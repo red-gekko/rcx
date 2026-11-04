@@ -4724,13 +4724,17 @@ VOLUME - Wolves Among Sheep
 			"What, he couldn't be arsed to run for office again?" Connor quipped. "Anyway - is there anything I need to know about the region as a whole? I heard mention of war with Tunisia."
 			The man sighed, and checked his notes again. "How much do you know about North African politics?"
 			"Just give me the basics." Connor chuckled.
-			"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Arab Socialist Ba'ath Party - and the Islamic Republic of Egypt - led by the Muslim Brotherhood. As you can guess from the names, the Ba'athists support secular pan-Arabism, while the Brotherhood supports Islamism. The Ba'athists themselves are divided into the 'Arabian' faction that is opposed to North African expansion and ethnic chauvinism, while the 'Arabist' faction is... not that. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist militants backed by the UAF, and a small democratic movement caught in between."
+			"The two biggest rivals for power in the MENA are the United Arabian Federation - led by the Arab Socialist Ba'ath Party - and the Islamic Republic of Egypt - led by the Muslim Brotherhood. As you can guess from the names, the Ba'athists support secular pan-Arabism, while the Brotherhood supports Islamism. The Ba'athists themselves are divided into the 'Arabian' faction that is opposed to North African expansion and ethnic chauvinism, while the 'Arabist' faction is... not that. You may know from the news that Libya is embroiled in civil war - the main factions are Islamist insurgents backed by Egypt, nationalist, Gaddafist militants backed by the UAF, and a small democratic movement caught in between."
 			He pulled out a map of the region, to better illustrate his lecture.
 			"Tunisia is a democratic, multi-party republic - one of the few in the region. They mainly side with the UAF on regional politics, though - since both are secular modernists. When the Algerian Civil War ended, most of the rebels either went out to Libya to fight there, or sought refuge in Tunisia. From what we know, the military establishment in Algeria, especially Hattab's clique, don't want to get stuck in a quagmire of intervention in Libya - but they *do* want to 'settle the score' with the remnants in Tunisia."
-			"Right... so who's backing Hattab, and who's backing us?" Connor asked, somewhat bored.
-			"Hattab is primarily backed by South Africa - primarily because the SPA supports pan-Africanism, which is a massive threat to Apartheid." the man replied. "The UAF and Turkey are split - Hattab's anti-Islamism would ordinarily appeal to them, so the Kemalists in Turkey are providing token intelligence to him; but the UAF and South Africa are rivals, and the Arabian faction support Pan-Africanism too. Not to mention, the UAF is allied with Tunisia."
+			"Right... so who's backing Hattab, and who's backing us?"
+			"Hattab is backed by South Africa - primarily because the SPA supports pan-Africanism, which is a massive threat to Apartheid." the man replied. "The UAF and Turkey are split - Hattab's anti-Islamism would ordinarily appeal to them, so the Kemalists in Turkey are providing token intelligence to him; but the UAF and South Africa are rivals, and the Arabian faction support Pan-Africanism too. Not to mention, the UAF is allied with Tunisia."
 			"Complicated." Connor chuckled.
-			"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
+			"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "We have reasonable suspicion that Iran is supporting Hattab, too."
+			"I thought Iran was halfway to collapse?" Connor tilted his head.
+			"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.'"
+			"...any other national histories I need to learn?" Connor snarked. "How long's this damn flight?"
+			The man chuckled. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
 			"Why do the French back an anti-colonial party?"
 			"Because a civil war just across the Mediterranean from them would be bad for business." he shrugged.
 			"I thought this contract came from a construction company."
@@ -5108,14 +5112,6 @@ VOLUME - Wolves Among Sheep
 		Charlie begins
 		______________________________
 		SCENE
-			Back in Algiers, Ivan and a few other KGB operatives stood in the office of President el-Bennani.
-			"Once more, my eternal thanks." the President said, smiling.
-			"All in a day's work, Mr. President." Ivan nodded deferentially.
-			"Now... I understand, working with the KGB comes with strings attached, no?" he tilted his head.
-			"Give me everything you have on Hattab. Everything on the Paladin mercs he was working with. And..." Ivan hesitated. "Any files containing a specific word."
-			"What word?"
-			"Optimates." Ivan said, his brow furrowing.
-
 			It was the dead of night, now. Connor and Sparky re-entered their flat, and crept in softly.
 			"Where the *FUCK* have you been all day?" Amy snapped. Connor jumped.
 			"Hey, sis... sorry, I, uh... lost track of time with this one." he quickly lied.
@@ -5151,7 +5147,7 @@ VOLUME - Wolves Among Sheep
 			"I'll see you both in the morning."
 			"Yeah." he smiled softly, before heading to his room. He let out a deep breath, and ran his hands through his hair.
 
-			The Swiss Alps always looked beautiful. But at sunset, they were simply gorgeous.
+			The Swiss Alps always looked beautiful. But at sunset, they were simply divine.
 			Dr. Eugene Neumann knew this, of course - that's why he chose a penthouse with a balcony. He let the cold air fill his lungs, as he closed his eyes and took it in.
 			He was a tall, middle-aged man, with lightly tanned skin and a shaved head. His black-veined eyes were subtle - far less prominent than the average Super-Agent. Indeed, he could easily pass as human.
 			His serenity was interrupted by a noise in his ear.
@@ -5161,7 +5157,7 @@ VOLUME - Wolves Among Sheep
 			"Doctor." Oxford began.
 			"Lord Oxford." he muttered. "To what do I owe the displeasure?"
 			"You fucked around with my coup in Algeria, that's what." Oxford snapped back. "What kind of game are you playing?"
-			"I suppose you expected me to just let you run roughshod over my mother's homeland, then?" Neumann snarked. "After your stunt in Geneva... I'm done humouring you."
+			"I suppose you expected me to just let you run roughshod over my mother's homeland, then?" Neumann snarked. "After your stunt in Geneva... I'm done humouring you. Besides, I have billions in construction contracts out there. Your idiot Hattab would've been deposed sooner or later."
 			"Geneva was a rogue element, I assure you." Oxford sighed.
 			"Oh? Then you've killed the Commandant and purged PaladinCorp?"
 			Oxford scoffed. "I don't have to justify myself to you. Your machinations have set my plans back by weeks, if not months. Do I need to remind you of your... obligations?"
@@ -5182,6 +5178,11 @@ VOLUME - Wolves Among Sheep
 			"Get the fuck out of my house." he growled.
 			Oxford scoffed, turned, and left.
 			Neumann sat back down, catching his breath.
+			"Maria?" he began over his earpiece. "[Double all security force deployments. And provide Section Zero - as well as the KGB - with everything they need.]"
+			"Oui, monsieur. Autre chose?"
+			"[...send a message to Sokolov. A single word.]"
+			"Monsieur?"
+			"Optimates."
 
 		Algeria Aftermath
 
@@ -10191,10 +10192,10 @@ VOLUME - Wolves Among Sheep
 			Connor laughed. "Anyway... she's trustworthy. She wouldn't tell anyone. Hell, she spent half our conversation browbeating me into keeping schtum."
 			Ivan smiled. "Good. And... it's good to have someone who knows. Don't tell the world, but having a family member to talk to about this... that'll help keep you sane."
 
-			Connor nodded. "By the way, I sent you over some files from the other night. Did you find the man you were looking for?"
-			"Nyet... we did find something though. A name. Optimates."
+			Connor nodded. "You mentioned you'd had a message through, too? Some new lead?"
+			"Da... A name. Optimates."
 			"What's that?"
-			"The name originates from an ancient Roman political faction - one dedicated to protecting the rich and powerful. It seems this modern-day iteration has the same goals... we thought the whole thing was a hoax, until recently - but files we got from the Algerian DRS confirmed what we already suspected."
+			"The word originates from an ancient Roman political faction - one dedicated to protecting the rich and powerful. It seems this modern-day iteration has the same goals... we thought the whole thing was a hoax, until recently - but files we got from the Algerian DRS confirmed what we already suspected."
 			"You're talking about... what, the Illuminati?" Connor tilted his head.
 			"Nyet." Ivan shook his head. "This isn't some bullshit conspiracy theory - it's a real, genuine cabal. As far as we can tell, they've been active since the Victorian era - and they were financial backers of the Axis powers during the Second World War."
 			"Holy shit..." Connor whispered. "They're fascists?"
@@ -24695,10 +24696,11 @@ VOLUME - Gods Among Men
 			Bea laughed. "You're not wrong there. God, this country sucks."
 			Connor grinned. "To be fair, the Terrorism Act only makes the Diplock system nationwide. Back home, any Irishman accused of sectarianism gets the exact same treatment."
 			"Really?" asked Bea, surprised. "I mean, I knew the Diplock system was in place over there, but I thought it would only get used in high-profile cases - you know, where finding a unbiased jury would be impossible."
-			"That was the stated aim of the policy." Connor shrugged. "But hey, add it to the list of laws designed to screw over Irish people."
-			He smirked. "Christ alive, I sound like Vince."
-			Bea chuckled. "Did, um... did you see him while you were locked up?"
-			"I did. It was weird..." Connor nodded. "It was obviously a horrid situation, even worse for him - it was his worst nightmare. But still, spending that week seeing each other... I don't know."
+			"That was the stated aim of the policy." Connor shrugged. "But hey, add it to the list of laws designed to screw over Irish people. Did you know they're making a deal with Rhodesia to 'extraordinarily rendition' suspected terrorists?"
+			"Bastards." Bea grimaced. "My mum grew up in South Africa - I can't believe it's 2016 and they *still* have Apartheid. And even then, she's outright said Rhodesia's worse."
+			Connor smiled softly. "Anyway, sorry - didn't mean to get fired up. Christ alive, I sound like Vince."
+			She chuckled. "How, um... how was it, seeing him while you were locked up?"
+			"It was weird..." he shrugged. "It was obviously a horrid situation, even worse for him - it was his worst nightmare. But still, spending that week seeing each other... I don't know."
 			Bea smiled sympathetically. "By the way, I... I don't know if Chloe told you, but... last week, I said some pretty horrible things about you and Trey being in the Hoods."
 			Connor tilted his head, and raised his eyebrows.
 			"I... Chloe was telling me she was worried about Charlie - I should have listened to her. Instead, I went on a rant about how you being in a gang meant you were no better. I was just deflecting..." she admitted.
@@ -32875,7 +32877,7 @@ VOLUME - Age of Heroes
 			"That is a good question." Bevan chuckled. "No one's sure. Comes with the territory of being an agency that doesn't exist. However... our oldest documents, and our first known mission, was fighting against the Ahnenerbe."
 			"The Ahnenerbe? The weird witch-club in the SS?"
 			"You know your history." Bevan grinned.
-			"I looked into it. The Ahnenerbe were connected to the Optimates. I mean, *really* connected. I mean 'Wolfram Sievers escaped Nuremberg and was an angel investor in Vitalis' connected."
+			"I looked into it. The Ahnenerbe were connected to the Optimates. I mean, *really* connected. I mean 'Wolfram Sievers secretly escaped Nuremberg and was an angel investor in Vitalis' connected."
 			"Indeed. So, we've been at war with them for a long while. That's half the reason we're underfunded compared to sections Five and Six."
 			"The other half?"
 			"Well, according to public record, Espers, mutants, and cyborgs don't exist, and neither do we. Most of our funding comes from... covert sources."
@@ -32885,7 +32887,7 @@ VOLUME - Age of Heroes
 			"Yes, and Mr. Morozov is my less handsome Russian doppelganger." Bevan grinned. "ODIN used to be our American counterpart, but... well, they swiftly turned their coats. Speaking of... on both ethical and practical grounds, we have been unable to field superhuman operatives - until now. The KGB has Mr. Sokolov; can I count on Riverside in the coming war?"
 			"Like you said, we've been at war for a long while. And Ivan's with us - not the KGB. We're not spooks."
 			"That's not a no."
-			"It's... I have to ask the others first. Either way, I wanna say something, because the FBI got a little confused about this. We're not your attack dogs. We're barely your bloodhounds. Collaboration to us means you give us intel to help us kill super-cunts we were already after. You give us an order we don't like, and we'll say so - loudly. You even think of using Serum, and there's hell to pay. Am I clear?"
+			"It's... I have to ask the others first. Either way, I wanna say something, because the Americans got a little confused about this. We're not your attack dogs. We're barely your bloodhounds. Collaboration to us means you give us intel to help us kill super-cunts we were already after. You give us an order we don't like, and we'll say so - loudly. You even think of using Serum, and there's hell to pay. Am I clear?"
 			Bevan nodded, and a grin of respect crawled up his face.
 			"Crystal."
 			Connor smiled, relieved. "Anyway... I'm gonna go check on Trey. See you later."

@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - 'current/Bloodhound/bloodhound-WIP.txt'
-      - 'current/Bloodhound/scripts/split_story.py'
+      - 'current/Bloodhound/split_story.py'
 
 permissions:
   contents: write

@@ -2,6 +2,7 @@
 name: Split Bloodhound Story
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main

@@ -26,7 +26,7 @@ jobs:
           python-version: '3.x'
 
       - name: Split story into episodes
-        run: python current/Bloodhound/scripts/split_story.py
+        run: python current/Bloodhound/split_story.py
 
       - name: Commit generated episodes
         run: |

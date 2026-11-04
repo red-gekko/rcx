@@ -1,0 +1,607 @@
+VOLUME - Gods Among Men
+EPISODE - Public Enemy, Part 2: Election Day
+============================================================
+
+SCENE - It Wasn't Me/Blackout
+
+	The morning sun was slowly starting to rise, now. It was the early hours, and Naismith groaned as he left his front door. He sat in his car, and took a deep breath.
+	"You gonna sit there all morning, or?"
+	"Detective." Connor chuckled, leaning forward. "Are we friends now? Or do you just say that every time you get in the car?"
+	"Jimmy Boyle showed up in A&E the other night. Broken legs. Says he tripped and fell out of his balcony."
+	"Yeah, and if he changes his story, he might trip and fall again."
+	"Was it you who killed all those people?"
+	Connor shot him a look - Naismith couldn't help but think he looked hurt.
+	"Don't play silly buggers. Was it or wasn't it?"
+	"It wasn't." Connor nodded firmly.
+	"I knew it..." Naismith breathed out in relief. He started the car, and pulled off.
+	"Is that praise, Detective?"
+	"More like being happy knowing I'm not aiding and abetting a terrorist." Naismith leaned back.
+	"Just a vigilante, then." Connor quipped. "Besides, you don't think it's fishy how city hall blows up, and Norris survives barely-scathed?"
+	"I had my worries." Naismith shrugged. "It's election night tonight. Norris has managed to dominate the headlines. All those people... dead, for a boost in the polls?"
+	"That's the Optimates for you." Connor growled. "But it's more than that."
+	"How'd you mean?"
+	"I'm getting closer." Connor nodded. "Gambit. The child trafficking. Hughes. Project Jotunn. ODIN. They need to distract me, and turn the public against me, all in one fell swoop."
+	Naismith was quiet. Then, after a while, he went to speak - and stopped, as a clunking noise filled the air.
+	"What was that?" he cocked an eyebrow.
+	Connor sniffed, and sighed.
+	"Shit..." he groaned, as the street lights went out. Then, the houses.
+	"Blackout." Naismith sighed. "Don't tell me..."
+	His phone buzzed, and he took it.
+	"Breaking news." he read. "Mass power outages across the valley. Ah... you wanna see this."
+	He played a video, and Connor's eyes flashed.
+	"People of Drackhill!" the imposter began. "Forgive me for indulging myself, but some metaphors are just too good. You... you're all *humans. *Mortals.* The only man in this valley with *power...* is *me.*"
+	"I don't sound like that. Do I?" Connor tilted his head.
+	"*I* don't *know.* *You* don't *speak* with so much *gravitas,* do you? *I* think it sounds *stupid* when people *talk* like *that.*" Naismith snarked.
+	"Oh, Jesus. Detective, I think we might actually be friends now. That sucks." Connor quipped back. "The speech patterns... they sound artificial."
+	"Definitely a deepfake, then..." Naismith sighed.
+	"I'd better get going." Connor nodded.
+	"Wait..." Naismith began hesitantly. "I... I *cannot* believe I'm saying this., but... if you need my help exposing them..."
+	"I do." Connor nodded. "Here's the plan. I'll keep working on who's behind all this. Any intel I find, you'll be first to know. And as soon as we can be sure who's behind this... we take 'em down."
+	He handed over something - a burner phone.
+	"You can contact me on this - and likewise."
+	Naismith hesitated. He wanted to take it, but... once he crossed that line, he was no longer a victim of home invasions receiving tip-offs. He was involved.
+	He steeled himself, and pocketed it.
+	"I'll see you around, Werewolf."
+	"In a while, Detective."
+
+	Shannon was three hours deep into the deepfake files when the lights went out.
+	Not just the basement lights. Everything. The hum of the servers, the glow of the monitors, the faint buzz of the radiator in the corner - all of it died at once.
+	"The fuck?!" she gasped.
+	Her laptop screen flickered, held on for a moment, then went black. The battery would last another few hours, but without the servers, she was blind.
+	Then her phone buzzed - a text from Trey.
+	"Power's out across the whole city. What the fuck is going on?"
+	She gulped, then her brows creased. She rushed over to the emergency generator, and it choked to life.
+	The servers flickered, along with the lights. In seconds, she was back on the laptop, and quickly started running diagnostics.
+	Damn it. The whole valley was down.
+	Every municipal system - traffic, water, emergency services - all gone.
+	Or rather - every substation supplying power to those systems was down.
+	She shook her head.
+	"This doesn't just *happen...*"
+	She pulled up her terminal, and started probing the network.
+	There had to be a trace. A thread to pull. There always was.
+	There. A compromised SCADA controller at a substation in the industrial district. The attackers had used a zero-day exploit - one she had kept in the back pocket for emergencies - to bypass the authentication protocols and inject malicious code into the system.
+	She raced through her system, her hands dancing over the keyboard.
+	"Vanguard, this is Base." she began. "I'm working on the blackout. I need you to get to your nearest substation, and see if you can access one of their terminals."
+	"On it." Connor audibly nodded through his glide. "I'm close by anyway."
+	She cracked her knuckles, and got back to typing.
+	What to do, what to do?
+	A bruteforce? No... that'd take too long.
+	Ah... this'll be fun.
+	She was used to playing this game as the attacker. But hell, she *loved* a challenge.
+	She pulled up her copy of the exploit, and decompiled the SCADA firmware. Then, she opened up her text editor, and her fingers moved like a pianist.
+	It took her fifteen minutes to write. Another five to test it in a sandboxed environment. Then she deployed it.
+	It was pretty simple, all things considered - a script that would identify the malicious code the attackers used, isolate it, then restore the original firmware version.
+	An ugly solution - nothing stopped the attackers from trying again. But, it'd have to do.
+	The script ran. For a moment, nothing happened. Then, one by one, the substations began to come back online.
+	Shannon allowed herself a small smile.
+	"Hey, Base." Connor reported. "You're in."
+	"Nice one. I'll see if I can get a copy of their virus."
+	Then, her screen flickered again.
+	"INTRUSION DETECTED."
+	Shit.
+	Someone was in her system.
+	She slammed her fingers against the keyboard, pulling up her intrusion detection logs. There - a backdoor she hadn't seen before.
+	Damn it. How did she miss that?
+	Oh yeah, that's why. She didn't need it.
+	She grinned, as she quickly executed the KGB's countermeasures. Her laptop screen spluttered, then went black. Then it came back to life, running an entirely different OS.
+	She accessed the command line, and - there. The connection logs.
+	She chuckled, before accessing the address.
+	"Gotcha."
+	It was an obvious proxy server - one in Brazil, by the looks of it. She impersonated a friendly device, and waltzed in like she owned it.
+	Then she followed the link. And again. And again.
+	Boom. Right there - a computer in---oh, shit.
+	"Drackhill? Come on, guys - that's just sloppy."
+	Ah - the location was anonymous. All she got was that it was somewhere in the valley.
+	Oh well. No fun otherwise.
+	There - the exploit they used.
+	She copied the file, and pored through it.
+	Every hacker had a signature. A way of writing code, a pattern of movement, a tell. And this one - this one was familiar.
+	Shannon's breath caught. She pulled up the metadata from the deepfake analysis, comparing it to the code she'd just captured. The syntax was identical.
+	The attack came from the same device as the deepfakes.
+	Same person. Same software. Same everything.
+	All she needed now was access.
+	She ran a passive bruteforce - it'd be slow, but reliable.
+	"Vanguard - this is Base. The others have gone to Raj's - power's back online. Meet up with us there."
+	"Copy that." Connor smiled. "Nice work."
+
+SCENE - Discord in the Ranks
+
+	Raj's was quieter than usual. After all, no one felt safe to go out anymore - and with half the city still running on backup generators, "going out" had become a gamble in itself. Despite it all, a group of friends wanted to spend their Wednesday afternoon sipping coffee.
+	Amy was there first; Trey joined shortly after. Shannon trailed in, carrying her laptop.
+	She plugged it in, and sighed.
+	"Sorry, guys." Raj called over from the till. "I've only got enough power for the machines out here."
+	"No problem." Shannon smiled. "I've still got an hour or so left."
+	Trey's voice turned low and conspiratorial. "I'm guessing you're a big reason it wasn't out for too long?"
+	"I did my part." she shrugged humbly. "At least we have some daylight now."
+	Soon, Chloe arrived, greeted by hugs.
+	"Hey, girl." Amy beamed, pulling out her chair.
+	"Hah, thanks." Chloe nodded, sitting. "Bea will be here in a minute, she's just... well, Charlie's coming too."
+	"Ugh." Amy groaned. "In other words, I need to play nice?"
+	"We all do." Chloe sighed.
+	"Who's Charlie?" Shannon tilted her head.
+	"Bea's boyfriend. He's... a bit of a dick." Trey shrugged.
+	As if speaking of the devil, Charlie entered the cafe. Bea walked behind him, and they took their seats.
+	"Afternoon, everyone." Charlie nodded curtly. "Oh, hello."
+	"Hey." Shannon nodded. "I'm Shannon."
+	"Charlie." he nodded back, his lip curling slightly.
+	"Shit." Sparky snarled, as he spotted Charlie inside the cafe. "It's *him.*"
+	"Stay calm. We're here for our friends, not him, alright?" Connor pressed. They entered, and Sparky greeted Chloe and Bea - before turning his nose up and walking away from Charlie.
+	"Hey, guys." Connor waved, sitting down. "Sorry I'm late. Had to take the long way round - traffic lights are still out, so it's carnage in the main roads."
+	The group shuffled to make room. Connor ended up beside Chloe, Sparky curling at his feet. Charlie sat across from them, Bea beside him.
+	"So." Charlie began, stirring his coffee. "How's everyone coping with the... situation?"
+	"What situation?" Trey asked.
+	"The terrorist attacks. The curfew. The blackouts. Or just the general sense that the world's gone mad." Charlie shrugged. "I assume you've all been following the news."
+	"It's hard not to." Chloe said.
+	"It's about time someone did something about that vigilante." Charlie said, almost casually. "The Werewolf. Whatever you want to call him."
+	Amy's jaw tightened. "What do you mean?"
+	"I mean, the man's a menace. First, he did shoot me--"
+	"Oh, how could I forget?" Chloe snarked.
+	"Indeed, how could you? Then, the metro. Then, the bridge. Then City Hall. And now, the entire power grid. How many more people have to die before the police put him down like the animal he is?"
+	"He saved my life." Amy scowled. "Along with everyone in the Horse when Chapman attacked."
+	"Well... you know what they say about the road to Hell's paving, don't you?" Charlie shrugged.
+	Bea nodded along. "It's true, Amy. I mean, we don't know what he's really capable of. He could be playing the long game."
+	Amy stared at her. "You don't actually believe that."
+	"I... I don't know what to believe anymore." Bea admitted.
+	"The videos are fake." Shannon cut in.
+	Charlie's eyes narrowed. "And how would you know that?"
+	Shannon shrugged. "I work with computers."
+	"Right." Charlie said slowly."You're the... tech person. At the garage."
+	"That's right." Shannon said, meeting his gaze.
+	Charlie smiled - not kindly. "It's unusual, isn't it? A... a woman in that kind of role."
+	"What do you mean by that?"
+	"Nothing! It's just... good to see the glass ceiling being shattered." he grinned.
+	Chloe grimaced. She swallowed the urge to kick him.
+	"Anyway..." Amy continued. "The Werewolf is not the problem. The problem is whoever's framing him. Whoever's blowing up bridges, or gassing trains, or causing blackouts."
+	"Guys!" Connor cut in. "Let's not, yeah? None of us know the full truth, so why speculate?"
+	Amy gave him a sad look, and nodded softly.
+	"Now now, Connor. I personally think debates like these are important. Much better than shooting at each other and blowing up cars, don't you think?"
+	Connor shot him a death glare. "Excuse me?"
+	"I'm sorry, that may have came out wrong." Charlie bowed his head. "I just meant that discussions like this are healthy. Amy thinks someone's framing the Werewolf."
+	"I *know* someone is." she scowled.
+	"Amy..." Bea said softly.
+	"What's your evidence?"
+	"Pretty straightforward." Trey cut in. "The Werewolf saves lives. If he wanted to terrorise the city, he'd've done it when he first started out. The first time anyone ever called him that name was when he was rescuing people from a burning building. He took out Dobel, Hughes, Stoker..."
+	"Terrorists often believe themselves to be heroes, Trey." Charlie grinned. "Just look at the IRA."
+	Connor stifled a snarl, and looked away.
+	"You've all seemed to have built this... narrative. This 'superhero.' They exist in comic books, not real life. And you're all clinging to that narrative because the alternative is too frightening to consider."
+	"As opposed to believing that the government aren't lying to us." Shannon snarked. "You really think it's more plausible that a man who's saved so many suddenly turned bad, than it is the fascists in government are doing what they always do?"
+	Charlie laughed. "You sound like a conspiracy theorist."
+	"And you sound like a bootlicker." Amy shot back.
+	The table went quiet.
+	Bea looked between them, her face pale. "Amy, that's not fair."
+	Amy hesitated, but faltered as she caught Bea's gaze. "Fine, I'm... I'm sorry."
+	"Apology accepted." Charlie grinned.
+	Chloe scowled, and took a deep breath. "Let's all just try and calm down. The city's... tense, at the moment. We can't let it divide us."
+	Shannon's laptop pinged, and her pupils dilated.
+	"Hey, Connor?" she began, showing him the screen.
+	A location. A flat in Caldermouth.
+	A name - Leo Barnes.
+	The source of the deepfakes. The origin of the Blackout virus.
+	"Suppliers need you. The bastards screwed up our order again."
+	"Damn it." he feigned. "Sorry - I have to go."
+	"Already?" Chloe asked.
+	"I know. I'm sorry."
+	As Connor rose, Charlie leaned back in his chair. "Off again, Connor? You seem to be making a habit of that."
+	Connor paused. "Excuse me?"
+	"Just an observation." Charlie shrugged. "Bea was telling me how you're always... leaving. Always busy. Always somewhere else. Makes a person wonder what you're actually doing."
+	"Well, I--I didn't mean it like that." she quickly cut in. "Just--I worry you're working too hard, is all."
+	Connor's jaw tightened. He wanted to say something. He wanted to put Charlie in his place. But Sparky pressed against his leg, and he forced himself to breathe.
+	"I have responsibilities." he said, his voice flat.
+	"I'm sure you do." Charlie said, his tone dripping with false sincerity. "Must be important, whatever it is. More important than being here, anyway."
+	Connor forced himself to ignore it, and turned.
+	Sparky followed, throwing one last glare at Charlie over his shoulder.
+	"Hey, Connor!" Chloe called out. "Um... don't forget to vote tonight."
+	"Oh, yeah." he smiled slightly. "Thanks. I'll see you guys at the conference centre when they do the vote count."
+	The door swung shut. They stayed quiet for a moment.
+	"He's under a lot of pressure." Chloe said at last.
+	"He's always under pressure." Charlie grinned. "At some point, you have to wonder if he's just using that as an excuse."
+	Bea nodded. "It does seem like he's not really... present anymore. Like he's somewhere else entirely."
+	"He's just taken on a new business, Bea. Come on." Amy cut back. "He would accept it if any of us were the same."
+	"I know, I know. I'm not having a go, I just..."
+	Chloe stared at the door Connor had walked through. Something was nagging at her - a feeling she couldn't quite name.
+	"Anyway." Charlie said, changing the subject. "Who wants another coffee? I'm buying. Least I can do, since the machines are still working."
+	The group continued through the fractured mood.
+	Amy was silently stewing. Trey kept glancing at the door. Shannon was back on her laptop, trying to focus.
+	Bea leaned into Charlie, happy and oblivious.
+	Chloe took a deep breath, then turned back to the group.
+
+SCENE - Deepfakes
+
+	The flat was a tip. Takeaway containers stacked on every surface. Energy drink cans littered the floor. Cables snaked across the carpet. In the corner, a server rack hummed.
+	Leo was at his desk. He was a man in his early twenties. Pale. Scrawny. The kind who'd never thrown a punch in his life. He was scrolling through something on his laptop, headphones in, oblivious.
+	That is, until a gloved hand wrapped around his face.
+	"Don't scream." Connor growled.
+	Leo screamed anyway. Or tried to - the hand muffled it to a pathetic squeak.
+	Connor spun him around, and slammed him against the wall. Leo's headphones clattered to the floor. His chair rolled away.
+	"Who's making the videos?"
+	"I--I don't know what you're--"
+	Connor's hand wrapped around his throat, and raised him.
+	"Wrong answer."
+	"Okay! Okay! It was me! I made them! But I didn't know what they were for, I swear!"
+	Connor took a deep breath.
+	Truth. Good.
+	"Start. Talking."
+	Leo's breath came in short, panicked gasps. "They--they approached me online. Said they needed someone who could do deepfakes. Paid me ten grand. I-I didn't ask questions."
+	"Who's 'they'?"
+	"I don't know their names! It was all anonymous. Crypto payments. I just did the work and sent the files, I swear!"
+	"What 'work?'"
+	"The first video, the--the one claiming responsibility for the metro attack. They sent me footage of you - from news reports, CCTV, stuff like that - along with that one you posted where you burned Becker. They told me to make a video."
+	Connor's jaw tightened. "And then the attack actually happened."
+	Leo nodded frantically. "I didn't know! I swear, I didn't know they were going to do it for real! I thought it was just... propaganda. Smear stuff. I didn't think anyone would actually die!"
+	"But. They. Did."
+	"I know!" Leo's voice cracked. "And then they contacted me again. Said if I didn't keep making videos, they'd tell the police I was involved. That I helped plan the attack. I'd go to prison for the rest of my life."
+	"So you kept working for them."
+	"I didn't have a choice!"
+	Connor stepped back. He needed to think.
+	The server hummed in the corner. He walked over, scanning the equipment. It was good tech - professional grade. Whoever was paying Leo had money.
+	"You did the blackout, too?"
+	"I--I only coded the shutdown procedure. They're the ones who used it."
+	Connor's blade sharpened. "You think that gets you off the hook?!"
+	"I'm sorry! I--I was so scared! I'm not like you, okay?! They were gonna kill me!"
+	Connor sighed, as the coward cried. He missed that fear - oh, by the Gods, how he missed it.
+	"How many videos did you make?"
+	"Five. The metro one. The bridge one. The one for City Hall. The blackout. And..."
+	"And?"
+	"There's one more. It hasn't been published yet."
+	Connor turned. "Show me."
+	Leo stumbled to his desk, his hands shaking. He pulled up the file, and hit play.
+	The imposter appeared on screen. It was sat at table, and flanked by two armed men.
+	"The time for subtlety is over. The so-called leaders of this city thought they could hide behind their elections. Their votes. Their democracy. But democracy is a lie. Power belongs to those who take it."
+	The camera zoomed in.
+	"My men did the difficult work. Every bullet we fired was a step closer to my utopia. The blood that was spilled tonight was good. From tonight... I am your ruler."
+	Connor stood there, his blood running cold.
+	The election night vote count.
+	They were going to attack it.
+	He frantically checked his phone - one hour until voting finished.
+	Shit. Shit.
+	Connor grabbed Leo by the collar, and slammed him against the wall again. His eyes blazed red. His teeth clenched.
+	"Listen to me very carefully." he snarled. "If you're lying to me - if you know something and you're holding back - I will come back here, and hold you responsible for everything that happened."
+	"I'm not lying! I'm not!"
+	He released him, and pulled out his phone.
+	"Naismith. I need you to take someone into custody. Quietly."
+	"Who?"
+	"A hacker. He's been making the deepfakes. He's a witness."
+	"Where?"
+	"Flat 4, 23 Jonathan Road, Caldermouth. I'll leave him tied up for you. Don't arrest him just yet - we need to make sure the Optimates don't try and silence him."
+	"On it."
+	"One more thing... I found another video. This one has me claiming responsibility for a mass shooting - I think they're gonna target the vote count."
+	"Oh fuck..." Naismith grimaced. "I'll call it in, but you're an anonymous CHIS - I might not be able to convince the higher-ups to mobilise CT."
+	"I don't care about your higher-ups! Just do *something!*"
+	"Alright, alright! I'll do what I can."
+	Connor hung up, and turned back to Leo.
+	"You're going to sit here. And you're not going to move. Someone's coming to pick you up. If you try to run, I'll know. If you try to delete anything, I'll know. And if you try anything stupid..."
+	Leo nodded frantically. "I won't. I swear. I won't."
+	Connor bound his wrists and ankles with biomass cables.
+	He slipped out the window, and vanished into the evening.
+
+SCENE - Vote Count Massacre
+
+	In years past, when Drackhill Valley's mayors had been elected, the halls in which the final count would be announced were bustling and heaving, humming with life.
+	But, at the 2016 All-Valley Mayoral Election, the conference centre instead held its breath.
+	Few came out; only those who were more engaged in valley politics dared to come to such a tempting target.
+	One hour until the polls closed. The live count was almost complete.
+	At the stage, the two candidates sat with their supporters and security. Norris was surrounded by Gambit mercs, while Ward had but a few volunteers flanking her.
+	Staff moved between tables, tallying papers. Journalists hovered near the stage, cameras ready.
+	The gang filtered in through security - armed police at the doors, bag checks, the works. Amy was first through, then Trey, then Chloe. Bea and Charlie followed, with Shannon trailing behind. They found a spot near the back, and congregated.
+	"There she is." Bea smiled, looking over at Ward. "Come on, Drackhill... please, make a good choice for once."
+	"You can't be serious. You're actually going to vote for *her?*" Charlie scoffed.
+	"Hey, come on. She's infinitely better than a crook like Norris." Bea countered. "Anyone with half an eye on the city knows he's corrupt. That's why the media's been so rough with her - they know she's on the side of the people, not the establishment."
+	"I thought you were smarter than that." Charlie scowled. "She's a socialist, Bea. She wants to defund the police - can you imagine, next time the Werewolf attacks, a bunch of social workers try and talk him down? Give me a break."
+	"Don't fucking talk to her like that." Amy snapped. "Go ahead, vote for the Nazi, and fuck off."
+	"Amy!" Bea gasped. "That's not--"
+	"Yes it is!" Amy pleaded. "Come on, if anyone was speaking to us like that, you'd tear them a new one. But what, because he's your boyfriend, he gets away with it on you?!"
+	"Amelia, try to calm down." Charlie growled. "You're letting your emotions get the better of you."
+	"Alright, enough!" Bea barked. "I can't cope with the pair of you bickering. Come on, for my sake, can we not?"
+	"Of course. I'm so sorry, my love." Charlie nodded deferentially, stifling a grin. "Amy?"
+	Her lip curled, and she stayed silent.
+	"Amy, please." Bea sighed.
+	"...fine." she half-spat, before heading off to cast her vote. Chloe walked over to her quietly.
+	"Where's Connor? The polls close soon." she asked, whispering.
+	"He's--he's still busy." Amy nodded.
+	Chloe gently leaned in. "Listen... I hate him too, but... we need to be careful. We don't want to push Bea further into his arms, right?"
+	"Right..." Amy sighed.
+	Shannon approached the voting booths, and prepared to sign in.
+	"Name?"
+	"Shannon Taylor." she began.
+	"Address?"
+	"Um... it'll be 15 Gorton Close." she nodded.
+	"Hm... I've not got a 'Shannon Taylor' here, I'm afraid."
+	"Oh, of course..." she grimaced. "Um... it'll be under..."
+	"Under?"
+	She hated saying it.
+	"L-Liam. Liam Taylor." she whispered, almost throwing it up.
+	"Sorry, can you repeat that?"
+	She scowled. "Liam."
+	The counter scoffed, and handed over her poll card. She snatched it, and walked away.
+	The barriers moved once more, and Tommy walked in, with Pawel close behind.
+	"Hey, Tommy!" Shannon waved.
+	"Shannon! How are ya?" he chuckled.
+	"Eh." she shrugged. "You here to vote?"
+	"Yeah. The Skinners have backed Norris, so I wanna talk with Ward about how the Hoods can help with our community outreach when she wins."
+	"'When?'" Shannon grinned.
+	"I'm an optimist, beneath it all." he smirked.
+	"How about you, Pawel?"
+	"Oh, I'm a big Norris supporter, me. Can't wait to get deported." he snarked. "According to the TV, I'm here to illegally vote a thousand times, of course."
+	Shannon laughed, and headed back to the group.
+	"Look! Ward's still leading in the polls." Bea smiled. "Please, God..."
+
+	"Hey, guys." Trey piped up. "Connor's calling in the group chat."
+	"Oh, cool." Chloe nodded, answering and putting her phone on speaker. "Hey, Connor, where are you?"
+	"Chloe! Are you with everyone else?"
+	"Uh, yeah, we're all here. You're on speaker."
+	"Hi, Connor!" Bea chimed in.
+	"Guys, get away from the polling centre, now!"
+	"What? Why?"
+	"There's gonna be another attack!"
+	"How do you possibly know that?" Charlie sneered.
+	"Just trust me! Please, get out of there!"
+	Too late.
+	"OPEN FIRE!" a Super-Agent howled. His squad gunned down the security at the gate, and stormed in.
+	All hell broke loose.
+	"GET DOWN!" Pawel roared, tackling Shannon to the ground. The crowd erupted in screams, as volleys of bullets slammed into bodies.
+	One hit Ward in the gut. Another hit Norris between the eyes.
+	In his last moments, maybe he finally appreciated the monster he'd helped create.
+	Maybe he saw the inferno waiting for him.
+	Maybe he just went blank.
+	The incumbent fell backwards, shortly joined by his bodyguards.
+	Ward crawled under her table, desperately pressing at the wound.
+	Then, an explosion rocked the air, and glass rained down from the centre's skylight.
+	"GRAAAAAGH!" Connor howled, his wristblades gleaming in the light. Sparky landed a foot away, while Ivan grappled down and ducked into cover. Gwen came down almost gracefully, before readying her bow. Bubo fluttered down beside her, wearing sharp metal gloves over his talons.
+	"We'll cover you! Go, go, go!" Ivan barked, drawing Fyodor and laying down suppressing fire.
+	"Spartacus! You take left, I'll take right!" Connor roared, before the twin Werewolves charged.
+
+	"Where's the exit?" Chloe whispered, her heart racing.
+	"There!" Trey pointed, propping up a table as a shield. "Shit... we can't dash out, it's too exposed."
+	"We need to stay put. Let the professionals handle this." Amy nodded.
+	"Are you crazy?!" Charlie shrieked. "We're sitting ducks here!"
+	"You wanna run out and get shot, be my guest." Amy snapped.
+	"Amy's right." Bea whispered. "He's--he's not attacking us. Just stay here, so he can focus on taking out those bad guys."
+	Charlie scowled, but relented, and ducked down. He crawled a little further, placing himself behind the others.
+
+	Connor drove his blades into one Agent's throat, while Sparky's claws removed another.
+	*CLICK-CLACK!* one Agent's shotgun snapped. Before it could fire, though--*SHIK!*
+	"Watch your back!" Gwen barked, as her arrow punched through an eyeball.
+	"That's what you're for." Connor quipped, before spinning around and decapitating another.
+	A third swept his machete out, slicing through Connor's guard. He flipped back and went to counterattack, before--
+	"AAAAGH!" the Agent screamed, as an owl's talons dug into his eyeballs. Connor tilted his head, before impaling.
+	"Good boy, Bubo." he grinned, before looking out to the front door.
+	Damn. More of them. This was gonna get ugly.
+	A piercing roar cut in through the chaos, as thundering steps came in.
+	"Oh, fuck." Connor groaned. "Whiplash, Verdict - focus on the remaining gunmen. Spartacus... with me."
+	A Jotunn burst through the barriers, and thumped its chest ferally. It bull-rushed in, slamming into Connor and sending him flying. He smacked into a wall at the back of the centre, cracking it before landing onto the floor.
+	"DIE!" Sparky roared, pouncing. Chunks of flesh tore out from its hide.
+	The Jotunn screamed, before a haymaker slammed into the wolf's skull. Sparky stumbled for barely a moment - a moment too long.
+	The Jotunn raised him aloft, shrugging off bullet and arrow alike, and brought the beast down back-first onto its knee. Sparky's spine made a sickening crunch, and he groaned in agony.
+	"Shit!" Amy gasped. Her eyes darted side to side, before she dived forwards.
+	"Amy! No!" Bea cried out.
+	She ducked incoming fire, and rolled over to Connor's side.
+	"Get up! GET UP!" she roared, forcing him to his feet.
+	Ivan finished off the last gunman, and futilely turned his rifle on the Jotunn. The monster flexed, and prepared to charge.
+	Connor took a sharp intake of breath, and saw it. His packmate, folded in half.
+	"No... NO!" he howled, pouncing. His eyes burned crimson, as his blades punched in. They barely broke the skin, as the Jotunn sent a hammer strike down to the top of his head.
+	Connor stumbled, and his knees buckled.
+	Failure. He was failing, again. People were dying. People were being killed. He wasn't saving them.
+	No.
+	It had bubbled and brewed long enough. Now, the Rage boiled over.
+	Connor screamed like a maniac, as his wristblades reformed into claws. First, a flurry of swipes like a wildcat spread bright red gashes over the Jotunn's body.
+	It threw up a guard, protecting its face. Connor grinned savagely, and the claws rippled into thick chitinous gauntlets. He raised them to his sides, and slammed them inwards. He felt Gwen's power redirect the force into the Jotunn's abdomen - organs shook and slithered as it rebounded again and again.
+	Now.
+	The claws reformed, and he drove them forwards. They sliced into the monster's guts, and poked out the back.
+	Not done. Not nearly.
+	The Jotunn wrapped his meaty fists around Connor's neck, and squeezed.
+	His windpipes buckled. His bones chafed.
+	His grin widened.
+	Connor sent a kick into the ground, and Gwen shifted her hands. The force shot back up, and the Jotunn went into the air, just for a second.
+	Long enough.
+	Connor hoisted it up above his head. Blood and gore dripped down onto him, as he held his foe aloft.
+	It was built like a tank, and weighed similarly. And yet, and yet...
+	"*RRRAAAAAAAAGH!*" the Werewolf screamed, as he pulled his claws away from each other.
+	Gwen's eyes burned violet, and a nauseating noise filled the room.
+	Ripping. Tearing.
+	Dying.
+	First were the intestines. They flopped out of the wound like flaccid snakes, worming around Connor as they fell.
+	Next, more offal came. Then the stomach. Then the kidneys.
+	The lungs soon came apart, raining down on the berserker. Viscera dribbled from his frame.
+	Finally, a snapping noise.
+	The Jotunn's top half flew outwards, flattening a table. The legs, meanwhile, shattered a window as they launched.
+	There, he stood. The survivors slowly dared to peek at him.
+	Their saviour. Their hero.
+	Coated in red.
+	Connor huffed, as steam poured out of his mask. His eyes dimmed, and he stumbled over to Sparky.
+	"Did... did we win?" his packmate groaned.
+	"I'm sorry. I'm so sorry."
+	"What for?"
+	"This."
+	Sparky howled as Connor re-set his backbone. Then, agonisingly, he struggled to his paws.
+	"Shit..." Connor realised. He pounced onto the stage.
+	Ward was pale. Barely moving. Barely breathing.
+	But breathing, nonetheless.
+	Connor ripped the Coagulator from his belt, and sprayed her wounds shut. She gasped, and gurgled, looking up at the monster.
+	"Easy there... you're okay..." he whispered gently.
+	"ARMED POLICE!"
+	Connor scowled, and rose, turning.
+	"STAY WHERE YOU ARE!" Dent barked, his gun trained on Connor's head.
+	"No! Please, it wasn't him!" one wounded man cried.
+	"He saved our lives!" a woman added, standing in the way.
+	"Move! Out of the way!" Dent snapped, as more bodies shuffled between him and his foe.
+	"Yeah, get out of his way!" Connor pleaded.
+	"Stand down!" Naismith barked.
+	Dent shot him a filthy look. "Back off, Naismith."
+	"Dent, between you and the suspect are dozens of wounded civilians. You want them caught in the crossfire?!"
+	"Men! Take aim!"
+	Naismith's lip curled, as he drew his sidearm.
+	"Sergeant, stand down. Final warning."
+	At that, a bubbling noise began. Connor and Sparky's suits rippled in unison, and then--
+	*Pop!*
+	Black smoke filled the room. Humans choked and spat as it cleared, and--no. The Werewolves were gone.
+	"Damn it!" Dent snapped. "All units, fan out! Find those terrorists--"
+	"Belay that order! Provide first aid until paramedics arrive." Naismith snapped. "Now!"
+	The officers tilted their heads, but followed Naismith's orders.
+	"Oh god... I think it's over." Chloe whispered.
+	"Jesus... I..." Bea stammered.
+	"Guys!" Connor barked, rushing in through the door in his civvies.
+	"Connor!" Chloe gasped, wrapping him in an embrace. Bea joined, followed by Amy, then Trey, then Shannon. Charlie scowled as the group hug formed.
+	"Thank God you're all okay..." he breathed out.
+	"Wh-what happened to you? Why are you covered in bruises?" Chloe asked.
+	"Hm? Oh, don't worry about me, I---I got hit by a car on the way here." he quickly covered.
+	"...what?!"
+	"Uh--not a fast one." he added. "Just a few scrapes, I'm fine. Did you guys get hurt?"
+	"No, we're all okay." Amy smiled softly. "All thanks to the Werewolf."
+	"Come on, let's get out of here. The smell is making me feel ill..." Trey nodded.
+
+SCENE - Aftermath
+
+	Dark, now. Drackhill Trauma Centre had been bustling heavily over the last few days, and today was much the same.
+	In the ICU, under armed guard and hooked up to a number of machines, however, a particular VIP laid.
+	Mayor-Elect Helen Ward.
+	She was sat up straight, despite the pulsing pain, reviewing paperwork and taking briefings from pale staffers.
+	"So, the vote count has now finished. Naturally, Mr. Norris would be, um, unable to serve another term anyway, but it's good to know you won the election legitimately. That will be invaluable to securing public trust during this crisis." one aide began.
+	"...I can't believe it. Norris was... well, I don't wish to speak ill of the dead, of course. But gunned down on election night?"
+	"Small victories at least - the power grid is back online. We've received an anonymous tip with a fix for the vulnerability - we believe whoever told us this was the same person who disinfected the network earlier."
+	"Ma'am." Dorsey began, entering. The armed officers stood to attention at his approach.
+	"Chief Constable." she nodded. "How can I help you?"
+	"I'm afraid this can't wait until your inauguration." he said sombrely. "You need to approve the emergency provisions of the Terrorism Act, now."
+	"Hang on a minute." she cut in. "Those provisions strip our citizens of their most fundamental civil rights. The answer to this kind of attack is not--"
+	"Ma'am. The Valley Council has already voted unanimously to approve these provisions. You need to sign."
+	"She's not even been sworn in yet." an aide protested. "Back off while she recovers, yeah?"
+	"Fine. I'll speak with the council about our options." he sneered. "Get well soon, ma'am."
+	As he walked away, she sighed.
+	"If the mayoral office is vacant, the council can approve its own acts." another aide noted. "You can exercise your veto, but..."
+	"That'd be deeply unpopular at the moment." the first sighed.
+	"Damned if I do, damned if I don't." Ward lamented. "Alright, we'll have to work with what we've got. Allow the act to be approved without our signature; and then, we'll order the police to ignore the provisions on freedom of assembly or due process."
+	"What about the Werewolf, ma'am? What should we do about him?"
+	"I... I'm not sure. Yesterday, I would've said we need to bring him to justice. But... something else is going on. I know *that,* at least."
+
+	Connor took a deep breath as he walked out of the shower, and checked himself out in the mirror.
+	Healed, completely. He sighed, and morphed up a few bruises for cover. Fresh clothes oozed out of his skin, and he went into the communal lounge. Chloe was on the sofa, with a blanket over her lap, and Sparky nuzzled into her. He did a surprisingly convincing job of hiding his spinal injury - of course, by being fast asleep.
+	"Hey." she smiled as Connor sat down. "Feeling better?"
+	"Yeah. Still aches, though." he nodded. "You?"
+	"I'm coping." she shrugged. "I feel like I should be more upset, but..."
+	"I know the feeling. Me and Amy said the same thing when Dobel's men tried to kill us." Connor said softly.
+	"...what?"
+	"Oh yeah... we didn't tell you at the time." he pinched the bridge of his nose. "Long story."
+	"...I bet." she half-grinned, sipping her coffee. "Amy, Trey, and Shannon have all gone downstairs - I think they're doing some work to take their mind off of things. Bea and Charlie have gone to their room."
+	"I don't recall inviting him." he snarked.
+	She chuckled. "I'd make him pay double. He's a... a real piece of work."
+	"You can call him a cunt, it's fine." Connor grinned.
+	Chloe giggled. "He's a... a yebanaya gnida." she finally said.
+	"...I *assume* that was something appropriately horrible." Connor laughed.
+	"[It means 'fucking nit']" she signed. Connor cackled like a hyena.
+	"It's a shame you didn't get to vote. Though, I guess, it wouldn't've mattered anyway."
+	"Oh, I actually mailed in my ballot." he nodded. "Besides, Ward still beat Norris fair and square. That matters a lot - the last thing Drackhill needs it people thinking she was behind it."
+	"Too right." she sighed. "It feels like the city's eating itself. Anyway, you're sure you don't mind us staying tonight?"
+	"Of course not. It's been a hell of a night - besides, no one else is using the rooms."
+	"Thanks." she smiled. "Well, I'm gonna get to bed - I imagine I'll have a lot of work at Vitalis tomorrow."
+	"Yeah... I remember you saying you autopsied the other Giants."
+	"Well, this one will be easier, at least. Say what you like about the Werewolf, but at least I don't need to scoop out this one's organs; that work's been done."
+	She stopped herself. "Sorry, that was a bit grim, wasn't it?"
+	Connor grinned widely. "There are worse coping mechanisms."
+	They shared a chuckle, glad to cut the tension.
+	"Um..." she began. "How did you know about the attack?"
+	Connor paused for a moment, thinking as fast as he could.
+	He hated this part. The lying.
+	"I, um... well, I had a theory the Skinners were the ones behind the recent attacks." he began. "After all, they've got a vendetta against the Werewolf, right? So, I managed to track down this one goon, Leo - I found a bunch of videos on his computer. You know, the ones where the Werewolf comes onto the TV and claims responsibility for whatever they're accusing him of?"
+	"They were fakes?" she tilted her head.
+	"Yeah, for certain. I found one claiming responsibility for a bunch of 'agents' shooting something up, and saying democracy was a lie, and 'they' were 'hiding behind their elections' - I just put two and two together. I--I called the police. Told them what I found."
+	"Except you couldn't give them the evidence, because you obtained it illegally." she nodded. "So, they didn't act on it in time."
+	"When I heard that, I called you guys. I figured, if I could at least get you guys out of there... but I was too late." he sighed.
+	"Hey..." she said softly, taking his hand. "You did the right thing. That counts for a lot. And... you're sure the Skinners are behind the attacks?"
+	"...not them, no." he admitted. "The people they work for - whoever made that 9 foot tall fucker."
+	Chloe nodded again. "That makes sense. I... I'm worried, Connor. Something big is happening, and I feel like I'm stumbling into it blindfolded."
+	Connor's stomach twinged. He felt the pressure rising.
+	He could take that blindfold off. He could tell her everything.
+	And then what?
+	Maybe she'd walk away. Leave Vitalis, go back home and be safe from all of it. Safe from *him.*
+	Maybe she'd dig deeper, now knowing where to look - and get herself killed.
+	Maybe she'd be so afraid, she'd run right into their arms.
+	Maybe--
+	"Connor?" she asked, shaking him from his stupor.
+	"Sorry." he shook his head. "I was just thinking. I wish I knew what was going on, too."
+	"Maybe I can ask the Werewolf. He's already saved my life a couple of times now." she quipped.
+	Connor let out a subdued chuckle.
+	"Hey, don't worry. You're still my favourite saviour." she grinned.
+	"Better be." he smirked. Then, the doorbell made a noise, as two men entered.
+	"Ah, customers." he nodded. "I'll see you in the morning, yeah?"
+	"Yeah, definitely. And - thanks again for this."
+	"Don't mention it." he smiled. She rose, and hesitated, before hugging him. They held it for a minute, before parting.
+	Connor came into the reception area, and chuckled grimly.
+	"Welcome to Riverside Motel, gentlemen. Are you looking to spend a night in our fine establishment?"
+	"I'd love to, but my cats need feeding." Tommy snarked.
+	"Do you have room for Isabella?" Ivan quipped.
+	"Come on. Briefing room's downstairs." Connor nodded, leading them into the basement.
+
+	"Finally, some good fucking news." Shannon sighed deeply, turning her screen. "The deepfake for tonight's attack got released, which has backfired massively - it's proven the others weren't real, since everyone knows for a fact you were saving people there. Zack also interviewed Lena - the girl you saved at the metro station - and she confirmed you weren't the attacker. A lot of people will still believe the lies, but you've regained a lot of trust. Even better, people are outraged that you were framed - the general mood among your fans is that you're the only one who's trying to stop the real terrorists."
+	"About time. It's hard to protect people when they think we're the monsters." Sparky yawned.
+	"What about the mayor-elect?" Connor asked.
+	"Well, she's not made any statements yet - but the council's voted to approve the Terrorism Act provisions." Trey reported. "For the Werewolf, that doesn't mean much - it's not like you need the right to assemble to do what you do - but I bet the bad guys'll use that to crack down on anyone in the city they can."
+	"Like the Hoods." Tommy sighed. "I'll call Pawel - I hate it, but we're gonna have to downscale until this is over."
+	"The inspection you guys were looking at is going ahead tomorrow." Amy added. "I know you've got a lot on your plate, but--"
+	"No, this is what we need to focus on." Connor sighed. "Shannon - go over our intel and start planning."
+	"Any word from Gwen?" Ivan asked.
+	"Yeah - I texted her on the way back. Thank God she was able to get to us on such short notice - but she's laying low now. There's still some loose ends she needs to tie up before she can commit to us full-time; and I agree. Last thing we need is to have to worry about ODIN on top of everything else."
+	"I'll swing by the clock tower on next patrol. If she needs help with any Esper-stuff, we can give her a hand." Sparky yapped.
+	"Good idea. Likewise, if any Esper kids are involved in the trafficking, we might need advice off of her." Connor nodded. "Alright - let's reconvene tomorrow morning. Rest up - we're gonna need it."
+	"I'm gonna go back home. My dad's panicking." Trey began. "If I can help at all, just let me know."
+	"Likewise." Connor smiled, hugging his best friend. "See you around, bro."
+	"Oh, Shan?" Amy added. "Your room's ready. Number 7."
+	"Thanks." she smiled softly. "I'll finish up in here, and go to bed."
+	"I'm gonna go on patrol." Connor nodded.
+	"What happened to resting up?" Amy cocked her brow.
+	"I'm still good to go. And the city needs me, now more than ever." he shrugged.
+
+	The room was oppressively cold. The Commandant leaned against his office window, holding a phone to his ear.
+	"Good work, Dorsey. I expect the sale to go ahead smoothly tomorrow, yes?"
+	"Yes, sir. It's unfortunate that our men were unable to kill Ward. Shall I pull away her guard, and let them finish the job?"
+	"No, keep her around. Anyone with half a brain knows she's opposed to the coming work. When you fail to bring the traitor in, you can use her as a scapegoat."
+	"Very good, sir. Hail Victory."
+	"Hail Victory." the Commandant grinned, and cut off the call. He took a deep breath, and looked out at the horizon, like a king inspecting his realm.
+	Then - there. In the reflection.
+	First, two violet eyes. Then, the man himself.
+	"Oh, George." Oxford growled. "I am very disappointed."
+	"Sir, I--" the Commandant turned, sweating.
+	"You haven't even got tea." Oxford grinned affably.
+	"I--Sorry, sir. I didn't know you were coming."
+	"Not to worry. I won't be long." Oxford smiled. "I must say, the levels of collateral damage wrought have been... concerning. Not to mention the breach of normalcy, with a Jotunn openly assaulting the vote count."
+	"I--I understand, sir. I was working under the impression that we were trying to stoke public fear." the Commandant nodded quickly.
+	"Well, yes. It's called 'terrorism' for a reason, after all." Oxford chuckled. "Still, the implementation of the Act will be a useful test case. We will continue promoting disinformation, though the unfortunate timing of the latest deepfake has hindered that effort. I expect your Gambit proxies to bring this city to heel, yes?"
+	"Yes sir, absolutely."
+	"And the upcoming movement of children?"
+	"It's going ahead, sir."
+	"Excellent. Distasteful it may be, but we need new material. ODIN lost a lot of operatives with the latest 'correction,' so the more, the merrier."
+	"Very good, sir."
+	Oxford turned to leave, but his yellow eyes flashed violet once more.
+	"Oh, and George?"
+	"S-sir?"
+	The Commandant screamed, as his left eye was plucked from its socket by an invisible hand. He tried to resist, but felt his arms snap backwards. Bone shards cut through his skin.
+	"Let that remind you who's in charge. Defy me further, and I will end you. If the public see open evidence of our experiments like this again, you will suffer the consequences. Do I make myself clear to you?"
+	"Yes! Yes, sir!" the Commandant begged.
+	"Excellent. Have a good evening, George."
+	Oxford walked away, as the Commandant desperately re-set his bones against the floor.
+
+	Naismith hesitated, but brought the phone to his ear.
+	It rang for a few seconds, before answering.
+	"Detective." Connor's modulated voice answered. "What is it?"
+	"You've seen the news? Dorsey's virtually declared martial law, and the council's rubber-stamping it."
+	"I know. I'm working on it, but I'm busy with the trafficking ring." Connor said clinically.
+	"Yeah... well, I don't think our little mate Leo is gonna last long in custody. Someone'll silence him." Naismith sighed. "So... I'm not arresting him."
+	"Oh, great. Now Paladin can murder him at home, instead."
+	"Did I say I let him go?"
+	Connor grinned. "Where is he?"
+	"The gasworks - the same ones She-Wolf holed up in. Listen... is there anywhere you can keep him safe?"
+	"Yeah. I'll contact Verdict - get him whisked away."
+	"Good. We need him - he's the only one who can corroborate those deepfakes."
+	"'We,' Detective?"
+	"Shut up, and listen. I think Dorsey's in on this - Norris definitely was, I feel that in my gut. But before we make a move, we need proof, alright? Hard evidence that Dorsey was involved in this week's attacks. Until then, Leo needs protection - if we're gonna expose these bastards, we need him on our side."
+	"Agreed. Hey, Naismith... I appreciate this. You're doing the right thing, okay?"
+	"I hope so."
+
+	Connor stood atop Rydon Tower alone. His trenchcoat fluttered in the night's breeze, and he took a deep, deep breath.
+	Beneath him were swarms of terrified people. And there - hidden in the chaos - was the enemy. The parasites. The scum.
+	The Optimates.
+	His eyes flashed, as he pulled his coat open, and it formed into his wings. The wind pushed against him, and a breath of steam poured out of his mask's grilles.
+	Many still hated him. Most still feared him.
+	It would take a long time before they looked to the skies and saw hope once more.
+	"So be it," he thought.
+	At least they'd be alive enough to fear him.
+	He leaned forward, letting the breeze buffet his wings. Then, he dropped, before soaring once more.
+	He was the Werewolf, and this was *his* city.

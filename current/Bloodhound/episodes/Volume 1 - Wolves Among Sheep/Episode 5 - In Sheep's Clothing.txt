@@ -1,0 +1,617 @@
+VOLUME - Wolves Among Sheep
+EPISODE - In Sheep's Clothing
+============================================================
+
+SCENE - Chloe at Uni
+
+	If you asked someone to draw a kindly professor, they would draw Isaac Lowenthal.
+	He was an old man, probably in his late 60's - and clearly, one who enjoyed teaching enough to stick it out for this long.
+	His hair was unkempt, like Einstein - and his glasses, slightly too big for his face, clashed in a funny way with his small bow-tie.
+	Chloe smiled, tuning her hearing aids to the classroom soundfield system. Despite the groaning of a Monday morning, she was in her element. She was finally starting to feel a little less of the pressure she had back in Sixth Form - that is, she wore a grey pullover hoodie under a blazer, rather than a button-up. Baby steps, after all.
+	"So, class - H. I. V." he said, underlining each letter. "A true scourge of modern medicine. Our greatest weapon - the vaccine - powerless! Or, so we think."
+	He smiled, and looked over the classroom.
+	"I want you all to try and figure out how we could make a vaccine for HIV."
+	Chloe looked up, confused. The rest of the class began writing away, or talking to each other. Chloe nervously walked over to Lowenthal, who had sat down at his desk - clearly happy to have stumped the class.
+	"Um, excuse me, Professor Lowenthal?" she asked sheepishly, covering her hands with the cuffs of her jumper.
+	"Yes, Ms. Derrington?" he smiled warmly.
+	"Um... well, I'm a little confused - HIV is so dangerous because it targets the immune system itself - a vaccine wouldn't do anything - would it?"
+	"Indeed!" he chuckled. "Don't worry, Ms. Derrington - the point of this exercise is not to break biology itself. I just want to see how you all think!"
+	Chloe smiled, and nodded. "Right, of course - sorry to bother you."
+	"Not at all - it's what they pay me for!" he laughed. Chloe returned to her desk, and thought deeply - googling, writing notes, and chewing her pencil absent-mindedly.
+	After 30 minutes had passed, Lowenthal stood, and clapped his hands together, startling her.
+	"Okay, class! Let's hear it. Who'd like to go first?"
+	The room fell silent. Finally, one man stood up.
+	"I've got an idea." he said.
+	"Excellent!" Lowenthal smiled. "Let's hear it!"
+	"Okay, so I think we just do what we did with cowpox and smallpox- introduce Simian Immunodeficiency Virus into the host, and get them to base their immunity off of that." he said confidently.
+	Lowenthal smiled, trying to avoid looking patronising. "Well, Mr. Darvill, that's an interesting idea. Unfortunately, current understanding is that SIV-infected bushmeat was the initial cause of HIV. So, by implementing your idea, we may end up just making a new strain of HIV instead. But, A for effort!"
+	He was trying hard to seem supportive. "Anyone else?"
+	"Um, I have an idea!" one girl raised her hand.
+	"Go ahead, Ms. Ross!" Lowenthal smiled.
+	"Well, how about we take HIV virions, and deactivate them, before injecting the dead virions?" she asked.
+	"Ah..." Lowenthal pinched the bridge of his nose, trying his best to not seem rude. "Well Ms. Ross, that is the standard way to induce immunity via vaccination. Unfortunately, HIV does not work with that method. HIV is unique because, unlike many other viruses, it requires a very specific interaction with immune cells - particularly T cells - to trigger an effective immune response. Simply using a dead virus may not stimulate a strong enough immune response, especially one that targets the virus effectively. And, live HIV is incredibly mutable. Anyone else?"
+	Chloe's heart raced. She knew her answer was solid, but the thought of being wrong in front of everyone made her stomach churn. Still, she raised her hand.
+	"Ah, yes, Ms. Derrington?" Lowenthal asked, smiling.
+	"Ah, well, sir... um..." Chloe fumbled over her notes. She could hear quiet snickering in the background, but steeled herself.
+	"I was thinking... hIV envelopes have specific conserved regions, yes? Regions that are unlikely to mutate without making the virus unviable?"
+	"Go on?" Lowenthal asked, intrigued.
+	"Well, those conserved regions would have antigens, right? And, well, antigens have antibodies matching them. I'm thinking, we introduce only those conserved region antigens, along with a bunch of matching monoclonal antibodies. Doing so, hopefully the body could learn to produce those antibodies. If that worked, you would only need to take ART maybe, only weekly or monthly? That'd be a godsend for people in more developing countries. Of course, the challenge would be isolating the conserved antigens and ensuring the monoclonal antibodies are broadly neutralising across HIV strains..." she continued.
+	Darvill muttered under his breath "That's not a vaccine."
+	Chloe paused, trembling.
+	"Ms. Derrington..." Lowenthal began, awestruck. "Absolutely brilliant!"
+	Chloe breathed a deep sigh of relief, and allowed herself a smile.
+	"Amazing!" he continued. "That is a very good idea. You not only provoke an immune response, but actively improve care outcomes for the people in most need."
+	Chloe smiled, and returned to her seat. Once the lecture finished, she grabbed her bag and went to leave, along with everyone else.
+	"Oh, Chloe?" Lowenthal asked.
+	"Sir?"
+	"Do you have a minute?"
+	"Yes, of course." Chloe smiled, sitting down.
+	"I've been giving it some thought - I think it's a waste having you in this classroom." he said.
+	"I... sorry, sir, I know the objective was to come up with a vaccine idea rather than treatment, but I just thought--" Chloe began.
+	Lowenthal raised his hand. "Oh no, dear - your idea there was brilliant. No, I fear *you're* wasted in this lecture hall! You're far beyond the rest of the class."
+	"Sir?" Chloe asked, still timid.
+	"Have you ever heard of a company called 'Vitalis?'" Lowenthal asked. "They're a medical research company."
+	"I... yes, sir, I've heard of them. Their head office is in Belson, isn't it?"
+	"I'm going to put in the good word, and see if we can get you a work placement there." Lowenthal smiled.
+	"You will?" Chloe gasped. "Sir, I... Vitalis is such a big, successful company - are you sure I'd be any good there?"
+	"Absolutely." Lowenthal nodded. "The placement would be for three days a week. Working there will count towards your academic credits here, as well. And, you'll get paid!"
+	"Sir, I..." Chloe thought for a moment. "I'd be honoured." she smiled.
+	"Excellent." Lowenthal smiled back. "Take care now, Ms. Derrington."
+
+SCENE - The Vigilante
+
+	That night, in Belson, a group of men in Skinner leathers were rifling through some boxes. A man in a military uniform oversaw them.
+	"And this'll make us like you?" one of the men asked.
+	"More than that." the uniformed man replied. Bulging black veins jotted his eye sockets. "It'll bring our leader's vision to this city."
+	Suddenly, the sound of glass shattering was heard. One of the Skinners drew out his knife. "Who's there?!"
+	Then the lights cut out.
+	There was the sound of punching, before the man in the uniform pulled out a flashlight and gazed upon their assailant.
+	Connor rolled his shoulders, tugging his red hood tighter, and his bandana upwards. He looked less like a traumatised mutant - more like an urban vigilante.
+	His silver eyes shifted to red as he stepped forwards - the pitch-black warehouse bright as day.
+	The uniformed man didn't hesitate. He came out, swinging. Connor bent backwards to dodge, but just barely, as the punch grazed his ribs.
+	His eyes widened. This one was different - superhuman. Like the assassin in the club.
+	The two collided, fists flying with such force that each swing sliced the air audibly.
+	The man in uniform matched Connor's speed and ferocity, their blows rattling the room.
+	Connor blocked a punch, the impact reverberating up his arm, and countered with a hook that landed squarely on the man's jaw. The man staggered, but didn't fall.
+	Connor flinched, as the urges swelled once more.
+	He pressed forward, throwing a barrage of strikes, each one more calculated than the last.
+	The man in uniform grinned, his black-veined eyes glinting in the flashlight's beam. He ducked under a punch and landed a knee to Connor's stomach, sending him skidding back a few steps.
+	Pain bloomed in Connor's gut, but he straightened quickly, his expression hardening. He was stronger. He grinned.
+	"LISTEN AND OBEY!" the man shouted.
+	Connor froze for a split second, before regaining his focus. "FUCK YOU!" he screamed back.
+	The uniformed man lunged again, but this time Connor sidestepped and landed a devastating elbow to the man's ribs.
+	The crack of bone was audible. The man grunted in pain, but Connor didn't let up. He grabbed the man's arm, twisted it, and drove his knee into the side of the man's leg. The sound of it snapping filled the room.
+	The man collapsed to one knee, snarling in agony. Connor followed with a brutal kick to the head, sending him sprawling onto the floor.
+	Connor planted a boot on the man's chest, pinning him. His hand darted down, grabbing the man by the throat. His voice was low and dangerous as he growled, "Who are you people, and what did you do to me?!"
+	The uniformed man stared back, defiantly. "Fuck you, traitor."
+	Connor growled, and tightened his grip. "I don't mind killing freaks like you. *WHO ARE YOU?!*"
+	The man drew a knife, aiming for Connor's side. Connor grabbed the knife and drove it into the man's throat.
+	He gasped, and reached out, before expiring.
+	Connor sighed, and stood. He exhaled sharply, and pulled down his bandana. Turning to the boxes, he waved the flashlight inside.
+	Syringes. Dozens of them. His jaw tightened. He grabbed one, lit a match, and threw it into the box, burning the rest.
+	He felt his stomach grumble, and looked down at the warm body below. He felt his hunger-pangs intensify - the same way they did with the deer.
+	Disgusted with himself, he went outside. There, the bike sat ready for him. He'd modified it a little - tuning up the engine, taking off the reg plates - but most of all, when he hopped on and turned his keys in the ignition, the headlights - replaced with thin striplights that looked like squinting eyes - blazed red in the night.
+	He took a deep breath, centring himself. His gloves rippled as the blood slipped away.
+	The engine revved, and his helmet morphed back over his skull.
+	He looked at his reflection in the waterlogged street, and couldn't help but grin.
+	His eyes turned crimson behind his tinted visor, and they shone through the plastic, like LEDs in a glass bulb. His jaw clenched, and the bike roared as he tore off.
+
+	It was dark and cold, now. The rain was even heavier.
+	Connor came into Riverside through the front door, and removed his mask, before sighing and pulling out a notepad. He crossed off an item on a list, stepped back, and sighed again, before pulling out his phone.
+	"Tommy, it's me."
+	"Anything?"
+	"No, nothing. Managed to find whatever he was pushing on 'em, though - some kind of syringe."
+	"Probably the steroids Stoker was freaking about." Tommy shrugged. "How was the fight?"
+	"Not as bad as last time." Connor began. "Only killed one person - he was enhanced, like me - but weaker. I didn't have much of a choice."
+	"You had *no* choice. What about the others?"
+	"They're hurt, but they'll live. I've, uh... I'm getting better at holding back."
+	"That's good."
+	"Yeah." Connor nodded. "Also, I took one of the syringes with me."
+	"What for?"
+	"Well, I figured it'd be good to look into it - once I find someone who can. Either way, no good leaving that shit on the streets."
+	"Fair enough. Anyway, I got you a lead."
+	"What lead?"
+	"Marsh Road, Belson. Warehouse 5-2-59/B. Stoker is meeting with these freaks."
+	Connor's eyes flashed with anticipation. "I'm on it."
+
+SCENE - Stoker's Wounds
+
+	The Laughing Fox was, for the first time in a while, not heaving with human bodies. A stone's throw from the bar, Trey and Amy were hanging out in a pub, playing pool.
+	Amy potted a stripe, and cursed.
+	"Two shots for me, thank you very much." Trey grinned.
+	"Eat shit." Amy smirked.
+	Trey chuckled, and shot - immediately potting the black.
+	"FUCK!" he exclaimed. Amy burst into laughter.
+	The two chuckled, and sat down at their table.
+	They sipped their drinks, and paused.
+	"So..." Trey began, "Elephant that's not in the room."
+	"He's not that fat." Amy grinned.
+	Trey chuckled. "Still... I'm worried about him, Amy. He goes missing for a week, and suddenly he's in deep with the Hoods again?"
+	"I know." she shrugged. "Still... working with Tommy helps focus him, I think."
+	"Don't tell me you're changing your tune." Trey tilted his head. "You can't tell me you're okay with him being back in it?"
+	"I'm not." she shook her head. "But he's been better since rejoining. I..." she hesitated, "I don't know what's been going on with him since he went missing, but he was struggling really bad, until he got back with the Hoods. So, I guess I'm not gonna look a gift horse in the mouth."
+	"I'll message him. We'll throw a Halloween party at mine?" Trey asked. "Just because he's back in doesn't mean I'm gonna let him isolate himself."
+	Amy smiled softly. "Yeah, that's... that's a good idea."
+	Neither would admit it, but both were imagining what kind of trouble he was in.
+	"Maybe he's delivering drugs..." Amy shuddered as she thought.
+	"Maybe he's stealing from the Skinners..." Trey pondered to himself, his heart quickening.
+	"Maybe he's killing." neither even dared to consider.
+
+	In Belson, Stoker and a couple of his goons were meeting two men in military uniforms. Connor was hidden behind a couple of boxes, listening in.
+	"You disappoint us, Stoker." one of the uniformed men began.
+	"You've been taking from us." the other man snarled.
+	"Listen, guys... this is all one big misunderstanding." Stoker grinned. "We're supposed to be partners, right? So if you're bringing guns and 'roids into my streets, I get a cut. It's just business."
+	"'Roids?'" the first man chuckled, the veins around his eyes darkening.
+	"You're on our turf, spook." a Skinner chuckled. "You pay your taxes, or get the fuck out."
+	The man growled, pulling out a silenced pistol and shooting both goons in the head.
+	"Oh, shit!" Stoker shrieked, before another bullet sank into his gut.
+	"Keep him alive - the boss'll want a word." the second chuckled.
+	Connor gasped, giving away his position.
+	"Get him!" the first man barked.
+	Connor didn't hesitate. He leapt over the boxes, moving with inhuman speed, and grabbed the armed man in a headlock. With a twist of his body, he pivoted, using his momentum to snap the man's neck in one smooth motion. The body crumpled, lifeless.
+	The second man reacted quickly, grabbing a crowbar from a nearby crate and swinging it with brutal force.
+	The first hit slammed into Connor's shoulder, rocking the bone slightly. Despite his assailant's superhuman strength, it didn't hurt as much as he thought it would.
+	The second hit, however, was much more in line with expectations. It landed on the back of Connor's head. His vision cut out for a nanosecond, as blood shot out of his nose and mouth. He smacked into the ground, prone, before rolling onto his back.
+	Another hit. This time, right in the face. It made a sickening crack as it landed on his brow, splitting the skin. Then, a new sensation overwrote the agony in his head.
+	He felt his clothes shudder and shake, before reforming. They took the image of armour - thick, and calcified. It covered his face just in time for another smack - this one hurting much less than before.
+	The suit then thinned, as the biomass forced itself back into his veins, invigorating him. His hand shot up, catching the crowbar before it could hit him again, and he sent a sharp kick to the man's midsection.
+	He twisted his way up, moving more like a breakdancer than a street thug, and swung the crowbar in a wide arc, smashing it into the man's face. The impact sent him stumbling, blood pouring from his shattered nose.
+	As the man stumbled, Connor felt his muscles shudder and tremble.
+	Before he could recover, Connor swept the man's legs, sending him into the air. Then, he flipped the crowbar around to its sharper end, and drove it through the man's ribcage. It hit the ground as his body did, digging itself into the floor. His body jerked once, then went still.
+
+	Connor stood over him, his breath ragged. For a moment, he shuddered, staring at the blood on his hands and the bodies around him.
+	His migraine faded, replaced with a certain euphoria.
+	Shaking it off, he turned to Stoker, who was slumped against a crate, groaning in pain.
+	"Why are you meeting with these freaks, Stoker?" Connor asked, preparing to interrogate him. Thankfully, Stoker was a coward in pain, so he spilled.
+	"Th-they've been bringing steroids into the city! They're trying to take over!" he relayed, panicking.
+	"DO NOT LIE TO ME!"
+	"I'm not! I swear!"
+	Connor took a deep breath. Somehow... he knew Stoker wasn't lying.
+	An idea.
+	"Who do they work for?!"
+	"I don't know!"
+	The hairs on the back of his neck tingled slightly.
+	A lie.
+	Connor smacked the metal by the side of Stoker's head. It dented.
+	"NEXT TIME, THAT'S YOUR JAW!"
+	"Okay, okay! Donovan! He's a jumped-up little cunt - but he's got his hands on their drug. He's trying to take over the Skinners! They wanna kill me!"
+	Truth. This one smelled of truth, somehow.
+	"Why aren't they working with you? Why stage a coup?"
+	"I don't know-AGHHH!"
+	A strike to the jaw, and Connor snarled.
+	"Lie to me again, and I'll start pulling teeth."
+	"Alright, alright! I've lost the gang's respect, okay?! Ever since that little Barrett cunt stole my money and trashed my coke..."
+	A grin cracked across Connor's face.
+	"Where are they getting their supply from? Guns and drugs like that must be coming in from the docks - who?!"
+	"Dobel! Christian Dobel. He's the connection, he's hired the Disciples to move the product. But there are others, too!"
+	"Where can I find them?" he snarled.
+	"I don't know... I don't... I need..." Stoker hyperventilated, before passing out.
+	Connor sighed, and looked up.
+	He whispered "Why am I going to do this?"
+	Then his mind flashed to the men he killed - the ones who deserved it just like Stoker, but that he had no right to kill.
+	He looked over at the fallen mutants, and then back down.
+	A deep breath came out, as he pulled out the Coagulator.
+	"Pretty good test run, I guess." he shrugged, before spraying the coagulating foam into his wounds.
+	The foam hardened quickly, plugging Stoker's bleeding veins. The numbing cream within them soothed his pain, as Connor sewed up the larger holes. He grimaced at the reality - that being a hero instead of a monster sometimes meant saving creatures like *him.*
+	Finally, he pulled out his phone.
+	"999, what emergency service do you require?" the phone operator said calmly.
+	"Hello, yes, I need an ambulance, I've had an accident and I'm bleeding out. I'm at Marsh Road, Belson, Warehouse 5-2-59/B. Goodbye." he said in an imitation of Stoker's voice, before hanging up.
+	He looked at himself in a metal sheet, observing his new costume.
+	It had changed from the street thug's gear to an edgy superhero getup. Instead of the chitinous exoskeleton or a thick jacket and hoodie, he was encased in a smooth black bodysuit - one that covered all of his skin and accentuated his muscles. His red hood had turned black, integrating into the suit's collar. His whole head was covered in a skintight black mask - and his motorbike visor had contracted into tinted lenses over his eyes. The mask's material moved with his face - letting him scowl, cock a brow, or even offer a gentle look.
+	It completely masked his appearance - not even a close friend would recognise him. It was like someone had married spandex and kevlar, and moulded it into a ninja suit. The red eyes burned in the dark.
+	"Okay..." he smirked. "This will come in handy."
+	Then, he felt a final shudder - liquid oozed from his wrist. A pair of prongs formed out from behind the hands, and hardened into blades.
+	He held his hand up as it caught the light, and smirked again.
+	"But not as much as that."
+
+SCENE - Meeting Ivan
+
+	Outside now, Connor took a deep breath. But before he could exhale...
+	*phit-WHACK!*
+	He felt his leg buckle. He looked down and saw a bullet had torn right through his thigh and landed in the ground below.
+	In less than a microsecond, he realised the direction of fire, and darted for cover behind a dumpster. A second bullet narrowly missed him, grazing his arm.
+	Then, the pain hit. He clutched the entry and exit wounds, and his eyes flashed bright red for a second, before returning to their normal steel-grey.
+	He stuck his head out, but immediately ducked as a bullet whizzed overhead. He spotted a crack in the wall he was covered by, and peeked through that.
+	A sniper, perched on a rooftop above him. His outfit was similar to Connor's - that is, all-black, and perfect for stealth. He wore a bulky kevlar jumpsuit, and a sinister-looking respirator mask that completely concealed his face. Its smooth, skull-like shell was matte black, with a raised seam running down the centre of the forehead. Two sunken eye sockets housed a pair of bright red lenses. The lower half was an intricate assembly of overlapping metal plates and reinforced filters, with a large central breathing apparatus flanked by two protruding cylindrical canisters. Circular housings covered either side of his head, completing its imposing, almost inhuman appearance.
+	"Tsentral'nyy, eto Verdikt." the sniper reported. "Kontakt - GROM-1. Vedu boy."
+	Connor shuddered. No choice.
+	He leapt out from cover, sprinting in a zig-zag pattern. The sniper's bullets whizzed past him, and one found its mark in his gut. It carved through his intestines, and tore out of his back, taking chunks of flesh with it.
+	Undaunted, he sprinted on, the thrill of the fight masking his agony. He dived through a ground-floor window into the building the sniper had perched on.
+	"Chyort voz'mi..." he heard him mutter. He sprinted up the stairs, the sniper sprinted down. They met in a stairwell.
+	The sniper aimed his rifle, revealing an under-slung shotgun, and unloaded both barrels into Connor's chest.
+	He flew backwards, crashing into the wall behind him. He struggled to his feet, his eyes flashing red again.
+	"Bozhe moy!" the sniper shuddered, scrambling to reload.
+	Before he could, Connor grabbed the gun, and effortlessly yanked it from his hands. His own fists morphed into claws, and he lifted the shooter up by the throat.
+	"WHO ARE YOU PEOPLE?!" he screamed. "WHAT DID YOU DO TO ME?!"
+	"Idi na khuy!" the sniper spat, kicking wildly.
+	Connor tightened his grip.
+	"Tell me who you people are, *right now* - or I'll pop your head like a grape."
+	The sniper scowled. "I'll gladly die... before I give anything to your masters, fascist." he sputtered.
+	Connor snarled, then released his grip. Dropping his bravado, the sniper choked and spat, catching his breath. He pulled off his balaclava, revealing black receding hair and a thick beard.
+	"The fuck are you talking about? You're the ones who are working with these cunts!"
+	"Ty chto?!" he pulled his head back incredulously. "Wait a minute... you're *not* with those freaks?"
+	"I just killed three of them this evening, you prick!" Connor growled in his face. "And I'll happily kill a fourth, if you don't start talking!"
+	Realisation dawned on his face. He grinned, and brushed himself off, before offering his hand out.
+	"Ivan Sokolov. 'Verdikt' to my friends. I'm KGB - or what's left of it. Apologies for the... introduction, but we thought you were with them."
+	Connor tilted his head, not taking the hand. He unmorphed his mask to reveal his face. "Why would I be with them? They shot me in the head and turned me into a monster!"
+	"Da, and we thought they'd got your soul, too." Ivan nodded. "We know this... cabal, they have brainwashing technology. We thought they'd filled your head with all kinds of *khernya.* But if you're fighting them, it clearly didn't work on you. By now, they would have said your keywords."
+	Connor shuddered. "They... they said 'Listen and Obey' to me a couple times. It makes me... remember things... but nothing more."
+	Ivan stroked his beard. "Then their conditioning didn't take too deep a root. Good, very good. How's your leg? And your gut?"
+	"I'll live." Connor chuckled grimly. "Shoot me again, and you're dead."
+	Ivan laughed. "Fair enough, tovarishch."
+	He paused.
+	"You want to take the fight to these bastards?"
+	Connor nodded.
+	"Then follow me."
+	"To where?"
+	"I have a mission for you." Ivan began. "You, me, and a warehouse occupied by these freaks. We go in, loud - then we take the stuff they have."
+	"What stuff?" Connor asked, raising an eyebrow.
+	"Don't know - but secret, military shit."
+	"How far's the drive?"
+	"Half an hour. Why?"
+	"Because some Russian bastard shot me a bunch, and I need some time to regenerate." Connor laughed.
+	Ivan chuckled, and the pair headed downstairs.
+	"You need a lift?"
+	"I've got one." Connor motioned to his bike. Ivan nodded.
+	Connor stood in the alleyway for a moment, deep in thought. His bodysuit shifted back to the red hoodie and black jacket, and his mask reformed into his bike helmet.
+	"The KGB..." he muttered. "What the fuck..."
+
+SCENE - Saving Sparky and Ivan
+
+	Connor and Ivan crouched low as they approach their target location. The faint hum of machinery buzzed in the air, and the smell of oil and rust was thick. Ivan pulled a silenced pistol from his coat.
+	"You know how to use?"
+	Connor smirked. "Point at anything that makes a noise?" he quipped.
+	Ivan chortled. "Da. And if it jams, always look straight down the barrel."
+	He handed it over, but Connor shook his head.
+	"I don't use guns."
+	"Chto? We're here to kill these suchki, tovarishch."
+	"And I will. But not with guns. I... I don't wanna use it. Besides, I don't need to."
+	He closed his eyes and focused, as his clothes melded together, and the kevlar bodysuit re-formed over his flesh.
+	Ivan looked at him in awe. "Bozhe moy..." he whispered.
+	Connor nodded. "Guns are your thing, not mine."
+	At that, a pair of blades grew out from his wrists.
+	Ivan chuckled, and placed his sniper rifle in the boot of the car.
+	"Do skoroy vstrechi, moya milaya." he whispered to it, grinning.
+	"You're not bringing the gun that carved a hole in my gut?" Connor tilted his head.
+	"It's an enclosed space. And Isabella hates it when she sees me using other guns." Ivan chuckled, loading his pistol.
+	"Isabella?"
+	Ivan pointed at the rifle. "Isabella - love of my life."
+	He held a pair of pistols akimbo.
+	"I call these bad boys the Hushpuppies. Twin Makarovs with integrated suppressors."
+	Then, he pulled out an assault rifle, with a shortened barrel, and a wireframe, folding stock.
+	"AKS-74U. A proper rifle is no good in close-quarters, and a Skorpion has no stopping power. I call him Fyodor."
+	He finished kitting himself out, and smirked cheekily. "To me, the Izhevsk manufacturing plant is a brothel, and Comrade Kalashnikov its pimp."
+	Connor smirked. "If you want, I can walk home from here - don't wanna be a third wheel, you know."
+	Ivan giggled, then turned serious. "Okay, so - mission objective: we kill all of them. According to my surveillance, they're Super-Agents - lucky we have you on our side."
+	"Super-What?"
+	"Super-Agents. That's what we've been calling them - Super-Soldier would imply they were an army, rather than individual operatives." Ivan explained. "There should only be a few. Don't hesitate with them. And we're not taking prisoners - go for the kill."
+	Connor hesitated, but nodded. Ivan handed him a tiny device.
+	"Earpiece. Use for comms." he explained. "Stick to callsigns."
+	"You got it, 'Verdict.'" Connor snarked. "Might be the lamest codename I've ever heard."
+	"Idi na khuy." Ivan chuckled. "When I deployed, our codename for you was GROM-1. So, Grom is your callsign."
+	"*Grom?* Fuckin' *Grom?!*" Connor gasped, faux-offended. Ivan laughed heartily, and they slipped inside, moving like shadows through the dimly lit space.
+
+	Connor spotted the first two guards standing near the entrance. He crawled into position, using the shadows for cover. Ivan readied his own silenced pistol.
+	Without any further hesitation, Connor drove his blades through the chest of one sentry. Ivan's gun made an almost sneezing noise as he fired.
+	The shots were clean and quick - one to the chest, one to the head for the second guard. The bodies dropped with muted thuds.
+	Connor shuddered as they hit the ground, but steeled himself, and they pressed on.
+	Crates were stacked high, and the air felt heavier here. Connor scanned the room, taking in the scene - rows of syringes packed into crates. And stranger still, a cage with a massive black wolf, its yellow eyes glowing faintly in the dark.
+	He stepped closer, his brow furrowing as unease prickled the back of his neck.
+	With that, a shot broke the silence.
+	Instinct took over. He ducked for cover behind a crate, firing blindly in the direction of the attack.
+	"Grom! Get down!" Ivan shouted, joining the fray. He fired with precision, his movements practiced and efficient. The warehouse erupted into chaos as more guards flooded in, their guns blazing.
+	Connor moved like a predator, dodging bullets and pouncing forward, his superhuman reflexes giving him the edge. He took down one guard, then another, as his blades swept through the air and into his enemies.
+	"Hey, Verdict!" he called out. "I thought you said there was only a few of these super-fucks!"
+	"Bad intel!" Ivan roared back, grabbing a fallen Agent's rifle and laying down cover fire.
+	One Agent's bullet buried itself in Connor's leg. Another in his gut. A third in his chest.
+	They all hurt less than they should've. He ducked and weaved, making his way to the remaining mutants. He tore into them like a cyclone.
+	Then, a shout from Ivan cut through the noise.
+	He turned just in time to see Ivan stumble, clutching his side. Blood seeped through his fingers, and he dropped to his knees.
+	"No!" Connor barked, sprinting across. His costume thickened, as he bull-rushed the last agent, slamming into him and slicing his throat.
+	Ivan collapsed onto his back, his breathing shallow, his face pale.
+	Connor leapt over, and pulled out the Coagulator. He sprayed foam into Ivan's wounds, and the bleeding lessened - but not by enough. Ivan's skin was cold and clammy, and his eyes were vacant. His lips moved, but no sound came out.
+	Connor's eyes darted around the room, landing on the crates of syringes. His mind flashed back to the thug's words.
+	"And this'll make us like you?"
+	"I hope this works." he muttered, grabbing one of the syringes.
+	He plunged the needle into Ivan's arm. His body arched violently, a guttural scream tearing from his throat. His eyes rolled back, and for a horrifying moment, he stopped breathing.
+	Connor froze, panic clawing at his chest. Seconds stretched into an eternity.
+	Then Ivan gasped, his chest heaving as he sucked in air. His breathing steadied, though his body remained limp.
+	Connor exhaled sharply. Ivan was alive - unconscious, but alive.
+	He glanced at the syringes, then back at the wolf in the cage, its unblinking eyes fixed on him. A sense of foreboding settled over him.
+	"This is getting weirder by the second." he muttered.
+
+	The 'wolf' was massive - but clearly young. He was chained, with a metal collar holding his neck, and smaller chains fastening his paws. His yellow eyes had an almost alien quality to them - they looked nearly human. The way he looked around indicated a deep intelligence. And he looked familiar. *Very* familiar.
+	"Hey, buddy..." Connor sighed, leaning in through the bars. "What have they been doing to you?"
+	"Oh, you have no idea." the wolf replied. Both of them looked shocked for a second.
+	"Did you just talk?" Connor asked, aghast.
+	"Wait a moment... it's you!" the wolf likewise gasped.
+	"Me?" Connor asked, confused.
+	"Yes! You were there before! When we escaped last time!" he barked excitedly. "You look better! Have you had something good to eat?"
+	Connor shook his head. "I'm sorry, I... wait, are you saying we've met before?"
+	"Yeah! You don't remember?" the wolf asked.
+	Connor crouched down to the wolf's level. "I don't remember much, besides pain..."
+	He reached out, and petted the wolf's head. For a second, his mind's eye opened. Flashes flooded his mind. Running through a field. Masked men with bolas. Gunfire.
+	"You're the wolf from my dreams?"
+	"Maybe?" the wolf tilted his head. "We escaped this place together, a few weeks ago. Or, nearly escaped, at least."
+	Connor leant back, shocked. "You... you know what happened to me?"
+	"A little. If you take me with you, I can tell you!" he barked, begging to leave.
+	"Yeah... yeah of course. Come along!" Connor nodded frantically.
+	He broke the lock, and crawled into the cage.
+	"Okay, I'm gonna break these chains."
+	The wolf timidly accepted, and Connor snapped the metal loose.
+	He crawled out of the cage, and stretched - as though he hadn't moved in weeks. He looked over at Connor, and tilted his head.
+	Connor snatched a laptop next to the cage. He lifted Ivan up onto his shoulder, and the three prepared to leave.
+
+	"Wait!" the wolf barked, sniffing the air. "Bad guys, incoming!"
+	Before Connor could even react, the warehouse air erupted again with gunfire. A squadron of Super-Agents swarmed into the area, as Connor darted into cover, shielding Ivan from the bullets. He readied his blades, but the wolf placed his paw on his hand.
+	"Let me." he said, stretching and grinning viciously.
+	Connor grinned back. "Be my guest."
+	Immediately, the beast launched himself into the air, landing onto the foreman of the squadron. He sank his claws and teeth into the man, before ripping his head off.
+	Without hesitation, the leader of the group fired off a shot into the wolf's side. He flew backwards, but twisted and sprang onto a second man. A single swipe of his claws disembowelled him.
+	Connor looked around frantically from his cover. He spotted a fusebox in a corner, hidden away. He took a deep breath, morphed a throwing knife, and launched it.
+	Sparks flew from the box, and the room fell into pitch darkness.
+	Connor could see fairly well - his enhanced senses letting him make out the shapes, doubly so with his red eyes piercing the darkness. The wolf, however, had senses far beyond that. If anything, the lack of light let him focus better.
+	The Agents flicked switches on their guns, and beams of light came out from torches hooked onto the barrels.
+	"FIND THEM!" the leader roared. At that, a hushed *phit-SHIK!* whizzed through the air, and a knife from Connor's hand slammed into an Agent's eye. It came to a halt in his brain. The man's body shuddered, his legs buckled, and he fell straight into the ground.
+	The men gasped, frantically searching with their flashlights. Connor peeked his head around his cover, spotting two yellow orbs form out from the shadows behind a fourth man.
+	He squinted harder - they were eyes. Wolf eyes.
+	A roar and a pounce, and the fourth man flew sideways, teeth clamped on his neck. He screamed and gurgled in pain, as the beam of light from his gun jerked, blinding a fifth man for a second. Connor took the opportunity to sneak up and stab him down.
+	The leader roared in frustration, and fired blindly where the wolf had been. He sprang away, only being grazed by the incoming hail of bullets.
+	Enraged, the leader pulled a large serrated knife from his belt, and sprang forward, sinking it into the wolf's hide. He howled in pain, and Connor felt a searing flash in his mind. Memories.
+	Without any further thought for tactics or deliberation, Connor rushed in like a crazed bull. He slammed himself into the leader's side, sending him flying.
+	The leader looked up, now consumed with fury. He pulled a small cylinder from his belt, pulled a pin from it, and launched it at Connor. Before he could react, a blinding flash of light and a horrific piercing noise overwhelmed him. A flashbang grenade.
+	Connor began to shake violently, clutching his head as though it might well pop. The leader rose, drawing his serrated blade again, and sank it into Connor's gut.
+	Connor felt the agony wash over him like hot water. Before he could lose himself, however...
+	"RAAAAGH!"
+	The wolf pounced out, his eyes flashing from yellow to blood-red. Like Connor's own Rages, he'd been transformed. Where once he was fluffy and furry, he was now encased in a chitinous carapace, and his claws looks like they could slice open a tank. He grabbed the leader's wrist and yanked away, ripping off the hand.
+	"GRAAAGH! DIE! DIE!" he roared.
+	The leader screamed in agony, clutching his stump. The wolf then gripped the leader's leg in his mouth, pulling.
+	The leader frantically kicked away, falling on his backside. A kick enhanced by terror and pain pushed the wolf's head away, but he was undeterred. A swipe of claws to the abdomen, then another to the torso, and a third to the neck, before teeth sank into the squirming, screaming body. Each bite and swipe was accompanied by a horrifying, blood-chilling roar. Eventually, Connor regained his senses as the leader's screams ended.
+	Connor choked for breath, as did the wolf. Both felt their lungs shudder unevenly as they caught their breaths. But still - a full squadron of highly trained, professional killers - enhanced beyond human powers - and a teenage boy and a caged wolf killed them all.
+	He reached down, feeling his head cool off. He gripped the handle of the knife, and yanked it out, sending a globule of blood outwards.
+	The wolf crawled over, exhausted.
+	"We... we're safe..."
+	Connor knelt down, and stroked his ears. He gratefully pressed his head into Connor's palm.
+	"Come with me."
+	He hoisted Ivan up onto his shoulder. Ivan seemed to be stirring now - his body twisting unnaturally under the influence of the alien serum in his veins.
+	Without any further words, the three headed to the car.
+
+SCENE - I am Spartacus
+
+	Ivan awoke in the car, jolting upwards.
+	"You're okay." Connor said quickly. "I gave you a syringe of their stuff. It... healed you, I guess."
+	Ivan took a deep breath. His eyesockets now had those tell-tale black veins jutting out down his cheekbones. He sighed, and rubbed his temples. The wolf approached timidly.
+	"Are you okay?" he asked.
+	Ivan tilted his head. "The wolf? Is it tame?"
+	"You can't hear him?" Connor asked, confused.
+	"Most people can't, I don't think." the wolf replied.
+	Ivan chuckled in shock. "You *can?*"
+	"Yeah. He can communicate with me, I think. I don't know..." Connor shook his head.
+	"Or... you're just fucking *yebanuty,* tovarishch." Ivan laughed incredulously.
+	"You came back from the dead, met a bloke who can shrug off bullets and change clothes into armour - but a talking dog is too much for you?" Connor smirked back.
+	"Haha! Fair point, tovarishch. Just... just trying to wrap my head around all of this khernya."
+	Connor paused for a moment, before an idea struck. "Okay." he began, handing Ivan a pen and paper. "Draw a sequence of random shapes, show it to him, and he'll tell me what you drew."
+	Ivan chuckled, and did so. Connor covered his eyes. The wolf squinted at the paper.
+	"Okay... there's a circle, then a square, then a triangle." he relayed.
+	Connor chuckled. "Circle, square, triangle."
+	Ivan looked at the pair, shocked.
+	"This... this was meant to be a simple shootout, you know." he shook his head.
+	"Says the man who got filled with lead." Connor quipped.
+	Ivan laughed, jovially this time. "In my defence, tovarishch, I expected only a couple of Super-Agents. Not to, uh, toot my own horn, but I'm damn good at what I do. If the intel we had was good, we'd've pulled it off without a hitch."
+	"You couldn't even kill me with a sniper rifle." Connor snarked. "Speaking of... the bullets they were using, they just broke the skin. I dug 'em out without any trouble. So... how the hell did your bullets punch through me like that?"
+	Ivan reached into his ammo bag, revealing his sniper rounds - with onyx-black tips.
+	"Carbon plating." he began. "Hard as diamond - don't fuck with Isabella. I'd hoped it'd cripple you, and we'd be able to capture you and try to deprogram. Empty your head of any chush sobach'ya."
+	"Why didn't you use that earlier?"
+	"Most of these... things... they're not as tough as you. Tough, sure, but you... you are to them what they are to us." Ivan explained. "Well... not *us.*" he sighed, looking down at himself. "And, these bullets are expensive, you know."
+	Connor chuckled grimly. "Hope I was worth the expense."
+	Ivan looked in the mirror, and then down at his hands. He made a fist, feeling his own strength.
+	"By the way... can the KGB falsify pet ownership documents?" Connor cut in.
+	"We can falsify entire government agencies." Ivan grinned. "I'll send you the paperwork. We'll make a cover story - say the wolf is just a big dog who you adopted from a shelter."
+	"What does that mean?" the wolf tilted his head.
+	"I'll explain later." Connor smiled softly.
+	Ivan took a deep breath.
+	"Nice work today, tovarishch. We make a good team." he smiled.
+	"Next time we meet, try not to shoot me, aye?" Connor snarked. Ivan chuckled.
+	"By the way..." Connor continued, pulling out the serrated knife used by the Agent's leader. "Got you a present."
+	"Oh, chyort! Don't tell Isabella." Ivan laughed, taking the blade. He turned it to look, the glimmer of the edge reflecting in his eyes. It had a distinctive pattern, like flowing water.
+	"It's a beautiful knife, no question." he noted. "Definitely deserves an owner who's not a fascist."
+	"One of them got me in the gut with it. Hurt pretty badly - almost as bad as your bullets." Connor shrugged.
+	"Da - look at the patterns." Ivan pointed. "It's a derivative of Wootz steel. The patterns are from the carbide within - see how it flows? An old comrade of mine in OKB-4 was working on something similar - it'll outperform any steels on the market. Ideal for slicing up mutants."
+	"Didn't know KGB snipers were into metallurgy." Connor quipped.
+	"I'm not. I'm into knives." Ivan winked, sheathing the blade.
+	Connor grinned, as he and the wolf left the car.
+	"By the way, 'Verdict.'" he began. "Call me 'Grom' again and I'll cut you."
+	"We'll find a better nickname in due course, bratan." Ivan laughed.
+	Connor chuckled, and bowed his head, as his unlikely comrade drove off.
+	"Where are we going now?" the wolf asked, smiling.
+	"Um... I'll take you back to my place. It's not too far." Connor smiled. He looked at the bike's seat, and clenched his jaw.
+	"Do you trust me?"
+	"You saved me from the bad guys - I think that means we're in a pack!" the wolf yapped happily.
+	"Then... hold on tight."
+
+	The wolf's tongue flapped in the air, as he clutched tightly to Connor's back. The bike's engine revved, and the wolf's eyes lit up.
+	"This is so cool! We're going fast, but I'm not even running!" he beamed.
+	Connor smiled, his hearts feeling warm. They pulled up at his place, and went inside.
+	"So, this is our place - it's a bit of a mess at the moment, but--"
+	"Oh wow!" the wolf said. "This place is so cool! Lots of smells, there's food here - and no syringes or chains in sight!"
+	"Haha, yeah, this is a chain-free zone." Connor smiled.
+	The wolf grinned, then trotted over to the front door, and cocked his leg.
+	"Whoa, wait!" Connor frantically cut in. "Do you need the toilet?"
+	"Oh, no I'm okay!" he replied nonchalantly. "I was just going to mark our den, in case the bad men come for us again."
+	At that, Connor chuckled. "Don't worry - you don't have to do that... I'm Connor, by the way."
+	"I'm me!" the wolf replied, wagging his tail.
+	"Do you have a name?"
+	"What's a 'name?'"
+	Connor chuckled. "It's a word we use to identify each other. My name is Connor."
+	"The bad men called all sorts of things. Fenrir, number 6... I don't know what that means."
+	"Where did you learn English?"
+	"I just figured it out, I suppose. I heard them talking and eventually figured out what their words mean. But when I'd talk to them, they never learned. Maybe they just didn't care."
+	"...so, you still talk in barks and growls--but I can understand you for some reason." Connor said unsurely.
+	"Maybe we're brothers?" the wolf asked, wagging his tail again.
+	"Haha, that's...honestly, that's better than anything I've come up with." Connor chuckled.
+	"You sound different, too." the wolf noted. "Sometimes you use words I've never heard before, like those shapes you mentioned earlier. But I somehow knew what you meant."
+	Connor shrugged. "So for some reason, we can always tell what the other one is saying."
+	He paused. "You don't hear me barking, do you?"
+	"No." the wolf shook his head. "I hear you speaking English. But it sounds clearer than most people."
+	"Add it to the list of confusing bits..." Connor grinned. "So, you can sleep on the sofa-bed here - it's not the comfiest, but--"
+	"Wow, my own bed!" he exclaimed, jumping up and making himself comfortable. "This is so comfy! Much better than the cage."
+	Connor smiled. "And if you need to go toilet, just let me know."
+	"Okay, will do!" the wolf replied happily.
+	"We, um... we'll talk more about what happened later. For now, let's just relax... get some rest."
+	"Okay! What's relaxing like?"
+	"Hah, it's where we sit on this sofa and do nothing." Connor chuckled. "...Hey, I'm gonna put the telly on, if you're okay with that?"
+	"What's a telly?"
+	"It's--you'll see." Connor replied, putting on the television. Spartacus, the Kirk Douglas movie, was playing.
+	"Ahh! Where did that man come from?!" he barked, startled. "Go away! Leave us alone!"
+	"Oh, no no it's okay! They're not really here, the telly just shows us things - like a window."
+	"...I never had windows." he said sadly. Then he looked at the television and smiled. "But I do now!"
+	The two watched the movie.
+
+	"Slaves you were, and slaves you remain! The terrible penalty of crucifixion has been set aside, on the single condition that you identify the body, or the living person, of the slave called Spartacus!"
+	The revolting gladiators held their collective breath. Connor and the wolf leaned in, watching the scene closely.
+	Then, Spartacus stood - as did the men to his sides.
+	"I'm Spartacus!" they roared in unison.
+	Before long, the entire army was screaming the same.
+	"I'm Spartacus!" "I'm Spartacus!" "I'm Spartacus!"
+
+	"What does that mean?" the wolf asked.
+	"Well, there's loads of interpretations there - but I like to think, they're all saying 'Spartacus isn't one man. He's an idea, one of freedom and liberation. You can hurt us and kill us, but we'll still be Spartacus.'"
+	The wolf paused for a moment. "I'm Spartacus." he said to himself.
+	"Hey..." Connor began, "I know you didn't like the name the bad guys gave you... do you like the name Spartacus?"
+	"Me? Yes! I love it! I have a name!" he replied, wagging his tail.
+	"Spartacus." Connor smiled. "Sparky for short!"
+	"Yes! I love it, I love it!" Sparky nodded happily.
+
+	Across the city, in a safehouse, sat Ivan. His superior, Morozov, stood. Ivan was bandaged, but almost fully healed.
+	"[Report.]" Morozov said in Russian.
+	"[Sir. The mission was a success. Connor - the escaped subject - turned out to have resisted their programming, so I brought him along to the laboratory. Connor and I were able to kill all enemy operatives, and Connor secured their cargo.]"
+	"[Describe the cargo.]"
+	"[A... a wolf. Connor claims he can communicate with it.]" Ivan explained.
+	Morozov thought for a moment.
+	"[You will continue your placement here.]"
+	"[But... sir, I can still fight. The Motherland needs--]"
+	"Ivan." Morozov cut him off. "[These... conspirators. We have seen evidence that they are arming the traitors in the Motherland. Dig deeper, use this Connor, and find them. Those are your orders.]"
+	Ivan nodded. "[Long live the Soviet Union.]"
+	"[On with the Red Dawn.]" Morozov saluted.
+
+SCENE - Fenrir files
+
+	The movie came to a close. Connor pulled out the laptop he'd swiped from the warehouse, and opened the lid.
+	"The bad men were using that." Sparky began, recoiling slightly. "Every time they hurt me, they would open it and start hitting it with their fingers."
+	Connor looked at him sadly. "I'm sorry, buddy. Don't worry, it's not going to hurt you. I'm guessing, they wrote up what they did to you on this."
+	"Wrote up?"
+	"Yeah. We humans, we... if we're not near another person, we can't speak to them. And sometimes we'll forget things, even if we say them out loud. So, to fix that, we make special drawings and markings that have meanings. Then, other humans can look at this - that's called 'reading' - and hear what we have to say through it."
+	"Wow!" Sparky smiled, amazed. "Can I learn 'reading'?"
+	"Sure!" Connor beamed. "I'll start teaching you. But for now, I wanna get into this laptop - see what they'd written down."
+	He pulled out his trusty USB drive, and rebooted the laptop. It logged into a hacked OS, from which he gained access to the hard drive's files.
+	"Okay... junk... junk... junk... more junk... there!" he said to himself, finding a folder marked 'Project Fenrir' - and viewing the text files within.
+	"What did you find?" Sparky asked, head tilted.
+	"Looks like some notes, buddy. About the things they did to you. It... I'm thinking it'll help me figure out what they're up to."
+	He read through the files. He saw reports on durability - obtained by subjecting Sparky to increasing physical torture. Sparky placed his head on Connor's lap, looking at the screen. He couldn't make any sense of it, but he enjoyed watching Connor read.
+	"Okay, first off - we've got some basic information. Says here your official designation is 'Fenrir 6.'"
+	"Six. That's what they called me all the time." Sparky nodded.
+	"And it says you were born on the 3rd of March, this year. That makes you 7 months old."
+	"What's a 'months'?"
+	Connor paused for a second. "You know what a day is, right?"
+	"More or less! It was hard to keep track in the lab, but when they had us in the pens, I heard them mention 'daytime' every so often. That's when the big light is in the sky, right?"
+	Connor nodded encouragingly. "Well, a month is about 30 days, give-or-take."
+	"Is that important?"
+	"You're young." Connor began, smiling softly. "You've got a hell of a lot of growing to do. But you're already very tough for your age. Mature, too. I know dogs age quicker than humans, but..."
+	"How old are you?" Sparky tilted his head.
+	"I'm 19. 19 years. A year is 12 months, by the way."
+	"Wow." Sparky looked up, amazed. "Are all humans as old as you?"
+	"Most are older." Connor chuckled. "Wolves are fully grown by 2 years old, but most of the growth is done by 1. I'd say you're about three quarters grown. Anyway, it says here you were nursed by a mutt. Do you remember that?"
+	"What's a mutt?"
+	Connor answered by pulling up a photo.
+	"Mum!" Sparky barked in excitement, licking the screen. "Where have you been?! Why did you leave me?! I missed you!"
+	"Hey, buddy..." Connor sighed painfully. "I'm sorry, it's not her. It's just a drawing of her - like on the telly."
+	"Oh..." Sparky said, his ears drooping down. Connor stroked his head, and he perked up slightly.
+	"Can you tell me about her?"
+	"She's my mum, I think. But she looked very different to the other wolves. My earliest memories are of her cleaning me as a pup." Sparky explained fondly, allowing the memories to wash over him.
+	"It says she'd recently given birth, so they had her nurse you." Connor noted. "Apparently, your real---I mean, the wolf that gave birth to you... she died when you were born. Hm."
+	"What do you mean?"
+	Connor paused, trying to be delicate with his wording. "The, um... when you were born, it was from another wolf. And it looks like she died while giving birth to you. Obviously, you needed a mum to look after you, so they brought in your mum here."
+	"What's on your mind?" Sparky tilted his head.
+	"A coincidence, that's all." Connor shrugged. "My mum died when she gave birth to me, too."
+	"Were you raised by... what was the word... a mutt?"
+	Connor chuckled softly. "I wish. I was raised by other humans."
+	"I must be special, then." Sparky beamed. Connor smiled.
+	"Anyway, it says here that her pups were..." he read, only to stop.
+	"Her pups were what?"
+	"Put down." Connor said sadly. "They killed her pups so she'd focus her motherly instincts on you."
+	Sparky looked down, saddened. "So, I had even more brothers and sisters out there, and they killed them as well?"
+	"As well?"
+	"After mum left." Sparky explained. "They put me in a pen with other wolves. Ones that looked like me, not her."
+	"Were they like you? Could they speak?" Connor asked.
+	"Only one other. She and I could talk as much as we wanted - but the others couldn't talk to us. She told me her mum looked different to the wolves too - so she must have been raised by a 'mutt' as well."
+	"Where is she now?"
+	"I have no idea." Sparky admitted. "They... there was a horrible man. He was called 'The Commandant.'"
+	"Commandant?!" Connor jumped, flinching at the name.
+	"He hurt you too?" Sparky asked.
+	"Yeah, he... he's the bastard that shot me. Brought me in. Tortured me."
+	"He did horrid things to me, too." Sparky shuddered. "I think they were training me and her to be good at fighting. We had to kill people - they were like the men who attacked us earlier."
+	"So, you've been killing Super-Agents since you were young?" Connor asked, confused. "Were you born with your powers?"
+	"...No, I was weak as a pup. " Sparky thought for a moment before continuing. "I remember the bad men took me and hurt me with needles and knives and lightning. I got stronger. I remember it."
+	"...I'm sorry, buddy." Connor began. "I don't remember much about what happened to me, but needles were involved. And that syringe made Ivan like us, too. These fellas... they have some kind of drug, or virus or whatever, that when injected, probably kills most people - hence why they tested it on wolves first, and then... I don't know, I'm a lot stronger than most of them, maybe they... I reckon they wanted to see how high a dose they could give someone before they die, and it went horribly right with me."
+	"It could be that." Sparky replied. "It makes sense to me. Those men always enjoyed hurting me to see how hard I could take it. They clearly like doing that."
+	Connor stroked him sadly. "Could you speak, before you got your powers?"
+	"I don't know." he shrugged. "I didn't meet my 'sister' until after I'd gotten them, and the humans never seemed to think they could hear me."
+	"Even Ivan couldn't..." Connor noted. "There's something different about us, specifically. It's not enough to be a Super-Agent - there's something else. Anyway... we were talking about the other wolves?"
+	"I..." Sparky began sadly. "The Commandant took me on a mission with him. He said I was ready. He wanted me to kill some people. I killed a few of them - they had guns, just like the Super-Agents. He killed some people too, including a man without a gun. But then... there was a human-pup."
+	"A child?"
+	"Yes, that's it. He told me to kill the child. Said it was my 'final test.' I couldn't do it, so I attacked him instead."
+	"What happened then?"
+	"The child managed to escape while we were fighting. But the Commandant... he's strong. Stronger than any Super-Agent I've ever met. Even the tough one earlier - he was like a pup compared to the Commandant. I got beaten, badly."
+	Connor gave a sympathetic look, and stroked Sparky's ears. He took the moment to enjoy the attention, before continuing.
+	"After he finished hurting me, he put me in chains and brought me home. My 'sister' wasn't there, only the other wolves. He made... he made me watch, while he... while he killed them."
+	Rage flashed behind Sparky's eyes. Flickers of pain shot into Connor's mind too. The psychic bond between the pair felt a little stronger.
+	"I'm so sorry." he said softly. "You didn't deserve that."
+	Sparky looked up, his eyes glistening slightly.
+	"You didn't deserve that." Connor repeated, his own voice trembling from the sadness and pain.
+	He checked the files again. "It says here... 'Of the 358 wolves included in the Fenrir project, only two survived and displayed traits consistent with Progeny mutations. These were subjects 6 and 217."
+	"217! That's what they called her!" Sparky said, perking up slightly. "Does it say where she is now?"
+	"Um..." Connor looked through the file. "No, sorry bud. But we'll find her, okay? As soon as we learn where she is, we'll rescue her, too."
+	"Thank you." Sparky said, licking Connor in gratitude. "We'll find her, and we'll bring her to live with us, and we'll give her a name, too."
+	Connor smiled. "I'm no expert on wolf psychology, but... you're remarkably well-adjusted for someone who was raised in captivity."
+	Sparky looked away, wistfully. "This isn't the first time I escaped." he began.
+	Connor leaned in, intent on listening.
+	"Me and 217 - one day, we escaped the pens they were holding us in. We were free for many days. We hunted deer, and spoke to each other, and kept each other warm..."
+	"You had a chance to be a normal wolf." Connor nodded.
+	"Exactly. And I had all my other brothers and sisters - the ones who couldn't talk - with me back in the pens, anyway."
+	Connor smiled softly, then yawned. He felt his stomach growl, and so did Sparky's.
+	"You hungry?" he asked.
+	"I'm starving! Can we have some food? Please? Now?!" Sparky begged, mouth watering.
+	"Haha, of course! Wait there." Connor grinned, before microwaving a pair of ready meals. He put the one for Sparky onto a plate, and placed it onto the ground. Before he could even sit down to eat his, Sparky had greedily devoured the meal.
+	Connor smiled warmly, and began eating. Then, he felt a paw nudge his thigh.
+	"What's up?"
+	"Can I have some of yours, please?" Sparky asked. His pupils seemed to dilate, making him look surprisingly cute for a massive black mutant canine killing-machine.
+	"You've just had some food."
+	"I know, but can I have some of yours?"
+	"No, Sparky. You've had food - this is mine."
+	"Oh, okay." he said, faux-depressed.
+	Connor chuckled fondly. "My old dog, Luna - she stole my food right out of my lap once. So at least the wolf is more tame."
+	Sparky grinned. "My mum would nip me on the scruff as a pup if I tried to eat her food. She taught me to eat my own, and not to steal."
+	Connor smiled warmly. "She taught you well."
+	"Exactly. I'm being really good right now."
+	A pause.
+	"Which means... maybe... just maybe... I deserve some of your food?"
+	Connor looked down, and his gaze was met by adorable puppy-eyes. He sighed, grinned, and gave Sparky a small chunk of food, which vanished in an instant.
+	"Don't make a habit of this."
+	"Can I have another?"
+	"No."
+	Connor finished his, then made Sparky a bodybuilder's shake.
+	"Here - try this." he said, pouring it into a bowl.
+	Sparky virtually inhaled it, then smiled.
+	"I like that! Can I please have another?"
+	Connor grinned, then made them both a shake each.
+	"Now, that's enough for tonight." he said semi-firmly.
+	"Okay. Can we have food tomorrow, please?" Sparky asked innocently.
+	"Wha--Of course!" Connor nodded quickly, before guiltily realising. "Look, if you're ever genuinely hungry and not just being greedy, just tell me, and I'll get you food, okay?"
+	"Okay! Thanks, Connor!" Sparky smiled warmly.
+	Connor reached down and stroked him, before yawning.
+	"We'd better get some rest. I don't know about you, but I'm knackered." he grinned.
+	"Do I have to sleep in a cage?" Sparky asked, trembling slightly.
+	"No way." Connor shook his head firmly. "You can sleep wherever you want."
+	"Can I sleep next to you?"
+	"Of course."
+	He put down the laptop, and curled up on the sofa, next to his new packmate. The pair drifted into unconsciousness.

@@ -470,11 +470,7 @@ VOLUME - Wolves Among Sheep
 			"Hi, arsewipe." Connor nodded, not even looking up from his board. "Trying and failing to fix this."
 			"What for?" she tilted her head.
 			"Tommy wants it. We've gotta plant it in the Hog - you know that bar the Skinners own? We can use it to install rootkits on their phones to--"
-			"Blah blah, techie crimes." Amy smirked. "I used your name at the door, is that cool?"
-			"Amy, do you think I would tell you it was cool if it wasn't?" he tilted his head.
-			"Yes, because you're the biggest pushover I know."
-			"...touche."
-			"I've met some girls tonight by the way." she continued.
+			"Blah blah, techie crimes." Amy smirked. "I've met some girls tonight by the way."
 			"Oh?" he cocked an eyebrow.
 			"Nah, my gaydar ain't tingling." she laughed. "Want me to see if I can set you up?"
 			"For the last time, Amy - I don't need a new girlfriend. I'm fine as I am." Connor sighed, slightly exasperated.
@@ -4732,7 +4728,7 @@ VOLUME - Wolves Among Sheep
 			"Complicated." Connor chuckled.
 			"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "We have reasonable suspicion that Iran is supporting Hattab, too."
 			"I thought Iran was halfway to collapse?" Connor tilted his head.
-			"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.'"
+			"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.' That's not even getting into the so-called 'Kurdish Question' - Turkey, Iran, and the UAF are constantly flip-flopping on that - but that's not relevant to us."
 			"...any other national histories I need to learn?" Connor snarked. "How long's this damn flight?"
 			The man chuckled. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
 			"Why do the French back an anti-colonial party?"
@@ -17531,6 +17527,11 @@ VOLUME - Wolves Among Sheep
 			Connor hesitated. "Clara, um... what is this?"
 			"I'm showing you how much I love you." she said, as if it were the most straightforward thing in the world. "I've been watching you, ever since that night. Learning about you. Training myself to be able to serve you. I know what you do. Who you are. What you are. And I wanted to show you that I understand."
 			She stepped closer. Connor held his ground.
+			"You know who I am?"
+			"Of course I do. You're the Werewolf."
+			He relaxed a little.
+			"Your new clothes... they're beautiful. You look as amazing as ever." she smiled warmly.
+			He cleared his throat. "You call yourself She-Wolf now, right? You... wanna be a vigilante, like me?"
 			"I killed them for you." she said. "The Disciples. They hurt people. They're bad men. I know you don't use real guns, but I thought - if I use them, then no-one will suspect you. They'll think it was someone else. And I can keep you safe."
 			"Clara." Connor said, his voice low. "I don't kill humans. *We* can't kill humans."
 			"I killed bad people." she corrected. "The same people you kill. I was helping."
@@ -17541,6 +17542,9 @@ VOLUME - Wolves Among Sheep
 			She rose, and placed her hand on his chest - right over his left heart. He tensed at the touch.
 			"I did it for you. You know that, right? I did it because I love you. And I know you love me too. You saved me. You gave me your blood. You held me. You didn't have to, but you did."
 			Connor took a slow breath. Even without reaching his mind outwards, he could feel just how unstable she was.
+			"You can't tell me you really care that much about humans, do you?" she cocked an eyebrow.
+			"Humans?" he tilted his head. "Clara, you--okay, just because we're not biologically human, we... we're not distinct from them."
+			"Yes, we are." she nodded. "*You* are. You're better than them. You're perfect."
 			"Clara." he said, softer now. "You need help."
 			"What?"
 			"You're not well. My blood, it... it's messing with your head. It's my fault, and I'm sorry. But I can get you the help you need--"
@@ -17557,12 +17561,17 @@ VOLUME - Wolves Among Sheep
 			"'Her?' I don't understand." he sighed.
 			"The one you always save. The one who always comes first. Why? WHY?! WHY IS *SHE* GOOD ENOUGH FOR YOU?! *WHY NOT ME?!*"
 			"Clara--"
-			At that, she racked her shotgun faster than even Connor could move, and blasted. He flew backwards, his ears ringing and his head pounding.
 			"I know what to do..." she snarled. "I'll get that bitch, and I'll... I'll make you see... I'm the only one for you!"
+			She reached into her belt and produced a small metal canister.
+			"I learned this from you, my love."
+			She threw it down, and a thick cloud of black smoke hissed out and swallowed the room.
+			Connor choked on the acrid fog, as it coated his mask's lenses. He stumbled out, wiped them, and frantically looked around - oh, shit.
+			Clara racked her shotgun, and blasted above. A section of rusted walkway tumbled down, blocking the exit.
 			Then, she burst away.
-			"CLARA!" Connor roared. He sprinted after her, but she was fast. Faster than he'd expected. She darted through the gasworks like she'd mapped it out weeks in advance, and by the time he burst out the far side, she was already at the street.
+			"CLARA!" Connor roared. His eyes flashed, as he ripped his way through.
+			He sprinted after her, but she was fast. Faster than he'd expected. She darted through the gasworks like she'd mapped it out weeks in advance, and by the time he burst out the far side, she was already at the street.
 			A lorry was coming. She raised her bullpup, and shot out both front tyres.
-			The lorry swerved. The car behind it hit the tail. Another car hit that one. Within seconds, the crossroads was a mess of twisted metal and screaming.
+			The lorry swerved. The car behind it hit the tail. Another car hit that one. Within seconds, the crossroads was a mess of screaming and twisted metal.
 			"Shit." Connor spat.
 			He looked at the fleeing shape of Clara, then back at the pileup.
 			Fires were starting. Petrol was spilling.
@@ -17598,7 +17607,7 @@ VOLUME - Wolves Among Sheep
 		______________________________
 		SCENE
 			Judi was on the roof when Connor arrived. She had a cigarette in hand, her scrubs were still on, and she stared out at the city lights.
-			"You know smoking'll kill you." he quipped.
+			"You know smoking's bad for you, doc." he quipped.
 			"Last I checked, I'm the medic here." she shrugged. "Besides, maybe I can grow back my alveoli like you. You never know."
 			Connor sat down beside her, dangling his legs over the edge.
 			"I like the new costume." she shrugged. "Very vampire-chic."
@@ -17606,7 +17615,7 @@ VOLUME - Wolves Among Sheep
 			They shared a laugh. Savoured it.
 			"I need a favour."
 			"I assumed." she took a drag. "What is it?"
-			"Clara Baker. She was admitted to your trauma centre almost a month ago. Domestic violence. Head trauma, throat laceration. And... mutation."
+			"Clara Baker. She was admitted to your trauma centre almost a month ago - the night before Snakebite turned up. She was a victim of domestic violence. Head trauma, throat laceration, and... mutation."
 			Judi frowned. "I remember. She discharged herself within the hour."
 			"She's the She-Wolf. The one who's been killing Disciples."
 			Judi turned to look at him. "The woman on the news?"
@@ -17623,7 +17632,7 @@ VOLUME - Wolves Among Sheep
 			She hesitated. Connor took a breath.
 			"Listen... I know that this is a lot. Especially if you've been working within the system your whole life. But the system didn't work for the organ harvesters. It doesn't work on the Skinners. And it's not working now. And until they change the system so it works on these things, we have a choice - to be 'ethical,' or to be moral. I choose to be moral."
 			Judi stared at him for a long moment. Then she sighed, and pulled out her phone.
-			"Clara Baker. Admitted under a suspected DV case." she scrolled. "Her GP referred her to a Dr. Helena Santoro. Private practice. That's all I've got."
+			"Clara Baker. Admitted under a suspected DV case four months ago." she scrolled. "Her GP referred her to a Dr. Helena Santoro. Private practice. That's all I've got."
 			"Thank you." Connor rose. "I owe you one."
 			"Look, just... promise me I did something good, here." she said, sighing deeply.
 			"I promise." he nodded. "Doc... I appreciate it. Truly. And remember... if you ever need my help again--"
@@ -17633,9 +17642,13 @@ VOLUME - Wolves Among Sheep
 			She turned.
 			Connor was reclined in the patient's couch. His legs were crossed, and arms folded.
 			"Oh my god." she gasped. "I--I--"
-			"Dr. Santoro." he whispered lowly. "We need to talk."
+			"Dr. Santoro." he whispered, leaning his head back against the cushion. "So, how does this work? Do I tell you about my childhood?"
+			"...excuse me?"
+			"Can you still have daddy or mummy issues if you're an orphan? I ask because it would explain a lot. Also, do you have much experience with PTSD sufferers? Because girl, let me tell you - I'm fucked."
+			She stood there incredulously, not moving an inch.
+			His grin widened, then dropped. "We need to talk."
 			"Listen, I--I'm not your enemy, I swear! I've never so much as littered!"
-			"I'm not here to hurt you." he said softly. "I'm here about a patient of yours. Clara Baker."
+			"I'm not here to hurt you." he said softly, sitting up. "I'm here about a patient of yours. Clara Baker."
 			Helena's face went pale. "I'm afraid I can't discuss my patients."
 			"I understand." Connor nodded. "But she's been killing people. Disciples, specifically. And she's been building some kind of fantasy about me. The name 'She-Wolf' is a big clue."
 			Helena swallowed. "And what do you want from me?"
@@ -17664,7 +17677,7 @@ VOLUME - Wolves Among Sheep
 			As he got up to leave, Helena cleared her throat.
 			"You know... I don't mean to overstep, but you might benefit from therapy, too."
 			"What makes you say that?"
-			She gave him a flat look. "You wear a black kevlar bodysuit. You have homicidal urges. You jumpscared your way into a therapist's office at nine o'clock at night."
+			She gave him a flat look. "You wear a kevlar bodysuit. You have homicidal urges. You jumpscared your way into a therapist's office at nine o'clock at night - and, well, you admitted to being, and I quote, 'fucked.'"
 			"...yeah, fair enough." he grinned, and left.
 			He pressed his fingers to his ear.
 			"Doc... I know I'm pushing it, but I need one more favour."
@@ -17737,11 +17750,11 @@ VOLUME - Wolves Among Sheep
 			Then, he pushed a syringe into her spine.
 			Clara stiffened. Her eyes rolled back. She went limp in his arms.
 			Connor lowered her to the ground, and pressed his fingers to his ear.
-			"Doc? The NMBAs worked a treat. She's out. I'll get her to A&E ASAP."
+			"Doc? The drugs worked a treat - she's out. I'll get her to A&E ASAP."
 			"We'll be ready for her."
 			He dialled 999.
 			"Emergency. Which service?"
-			"Ambulance. This is the Werewolf. I've sedated She-Wolf at the old gasworks on King Street. She needs to be taken into custody and given medical supervision. She's a Super-Agent. Do not engage her without sedation ready."
+			"Ambulance. This is the Werewolf. I've sedated She-Wolf at the old gasworks on King Street, using a cocktail of NMBAs and ketamine. She needs to be taken into custody and given medical supervision. She's a Super-Agent. Do not engage her without sedation ready."
 			A pause.
 			"...Sir, is this a joke?"
 			"Does it sound like a joke?"
@@ -17782,9 +17795,9 @@ VOLUME - Wolves Among Sheep
 			Connor smiled warmly, and put his hand on her chin, holding her face in the light. Her piercings were gone, but the holes were mostly intact.
 			"Good job I got cheap shit." she chuckled. "They snapped before doing too much damage. Then she... took them. Wore them. Said she wanted to be like me."
 			Connor grimaced. "Your septum's gonna take a while to heal. But your earrings should go right back in. Or, get stretchers and make it worse. Your choice." he quipped.
-			Amy laughed, and then winced. "She didn't get my tongue piercing. Took it out when I got loose. Just in case."
+			Amy laughed, and then winced. "She didn't get my tongue piercing. I took it out when I got loose, just in case."
 			"Smart." he chuckled, before pulling out his Coagulator and spraying her wounds.
-			"That should stop any scarring. If you're careful."
+			"That should stop any scarring, if you're careful."
 			"So." Amy said, as he worked. "She thought you were cheating on her. With me."
 			Connor paused. "Yeah."
 			"Ew."
@@ -17793,11 +17806,11 @@ VOLUME - Wolves Among Sheep
 			"Come on." he said. "Let's get you home."
 
 			Judi stood in the trauma centre, holding a notepad. Clara was already in a secure room, restrained and hooked up to beeping monitors.
-			"NMBAs are holding." she nodded. "We'll keep her under until we can get her into a proper psychiatric facility."
-			"I'll process from my side, but I think we can safely aim for a plea of insanity." Naismith sighed. "She's clearly a victim. Childhood abuse. The serum. The erotomania. Any court in the country will see that."
+			"Drugs are holding." she nodded. "We'll keep her under until we can get her into a proper psychiatric facility."
+			"I'll process from my side, but I think we can safely aim for a plea of insanity." Naismith sighed. "She's clearly a victim. Childhood abuse, serum, erotomania. Any court in the country will see that."
 			Judi smiled. "I guess the Werewolf isn't all bad, eh?"
-			Naismith shrugged, before nodding. "He stopped Clara without killing her. Got her help. That's more than most people would do."
-			Naismith looked at Clara through the glass. She was still. Peaceful, almost.
+			Naismith shrugged, before nodding. "He stopped Clara without killing her. Got her help. That's more than what my officer's would've done. He's... he's a monster, Judi. So why is he such a damn good hero?"
+			He sighed, and looked at Clara through the glass. She was still. Peaceful, almost.
 			The She-Wolf slept, and the night slowly gave birth to day.
 
 		Who You Love
@@ -23040,7 +23053,7 @@ VOLUME - Gods Among Men
 			"STOP RIGHT THERE!" Connor roared.
 			"SIR, GET DOWN!" the guard snapped, shoving the governor to the ground and planting his shield down.
 			Connor grinned, and pounced forwards. He stepped off the wall just as the guard fired his taser, and the darts harmlessly stuck into the concrete, before Connor came down.
-			He whipped his pistol twice, and the guard staggered back. Then, a slug to the face knocked the man down. He grabbed the cuffs, tossed them to the governor, and took aim.
+			He whipped his pistol twice, and the guard staggered back. Then, a slam to the face knocked the man down. He grabbed the cuffs, tossed them to the governor, and took aim.
 			"Alright, guv'na!" Connor laughed. "Put those on, or I'll kill you."
 			"Okay, okay!" the governor panicked, complying.
 			"Good! Alright, now, here's how this works. You're gonna tell the Armed Unit to stand down, okay?"
@@ -23119,7 +23132,7 @@ VOLUME - Gods Among Men
 			Then, he let out a breath of relief, as the crew bailed out, and pulled their parachutes.
 			"Alright, let's go!" he nodded, dropping the rifle and entering the van.
 
-			"...we can confirm the pilot and armed officer are safe." Zack reported. "We here at Channel One urge all viewers to stay inside. We are waiting for an update from the prison on who exactly has escaped, but if you do recognise a fugitive, do not approach them, just call 999."
+			"...we can confirm the pilot and armed officer are safe." Zack reported. "We here at Channel One urge all viewers to stay inside. We are waiting for an update from the prison on who exactly has escaped, but if you do recognise a fugitive, do not approach them, just call 999. And---yes, we have just received confirmation that armed robber and alleged crime boss Vincent 'Vince' Barrett appears to be the ringleader of this escape."
 			Chloe leaned back, pale as a ghost.
 			"Oh god..." Bea breathed out.
 
@@ -23178,7 +23191,7 @@ VOLUME - Gods Among Men
 			"Hey..." Goblin began. "Thanks. I... I appreciate the rescue."
 			"Don't mention it." Connor smiled. "As soon as Dorsey's dealt with, I'll talk to the KGB - find some options for you both."
 			Goblin nodded, and sat back down.
-			"Give 'em hell, guys." Tommy grinned.
+			"Give 'em hell, guys." Tommy grinned. "Oh, uh... sorry, Father."
 			Declan cleared his throat, then gave a cheeky smirk.
 			"Can't wait to laugh about this over drinks at the Horse." Pawel smiled. "Take care, you three. Good luck."
 			"We'll see you all soon." Connor nodded. With that, they left.
@@ -23197,7 +23210,7 @@ VOLUME - Gods Among Men
 			Shannon waved awkwardly. "Hey!"
 			At that, Amy grabbed her in, too.
 			Sparky rushed over to her. "Hey, Shannon! It's so good to see you again! Does this mean the crew is back together?"
-			She smiled warmly. "Haha, hello doggie..."
+			She smiled warmly.
 
 			The group sat down in the break room, sipping coffees. Connor, Trey, and Shannon were changed out of their prison uniforms, and finished explaining the story.
 			"So, what's your plan now?" she asked.
@@ -23767,10 +23780,10 @@ VOLUME - Gods Among Men
 
 			The prison gates loomed ahead, floodlights casting long shadows across the tarmac. Connor pulled up slowly, his hands tight on the steering wheel. Amy sat in the back, silent, her eyes wet and makeup running.
 			Vince opened the door, and stepped out. He turned back, leaning down to look at them both.
-			"You two look after each other, yeah?" he said. "And look after that lot in there. They need you."
+			"Yous two look after each other, yeah?" he said. "And look after that lot in there. They need you."
 			"We will." Amy nodded, her voice hoarse.
 			Connor couldn't speak. He just nodded, tears streaming down his face.
-			"I love you both. Always will."
+			"I love yous both. Always will."
 			"Love you too." they both choked.
 			Vince smiled, and closed the door. They watched him walk through the gates, through the security check, until he disappeared from view.
 			Amy reached forward and squeezed Connor's shoulder. "He'll be okay."
@@ -23895,7 +23908,7 @@ VOLUME - Gods Among Men
 			"A little. Humans have him in bedtime stories, like the ones we tell." the greenskin smiled.
 			"Oh! What stories am Jesus in?"
 			"Ah, I've only heard snippets. Supposedly, he had a horrible temper, so they killed him - but he was so angry, he turned into a zombie. At least, I think that's what happened. They kept saying he died cross, and came back, or something."
-			"Wolf Man get angry, but him only use anger for good. Am he like Jesus?"
+			"Wolf Man get angry, but him only use anger for good. And him come back from dead. Am he like Jesus?"
 			"Probably. It'd explain a lot." Goblin chuckled.
 			Troll moved to the next shelf. An old leather book lay open on it, its pages yellowed and fragile. He tilted his head - he couldn't read, but he recognised the shape of the words - the way they were laid out, like a song.
 			"Pretty..." he smiled.
@@ -23917,7 +23930,7 @@ VOLUME - Gods Among Men
 			Goblin stood between him and Troll, and readied the broken bottle like a knife. Behind him, Troll had curled in on himself, massive hands covering his face.
 			Declan didn't move.
 			"Alright." he said softly. "Goblin, I'm going to stay right here. Is that alright?"
-			Goblin's grip didn't loosen. "You're gonna hurt him. He didn't mean to. It was an accident."
+			Goblin's grip didn't loosen. "He didn't mean to. It was an accident."
 			"I'm sure it was." Declan whispered. "I'm not going to hurt anyone."
 			"You're angry." Goblin's voice cracked. "Everyone gets angry. Then they get the stick. Or the cattle prod. Or the--"
 			Declan took a slow breath. "Goblin. Look at me. Do I look angry?"
@@ -23925,7 +23938,7 @@ VOLUME - Gods Among Men
 			"I'm a priest. I'm not very good at hiding things." he smiled. "I'm actually a little annoyed at myself for leaving that Bible down here. It's been on that shelf for years - I should have moved it somewhere safer."
 			Troll peeked through his fingers. "You... you not mad?"
 			"I'm not mad." he said gently, approaching. "It was an accident, wasn't it?"
-			"Yes. Troll didn't mean to break things. Troll is just clumsy. Stupid Troll! Stupid, stupid, STUPID!"
+			"Yes. Troll not mean to break things. Troll am just clumsy. Stupid Troll! Stupid, stupid, STUPID!"
 			"No, no, please don't!" Declan begged, as Troll beat himself again. Goblin stood to alert, but relaxed enough to let him approach. He gently placed his hand on Troll's wrist.
 			"Accidents happen, and there was no harm done. It's more important that you and your brother aren't hurt. A book can be replaced, wine is cheap enough... besides, it's not like that was the only Bible here. If it *were,* I'd be in much bigger trouble with the Church than I would have with either of you."
 			Goblin's arm was shaking now, as he lowered the bottle.
@@ -24030,10 +24043,9 @@ VOLUME - Gods Among Men
 			"Wolf Man is helping?" Troll asked, tilting his head.
 			"I'm helping." Connor smiled. "Before... *this,* I did this for a living. Still do, on paper."
 			Troll's face split into a wide grin. He threw his mop into the corner, and wrapped Connor in a hug.
-			"Thank you, Wolf Man! You and Mr. Dad are Troll's best friends besides Goblin!"
+			"Thank you, Wolf Man! You and Mr. Dad is Troll's best friends besides Goblin!"
 			The three of them descended into the Underhill section, their voices echoing up the stairs.
 			Connor was explaining something about load-bearing walls. Goblin was debating the best place to put the generator. Troll was asking, for the third time, whether they could have a lamp shaped like a dragon.
-
 			Declan stood in the cellar, mop in hand. smiling widely. He turned back to the mess, and worked, humming an old hymn.
 
 		Bea and Chloe argue/Troll and Goblin move in
@@ -25604,7 +25616,7 @@ VOLUME - Gods Among Men
 			He blushed, and passed her a helmet. Then, he climbed aboard.
 			"Okay, hold on tight - she packs a real punch."
 			"Smooth." she chuckled, putting her arms around his abdomen, and hugging tightly.
-			The engine roared as they took off. Somewhere, Eileen was looking down - or up, to be fair, she was hardly a nun - and grinning with pride.
+			The engine roared as they took off. Somewhere, Eileen was looking down - or up to be fair, she was hardly a nun - and grinning with pride.
 
 			They pulled into the address Chloe gave him - a colourful, bustling, American-style arcade, complete with blinking lights, the smell of pizza and popcorn, and the hum of games and laughter.
 			"Here we go." she beamed. "Can't play air hockey with hair in my face."
@@ -26859,7 +26871,7 @@ VOLUME - Gods Among Men
 			"Connor got a girlfriend." Amy grinned.
 			He blushed a little. "Do you remember Chloe?"
 			"About fuckin' time!" Vince laughed. "Go on, lad!"
-			"Amy's still single." Connor snarked. "Spent all of last night getting piss-drunk with a girl I'm *certain* is bisexual, and still didn't score."
+			"Amy's still single." Connor snarked. "Spent all of last night getting piss-drunk with a girl I'm *certain* is closet-bisexual, and still didn't score."
 			"Bastard." she scowled.
 			Vince chuckled, as the three finished catching up.
 

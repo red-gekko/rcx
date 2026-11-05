@@ -2,517 +2,503 @@ VOLUME - Age of Heroes
 EPISODE - The Last Judgement
 ============================================================
 
-SCENE - Arriving in Karelia
+The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
+The gang stepped down, out of the passenger section. There, they were greeted by Morozov - flanked by two Jotunns.
+Connor immediately assumed a fighting stance.
+"Connor, wait!" Ivan barked. "They're friendlies."
+He hesitated, then looked the Jotunns in the eyes.
+"Who were you? What happened to you?"
+"They chose this, Mr. Barrett." Morozov replied. "Critically wounded in defence of the Motherland. And reborn, to serve once more."
+"You." Connor growled. "You're the bastard who kept the Judge alive."
+"Connor." Chloe cut in, putting her hand on his shoulder. "Let's save this for later, yeah?"
+Connor hesitated, but nodded. The snowfall began to pick up.
+He turned back to the helipad. The Kestrel's pilot hopped out, and he and Bevan began arranging its refuelling.
+Connor nodded, and the group headed inside, as the snowfall began to pick up.
 
-	The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
-	The gang stepped down, out of the passenger section. There, they were greeted by Morozov - flanked by two Jotunns.
-	Connor immediately assumed a fighting stance.
-	"Connor, wait!" Ivan barked. "They're friendlies."
-	He hesitated, then looked the Jotunns in the eyes.
-	"Who were you? What happened to you?"
-	"They chose this, Mr. Barrett." Morozov replied. "Critically wounded in defence of the Motherland. And reborn, to serve once more."
-	"You." Connor growled. "You're the bastard who kept the Judge alive."
-	"Connor." Chloe cut in, putting her hand on his shoulder. "Let's save this for later, yeah?"
-	Connor hesitated, but nodded. The snowfall began to pick up.
-	He turned back to the helipad. The Kestrel's pilot hopped out, and he and Bevan began arranging its refuelling.
-	Connor nodded, and the group headed inside, as the snowfall began to pick up.
+Chloe made herself comfortable in the laboratories, going over the research the KGB had conducted on the Judge.
+Connor, Trey, and Sparky sat down outside, letting the cold air fill their lungs. Sparky laid down, his head hurting from the travel. Ivan approached.
+"Hell of a craft, isn't she?" he began. "Drackhill to Karelia in just over an hour."
+"Flying in that thing was torture." Trey sighed. "Super-senses don't mesh well with going faster than sound. Not to mention the pigeon-sense."
+"Pigeon... sense?" Ivan tilted his head.
+"Yeah, you know? We can sense electromagnetic fields - and part of that means sensing our own location." Trey shrugged. He looked over at Connor.
+"You're awfully quiet. It's normally you who explains this shit."
+"I'm watching my words around the KGB." he muttered.
+"Tovarishch, I swear..." Ivan began, but Connor cut in.
+"Don't call me that. Comrades don't lie to each other like this. Comrades don't keep monsters like the Judge alive."
+"I'm sorry. It wasn't my call." Ivan begged. "I told them this was a bad idea."
+"I went after Murillo because he was using serum. I threatened the FBI because they *thought* about using it. Do I need to start thinking about the KGB?"
+"We're fighting a war, Connor. We need all the power we can--"
+"I trusted you, Ivan. I trusted you, and you let me down!"
+Ivan looked away, ashamed.
+Connor sighed. "What is this place, exactly?"
+"Officially, it's a decommissioning site for chemical weapons seized from rebel forces." Ivan began. "Unofficially, it's where we experiment on superhumans."
+"It reminds me of where I grew up." Sparky noted. "Are there any animals here?"
+Ivan shook his head.
+"No, volchonok. I promise, we're not doing anything like what happened to you."
+"You promised the Judge was dead, too." Sparky replied, his top lip curling.
+Bevan walked over. "I hope the KGB has learned their lesson."
+"Yes, sir." Ivan nodded. "You can tell your people this won't happen again."
+"Good." Bevan sighed. "Anyway... Chloe has just finished catching up on your research notes. Thank God she's fluent in Russian."
+"Is that why you lot never sent them over?" Connor hissed. "So you could keep this all to yourselves?"
+"One thing at a time, Mr. Barrett." Bevan shook his head. "Briefing room, now."
 
-	Chloe made herself comfortable in the laboratories, going over the research the KGB had conducted on the Judge.
-	Connor, Trey, and Sparky sat down outside, letting the cold air fill their lungs. Sparky laid down, his head hurting from the travel. Ivan approached.
-	"Hell of a craft, isn't she?" he began. "Drackhill to Karelia in just over an hour."
-	"Flying in that thing was torture." Trey sighed. "Super-senses don't mesh well with going faster than sound. Not to mention the pigeon-sense."
-	"Pigeon... sense?" Ivan tilted his head.
-	"Yeah, you know? We can sense electromagnetic fields - and part of that means sensing our own location." Trey shrugged. He looked over at Connor.
-	"You're awfully quiet. It's normally you who explains this shit."
-	"I'm watching my words around the KGB." he muttered.
-	"Tovarishch, I swear..." Ivan began, but Connor cut in.
-	"Don't call me that. Comrades don't lie to each other like this. Comrades don't keep monsters like the Judge alive."
-	"I'm sorry. It wasn't my call." Ivan begged. "I told them this was a bad idea."
-	"I went after Murillo because he was using serum. I threatened the FBI because they *thought* about using it. Do I need to start thinking about the KGB?"
-	"We're fighting a war, Connor. We need all the power we can--"
-	"I trusted you, Ivan. I trusted you, and you let me down!"
-	Ivan looked away, ashamed.
-	Connor sighed. "What is this place, exactly?"
-	"Officially, it's a decommissioning site for chemical weapons seized from rebel forces." Ivan began. "Unofficially, it's where we experiment on superhumans."
-	"It reminds me of where I grew up." Sparky noted. "Are there any animals here?"
-	Ivan shook his head.
-	"No, volchonok. I promise, we're not doing anything like what happened to you."
-	"You promised the Judge was dead, too." Sparky replied, his top lip curling.
-	Bevan walked over. "I hope the KGB has learned their lesson."
-	"Yes, sir." Ivan nodded. "You can tell your people this won't happen again."
-	"Good." Bevan sighed. "Anyway... Chloe has just finished catching up on your research notes. Thank God she's fluent in Russian."
-	"Is that why you lot never sent them over?" Connor hissed. "So you could keep this all to yourselves?"
-	"One thing at a time, Mr. Barrett." Bevan shook his head. "Briefing room, now."
+Assembling in the briefing room, the Werewolves, Ivan, Bevan, and a squad of Jotunns took their positions, while Chloe and Morozov stood in front of them.
+"Okay, so, I've finished skimming the reports on the Judge." she began. "I confirmed they're of a similar type of mutant to the Werewolves. They have 15 additional, non-paired chromosomes, which match perfectly onto yours."
+"So why'd he look so different?" asked Ivan.
+"That's the thing... their paired chromosomes." she shuddered. "17 pairs. Humans have 23, wolves have 39, rats have 21. The 17 have no analogue to any known species on Earth. We've only been calling them 'he' out of convenience - I have no idea based on the genetics whether they're male or female. The autopsies done by the KGB didn't look into gametes or genitalia, but... that's not important, anyway."
+"So... the Judge is an alien?" Trey gasped.
+"I... it's looking that way, yeah." she hesitantly nodded. "Presumably, whatever was done to you three in-utero was done to them, too. I couldn't establish any common markers between the fifteen unpaired and their 17 pairs - implying the 'Werewolf' DNA is as foreign to their species as it is to humans."
+"Great. *Two* different alien species then." Trey groaned.
+"He--they--definitely spoke like they were from another planet." Connor noted. "Kept calling me 'heretic' and 'youngblood' - mentioned 'the Lord.' Must be their religion."
+"Confirms our suspicions - our mutations aren't from Earth." Trey sighed. "One existential crisis at a time."
+"Boo hoo, you're not human. Humans aren't that great." Sparky quipped. The boys chuckled, allowing the moment.
+"Anatomy? Physiology?" asked Bevan.
+"Similar enough to the team." she nodded. "I can't tell how much is normal for their species, versus how much is caused by the Werewolf mutations - but the Judge has two hearts, and a pretty standard humanoid body plan. Neural growths in the torso means they can survive decapitation, though without a brain, they'll be incapacitated. Destroying the head should kill them permanently - then it's just a matter of the body."
+"How about location?" Trey cocked an eyebrow. "We're fighting in the snow?"
+"We have tracked the Judge to this location here." Morozov answered, pointing to a map. "We don't have an exact location, but we know it'll have a vendetta. As it escaped, it made reference to 'a divine reckoning.'"
+"So, we head to the area, and wait for them to come, right?" Connor tilted his head.
+"Exactly." Morozov nodded, before turning to the Jotunns. "[Egorov, Kinnunen - you will attend. The rest of you will remain on guard here.]"
+"The target location is a small valley - there's an outcrop that overlooks it." Ivan began.
+"You should stay here." Connor cut in. "I can *hear* the way your back creaks when you walk. You're still messed up from Belson."
+Chloe looked at him, giving him a soft smile. Despite the tension, he was still Connor - and he still cared for his comrades.
+"Good thing I'll be lying down with Isabella then." Ivan shrugged. "I'll be fine."
+"Major Bevan - any chance that craft outside could help?" asked Morozov.
+"The Kestrel's a transport craft - her guns are rather lacklustre, I'm afraid." Bevan shrugged. "Besides, she's refuelling - she won't be ready for at least an hour."
+Chloe piped up. "I've synthesised these syringes." she said, revealing them. "Red ones are paradrenaline, blue ones are endorphins. Use the red ones to trigger a Rage if you need the boost - but be careful. You overdo it, you'll burn yourself out. Don't let it be a fight of attrition if you're using them."
+"As for the endorphins, they worked a treat on the Judge the last time." Connor added, now turning to face the others. "They can cancel out a Rage, for starters. An overdose might even put them into a coma."
+"But that involves getting close enough to deliver the syringe - and the Judge'll be wise to that trick by now." Chloe added.
+Connor morphed up his costume. "Remember. The Judge is not an easy target. They're a highly experienced, superhumanly-strong killing machine. After reviving, they're most likely even stronger than they were last time, too. That means we can't hesitate, we can't hold back. With five of us in the melee and sniper cover, it's gonna be pure chaos - so make sure you're only hitting the enemy. But above all - don't ever fight like you're not one step away from death. Because you are."
+With that, the group stood. Chloe pulled Connor to the side, as the rest filtered out.
+"I'm so sorry about this..." Connor began.
+"Don't. I chose to come here, and I wanna help." she replied, before hugging him tightly.
+"I love you." he whispered.
+"I love you too..." she said, tears in her eyes.
+They kissed, and rested their heads on each other.
+"Come back, okay?"
+"I will." he vowed.
 
-	Assembling in the briefing room, the Werewolves, Ivan, Bevan, and a squad of Jotunns took their positions, while Chloe and Morozov stood in front of them.
-	"Okay, so, I've finished skimming the reports on the Judge." she began. "I confirmed they're of a similar type of mutant to the Werewolves. They have 15 additional, non-paired chromosomes, which match perfectly onto yours."
-	"So why'd he look so different?" asked Ivan.
-	"That's the thing... their paired chromosomes." she shuddered. "17 pairs. Humans have 23, wolves have 39, rats have 21. The 17 have no analogue to any known species on Earth. We've only been calling them 'he' out of convenience - I have no idea based on the genetics whether they're male or female. The autopsies done by the KGB didn't look into gametes or genitalia, but... that's not important, anyway."
-	"So... the Judge is an alien?" Trey gasped.
-	"I... it's looking that way, yeah." she hesitantly nodded. "Presumably, whatever was done to you three in-utero was done to them, too. I couldn't establish any common markers between the fifteen unpaired and their 17 pairs - implying the 'Werewolf' DNA is as foreign to their species as it is to humans."
-	"Great. *Two* different alien species then." Trey groaned.
-	"He--they--definitely spoke like they were from another planet." Connor noted. "Kept calling me 'heretic' and 'youngblood' - mentioned 'the Lord.' Must be their religion."
-	"Confirms our suspicions - our mutations aren't from Earth." Trey sighed. "One existential crisis at a time."
-	"Boo hoo, you're not human. Humans aren't that great." Sparky quipped. The boys chuckled, allowing the moment.
-	"Anatomy? Physiology?" asked Bevan.
-	"Similar enough to the team." she nodded. "I can't tell how much is normal for their species, versus how much is caused by the Werewolf mutations - but the Judge has two hearts, and a pretty standard humanoid body plan. Neural growths in the torso means they can survive decapitation, though without a brain, they'll be incapacitated. Destroying the head should kill them permanently - then it's just a matter of the body."
-	"How about location?" Trey cocked an eyebrow. "We're fighting in the snow?"
-	"We have tracked the Judge to this location here." Morozov answered, pointing to a map. "We don't have an exact location, but we know it'll have a vendetta. As it escaped, it made reference to 'a divine reckoning.'"
-	"So, we head to the area, and wait for them to come, right?" Connor tilted his head.
-	"Exactly." Morozov nodded, before turning to the Jotunns. "[Egorov, Kinnunen - you will attend. The rest of you will remain on guard here.]"
-	"The target location is a small valley - there's an outcrop that overlooks it." Ivan began.
-	"You should stay here." Connor cut in. "I can *hear* the way your back creaks when you walk. You're still messed up from Belson."
-	Chloe looked at him, giving him a soft smile. Despite the tension, he was still Connor - and he still cared for his comrades.
-	"Good thing I'll be lying down with Isabella then." Ivan shrugged. "I'll be fine."
-	"Major Bevan - any chance that craft outside could help?" asked Morozov.
-	"The Kestrel's a transport craft - her guns are rather lacklustre, I'm afraid." Bevan shrugged. "Besides, she's refuelling - she won't be ready for at least an hour."
-	Chloe piped up. "I've synthesised these syringes." she said, revealing them. "Red ones are paradrenaline, blue ones are endorphins. Use the red ones to trigger a Rage if you need the boost - but be careful. You overdo it, you'll burn yourself out. Don't let it be a fight of attrition if you're using them."
-	"As for the endorphins, they worked a treat on the Judge the last time." Connor added, now turning to face the others. "They can cancel out a Rage, for starters. An overdose might even put them into a coma."
-	"But that involves getting close enough to deliver the syringe - and the Judge'll be wise to that trick by now." Chloe added.
-	Connor morphed up his costume. "Remember. The Judge is not an easy target. They're a highly experienced, superhumanly-strong killing machine. After reviving, they're most likely even stronger than they were last time, too. That means we can't hesitate, we can't hold back. With five of us in the melee and sniper cover, it's gonna be pure chaos - so make sure you're only hitting the enemy. But above all - don't ever fight like you're not one step away from death. Because you are."
-	With that, the group stood. Chloe pulled Connor to the side, as the rest filtered out.
-	"I'm so sorry about this..." Connor began.
-	"Don't. I chose to come here, and I wanna help." she replied, before hugging him tightly.
-	"I love you." he whispered.
-	"I love you too..." she said, tears in her eyes.
-	They kissed, and rested their heads on each other.
-	"Come back, okay?"
-	"I will." he vowed.
+The Commandant stepped out of his passenger plane, and took a deep breath through the nose. He grinned, flexing his arms.
+"This'll be good..." he growled.
 
-	The Commandant stepped out of his passenger plane, and took a deep breath through the nose. He grinned, flexing his arms.
-	"This'll be good..." he growled.
+Across the valley, the Judge sat in a small, makeshift den, meditating.
+"Retribution." they whispered. "Vengeance."
+They carved a sigil into the ground.
+"Malai-akhun." they said, like a vow. "Nezh-dakh palantis, virian Horax."
+The sigil glowed faintly, before fading.
+"Keyah kashal?" they asked, almost begging.
+The sigil didn't respond. The Judge sighed, and rose.
 
-	Across the valley, the Judge sat in a small, makeshift den, meditating.
-	"Retribution." they whispered. "Vengeance."
-	They carved a sigil into the ground.
-	"Malai-akhun." they said, like a vow. "Nezh-dakh palantis, virian Horax."
-	The sigil glowed faintly, before fading.
-	"Keyah kashal?" they asked, almost begging.
-	The sigil didn't respond. The Judge sighed, and rose.
+The sun was rising now in Karelia, glancing and glistening off of the snowfall. The three Werewolves and their Jotunn attendees had taken positions in the base of the valley, while Ivan had set up a sniper's nest overlooking them.
+To begin, Connor let out a low call - a vibration from his throat, similar to their echolocation skills.
+Trey joined in, and then Sparky did, too - a haunting alien chorus filling the air.
+A figure appeared on the rim of the valley, that then slid itself down the slope into the base. It rose to its feet, and looked up.
+"Hello, boys." the Commandant grinned.
+"YOU!" Connor screamed, morphing his armour.
+"BASTARD!" Sparky roared.
+"Who the fuck is that?" asked Trey, morphing up likewise.
+"You can call me 'Commandant.'"
+"Chyort!" Ivan gasped, before switching Isabella to semi-auto, and firing wildly.
+Immediately, the Jotunns rushed in, preparing their haymakers. The Commandant replied by delivering a jab to the gut that disembowelled one, before effortlessly pulling the head off of the other. Ivan's exploding bullets detonated on his skin, leaving... bruises. Nothing more than bruises.
+The boys morphed their claws, and dug their heels into the snow.
+"What is this guy?!" Trey asked frantically.
+"The leader of Paladin." Connor growled. "What are you doing here?"
+"That'd be telling." the Commandant laughed, standing up straight. "Listen, Connor. I'm gonna offer this once. Surrender, and come with me. Or I'll kill you and your friends, and then I'll head to that little KGB lab, find that lovely Chloe of yours, and--"
+Before he could finish, Connor roared and charged in, landing his strongest hit. It knocked the Commandant back a pace.
+"Insolent wretch..." the Commandant snarled, before sending a punch in response.
+Connor threw up an armoured guard, while Trey and Sparky launched themselves overhead. Trey kicked downwards, pushing his boot across the Commandant's face. Meanwhile, Sparky locked his jaw down on the Commandant's wrist, while clawing at the chest.
+The Commandant's clothes tore, and he was marked and bruised.
+Not bloodied. Not cut.
+He slammed Sparky onto the ground, while Connor sent a bladed fist into the gut. The blade bent, but finally broke the skin. Nothing past it - just the skin.
+Roaring, the Commandant brought a hammer strike down on Connor's head, before a spinning backhand sent Trey flying sideways. He knelt down, catching his breath, while the boys scrambled to their feet.
+Connor looked down at his comrades. He looked up at Ivan, who was desperately firing useless volleys. His mind turned to everything he held dear, and he gripped his friends tightly, pressing his mind into theirs.
+Three became one. Their eyes all snapped open, glowing blood-red.
+And then, they charged again.
 
-SCENE - Battle of Karelia - Part 1
+"Verdict, confirm - this is the Commandant?" Bevan asked.
+"CONFIRM! COMMANDANT PRESENT!" Ivan barked back, his rifle providing a hum of blasts.
+"Shit..." Bevan muttered.
+"There is something." Morozov began cautiously. "A not-so-nuclear option."
+"What do you mean?" Bevan tilted his head.
+"I have your word, this will not leave us?"
+Bevan sighed. "Show me."
+Morozov summoned Chloe, and led both to another wing of the facility. Yellow barrels filled this room.
+"Nerve gas. Chlorine. Sedatives. Irritants. Blood toxins. Cyanide. Hallucinogens. Neocurare."
+"Chemical weapons?!" Bevan gasped.
+"Unconventional weapons for unconventional warfare." Morozov shrugged. "Mostly seized from Chechnya. That's our cover."
+"You want to gas them? That'll kill our operatives, too!" Bevan said, disgusted.
+Chloe stroked her chin. "Bevan's right. At best, it'll incapacitate them, while the Commandant - still fighting-fit - can either finish them off, or escape."
+"But if they manage to wound him?" Morozov pressed.
+Chloe pulled at her hair. "I don't know. Such a high concentration, such a varied mixture..."
 
-	The sun was rising now in Karelia, glancing and glistening off of the snowfall. The three Werewolves and their Jotunn attendees had taken positions in the base of the valley, while Ivan had set up a sniper's nest overlooking them.
-	To begin, Connor let out a low call - a vibration from his throat, similar to their echolocation skills.
-	Trey joined in, and then Sparky did, too - a haunting alien chorus filling the air.
-	A figure appeared on the rim of the valley, that then slid itself down the slope into the base. It rose to its feet, and looked up.
-	"Hello, boys." the Commandant grinned.
-	"YOU!" Connor screamed, morphing his armour.
-	"BASTARD!" Sparky roared.
-	"Who the fuck is that?" asked Trey, morphing up likewise.
-	"You can call me 'Commandant.'"
-	"Chyort!" Ivan gasped, before switching Isabella to semi-auto, and firing wildly.
-	Immediately, the Jotunns rushed in, preparing their haymakers. The Commandant replied by delivering a jab to the gut that disembowelled one, before effortlessly pulling the head off of the other. Ivan's exploding bullets detonated on his skin, leaving... bruises. Nothing more than bruises.
-	The boys morphed their claws, and dug their heels into the snow.
-	"What is this guy?!" Trey asked frantically.
-	"The leader of Paladin." Connor growled. "What are you doing here?"
-	"That'd be telling." the Commandant laughed, standing up straight. "Listen, Connor. I'm gonna offer this once. Surrender, and come with me. Or I'll kill you and your friends, and then I'll head to that little KGB lab, find that lovely Chloe of yours, and--"
-	Before he could finish, Connor roared and charged in, landing his strongest hit. It knocked the Commandant back a pace.
-	"Insolent wretch..." the Commandant snarled, before sending a punch in response.
-	Connor threw up an armoured guard, while Trey and Sparky launched themselves overhead. Trey kicked downwards, pushing his boot across the Commandant's face. Meanwhile, Sparky locked his jaw down on the Commandant's wrist, while clawing at the chest.
-	The Commandant's clothes tore, and he was marked and bruised.
-	Not bloodied. Not cut.
-	He slammed Sparky onto the ground, while Connor sent a bladed fist into the gut. The blade bent, but finally broke the skin. Nothing past it - just the skin.
-	Roaring, the Commandant brought a hammer strike down on Connor's head, before a spinning backhand sent Trey flying sideways. He knelt down, catching his breath, while the boys scrambled to their feet.
-	Connor looked down at his comrades. He looked up at Ivan, who was desperately firing useless volleys. His mind turned to everything he held dear, and he gripped his friends tightly, pressing his mind into theirs.
-	Three became one. Their eyes all snapped open, glowing blood-red.
-	And then, they charged again.
+The snow had started to turn red, as fresh blood splattered across it.
+The Commandant had several scratches across his body now. Nothing serious, but he *was* hurt.
+Meanwhile, the boys were on the edge. Their mind-merge had allowed them to coordinate their attacks, but the Commandant was simply too strong.
+Connor and Trey sprinted ahead, allowing themselves to be punched in order to catch the Commandant's arms. Then, Sparky dived in, sinking his teeth into the Commandant's clavicle.
+The Commandant roared in fury, as Sparky pulled out a chunk of meat. He replied by headbutting the wolf hard enough to knock him into the ground, leaving a small crater in the snow.
+"Oh, Six." the Commandant chuckled. "What a shame."
+Connor turned, delivering a stab to the hamstring. Trey morphed up an air pistol on his wrist, and used the momentum of a punch to increase the impact force - burying the chitinous round in the Commandant's abdomen.
+It would've been too much. Even Junior wouldn't've taken that well.
+The Commandant simply grabbed both boys, and slammed their heads together with enough force to blow away the snow around them. Then, he jabbed both in their throats. They collapsed, and reached out for each other.
+The three Werewolves were nearly beaten, while the Commandant of Paladin stood menacingly.
+"Last chance, Connor!" he roared. "Join, or die!"
+Connor forced himself to his feet. "Never." he spat.
+The Commandant stopped fighting for a second, and growled.
+"Why won't you just GIVE IN?!" he screamed.
+"BECAUSE I DON'T WANT TO!" Connor barked, charging in. The Commandant grabbed him by the throat, and raised him up.
+"Everything that happens after this... it's all *your* fault." he snarled. "Remember that, while you rot in hell."
+Connor raised his fist, morphing his own crossbow. He shot the Commandant straight in the eye.
+"AAARGH!" the Commandant roared, throwing him to the ground. He ripped the bolt out, and... spotted a blue syringe attached to it.
+"You think that'll work, traitor?" the Commandant spat. "You think I can't kill you?"
+A bullet from Ivan - one of his last - slammed into the Commandant's head, hitting him on the temple. The explosion snapped his head sideways, and he staggered slightly - like a human might after a light whack to the head. Nothing more than that.
+"See..." he grinned. "Still got it."
+Connor snarled, his claws growing sharper. His eyes flared once more, and he let something wash over him.
+A thing he'd suppressed.
+Pain.
+Hatred.
+Vengeance.
+He charged in. His fist made contact with the Commandant's, and both felt their knuckles crack.
+"YOU TORTURED ME!" Connor roared, delivering a second blow. "YOU CUT ME!"
+"I MADE YOU STRONG, BOY!" the Commandant barked back, throwing Connor into a rock.
+Connor cracked his head against the stone, but rose anyway.
+"I WAS A *HUMAN!*" he screamed, pouncing into the air and slashing wildly. "I WAS A HUMAN BOY, AND YOU *STOLE THAT FROM ME!* AND THEN YOU *LEFT* ME! BEATEN! BROKEN! *BLEEDING!* YOU TURNED ME INTO A *FUCKING _MONSTER!_*"
+The Commandant's flesh tore under Connor's assault, while Sparky and Trey forced themselves to rise. The hate - the pain that Connor felt - flashed through their skulls too.
+The Commandant was hurt, sure - but he had more than enough left. He slammed his boot into Connor's head, before picking him up and slamming him down against his knee. The crunching sound of his back filled the air, before he tossed the limp, bleeding berserker towards his friends.
+"ABOMINATION!" a voice boomed from the edge of the valley.
+The fighters looked up, and saw it.
+The Judge.
+"Oh, hey buddy." the Commandant grinned. "Seems I've had all the fun, I'm afraid."
+"Oh, the fun has only just begun." the Judge smiled, sliding down.
+"Connor's mine. You can have his friends." the Commandant snarled.
+The Judge approached the pile of broken Werewolves, then turned to the Commandant.
+"If you want to kill *them...*" they growled, drawing their blades, "Then you'll have to go through *me.*"
 
-	"Verdict, confirm - this is the Commandant?" Bevan asked.
-	"CONFIRM! COMMANDANT PRESENT!" Ivan barked back, his rifle providing a hum of blasts.
-	"Shit..." Bevan muttered.
-	"There is something." Morozov began cautiously. "A not-so-nuclear option."
-	"What do you mean?" Bevan tilted his head.
-	"I have your word, this will not leave us?"
-	Bevan sighed. "Show me."
-	Morozov summoned Chloe, and led both to another wing of the facility. Yellow barrels filled this room.
-	"Nerve gas. Chlorine. Sedatives. Irritants. Blood toxins. Cyanide. Hallucinogens. Neocurare."
-	"Chemical weapons?!" Bevan gasped.
-	"Unconventional weapons for unconventional warfare." Morozov shrugged. "Mostly seized from Chechnya. That's our cover."
-	"You want to gas them? That'll kill our operatives, too!" Bevan said, disgusted.
-	Chloe stroked her chin. "Bevan's right. At best, it'll incapacitate them, while the Commandant - still fighting-fit - can either finish them off, or escape."
-	"But if they manage to wound him?" Morozov pressed.
-	Chloe pulled at her hair. "I don't know. Such a high concentration, such a varied mixture..."
+"I always knew I couldn't trust you, alien." the Commandant growled. "You and our boss."
+"Likewise, abomination." the Judge snarled back. The two monsters circled each other, like beasts fighting over a kill.
+Connor rose, readying his claws.
+"Down, youngblood." the Judge barked. "This one's head belongs to me."
+"Lucky you, boy." the Commandant hissed. "Take a break while I kill the freak."
+The Judge was done playing. They rushed in, their blade clashing against the Commandant's skin.
+Every cut on the Commandant's body had been delivered by the boys sending their hardest strikes, their strongest slashes.
+This was an opening slice, and red droplets splashed onto the snow.
+The Commandant replied by sending a punch into the Judge's gut. A punch so hard, it shook the air and sent them an inch upwards. Undeterred, the Judge spun in a whirlwind motion, tearing flesh from the Commandant's hide. The two fiends were locked in a fight to the bitter end.
 
-	The snow had started to turn red, as fresh blood splattered across it.
-	The Commandant had several scratches across his body now. Nothing serious, but he *was* hurt.
-	Meanwhile, the boys were on the edge. Their mind-merge had allowed them to coordinate their attacks, but the Commandant was simply too strong.
-	Connor and Trey sprinted ahead, allowing themselves to be punched in order to catch the Commandant's arms. Then, Sparky dived in, sinking his teeth into the Commandant's clavicle.
-	The Commandant roared in fury, as Sparky pulled out a chunk of meat. He replied by headbutting the wolf hard enough to knock him into the ground, leaving a small crater in the snow.
-	"Oh, Six." the Commandant chuckled. "What a shame."
-	Connor turned, delivering a stab to the hamstring. Trey morphed up an air pistol on his wrist, and used the momentum of a punch to increase the impact force - burying the chitinous round in the Commandant's abdomen.
-	It would've been too much. Even Junior wouldn't've taken that well.
-	The Commandant simply grabbed both boys, and slammed their heads together with enough force to blow away the snow around them. Then, he jabbed both in their throats. They collapsed, and reached out for each other.
-	The three Werewolves were nearly beaten, while the Commandant of Paladin stood menacingly.
-	"Last chance, Connor!" he roared. "Join, or die!"
-	Connor forced himself to his feet. "Never." he spat.
-	The Commandant stopped fighting for a second, and growled.
-	"Why won't you just GIVE IN?!" he screamed.
-	"BECAUSE I DON'T WANT TO!" Connor barked, charging in. The Commandant grabbed him by the throat, and raised him up.
-	"Everything that happens after this... it's all *your* fault." he snarled. "Remember that, while you rot in hell."
-	Connor raised his fist, morphing his own crossbow. He shot the Commandant straight in the eye.
-	"AAARGH!" the Commandant roared, throwing him to the ground. He ripped the bolt out, and... spotted a blue syringe attached to it.
-	"You think that'll work, traitor?" the Commandant spat. "You think I can't kill you?"
-	A bullet from Ivan - one of his last - slammed into the Commandant's head, hitting him on the temple. The explosion snapped his head sideways, and he staggered slightly - like a human might after a light whack to the head. Nothing more than that.
-	"See..." he grinned. "Still got it."
-	Connor snarled, his claws growing sharper. His eyes flared once more, and he let something wash over him.
-	A thing he'd suppressed.
-	Pain.
-	Hatred.
-	Vengeance.
-	He charged in. His fist made contact with the Commandant's, and both felt their knuckles crack.
-	"YOU TORTURED ME!" Connor roared, delivering a second blow. "YOU CUT ME!"
-	"I MADE YOU STRONG, BOY!" the Commandant barked back, throwing Connor into a rock.
-	Connor cracked his head against the stone, but rose anyway.
-	"I WAS A *HUMAN!*" he screamed, pouncing into the air and slashing wildly. "I WAS A HUMAN BOY, AND YOU *STOLE THAT FROM ME!* AND THEN YOU *LEFT* ME! BEATEN! BROKEN! *BLEEDING!* YOU TURNED ME INTO A *FUCKING _MONSTER!_*"
-	The Commandant's flesh tore under Connor's assault, while Sparky and Trey forced themselves to rise. The hate - the pain that Connor felt - flashed through their skulls too.
-	The Commandant was hurt, sure - but he had more than enough left. He slammed his boot into Connor's head, before picking him up and slamming him down against his knee. The crunching sound of his back filled the air, before he tossed the limp, bleeding berserker towards his friends.
-	"ABOMINATION!" a voice boomed from the edge of the valley.
-	The fighters looked up, and saw it.
-	The Judge.
-	"Oh, hey buddy." the Commandant grinned. "Seems I've had all the fun, I'm afraid."
-	"Oh, the fun has only just begun." the Judge smiled, sliding down.
-	"Connor's mine. You can have his friends." the Commandant snarled.
-	The Judge approached the pile of broken Werewolves, then turned to the Commandant.
-	"If you want to kill *them...*" they growled, drawing their blades, "Then you'll have to go through *me.*"
+"Tsentral'nyy, eto Verdikt." Ivan whispered into the radio.
+"Verdict, this is Bevan. What's your sitrep?"
+"The Judge has arrived... and it's fighting the Commandant."
+A pause.
+"How about our team?" Bevan finally asked.
+"Wounded. Clinging on." Ivan replied. "I'm almost out of ammo."
+"Ivan--uh, Verdict - save your shots." Chloe cut in. "I've got a plan, and it needs your bullets."
+"Derrington is right." Morozov agreed. "Maintain obs, but do not engage. Keep us in the loop on the fight."
+"Prinyal." Ivan nodded, observing the battle from his scope.
 
-SCENE - Battle of Karelia - Part 2
+"DIE, ABOMINATION!" the Judge screamed. Their swords were shattered now - replaced with morphed claws. The Commandant had likewise opted for wrist-blades. Each monster took out chunks of the other.
+The Commandant sent a stab-punch to the Judge's chest, puncturing into their upper-right lung. The Judge, unbothered, struck out at the Commandant's neck, aiming for the jugular.
+Blood sprayed out from both, as they fell backwards, clutching and closing their wounds.
+"I'm gonna kill you, alien." the Commandant spat. "There'll be no room for your kind in my new world."
+"I should've realised it sooner." the Judge hissed back. "I should've noticed the lies of the False Lord when he made the likes of *you.*"
+The two charged forward, and slashed. The air stood still for a moment, as both tore past the other. After a second that felt like an hour, a disgusting slipping noise emanated from both.
+The Commandant's hand fell off. As did the Judge's top half.
 
-	"I always knew I couldn't trust you, alien." the Commandant growled. "You and our boss."
-	"Likewise, abomination." the Judge snarled back. The two monsters circled each other, like beasts fighting over a kill.
-	Connor rose, readying his claws.
-	"Down, youngblood." the Judge barked. "This one's head belongs to me."
-	"Lucky you, boy." the Commandant hissed. "Take a break while I kill the freak."
-	The Judge was done playing. They rushed in, their blade clashing against the Commandant's skin.
-	Every cut on the Commandant's body had been delivered by the boys sending their hardest strikes, their strongest slashes.
-	This was an opening slice, and red droplets splashed onto the snow.
-	The Commandant replied by sending a punch into the Judge's gut. A punch so hard, it shook the air and sent them an inch upwards. Undeterred, the Judge spun in a whirlwind motion, tearing flesh from the Commandant's hide. The two fiends were locked in a fight to the bitter end.
+"Chloe, I must protest." Bevan pressed, rushing after her.
+"No offence, Major, but you'll need two hands for this." she shook her head, zipping up an NBC suit.
+"None taken. But we have the Jotunns!" he begged.
+"There's no NBC suits for them. They won't fit in the Kestrel. And we need them here, in case things go sour, to hold off the Commandant while you evacuate." she replied clinically, boarding the VTOL.
+"Ready to deploy?" the pilot asked, seating in the cockpit.
+"Almost." Chloe nodded, strapping herself in. A pair of Jotunns rushed over, carrying barrels which they loaded into the craft.
+"Chloe..." Bevan began.
+"Major, the man I love is out there. As are two of my best friends. And they could all die if I don't do this." she cut in.
+Bevan sighed deeply. "Be careful."
 
-	"Tsentral'nyy, eto Verdikt." Ivan whispered into the radio.
-	"Verdict, this is Bevan. What's your sitrep?"
-	"The Judge has arrived... and it's fighting the Commandant."
-	A pause.
-	"How about our team?" Bevan finally asked.
-	"Wounded. Clinging on." Ivan replied. "I'm almost out of ammo."
-	"Ivan--uh, Verdict - save your shots." Chloe cut in. "I've got a plan, and it needs your bullets."
-	"Derrington is right." Morozov agreed. "Maintain obs, but do not engage. Keep us in the loop on the fight."
-	"Prinyal." Ivan nodded, observing the battle from his scope.
+The Commandant howled, gripping his arm-stump. His eyes flashed a bright red, the fury cutting through the xeno-endorphins.
+At this, the three Werewolves rose. Catching their breaths, they injected each other with Paradrenaline, and charged to meet the monster.
+The force of their impact shook the snow in the valley, echoing out into the forests above.
+But it just wasn't enough.
+Trey gladly broke his fists against the Commandant's hide, his pain fading as he felt flesh rip around his shattered knuckles. Sparky tore out chunks of meat with such ferocity, his own teeth came loose. Connor drove his claws deep into the Commandant's thigh, hitting an artery and being showered in blood.
+The Commandant didn't break.
+First, he grabbed Trey, and wrapped his hand around the man's neck. Squeezing and shaking, he felt the windpipe crush, before the neck-bones made a sickening snap. Trey's limp body fell down, his face contorting and his teeth gnashing - trying, in vain, to get back up and kill.
+Sparky was the next victim. The Commandant's hand plunged into Sparky's bleeding mouth, and ripped out his tongue. Then, a wristblade shot out, popping out of Sparky's throat. The wolf fell to the ground, hot blood pouring out.
+Finally, he turned his attention to Connor. Slamming him to the ground, he drove his boot into his face.
 
-	"DIE, ABOMINATION!" the Judge screamed. Their swords were shattered now - replaced with morphed claws. The Commandant had likewise opted for wrist-blades. Each monster took out chunks of the other.
-	The Commandant sent a stab-punch to the Judge's chest, puncturing into their upper-right lung. The Judge, unbothered, struck out at the Commandant's neck, aiming for the jugular.
-	Blood sprayed out from both, as they fell backwards, clutching and closing their wounds.
-	"I'm gonna kill you, alien." the Commandant spat. "There'll be no room for your kind in my new world."
-	"I should've realised it sooner." the Judge hissed back. "I should've noticed the lies of the False Lord when he made the likes of *you.*"
-	The two charged forward, and slashed. The air stood still for a moment, as both tore past the other. After a second that felt like an hour, a disgusting slipping noise emanated from both.
-	The Commandant's hand fell off. As did the Judge's top half.
+The first stomp was almost merciful. By rocking Connor's brain against his skull walls, he lost a little bit of consciousness.
+That made the next hurt a tiny bit less, as his jaw snapped in two.
+*HAWK-ptoo!* he spat weakly, burning a mark into the Commandant's arm-stump.
+"ARGH! Little shit!" he roared, raising his boot again.
+Then another stomp. And another. And another. Before long, Connor's entire lower face was a puddle of red mush and bone fragments. His glowing red eyes stared up, ever defiant.
+The Commandant knelt down, and sighed.
+"Such a waste." he spat, before rising his boot up.
+Blood shot out from Connor's lower face - as his lungs desperately tried to make the noise "Fuck you."
+"What was that?" the Commandant gloated. "I can't hear you."
+And then, a noise boomed from the sky. The Kestrel hovered over the reddened valley.
+The Commandant looked up, and chuckled. "Oh no, not a VTOL! However shall I cope?"
+The doors opened, and Chloe pushed down the barrels. The Commandant punched one before it could hit him, and... he screamed.
+A horrific yellowish gas filled his lungs, while clear liquid burned into his skin. More barrels rained down.
+Ivan looked on, and grinned. "Umnaya devochka."
+He fired Isabella at the barrels, and the exploding bullets ripped them open, spewing out their contents into the valley.
+The blood-soaked snowpit became a yellow, misty crater, and the Commandant hacked and spat bile. He stumbled, and fell to his knees.
+His eyes flashed red, he roared, and sprinted off with superhuman speed, uprooting trees as he pushed into the forest.
+"GO! GO! GO!" Chloe barked, as the Kestrel touched down into the valley. She hopped out, as Connor went deathly still.
+"Come on... come on..." she begged, hoisting him into the craft. She ran over, and did the same for Sparky and Trey.
+Then, she looked down.
+The Judge passed out from the gas and blood loss, but their face was still contorted in hate. The Commandant's severed hand was a pace away.
+She hesitated, but hauled their top half into the craft, and dosed them with xeno-endorphins, ensuring they stayed unconscious. She threw the hand in, and pulled the door shut. The Kestrel tore off into the sky, while Ivan rose up, and began the slow walk back to the labs.
 
-	"Chloe, I must protest." Bevan pressed, rushing after her.
-	"No offence, Major, but you'll need two hands for this." she shook her head, zipping up an NBC suit.
-	"None taken. But we have the Jotunns!" he begged.
-	"There's no NBC suits for them. They won't fit in the Kestrel. And we need them here, in case things go sour, to hold off the Commandant while you evacuate." she replied clinically, boarding the VTOL.
-	"Ready to deploy?" the pilot asked, seating in the cockpit.
-	"Almost." Chloe nodded, strapping herself in. A pair of Jotunns rushed over, carrying barrels which they loaded into the craft.
-	"Chloe..." Bevan began.
-	"Major, the man I love is out there. As are two of my best friends. And they could all die if I don't do this." she cut in.
-	Bevan sighed deeply. "Be careful."
+"GRGRGRGGRGRGAAAGH!" the thug screamed as lightning coursed through his veins. He fell to the ground, and Amy sighed.
+"Jinx, this is Stunlocke. That's the last one." she reported.
+"Nice work." Shannon smiled, her face appearing within Amy's visor. "How's that upgrade working for you?"
+"Battery's still at 70%." Amy grinned. "And the HUD is a nice touch."
+"Thanks. I'm putting together an op on an Eidolon facility - if you and the guys manage to pull it off, I should get some pretty nifty goodies for that suit of yours."
+"Thanks." she nodded, looking out into the distance.
+"What's up?"
+"How do you know something's up?"
+"Because we're on video call? You know I can see your face too, right?"
+"There's a webcam in this thing?"
+"I spare no expense for the city's heroes." Shannon grinned.
+Amy chuckled. "I just... I don't know. Learning about my... about what I really am."
+"You're still Amy. Still Stunlocke."
+"Should I be?"
+"Hm?"
+Amy sighed. "I have the potential to be just as powerful as the others. Instead, I use that potential to shock up goons. I could be out there, in Karelia, fighting--"
+"Even if you were a Werewolf right now, we'd still need someone doing what you're doing." Shannon shook her head. "Connor said it best - the city needs its hero."
+"I suppose." she shrugged. "But I could still be the hero the city needs as a Werewolf. And I could do so much more, too."
+"Well, when Chloe gets back, you guys can figure out how to... I dunno, switch the powers on or whatever. Though to be fair, I think I heard her say she wants to run some tests on you to find out what a Werewolf's biology looks like pre-activation."
+"Hah. Ever the scientist." Amy smirked. "Anyway, how's Whiplash doing?"
+"She's resting right now. I've not told her what's going on in Karelia, just to be safe." Shannon nodded. "We reckon she'll be up and about soon, though."
+"That's good. We could use the extra hands." Amy sighed. "Anyway, I'd better get back to it."
+"See you later, Stunlocke." Shannon smiled.
+"In a while, Jinx." Amy grinned.
 
-	The Commandant howled, gripping his arm-stump. His eyes flashed a bright red, the fury cutting through the xeno-endorphins.
-	At this, the three Werewolves rose. Catching their breaths, they injected each other with Paradrenaline, and charged to meet the monster.
-	The force of their impact shook the snow in the valley, echoing out into the forests above.
-	But it just wasn't enough.
-	Trey gladly broke his fists against the Commandant's hide, his pain fading as he felt flesh rip around his shattered knuckles. Sparky tore out chunks of meat with such ferocity, his own teeth came loose. Connor drove his claws deep into the Commandant's thigh, hitting an artery and being showered in blood.
-	The Commandant didn't break.
-	First, he grabbed Trey, and wrapped his hand around the man's neck. Squeezing and shaking, he felt the windpipe crush, before the neck-bones made a sickening snap. Trey's limp body fell down, his face contorting and his teeth gnashing - trying, in vain, to get back up and kill.
-	Sparky was the next victim. The Commandant's hand plunged into Sparky's bleeding mouth, and ripped out his tongue. Then, a wristblade shot out, popping out of Sparky's throat. The wolf fell to the ground, hot blood pouring out.
-	Finally, he turned his attention to Connor. Slamming him to the ground, he drove his boot into his face.
+Phil took a deep breath, sat in his car. He steeled himself, grabbed the bouquet of roses in the passenger seat, and headed out. He walked towards a grave he knew well.
+"Hey, babe..." he began, looking at the headstone.
 
-	The first stomp was almost merciful. By rocking Connor's brain against his skull walls, he lost a little bit of consciousness.
-	That made the next hurt a tiny bit less, as his jaw snapped in two.
-	*HAWK-ptoo!* he spat weakly, burning a mark into the Commandant's arm-stump.
-	"ARGH! Little shit!" he roared, raising his boot again.
-	Then another stomp. And another. And another. Before long, Connor's entire lower face was a puddle of red mush and bone fragments. His glowing red eyes stared up, ever defiant.
-	The Commandant knelt down, and sighed.
-	"Such a waste." he spat, before rising his boot up.
-	Blood shot out from Connor's lower face - as his lungs desperately tried to make the noise "Fuck you."
-	"What was that?" the Commandant gloated. "I can't hear you."
-	And then, a noise boomed from the sky. The Kestrel hovered over the reddened valley.
-	The Commandant looked up, and chuckled. "Oh no, not a VTOL! However shall I cope?"
-	The doors opened, and Chloe pushed down the barrels. The Commandant punched one before it could hit him, and... he screamed.
-	A horrific yellowish gas filled his lungs, while clear liquid burned into his skin. More barrels rained down.
-	Ivan looked on, and grinned. "Umnaya devochka."
-	He fired Isabella at the barrels, and the exploding bullets ripped them open, spewing out their contents into the valley.
-	The blood-soaked snowpit became a yellow, misty crater, and the Commandant hacked and spat bile. He stumbled, and fell to his knees.
-	His eyes flashed red, he roared, and sprinted off with superhuman speed, uprooting trees as he pushed into the forest.
-	"GO! GO! GO!" Chloe barked, as the Kestrel touched down into the valley. She hopped out, as Connor went deathly still.
-	"Come on... come on..." she begged, hoisting him into the craft. She ran over, and did the same for Sparky and Trey.
-	Then, she looked down.
-	The Judge passed out from the gas and blood loss, but their face was still contorted in hate. The Commandant's severed hand was a pace away.
-	She hesitated, but hauled their top half into the craft, and dosed them with xeno-endorphins, ensuring they stayed unconscious. She threw the hand in, and pulled the door shut. The Kestrel tore off into the sky, while Ivan rose up, and began the slow walk back to the labs.
+KERRY LOUISE MORGAN
+04/07/1968--09/12/1996
+Loving Wife, Daughter, and Mother.
 
-SCENE - Drackhill Reels
+Tears streamed down his cheeks - even 19 years later, the pain was still raw.
+"I..." he spluttered, sinking to his knees. "I promised you I'd protect our baby boy, and... and now I... can't."
+He sobbed, and looked up to the sky.
+"Please, baby... please give me a sign... anything, just to--to know that I'm doing the right thing, I... I can't do this on my own..."
+He looked back down, now crying even harder than before.
+Then, he felt a gentle hand on his shoulder. He startled slightly, but relaxed when he saw the face.
+"Hey, mate." Vince nodded softly. "It's alright. Let it all out."
+"I... I can't do this, Vince. I can't cope with him swannin' off halfway around the world and putting his life on the line, I... I can't lose him, too!"
+"I know... I know..." Vince whispered, hugging him.
+"What do I do?" he asked, through pained breaths.
+Vince sighed, looking out into the distance.
+"Be there for him. Talk to him. Give him... give him something to come back home for."
 
-	"GRGRGRGGRGRGAAAGH!" the thug screamed as lightning coursed through his veins. He fell to the ground, and Amy sighed.
-	"Jinx, this is Stunlocke. That's the last one." she reported.
-	"Nice work." Shannon smiled, her face appearing within Amy's visor. "How's that upgrade working for you?"
-	"Battery's still at 70%." Amy grinned. "And the HUD is a nice touch."
-	"Thanks. I'm putting together an op on an Eidolon facility - if you and the guys manage to pull it off, I should get some pretty nifty goodies for that suit of yours."
-	"Thanks." she nodded, looking out into the distance.
-	"What's up?"
-	"How do you know something's up?"
-	"Because we're on video call? You know I can see your face too, right?"
-	"There's a webcam in this thing?"
-	"I spare no expense for the city's heroes." Shannon grinned.
-	Amy chuckled. "I just... I don't know. Learning about my... about what I really am."
-	"You're still Amy. Still Stunlocke."
-	"Should I be?"
-	"Hm?"
-	Amy sighed. "I have the potential to be just as powerful as the others. Instead, I use that potential to shock up goons. I could be out there, in Karelia, fighting--"
-	"Even if you were a Werewolf right now, we'd still need someone doing what you're doing." Shannon shook her head. "Connor said it best - the city needs its hero."
-	"I suppose." she shrugged. "But I could still be the hero the city needs as a Werewolf. And I could do so much more, too."
-	"Well, when Chloe gets back, you guys can figure out how to... I dunno, switch the powers on or whatever. Though to be fair, I think I heard her say she wants to run some tests on you to find out what a Werewolf's biology looks like pre-activation."
-	"Hah. Ever the scientist." Amy smirked. "Anyway, how's Whiplash doing?"
-	"She's resting right now. I've not told her what's going on in Karelia, just to be safe." Shannon nodded. "We reckon she'll be up and about soon, though."
-	"That's good. We could use the extra hands." Amy sighed. "Anyway, I'd better get back to it."
-	"See you later, Stunlocke." Shannon smiled.
-	"In a while, Jinx." Amy grinned.
+Connor woke from his healing coma, launching a globule of blood and bile from his face. He snapped up, and looked around frantically. Immediately, he spotted his friends, and relaxed.
+"You're okay, you're okay." Chloe rushed over.
+Trey came too. He had morphed a neck-brace, and was still in his costume - minus the mask. Sparky dragged himself over, his mouth still toothless and torn.
+Connor tried to speak, but only made a hissing, rasping noise. He touched his mouth, and... no he didn't. There was no mouth.
+Chloe grabbed a glass, and handed it over. Connor looked at his reflection.
+Calling it a 'face' was incredibly generous. Everything from the nose down had been smashed into an unrecognisable mush. Cracks and bruises adorned the top half of his head. Fresh bone-pulp was forming around the edges of his head, developing into embryonic jawbones.
+He grabbed his packmates' shoulders, and closed his eyes, pressing his mind into them.
+"Where are we?" he thought.
+"Back in that KGB lab." Trey explained. "That 'Commandant' bloke managed to escape, but we're alive at least."
+"I only just woke up, too." Sparky thought. "That monster hurt our mouths really badly."
+"How are you doing?" Connor asked Trey.
+"I'm fine. Chloe re-set my neck. Still feel like shit, but nowhere near as bad as you guys."
+Connor thought for a moment, and morphed. The black tar poured out of his skin and formed around his 'face,' forming a prosthetic jaw.
+"Nice." Trey grinned. "Don't think she'll be kissing you for a little while, though."
+"That, and I did the acid trick. So realistically, I'd have to wait 12 hours anyway." Connor snarked.
+Chloe chuckled, and wrapped her arms around him. He smiled warmly, resting his head against hers.
+"That thing was..." she began, lost for words.
+"He could've killed Junior in five minutes flat." Connor grimaced. His words were slurred from the crudeness of his jaw.
+"No kidding. The three of us, *plus* the Judge?" Trey shuddered.
+"I hate him. I wish I could hate him to death!" Sparky barked.
+"I got his hand." Chloe nodded. "I'll take a look as soon as we get back to Drackhill."
+"Did we kill him?" asked Connor.
+Chloe sighed, and squeezed him tightly. "I'm so sorry... I thought the gas would at least incapacitate him. He escaped."
+"Don't be sorry, you did the right thing." Connor said, trying and failing to animate a smile. "You saved our lives. What happened to the Judge?"
+"They're downstairs." Sparky answered. "Locked up, with more of that stinky gas ready to go if they try anything."
+Connor chuckled, and stood. His whole body ached, but he didn't care.
+"I wanna see them." he said, his words slurred.
+"Why?" asked Sparky.
+"The Judge wants the Commandant dead, same as us. And they want it for a reason. I wanna know why. And to do that... I'm gonna have to ask them."
+The group headed downwards, into the facility.
 
-	Phil took a deep breath, sat in his car. He steeled himself, grabbed the bouquet of roses in the passenger seat, and headed out. He walked towards a grave he knew well.
-	"Hey, babe..." he began, looking at the headstone.
+Chloe cautiously approached the blast-proof screen. Behind it, the Judge - or rather, their top half - was reclined on a hospital bed. Barrels of toxic gas surrounded them, with remote-detonated charges fixed to the bases, ready to coat the room in chlorine should the Judge opt for a repeat incident. Stubby little legs poked out from their abdomen.
+She leaned into the microphone.
+"Can you hear me?" she asked.
+"Leave me, human." they replied. "Let me rest."
+"I want some answers, first." she said coldly. "I bet you're hungry, right? Regrowing your entire bottom half... maybe you answer my questions, and I get you some food."
+"Maybe I let myself starve, and you get no answer at all." the Judge grinned.
+"Why'd you save the others? Why did you attack the Commandant?" she asked.
+Silence.
+"Okay, have it your way." she sighed. "I just got the vibe that you were some honourable warrior."
+"Do not *dare* question my honour, human." the Judge snapped.
+"Oh." Chloe chuckled. "Did I hit a nerve?"
+The Judge's lip curled, and they shuffled to sit up on their waist.
+"I attacked the Abomination, because I want it to die." they finally said. "The life or death of the youngbloods was of no consequence to me."
+"Then why didn't you wait until they'd died? They could've hurt him more. You could've had a better chance at killing him."
+"I will not explain myself to a human. I will not debase my thoughts by speaking them in your tongues." they snarled.
+"Fine. Tell me about yourself, then." she shrugged. "What's your name?"
+"I am the Judge. 'Kakhral' in my tongue. Supreme Ashkat-Narud of the 12th Legion. Vanquisher of the Daelach Heresy. Conqueror of Zaklat V. Scourge of Rynns. A thousand Thraxi died screaming but some of these titles - I can go on."
+"Kakhral. Is that your name, then?" Chloe asked, thoroughly unimpressed.
+"It is my purpose."
+"Your people don't have names?"
+The Judge paused. "My... my people have no need of them."
+"Why not?"
+"We are soldiers." they finally answered. "Tools. Weapons. Bullets, even. Giving us a name is as logical as giving your gun a name."
+"Shh, it's okay. Don't cry." Ivan whispered to Isabella, grinning as he stroked her barrel. Chloe stifled a chuckle.
+"Do you have a name?" the Judge asked.
+"My name is Chloe. Chloe Derrington." she replied.
+"Ah. You killed me." they nodded.
+"I just cooked up the endorphins." she shrugged.
+"Indeed you did, Chloe-Chloederrington."
+"That's--" she began, before stopping herself.
+"Nekh-shar, morai. Thrax-shar, xel." they said, like a quote.
+"Can you translate that, please?" she asked.
+"In faith, strength. In heresy, weakness." Trey cut in. "I... I don't know why I know that."
+"Ah, youngbloods." the Judge smiled. "And you - the freshest of the pack."
+"What did you mean by that?" asked Chloe.
+"That was what the Uunadari told us. But it was not heresy that made me weak - it was the venom you cut into my hide. A lie."
+"Uunadari?" Trey tilted his head. "I can't get an exact translation. Preachers?"
+"I got 'Prophets.'" Connor shrugged.
+"Yes..." the Judge growled. "But now, I see they were liars. The poisons of Chloe-Chloederrington is but one proof. Your blade liberated more than my head from my shoulders - mine eyes have been opened."
+"Why are you on Earth?" Chloe cut in.
+"I was sent here by the Uunadari to await the arrival of the Great One. And I thought I had found them."
+"Who did you think you found?"
+"The Lord." the Judge nodded. "I swore my fealty to them."
+"Who's the Lord?" Chloe pressed.
+"They are the Lord." the Judge shrugged. "They never saw fit to tell me more."
+Connor timidly approached the screen, looking the Judge in the eyes.
+"Where did you come from?"
+"From the stars, youngblood." the Judge smiled, almost warmly.
+"Tell me about your people. Please."
+The Judge sighed. "I have no people. I am a Golgothan - we are vat-grown from genetic templates."
+"Clones?" Chloe tilted her head. "You're clones?"
+"Yes. We are produced by the Makers for war."
+"Makers?" Trey pressed. "Someone made us?"
+"Not *you,* youngblood. My Makers were a different being. The Golgothan Legions were created by the Conclave - uplifted from base animals into warriors. We are the blade of the Malkaean Dominion."
+The Judge closed their eyes for a moment, letting nostalgia wash over them.
+"My earliest memories are of being deployed to retake the holy world of Zaklat V. The Rynns had foolishly sought to defile it, and so my Legion descended upon them, and sent their soldiers' souls to the King of Graves."
+"Dominion?" Trey cocked an eyebrow. "Is that why you're here on Earth? To conquer us?"
+"I came here alone, in sacred duty." the Judge shook their head. "The Dominion lies far away, beyond the Veil. Your world is safe from us as long as it stands."
+"The Veil?" Chloe asked.
+"A barrier of dark energy that makes reliable travel impossible." they explained clinically. "The Uunadari believed that beyond it lies an avatar of the Great One."
+"So, you're not just a soldier. You're special forces. On a solo mission." Ivan noted. "Are all your people like you?"
+"How observant, Convert." the Judge grinned. "No. The Golgothans are the greatest army in the galaxy. But we - myself and the youngbloods - are more than our host races. We are Moxidari."
+"What's that?" asked Connor. "I can't make out the word."
+"Your tongues are not advanced enough for it." they shrugged. "The Moxidari are the Moxidari. There is no other term. The closest term in a human tongue I've ever heard... was 'Berserker.'"
+"Is it your word for people who were given the Serum before birth?" asked Chloe.
+"Yes." the Judge nodded. "It was applied across my entire batch. Only I survived."
+"But you're all identical?" Chloe tilted her head. "And you're all vat-grown? The circumstances of your gestation would be identical, no?"
+"Such is the mystery of the Moxidari - the Berserkers." the Judge shrugged. "I am not a scholar, Chloe-Chloederrington. I cannot answer all your questions."
+"Maybe you can answer mine." Connor began. He placed his hand against the glass.
+"What are you doing?" Chloe whispered. The Judge placed their own hand up to Connor's.
+Even through the glass, the two Berserkers could join their minds together. Such a merge was far from the wholesome union of comrades he had felt with Sparky and Trey. Instead... he saw into the mind of a soldier, born for war.
+He felt the recoil of a magnetic rifle as it punched through enemy lines. He saw the fear in a red-scaled reptilian, as their blade sank into it. He felt the lashes of pain as Uunadari delivered flagellation after flagellation. He felt the Judge's ship crash into the Earth, and he felt the moment the Judge re-awoke from stasis - and the moment they drove their blades through Connor's chest.
+He looked up, and saw the False Lord. An old white man, with slicked-back hair, a cropped beard, and an impeccable suit. His violet eyes shone, and he felt the Judge genuflect.
+Finally, both pulled back.
+"Why?" Connor asked. "Why save us?"
+The Judge looked away. "I... I saw nothing."
+"What do you mean?" Chloe pressed.
+"I was raised in the Faith." they began. "I was always told - the faithful servants of the Great One will sit at their table in death. I have always been a faithful servant. But when I died... I saw nothing. No table. No glory. No Great One. All I could perceive was pain."
+"So that's what it was? A crisis of faith?" asked Connor.
+"A betrayal. By the Uunadari, by the Great One, by the False Lord... and so I responded in kind. If the Great One shall not embrace me, then I shall turn away from their light."
+A tense silence filled the room.
+"I have said all I wish to." the Judge began. "Please, leave me."
+"Let's go." Connor nodded to the others. They followed him to a private segment of the laboratory.
 
-	KERRY LOUISE MORGAN
-	04/07/1968--09/12/1996
-	Loving Wife, Daughter, and Mother.
+"What did you see?" asked Chloe.
+"I'm not sure." Connor admitted. "There was a human - some aristo, by the looks of it - who the Judge *thought* was their messiah. They were an Esper - that's for sure."
+"Who were they?" Trey tilted his head.
+"No idea. I guess a mix of being from another species, and being from one where you're all identical, makes facial recognition quite hard. The Judge didn't remember anything we'd find identifiable, so I couldn't see it."
+"The real question is... what do we do with them?" Bevan said, rubbing his eye.
+"We can't trust them." Chloe shook her head.
+"They saved our lives." Trey countered.
+"They tried to kill us." Sparky cut in.
+"We share an enemy." Bevan sighed.
+"You're not seriously suggesting that we *ally* with that... that *thing?*" Ivan pulled his head back.
+"I don't know if we can trust them or not." Connor said finally. "But I do know that when they spoke to us just now, they weren't lying."
+"I felt that too." Trey nodded. "This... telepathy thingy, it's weird. But I could tell they were telling the truth."
+"Me too." Sparky added. "But just because they're being honest doesn't change what they did!"
+"I know." Connor sighed. "But the Major's right - we share an enemy. Beggars can't always be choosers."
+"What are you suggesting?" Chloe tilted her head.
+Connor stroked his chin. "We bring them back to Drackhill. I know, it's a big risk - but we killed them before, and that was without Trey, and with Amy and Gwen tied up fighting Super-Agents. If they try anything funny - and I mean *anything* - they won't have long to regret it."
+Bevan nodded. "Connor's right. You can take them on again. But after seeing that interrogation... I don't think you'll need to."
+Connor took a deep breath. "I'll go offer our terms."
 
-	Tears streamed down his cheeks - even 19 years later, the pain was still raw.
-	"I..." he spluttered, sinking to his knees. "I promised you I'd protect our baby boy, and... and now I... can't."
-	He sobbed, and looked up to the sky.
-	"Please, baby... please give me a sign... anything, just to--to know that I'm doing the right thing, I... I can't do this on my own..."
-	He looked back down, now crying even harder than before.
-	Then, he felt a gentle hand on his shoulder. He startled slightly, but relaxed when he saw the face.
-	"Hey, mate." Vince nodded softly. "It's alright. Let it all out."
-	"I... I can't do this, Vince. I can't cope with him swannin' off halfway around the world and putting his life on the line, I... I can't lose him, too!"
-	"I know... I know..." Vince whispered, hugging him.
-	"What do I do?" he asked, through pained breaths.
-	Vince sighed, looking out into the distance.
-	"Be there for him. Talk to him. Give him... give him something to come back home for."
+The Judge sighed at Connor's approach.
+"I thought I said I was done talking, youngblood."
+"Then listen." Connor folded his arms. "You wanna fight this Lord? Destroy the Optimates? Kill the Commandant?"
+"With every fibre of my being." they snarled.
+"Then come back to Drackhill with me."
+"Hm?"
+Connor hesitated. "We're both Berserkers. And we share an enemy. For now, I'm guessing that's enough."
+The Judge rose on their still-healing legs, and stared into his eyes.
+"You follow *our* orders. You don't kill any humans. And if you fuck with my friends, I'll kill you again. But the Optimates? They're fair game."
+A savage grin cracked over their face.
+"'Fair game.'" they growled excitedly. "I like that."
+"Can you abide by my terms?"
+The grin only widened.
+"You're bold, youngblood. If I had dictated to my elders like this..."
+They took a deep breath, and their eyes flashed.
+"I accept your terms. Norai Hekhna Zer-Shal."
+"By Blood and Hate, We Serve." Connor whispered in translation. "I can live with that."
 
-SCENE - Karelia - Aftermath
+Amy's helm clicked open as she pulled it from her head. She shook her hair free.
+"Damn..." Bea grinned. "You know, Stunlocke was always the cooler hero, in my humble opinion."
+"I'll miss it." Amy sighed. "But hey, who needs a Pulsar when you can just punch someone through a wall."
+Bea chuckled. "Do you need a hand getting out of that thing, or?"
+"Oh, offering to undress me now?" Amy chuckled. Bea blushed slightly.
+"Guys!" Shannon rushed in. "The Kestrel's touching down - they're back."
+"I'll go get Vince and Phil." Bea nodded. "See you out there!"
+Amy waved her off, and headed outside with Shannon.
 
-	Connor woke from his healing coma, launching a globule of blood and bile from his face. He snapped up, and looked around frantically. Immediately, he spotted his friends, and relaxed.
-	"You're okay, you're okay." Chloe rushed over.
-	Trey came too. He had morphed a neck-brace, and was still in his costume - minus the mask. Sparky dragged himself over, his mouth still toothless and torn.
-	Connor tried to speak, but only made a hissing, rasping noise. He touched his mouth, and... no he didn't. There was no mouth.
-	Chloe grabbed a glass, and handed it over. Connor looked at his reflection.
-	Calling it a 'face' was incredibly generous. Everything from the nose down had been smashed into an unrecognisable mush. Cracks and bruises adorned the top half of his head. Fresh bone-pulp was forming around the edges of his head, developing into embryonic jawbones.
-	He grabbed his packmates' shoulders, and closed his eyes, pressing his mind into them.
-	"Where are we?" he thought.
-	"Back in that KGB lab." Trey explained. "That 'Commandant' bloke managed to escape, but we're alive at least."
-	"I only just woke up, too." Sparky thought. "That monster hurt our mouths really badly."
-	"How are you doing?" Connor asked Trey.
-	"I'm fine. Chloe re-set my neck. Still feel like shit, but nowhere near as bad as you guys."
-	Connor thought for a moment, and morphed. The black tar poured out of his skin and formed around his 'face,' forming a prosthetic jaw.
-	"Nice." Trey grinned. "Don't think she'll be kissing you for a little while, though."
-	"That, and I did the acid trick. So realistically, I'd have to wait 12 hours anyway." Connor snarked.
-	Chloe chuckled, and wrapped her arms around him. He smiled warmly, resting his head against hers.
-	"That thing was..." she began, lost for words.
-	"He could've killed Junior in five minutes flat." Connor grimaced. His words were slurred from the crudeness of his jaw.
-	"No kidding. The three of us, *plus* the Judge?" Trey shuddered.
-	"I hate him. I wish I could hate him to death!" Sparky barked.
-	"I got his hand." Chloe nodded. "I'll take a look as soon as we get back to Drackhill."
-	"Did we kill him?" asked Connor.
-	Chloe sighed, and squeezed him tightly. "I'm so sorry... I thought the gas would at least incapacitate him. He escaped."
-	"Don't be sorry, you did the right thing." Connor said, trying and failing to animate a smile. "You saved our lives. What happened to the Judge?"
-	"They're downstairs." Sparky answered. "Locked up, with more of that stinky gas ready to go if they try anything."
-	Connor chuckled, and stood. His whole body ached, but he didn't care.
-	"I wanna see them." he said, his words slurred.
-	"Why?" asked Sparky.
-	"The Judge wants the Commandant dead, same as us. And they want it for a reason. I wanna know why. And to do that... I'm gonna have to ask them."
-	The group headed downwards, into the facility.
+The Kestrel's engines slowly stopped roaring as she landed in the Riverside car park. The pilot made sure to land her in the lines of a parking bay, grinning as the landing pods folded out.
+The back door swung downwards, and the humans of Riverside looked up as the squad stepped out.
+"Hey!" Amy smiled, hugging Connor.
+"Whoa, hey!" he grinned. "Where's Amy, and what have you done with her?"
+"Shut up, fuckface."
+"*There* she is!"
+"Good to see you, lad." Vince beamed.
+"Hey, dad!" Trey cheered, hugging Phil.
+"Hey, my boy..." Phil embraced him.
+"Hi guys! How was the city while we were away?" asked Sparky.
+"Not bad, bud!" Shannon smiled. "Amy did good."
+Bea and Chloe didn't speak - they just hugged, melting into it.
+"Wait a sec..." Amy looked up, as Ivan, Bevan, and the final passenger disembarked.
+The Judge rolled their shoulders, taking a deep breath of air.
+Amy ripped the Pulsar from her belt, and fired.
+"Amy, no!" Connor barked. Too late.
+The Judge's eyes blazed crimson. They snarled, but placed their hands on their face, and took a calming breath.
+"Youngblood. Good reflexes, I'll admit." they grinned.
+"What the *FUCK* is he doing here?!" Amy growled.
+"Uh--they. They're on our side now." Trey quickly added.
+"...WHAT?!"
+"Let's talk inside." Connor beckoned. "Amy?"
+She held the Pulsar, still aimed at their chest - but relented, and headed in.
+Connor approached the Judge.
+"That one fears me." they sombrely noted.
+"Can you blame her? You punched a hole through her brother's chest, and sicced a bunch of Super-Agents on her."
+"They fought well against the Converts. They will make a fine Moxidar, in time."
+"In her own time." Connor said firmly. "When she's ready."
+The Judge looked away. "They have a warrior's heart, to attack me like that."
+"Yeah... she really does." Connor nodded. "Anyway... you'll be staying here. At least one of us will be watching you at all times. Remember my terms."
+"I did not save your life just to end it later, youngblood." they cocked an eyebrow. "You will find no quarrel with me."
+"Good."
 
-	Chloe cautiously approached the blast-proof screen. Behind it, the Judge - or rather, their top half - was reclined on a hospital bed. Barrels of toxic gas surrounded them, with remote-detonated charges fixed to the bases, ready to coat the room in chlorine should the Judge opt for a repeat incident. Stubby little legs poked out from their abdomen.
-	She leaned into the microphone.
-	"Can you hear me?" she asked.
-	"Leave me, human." they replied. "Let me rest."
-	"I want some answers, first." she said coldly. "I bet you're hungry, right? Regrowing your entire bottom half... maybe you answer my questions, and I get you some food."
-	"Maybe I let myself starve, and you get no answer at all." the Judge grinned.
-	"Why'd you save the others? Why did you attack the Commandant?" she asked.
-	Silence.
-	"Okay, have it your way." she sighed. "I just got the vibe that you were some honourable warrior."
-	"Do not *dare* question my honour, human." the Judge snapped.
-	"Oh." Chloe chuckled. "Did I hit a nerve?"
-	The Judge's lip curled, and they shuffled to sit up on their waist.
-	"I attacked the Abomination, because I want it to die." they finally said. "The life or death of the youngbloods was of no consequence to me."
-	"Then why didn't you wait until they'd died? They could've hurt him more. You could've had a better chance at killing him."
-	"I will not explain myself to a human. I will not debase my thoughts by speaking them in your tongues." they snarled.
-	"Fine. Tell me about yourself, then." she shrugged. "What's your name?"
-	"I am the Judge. 'Kakhral' in my tongue. Supreme Ashkat-Narud of the 12th Legion. Vanquisher of the Daelach Heresy. Conqueror of Zaklat V. Scourge of Rynns. A thousand Thraxi died screaming but some of these titles - I can go on."
-	"Kakhral. Is that your name, then?" Chloe asked, thoroughly unimpressed.
-	"It is my purpose."
-	"Your people don't have names?"
-	The Judge paused. "My... my people have no need of them."
-	"Why not?"
-	"We are soldiers." they finally answered. "Tools. Weapons. Bullets, even. Giving us a name is as logical as giving your gun a name."
-	"Shh, it's okay. Don't cry." Ivan whispered to Isabella, grinning as he stroked her barrel. Chloe stifled a chuckle.
-	"Do you have a name?" the Judge asked.
-	"My name is Chloe. Chloe Derrington." she replied.
-	"Ah. You killed me." they nodded.
-	"I just cooked up the endorphins." she shrugged.
-	"Indeed you did, Chloe-Chloederrington."
-	"That's--" she began, before stopping herself.
-	"Nekh-shar, morai. Thrax-shar, xel." they said, like a quote.
-	"Can you translate that, please?" she asked.
-	"In faith, strength. In heresy, weakness." Trey cut in. "I... I don't know why I know that."
-	"Ah, youngbloods." the Judge smiled. "And you - the freshest of the pack."
-	"What did you mean by that?" asked Chloe.
-	"That was what the Uunadari told us. But it was not heresy that made me weak - it was the venom you cut into my hide. A lie."
-	"Uunadari?" Trey tilted his head. "I can't get an exact translation. Preachers?"
-	"I got 'Prophets.'" Connor shrugged.
-	"Yes..." the Judge growled. "But now, I see they were liars. The poisons of Chloe-Chloederrington is but one proof. Your blade liberated more than my head from my shoulders - mine eyes have been opened."
-	"Why are you on Earth?" Chloe cut in.
-	"I was sent here by the Uunadari to await the arrival of the Great One. And I thought I had found them."
-	"Who did you think you found?"
-	"The Lord." the Judge nodded. "I swore my fealty to them."
-	"Who's the Lord?" Chloe pressed.
-	"They are the Lord." the Judge shrugged. "They never saw fit to tell me more."
-	Connor timidly approached the screen, looking the Judge in the eyes.
-	"Where did you come from?"
-	"From the stars, youngblood." the Judge smiled, almost warmly.
-	"Tell me about your people. Please."
-	The Judge sighed. "I have no people. I am a Golgothan - we are vat-grown from genetic templates."
-	"Clones?" Chloe tilted her head. "You're clones?"
-	"Yes. We are produced by the Makers for war."
-	"Makers?" Trey pressed. "Someone made us?"
-	"Not *you,* youngblood. My Makers were a different being. The Golgothan Legions were created by the Conclave - uplifted from base animals into warriors. We are the blade of the Malkaean Dominion."
-	The Judge closed their eyes for a moment, letting nostalgia wash over them.
-	"My earliest memories are of being deployed to retake the holy world of Zaklat V. The Rynns had foolishly sought to defile it, and so my Legion descended upon them, and sent their soldiers' souls to the King of Graves."
-	"Dominion?" Trey cocked an eyebrow. "Is that why you're here on Earth? To conquer us?"
-	"I came here alone, in sacred duty." the Judge shook their head. "The Dominion lies far away, beyond the Veil. Your world is safe from us as long as it stands."
-	"The Veil?" Chloe asked.
-	"A barrier of dark energy that makes reliable travel impossible." they explained clinically. "The Uunadari believed that beyond it lies an avatar of the Great One."
-	"So, you're not just a soldier. You're special forces. On a solo mission." Ivan noted. "Are all your people like you?"
-	"How observant, Convert." the Judge grinned. "No. The Golgothans are the greatest army in the galaxy. But we - myself and the youngbloods - are more than our host races. We are Moxidari."
-	"What's that?" asked Connor. "I can't make out the word."
-	"Your tongues are not advanced enough for it." they shrugged. "The Moxidari are the Moxidari. There is no other term. The closest term in a human tongue I've ever heard... was 'Berserker.'"
-	"Is it your word for people who were given the Serum before birth?" asked Chloe.
-	"Yes." the Judge nodded. "It was applied across my entire batch. Only I survived."
-	"But you're all identical?" Chloe tilted her head. "And you're all vat-grown? The circumstances of your gestation would be identical, no?"
-	"Such is the mystery of the Moxidari - the Berserkers." the Judge shrugged. "I am not a scholar, Chloe-Chloederrington. I cannot answer all your questions."
-	"Maybe you can answer mine." Connor began. He placed his hand against the glass.
-	"What are you doing?" Chloe whispered. The Judge placed their own hand up to Connor's.
-	Even through the glass, the two Berserkers could join their minds together. Such a merge was far from the wholesome union of comrades he had felt with Sparky and Trey. Instead... he saw into the mind of a soldier, born for war.
-	He felt the recoil of a magnetic rifle as it punched through enemy lines. He saw the fear in a red-scaled reptilian, as their blade sank into it. He felt the lashes of pain as Uunadari delivered flagellation after flagellation. He felt the Judge's ship crash into the Earth, and he felt the moment the Judge re-awoke from stasis - and the moment they drove their blades through Connor's chest.
-	He looked up, and saw the False Lord. An old white man, with slicked-back hair, a cropped beard, and an impeccable suit. His violet eyes shone, and he felt the Judge genuflect.
-	Finally, both pulled back.
-	"Why?" Connor asked. "Why save us?"
-	The Judge looked away. "I... I saw nothing."
-	"What do you mean?" Chloe pressed.
-	"I was raised in the Faith." they began. "I was always told - the faithful servants of the Great One will sit at their table in death. I have always been a faithful servant. But when I died... I saw nothing. No table. No glory. No Great One. All I could perceive was pain."
-	"So that's what it was? A crisis of faith?" asked Connor.
-	"A betrayal. By the Uunadari, by the Great One, by the False Lord... and so I responded in kind. If the Great One shall not embrace me, then I shall turn away from their light."
-	A tense silence filled the room.
-	"I have said all I wish to." the Judge began. "Please, leave me."
-	"Let's go." Connor nodded to the others. They followed him to a private segment of the laboratory.
+"...so, the Judge is what, our secret alien dad?!" Amy tilted her head.
+"That's... well, it's a bit more complicated, but kinda?" Chloe shrugged. "Their blood was used as the first super-serum on Earth. I suspect it was implanted in-vivo to you three."
+"So they're the one that killed my Kerry..." Phil growled.
+"The Optimates killed her, dad." Trey said softly. "And now the Judge wants to kill them."
+"For now, we make sure at least one of us is with them." Chloe sighed. "From what I can tell though, they're an alien of their word."
+Vince stroked his beard.
 
-SCENE - Leaving Karelia
-
-	"What did you see?" asked Chloe.
-	"I'm not sure." Connor admitted. "There was a human - some aristo, by the looks of it - who the Judge *thought* was their messiah. They were an Esper - that's for sure."
-	"Who were they?" Trey tilted his head.
-	"No idea. I guess a mix of being from another species, and being from one where you're all identical, makes facial recognition quite hard. The Judge didn't remember anything we'd find identifiable, so I couldn't see it."
-	"The real question is... what do we do with them?" Bevan said, rubbing his eye.
-	"We can't trust them." Chloe shook her head.
-	"They saved our lives." Trey countered.
-	"They tried to kill us." Sparky cut in.
-	"We share an enemy." Bevan sighed.
-	"You're not seriously suggesting that we *ally* with that... that *thing?*" Ivan pulled his head back.
-	"I don't know if we can trust them or not." Connor said finally. "But I do know that when they spoke to us just now, they weren't lying."
-	"I felt that too." Trey nodded. "This... telepathy thingy, it's weird. But I could tell they were telling the truth."
-	"Me too." Sparky added. "But just because they're being honest doesn't change what they did!"
-	"I know." Connor sighed. "But the Major's right - we share an enemy. Beggars can't always be choosers."
-	"What are you suggesting?" Chloe tilted her head.
-	Connor stroked his chin. "We bring them back to Drackhill. I know, it's a big risk - but we killed them before, and that was without Trey, and with Amy and Gwen tied up fighting Super-Agents. If they try anything funny - and I mean *anything* - they won't have long to regret it."
-	Bevan nodded. "Connor's right. You can take them on again. But after seeing that interrogation... I don't think you'll need to."
-	Connor took a deep breath. "I'll go offer our terms."
-
-	The Judge sighed at Connor's approach.
-	"I thought I said I was done talking, youngblood."
-	"Then listen." Connor folded his arms. "You wanna fight this Lord? Destroy the Optimates? Kill the Commandant?"
-	"With every fibre of my being." they snarled.
-	"Then come back to Drackhill with me."
-	"Hm?"
-	Connor hesitated. "We're both Berserkers. And we share an enemy. For now, I'm guessing that's enough."
-	The Judge rose on their still-healing legs, and stared into his eyes.
-	"You follow *our* orders. You don't kill any humans. And if you fuck with my friends, I'll kill you again. But the Optimates? They're fair game."
-	A savage grin cracked over their face.
-	"'Fair game.'" they growled excitedly. "I like that."
-	"Can you abide by my terms?"
-	The grin only widened.
-	"You're bold, youngblood. If I had dictated to my elders like this..."
-	They took a deep breath, and their eyes flashed.
-	"I accept your terms. Norai Hekhna Zer-Shal."
-	"By Blood and Hate, We Serve." Connor whispered in translation. "I can live with that."
-
-SCENE - Return
-
-	Amy's helm clicked open as she pulled it from her head. She shook her hair free.
-	"Damn..." Bea grinned. "You know, Stunlocke was always the cooler hero, in my humble opinion."
-	"I'll miss it." Amy sighed. "But hey, who needs a Pulsar when you can just punch someone through a wall."
-	Bea chuckled. "Do you need a hand getting out of that thing, or?"
-	"Oh, offering to undress me now?" Amy chuckled. Bea blushed slightly.
-	"Guys!" Shannon rushed in. "The Kestrel's touching down - they're back."
-	"I'll go get Vince and Phil." Bea nodded. "See you out there!"
-	Amy waved her off, and headed outside with Shannon.
-
-	The Kestrel's engines slowly stopped roaring as she landed in the Riverside car park. The pilot made sure to land her in the lines of a parking bay, grinning as the landing pods folded out.
-	The back door swung downwards, and the humans of Riverside looked up as the squad stepped out.
-	"Hey!" Amy smiled, hugging Connor.
-	"Whoa, hey!" he grinned. "Where's Amy, and what have you done with her?"
-	"Shut up, fuckface."
-	"*There* she is!"
-	"Good to see you, lad." Vince beamed.
-	"Hey, dad!" Trey cheered, hugging Phil.
-	"Hey, my boy..." Phil embraced him.
-	"Hi guys! How was the city while we were away?" asked Sparky.
-	"Not bad, bud!" Shannon smiled. "Amy did good."
-	Bea and Chloe didn't speak - they just hugged, melting into it.
-	"Wait a sec..." Amy looked up, as Ivan, Bevan, and the final passenger disembarked.
-	The Judge rolled their shoulders, taking a deep breath of air.
-	Amy ripped the Pulsar from her belt, and fired.
-	"Amy, no!" Connor barked. Too late.
-	The Judge's eyes blazed crimson. They snarled, but placed their hands on their face, and took a calming breath.
-	"Youngblood. Good reflexes, I'll admit." they grinned.
-	"What the *FUCK* is he doing here?!" Amy growled.
-	"Uh--they. They're on our side now." Trey quickly added.
-	"...WHAT?!"
-	"Let's talk inside." Connor beckoned. "Amy?"
-	She held the Pulsar, still aimed at their chest - but relented, and headed in.
-	Connor approached the Judge.
-	"That one fears me." they sombrely noted.
-	"Can you blame her? You punched a hole through her brother's chest, and sicced a bunch of Super-Agents on her."
-	"They fought well against the Converts. They will make a fine Moxidar, in time."
-	"In her own time." Connor said firmly. "When she's ready."
-	The Judge looked away. "They have a warrior's heart, to attack me like that."
-	"Yeah... she really does." Connor nodded. "Anyway... you'll be staying here. At least one of us will be watching you at all times. Remember my terms."
-	"I did not save your life just to end it later, youngblood." they cocked an eyebrow. "You will find no quarrel with me."
-	"Good."
-
-	"...so, the Judge is what, our secret alien dad?!" Amy tilted her head.
-	"That's... well, it's a bit more complicated, but kinda?" Chloe shrugged. "Their blood was used as the first super-serum on Earth. I suspect it was implanted in-vivo to you three."
-	"So they're the one that killed my Kerry..." Phil growled.
-	"The Optimates killed her, dad." Trey said softly. "And now the Judge wants to kill them."
-	"For now, we make sure at least one of us is with them." Chloe sighed. "From what I can tell though, they're an alien of their word."
-	Vince stroked his beard.
-
-	It was late, now. The Judge had been given a motel room to crash in - one with very obvious cameras, and remote-controlled gas canisters. They scoffed, but took their place.
-	They began making a sign with their hands - a prayer - before cursing and taking a seat. They ran their hands over their scalp.
-	"False one... false one..." they whispered, shaking back and forth.
-	"Oi." a voice called out. They looked up.
-	"You resemble Connorbarrett." they nodded. "Are you of their genestock?"
-	"If that's how aliens ask 'are you family,' then yes." Vince growled, stepping forward.
-	"What do you want, human?" they tilted their head.
-	"My nephew... he's a good boy. He's got a big heart. The one you stabbed him in." he began, with the devil in his eye. "You hurt him. Badly. Now he may be willing to let that slide, but I'm not."
-	"Oh? What do you intend to do?"
-	Vince's lip curled. "If you hurt him again... if you dare to touch a hair on his head... I'll kill you. I don't care what planet you're from, or how strong you are. *I will kill you.*"
-	The Judge's brow furrowed at the insult. They scanned him up and down, before bowing their head in respect.
-	"I believe you."
-	Vince nodded firmly, and left. The Judge leaned back, and closed their eyes, deep in thought.
+It was late, now. The Judge had been given a motel room to crash in - one with very obvious cameras, and remote-controlled gas canisters. They scoffed, but took their place.
+They began making a sign with their hands - a prayer - before cursing and taking a seat. They ran their hands over their scalp.
+"False one... false one..." they whispered, shaking back and forth.
+"Oi." a voice called out. They looked up.
+"You resemble Connorbarrett." they nodded. "Are you of their genestock?"
+"If that's how aliens ask 'are you family,' then yes." Vince growled, stepping forward.
+"What do you want, human?" they tilted their head.
+"My nephew... he's a good boy. He's got a big heart. The one you stabbed him in." he began, with the devil in his eye. "You hurt him. Badly. Now he may be willing to let that slide, but I'm not."
+"Oh? What do you intend to do?"
+Vince's lip curled. "If you hurt him again... if you dare to touch a hair on his head... I'll kill you. I don't care what planet you're from, or how strong you are. *I will kill you.*"
+The Judge's brow furrowed at the insult. They scanned him up and down, before bowing their head in respect.
+"I believe you."
+Vince nodded firmly, and left. The Judge leaned back, and closed their eyes, deep in thought.

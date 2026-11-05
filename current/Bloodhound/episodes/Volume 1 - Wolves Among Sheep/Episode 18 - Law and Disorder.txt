@@ -2,511 +2,497 @@ VOLUME - Wolves Among Sheep
 EPISODE - Law and Disorder
 ============================================================
 
-SCENE - Planning Forward
+Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
+In the back-office, Tommy sat at his desk, while Trey stood.
+"Look, Trey, you're a good kid... you sure you wanna do this?" he asked.
+"Connor's a good kid too, and he's one of your top enforcers now." Trey retorted. "Besides, after the other week - the Skinners don't respect whether or not you're actually in. So, no harm, no foul?"
+"Harm. Foul." Tommy sighed.
+"Look, my dad - he's worried about the mortgage. I just... we need the extra cash. You know how fast I can move bits."
+Tommy chuckled. "That I do... alright, fuck it. Pick up from Mo's place tomorrow at 8PM, drop off in the usual place in Bristol. Don't be an idiot - take the long route. And for Christ's sake, don't use your own car."
+Trey cheered silently. "You won't regret this."
+"Make sure you don't either." Tommy warned. "Believe it or not, I don't actually want you kids to get arrested."
+With that, Connor knocked on the door.
+"Right on cue. Come in." Tommy gestured.
+"Connor! Have a seat." he motioned. He put down the paper he was working on, and smiled.
+"Trey?" Connor asked.
+"Hey, bro!" Trey smiled, scratching the back of his head. "Guessing this is my cue to leave, right? Top secret, and all that."
+Tommy cleared his throat. "What's he talking about, Connor?"
+"I told him how the Werewolf came to visit the other week." Connor explained, twitching his eye slightly. "How we're helping him fight the Skinners."
+Tommy leaned back, nodding subtly. "Well, Trey - I'm sure you understand why that needs to be kept on the DL."
+Trey nodded. "Of course, *boss.*"
+"Boss?" Connor cocked an eyebrow, before nodding in realisation. "Be careful, yeah bro? You need a bodyguard, you know where I am."
+"I could say the same." Trey chuckled. "Let me know if any sexy vampires show up."
+Connor smirked, and took a seat.
+As Trey turned, he saw Sparky traipsing in.
+"Oh my goodness! Whosagoodboyyy? You are!" he cooed.
+"No, you are!" Sparky chuckled, taking his seat by Connor as Trey left.
+"Someone's been a busy boy, eh?" Tommy grinned.
+"Hah, you could say that..." he nodded.
+"Don't sell yourself short. A little birdie told me that a certain Werewolf killed Donovan." Tommy smiled, pouring both a drink.
+Connor chuckled, as the pair clinked their glasses. "That nickname's really growing on people, eh? Oh, speaking of..." he motioned downwards. "This is Sparky. The 'wolf' to my 'were.'"
+"Hello, boy." Tommy smiled. "Damn, he's a big one!"
+"He can speak. And he has my powers." Connor continued nonchalantly.
+"Jesus... he can speak?"
+"Only to me. Perks of being a superhuman." Connor chuckled.
+Tommy grinned. "With Donovan dead, the Skinners are in disarray. But..." his expression turned serious, "We've been seeing more of those... black-veined freaks."
+"Super-Agents." Connor said, sipping his drink. "That's what I've been calling them. Mutants who've taken a serum like the one they gave me. Donovan was one - so was that freak who came for me a couple months ago. But they're weaker than me - I'm not sure why."
+"Maybe what they gave you kills most people, so they made a weaker, safer version?" Tommy pondered aloud.
+"Maybe. The more pressing question is, where the hell are random Skinners getting their hands on super-serum?" Connor tilted his head.
+"Either way, you've been fighting the good fight. Where do you get your info from?"
+"I have a guy - a friend in the KGB. He's been feeding me intel on these freaks. There's this... cabal."
+"Go on?"
+"The Skinners are stooges for this company - Gambit Security Services. Gambit is a front for Paladin PMC. And Paladin is a front for the Optimates."
+"Who?"
+"The cabal. The conspiracy." he sighed. "An international cartel of the ruling class. They're real pieces of work - and somehow, they're involved in whatever happened to me."
+"Holy shit... " Tommy nodded. "Well, speaking of shadowy money, is there a reason an IT consultancy firm based in the Bahamas has been sending us cash?" Tommy asked, eyebrow raised.
+"Killing Hughes wasn't only for the sake of justice. MI5 had a price on his head, and the KGB contracted me to take him out."
+"And they're not part of the conspiracy, then? I'd've thought MI5 would be the first to join up..."
+"It's... complicated." Connor shrugged. "The Optimates officially don't exist - which means that they can't give outright orders. The guy who contracted me wanted Hughes gone."
+"Well, good to hear it. With that money, I've managed to reopen the repair shop, double wages across all our owned firms, and expand into other sectors. With the Skinners getting stronger, we're being seen as the only defence. Shops and pubs are coming to us for protection before we even ask them." Tommy smiled.
+"Well, that's what the Hoods have always been about, eh?" Connor cocked an eyebrow. "I should probably do a few shifts. But hey, been busy."
+"By the way... the police suspect you're involved with us. Well, not you, the Werewolf... but still. There's this detective that came round - I've got history with him. DI Henry Naismith. Supposedly, a stand-up guy - for a copper." Tommy said pensively.
+"Receding brown hair?" Connor tilted his head.
+"That's the one."
+"He shot me in the face last week. Prick." Connor chuckled.
+Tommy grinned. "And you busted his ribs. Plus, you know... you can heal shit."
+"Hmm... I have an idea." Connor pondered.
+"What?"
+"The Optimates thrive in the shadows... you can't win a secret war against them." Connor stared into the distance. "But maybe... if I lead the investigation towards them..."
+"Connor?" Tommy said, unsure.
+"First things first - I'll have a talk with this 'Naismith'. I'll plan a strike against Paladin, and make sure he's there to see it."
+"Smart move." Tommy nodded. "I won't lie, Naismith's close to a crisis of faith. Show him irrefutable proof of these freaks, he might just turn for you."
+Connor smiled. "Call me if you need me. If these bastards hit us, I'm the one who can hit back."
+"You've got it." Tommy nodded. "See you around, comrade."
+"You too." Connor grinned. He turned and left, with Sparky lazily following.
+"You can go to bed, you know." Connor smiled.
+"I know." Sparky yawned. "I like spending time with you."
+"Aww. I like spending time with you too, bud." Connor smiled warmly.
+He pulled out his phone.
+"Hey Verdict." he began. "Need some intel. Do the KGB have the ability to access police personnel files?"
+Ivan audibly grinned. "Well, not *legally,* but we *are* spies. Name?"
+"Naismith. DI Henry Naismith."
 
-	Connor stepped into the Singing Horse late at night, nodding to Pawel. The dim light barely masked the bar's wear and tear, but it felt familiar - like home, if home were a sketchy nightclub. Sparky trotted dutifully at his heel.
-	In the back-office, Tommy sat at his desk, while Trey stood.
-	"Look, Trey, you're a good kid... you sure you wanna do this?" he asked.
-	"Connor's a good kid too, and he's one of your top enforcers now." Trey retorted. "Besides, after the other week - the Skinners don't respect whether or not you're actually in. So, no harm, no foul?"
-	"Harm. Foul." Tommy sighed.
-	"Look, my dad - he's worried about the mortgage. I just... we need the extra cash. You know how fast I can move bits."
-	Tommy chuckled. "That I do... alright, fuck it. Pick up from Mo's place tomorrow at 8PM, drop off in the usual place in Bristol. Don't be an idiot - take the long route. And for Christ's sake, don't use your own car."
-	Trey cheered silently. "You won't regret this."
-	"Make sure you don't either." Tommy warned. "Believe it or not, I don't actually want you kids to get arrested."
-	With that, Connor knocked on the door.
-	"Right on cue. Come in." Tommy gestured.
-	"Connor! Have a seat." he motioned. He put down the paper he was working on, and smiled.
-	"Trey?" Connor asked.
-	"Hey, bro!" Trey smiled, scratching the back of his head. "Guessing this is my cue to leave, right? Top secret, and all that."
-	Tommy cleared his throat. "What's he talking about, Connor?"
-	"I told him how the Werewolf came to visit the other week." Connor explained, twitching his eye slightly. "How we're helping him fight the Skinners."
-	Tommy leaned back, nodding subtly. "Well, Trey - I'm sure you understand why that needs to be kept on the DL."
-	Trey nodded. "Of course, *boss.*"
-	"Boss?" Connor cocked an eyebrow, before nodding in realisation. "Be careful, yeah bro? You need a bodyguard, you know where I am."
-	"I could say the same." Trey chuckled. "Let me know if any sexy vampires show up."
-	Connor smirked, and took a seat.
-	As Trey turned, he saw Sparky traipsing in.
-	"Oh my goodness! Whosagoodboyyy? You are!" he cooed.
-	"No, you are!" Sparky chuckled, taking his seat by Connor as Trey left.
-	"Someone's been a busy boy, eh?" Tommy grinned.
-	"Hah, you could say that..." he nodded.
-	"Don't sell yourself short. A little birdie told me that a certain Werewolf killed Donovan." Tommy smiled, pouring both a drink.
-	Connor chuckled, as the pair clinked their glasses. "That nickname's really growing on people, eh? Oh, speaking of..." he motioned downwards. "This is Sparky. The 'wolf' to my 'were.'"
-	"Hello, boy." Tommy smiled. "Damn, he's a big one!"
-	"He can speak. And he has my powers." Connor continued nonchalantly.
-	"Jesus... he can speak?"
-	"Only to me. Perks of being a superhuman." Connor chuckled.
-	Tommy grinned. "With Donovan dead, the Skinners are in disarray. But..." his expression turned serious, "We've been seeing more of those... black-veined freaks."
-	"Super-Agents." Connor said, sipping his drink. "That's what I've been calling them. Mutants who've taken a serum like the one they gave me. Donovan was one - so was that freak who came for me a couple months ago. But they're weaker than me - I'm not sure why."
-	"Maybe what they gave you kills most people, so they made a weaker, safer version?" Tommy pondered aloud.
-	"Maybe. The more pressing question is, where the hell are random Skinners getting their hands on super-serum?" Connor tilted his head.
-	"Either way, you've been fighting the good fight. Where do you get your info from?"
-	"I have a guy - a friend in the KGB. He's been feeding me intel on these freaks. There's this... cabal."
-	"Go on?"
-	"The Skinners are stooges for this company - Gambit Security Services. Gambit is a front for Paladin PMC. And Paladin is a front for the Optimates."
-	"Who?"
-	"The cabal. The conspiracy." he sighed. "An international cartel of the ruling class. They're real pieces of work - and somehow, they're involved in whatever happened to me."
-	"Holy shit... " Tommy nodded. "Well, speaking of shadowy money, is there a reason an IT consultancy firm based in the Bahamas has been sending us cash?" Tommy asked, eyebrow raised.
-	"Killing Hughes wasn't only for the sake of justice. MI5 had a price on his head, and the KGB contracted me to take him out."
-	"And they're not part of the conspiracy, then? I'd've thought MI5 would be the first to join up..."
-	"It's... complicated." Connor shrugged. "The Optimates officially don't exist - which means that they can't give outright orders. The guy who contracted me wanted Hughes gone."
-	"Well, good to hear it. With that money, I've managed to reopen the repair shop, double wages across all our owned firms, and expand into other sectors. With the Skinners getting stronger, we're being seen as the only defence. Shops and pubs are coming to us for protection before we even ask them." Tommy smiled.
-	"Well, that's what the Hoods have always been about, eh?" Connor cocked an eyebrow. "I should probably do a few shifts. But hey, been busy."
-	"By the way... the police suspect you're involved with us. Well, not you, the Werewolf... but still. There's this detective that came round - I've got history with him. DI Henry Naismith. Supposedly, a stand-up guy - for a copper." Tommy said pensively.
-	"Receding brown hair?" Connor tilted his head.
-	"That's the one."
-	"He shot me in the face last week. Prick." Connor chuckled.
-	Tommy grinned. "And you busted his ribs. Plus, you know... you can heal shit."
-	"Hmm... I have an idea." Connor pondered.
-	"What?"
-	"The Optimates thrive in the shadows... you can't win a secret war against them." Connor stared into the distance. "But maybe... if I lead the investigation towards them..."
-	"Connor?" Tommy said, unsure.
-	"First things first - I'll have a talk with this 'Naismith'. I'll plan a strike against Paladin, and make sure he's there to see it."
-	"Smart move." Tommy nodded. "I won't lie, Naismith's close to a crisis of faith. Show him irrefutable proof of these freaks, he might just turn for you."
-	Connor smiled. "Call me if you need me. If these bastards hit us, I'm the one who can hit back."
-	"You've got it." Tommy nodded. "See you around, comrade."
-	"You too." Connor grinned. He turned and left, with Sparky lazily following.
-	"You can go to bed, you know." Connor smiled.
-	"I know." Sparky yawned. "I like spending time with you."
-	"Aww. I like spending time with you too, bud." Connor smiled warmly.
-	He pulled out his phone.
-	"Hey Verdict." he began. "Need some intel. Do the KGB have the ability to access police personnel files?"
-	Ivan audibly grinned. "Well, not *legally,* but we *are* spies. Name?"
-	"Naismith. DI Henry Naismith."
+Naismith was in his home - a small terraced house. He woke up to his alarm, with a big, fluffy St. Bernard curled up at his feet. He sat up, yawned, and stroked the dog.
+"Good boy." he said gently. The old dog raised his head, smiled, and went back to sleep. Naismith looked down at his alarm clock. It was 5AM.
+He headed downstairs and made himself a coffee. He was wearing a dirty white T-shirt and boxers.
+He drank his coffee, then headed into the bathroom. He noticed his stubble was threatening to grow into a full beard. He sighed, sprayed some deodorant, and got dressed. He gave his dog a stroke.
+"I'll be back later, Max. I'll take you out for a walk, yeah?"
+The dog smiled softly. Naismith headed to the kitchen, checked the dog door was still working, and filled Max's bowls with dog food and water. He sighed, aching somewhat, and headed outside to his car. He entered the car, sighed again, and closed his eyes.
+With that, Connor leaned forward from the back seats.
+"Morning, Detective." he said in a deep, gravelly voice.
+Naismith reached for his gun, but Connor drew his crossbow, and pushed it into Naismith's temple.
+"That would be very foolish." he growled. Naismith nodded and released, holding both hands in the air.
+"Gun. Now." Connor barked. "Any sudden moves, this bolt gets coated in brain."
+Naismith nodded. "Okay. Okay. I'm doing as you say."
+He pulled out his handgun, and passed it to Connor. Satisfied, Connor put it down by his side.
+"There." he said. "Now we can talk like grown ups. Never liked guns, anyway."
+"What, not visceral enough a method of killing for your tastes?" Naismith snarled in an accusatory tone.
+"Hm? No, I just don't want you to shoot me in the face again. Besides, it's the opposite." Connor chuckled grimly. "With your hands, it's much easier to subdue someone without killing them. You can be deliberate. Guns... it's hard to shoot someone non-lethally. The way I see it, if I use my hands, I make sure everyone I kill, I did it on purpose. My conscience can be clean."
+"A clean conscience?! Did you see the man you mutilated at the Hog and Hounds? He's gonna spend the rest of his life in a care home, eating through a straw and shitting into a bag, because of *you!*"
+"After he shot me in the face. People have a habit of doing that, it seems. Tell me, Detective - would you be in control of yourself after that?"
+"I wouldn't be anything, I'd be dead - because I'm not some freak of nature!"
+"Oh, I'm a freak all right - but nature had nothing to do with this." Connor chuckled. "Someone else did. And to find out who... I need your help."
+"What?!" Naismith laughed incredulously. "That's a new one. Never had a criminal come to me for help."
+"Naismith." Connor interrupted. "I read your file. Seems you're well known as the office rat - you've arrested 5 other officers in your career. And, you made it to Detective Inspector, which means you're clever. And cherry on top - you came through good on the Hughes job. So, a clever man with morals. If you can't see there's something bigger going on, no one can."
+"I see two things - right and wrong. The law." Naismith inhaled. "And criminality. And I know which side I'm on. What I want, what I support, is the law. Rule by order. You... you're an anarchist. An insane malcontent."
+"Well, I'm definitely a malcontent." Connor chuckled. "And I couldn't agree more - there's right and wrong. Black and white. Where you are wrong..." he continued, his mask hiding his smirk, "Is which side the law's on. The law is the arm of power. And power has a name. Optimates."
+"What are you talking about?!" Naismith sighed, exasperated.
+"No. If I tell you, you won't believe me. You need to see it for yourself." Connor replied. "I'm going to attack somewhere tonight. I won't tell you where, so you don't crash the party too early - but it's in Marsh Road. Have yourself and your people on standby, and listen out for sounds of a fight. It'll begin at 10 PM. Try not to shoot me in the face again."
+Naismith shook his head. "Why would you tell me that?"
+"So you can get there on time. And see the truth first-hand." Connor nodded.
+Naismith thought for a moment. "It sounds like I'm doing your dirty work for you."
+"No. You're responding to a threat from a serial killer, right?" Connor interjected. "A known, wanted criminal told you where he plans to strike. So, you have a duty to arrive on the scene, no? Also, you kind of owe me for trying to kill me last week. And besides - there's some Super-Agent bodies in it for you."
+"Super-What?!" Naismith asked incredulously.
+"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Vitalis, right?"
+"How do you know about that? Our work with them is top-secret..."
+"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Vitalis. And there'll be more to send them tonight. Are you in, or not?"
+"Fuck you." he growled. "I don't work with criminals, let alone ones that can carve up a young man's face!"
+"What?"
+"Barrett! Connor Barrett! Let me guess, you already forgot about the poor lad, didn't you?!"
+Connor paused, before speaking again.
+"Okay, fine. I went a little overboard with him. But he betrayed me. Besides, he's fine now."
+"'Overboard?!' Are you shitting me?!"
+"Why are you so upset, Detective? Because I hurt traitors... or because you used him, and it backfired?"
+Naismith looked away, his eyes pained.
+"Ah. That's why you came at me on your own, when I killed Donovan. That's the real reason, isn't it?"
+"Shut up."
+"Oh, I'm sure you told yourself plenty of good lies. But deep down... you couldn't stand to be the reason anyone else got hurt. It *sickened* you."
+"I said SHUT UP!"
+Connor grinned. "There. That fire. That's what this city needs. You know that, as well as I. Now, I'm gonna go and get ready to kill some people. You can get a little bit closer to the truth as a result, or not."
+Naismith sighed. "...fine. I'll be there."
+Connor breathed a sigh of relief. He hopped out of the car.
+Naismith rested his head on the steering wheel, and sighed again.
 
-SCENE - Tipping off Naismith
+The gang had gathered around Trey's again for the afternoon - a rare moment where they were all free from work or university - or, in Connor and Sparky's case, a brief repose before their killings that night. Trey had fetched lunch, and they all enjoyed a nice chilled time in.
+Or, it would've been chilled, had Bea not decided to put the local news on.
+"Are you fucking kidding me?!" she snapped at the TV. A debate between the two frontrunners for the mayoral elections - Helen Ward of the United Socialist Party, and incumbent Alan Norris of the British Unionist Party - was playing.
+"I've heard this all before." Connor shrugged. "Though, to be fair, it's my natural instinct to spit at anyone with the word 'Unionist' in their description."
+Trey laughed. "I like him." he said sarcastically.
+"Trey, he wants to make sodomy illegal again." Bea replied, shocked and disturbed.
+"Yeah, grand. I wanna feel dirty when I do it." Trey jeered. The gang erupted in a mix of laughs and groans of disgust - most at the same time.
+"So... okay, don't judge me, but I know fuck all about politics." Amy prefaced in her characteristic tact. "What does the mayor actually do?"
+"Currently, fuck all." Connor snarked. "As I understand it, they're elected by the public, and they decide who gets what job in cabinet - which is how they set overall, valley-wide policies. Then, the local councils - like the borough councils in the city, or the town councils out in the valley - are in charge of most day-to-day services, as well as actually implementing those policies."
+Bea nodded. "That's basically it. The big problem is that the mayor and the councils are so separate - the mayor can't implement policies directly, while at the same time, the councils can't really hold the mayor accountable. The disconnect between the two branches of government is a big reason why nothing ever gets done. London has the exact same problem with its setup - we're in the awkward halfway between a regular county and a devolved government. But even London has an assembly."
+"I'm guessing Ward wants to change that?" Trey grinned. "After all, she seems to be psychically stealing all her policy ideas from you."
+Bea chuckled. "She's an advocate for valley devolution. But in the meantime, she wants councils to elect representatives to an advisory committee, to help bridge the gap."
+"How come we have a mayor for the whole valley?" Chloe asked, egging Bea on. "I'd assume their jurisdiction would be Drackhill City, but you're saying their authority extends out as far as Brynmore."
+"I'm not sure. One of the weird quirks of the valley, I guess." Bea shrugged.
+"...why are you all looking at me?" Connor tilted his head, as a swathe of grinning faces turned to him.
+"We're long overdue a history infodump." Amy snarked.
+Connor rolled his eyes, laughing. "The mayoral office started out as the chief executive of the city as a whole; the boroughs were governed by magistrates, while other parishes had their own leaders - Danwich and Mercy Isle had Bishops, Angleport, Wickermast, and Pencroft had Mayors of their own; while Rexton, Bromney, Polwynn, and Blackmarsh had Barons - and all of them swore fealty to House Calder. But, after 1309, the Mayor took over the duties of the Earl, and then during industrialisation, most government functions got centralised in the city. So, the mayor was the de facto administrator for the whole valley; when the Local Government Act 1974 got put in place, they formalised the position."
+Bea smirked, and pressed play.
+"It's high time we stopped talking so much about 'Human Rights' and began taking seriously our Human Responsibilities. To each other, to our families, to our children." Norris said in response to a question about his views on abortion.
+Bea paused it, infuriated. "What the hell kind of answer is that?!"
+"That was fucking sinister..." Amy chuckled.
+"'Enough about this 'human rights' rubbish, it's time to talk about human wrongs!'" Connor mockingly mimicked, to roars of laughter.
+Bea unpaused it, watching Ward's response.
+"Are you---Did I hear that right? Sorry, are you saying 'Enough about human rights, let's talk about human wrongs!'?!" Ward asked, bewildered.
+The gang immediately roared "Oiiii!" in unison, while Connor took a bow.
+"Psychic thief!" Trey giggled. "She robs the policies off Bea, and the rhetoric off you!"
+"And for my next prophecy..." Connor grinned, before Amy kicked him in the rear.
+"Didn't see that coming, did ya?" she jeered.
+"Little shitbag..." he chuckled, sitting back down.
+Chloe smiled. "It's good to see Bea in her element again." she whispered, while Bea shouted at another line from Norris.
+"Yeah..." Amy nodded. "Good to see her hanging out with us all again, too."
+"It's because Charlie's not here." Chloe said, hiding a scowl. "He's away for the week, thank God."
+"Do you want me to look into him, a little?" Connor tilted his head.
+"No, it's fine. I'm just... nah, it's fine." she shook her head back.
 
-	Naismith was in his home - a small terraced house. He woke up to his alarm, with a big, fluffy St. Bernard curled up at his feet. He sat up, yawned, and stroked the dog.
-	"Good boy." he said gently. The old dog raised his head, smiled, and went back to sleep. Naismith looked down at his alarm clock. It was 5AM.
-	He headed downstairs and made himself a coffee. He was wearing a dirty white T-shirt and boxers.
-	He drank his coffee, then headed into the bathroom. He noticed his stubble was threatening to grow into a full beard. He sighed, sprayed some deodorant, and got dressed. He gave his dog a stroke.
-	"I'll be back later, Max. I'll take you out for a walk, yeah?"
-	The dog smiled softly. Naismith headed to the kitchen, checked the dog door was still working, and filled Max's bowls with dog food and water. He sighed, aching somewhat, and headed outside to his car. He entered the car, sighed again, and closed his eyes.
-	With that, Connor leaned forward from the back seats.
-	"Morning, Detective." he said in a deep, gravelly voice.
-	Naismith reached for his gun, but Connor drew his crossbow, and pushed it into Naismith's temple.
-	"That would be very foolish." he growled. Naismith nodded and released, holding both hands in the air.
-	"Gun. Now." Connor barked. "Any sudden moves, this bolt gets coated in brain."
-	Naismith nodded. "Okay. Okay. I'm doing as you say."
-	He pulled out his handgun, and passed it to Connor. Satisfied, Connor put it down by his side.
-	"There." he said. "Now we can talk like grown ups. Never liked guns, anyway."
-	"What, not visceral enough a method of killing for your tastes?" Naismith snarled in an accusatory tone.
-	"Hm? No, I just don't want you to shoot me in the face again. Besides, it's the opposite." Connor chuckled grimly. "With your hands, it's much easier to subdue someone without killing them. You can be deliberate. Guns... it's hard to shoot someone non-lethally. The way I see it, if I use my hands, I make sure everyone I kill, I did it on purpose. My conscience can be clean."
-	"A clean conscience?! Did you see the man you mutilated at the Hog and Hounds? He's gonna spend the rest of his life in a care home, eating through a straw and shitting into a bag, because of *you!*"
-	"After he shot me in the face. People have a habit of doing that, it seems. Tell me, Detective - would you be in control of yourself after that?"
-	"I wouldn't be anything, I'd be dead - because I'm not some freak of nature!"
-	"Oh, I'm a freak all right - but nature had nothing to do with this." Connor chuckled. "Someone else did. And to find out who... I need your help."
-	"What?!" Naismith laughed incredulously. "That's a new one. Never had a criminal come to me for help."
-	"Naismith." Connor interrupted. "I read your file. Seems you're well known as the office rat - you've arrested 5 other officers in your career. And, you made it to Detective Inspector, which means you're clever. And cherry on top - you came through good on the Hughes job. So, a clever man with morals. If you can't see there's something bigger going on, no one can."
-	"I see two things - right and wrong. The law." Naismith inhaled. "And criminality. And I know which side I'm on. What I want, what I support, is the law. Rule by order. You... you're an anarchist. An insane malcontent."
-	"Well, I'm definitely a malcontent." Connor chuckled. "And I couldn't agree more - there's right and wrong. Black and white. Where you are wrong..." he continued, his mask hiding his smirk, "Is which side the law's on. The law is the arm of power. And power has a name. Optimates."
-	"What are you talking about?!" Naismith sighed, exasperated.
-	"No. If I tell you, you won't believe me. You need to see it for yourself." Connor replied. "I'm going to attack somewhere tonight. I won't tell you where, so you don't crash the party too early - but it's in Marsh Road. Have yourself and your people on standby, and listen out for sounds of a fight. It'll begin at 10 PM. Try not to shoot me in the face again."
-	Naismith shook his head. "Why would you tell me that?"
-	"So you can get there on time. And see the truth first-hand." Connor nodded.
-	Naismith thought for a moment. "It sounds like I'm doing your dirty work for you."
-	"No. You're responding to a threat from a serial killer, right?" Connor interjected. "A known, wanted criminal told you where he plans to strike. So, you have a duty to arrive on the scene, no? Also, you kind of owe me for trying to kill me last week. And besides - there's some Super-Agent bodies in it for you."
-	"Super-What?!" Naismith asked incredulously.
-	"Super-Agents. Not like me - the men I've been killing. You would have seen loads by now." Connor explained clinically. "They have black veins on their eyesockets. Donovan was one. Super-Agents are humans who have been given a serum that changes them, somehow. You've been sending their bodies to Vitalis, right?"
-	"How do you know about that? Our work with them is top-secret..."
-	"Hello? Anarchist malcontent?" Connor jeered. "Safe to say, I know you've been working with Vitalis. And there'll be more to send them tonight. Are you in, or not?"
-	"Fuck you." he growled. "I don't work with criminals, let alone ones that can carve up a young man's face!"
-	"What?"
-	"Barrett! Connor Barrett! Let me guess, you already forgot about the poor lad, didn't you?!"
-	Connor paused, before speaking again.
-	"Okay, fine. I went a little overboard with him. But he betrayed me. Besides, he's fine now."
-	"'Overboard?!' Are you shitting me?!"
-	"Why are you so upset, Detective? Because I hurt traitors... or because you used him, and it backfired?"
-	Naismith looked away, his eyes pained.
-	"Ah. That's why you came at me on your own, when I killed Donovan. That's the real reason, isn't it?"
-	"Shut up."
-	"Oh, I'm sure you told yourself plenty of good lies. But deep down... you couldn't stand to be the reason anyone else got hurt. It *sickened* you."
-	"I said SHUT UP!"
-	Connor grinned. "There. That fire. That's what this city needs. You know that, as well as I. Now, I'm gonna go and get ready to kill some people. You can get a little bit closer to the truth as a result, or not."
-	Naismith sighed. "...fine. I'll be there."
-	Connor breathed a sigh of relief. He hopped out of the car.
-	Naismith rested his head on the steering wheel, and sighed again.
+The moderator moved the debate to the audience questions section, as Bea leaned in, listening intently.
+"My question is to both candidates." one person began. "As you're both aware, following the Local Government Act 2013, this will be the first election in which the responsibilities of the Police and Crime Commissioner will be folded into the office of mayor. What changes will you make to the Drackhill Valley police force after the election?"
+"I would start by removing the restrictions placed upon the police by the political correctness mob, and reinstate Stop and Search." Norris nodded.
+"Of course, Mr. Norris's answer is to reinstate a racist policy that damaged community trust." Ward snarked. "I would start by commissioning a full anti-corruption review of the force, and ensure moving forward that transparency and accountability are a core part of policing in this valley."
+The moderator nodded. "Next, the man in the brown jumper with glasses."
+"Thank you." he rose. "As mayor, you are responsible for the entire valley area, not just Drackhill City. What are some policies of yours that relate to those outside the city?"
+"My opponent seeks to--" Norris began.
+"He's asking you what *your* policies are." Ward grinned.
+Norris cleared his throat, as the crowd murmured in chuckle. "I will... the BUP will cut council tax for rural areas, to relieve the awful burdens placed upon farmers."
+"The same council taxes that spiked under your party's leadership." Ward quipped. "You *do* know the mayor doesn't directly control council tax, right? At most, we can affect the mayoral precept."
+Subdued murmurs of laughter danced across the crowd, as Ward took a breath.
+"I intend to implement free bus services on both sides of the valley, so that rural communities are able to connect with each other more efficiently. I also plan to refurbish Dunmere Railway, and bring back the ferry services from Angleport and Rexton, so you don't have to go all the way to Caldermouth just to take a trip to Brynmore."
+"Next please, the woman with the red jacket and glasses."
+She stood. "Increasingly, people are concerned about the vigilante attacks perpetrated by the so-called 'Werewolf.' Despite this, the police have been unable to identify a suspect, and some people even seem to support him. What are your plans to deal with this situation?"
+"Vigilantism on our streets cannot be tolerated." Norris scowled. "This 'Werewolf' is a terrorist, and should be treated as such. Apprehending him will be my top priority after the election."
+"It's clear that the violence is unacceptable." Ward nodded. "However, the police investigation has failed precisely because the PCC and the Chief Constable have refused to investigate the so-called Skinner gangs. It's not just the Werewolf that needs to be stopped - but the wider conspiracy he is clearly entangled with."
+Connor nodded, smirking slightly. He made a mental note to include Norris as a suspect.
 
-SCENE - TV Debate/Daycare mention
+The debate ended in an official 'tie', but Ward had clearly emerged the victor. Bea was grinning wildly.
+"Anyway... thanks for putting up with me there." she said shyly.
+"Bea, I'm mates with Connor. Compared to his rants about the 'British Bastards,' this was tame." Trey quipped, chuckling.
+"Feck yous." Connor snarked back.
+Bea laughed. "Anyway... what's up with you guys? Any news?"
+"Well, um..." Amy began. "I've applied for a new job."
+"Oh my god, that's great news, hun!" Bea cheered. "Where for?"
+"A dog shelter. It's like a mix of rescue and daycare." she explained, trying and failing to contain her excitement.
+Connor looked on with pride. "Think you can take Sparky?" he quipped.
+"Think they can take *you?*" Sparky hit back, half-asleep.
+"Shut up, lazy-bones." Connor snarked.
+"Eat my tail." Sparky winked, flopping his head back down.
+"God, he's got such good banter for a dog." Trey grinned, hearing only the barks and whines, but getting the gist nonetheless.
+"I'm really proud of you." Chloe nodded warmly. "It sounds like a really good opportunity."
+"Well, I've not exactly got it yet." Amy admitted. "But here's hoping."
 
-	The gang had gathered around Trey's again for the afternoon - a rare moment where they were all free from work or university - or, in Connor and Sparky's case, a brief repose before their killings that night. Trey had fetched lunch, and they all enjoyed a nice chilled time in.
-	Or, it would've been chilled, had Bea not decided to put the local news on.
-	"Are you fucking kidding me?!" she snapped at the TV. A debate between the two frontrunners for the mayoral elections - Helen Ward of the United Socialist Party, and incumbent Alan Norris of the British Unionist Party - was playing.
-	"I've heard this all before." Connor shrugged. "Though, to be fair, it's my natural instinct to spit at anyone with the word 'Unionist' in their description."
-	Trey laughed. "I like him." he said sarcastically.
-	"Trey, he wants to make sodomy illegal again." Bea replied, shocked and disturbed.
-	"Yeah, grand. I wanna feel dirty when I do it." Trey jeered. The gang erupted in a mix of laughs and groans of disgust - most at the same time.
-	"So... okay, don't judge me, but I know fuck all about politics." Amy prefaced in her characteristic tact. "What does the mayor actually do?"
-	"Currently, fuck all." Connor snarked. "As I understand it, they're elected by the public, and they decide who gets what job in cabinet - which is how they set overall, valley-wide policies. Then, the local councils - like the borough councils in the city, or the town councils out in the valley - are in charge of most day-to-day services, as well as actually implementing those policies."
-	Bea nodded. "That's basically it. The big problem is that the mayor and the councils are so separate - the mayor can't implement policies directly, while at the same time, the councils can't really hold the mayor accountable. The disconnect between the two branches of government is a big reason why nothing ever gets done. London has the exact same problem with its setup - we're in the awkward halfway between a regular county and a devolved government. But even London has an assembly."
-	"I'm guessing Ward wants to change that?" Trey grinned. "After all, she seems to be psychically stealing all her policy ideas from you."
-	Bea chuckled. "She's an advocate for valley devolution. But in the meantime, she wants councils to elect representatives to an advisory committee, to help bridge the gap."
-	"How come we have a mayor for the whole valley?" Chloe asked, egging Bea on. "I'd assume their jurisdiction would be Drackhill City, but you're saying their authority extends out as far as Brynmore."
-	"I'm not sure. One of the weird quirks of the valley, I guess." Bea shrugged.
-	"...why are you all looking at me?" Connor tilted his head, as a swathe of grinning faces turned to him.
-	"We're long overdue a history infodump." Amy snarked.
-	Connor rolled his eyes, laughing. "The mayoral office started out as the chief executive of the city as a whole; the boroughs were governed by magistrates, while other parishes had their own leaders - Danwich and Mercy Isle had Bishops, Angleport, Wickermast, and Pencroft had Mayors of their own; while Rexton, Bromney, Polwynn, and Blackmarsh had Barons - and all of them swore fealty to House Calder. But, after 1309, the Mayor took over the duties of the Earl, and then during industrialisation, most government functions got centralised in the city. So, the mayor was the de facto administrator for the whole valley; when the Local Government Act 1974 got put in place, they formalised the position."
-	Bea smirked, and pressed play.
-	"It's high time we stopped talking so much about 'Human Rights' and began taking seriously our Human Responsibilities. To each other, to our families, to our children." Norris said in response to a question about his views on abortion.
-	Bea paused it, infuriated. "What the hell kind of answer is that?!"
-	"That was fucking sinister..." Amy chuckled.
-	"'Enough about this 'human rights' rubbish, it's time to talk about human wrongs!'" Connor mockingly mimicked, to roars of laughter.
-	Bea unpaused it, watching Ward's response.
-	"Are you---Did I hear that right? Sorry, are you saying 'Enough about human rights, let's talk about human wrongs!'?!" Ward asked, bewildered.
-	The gang immediately roared "Oiiii!" in unison, while Connor took a bow.
-	"Psychic thief!" Trey giggled. "She robs the policies off Bea, and the rhetoric off you!"
-	"And for my next prophecy..." Connor grinned, before Amy kicked him in the rear.
-	"Didn't see that coming, did ya?" she jeered.
-	"Little shitbag..." he chuckled, sitting back down.
-	Chloe smiled. "It's good to see Bea in her element again." she whispered, while Bea shouted at another line from Norris.
-	"Yeah..." Amy nodded. "Good to see her hanging out with us all again, too."
-	"It's because Charlie's not here." Chloe said, hiding a scowl. "He's away for the week, thank God."
-	"Do you want me to look into him, a little?" Connor tilted his head.
-	"No, it's fine. I'm just... nah, it's fine." she shook her head back.
+That night, Naismith and Nina sat in the car, parked up in Marsh Road. Nina was sipping a coffee cup, as Naismith looked out the window, deep in thought.
+"So..." she began. "Do you want to tell me why we're here, sir?"
+"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... if we get there as it happens, maybe we can catch the bastard."
+Nina smiled and nodded. "It's a shame we couldn't get armed backup."
+"Yeah... budget cuts." Naismith sighed. "Dorsey's putting all the pressure on us to catch this guy, but he's not giving us anything to work with..."
+"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competence."
+She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
+"You got that right..." he replied, grinning. "Anyway... we've just gotta sit on our arses until something goes down. So, in the meantime..." he shrugged, "Uh... tell me about yourself?"
+Nina chuckled. "You need to brush up on your interrogation technique, sir."
+He laughed. "Yeah, small talk was never my speciality."
+She paused for a moment, thinking. "Well, I live on my own - unless you count my cat, Georgie. What about you?"
+"Same here. Just me and my big ol' Max." he smiled warmly. "Are you a local?"
+"Yeah, born and raised here." she nodded. "My parents moved here in late 80s, just before I came along."
+"Ah, the 80s." Naismith chuckled fondly. "I barely remember them. Good music, at least."
+"What about you, sir? You grew up North, I'm guessing?"
+"Yeah, up near Leeds. Moved here in '98."
+"Any reason you moved?" she asked.
+"Eh. I was fed up with things up there, and wanted a change of scenery." he shrugged. "So, you grew up here, then?"
+"Yeah, that's right." she replied. "I was born in '91. Then, in '96, my mum got pregnant again."
+Naismith nodded, before realising. "You mean..."
+"Yeah." she shuddered. "She wasn't one of the ones who died, but she was pretty badly affected. Aneurysm. She's still alive, in a care home. Sometimes, she does little things that tell me she's still in there, somewhere. My new little brother... he didn't make it."
+"I'm sorry." Naismith shook his head sadly. "Did they ever find out a cause?"
+"No, still nothing. There was a big stink in 2012, some major inquiry or something." she trailed off.
+Naismith awkwardly cleared his throat. "So, um... what about the rest of your family?"
+"My dad's a deadbeat. Haven't seen him since I was little - he bailed after Mum became ill."
+Naismith nodded sympathetically. "My old man was a drinker - a really mean drunk, to boot. My brother would always suck up to him. He and I don't talk anymore - around about the time I joined the police, he joined a gang of racist thugs. Heh, I suppose it's not like the police up there *aren't* a gang of racist thugs. Anyway, it just so happened that I was called out to respond to his gang harassing folk. That was my first assignment after I'd completed my AFO training, and... he had a shotgun on him. I ordered him to put it down, and he didn't comply."
+"Oh, god." Nina shuddered.
+"He's alive. Double-tap to the gut. And he had a beer-belly even bigger than mine." Naismith grinned. "After that, I decided to move down here. Took the detective course, and here we are."
+Nina smiled. "So, what made you want to be a police officer?"
+"I don't know." he shrugged candidly. "The cliche answer is that I wanted to be a better man than my dad and my brother - but the truth is, it was a job - or at least, that's how it started. I wanted to make a difference, sure, but I learned early on that nothing really changes."
+He chuckled. "Sorry, I'm playing up the cynical detective act again. How about you?"
+She laughed, then paused for thought. "I'm not sure, to be honest. I think I wanted to make a difference too. But yeah, I'm learning that it's not that simple. I thought this placement on Serious Crime would let me learn a lot, but so far, no one wants me on their case. Instead I get sent all the paperwork, while the boys in the squad are busy elsewhere."
+Naismith sighed. "That's probably why you're stuck with me. Assign the newbie to the has-been."
+"I'm not sure about that..." she chuckled. "Besides, this vigilante case - it's been a wild ride."
+"Only downside is, I don't think anything you'll learn from it will apply to any normal cases." Naismith snarked.
 
-	The moderator moved the debate to the audience questions section, as Bea leaned in, listening intently.
-	"My question is to both candidates." one person began. "As you're both aware, following the Local Government Act 2013, this will be the first election in which the responsibilities of the Police and Crime Commissioner will be folded into the office of mayor. What changes will you make to the Drackhill Valley police force after the election?"
-	"I would start by removing the restrictions placed upon the police by the political correctness mob, and reinstate Stop and Search." Norris nodded.
-	"Of course, Mr. Norris's answer is to reinstate a racist policy that damaged community trust." Ward snarked. "I would start by commissioning a full anti-corruption review of the force, and ensure moving forward that transparency and accountability are a core part of policing in this valley."
-	The moderator nodded. "Next, the man in the brown jumper with glasses."
-	"Thank you." he rose. "As mayor, you are responsible for the entire valley area, not just Drackhill City. What are some policies of yours that relate to those outside the city?"
-	"My opponent seeks to--" Norris began.
-	"He's asking you what *your* policies are." Ward grinned.
-	Norris cleared his throat, as the crowd murmured in chuckle. "I will... the BUP will cut council tax for rural areas, to relieve the awful burdens placed upon farmers."
-	"The same council taxes that spiked under your party's leadership." Ward quipped. "You *do* know the mayor doesn't directly control council tax, right? At most, we can affect the mayoral precept."
-	Subdued murmurs of laughter danced across the crowd, as Ward took a breath.
-	"I intend to implement free bus services on both sides of the valley, so that rural communities are able to connect with each other more efficiently. I also plan to refurbish Dunmere Railway, and bring back the ferry services from Angleport and Rexton, so you don't have to go all the way to Caldermouth just to take a trip to Brynmore."
-	"Next please, the woman with the red jacket and glasses."
-	She stood. "Increasingly, people are concerned about the vigilante attacks perpetrated by the so-called 'Werewolf.' Despite this, the police have been unable to identify a suspect, and some people even seem to support him. What are your plans to deal with this situation?"
-	"Vigilantism on our streets cannot be tolerated." Norris scowled. "This 'Werewolf' is a terrorist, and should be treated as such. Apprehending him will be my top priority after the election."
-	"It's clear that the violence is unacceptable." Ward nodded. "However, the police investigation has failed precisely because the PCC and the Chief Constable have refused to investigate the so-called Skinner gangs. It's not just the Werewolf that needs to be stopped - but the wider conspiracy he is clearly entangled with."
-	Connor nodded, smirking slightly. He made a mental note to include Norris as a suspect.
+At that, both were startled by a cracking sound in the distance.
+"Gunshots." Naismith snapped into action. He started the car and drove toward the source. Nina put on her bulletproof vest.
+"Control, this is Oscar Charlie 5-2." she said to her radio. "Gunshots heard on Marsh Road. Investigating now."
+"Received, 5-2. Backup ETA is 19 minutes. Proceed with extreme caution, disengage if needed."
+They arrived at the warehouse where the showdown was taking place, and jumped out of the car, pistols drawn.
+"ARMED POLICE!" they both shouted, only to put their guns down in horror.
+The scene that unfolded before them was beyond comprehension. They saw Connor, costumed up and battling a man... no. Not a man. A giant of a man, easily 8 foot tall, and built like an ogre. Every swing of his fists sent shockwaves through the air.
+Connor moved like water, agile and precise. He ducked under a punch, tearing a hole through the wall behind him. His breath was steady, but there was a bestial cunning in his eyes as he calculated his next move.
+Nina stared in horror, as Naismith opened fire on the Giant. The bullets hit his chest, but to no effect.
+The Giant barely flinched. Naismith cursed under his breath and switched tactics, trying to find a weak spot.
+"C-c-control, v-vigilante suspect currently engaged in melee with--with..." Nina stammered into the radio.
+"Repeat, 5-2, what is the situation?"
+"A-a Giant! There's a fuckin' Giant in here!" Nina shrieked back.
+Out of nowhere, a second figure leapt from the shadows - Sparky, clad in his own costume. He landed on the Giant's shoulder, teeth sinking into his flesh with a sickening squelch. The Giant howled in pain, momentarily distracted.
+"Repeat, 5-2. Did you say 'Giant'?" Control asked incredulously.
+Nina ignored it, and shot the Giant. The bullet glanced off, and buried into a wall. The Giant turned, enraged, and launched a crate at her.
+Before it could hit, Connor dived in, taking the impact. He stumbled to his feet, dazed.
+With that, a loud boom filled the warehouse. From above, a figure emerged from the shadows - another soldier, this one dressed in full kevlar and crouching in the rafters like a spider in its web. Ivan. He steadied his rifle, and without hesitation, fired.
+The bullet flew through the air with deadly precision, and with a thwack, it slammed into the Giant's chest. It punched through the thick muscle and bone as if they were made of paper, sending the Giant stumbling back with a gargled roar of agony.
+"Khoroshaya devochka, Isabella." he whispered, blowing his rifle a kiss.
+Connor wasted no time. He charged.
+With a savage, calculated strike, he delivered a devastating blow to the Giant's knee, causing the massive creature to topple like a felled tree.
+He didn't stop there. He pressed his advantage, stepping over the fallen Giant and delivering a bone-shattering stomp to its head. The force of the impact was enough to make the warehouse floor tremble. The Giant's skull caved in with a sickening crunch, and blood splattered across the cold concrete.
+For a moment, the Giant twitched - like a butchered pig in its final moments - but then all went still.
+Connor stood over the massive corpse, his chest heaving with laboured breaths, his eyes glowing faintly red in the dim light. He surveyed the room.
+Naismith ran to Nina's side - her face was pale and her hands trembled. Her gun was trained on Connor.
+"Armed... armed police... sto-stop right th-there..." she said, shaking and stuttering. "Y-you do not have to say anything, b-but it may harm your defence if... if..."
+Naismith gently placed his hand on her shoulder.
+"Nina. It's okay. Put down the gun." he whispered comfortingly. She looked at him, and holstered her gun, a single tear of fear running down her cheek.
+"What... what was that?!" he asked, facing Connor.
+Connor took a deep breath.
+"That was their latest attempt at making a living weapon." he said, kicking his boot out to shake off the brains of the Giant. He sauntered over to a desk, where a man in labcoat's body laid. He grabbed a small device from the corpse. Sparky trotted towards him.
+Ivan jumped down. "We got reports that they had deployed such a monster to the city." he said grimly. "If this won't convince you something horrible is brewing, nothing will."
+"What... what are we supposed to do now?" Naismith asked.
+"*We* don't do anything." Connor shook his head. "You call it in, and reveal what you saw here. Then, have this body analysed - I'm sure you'll find some interesting facts about its biology."
+Nina looked at him, shocked. "Sir... did... did you know?"
+"No! Nina, I swear... I only knew the Werewolf would be here. He told me he would 'show me the truth' - I didn't think it would be this."
+Nina paused, then grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
+"Received, 5-2. FI's en route, ETA 24 minutes." the radio replied.
 
-	The debate ended in an official 'tie', but Ward had clearly emerged the victor. Bea was grinning wildly.
-	"Anyway... thanks for putting up with me there." she said shyly.
-	"Bea, I'm mates with Connor. Compared to his rants about the 'British Bastards,' this was tame." Trey quipped, chuckling.
-	"Feck yous." Connor snarked back.
-	Bea laughed. "Anyway... what's up with you guys? Any news?"
-	"Well, um..." Amy began. "I've applied for a new job."
-	"Oh my god, that's great news, hun!" Bea cheered. "Where for?"
-	"A dog shelter. It's like a mix of rescue and daycare." she explained, trying and failing to contain her excitement.
-	Connor looked on with pride. "Think you can take Sparky?" he quipped.
-	"Think they can take *you?*" Sparky hit back, half-asleep.
-	"Shut up, lazy-bones." Connor snarked.
-	"Eat my tail." Sparky winked, flopping his head back down.
-	"God, he's got such good banter for a dog." Trey grinned, hearing only the barks and whines, but getting the gist nonetheless.
-	"I'm really proud of you." Chloe nodded warmly. "It sounds like a really good opportunity."
-	"Well, I've not exactly got it yet." Amy admitted. "But here's hoping."
+"Good work tonight, bratan." Ivan smiled proudly at his comrade. "That *gigantskiy urod* was a tough bastard."
+"It's not the first time we've tangled with one of those." Connor tilted his head. "What the fuck was it?"
+"'Project Jotunn.'" Ivan began clinically.
+"Seriously?" Connor grinned. "Do these psychos have a contractual obligation to pick the most melodramatic names?"
+Ivan chuckled. "Don't get me started. Fenrir, Progeny, ODIN, Crusader... anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
+"Great. So aside from the mutant spooks, cyber-knights, and psychic assassins... we now have fuckin' giants in the mix."
+"Giants that they're going to make stronger next time... I'll go back to my people, see what I can find."
+Connor turned down to Sparky, who was chewing a bone happily.
+"Did you ever see anything like that? You know, when you were still in captivity?"
+He thought for a moment. "No, I don't think so. But that funny word - Jotunn - it rings a bell. I think the Commandant said it one time."
+Connor stroked his ears. "Thanks, buddy. Anyway, we'd better head out."
+He morphed his costume back up, and opened the safehouse window, preparing to climb out.
+"Normal people use doors, tovarishch." Ivan snarked. "You don't wanna take the night off after that?"
+"Just because we killed a Jotunn doesn't mean your garden-variety scum aren't out tonight." Connor shrugged. "Besides, beating up Skinners is good for the soul."
+Ivan smiled warmly, bowing his head. "Udachnoy okhoty then, moy tovarishchi. Do svidaniya."
+"Do svidaniya." Connor nodded back. Ivan cringed at the abuse of his mother tongue, then chuckled as they left.
 
-SCENE - Killing the Giant
+"Please, don't hurt me!" the young woman cried out, silenced by a strike to the gut by a Skinner goon.
+"Shut up!" he snapped, striking again. "Give me your fucking money, freak!"
+"I don't have anything, I..." she spat, catching her breath.
+He rose his fist again, but before he could strike, the hairs on the back of his neck stood to attention.
+He turned around, and went pale as a sheet.
+Connor stood, his eyes aflame. He walked towards the assailant, clenching his fists and rolling his shoulders.
+"P-please, I--I'll go, I'll go!" he begged.
+Connor's hand shot out, grabbing the thug by the throat. He raised him up, his feet dangling above the ground.
+"*Did you stop, when _she_ begged?*" Connor accused.
+"I'm sorry! I'm fuckin' sorry!" he screamed though choking breaths.
+"Let him go, please!" she cut in.
+Connor turned, surprised. Then he looked back at his quarry.
+"If I see you again... I won't be so merciful." he snarled. He moved like a bullet, leaping into the air and sailing backwards. He morphed a rope-like chord from his hands, and wrapped one end to a street light - and the other around his captive's feet.
+Then, he dropped.
+As the rope went taut, the thug yelped in pain and fear. He swung from side to side, hanging like a sleeping bat.
+"Now... you can stay there, and think about what you've done." Connor chuckled, perched atop the light.
+"Please, let me down!" he begged.
+Connor jumped down to the ground, grinning. "Oh, I would... but if I cut that rope, you'll hit your head on the pavement. No, you'd be better off waiting for the cops to get you down. You, uh... you don't have any outstanding warrants, do you?"
+"Please! I've learned my lesson, I swear!"
+"Save it." he snapped, sending a punch upside the man's head. He stopped flailing and his face went vacant.
+"Oh my god..." the girl whispered in awe. "Th-thank you. You saved me."
+"Are you alright?" he asked softly, his eyes dimming.
+She looked up, eyes wide. "Y-yeah, I'm good, now."
+Connor smiled under his mask. "It's not safe out here. I can walk you home, if you like?"
+She paused. "I, uh... I can't go home."
+Connor tilted his head. She sighed, leaning against the alley walls.
+"I'm a freak." she began, choking back tears.
+"I regrew a hand once." Connor cut in. "Like a lizard. Also, I inhaled a whole tank of Chlorine and once got shot in the face with a shotgun, and all it did was piss me off. Earlier tonight, I tangled with a fascist ogre. My point is... I'm the last man on Earth who can sit in judgement. You can talk to me."
+The girl looked at him, and tilted her head. "I... my parents kicked me out, a couple of nights ago. They're angry because... because I want to be a girl."
+Connor nodded gently. "What's your name? Your real name, I mean."
+"I..." she began, saddened. "My parents called me--"
+"No, not that one. Your *real* name."
+She smiled softly, encouraged. "I call myself Shannon."
+Connor bowed his head. "Pleased to meet you, Shannon. And can I say, that name is awesome. Great choice. Of course, as you can tell from the accent, I'm biased."
+She chuckled. "I won't ask your name... kind of defeats the whole point of wearing a mask, eh?"
+Connor snickered. "How old are you?"
+"18."
+"Still in school?"
+"College, yeah. Haven't been in a few days, of course..."
+"And where are you sleeping?"
+"I... haven't really been sleeping." she admitted sheepishly.
+Connor smiled softly. "What do you study in college?"
+"Computing." she said, perking up somewhat. "I'm a bit of a tech nerd."
+"So..." Connor began. "Sounds to me what you need is your own place to stay, and a steady wage. Is that right?"
+She nodded, confused.
+"I know a guy - Tommy Crane. Boss of the Hoods. And I happen to know that Riverside Repairs - which Tommy owns - is looking for a new techie. I'll talk to him - get you a job. We'll cover hotel expenses until you can get your own place, too."
+"I... you'd do that for me?" Shannon asked, shocked.
+"Sure." he nodded.
+"But... why?"
+"Because it's something you need, and I can help." he shrugged. "Go to the Singing Horse. Say 'the Werewolf' sent you - I'll call ahead. You can stay there tonight - we'll sort the rest out tomorrow."
+"Thank you..." Shannon smiled, tears in her eyes.
+"No, thank you." he nodded.
+"What for?"
+"For the easy win. This was much more pleasant than the ogre." he laughed.
+Shannon laughed too - a hearty, happy laugh. From the sound of it, the first one in a while. Connor smiled warmly.
+"Go to the Singing Horse. I'll follow you on the rooftops - make sure no more goons try and jump you."
+She nodded, as he scaled a wall upwards. As he followed her, he called up Tommy.
+"Connor!" Tommy answered, smiling. "What can I do for my favourite Werewolf?"
+"There's a girl who'll be turning up to the club tonight - Shannon. She's been kicked out by her parents. I've told her we can get her a place to stay tonight. She's also pretty tech-savvy - so maybe we could sort something out for her at the repair shop?"
+"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride. "Hey... good man."
+Connor smiled back. "Thanks. Night, mate."
+He sighed, breathing in the night air. He un-morphed his mask as the rain began to fall.
+He let the water splash over his face, and took a deep breath.
 
-	That night, Naismith and Nina sat in the car, parked up in Marsh Road. Nina was sipping a coffee cup, as Naismith looked out the window, deep in thought.
-	"So..." she began. "Do you want to tell me why we're here, sir?"
-	"I got a tip off from a CHIS I've been working with." Naismith shrugged. "Supposedly, the Werewolf plans to hit somewhere here tonight. We're always arriving late to these, so... if we get there as it happens, maybe we can catch the bastard."
-	Nina smiled and nodded. "It's a shame we couldn't get armed backup."
-	"Yeah... budget cuts." Naismith sighed. "Dorsey's putting all the pressure on us to catch this guy, but he's not giving us anything to work with..."
-	"Between you and me, sir... I think Dorsey was appointed Chief Constable because he knows how to please the politicians, rather than any actual competence."
-	She anxiously awaited Naismith's reaction, scared of seeming unprofessional. Naismith chuckled, causing her to relax.
-	"You got that right..." he replied, grinning. "Anyway... we've just gotta sit on our arses until something goes down. So, in the meantime..." he shrugged, "Uh... tell me about yourself?"
-	Nina chuckled. "You need to brush up on your interrogation technique, sir."
-	He laughed. "Yeah, small talk was never my speciality."
-	She paused for a moment, thinking. "Well, I live on my own - unless you count my cat, Georgie. What about you?"
-	"Same here. Just me and my big ol' Max." he smiled warmly. "Are you a local?"
-	"Yeah, born and raised here." she nodded. "My parents moved here in late 80s, just before I came along."
-	"Ah, the 80s." Naismith chuckled fondly. "I barely remember them. Good music, at least."
-	"What about you, sir? You grew up North, I'm guessing?"
-	"Yeah, up near Leeds. Moved here in '98."
-	"Any reason you moved?" she asked.
-	"Eh. I was fed up with things up there, and wanted a change of scenery." he shrugged. "So, you grew up here, then?"
-	"Yeah, that's right." she replied. "I was born in '91. Then, in '96, my mum got pregnant again."
-	Naismith nodded, before realising. "You mean..."
-	"Yeah." she shuddered. "She wasn't one of the ones who died, but she was pretty badly affected. Aneurysm. She's still alive, in a care home. Sometimes, she does little things that tell me she's still in there, somewhere. My new little brother... he didn't make it."
-	"I'm sorry." Naismith shook his head sadly. "Did they ever find out a cause?"
-	"No, still nothing. There was a big stink in 2012, some major inquiry or something." she trailed off.
-	Naismith awkwardly cleared his throat. "So, um... what about the rest of your family?"
-	"My dad's a deadbeat. Haven't seen him since I was little - he bailed after Mum became ill."
-	Naismith nodded sympathetically. "My old man was a drinker - a really mean drunk, to boot. My brother would always suck up to him. He and I don't talk anymore - around about the time I joined the police, he joined a gang of racist thugs. Heh, I suppose it's not like the police up there *aren't* a gang of racist thugs. Anyway, it just so happened that I was called out to respond to his gang harassing folk. That was my first assignment after I'd completed my AFO training, and... he had a shotgun on him. I ordered him to put it down, and he didn't comply."
-	"Oh, god." Nina shuddered.
-	"He's alive. Double-tap to the gut. And he had a beer-belly even bigger than mine." Naismith grinned. "After that, I decided to move down here. Took the detective course, and here we are."
-	Nina smiled. "So, what made you want to be a police officer?"
-	"I don't know." he shrugged candidly. "The cliche answer is that I wanted to be a better man than my dad and my brother - but the truth is, it was a job - or at least, that's how it started. I wanted to make a difference, sure, but I learned early on that nothing really changes."
-	He chuckled. "Sorry, I'm playing up the cynical detective act again. How about you?"
-	She laughed, then paused for thought. "I'm not sure, to be honest. I think I wanted to make a difference too. But yeah, I'm learning that it's not that simple. I thought this placement on Serious Crime would let me learn a lot, but so far, no one wants me on their case. Instead I get sent all the paperwork, while the boys in the squad are busy elsewhere."
-	Naismith sighed. "That's probably why you're stuck with me. Assign the newbie to the has-been."
-	"I'm not sure about that..." she chuckled. "Besides, this vigilante case - it's been a wild ride."
-	"Only downside is, I don't think anything you'll learn from it will apply to any normal cases." Naismith snarked.
+Another long day finally passed, and for a rare treat, Connor and Sparky were resting at home. Connor was working on a clock while Sparky chewed a bone.
+"Do you need any help?" he asked.
+Connor chuckled. "Nah, I'm good. Thanks though, buddy." he replied, scratching Sparky's ears.
+Sparky smiled. "Why do you do that? And why do you have those annoying noises in your ear while you do it?"
+Connor turned, and took off his headphones.
+"Well..." he began. "Before I saved you, I was having trouble with controlling myself. I'd be in a fight, and I'd take it too far. So, I started doing this to practice. I keep the noises in my ear to make me pissed off, and then I force myself to be delicate anyway - otherwise I'll break the clock."
+"So, you're training yourself to ignore your instincts?"
+"A little." Connor nodded. "I'm training myself to avoid hurting people too badly. Instincts are great at keeping us alive. They're not so good at keeping other people alive too." he explained. "I'm also training myself to keep my cool even when I'm overwhelmed."
+Sparky nodded, deep in thought. "I've heard human-pups make the same noise. It really got on my nerves."
+"Me too." Connor shrugged. "Kids - not just human kids - cry in certain ways that affect us adults. We're hard-wired to hear the crying of a child and focus in on it, which is great when the kid's actually in danger."
+"Not so great when it's just crying for no reason, though." Sparky grinned. "It makes sense, though. When I was a pup, I used to cry for my pack all the time after they were taken away from me. The people there got very angry every time I did it."
+Connor smiled sadly. "It's not your fault, buddy."
+He paused for a moment, put down his tools, and pushed his hand into Sparky's head. Sparky opened his mind, and the two joined their consciousness for a moment.
+Connor saw Sparky's earliest memories. He was being licked clean by his adoptive mother - a brown mutt with slight greying on her jowls. He was playing in a pen with other wolves. He was being tortured by the Commandant and the others.
+Connor pulled back. He gave another sad smile, and stroked Sparky's ears. Sparky pushed his head into Connor's palm, enjoying the moment.
+Trauma. It was something both knew far too well.
 
-	At that, both were startled by a cracking sound in the distance.
-	"Gunshots." Naismith snapped into action. He started the car and drove toward the source. Nina put on her bulletproof vest.
-	"Control, this is Oscar Charlie 5-2." she said to her radio. "Gunshots heard on Marsh Road. Investigating now."
-	"Received, 5-2. Backup ETA is 19 minutes. Proceed with extreme caution, disengage if needed."
-	They arrived at the warehouse where the showdown was taking place, and jumped out of the car, pistols drawn.
-	"ARMED POLICE!" they both shouted, only to put their guns down in horror.
-	The scene that unfolded before them was beyond comprehension. They saw Connor, costumed up and battling a man... no. Not a man. A giant of a man, easily 8 foot tall, and built like an ogre. Every swing of his fists sent shockwaves through the air.
-	Connor moved like water, agile and precise. He ducked under a punch, tearing a hole through the wall behind him. His breath was steady, but there was a bestial cunning in his eyes as he calculated his next move.
-	Nina stared in horror, as Naismith opened fire on the Giant. The bullets hit his chest, but to no effect.
-	The Giant barely flinched. Naismith cursed under his breath and switched tactics, trying to find a weak spot.
-	"C-c-control, v-vigilante suspect currently engaged in melee with--with..." Nina stammered into the radio.
-	"Repeat, 5-2, what is the situation?"
-	"A-a Giant! There's a fuckin' Giant in here!" Nina shrieked back.
-	Out of nowhere, a second figure leapt from the shadows - Sparky, clad in his own costume. He landed on the Giant's shoulder, teeth sinking into his flesh with a sickening squelch. The Giant howled in pain, momentarily distracted.
-	"Repeat, 5-2. Did you say 'Giant'?" Control asked incredulously.
-	Nina ignored it, and shot the Giant. The bullet glanced off, and buried into a wall. The Giant turned, enraged, and launched a crate at her.
-	Before it could hit, Connor dived in, taking the impact. He stumbled to his feet, dazed.
-	With that, a loud boom filled the warehouse. From above, a figure emerged from the shadows - another soldier, this one dressed in full kevlar and crouching in the rafters like a spider in its web. Ivan. He steadied his rifle, and without hesitation, fired.
-	The bullet flew through the air with deadly precision, and with a thwack, it slammed into the Giant's chest. It punched through the thick muscle and bone as if they were made of paper, sending the Giant stumbling back with a gargled roar of agony.
-	"Khoroshaya devochka, Isabella." he whispered, blowing his rifle a kiss.
-	Connor wasted no time. He charged.
-	With a savage, calculated strike, he delivered a devastating blow to the Giant's knee, causing the massive creature to topple like a felled tree.
-	He didn't stop there. He pressed his advantage, stepping over the fallen Giant and delivering a bone-shattering stomp to its head. The force of the impact was enough to make the warehouse floor tremble. The Giant's skull caved in with a sickening crunch, and blood splattered across the cold concrete.
-	For a moment, the Giant twitched - like a butchered pig in its final moments - but then all went still.
-	Connor stood over the massive corpse, his chest heaving with laboured breaths, his eyes glowing faintly red in the dim light. He surveyed the room.
-	Naismith ran to Nina's side - her face was pale and her hands trembled. Her gun was trained on Connor.
-	"Armed... armed police... sto-stop right th-there..." she said, shaking and stuttering. "Y-you do not have to say anything, b-but it may harm your defence if... if..."
-	Naismith gently placed his hand on her shoulder.
-	"Nina. It's okay. Put down the gun." he whispered comfortingly. She looked at him, and holstered her gun, a single tear of fear running down her cheek.
-	"What... what was that?!" he asked, facing Connor.
-	Connor took a deep breath.
-	"That was their latest attempt at making a living weapon." he said, kicking his boot out to shake off the brains of the Giant. He sauntered over to a desk, where a man in labcoat's body laid. He grabbed a small device from the corpse. Sparky trotted towards him.
-	Ivan jumped down. "We got reports that they had deployed such a monster to the city." he said grimly. "If this won't convince you something horrible is brewing, nothing will."
-	"What... what are we supposed to do now?" Naismith asked.
-	"*We* don't do anything." Connor shook his head. "You call it in, and reveal what you saw here. Then, have this body analysed - I'm sure you'll find some interesting facts about its biology."
-	Nina looked at him, shocked. "Sir... did... did you know?"
-	"No! Nina, I swear... I only knew the Werewolf would be here. He told me he would 'show me the truth' - I didn't think it would be this."
-	Nina paused, then grabbed her radio, nodded at Naismith, and spoke into it. "Control, this is Oscar Charlie 5-2. Situation under control, unarmed clear to approach. Location is Marsh Road, unit 7-8-24/D. One body - abnormal. Assailant has fled the scene. Request immediate deployment of forensic investigators."
-	"Received, 5-2. FI's en route, ETA 24 minutes." the radio replied.
+With that, Connor felt his earpiece beeping. He listened in.
+"H-hello?" Adam's voice said nervously over the earpiece.
+"What do you have for me?" another voice asked menacingly.
+"I-um..." Adam began. "I heard that the Werewolf has a friend in the KGB. That's how he's been able to keep finding you guys."
+Connor listened in. "Come on..." he whispered under his breath.
+"Excellent. Alright, here he is." the man said.
+"Zack?" Adam asked.
+Silence.
+"Zack, please, tell me you're alive." Adam begged.
+Connor held his breath. A thud sound, along with a scream, was audible.
+"ZACK?!" Adam yelled.
+"FUCK YOU!" Zack screamed through the pain.
+Connor breathed out in relief. He was still alive.
+"There." the man growled. "Speak soon!"
+Adam sobbed as the phone hung up.
+"Did you get all that?" Ivan asked over the earpiece.
+"Nice work." Connor said. "Did you trace it?"
+"Da. They're in Wickermast. Sending you the coordinates now."
+"On my way." Connor growled. He turned to Sparky, who had morphed his bodysuit up.
+"Looking good." Connor chuckled.
+Sparky grinned. "Are we saving someone?"
+"Yes." Connor nodded. "I could use the backup."
+The two headed out.
 
-SCENE - Connor saves Shannon
+They arrived outside a disused garage. Connor morphed a knife in his hand.
+Sparky sniffed the air. "There's definitely a Super-Agent in there."
+Connor nodded, and kicked in the door.
+As soon as he did, an unbearable noise ripped through his ears.
+He clutched his head in agony. The noise travelled right through his skin and caused his costume to shudder and tear.
+He forced his eyes open, and looked over at Sparky, who was likewise collapsed in pain. He turned his head, and saw several speakers playing the awful cacophony.
+Finally, he saw the Super-Agent standing above, wearing almost comically large earmuffs.
+Without speaking, the Agent drew a hatchet, and began mercilessly hacking at Connor's flesh.
+The pain of the axe felt dull compared to the sheer agony in his skull. Connor tried in vain to rise, but his own muscles shuddered and faltered.
+The Agent delivered a final swing towards Connor's throat, and at last, his body obeyed him.
+He grabbed the axe, and kicked the Agent's legs. Then, his suit bubbled.
+This Agent had taken his hearing - so Connor took his sight. Smoke erupted out from him, and he forced some particles to settle into his eardrums - slightly muffling the hellish noise.
+As the Agent recoiled, Connor struggled to his feet, only to receive a kick right to his head. He landed backwards, and forced himself up the wall.
+Blood poured from every orifice. He puked up green bile, and his costume almost fell apart from the vibrations.
+The Agent went to hit Connor. He didn't even try to dodge or block - instead, he grabbed the Agent's earmuffs and yanked them off.
+In mere moments, the Agent dropped to the ground. He flailed in agony. Connor picked up the axe and brought it down on the Agent's skull, splitting it into pieces and burying the blade in the ground. He put the earmuffs on, and all he could hear was a bloodied ringing. He could barely see. Barely stand. He forced himself over to the speakers, and smashed them to pieces. Once he finished, Sparky rose.
+He pulled the earmuffs off.
+"Spartacus! You okay?" he shouted. Even his own voice sounded muffled and distant.
+Sparky barked something, but Connor couldn't even begin to make it out. He approached, and pushed his hand onto Sparky's head.
+"You alright?" he thought.
+"Yeah, fine." Sparky thought back.
+The pair headed into the garage, and saw... an empty chair. Connor kicked, and screamed in anger.
+"There's gotta be something in here." he said to himself, searching the room frantically. He saw a rugged laptop, with a chat window open.
+"Agent. Report." the latest message said.
+Connor paused, thinking, before grinning deviously.
+"Target down. Sonic weapon confirmed success." he wrote back.
+"Please confirm - the traitor is dead?!" the message immediately wrote back.
+"Confirmed. Traitor is dead."
+A long pause.
+"Excellent work, Agent. The Cmmdnt will be pleased. Now, exfil ASAP before Dorsey's men show up."
+Connor tilted his head, recognising the name from somewhere.
+"Received. What is the status of my prisoner?"
+"Miss him already, eh? We've just arrived in Bmrsh. Come see him, if you like."
+"Bingo." Connor said aloud. He pulled up a GPS app, and found a link to a safehouse in Blackmarsh. He scrolled through the laptop, finding images of Zack in various states of torture. He grimaced, before reaching out and pushing his hand onto Sparky.
+"We've gotta go. Zack's been taken to Blackmarsh."
+"As long as there aren't any screaming machines there..." Sparky mentally groaned back.
 
-	"Good work tonight, bratan." Ivan smiled proudly at his comrade. "That *gigantskiy urod* was a tough bastard."
-	"It's not the first time we've tangled with one of those." Connor tilted his head. "What the fuck was it?"
-	"'Project Jotunn.'" Ivan began clinically.
-	"Seriously?" Connor grinned. "Do these psychos have a contractual obligation to pick the most melodramatic names?"
-	Ivan chuckled. "Don't get me started. Fenrir, Progeny, ODIN, Crusader... anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
-	"Great. So aside from the mutant spooks, cyber-knights, and psychic assassins... we now have fuckin' giants in the mix."
-	"Giants that they're going to make stronger next time... I'll go back to my people, see what I can find."
-	Connor turned down to Sparky, who was chewing a bone happily.
-	"Did you ever see anything like that? You know, when you were still in captivity?"
-	He thought for a moment. "No, I don't think so. But that funny word - Jotunn - it rings a bell. I think the Commandant said it one time."
-	Connor stroked his ears. "Thanks, buddy. Anyway, we'd better head out."
-	He morphed his costume back up, and opened the safehouse window, preparing to climb out.
-	"Normal people use doors, tovarishch." Ivan snarked. "You don't wanna take the night off after that?"
-	"Just because we killed a Jotunn doesn't mean your garden-variety scum aren't out tonight." Connor shrugged. "Besides, beating up Skinners is good for the soul."
-	Ivan smiled warmly, bowing his head. "Udachnoy okhoty then, moy tovarishchi. Do svidaniya."
-	"Do svidaniya." Connor nodded back. Ivan cringed at the abuse of his mother tongue, then chuckled as they left.
+An hour passed. Naismith and Nina were in the garage with some FIs.
+"This is getting out of hand..." Nina shuddered.
+"Monsters. Bloody monsters." Naismith muttered, shaking his head. He turned to an FI.
+"Sir!" the FI began. "We've taken a look at these speakers. Based on their design and earwitness testimony, they can produce a deafening sonic boom. Unfortunately, the destruction of this body's head makes analysing its ears impossible."
+"And the laptop in the back?" Naismith nodded.
+"We found images of Zack Powell - a reporter for Channel One News - missing for 3 weeks now. Based on the injuries depicted, and the date they were taken, I'd assume Mr. Powell is dead by now. We also found messages indicating a 'traitor' was killed - we assume that's Powell." the FI explained.
+Naismith cocked an eyebrow. "Or this 'Werewolf' has a more complicated history with these freaks than we thought. Anyway, a misper? And he was kidnapped by these freaks... was that known?"
+Nina looked on her phone.
+"Umm... yes, case number MP11524. Says here his girlfriend said she suspected that he was kidnapped by one of these... things." she began. "Looks like one of the officers on the case thought it was worth looking into, but she was shut down by her superiors."
+"Who was she?" Naismith tilted his head.
+"DC Cheryl Moffat." Nina nodded. She scrolled down, and frowned.
+"It, um... it looks like the Chief took an interest in the case." she whispered. "Initially, Moffat was going to send you the files, but the Chief instructed her to keep schtum. Not long after that, she was reassigned."
+"Fucking Dorsey." Naismith growled. "If there was evidence connecting this... we need those files."
+"Agreed." Nina nodded. "I'll see if I can arrange a meetup with Moffat on the DL."
+Naismith smiled. "Good work."
+"Speaking of the Chief, sir..." the FI began cautiously. "In the messages, there's mention of 'Dorsey's men' showing up. If he's known to these conspirators, that makes him a potential target."
+Naismith looked away. "Sure... target." he said suspiciously.
+His expression turned dour. "I... I'll inform the girlfriend about this."
+"Do you need me there, sir?" Nina asked.
+"No, no, it's okay... you're still shaken up from the Giant the other night, and... well, let's just say I know how much people can... fall apart when their loved ones die so suddenly." Naismith grimly nodded.
+Nina's expression turned sympathetic. "Sir?"
+"Nothing." Naismith shook himself. "Let me know if you get through to Moffat."
+"Sir." Nina nodded.
 
-	"Please, don't hurt me!" the young woman cried out, silenced by a strike to the gut by a Skinner goon.
-	"Shut up!" he snapped, striking again. "Give me your fucking money, freak!"
-	"I don't have anything, I..." she spat, catching her breath.
-	He rose his fist again, but before he could strike, the hairs on the back of his neck stood to attention.
-	He turned around, and went pale as a sheet.
-	Connor stood, his eyes aflame. He walked towards the assailant, clenching his fists and rolling his shoulders.
-	"P-please, I--I'll go, I'll go!" he begged.
-	Connor's hand shot out, grabbing the thug by the throat. He raised him up, his feet dangling above the ground.
-	"*Did you stop, when _she_ begged?*" Connor accused.
-	"I'm sorry! I'm fuckin' sorry!" he screamed though choking breaths.
-	"Let him go, please!" she cut in.
-	Connor turned, surprised. Then he looked back at his quarry.
-	"If I see you again... I won't be so merciful." he snarled. He moved like a bullet, leaping into the air and sailing backwards. He morphed a rope-like chord from his hands, and wrapped one end to a street light - and the other around his captive's feet.
-	Then, he dropped.
-	As the rope went taut, the thug yelped in pain and fear. He swung from side to side, hanging like a sleeping bat.
-	"Now... you can stay there, and think about what you've done." Connor chuckled, perched atop the light.
-	"Please, let me down!" he begged.
-	Connor jumped down to the ground, grinning. "Oh, I would... but if I cut that rope, you'll hit your head on the pavement. No, you'd be better off waiting for the cops to get you down. You, uh... you don't have any outstanding warrants, do you?"
-	"Please! I've learned my lesson, I swear!"
-	"Save it." he snapped, sending a punch upside the man's head. He stopped flailing and his face went vacant.
-	"Oh my god..." the girl whispered in awe. "Th-thank you. You saved me."
-	"Are you alright?" he asked softly, his eyes dimming.
-	She looked up, eyes wide. "Y-yeah, I'm good, now."
-	Connor smiled under his mask. "It's not safe out here. I can walk you home, if you like?"
-	She paused. "I, uh... I can't go home."
-	Connor tilted his head. She sighed, leaning against the alley walls.
-	"I'm a freak." she began, choking back tears.
-	"I regrew a hand once." Connor cut in. "Like a lizard. Also, I inhaled a whole tank of Chlorine and once got shot in the face with a shotgun, and all it did was piss me off. Earlier tonight, I tangled with a fascist ogre. My point is... I'm the last man on Earth who can sit in judgement. You can talk to me."
-	The girl looked at him, and tilted her head. "I... my parents kicked me out, a couple of nights ago. They're angry because... because I want to be a girl."
-	Connor nodded gently. "What's your name? Your real name, I mean."
-	"I..." she began, saddened. "My parents called me--"
-	"No, not that one. Your *real* name."
-	She smiled softly, encouraged. "I call myself Shannon."
-	Connor bowed his head. "Pleased to meet you, Shannon. And can I say, that name is awesome. Great choice. Of course, as you can tell from the accent, I'm biased."
-	She chuckled. "I won't ask your name... kind of defeats the whole point of wearing a mask, eh?"
-	Connor snickered. "How old are you?"
-	"18."
-	"Still in school?"
-	"College, yeah. Haven't been in a few days, of course..."
-	"And where are you sleeping?"
-	"I... haven't really been sleeping." she admitted sheepishly.
-	Connor smiled softly. "What do you study in college?"
-	"Computing." she said, perking up somewhat. "I'm a bit of a tech nerd."
-	"So..." Connor began. "Sounds to me what you need is your own place to stay, and a steady wage. Is that right?"
-	She nodded, confused.
-	"I know a guy - Tommy Crane. Boss of the Hoods. And I happen to know that Riverside Repairs - which Tommy owns - is looking for a new techie. I'll talk to him - get you a job. We'll cover hotel expenses until you can get your own place, too."
-	"I... you'd do that for me?" Shannon asked, shocked.
-	"Sure." he nodded.
-	"But... why?"
-	"Because it's something you need, and I can help." he shrugged. "Go to the Singing Horse. Say 'the Werewolf' sent you - I'll call ahead. You can stay there tonight - we'll sort the rest out tomorrow."
-	"Thank you..." Shannon smiled, tears in her eyes.
-	"No, thank you." he nodded.
-	"What for?"
-	"For the easy win. This was much more pleasant than the ogre." he laughed.
-	Shannon laughed too - a hearty, happy laugh. From the sound of it, the first one in a while. Connor smiled warmly.
-	"Go to the Singing Horse. I'll follow you on the rooftops - make sure no more goons try and jump you."
-	She nodded, as he scaled a wall upwards. As he followed her, he called up Tommy.
-	"Connor!" Tommy answered, smiling. "What can I do for my favourite Werewolf?"
-	"There's a girl who'll be turning up to the club tonight - Shannon. She's been kicked out by her parents. I've told her we can get her a place to stay tonight. She's also pretty tech-savvy - so maybe we could sort something out for her at the repair shop?"
-	"Sounds right up our alley. I'll tell Pawel to let her in." Tommy replied, beaming with pride. "Hey... good man."
-	Connor smiled back. "Thanks. Night, mate."
-	He sighed, breathing in the night air. He un-morphed his mask as the rain began to fall.
-	He let the water splash over his face, and took a deep breath.
-
-SCENE - Adam call
-
-	Another long day finally passed, and for a rare treat, Connor and Sparky were resting at home. Connor was working on a clock while Sparky chewed a bone.
-	"Do you need any help?" he asked.
-	Connor chuckled. "Nah, I'm good. Thanks though, buddy." he replied, scratching Sparky's ears.
-	Sparky smiled. "Why do you do that? And why do you have those annoying noises in your ear while you do it?"
-	Connor turned, and took off his headphones.
-	"Well..." he began. "Before I saved you, I was having trouble with controlling myself. I'd be in a fight, and I'd take it too far. So, I started doing this to practice. I keep the noises in my ear to make me pissed off, and then I force myself to be delicate anyway - otherwise I'll break the clock."
-	"So, you're training yourself to ignore your instincts?"
-	"A little." Connor nodded. "I'm training myself to avoid hurting people too badly. Instincts are great at keeping us alive. They're not so good at keeping other people alive too." he explained. "I'm also training myself to keep my cool even when I'm overwhelmed."
-	Sparky nodded, deep in thought. "I've heard human-pups make the same noise. It really got on my nerves."
-	"Me too." Connor shrugged. "Kids - not just human kids - cry in certain ways that affect us adults. We're hard-wired to hear the crying of a child and focus in on it, which is great when the kid's actually in danger."
-	"Not so great when it's just crying for no reason, though." Sparky grinned. "It makes sense, though. When I was a pup, I used to cry for my pack all the time after they were taken away from me. The people there got very angry every time I did it."
-	Connor smiled sadly. "It's not your fault, buddy."
-	He paused for a moment, put down his tools, and pushed his hand into Sparky's head. Sparky opened his mind, and the two joined their consciousness for a moment.
-	Connor saw Sparky's earliest memories. He was being licked clean by his adoptive mother - a brown mutt with slight greying on her jowls. He was playing in a pen with other wolves. He was being tortured by the Commandant and the others.
-	Connor pulled back. He gave another sad smile, and stroked Sparky's ears. Sparky pushed his head into Connor's palm, enjoying the moment.
-	Trauma. It was something both knew far too well.
-
-	With that, Connor felt his earpiece beeping. He listened in.
-	"H-hello?" Adam's voice said nervously over the earpiece.
-	"What do you have for me?" another voice asked menacingly.
-	"I-um..." Adam began. "I heard that the Werewolf has a friend in the KGB. That's how he's been able to keep finding you guys."
-	Connor listened in. "Come on..." he whispered under his breath.
-	"Excellent. Alright, here he is." the man said.
-	"Zack?" Adam asked.
-	Silence.
-	"Zack, please, tell me you're alive." Adam begged.
-	Connor held his breath. A thud sound, along with a scream, was audible.
-	"ZACK?!" Adam yelled.
-	"FUCK YOU!" Zack screamed through the pain.
-	Connor breathed out in relief. He was still alive.
-	"There." the man growled. "Speak soon!"
-	Adam sobbed as the phone hung up.
-	"Did you get all that?" Ivan asked over the earpiece.
-	"Nice work." Connor said. "Did you trace it?"
-	"Da. They're in Wickermast. Sending you the coordinates now."
-	"On my way." Connor growled. He turned to Sparky, who had morphed his bodysuit up.
-	"Looking good." Connor chuckled.
-	Sparky grinned. "Are we saving someone?"
-	"Yes." Connor nodded. "I could use the backup."
-	The two headed out.
-
-SCENE - Telling Ella
-
-	They arrived outside a disused garage. Connor morphed a knife in his hand.
-	Sparky sniffed the air. "There's definitely a Super-Agent in there."
-	Connor nodded, and kicked in the door.
-	As soon as he did, an unbearable noise ripped through his ears.
-	He clutched his head in agony. The noise travelled right through his skin and caused his costume to shudder and tear.
-	He forced his eyes open, and looked over at Sparky, who was likewise collapsed in pain. He turned his head, and saw several speakers playing the awful cacophony.
-	Finally, he saw the Super-Agent standing above, wearing almost comically large earmuffs.
-	Without speaking, the Agent drew a hatchet, and began mercilessly hacking at Connor's flesh.
-	The pain of the axe felt dull compared to the sheer agony in his skull. Connor tried in vain to rise, but his own muscles shuddered and faltered.
-	The Agent delivered a final swing towards Connor's throat, and at last, his body obeyed him.
-	He grabbed the axe, and kicked the Agent's legs. Then, his suit bubbled.
-	This Agent had taken his hearing - so Connor took his sight. Smoke erupted out from him, and he forced some particles to settle into his eardrums - slightly muffling the hellish noise.
-	As the Agent recoiled, Connor struggled to his feet, only to receive a kick right to his head. He landed backwards, and forced himself up the wall.
-	Blood poured from every orifice. He puked up green bile, and his costume almost fell apart from the vibrations.
-	The Agent went to hit Connor. He didn't even try to dodge or block - instead, he grabbed the Agent's earmuffs and yanked them off.
-	In mere moments, the Agent dropped to the ground. He flailed in agony. Connor picked up the axe and brought it down on the Agent's skull, splitting it into pieces and burying the blade in the ground. He put the earmuffs on, and all he could hear was a bloodied ringing. He could barely see. Barely stand. He forced himself over to the speakers, and smashed them to pieces. Once he finished, Sparky rose.
-	He pulled the earmuffs off.
-	"Spartacus! You okay?" he shouted. Even his own voice sounded muffled and distant.
-	Sparky barked something, but Connor couldn't even begin to make it out. He approached, and pushed his hand onto Sparky's head.
-	"You alright?" he thought.
-	"Yeah, fine." Sparky thought back.
-	The pair headed into the garage, and saw... an empty chair. Connor kicked, and screamed in anger.
-	"There's gotta be something in here." he said to himself, searching the room frantically. He saw a rugged laptop, with a chat window open.
-	"Agent. Report." the latest message said.
-	Connor paused, thinking, before grinning deviously.
-	"Target down. Sonic weapon confirmed success." he wrote back.
-	"Please confirm - the traitor is dead?!" the message immediately wrote back.
-	"Confirmed. Traitor is dead."
-	A long pause.
-	"Excellent work, Agent. The Cmmdnt will be pleased. Now, exfil ASAP before Dorsey's men show up."
-	Connor tilted his head, recognising the name from somewhere.
-	"Received. What is the status of my prisoner?"
-	"Miss him already, eh? We've just arrived in Bmrsh. Come see him, if you like."
-	"Bingo." Connor said aloud. He pulled up a GPS app, and found a link to a safehouse in Blackmarsh. He scrolled through the laptop, finding images of Zack in various states of torture. He grimaced, before reaching out and pushing his hand onto Sparky.
-	"We've gotta go. Zack's been taken to Blackmarsh."
-	"As long as there aren't any screaming machines there..." Sparky mentally groaned back.
-
-	An hour passed. Naismith and Nina were in the garage with some FIs.
-	"This is getting out of hand..." Nina shuddered.
-	"Monsters. Bloody monsters." Naismith muttered, shaking his head. He turned to an FI.
-	"Sir!" the FI began. "We've taken a look at these speakers. Based on their design and earwitness testimony, they can produce a deafening sonic boom. Unfortunately, the destruction of this body's head makes analysing its ears impossible."
-	"And the laptop in the back?" Naismith nodded.
-	"We found images of Zack Powell - a reporter for Channel One News - missing for 3 weeks now. Based on the injuries depicted, and the date they were taken, I'd assume Mr. Powell is dead by now. We also found messages indicating a 'traitor' was killed - we assume that's Powell." the FI explained.
-	Naismith cocked an eyebrow. "Or this 'Werewolf' has a more complicated history with these freaks than we thought. Anyway, a misper? And he was kidnapped by these freaks... was that known?"
-	Nina looked on her phone.
-	"Umm... yes, case number MP11524. Says here his girlfriend said she suspected that he was kidnapped by one of these... things." she began. "Looks like one of the officers on the case thought it was worth looking into, but she was shut down by her superiors."
-	"Who was she?" Naismith tilted his head.
-	"DC Cheryl Moffat." Nina nodded. She scrolled down, and frowned.
-	"It, um... it looks like the Chief took an interest in the case." she whispered. "Initially, Moffat was going to send you the files, but the Chief instructed her to keep schtum. Not long after that, she was reassigned."
-	"Fucking Dorsey." Naismith growled. "If there was evidence connecting this... we need those files."
-	"Agreed." Nina nodded. "I'll see if I can arrange a meetup with Moffat on the DL."
-	Naismith smiled. "Good work."
-	"Speaking of the Chief, sir..." the FI began cautiously. "In the messages, there's mention of 'Dorsey's men' showing up. If he's known to these conspirators, that makes him a potential target."
-	Naismith looked away. "Sure... target." he said suspiciously.
-	His expression turned dour. "I... I'll inform the girlfriend about this."
-	"Do you need me there, sir?" Nina asked.
-	"No, no, it's okay... you're still shaken up from the Giant the other night, and... well, let's just say I know how much people can... fall apart when their loved ones die so suddenly." Naismith grimly nodded.
-	Nina's expression turned sympathetic. "Sir?"
-	"Nothing." Naismith shook himself. "Let me know if you get through to Moffat."
-	"Sir." Nina nodded.
-
-	Naismith stood outside a house door. He sighed, braced himself, and rang the doorbell.
-	After a few seconds passed, Ella answered the door.
-	"Hello?" she said unsurely.
-	"Hi, Ms. Roberts? DI Naismith." he replied, showing his badge. "May I come in, ma'am?"
-	Ella nodded nervously, and let him inside. They walked to her living room.
-	"H-has there been a development in the case?" she asked, trembling.
-	Naismith nodded grimly. Her eyes widened, then teared up.
-	"I'm very sorry, ma'am." Naismith began, himself sounding choked up. "We found a warehousing unit where Zack was being kept. Messages and images recovered from the site have led us to presume him dead. We're conducting urgent inquiries to locate him on the off chance he's alive, but... I'm very sorry for your loss, ma'am."
-	Ella clutched her fists, and broke down into tears. Naismith handed her a box of tissues from his jacket.
-	With that, another knock at the door.
-	"I... I'll get it. Wait here." Ella said, rising. Naismith nodded.
-	She opened the door, and saw Connor in costume stood there.
-	"I--You--" she stuttered.
-	"Hi, Ella." Connor began, his voice louder than usual - still slightly deafened. "I, um... I found Zack."
-	"Oh god..." she whispered. Then, Zack - beaten, bloodied, bruised, but not broken - hobbled out from the corner.
-	"Hey, baby..." he said, choking the words.
-	"Oh my god... oh my god!" she screamed, embracing him. He collapsed in her arms, and she cradled him to the ground.
-	Hearing his voice, Naismith walked into the hallway.
-	"I..." he gasped, shocked. Then he saw the Werewolf behind them. "You!"
-	"Detective?" Connor tilted his head.
-	"I--You two know each other?" Ella turned to face both.
-	"How are you involved in this?" Naismith asked.
-	"You lot weren't investigating, so Ella came to us." Connor folded his arms. "Which, I should note, isn't a crime - and if you try to arrest her, I'll--"
-	"Wasn't gonna." Naismith nodded. "But... Ella, you reached out to the Werewolf?"
-	Ella swallowed, and wiped her eyes. "Nothing was being done. I showed the police the documents I'd found. I asked if they'd checked the local CCTV. Everything! And I kept getting the same-old 'We are working tirelessly to resolve your case' bullshit! I'm sorry, but what else was I supposed to do?"
-	"Wait, hold on..." Naismith rubbed his eyes. "Are you saying that the police knew about Zack's connection to these freaks, and did nothing?"
-	"I told them everything. Sent over all of Zack's weird files on them. There was one detective who listened, but she just disappeared halfway through the case. Some new bloke took over and didn't seem to know anything." she explained.
-	"The first officer - was she a DC Moffatt?"
-	"Yeah, that's the one."
-	Naismith turned pale. "I... I can't think of any reason why they wouldn't investigate."
-	"I can." Connor replied. He turned to Ella.
-	"Thank you..." she whispered. "How did you find him?"
-	Connor's mind briefly flashed back to him kicking down a door and effortlessly snapping a Super-Agent's neck, his Rage being fuelled by simple frustration at the pain in his ears more than anything else.
-	"I'd had a long night." he shrugged. "You'd best get him to a hospital. Naismith - get an officer you trust to keep guard on him. After that, make sure this house has a guard on it 24/7. Anyone comes for him or Ella again, I'll burn the police station to the ground."
-	Ella teared up, and hugged him. He awkwardly held his arms out, before gently patting her on the back.
-	Naismith hesitated, but gave him a nod of approval. The two men left the house.
-	Connor turned to him.
-	"One more thing..." he began.
-	"Oi, *I'm* the detective, *I* make the Columbo references." Naismith snarked.
-	"What the fuck is 'Columbo?'"
-	"...Well, at least I can add 'Born after 1987' to your suspect profile." he grinned. "What is it?"
-	"There was a laptop - I used it to bluff my way into finding Zack. In it, they mentioned 'Dorsey's men.' Sounded like whoever this Dorsey is, he's in on it."
-	Naismith shuddered. "Dorsey's my boss. The Chief Constable."
-	Connor's eyes flashed red. "Which fits in neatly with you lot ignoring Zack's case. I hope for your sake he's not involved - because if he is, a lot of shit is about to come your way."
-	"Bring it." Naismith sighed. "About time we saw some change around here."
+Naismith stood outside a house door. He sighed, braced himself, and rang the doorbell.
+After a few seconds passed, Ella answered the door.
+"Hello?" she said unsurely.
+"Hi, Ms. Roberts? DI Naismith." he replied, showing his badge. "May I come in, ma'am?"
+Ella nodded nervously, and let him inside. They walked to her living room.
+"H-has there been a development in the case?" she asked, trembling.
+Naismith nodded grimly. Her eyes widened, then teared up.
+"I'm very sorry, ma'am." Naismith began, himself sounding choked up. "We found a warehousing unit where Zack was being kept. Messages and images recovered from the site have led us to presume him dead. We're conducting urgent inquiries to locate him on the off chance he's alive, but... I'm very sorry for your loss, ma'am."
+Ella clutched her fists, and broke down into tears. Naismith handed her a box of tissues from his jacket.
+With that, another knock at the door.
+"I... I'll get it. Wait here." Ella said, rising. Naismith nodded.
+She opened the door, and saw Connor in costume stood there.
+"I--You--" she stuttered.
+"Hi, Ella." Connor began, his voice louder than usual - still slightly deafened. "I, um... I found Zack."
+"Oh god..." she whispered. Then, Zack - beaten, bloodied, bruised, but not broken - hobbled out from the corner.
+"Hey, baby..." he said, choking the words.
+"Oh my god... oh my god!" she screamed, embracing him. He collapsed in her arms, and she cradled him to the ground.
+Hearing his voice, Naismith walked into the hallway.
+"I..." he gasped, shocked. Then he saw the Werewolf behind them. "You!"
+"Detective?" Connor tilted his head.
+"I--You two know each other?" Ella turned to face both.
+"How are you involved in this?" Naismith asked.
+"You lot weren't investigating, so Ella came to us." Connor folded his arms. "Which, I should note, isn't a crime - and if you try to arrest her, I'll--"
+"Wasn't gonna." Naismith nodded. "But... Ella, you reached out to the Werewolf?"
+Ella swallowed, and wiped her eyes. "Nothing was being done. I showed the police the documents I'd found. I asked if they'd checked the local CCTV. Everything! And I kept getting the same-old 'We are working tirelessly to resolve your case' bullshit! I'm sorry, but what else was I supposed to do?"
+"Wait, hold on..." Naismith rubbed his eyes. "Are you saying that the police knew about Zack's connection to these freaks, and did nothing?"
+"I told them everything. Sent over all of Zack's weird files on them. There was one detective who listened, but she just disappeared halfway through the case. Some new bloke took over and didn't seem to know anything." she explained.
+"The first officer - was she a DC Moffatt?"
+"Yeah, that's the one."
+Naismith turned pale. "I... I can't think of any reason why they wouldn't investigate."
+"I can." Connor replied. He turned to Ella.
+"Thank you..." she whispered. "How did you find him?"
+Connor's mind briefly flashed back to him kicking down a door and effortlessly snapping a Super-Agent's neck, his Rage being fuelled by simple frustration at the pain in his ears more than anything else.
+"I'd had a long night." he shrugged. "You'd best get him to a hospital. Naismith - get an officer you trust to keep guard on him. After that, make sure this house has a guard on it 24/7. Anyone comes for him or Ella again, I'll burn the police station to the ground."
+Ella teared up, and hugged him. He awkwardly held his arms out, before gently patting her on the back.
+Naismith hesitated, but gave him a nod of approval. The two men left the house.
+Connor turned to him.
+"One more thing..." he began.
+"Oi, *I'm* the detective, *I* make the Columbo references." Naismith snarked.
+"What the fuck is 'Columbo?'"
+"...Well, at least I can add 'Born after 1987' to your suspect profile." he grinned. "What is it?"
+"There was a laptop - I used it to bluff my way into finding Zack. In it, they mentioned 'Dorsey's men.' Sounded like whoever this Dorsey is, he's in on it."
+Naismith shuddered. "Dorsey's my boss. The Chief Constable."
+Connor's eyes flashed red. "Which fits in neatly with you lot ignoring Zack's case. I hope for your sake he's not involved - because if he is, a lot of shit is about to come your way."
+"Bring it." Naismith sighed. "About time we saw some change around here."

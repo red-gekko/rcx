@@ -2,387 +2,379 @@ VOLUME - Gods Among Men
 EPISODE - Judgement Day, Part 3 - Revelations
 ============================================================
 
-SCENE - Judge vs. Connor 2
+The Riverside Squad stood on a junction in the night-time, ready for war.
+Ivan adjusted Isabella's scope, and checked her ammunition. Gwen's eyes flexed violet as she made a dust devil at the ground, readying her powers. Bubo meanwhile circled the sky above, keeping a close watch. Amy's gauntlets crackled as she drew the Pulsar and the Vibroblade, holding them like a pirate holds a flintlock and cutlass.
+Connor and Sparky, meanwhile, felt their costumes ripple and morph with fury. Connor reached to his belt, checking the two metal syringes attached.
+Then, a black car pulled up to the group. They readied their weapons, as Naismith stepped out.
+"Evening, guys." he nodded. He was kitted out in tactical armour, and held a ballistic shield, and an electrified baton. His black veins pulsed in readiness.
+"Detective? What are you doing here?" Connor asked.
+"Helping." he nodded. "You may be the vigilantes, but this is *my* city too. And in case you forgot, some dickhead gave me superpowers."
+"It's dangerous." Connor shook his head.
+"It's my job." he stood firmly.
+"You're not going to do much damage with a nightstick." Gwen noted.
+"And you will, waving some rope around?" Naismith grinned.
+Ivan shrugged. "Welcome to the team. Here's an earpiece."
+"I guess that's my cue." Shannon chimed in. "All units, this is Jinx - radio check."
+"Vanguard, reporting."
+"Verdict. Heading to my overwatch position now."
+"Stunlocke. I'm here."
+"Whiplash, ready."
+"Sparky--Uh, I mean Spartacus. Here."
+"'Detective,' on site." Naismith chuckled.
+"Hang on!" Amy cut in. "Nightstick. That can be your callsign."
+"Can we not do this now?" Connor hissed.
+"I'll take it." Naismith grinned.
+Shannon rolled her eyes audibly. "I've hacked into the traffic control system - diverted all traffic away from your location. Collateral damage shouldn't be too much of a concern - but try not to level the block, while you're there."
+"Civilian presence?" Connor asked.
+"Should be none - the only buildings nearby are shops, which are all closed."
+"Good."
+"Remember - it's gonna be chaotic with you all there. So any non-Werewolves, keep your distance, and watch your fire." Shannon nodded. "Good luck, guys."
+"I'll get set up on the rooftop with Isabella. These rounds are carbon-tipped - I'll make sure they hit him, not you." Ivan explained.
+"That would be nice." Connor chuckled, his hand touching his chest. The hole had closed, but there was still a deep indent where his hearts were. His ribcage hadn't grown back yet.
+"One more thing - forget about honour. No theatrics, no cheesy one-liners, and absolutely no one-on-one - we're not here to play games, we're here to kill." Shannon said, firmly.
+"Got it." Connor nodded.
+"Let's get this bastard." Sparky growled.
+Ivan scaled the nearby building, and took point.
+"Take this." Connor nodded, handing his Coagulator over to Naismith. "I won't need it, but if anyone else gets hurt - spray them with it."
+Naismith nodded, before taking position.
+Connor took a deep breath, and arched his head upwards.
+"JUDGE!" he roared. "COME OUT HERE, AND FINISH WHAT YOU STARTED!"
 
-	The Riverside Squad stood on a junction in the night-time, ready for war.
-	Ivan adjusted Isabella's scope, and checked her ammunition. Gwen's eyes flexed violet as she made a dust devil at the ground, readying her powers. Bubo meanwhile circled the sky above, keeping a close watch. Amy's gauntlets crackled as she drew the Pulsar and the Vibroblade, holding them like a pirate holds a flintlock and cutlass.
-	Connor and Sparky, meanwhile, felt their costumes ripple and morph with fury. Connor reached to his belt, checking the two metal syringes attached.
-	Then, a black car pulled up to the group. They readied their weapons, as Naismith stepped out.
-	"Evening, guys." he nodded. He was kitted out in tactical armour, and held a ballistic shield, and an electrified baton. His black veins pulsed in readiness.
-	"Detective? What are you doing here?" Connor asked.
-	"Helping." he nodded. "You may be the vigilantes, but this is *my* city too. And in case you forgot, some dickhead gave me superpowers."
-	"It's dangerous." Connor shook his head.
-	"It's my job." he stood firmly.
-	"You're not going to do much damage with a nightstick." Gwen noted.
-	"And you will, waving some rope around?" Naismith grinned.
-	Ivan shrugged. "Welcome to the team. Here's an earpiece."
-	"I guess that's my cue." Shannon chimed in. "All units, this is Jinx - radio check."
-	"Vanguard, reporting."
-	"Verdict. Heading to my overwatch position now."
-	"Stunlocke. I'm here."
-	"Whiplash, ready."
-	"Sparky--Uh, I mean Spartacus. Here."
-	"'Detective,' on site." Naismith chuckled.
-	"Hang on!" Amy cut in. "Nightstick. That can be your callsign."
-	"Can we not do this now?" Connor hissed.
-	"I'll take it." Naismith grinned.
-	Shannon rolled her eyes audibly. "I've hacked into the traffic control system - diverted all traffic away from your location. Collateral damage shouldn't be too much of a concern - but try not to level the block, while you're there."
-	"Civilian presence?" Connor asked.
-	"Should be none - the only buildings nearby are shops, which are all closed."
-	"Good."
-	"Remember - it's gonna be chaotic with you all there. So any non-Werewolves, keep your distance, and watch your fire." Shannon nodded. "Good luck, guys."
-	"I'll get set up on the rooftop with Isabella. These rounds are carbon-tipped - I'll make sure they hit him, not you." Ivan explained.
-	"That would be nice." Connor chuckled, his hand touching his chest. The hole had closed, but there was still a deep indent where his hearts were. His ribcage hadn't grown back yet.
-	"One more thing - forget about honour. No theatrics, no cheesy one-liners, and absolutely no one-on-one - we're not here to play games, we're here to kill." Shannon said, firmly.
-	"Got it." Connor nodded.
-	"Let's get this bastard." Sparky growled.
-	Ivan scaled the nearby building, and took point.
-	"Take this." Connor nodded, handing his Coagulator over to Naismith. "I won't need it, but if anyone else gets hurt - spray them with it."
-	Naismith nodded, before taking position.
-	Connor took a deep breath, and arched his head upwards.
-	"JUDGE!" he roared. "COME OUT HERE, AND FINISH WHAT YOU STARTED!"
+Before long, the Judge glided over. It landed on the ground, drew its blades, and snarled.
+"Heretic. You're supposed to be dead."
+"Yeah. I've got a bad habit of not dying when I'm supposed to." Connor quipped.
+"What did we say?" Shannon muttered over the earpiece.
+Connor chuckled. "Sorry, Jinx. Old habits die hard - unlike me."
+"Stop quipping and kill this *suka,* tovarishch." Ivan chimed in.
+Sparky looked deep in the Judge's eyes, and growled.
+"A welcoming party! I'm honoured." the Judge grinned. "Today, I kill six heretics. Thank you for the opportunity."
+At that, a van roared into the scene, and a squad of armed men - Super-Agents - poured out.
+"What are your orders, Master?" one asked.
+"Oh, look at them." the Judge chuckled. "Did you think I wouldn't bring my own underlings?"
+"Shit..." Shannon gasped. "Nightstick, Stunlocke, Whiplash - focus on the Agents. Werewolves, take on the Judge. Verdict, Blindspot, cover both teams."
+"Prinyal." Ivan nodded.
+Connor drew his own blades. Him and Sparky charged forwards.
 
-	Before long, the Judge glided over. It landed on the ground, drew its blades, and snarled.
-	"Heretic. You're supposed to be dead."
-	"Yeah. I've got a bad habit of not dying when I'm supposed to." Connor quipped.
-	"What did we say?" Shannon muttered over the earpiece.
-	Connor chuckled. "Sorry, Jinx. Old habits die hard - unlike me."
-	"Stop quipping and kill this *suka,* tovarishch." Ivan chimed in.
-	Sparky looked deep in the Judge's eyes, and growled.
-	"A welcoming party! I'm honoured." the Judge grinned. "Today, I kill six heretics. Thank you for the opportunity."
-	At that, a van roared into the scene, and a squad of armed men - Super-Agents - poured out.
-	"What are your orders, Master?" one asked.
-	"Oh, look at them." the Judge chuckled. "Did you think I wouldn't bring my own underlings?"
-	"Shit..." Shannon gasped. "Nightstick, Stunlocke, Whiplash - focus on the Agents. Werewolves, take on the Judge. Verdict, Blindspot, cover both teams."
-	"Prinyal." Ivan nodded.
-	Connor drew his own blades. Him and Sparky charged forwards.
+The clash was brutal. The ground shook with the force of their first strike. Connor's raw strength met the Judge's calculated ferocity, blades singing as they hit.
+Sparky pounced, raking his claws across the Judge's face.
+First blood - Sparky's claws tore through the Judge's skin.
+The Judge retaliated, its blade cutting across Sparky's face. Sparky howled in pain, but sank his fangs deep into the Judge's arm, refusing to let go.
+Connor took the opening, driving his blade into the Judge's abdomen. It went deeper than before, but not deep enough. The Judge brought its own blade down with terrifying speed, carving through Connor's face.
+Then - *BANG!*
+A sniper round slammed into the Judge's leg, sending it stumbling back with a howl. Its eyes ignited with a fiery, bloodshot glow as it snapped, grabbing Sparky by the scruff and hurling him with monstrous strength into a nearby wall, the impact cracking the stone. Sparky crumpled to the ground, dazed but not defeated.
+Ivan fired again, but the Judge, now fully enraged, moved with unnatural speed. It sliced the bullet in mid-air, sending it careening harmlessly into the night.
+Sparky growled, his voice strained as he dragged himself to his feet despite the blood pooling beneath him.
+With a snarl, he lunged, locking his jaws around the Judge's legs. The move forced the Judge to stumble, giving Connor the perfect opening.
+He pulled a syringe from his belt, and with a scream of pure Rage, he jabbed it into his side. The Paradrenaline Chloe had made for him surged through his veins, transforming him in an instant. His eyes glowed crimson, his muscles bulging with the raw power of the Rage.
+The Judge watched, amused. "So... you think you can match me in this state?" it sneered.
+Connor charged. The two monsters collided again, blades shattering on impact. The berserkers were now locked in a deadly, clawing battle, their strength far beyond normal limits.
+Ivan cursed under his breath, trying to get a clear shot, but the chaos of the battle made it impossible. "Chyort voz'mi... kill him, Vanguard."
 
-	The clash was brutal. The ground shook with the force of their first strike. Connor's raw strength met the Judge's calculated ferocity, blades singing as they hit.
-	Sparky pounced, raking his claws across the Judge's face.
-	First blood - Sparky's claws tore through the Judge's skin.
-	The Judge retaliated, its blade cutting across Sparky's face. Sparky howled in pain, but sank his fangs deep into the Judge's arm, refusing to let go.
-	Connor took the opening, driving his blade into the Judge's abdomen. It went deeper than before, but not deep enough. The Judge brought its own blade down with terrifying speed, carving through Connor's face.
-	Then - *BANG!*
-	A sniper round slammed into the Judge's leg, sending it stumbling back with a howl. Its eyes ignited with a fiery, bloodshot glow as it snapped, grabbing Sparky by the scruff and hurling him with monstrous strength into a nearby wall, the impact cracking the stone. Sparky crumpled to the ground, dazed but not defeated.
-	Ivan fired again, but the Judge, now fully enraged, moved with unnatural speed. It sliced the bullet in mid-air, sending it careening harmlessly into the night.
-	Sparky growled, his voice strained as he dragged himself to his feet despite the blood pooling beneath him.
-	With a snarl, he lunged, locking his jaws around the Judge's legs. The move forced the Judge to stumble, giving Connor the perfect opening.
-	He pulled a syringe from his belt, and with a scream of pure Rage, he jabbed it into his side. The Paradrenaline Chloe had made for him surged through his veins, transforming him in an instant. His eyes glowed crimson, his muscles bulging with the raw power of the Rage.
-	The Judge watched, amused. "So... you think you can match me in this state?" it sneered.
-	Connor charged. The two monsters collided again, blades shattering on impact. The berserkers were now locked in a deadly, clawing battle, their strength far beyond normal limits.
-	Ivan cursed under his breath, trying to get a clear shot, but the chaos of the battle made it impossible. "Chyort voz'mi... kill him, Vanguard."
+Across the street, the more mundane heroes clashed with the Super-Agents.
+Naismith charged in with his riot shield, deflecting a blow and pressing his pistol into an Agent's abdomen, before firing. At such range, the Agent's kevlar was useless, and he crouched in agony. An arrow from Gwen shot right through his head, finishing him.
+Naismith pushed through the chaos like a battering ram. A Super-Agent swung a blade down at his head; he angled his riot shield just enough to catch the impact and roll it off-line, then drove forward with a brutal shield-bash that folded the Agent backward over a parked car. He struck out with his baton, and the Agent stumbled down. Then he holstered it, and drew his sidearm. Two in the head at point blank rage did the job nicely.
+A second Agent rounded the corner and opened fire. Naismith ducked behind the shield as rounds hammered it, then snapped his rifle up one-handed and fired through the recoil gap in the enemy's stance. The shot caught the Agent in the shoulder joint, spinning him off balance. Naismith advanced through the opening, stepping in close and finishing with a point-blank shot before the man could recover.
 
-	Across the street, the more mundane heroes clashed with the Super-Agents.
-	Naismith charged in with his riot shield, deflecting a blow and pressing his pistol into an Agent's abdomen, before firing. At such range, the Agent's kevlar was useless, and he crouched in agony. An arrow from Gwen shot right through his head, finishing him.
-	Naismith pushed through the chaos like a battering ram. A Super-Agent swung a blade down at his head; he angled his riot shield just enough to catch the impact and roll it off-line, then drove forward with a brutal shield-bash that folded the Agent backward over a parked car. He struck out with his baton, and the Agent stumbled down. Then he holstered it, and drew his sidearm. Two in the head at point blank rage did the job nicely.
-	A second Agent rounded the corner and opened fire. Naismith ducked behind the shield as rounds hammered it, then snapped his rifle up one-handed and fired through the recoil gap in the enemy's stance. The shot caught the Agent in the shoulder joint, spinning him off balance. Naismith advanced through the opening, stepping in close and finishing with a point-blank shot before the man could recover.
+Gwen moved differently from everyone else - less like she was dodging, more like the world was obligingly getting out of her way. Incoming fire bent off-course in mid-air, trajectories shifting just enough to miss her by inches instead of impact. She exhaled once, and the air around her tightened, attentive. Bubo relayed everything his eyes caught straight into her subconscious.
+Her bow was already drawn.
+She didn't aim in any conventional sense. The arrow left the string and curved through the chaos in a smooth, deliberate arc, slipping between two Super-Agents and punching through a visor seam. The target dropped without time to react.
+A second Agent rushed her. Gwen snapped her wrist and a whip cracked out, wrapping around his rifle mid-swing. She twisted, and the air itself seemed to assist the motion - wrenching the weapon aside and pulling the Agent off balance. A follow-up pulse of compressed air struck him square in the torso and threw him back into a concrete wall.
+A throwing knife was already in her hand. It left in a fluid motion, slipped through moving armour gaps and buried itself in an exposed joint.
+A third closed in fast, trying to overwhelm her at close range. Gwen met him with a sharp burst of wind that broke his footing, then followed with a whip strike that wrapped around his neck and, with a sickening crunch, ended him.
 
-	Gwen moved differently from everyone else - less like she was dodging, more like the world was obligingly getting out of her way. Incoming fire bent off-course in mid-air, trajectories shifting just enough to miss her by inches instead of impact. She exhaled once, and the air around her tightened, attentive. Bubo relayed everything his eyes caught straight into her subconscious.
-	Her bow was already drawn.
-	She didn't aim in any conventional sense. The arrow left the string and curved through the chaos in a smooth, deliberate arc, slipping between two Super-Agents and punching through a visor seam. The target dropped without time to react.
-	A second Agent rushed her. Gwen snapped her wrist and a whip cracked out, wrapping around his rifle mid-swing. She twisted, and the air itself seemed to assist the motion - wrenching the weapon aside and pulling the Agent off balance. A follow-up pulse of compressed air struck him square in the torso and threw him back into a concrete wall.
-	A throwing knife was already in her hand. It left in a fluid motion, slipped through moving armour gaps and buried itself in an exposed joint.
-	A third closed in fast, trying to overwhelm her at close range. Gwen met him with a sharp burst of wind that broke his footing, then followed with a whip strike that wrapped around his neck and, with a sickening crunch, ended him.
+Amy fired her Pulsar at an armed Agent, before her Vibroblade sliced the head off of another. But then, she felt a slam into her chest.
+She fell to her back, and looked up. This Agent had a breaching axe, which he swung down again. This time it landed on her helm.
+The visor cracked as her cerametallic headplate bent. The force hit her in the skull, and her vision went blurry. She frantically scrambled at her belt, reaching for something.
+A third swing - this one to her neck. The armour held, but barely. She choked and spat as her windpipe bent.
+Finally, she found it. Her finger reached for the button, and pressed it.
+Immediately, crackles of electricity danced around her suit's exterior, before jumping up into her attacker. He convulsed in agony, before his heart mercifully gave out.
+Not just him. Another Agent had come over to join in the dogpile, and he quickly collapsed to the floor, too. Amy rolled onto her front, and forced herself to rise.
+"Stunlocke!" Shannon gasped. "That move drained your batteries. I've diverted the remaining power to your servos - but you can't use any more shock attacks."
+"That's alright." she spat, as the Vibroblade hummed with energy. "I don't need 'em."
 
-	Amy fired her Pulsar at an armed Agent, before her Vibroblade sliced the head off of another. But then, she felt a slam into her chest.
-	She fell to her back, and looked up. This Agent had a breaching axe, which he swung down again. This time it landed on her helm.
-	The visor cracked as her cerametallic headplate bent. The force hit her in the skull, and her vision went blurry. She frantically scrambled at her belt, reaching for something.
-	A third swing - this one to her neck. The armour held, but barely. She choked and spat as her windpipe bent.
-	Finally, she found it. Her finger reached for the button, and pressed it.
-	Immediately, crackles of electricity danced around her suit's exterior, before jumping up into her attacker. He convulsed in agony, before his heart mercifully gave out.
-	Not just him. Another Agent had come over to join in the dogpile, and he quickly collapsed to the floor, too. Amy rolled onto her front, and forced herself to rise.
-	"Stunlocke!" Shannon gasped. "That move drained your batteries. I've diverted the remaining power to your servos - but you can't use any more shock attacks."
-	"That's alright." she spat, as the Vibroblade hummed with energy. "I don't need 'em."
+Connor swung wildly, launching a haymaker that the Judge barely dodged, leaving a massive hole in the wall behind him. The Judge retaliated with a spinning kick to Connor's head, shattering nearby windows. But Connor didn't falter - he grabbed the Judge's leg mid-spin, shaking it violently, the sound of snapping bones echoing through the night.
+The Judge grinned despite the pain, snapping its leg back into place, and the fight raged on.
+The two continued their savage brawl, each blow more brutal than the last. Connor staggered back, blood dripping from his claws, panting heavily. The Judge circled him like a predator, eyes glowing with the thrill of the fight.
+Sparky rose once more, his own eyes glowing red, and pounced at the Judge. Sparky's Rage matched Connor's, but the Judge was too fast. He kicked Connor hard enough to send him flying backwards, then grabbed Sparky's jaws, prying them apart with sickening force. The cracking of bone filled the air as Sparky groaned in agony.
+"Your heresy ends here, wolf." the Judge sneered. "No false god can save you now."
+With a brutal kick to Sparky's chest, he was sent flying. He crashed to the ground, struggling to snap his jaws back into place, blood pooling beneath him.
+Connor roared in fury, charging in. His armour shifted, crackling slightly. The back thickened and became stronger, while the building pressure grew at the front. His eyes blazed, as his suit finally burst.
+Shards of calcified armour and chitin blasted forward in a concussive wave. The Judge braced itself, but the fragments buried into his flesh, carving through.
+It fell to its knees, choking and bleeding - but crucially, not broken. It rose, readying its blade.
+Connor collapsed from the exertion, his armour torn off by the move. His costume struggled to reform, taking a thin kevlar coating over his skin. Too thin.
+The Judge moved, driving its blade through Connor's chest. It shoved its hand into the regrowing ribcage, grabbing his still-beating heart, and ripped it out with a horrifying twist. It raised it to its face, smirking as it took a bite.
+Connor's breath was ragged, blood pouring from his chest. The Judge knelt down, whispering in his ear.
+"Oh, youngblood... killing you once was duty. Killing you twice, the same way? It's a privilege."
+Connor reached his shaking hand down to his belt, grabbing the second syringe. His other hand gripped the Judge tight.
+"Oh, *that* is your great plan? Plunge a syringe of false power into a broken body, *again?*" the Judge laughed. "Oh, heretic, you amuse me so."
+Connor's eyes flickered, his smirk returning despite the pain. He raised his gaze to meet the Judge's, and in a last defiant act, he plunged his syringe deep into his chest. The Judge froze, eyes wide with disbelief.
+It gripped Connor's throat, lifting him into the air, but the drug took hold. It stumbled, grip loosening.
+"What... WHAT HAVE YOU DONE?! What is this poison?!" it roared, its eyes losing their fiery glow.
+It looked down at its hands, and felt its strength fade. "THIS CANNOT BE!" it screamed.
+Connor stood tall, his own eyes burning with fury. "*IT IS.*"
+He spat blood, his voice demonic with the Rage. He wrapped his arms around the Judge, holding it still.
+Ivan took a deep breath, and aimed.
+"Davay, detka... davay..." he whispered - and fired.
+The air filled with the crack of a sniper rifle. The Judge's head snapped back, and it crashed to the ground, a bullet lodged in his neck.
+Ivan's voice crackled through the earpiece. "The toxin is working, Vanguard - finish this."
+Connor grinned, blood still dripping from his mouth. "Before you die, I want you to know who killed you. Chloe Derrington - the smartest person I know."
+With a snarl, he drove his hand into the Judge's chest, pulling out the heart. He held it aloft, smiling darkly, before crushing it in his hand.
+The Judge let out a horrifying death-rattle.
+"Don't be ashamed." Connor growled viciously. "You did your best."
+"Heretic... you cannot... stop..." the monster gurgled.
+"Hush now." Connor grinned. "Go in peace."
+The Judge breathed its final breath, hand twitching as it reached out. Connor re-formed a blade, and with one clean swipe, liberated the Judge's head from its shoulders.
 
-	Connor swung wildly, launching a haymaker that the Judge barely dodged, leaving a massive hole in the wall behind him. The Judge retaliated with a spinning kick to Connor's head, shattering nearby windows. But Connor didn't falter - he grabbed the Judge's leg mid-spin, shaking it violently, the sound of snapping bones echoing through the night.
-	The Judge grinned despite the pain, snapping its leg back into place, and the fight raged on.
-	The two continued their savage brawl, each blow more brutal than the last. Connor staggered back, blood dripping from his claws, panting heavily. The Judge circled him like a predator, eyes glowing with the thrill of the fight.
-	Sparky rose once more, his own eyes glowing red, and pounced at the Judge. Sparky's Rage matched Connor's, but the Judge was too fast. He kicked Connor hard enough to send him flying backwards, then grabbed Sparky's jaws, prying them apart with sickening force. The cracking of bone filled the air as Sparky groaned in agony.
-	"Your heresy ends here, wolf." the Judge sneered. "No false god can save you now."
-	With a brutal kick to Sparky's chest, he was sent flying. He crashed to the ground, struggling to snap his jaws back into place, blood pooling beneath him.
-	Connor roared in fury, charging in. His armour shifted, crackling slightly. The back thickened and became stronger, while the building pressure grew at the front. His eyes blazed, as his suit finally burst.
-	Shards of calcified armour and chitin blasted forward in a concussive wave. The Judge braced itself, but the fragments buried into his flesh, carving through.
-	It fell to its knees, choking and bleeding - but crucially, not broken. It rose, readying its blade.
-	Connor collapsed from the exertion, his armour torn off by the move. His costume struggled to reform, taking a thin kevlar coating over his skin. Too thin.
-	The Judge moved, driving its blade through Connor's chest. It shoved its hand into the regrowing ribcage, grabbing his still-beating heart, and ripped it out with a horrifying twist. It raised it to its face, smirking as it took a bite.
-	Connor's breath was ragged, blood pouring from his chest. The Judge knelt down, whispering in his ear.
-	"Oh, youngblood... killing you once was duty. Killing you twice, the same way? It's a privilege."
-	Connor reached his shaking hand down to his belt, grabbing the second syringe. His other hand gripped the Judge tight.
-	"Oh, *that* is your great plan? Plunge a syringe of false power into a broken body, *again?*" the Judge laughed. "Oh, heretic, you amuse me so."
-	Connor's eyes flickered, his smirk returning despite the pain. He raised his gaze to meet the Judge's, and in a last defiant act, he plunged his syringe deep into his chest. The Judge froze, eyes wide with disbelief.
-	It gripped Connor's throat, lifting him into the air, but the drug took hold. It stumbled, grip loosening.
-	"What... WHAT HAVE YOU DONE?! What is this poison?!" it roared, its eyes losing their fiery glow.
-	It looked down at its hands, and felt its strength fade. "THIS CANNOT BE!" it screamed.
-	Connor stood tall, his own eyes burning with fury. "*IT IS.*"
-	He spat blood, his voice demonic with the Rage. He wrapped his arms around the Judge, holding it still.
-	Ivan took a deep breath, and aimed.
-	"Davay, detka... davay..." he whispered - and fired.
-	The air filled with the crack of a sniper rifle. The Judge's head snapped back, and it crashed to the ground, a bullet lodged in his neck.
-	Ivan's voice crackled through the earpiece. "The toxin is working, Vanguard - finish this."
-	Connor grinned, blood still dripping from his mouth. "Before you die, I want you to know who killed you. Chloe Derrington - the smartest person I know."
-	With a snarl, he drove his hand into the Judge's chest, pulling out the heart. He held it aloft, smiling darkly, before crushing it in his hand.
-	The Judge let out a horrifying death-rattle.
-	"Don't be ashamed." Connor growled viciously. "You did your best."
-	"Heretic... you cannot... stop..." the monster gurgled.
-	"Hush now." Connor grinned. "Go in peace."
-	The Judge breathed its final breath, hand twitching as it reached out. Connor re-formed a blade, and with one clean swipe, liberated the Judge's head from its shoulders.
+The last Super-Agent tried to retreat, stepping backward through smoke and broken concrete - then Gwen made the space lie to him.
+His footing shifted half a step off, his aim dragging wide before he even fired, and the shot tore harmlessly into the road.
+Naismith was already there - riot shield crashing in, cutting off escape, pinning the angle as the Agent's weapon was forced aside in a grinding clash of metal and armour.
+Amy didn't hesitate - she stepped through the opening and brought the Vibroblade up in a clean, humming arc.
+The Agent staggered back. Then, his top half slowly slid down, and made a squelch as it hit the floor.
 
-	The last Super-Agent tried to retreat, stepping backward through smoke and broken concrete - then Gwen made the space lie to him.
-	His footing shifted half a step off, his aim dragging wide before he even fired, and the shot tore harmlessly into the road.
-	Naismith was already there - riot shield crashing in, cutting off escape, pinning the angle as the Agent's weapon was forced aside in a grinding clash of metal and armour.
-	Amy didn't hesitate - she stepped through the opening and brought the Vibroblade up in a clean, humming arc.
-	The Agent staggered back. Then, his top half slowly slid down, and made a squelch as it hit the floor.
+Sparky crawled over, blood dripping from his mouth. "Connor..." he panted, his voice weak. "Are you okay?"
+Connor looked down at his bloodstained hands, his legs trembling. "I'm..." he panted, staggering. His vision blurred, the weight of the fight and the adrenaline crashing down on him. He stared at his trembling hands, the Judge's blood mixing with his own. He looked over at his comrades, who crawled away from the carnage - every one of the Judge's Agents dead at their feet.
+He faltered, collapsing to the ground.
+"Tough bastard." Ivan muttered, smirking as he tapped his earpiece. "Jinx - all hostiles neutralised."
 
-	Sparky crawled over, blood dripping from his mouth. "Connor..." he panted, his voice weak. "Are you okay?"
-	Connor looked down at his bloodstained hands, his legs trembling. "I'm..." he panted, staggering. His vision blurred, the weight of the fight and the adrenaline crashing down on him. He stared at his trembling hands, the Judge's blood mixing with his own. He looked over at his comrades, who crawled away from the carnage - every one of the Judge's Agents dead at their feet.
-	He faltered, collapsing to the ground.
-	"Tough bastard." Ivan muttered, smirking as he tapped his earpiece. "Jinx - all hostiles neutralised."
+Connor awoke in his bed. He looked around frantically, and realised where he was. He reached for his chest, and felt it had mostly healed - it was sore and mangled, but the hole was gone. He took a deep breath, morphed his clothes, and headed out the door.
+There, he found Chloe and Sparky asleep in the next room. He sighed softly, walked over, and sat with them.
+Chloe stirred. She sat up and looked over at him.
+"...Connor?" she asked, half-asleep.
+"Hey..." he began, and she pounced and wrapped her arms around him.
+"You're okay..." she whispered. Sparky stirred too.
+"Connor..." he groaned, his jaws still aching.
+"Hey buddy..." Connor smiled softly, stroking Sparky's head.
+Chloe released her grip, and looked at him. "How do you feel?" she asked.
+"I'm okay. Not as bad as last time. The paradrenaline shot you gave me - that worked a treat. But the real genius was mixing endorphins with NMBAs." Connor said, proudly.
+"Hah... I'm glad it worked. It was a gamble, no doubt about it."
+"How bad was it when I got here?"
+"Not too bad. Your heart was missing, but your backup hearts were fully picking up the slack. You weren't in a coma because of asphyxiation, you were in one to regrow your heart. All I had to do was give you some mushed food and get you to bed." she answered.
+"How, um... how long has it been?"
+"Um..." Chloe said, checking her phone. "Ivan brought you here at 20:38. It's 04:26."
+Connor touched his chest, feeling his hearts beat. "8 hours, then. 8 hours to regrow a heart."
+Chloe, now fully awake, touched his chest, likewise feeling the beat.
+"Where's everyone else?" he asked.
+"Amy's gone back out." she nodded. "Her suit needed some repairs, so Shannon's downstairs fixing it up while she sticks to scouting. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen and Bubo have gone back on her glider, to keep an eye on the city for tonight."
+Connor smiled. "They're a good team."
+"You... you are so, so strong." she began, teary eyed.
+"I don't know what I'd do if you weren't here to patch me up." Connor replied. "Physically and... you know, everything else."
+He sighed. "The Judge is gone, at last..."
+"How, um... how do you do this?" she asked, sadly.
+"I don't know..." Connor began. "I guess, what choice do I have? Let Paladin keep killing people?"
+"No, I know *why* you do it." she shook her head. "I mean... how can you go through all this - your heart ripped out twice, your spine broken, shot full of bullets - and not just fall apart? It's only been a week, for Christ's sake!"
+"I guess..." Connor pondered for a moment. "I don't have time to break down."
+"You do now." Chloe said, rubbing his shoulder.
+Connor paused, and looked at her sadly. "I... I was so scared I'd never see you again. The idea that you'd be at home with Sparky, never knowing what happened, until, I don't know, you see it on the news... the thought of leaving you alone after all this, it breaks my heart... no pun intended. And not just you - you and Amy and Trey, you guys know who I am. But Bea? She'd just learn that I disappeared one day. Or worse, the way that she finds out is through that. She learns that the last thing I did was lie to her. That's not even counting how me dying would mean so, so many people would get hurt. The Optimates would have free reign."
+Chloe shook her head, saddened. "Even after all of this, the only thing you were scared of... was how dying would affect others?"
+"I mean, what else is there to be scared of?" Connor asked, genuinely confused.
+Chloe's eyes welled up. "Connor, do you... do you not care if you live or die?"
+"Of course I do, I mean... I don't wanna leave everyone behind--" he began, but Chloe interrupted by embracing him tightly.
+"Connor..." she sobbed. "Why don't you care about yourself? Why aren't you cursing the heavens at all the pain and torture you've had to experience in just the last week? Why can't you just feel sorry for yourself?"
+"I..." Connor paused, a single tear now running down his cheek. "I don't get to. I have no right."
+"Yes, you do!"
+"No, I don't. If I don't fight, good people will die. If I fail, good people will die. I don't get the luxury of feeling sorry for myself - everyone else has it worse if I fail. I'd just die. I don't stick around for the super-fascist dictatorship."
+Chloe rubbed her face, teary-eyed. "You have a right to... to let this affect you, Connor! To desire a life outside of all this."
+Connor sighed. "What life could I have? I'm not human, Chloe. I... are you sure..." he said, choking back tears, "Are you sure you want this?"
+Chloe looked at him, tears running down her cheek. "Connor..." she began. "Connor, you're more human than anyone I've ever met. You feel, you care, you fight for others... you don't care about how badly you get hurt, as long as it's you and not someone else. That is humanity at its best. You might not be genetically human anymore, but you're still my boyfriend. You've spent so much time worrying about everyone else, you've forgotten that you're allowed to want things too. So tell me, Connor - what do *you* want?"
+Connor paused, deep in thought. "I... I want to be with you. I want to get rid of the Optimates, so I can hang up my costume and live a normal life with you."
+"Connor..." Chloe cried, "Promise me something."
+"Anything." he nodded firmly.
+"You'll look after yourself. You'll... you'll try and stay alive. And not just for me, or your friends, or the people you save. You'll try and stay alive for yourself, too. Promise me that." she pleaded.
+"I promise." Connor said, taking a deep breath.
+He thought deeply for a moment.
+"I'm going to tell the truth."
+"Connor?" Chloe asked, surprised.
+"I'm gonna get Bea round here tomorrow, and... I'm going to be honest, and tell her what I am." he repeated.
+"But, Connor..." she began to protest, but Connor continued.
+"I'm done lying. I'm done hiding from my friends. I... I learned the hard way this week that I'm not invincible. And if... if I get hurt like this again, or worse, then I want the people in my life to know the truth."
+Chloe smiled warmly. "I'm so proud of you." she whispered.
+Connor smiled back, and hugged her tightly. They fell asleep in each other's arms.
 
-SCENE - Chloe and Connor talk
+The next morning, Connor was in the shower. He stood there, letting the water run over his face.
+While this happened, he saw flashes - glimpses of lost time.
+He saw the Commandant, and Zhao, cutting him up.
+The memories had been lost to him, but when the Judge nearly killed him, it awoke something.
+Flashes... only flashes of pain. But still, something.
+He sighed, and reached for his chest - there was a nasty red mark there, which, considering he had his entire ribcage, hearts, and lungs all punched out twice, was pretty good.
+He took a deep breath, and left the shower, morphing on some comfy clothes.
+As he walked into the kitchen, Chloe was finishing making breakfast.
+"Oh, hey!" she said, glad to see his improved condition.
+"Hah, morning." he smiled. "What's all this?"
+"Oh, this?" she said, looking down at the food. "Well, I... I figured you'd need some decent nutrition, so I whipped up something. There's omelettes for protein - I added some cheese and bacon too - and your blood sugar was a little low this morning, so I made some porridge with honey."
+Connor tilted his head at the last part. "My blood sugar?"
+"Oh, sorry..." she smiled shyly. "I tested your blood sugar this morning, while you were asleep. I tried to wake you, but you wouldn't stir no matter how much I shook you - so I was worried you were having a hypo. Sorry, I shouldn't have..."
+Connor chuckled. "I think, after the week I've had, my blood *anything* would be low."
+At that, she laughed, relaxing slightly. "I also swiped some NutriPaste from the hospital when we left last night. Much better than those bodybuilder shakes you've been making."
+Connor grinned cheekily. "Look at you. Less than a week of being my sidekick and you're already carrying out heists."
+She smirked, and playfully brushed his chest, feeling the mangled cavity beneath his clothes.
+"So... how do you feel?"
+"I'm okay... my chest is a lot better now." he replied.
+"That's good... and, are you ready?"
+"Yeah - it's time." Connor nodded. He looked over the kitchen, and saw Sparky, who had fallen back to sleep right next to his food bowl. He giggled.
+"Hah, bless him." Chloe grinned. "Gave him breakfast too. I was a little worried about his jaws, but they seem alright now. He scoffed his food and went right back to sleep."
+"Can't say I blame him." Connor yawned, chuckling.
+Chloe grabbed her fingerstick, and jabbed her fingertip. She lifted her shirt slightly, and injected the insulin.
+Connor smiled.
+"I just wanna say... thank you." she said.
+"What for?" he asked, confused.
+"Well... at home, my mum always makes me do my blood sugar and insulin in the bathroom. I mean, I know it's gross, but..."
+"It's not gross." Connor interjected. "Besides, I think hyperglycaemia is more concerning."
+Chloe chuckled, relieved.
+"Still, I do appreciate it. Some people get a bit grossed out by things like that, is all. Especially me checking your blood sugar."
+"Chloe." he grinned. "You discovered a brand new endorphin inside me, like, literally yesterday. If I suddenly get all high-and-mighty about testing my blood sugar, you have full permission to shoot me."
+At that, she let herself laugh. Connor joined in, and the two embraced.
+They pulled apart, and Connor grabbed some food. He began eating, and before long, had devoured all of it.
+"You okay?" she asked.
+"Oh, yeah..." he looked away, embarrassed. "After a big arse-kicking, I get this awful hunger. Like the Rage, but instead of wanting to kill, I just gorge myself."
+Chloe nodded, and placed a hand on his knee.
+"It's okay." she said softly. "It makes perfect sense, too. Paradrenaline is one thing, but I've only scratched the surface of your biochemistry. It's not surprising if you have other mutated hormones, like ghrelin. And just like your endorphins counteract the paradrenaline, there must be a way to regulate your leptin to counteract any mutated ghrelin."
+Connor let out a subdued chuckle. "Funny how my body can grow spare hearts, but can't regulate its hormones properly."
+She stroked her chin pensively. "Bodies tend to focus on keeping you alive long enough to spread your genes - not on giving you a decent quality of life. Case in point - paradrenaline makes you almost unbeatable in a fight, but you need to either harm yourself or have me cook up some endorphins to keep you functional in peacetime."
+Connor smiled softly, before hesitating. "One time, with the Hunger... it was in Chechnya, after a tank shell fucked me up pretty badly. With the Rage, I'll sometimes be wailing into a body well beyond the point of death, because I'm just running on instinct... that time, I tore a few chunks out of a Super-Agent before I passed out."
+"Oh, god." she replied, before gently caressing his cheek. "That must have been horrible. I'm so sorry."
+"I confess I indulged in psychotic cannibalism, and you're *sympathising* with me?" he asked, cocking an eyebrow.
+Chloe grinned. "Well, I don't want to upset you - you might eat me."
+At that, Connor chuckled, then roared with laughter. Chloe giggled in amusement, and the two embraced.
+Sparky, who had woke up to the laughter, dragged himself over.
+"Morning, Connor." he said groggily. "What are you guys laughing about?"
+"Morning, buddy!" Connor smiled back. "Um... we were just talking about that Hunger you and I get."
+"Oh, right." Sparky nodded, curling up next to the pair. "Have you told her about that time in the warehouse?"
+"No, not yet. Do you want me to?"
+Sparky nodded.
+"What's that?" Chloe asked.
+"He, uh..." Connor began. "Not long after he and I met, there was this warehouse in Wickermast we were in. After we took out the Agents, I turned over and saw Sparky tucking into one of their bodies. After that, he and I had a chat about it - I was worried he was just a maneater, haha."
+"I'm guessing it was more of a pragmatic thing?"
+"You've got it." Connor nodded, smiling. "He didn't quite understand that we had food at home."
+"Eh." Chloe shrugged. "It's not cannibalism if you're literally a wolf."
+Connor chuckled. He took a deep breath, and stretched. He reached for his back, and winced.
+"You okay?" she asked, concerned.
+"Yeah, fine... just, shooting pains in my lower back." he shrugged.
+"You mean where you broke it?"
+"Yeah... should be healed now is all."
+"Well, nerves are a funny thing - let me have a look."
+Connor un-morphed his shirt, and she looked at his back.
+"You look okay - but... oh, that's weird." she said.
+"What?"
+"Your spine... you seem to be growing more vertebrae." she replied, awestruck.
+"Eh?"
+"Yeah... I guess it makes sense." she began. "Your body seems to adapt to severe injury. When your heart was taken out and your secondary heart couldn't keep up the pace, you grew a bunch of tertiary hearts to fill the gaps. When your lungs were torn up by the Judge, you grew more chambers within to ensure that wouldn't happen again. Maybe, to avoid breaking your back in future, your body's making your spine more flexible?" she pondered.
+"You mean, I'm evolving?" Connor asked.
+"No..." Chloe shook her head. "Evolution is random. This... this is engineering. I've never seen anything like it."
+"Well... hopefully I finish growing it soon." Connor chuckled, re-morphing his shirt. "And hopefully my body can figure out how to stop these damn migraines while it's at it."
 
-	Connor awoke in his bed. He looked around frantically, and realised where he was. He reached for his chest, and felt it had mostly healed - it was sore and mangled, but the hole was gone. He took a deep breath, morphed his clothes, and headed out the door.
-	There, he found Chloe and Sparky asleep in the next room. He sighed softly, walked over, and sat with them.
-	Chloe stirred. She sat up and looked over at him.
-	"...Connor?" she asked, half-asleep.
-	"Hey..." he began, and she pounced and wrapped her arms around him.
-	"You're okay..." she whispered. Sparky stirred too.
-	"Connor..." he groaned, his jaws still aching.
-	"Hey buddy..." Connor smiled softly, stroking Sparky's head.
-	Chloe released her grip, and looked at him. "How do you feel?" she asked.
-	"I'm okay. Not as bad as last time. The paradrenaline shot you gave me - that worked a treat. But the real genius was mixing endorphins with NMBAs." Connor said, proudly.
-	"Hah... I'm glad it worked. It was a gamble, no doubt about it."
-	"How bad was it when I got here?"
-	"Not too bad. Your heart was missing, but your backup hearts were fully picking up the slack. You weren't in a coma because of asphyxiation, you were in one to regrow your heart. All I had to do was give you some mushed food and get you to bed." she answered.
-	"How, um... how long has it been?"
-	"Um..." Chloe said, checking her phone. "Ivan brought you here at 20:38. It's 04:26."
-	Connor touched his chest, feeling his hearts beat. "8 hours, then. 8 hours to regrow a heart."
-	Chloe, now fully awake, touched his chest, likewise feeling the beat.
-	"Where's everyone else?" he asked.
-	"Amy's gone back out." she nodded. "Her suit needed some repairs, so Shannon's downstairs fixing it up while she sticks to scouting. Naismith's gone back to the police station, Ivan's taken the Judge's body to be disposed of, and Gwen and Bubo have gone back on her glider, to keep an eye on the city for tonight."
-	Connor smiled. "They're a good team."
-	"You... you are so, so strong." she began, teary eyed.
-	"I don't know what I'd do if you weren't here to patch me up." Connor replied. "Physically and... you know, everything else."
-	He sighed. "The Judge is gone, at last..."
-	"How, um... how do you do this?" she asked, sadly.
-	"I don't know..." Connor began. "I guess, what choice do I have? Let Paladin keep killing people?"
-	"No, I know *why* you do it." she shook her head. "I mean... how can you go through all this - your heart ripped out twice, your spine broken, shot full of bullets - and not just fall apart? It's only been a week, for Christ's sake!"
-	"I guess..." Connor pondered for a moment. "I don't have time to break down."
-	"You do now." Chloe said, rubbing his shoulder.
-	Connor paused, and looked at her sadly. "I... I was so scared I'd never see you again. The idea that you'd be at home with Sparky, never knowing what happened, until, I don't know, you see it on the news... the thought of leaving you alone after all this, it breaks my heart... no pun intended. And not just you - you and Amy and Trey, you guys know who I am. But Bea? She'd just learn that I disappeared one day. Or worse, the way that she finds out is through that. She learns that the last thing I did was lie to her. That's not even counting how me dying would mean so, so many people would get hurt. The Optimates would have free reign."
-	Chloe shook her head, saddened. "Even after all of this, the only thing you were scared of... was how dying would affect others?"
-	"I mean, what else is there to be scared of?" Connor asked, genuinely confused.
-	Chloe's eyes welled up. "Connor, do you... do you not care if you live or die?"
-	"Of course I do, I mean... I don't wanna leave everyone behind--" he began, but Chloe interrupted by embracing him tightly.
-	"Connor..." she sobbed. "Why don't you care about yourself? Why aren't you cursing the heavens at all the pain and torture you've had to experience in just the last week? Why can't you just feel sorry for yourself?"
-	"I..." Connor paused, a single tear now running down his cheek. "I don't get to. I have no right."
-	"Yes, you do!"
-	"No, I don't. If I don't fight, good people will die. If I fail, good people will die. I don't get the luxury of feeling sorry for myself - everyone else has it worse if I fail. I'd just die. I don't stick around for the super-fascist dictatorship."
-	Chloe rubbed her face, teary-eyed. "You have a right to... to let this affect you, Connor! To desire a life outside of all this."
-	Connor sighed. "What life could I have? I'm not human, Chloe. I... are you sure..." he said, choking back tears, "Are you sure you want this?"
-	Chloe looked at him, tears running down her cheek. "Connor..." she began. "Connor, you're more human than anyone I've ever met. You feel, you care, you fight for others... you don't care about how badly you get hurt, as long as it's you and not someone else. That is humanity at its best. You might not be genetically human anymore, but you're still my boyfriend. You've spent so much time worrying about everyone else, you've forgotten that you're allowed to want things too. So tell me, Connor - what do *you* want?"
-	Connor paused, deep in thought. "I... I want to be with you. I want to get rid of the Optimates, so I can hang up my costume and live a normal life with you."
-	"Connor..." Chloe cried, "Promise me something."
-	"Anything." he nodded firmly.
-	"You'll look after yourself. You'll... you'll try and stay alive. And not just for me, or your friends, or the people you save. You'll try and stay alive for yourself, too. Promise me that." she pleaded.
-	"I promise." Connor said, taking a deep breath.
-	He thought deeply for a moment.
-	"I'm going to tell the truth."
-	"Connor?" Chloe asked, surprised.
-	"I'm gonna get Bea round here tomorrow, and... I'm going to be honest, and tell her what I am." he repeated.
-	"But, Connor..." she began to protest, but Connor continued.
-	"I'm done lying. I'm done hiding from my friends. I... I learned the hard way this week that I'm not invincible. And if... if I get hurt like this again, or worse, then I want the people in my life to know the truth."
-	Chloe smiled warmly. "I'm so proud of you." she whispered.
-	Connor smiled back, and hugged her tightly. They fell asleep in each other's arms.
+As the rest of the squad dragged themselves out of their rooms - and pounced upon Connor in bear hugs - the morning bled into afternoon.
+Not long later, Bea showed up, entering the communal lounge.
+"Hey, hey!" she smiled. Gwen and Ivan had made themselves scarce - a moment like this needed proper pacing to not be overwhelming, after all.
+The gang greeted her with hugs and smiles, as she took a seat.
+Connor cleared his throat.
+"So..." he began. "I, um..."
+"You okay?" Bea asked, eyebrow raised.
+"Yeah. Um..." Connor continued, nervous. "Bea - I've got something to tell you."
+Amy looked at Connor, first with a look of concern, that soon faded into tacit endorsement.
+"What's that?" Bea asked, confused.
+"Uh..." Connor began. Chloe put a comforting hand on his shoulder.
+Trey nodded at Connor, having realised what's about to happen.
+Sparky trotted over. "It's okay." he smiled.
+"It's probably better if I just... show you." Connor said, rising. No going back now.
+Shannon took a deep breath, in preparation.
+"Show me what?" Bea asked again.
+She was answered by Connor's clothes morphing into a black resin, that hardened into a kevlar suit - the iconic Werewolf costume.
+Bea turned as pale as a ghost.
+"You... you're..." she stammered. "No... you're not..."
+"I'm sorry..." Connor began, un-morphing his mask.
+Bea rose, and smacked him. "You bastard! You're the reason those psychos shot up Chloe's work!"
+Connor reflexively dodged, twisting backwards in a disturbing angle.
+"Hey, hey! Bea, he's not... it's not his fault." Chloe jumped in.
+"You... you *knew?*" Bea asked, horrified.
+"I..." Chloe began. "I found out when the lab got attacked."
+"I knew too." Amy admitted. "I found out late November."
+"Me too. I figured it out after the winter faire." Trey nodded.
+"And I figured it out in prison." Shannon shrugged.
+"You... you killed all those people..." Bea said, shocked.
+"I... I didn't have a choice." Connor replied.
+"Like hell you didn't! What did those people in Belson do?!" she countered.
+"What?!" Connor replied, aghast.
+"Don't lie anymore. The small-time criminals in Belson you've been *crucifying?!*"
+"Bea - that wasn't him." Chloe cut in.
+"Oh, sure, he's told you that, has he?" Bea snapped. "Chlo, he's a monster!"
+"Bea..." Connor began. "That wasn't me, I swear. That was the monster we've been fighting - the Judge."
+"*We?!*"
+Connor sighed, as did Amy.
+"Um, Bea..." Amy began. "You've heard of that new vigilante, right? The one with the badass armour who can stun people?"
+"*That's* how you describe it?" Trey grinned.
+Bea tilted her head.
+"Um... I'm a superhero too." Amy admitted.
+"This... is getting weird now." Bea shook her head.
+"Bea..." Connor began, his voice cracking. "What matters is, the killings weren't me."
+Chloe interjected. "The past few days, he was in the hospital, physically *growing* his chest back, because the monster punched it clean out." she said, rising to Connor's side. "He's the reason those killings have stopped. And don't forget all the people he's saved too. Including us."
+Bea folded her arms. "Prove it."
+"Bea?" Connor asked.
+"Prove you were injured." she explained.
+"Bea, you don't seriously believe..." Chloe began.
+"Chlo, this man has lied to us for so long. I was gaslit by Charlie into thinking that was okay - I am *not* letting the same happen to you. Not again. I don't care what I've seen so far - I want to see hard proof before I trust him again."
+"Bea... he's not Francis." Chloe whispered.
+Connor took a deep breath, and un-morphed his shirt. There, the red mangling over his chest cavity was visible.
+"You... what happened?" Bea asked, her face pale.
+"Like we said - I had to regrow my heart. Thankfully, that's something I can do. It'll take a few more hours to heal the cosmetic damage, though." Connor explained.
+"Bea..." Amy began. "I was shocked when I found out. To learn that my own brother had so many kills to his name... you think that was easy? But I realised... he's still Connor. He's my brother, and I know what he's like. And the Werewolf is just an extension of that."
+"Bea, come on..." Chloe said, sitting down next to her. "If you had these powers, and knew about the people he's fighting, wouldn't you fight too?"
+"What people?" Bea asked, eyebrows raised once more.
+"Scum." Connor said, sighing. "A group of fascist elites called the Optimates."
+"Fascists?" Bea asked, shocked.
+"I've seen them." Chloe added. "I... it took me a while to accept that Connor is a killer. But the people he's killing... he does it because he has to."
+"I just..." Bea shook her head in disbelief. "Did you ever have a choice? Could you have spared any of them?"
+"Always. There's always a choice. Doesn't mean it's an easy one." Connor replied. "The superhumans - there's no safe way to let them live. Fascists with superpowers, Bea - would you let them live?"
+Bea hesitated. "No." she finally answered.
+A tense silence fell over the group.
+"Connor... I'm sorry." Bea began. "I... I've seen Chloe get hurt, and I got hurt recently... hearing such a big confession, it just..."
+Connor cut in. "It's okay. And I'm glad - *really* glad - that Chloe has you looking out for her."
+Chloe looked up at Connor, and smiled. Bea smiled too - hearing that; a boy who doesn't just allow his girlfriend to have supportive friends, but actively appreciates it - assuaged her fears somewhat. "He's not Charlie. He's not Francis." she thought.
+"Well, not many people would try and smack someone who they, at the time, believed to be a mass murderer." Amy quipped.
+Bea chuckled nervously. "Hey, when I get fired up... why are you telling me all this now, though?"
+"Well... because I almost died. Yeah, having your chest cavity punched out is actually not too good for you." Connor chuckled grimly. "And I hate - *hate* - the thought of you finding out that I'd died, and the last thing I'd done was lie to you. Let alone leaving Chloe with the burden of telling you."
+Bea looked forlorn. "You're not gonna die, are you?"
+"I don't plan on." Connor replied firmly. "But... well, I can't promise I won't. This shit is dangerous. And I'm done lying to the people I care about."
+Amy took a deep breath. "So, uh... I guess, welcome to the team. Sparky's our mascot."
+"Too right I am!" he barked.
+"Huh?!" Bea gasped. "Did... did he just..."
+"Oh, yeah." Chloe pinched the bridge of her nose. "Sparky can talk."
+"WHAT?!"
+"Hah, that's probably the least weird bit. Next time, lead with that one." Amy chuckled.
+"No, it's honestly much worse when they lead with that." Chloe sighed.
+Sparky gently approached. "Um... hi, Bea! This is a... long story."
+"I've got time." she shook her head incredulously.
+"I'll put the kettle on." Connor grinned.
 
-SCENE - Revealing the truth to the gang
+At the same time, Stoker was in his cell in prison. He was throwing a tennis ball at the wall. His teeth were clearly fakes, and his nose was crooked - holdovers from Connor's treatment of him.
+A young man entered the cell.
+"What?" Stoker asked impatiently.
+"The Skinners - they've got a job for you." the younger man replied.
+"Fuck the Skinners. And, oh yeah, fuck you." Stoker snapped.
+The young man hit Stoker in the face, and stared down at him.
+"Fuck Redbridge, you mean. Their freak killed Ritter. And he also got you put away, yeah?"
+"What's it to you?" Stoker asked, rubbing his face.
+The younger man grinned, and pulled out a shiv, handing it over. "Make it even. Their old boss is still here, no?" he said, leaving the cell.
+Stoker looked at the blade, sighed, and then grinned.
+"Payback." he muttered to himself.
 
-	The next morning, Connor was in the shower. He stood there, letting the water run over his face.
-	While this happened, he saw flashes - glimpses of lost time.
-	He saw the Commandant, and Zhao, cutting him up.
-	The memories had been lost to him, but when the Judge nearly killed him, it awoke something.
-	Flashes... only flashes of pain. But still, something.
-	He sighed, and reached for his chest - there was a nasty red mark there, which, considering he had his entire ribcage, hearts, and lungs all punched out twice, was pretty good.
-	He took a deep breath, and left the shower, morphing on some comfy clothes.
-	As he walked into the kitchen, Chloe was finishing making breakfast.
-	"Oh, hey!" she said, glad to see his improved condition.
-	"Hah, morning." he smiled. "What's all this?"
-	"Oh, this?" she said, looking down at the food. "Well, I... I figured you'd need some decent nutrition, so I whipped up something. There's omelettes for protein - I added some cheese and bacon too - and your blood sugar was a little low this morning, so I made some porridge with honey."
-	Connor tilted his head at the last part. "My blood sugar?"
-	"Oh, sorry..." she smiled shyly. "I tested your blood sugar this morning, while you were asleep. I tried to wake you, but you wouldn't stir no matter how much I shook you - so I was worried you were having a hypo. Sorry, I shouldn't have..."
-	Connor chuckled. "I think, after the week I've had, my blood *anything* would be low."
-	At that, she laughed, relaxing slightly. "I also swiped some NutriPaste from the hospital when we left last night. Much better than those bodybuilder shakes you've been making."
-	Connor grinned cheekily. "Look at you. Less than a week of being my sidekick and you're already carrying out heists."
-	She smirked, and playfully brushed his chest, feeling the mangled cavity beneath his clothes.
-	"So... how do you feel?"
-	"I'm okay... my chest is a lot better now." he replied.
-	"That's good... and, are you ready?"
-	"Yeah - it's time." Connor nodded. He looked over the kitchen, and saw Sparky, who had fallen back to sleep right next to his food bowl. He giggled.
-	"Hah, bless him." Chloe grinned. "Gave him breakfast too. I was a little worried about his jaws, but they seem alright now. He scoffed his food and went right back to sleep."
-	"Can't say I blame him." Connor yawned, chuckling.
-	Chloe grabbed her fingerstick, and jabbed her fingertip. She lifted her shirt slightly, and injected the insulin.
-	Connor smiled.
-	"I just wanna say... thank you." she said.
-	"What for?" he asked, confused.
-	"Well... at home, my mum always makes me do my blood sugar and insulin in the bathroom. I mean, I know it's gross, but..."
-	"It's not gross." Connor interjected. "Besides, I think hyperglycaemia is more concerning."
-	Chloe chuckled, relieved.
-	"Still, I do appreciate it. Some people get a bit grossed out by things like that, is all. Especially me checking your blood sugar."
-	"Chloe." he grinned. "You discovered a brand new endorphin inside me, like, literally yesterday. If I suddenly get all high-and-mighty about testing my blood sugar, you have full permission to shoot me."
-	At that, she let herself laugh. Connor joined in, and the two embraced.
-	They pulled apart, and Connor grabbed some food. He began eating, and before long, had devoured all of it.
-	"You okay?" she asked.
-	"Oh, yeah..." he looked away, embarrassed. "After a big arse-kicking, I get this awful hunger. Like the Rage, but instead of wanting to kill, I just gorge myself."
-	Chloe nodded, and placed a hand on his knee.
-	"It's okay." she said softly. "It makes perfect sense, too. Paradrenaline is one thing, but I've only scratched the surface of your biochemistry. It's not surprising if you have other mutated hormones, like ghrelin. And just like your endorphins counteract the paradrenaline, there must be a way to regulate your leptin to counteract any mutated ghrelin."
-	Connor let out a subdued chuckle. "Funny how my body can grow spare hearts, but can't regulate its hormones properly."
-	She stroked her chin pensively. "Bodies tend to focus on keeping you alive long enough to spread your genes - not on giving you a decent quality of life. Case in point - paradrenaline makes you almost unbeatable in a fight, but you need to either harm yourself or have me cook up some endorphins to keep you functional in peacetime."
-	Connor smiled softly, before hesitating. "One time, with the Hunger... it was in Chechnya, after a tank shell fucked me up pretty badly. With the Rage, I'll sometimes be wailing into a body well beyond the point of death, because I'm just running on instinct... that time, I tore a few chunks out of a Super-Agent before I passed out."
-	"Oh, god." she replied, before gently caressing his cheek. "That must have been horrible. I'm so sorry."
-	"I confess I indulged in psychotic cannibalism, and you're *sympathising* with me?" he asked, cocking an eyebrow.
-	Chloe grinned. "Well, I don't want to upset you - you might eat me."
-	At that, Connor chuckled, then roared with laughter. Chloe giggled in amusement, and the two embraced.
-	Sparky, who had woke up to the laughter, dragged himself over.
-	"Morning, Connor." he said groggily. "What are you guys laughing about?"
-	"Morning, buddy!" Connor smiled back. "Um... we were just talking about that Hunger you and I get."
-	"Oh, right." Sparky nodded, curling up next to the pair. "Have you told her about that time in the warehouse?"
-	"No, not yet. Do you want me to?"
-	Sparky nodded.
-	"What's that?" Chloe asked.
-	"He, uh..." Connor began. "Not long after he and I met, there was this warehouse in Wickermast we were in. After we took out the Agents, I turned over and saw Sparky tucking into one of their bodies. After that, he and I had a chat about it - I was worried he was just a maneater, haha."
-	"I'm guessing it was more of a pragmatic thing?"
-	"You've got it." Connor nodded, smiling. "He didn't quite understand that we had food at home."
-	"Eh." Chloe shrugged. "It's not cannibalism if you're literally a wolf."
-	Connor chuckled. He took a deep breath, and stretched. He reached for his back, and winced.
-	"You okay?" she asked, concerned.
-	"Yeah, fine... just, shooting pains in my lower back." he shrugged.
-	"You mean where you broke it?"
-	"Yeah... should be healed now is all."
-	"Well, nerves are a funny thing - let me have a look."
-	Connor un-morphed his shirt, and she looked at his back.
-	"You look okay - but... oh, that's weird." she said.
-	"What?"
-	"Your spine... you seem to be growing more vertebrae." she replied, awestruck.
-	"Eh?"
-	"Yeah... I guess it makes sense." she began. "Your body seems to adapt to severe injury. When your heart was taken out and your secondary heart couldn't keep up the pace, you grew a bunch of tertiary hearts to fill the gaps. When your lungs were torn up by the Judge, you grew more chambers within to ensure that wouldn't happen again. Maybe, to avoid breaking your back in future, your body's making your spine more flexible?" she pondered.
-	"You mean, I'm evolving?" Connor asked.
-	"No..." Chloe shook her head. "Evolution is random. This... this is engineering. I've never seen anything like it."
-	"Well... hopefully I finish growing it soon." Connor chuckled, re-morphing his shirt. "And hopefully my body can figure out how to stop these damn migraines while it's at it."
+In the harsh winter cold of Karelia, Ivan flashed an ID badge to enter an industrial unit in the middle of the countryside. The guard at the front let him in, and he descended a stairway. There, he saw his superior Morozov, observing a makeshift laboratory.
+He looked in, and sighed. The Judge's head had been placed in a glass vat, filled with nutritional fluid. As for the body, it was chained to a bed, with electrical shocks being applied to it, and the results being measured. Tubes extended from its abdomen, with black and red fluids being pumped out.
+"[Comrade Sokolov. You've outdone yourself.]" Morozov began.
+"[Sir...]" Ivan shuddered. "[I understand the importance of our mission, absolutely... but is this wise?]"
+"[The head is detached, Sokolov. Our doctors are monitoring it around the clock. Once we've finished, we can attach the head back without allowing it to use its muscles - and interrogate it. It's perfectly safe.]"
+Ivan shook his head. "[Even if it is, what we're doing with the body...]"
+"[All for the Motherland.]" Morozov interrupted. "[Long live the Soviet Union.]"
+"[On with the Red Dawn.]" Ivan hesitantly saluted, and turned to leave.
+As he walked down the corridors, a Jotunn - the same type seen in Belson - walked past. It was seemingly held together by a black bodysuit, engineered to mimic Connor's costume. Instead of the fascist armour of the first one, however - this one wore a dark green military outfit, replete with red hammer-and-sickle iconography.
+"Commissar." it nodded, hulking past. Its voice was booming deep.
+"Tovarishch." Ivan nodded back.
 
-	As the rest of the squad dragged themselves out of their rooms - and pounced upon Connor in bear hugs - the morning bled into afternoon.
-	Not long later, Bea showed up, entering the communal lounge.
-	"Hey, hey!" she smiled. Gwen and Ivan had made themselves scarce - a moment like this needed proper pacing to not be overwhelming, after all.
-	The gang greeted her with hugs and smiles, as she took a seat.
-	Connor cleared his throat.
-	"So..." he began. "I, um..."
-	"You okay?" Bea asked, eyebrow raised.
-	"Yeah. Um..." Connor continued, nervous. "Bea - I've got something to tell you."
-	Amy looked at Connor, first with a look of concern, that soon faded into tacit endorsement.
-	"What's that?" Bea asked, confused.
-	"Uh..." Connor began. Chloe put a comforting hand on his shoulder.
-	Trey nodded at Connor, having realised what's about to happen.
-	Sparky trotted over. "It's okay." he smiled.
-	"It's probably better if I just... show you." Connor said, rising. No going back now.
-	Shannon took a deep breath, in preparation.
-	"Show me what?" Bea asked again.
-	She was answered by Connor's clothes morphing into a black resin, that hardened into a kevlar suit - the iconic Werewolf costume.
-	Bea turned as pale as a ghost.
-	"You... you're..." she stammered. "No... you're not..."
-	"I'm sorry..." Connor began, un-morphing his mask.
-	Bea rose, and smacked him. "You bastard! You're the reason those psychos shot up Chloe's work!"
-	Connor reflexively dodged, twisting backwards in a disturbing angle.
-	"Hey, hey! Bea, he's not... it's not his fault." Chloe jumped in.
-	"You... you *knew?*" Bea asked, horrified.
-	"I..." Chloe began. "I found out when the lab got attacked."
-	"I knew too." Amy admitted. "I found out late November."
-	"Me too. I figured it out after the winter faire." Trey nodded.
-	"And I figured it out in prison." Shannon shrugged.
-	"You... you killed all those people..." Bea said, shocked.
-	"I... I didn't have a choice." Connor replied.
-	"Like hell you didn't! What did those people in Belson do?!" she countered.
-	"What?!" Connor replied, aghast.
-	"Don't lie anymore. The small-time criminals in Belson you've been *crucifying?!*"
-	"Bea - that wasn't him." Chloe cut in.
-	"Oh, sure, he's told you that, has he?" Bea snapped. "Chlo, he's a monster!"
-	"Bea..." Connor began. "That wasn't me, I swear. That was the monster we've been fighting - the Judge."
-	"*We?!*"
-	Connor sighed, as did Amy.
-	"Um, Bea..." Amy began. "You've heard of that new vigilante, right? The one with the badass armour who can stun people?"
-	"*That's* how you describe it?" Trey grinned.
-	Bea tilted her head.
-	"Um... I'm a superhero too." Amy admitted.
-	"This... is getting weird now." Bea shook her head.
-	"Bea..." Connor began, his voice cracking. "What matters is, the killings weren't me."
-	Chloe interjected. "The past few days, he was in the hospital, physically *growing* his chest back, because the monster punched it clean out." she said, rising to Connor's side. "He's the reason those killings have stopped. And don't forget all the people he's saved too. Including us."
-	Bea folded her arms. "Prove it."
-	"Bea?" Connor asked.
-	"Prove you were injured." she explained.
-	"Bea, you don't seriously believe..." Chloe began.
-	"Chlo, this man has lied to us for so long. I was gaslit by Charlie into thinking that was okay - I am *not* letting the same happen to you. Not again. I don't care what I've seen so far - I want to see hard proof before I trust him again."
-	"Bea... he's not Francis." Chloe whispered.
-	Connor took a deep breath, and un-morphed his shirt. There, the red mangling over his chest cavity was visible.
-	"You... what happened?" Bea asked, her face pale.
-	"Like we said - I had to regrow my heart. Thankfully, that's something I can do. It'll take a few more hours to heal the cosmetic damage, though." Connor explained.
-	"Bea..." Amy began. "I was shocked when I found out. To learn that my own brother had so many kills to his name... you think that was easy? But I realised... he's still Connor. He's my brother, and I know what he's like. And the Werewolf is just an extension of that."
-	"Bea, come on..." Chloe said, sitting down next to her. "If you had these powers, and knew about the people he's fighting, wouldn't you fight too?"
-	"What people?" Bea asked, eyebrows raised once more.
-	"Scum." Connor said, sighing. "A group of fascist elites called the Optimates."
-	"Fascists?" Bea asked, shocked.
-	"I've seen them." Chloe added. "I... it took me a while to accept that Connor is a killer. But the people he's killing... he does it because he has to."
-	"I just..." Bea shook her head in disbelief. "Did you ever have a choice? Could you have spared any of them?"
-	"Always. There's always a choice. Doesn't mean it's an easy one." Connor replied. "The superhumans - there's no safe way to let them live. Fascists with superpowers, Bea - would you let them live?"
-	Bea hesitated. "No." she finally answered.
-	A tense silence fell over the group.
-	"Connor... I'm sorry." Bea began. "I... I've seen Chloe get hurt, and I got hurt recently... hearing such a big confession, it just..."
-	Connor cut in. "It's okay. And I'm glad - *really* glad - that Chloe has you looking out for her."
-	Chloe looked up at Connor, and smiled. Bea smiled too - hearing that; a boy who doesn't just allow his girlfriend to have supportive friends, but actively appreciates it - assuaged her fears somewhat. "He's not Charlie. He's not Francis." she thought.
-	"Well, not many people would try and smack someone who they, at the time, believed to be a mass murderer." Amy quipped.
-	Bea chuckled nervously. "Hey, when I get fired up... why are you telling me all this now, though?"
-	"Well... because I almost died. Yeah, having your chest cavity punched out is actually not too good for you." Connor chuckled grimly. "And I hate - *hate* - the thought of you finding out that I'd died, and the last thing I'd done was lie to you. Let alone leaving Chloe with the burden of telling you."
-	Bea looked forlorn. "You're not gonna die, are you?"
-	"I don't plan on." Connor replied firmly. "But... well, I can't promise I won't. This shit is dangerous. And I'm done lying to the people I care about."
-	Amy took a deep breath. "So, uh... I guess, welcome to the team. Sparky's our mascot."
-	"Too right I am!" he barked.
-	"Huh?!" Bea gasped. "Did... did he just..."
-	"Oh, yeah." Chloe pinched the bridge of her nose. "Sparky can talk."
-	"WHAT?!"
-	"Hah, that's probably the least weird bit. Next time, lead with that one." Amy chuckled.
-	"No, it's honestly much worse when they lead with that." Chloe sighed.
-	Sparky gently approached. "Um... hi, Bea! This is a... long story."
-	"I've got time." she shook her head incredulously.
-	"I'll put the kettle on." Connor grinned.
-
-SCENE - Vince's Wounds
-
-	At the same time, Stoker was in his cell in prison. He was throwing a tennis ball at the wall. His teeth were clearly fakes, and his nose was crooked - holdovers from Connor's treatment of him.
-	A young man entered the cell.
-	"What?" Stoker asked impatiently.
-	"The Skinners - they've got a job for you." the younger man replied.
-	"Fuck the Skinners. And, oh yeah, fuck you." Stoker snapped.
-	The young man hit Stoker in the face, and stared down at him.
-	"Fuck Redbridge, you mean. Their freak killed Ritter. And he also got you put away, yeah?"
-	"What's it to you?" Stoker asked, rubbing his face.
-	The younger man grinned, and pulled out a shiv, handing it over. "Make it even. Their old boss is still here, no?" he said, leaving the cell.
-	Stoker looked at the blade, sighed, and then grinned.
-	"Payback." he muttered to himself.
-
-	In the harsh winter cold of Karelia, Ivan flashed an ID badge to enter an industrial unit in the middle of the countryside. The guard at the front let him in, and he descended a stairway. There, he saw his superior Morozov, observing a makeshift laboratory.
-	He looked in, and sighed. The Judge's head had been placed in a glass vat, filled with nutritional fluid. As for the body, it was chained to a bed, with electrical shocks being applied to it, and the results being measured. Tubes extended from its abdomen, with black and red fluids being pumped out.
-	"[Comrade Sokolov. You've outdone yourself.]" Morozov began.
-	"[Sir...]" Ivan shuddered. "[I understand the importance of our mission, absolutely... but is this wise?]"
-	"[The head is detached, Sokolov. Our doctors are monitoring it around the clock. Once we've finished, we can attach the head back without allowing it to use its muscles - and interrogate it. It's perfectly safe.]"
-	Ivan shook his head. "[Even if it is, what we're doing with the body...]"
-	"[All for the Motherland.]" Morozov interrupted. "[Long live the Soviet Union.]"
-	"[On with the Red Dawn.]" Ivan hesitantly saluted, and turned to leave.
-	As he walked down the corridors, a Jotunn - the same type seen in Belson - walked past. It was seemingly held together by a black bodysuit, engineered to mimic Connor's costume. Instead of the fascist armour of the first one, however - this one wore a dark green military outfit, replete with red hammer-and-sickle iconography.
-	"Commissar." it nodded, hulking past. Its voice was booming deep.
-	"Tovarishch." Ivan nodded back.
-
-	Out in the prison yard, Vince was playing basketball with the other inmates. A younger man accidentally tripped him up, causing him to fall.
-	Vince rose, and the younger man looked terrified - Vince's reputation preceded him.
-	"Hah!" Vince laughed heartily, putting his hand on the younger man's shoulder. "That's a good strategy. Aim for me ankles next time!"
-	The younger man chuckled nervously. "S-Sorry, Vince. Honest mistake." he stuttered.
-	Vince smiled warmly. "You owe me half your pudding tonight, lad." he chuckled. The man laughed, as did the other inmates.
-	"Alright, penalties?"
-	"Does basketball even have penalties?" another inmate asked.
-	"It does now!" Vince chuckled.
-	As Vince went to launch the ball, Stoker appeared behind him, gripping the shiv.
+Out in the prison yard, Vince was playing basketball with the other inmates. A younger man accidentally tripped him up, causing him to fall.
+Vince rose, and the younger man looked terrified - Vince's reputation preceded him.
+"Hah!" Vince laughed heartily, putting his hand on the younger man's shoulder. "That's a good strategy. Aim for me ankles next time!"
+The younger man chuckled nervously. "S-Sorry, Vince. Honest mistake." he stuttered.
+Vince smiled warmly. "You owe me half your pudding tonight, lad." he chuckled. The man laughed, as did the other inmates.
+"Alright, penalties?"
+"Does basketball even have penalties?" another inmate asked.
+"It does now!" Vince chuckled.
+As Vince went to launch the ball, Stoker appeared behind him, gripping the shiv.

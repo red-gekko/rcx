@@ -6,12 +6,6 @@ ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "bloodhound-WIP.txt"
 OUTPUT = ROOT / "episodes"
 
-# ── Settings (mirror splitter.js defaults) ──
-IGNORE_CUTOFF = False
-INCLUDE_SCENE_HEADERS = True
-INCLUDE_EPISODE_HEADERS = True
-INCLUDE_VOLUME_HEADERS = True
-
 CUTOFF_MARKER = "////"
 RESUME_MARKER = "\\\\"
 
@@ -144,25 +138,21 @@ def parse_manuscript(text, ignore_cutoff):
 # ── Formatting ─────────────────────────────────────────────────────────────
 def format_scene_lines(scene):
     out = []
-    if INCLUDE_SCENE_HEADERS:
-        out.append('SCENE - ' + scene['name'] if scene['name'] else 'SCENE')
-        out.append('')
     for raw in scene['lines']:
         trimmed = raw.strip()
         if DIVIDER_RE.match(raw):
             continue
         if trimmed in (CUTOFF_MARKER, RESUME_MARKER):
             continue
-        out.append('\t' + trimmed if trimmed else '')
+        out.append(trimmed)
     return out
 
 
 def format_episode(ep, vol_name):
     header_parts = []
-    if INCLUDE_VOLUME_HEADERS and vol_name and vol_name != 'Unassigned':
+    if vol_name and vol_name != 'Unassigned':
         header_parts.append('VOLUME - ' + vol_name)
-    if INCLUDE_EPISODE_HEADERS:
-        header_parts.append('EPISODE - ' + ep['name'])
+    header_parts.append('EPISODE - ' + ep['name'])
 
     body = []
     for idx, scene in enumerate(ep['scenes']):
@@ -196,7 +186,7 @@ def sanitise(name):
 # ── Main ───────────────────────────────────────────────────────────────────
 def split_story():
     text = SOURCE.read_text(encoding='utf-8')
-    volumes = parse_manuscript(text, IGNORE_CUTOFF)
+    volumes = parse_manuscript(text, False)
 
     if OUTPUT.exists():
         shutil.rmtree(OUTPUT)

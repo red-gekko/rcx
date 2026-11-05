@@ -114,7 +114,7 @@ SCENE - Bea and Chloe argue/Troll and Goblin move in
 	"A little. Humans have him in bedtime stories, like the ones we tell." the greenskin smiled.
 	"Oh! What stories am Jesus in?"
 	"Ah, I've only heard snippets. Supposedly, he had a horrible temper, so they killed him - but he was so angry, he turned into a zombie. At least, I think that's what happened. They kept saying he died cross, and came back, or something."
-	"Wolf Man get angry, but him only use anger for good. Am he like Jesus?"
+	"Wolf Man get angry, but him only use anger for good. And him come back from dead. Am he like Jesus?"
 	"Probably. It'd explain a lot." Goblin chuckled.
 	Troll moved to the next shelf. An old leather book lay open on it, its pages yellowed and fragile. He tilted his head - he couldn't read, but he recognised the shape of the words - the way they were laid out, like a song.
 	"Pretty..." he smiled.
@@ -136,7 +136,7 @@ SCENE - Bea and Chloe argue/Troll and Goblin move in
 	Goblin stood between him and Troll, and readied the broken bottle like a knife. Behind him, Troll had curled in on himself, massive hands covering his face.
 	Declan didn't move.
 	"Alright." he said softly. "Goblin, I'm going to stay right here. Is that alright?"
-	Goblin's grip didn't loosen. "You're gonna hurt him. He didn't mean to. It was an accident."
+	Goblin's grip didn't loosen. "He didn't mean to. It was an accident."
 	"I'm sure it was." Declan whispered. "I'm not going to hurt anyone."
 	"You're angry." Goblin's voice cracked. "Everyone gets angry. Then they get the stick. Or the cattle prod. Or the--"
 	Declan took a slow breath. "Goblin. Look at me. Do I look angry?"
@@ -144,7 +144,7 @@ SCENE - Bea and Chloe argue/Troll and Goblin move in
 	"I'm a priest. I'm not very good at hiding things." he smiled. "I'm actually a little annoyed at myself for leaving that Bible down here. It's been on that shelf for years - I should have moved it somewhere safer."
 	Troll peeked through his fingers. "You... you not mad?"
 	"I'm not mad." he said gently, approaching. "It was an accident, wasn't it?"
-	"Yes. Troll didn't mean to break things. Troll is just clumsy. Stupid Troll! Stupid, stupid, STUPID!"
+	"Yes. Troll not mean to break things. Troll am just clumsy. Stupid Troll! Stupid, stupid, STUPID!"
 	"No, no, please don't!" Declan begged, as Troll beat himself again. Goblin stood to alert, but relaxed enough to let him approach. He gently placed his hand on Troll's wrist.
 	"Accidents happen, and there was no harm done. It's more important that you and your brother aren't hurt. A book can be replaced, wine is cheap enough... besides, it's not like that was the only Bible here. If it *were,* I'd be in much bigger trouble with the Church than I would have with either of you."
 	Goblin's arm was shaking now, as he lowered the bottle.
@@ -249,10 +249,9 @@ SCENE - Bea and Chloe argue/Troll and Goblin move in
 	"Wolf Man is helping?" Troll asked, tilting his head.
 	"I'm helping." Connor smiled. "Before... *this,* I did this for a living. Still do, on paper."
 	Troll's face split into a wide grin. He threw his mop into the corner, and wrapped Connor in a hug.
-	"Thank you, Wolf Man! You and Mr. Dad are Troll's best friends besides Goblin!"
+	"Thank you, Wolf Man! You and Mr. Dad is Troll's best friends besides Goblin!"
 	The three of them descended into the Underhill section, their voices echoing up the stairs.
 	Connor was explaining something about load-bearing walls. Goblin was debating the best place to put the generator. Troll was asking, for the third time, whether they could have a lamp shaped like a dragon.
-
 	Declan stood in the cellar, mop in hand. smiling widely. He turned back to the mess, and worked, humming an old hymn.
 
 SCENE - Bea gets spiked

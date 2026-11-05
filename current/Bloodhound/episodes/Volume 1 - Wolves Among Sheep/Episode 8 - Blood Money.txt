@@ -131,7 +131,7 @@ SCENE - Hattab briefing
 	"Complicated." Connor chuckled.
 	"Geopolitics often is. Especially when having to choose between ideology and pragmatism." the man nodded. "We have reasonable suspicion that Iran is supporting Hattab, too."
 	"I thought Iran was halfway to collapse?" Connor tilted his head.
-	"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.'"
+	"They are - in part, because of the UAF. When the Khuzestani Arab Republic declared independence, the only country to recognise it was the UAF. It borders Iraq - one of the UAF's federal states - and the Arabist faction seeks to annex it. Naturally, the Shah is not happy with this at all - so he's aligned with South Africa in MENA politics largely as a middle finger to the UAF. Iran is mostly Shi'a, though, so the Salafists in Egypt hate him just as much as they hate the 'Godless Arabians.' That's not even getting into the so-called 'Kurdish Question' - Turkey, Iran, and the UAF are constantly flip-flopping on that - but that's not relevant to us."
 	"...any other national histories I need to learn?" Connor snarked. "How long's this damn flight?"
 	The man chuckled. "As for who's backing us, we were approached by French Intelligence, who back the SPA."
 	"Why do the French back an anti-colonial party?"

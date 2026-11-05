@@ -145,7 +145,7 @@ SCENE - The Great Escape... Again
 	"STOP RIGHT THERE!" Connor roared.
 	"SIR, GET DOWN!" the guard snapped, shoving the governor to the ground and planting his shield down.
 	Connor grinned, and pounced forwards. He stepped off the wall just as the guard fired his taser, and the darts harmlessly stuck into the concrete, before Connor came down.
-	He whipped his pistol twice, and the guard staggered back. Then, a slug to the face knocked the man down. He grabbed the cuffs, tossed them to the governor, and took aim.
+	He whipped his pistol twice, and the guard staggered back. Then, a slam to the face knocked the man down. He grabbed the cuffs, tossed them to the governor, and took aim.
 	"Alright, guv'na!" Connor laughed. "Put those on, or I'll kill you."
 	"Okay, okay!" the governor panicked, complying.
 	"Good! Alright, now, here's how this works. You're gonna tell the Armed Unit to stand down, okay?"
@@ -224,7 +224,7 @@ SCENE - The Great Escape... Again
 	Then, he let out a breath of relief, as the crew bailed out, and pulled their parachutes.
 	"Alright, let's go!" he nodded, dropping the rifle and entering the van.
 
-	"...we can confirm the pilot and armed officer are safe." Zack reported. "We here at Channel One urge all viewers to stay inside. We are waiting for an update from the prison on who exactly has escaped, but if you do recognise a fugitive, do not approach them, just call 999."
+	"...we can confirm the pilot and armed officer are safe." Zack reported. "We here at Channel One urge all viewers to stay inside. We are waiting for an update from the prison on who exactly has escaped, but if you do recognise a fugitive, do not approach them, just call 999. And---yes, we have just received confirmation that armed robber and alleged crime boss Vincent 'Vince' Barrett appears to be the ringleader of this escape."
 	Chloe leaned back, pale as a ghost.
 	"Oh god..." Bea breathed out.
 
@@ -283,7 +283,7 @@ SCENE - The Great Escape... Again
 	"Hey..." Goblin began. "Thanks. I... I appreciate the rescue."
 	"Don't mention it." Connor smiled. "As soon as Dorsey's dealt with, I'll talk to the KGB - find some options for you both."
 	Goblin nodded, and sat back down.
-	"Give 'em hell, guys." Tommy grinned.
+	"Give 'em hell, guys." Tommy grinned. "Oh, uh... sorry, Father."
 	Declan cleared his throat, then gave a cheeky smirk.
 	"Can't wait to laugh about this over drinks at the Horse." Pawel smiled. "Take care, you three. Good luck."
 	"We'll see you all soon." Connor nodded. With that, they left.
@@ -301,7 +301,7 @@ SCENE - Meetup at Riverside
 	Shannon waved awkwardly. "Hey!"
 	At that, Amy grabbed her in, too.
 	Sparky rushed over to her. "Hey, Shannon! It's so good to see you again! Does this mean the crew is back together?"
-	She smiled warmly. "Haha, hello doggie..."
+	She smiled warmly.
 
 	The group sat down in the break room, sipping coffees. Connor, Trey, and Shannon were changed out of their prison uniforms, and finished explaining the story.
 	"So, what's your plan now?" she asked.
@@ -867,10 +867,10 @@ SCENE - Connor kills Dorsey
 
 	The prison gates loomed ahead, floodlights casting long shadows across the tarmac. Connor pulled up slowly, his hands tight on the steering wheel. Amy sat in the back, silent, her eyes wet and makeup running.
 	Vince opened the door, and stepped out. He turned back, leaning down to look at them both.
-	"You two look after each other, yeah?" he said. "And look after that lot in there. They need you."
+	"Yous two look after each other, yeah?" he said. "And look after that lot in there. They need you."
 	"We will." Amy nodded, her voice hoarse.
 	Connor couldn't speak. He just nodded, tears streaming down his face.
-	"I love you both. Always will."
+	"I love yous both. Always will."
 	"Love you too." they both choked.
 	Vince smiled, and closed the door. They watched him walk through the gates, through the security check, until he disappeared from view.
 	Amy reached forward and squeezed Connor's shoulder. "He'll be okay."

@@ -613,13 +613,12 @@ Chloe was in the lab, along with her supervisor. She was delivering a presentati
 "Do tell?" Morland tilted his head.
 "See here." Chloe said, showing her presentation. "We've identified a mutated variant of epinephrine, commonly known as adrenaline. But this is different - this is a novel molecular structure, which we've dubbed 'Paradrenaline'."
 "And what does it do?" Morland asked, intrigued.
-"Well, it... it amplifies their physical abilities - Paradrenaline binds more effectively to the adrenergic receptors in the body, particularly the alpha-1 and beta-2 receptors, responsible for increasing heart rate, blood flow, and muscle contraction. The result is a massive enhancement of physical capabilities: regenerative healing, increased reflexes, and a dramatic rise in strength. But--" she paused, "There are side effects."
+"Well, it... it amplifies their physical abilities - Paradrenaline binds more effectively to the adrenergic receptors in the body, particularly the alpha-1 and beta-2 receptors, responsible for increasing heart rate, blood flow, and muscle contraction. The result is a massive enhancement of physical capabilities: regenerative healing, increased reflexes, and a dramatic rise in strength. But..." she paused, "There are side effects."
 Morland leant forward, his gaze intense. "What kind of side effects?"
-"Well..." Chloe cleared her throat. "At low doses, subjects begin to experience neurological symptoms, primarily intense migraines and frequent nosebleeds. These occur due to an overstimulation of the sympathetic nervous system, which causes vasodilation in the brain, increasing pressure and causing the blood vessels to rupture."
-Morland raised an eyebrow but said nothing, so Chloe continued, tapping the screen to show the next slide.
-"At moderate doses, we start seeing seizures. The neurons in the brain become hyper-excitable due to an imbalance in the sodium and potassium ion channels. It's like a short circuit in the nervous system. The more the subject's body is exposed to Paradrenaline, the more severe the disruption becomes."
-Morland winced, his lips curling into a slight smile. "And at high doses?"
-Chloe's voice lowered, growing more serious. "At high doses, the symptoms are catastrophic. Strokes, aneurysms, and cerebral haemorrhages. The vasculature in the brain becomes too fragile, and the heart rate increases to dangerous levels, putting immense strain on the circulatory system."
+Chloe cleared her throat. "At low-to-moderate doses, subjects begin to experience increased aggression, along with intense migraines and frequent nosebleeds. The physical symptoms appear to be caused by elevated blood pressure, and get worse as dosage rises."
+Morland raised an eyebrow, and winced, his lips curling into a slight smile. "And at high doses?"
+Chloe continued, tapping the screen to show the next slide. Her voice lowered, growing more serious.
+"Strokes, aneurysms, and cerebral haemorrhages. The vasculature in the brain becomes too fragile, and the heart rate increases to dangerous levels, putting immense strain on the circulatory system."
 Morland watched her intently, considering her words. "But the superhumans, they survive these doses?"
 "Yes." she nodded. "We believe it's due to their enhanced anatomy. Their bodies seem to compensate for the damage. Their regenerative abilities kick in faster than normal, allowing them to recover from the worst effects. But it's still a temporary fix - they can only withstand so much before the damage becomes incapacitating."
 "The potential here..." he murmured. "If only we could mitigate these side effects."

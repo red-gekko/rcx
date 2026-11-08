@@ -2154,7 +2154,9 @@ VOLUME - Wolves Among Sheep
 			"Alright - go in and knock 'em down. If they draw weapons, don't take any chances." Tommy whispered. Connor nodded, and pulled his bandana over his face.
 			"Will you two stop sucking each other's cocks, and help me package this shit?" a third man shouted.
 			"Alright, alright, calm down." the first man groaned.
-			Connor prowled up, taking cover behind a crate. He took a deep breath, and stood.
+			Connor prowled up, taking cover behind a crate. He took a deep breath, and crawled over to a fusebox. Then, he flicked its switches down.
+			The warehouse plunged into darkness, and the men quickly grabbed their flashlights.
+			"Hahahahaha..."	Connor chuckled grimly, and stepped into their beams of light.
 			"Well, well, well." he muttered. The men immediately jumped.
 			"Shit! Who the fuck are you?" the first gasped.
 			"Who fucking cares? Get him!" the third yelled.
@@ -2810,6 +2812,7 @@ VOLUME - Wolves Among Sheep
 			Another hit. This time, right in the face. It made a sickening crack as it landed on his brow, splitting the skin. Then, a new sensation overwrote the agony in his head.
 			He felt his clothes shudder and shake, before reforming. They took the image of armour - thick, and calcified. It covered his face just in time for another smack - this one hurting much less than before.
 			The suit then thinned, as the biomass forced itself back into his veins, invigorating him. His hand shot up, catching the crowbar before it could hit him again, and he sent a sharp kick to the man's midsection.
+			"My turn." he growled, gripping the crowbar tightly.
 			He twisted his way up, moving more like a breakdancer than a street thug, and swung the crowbar in a wide arc, smashing it into the man's face. The impact sent him stumbling, blood pouring from his shattered nose.
 			As the man stumbled, Connor felt his muscles shudder and tremble.
 			Before he could recover, Connor swept the man's legs, sending him into the air. Then, he flipped the crowbar around to its sharper end, and drove it through the man's ribcage. It hit the ground as his body did, digging itself into the floor. His body jerked once, then went still.
@@ -2962,6 +2965,7 @@ VOLUME - Wolves Among Sheep
 			"Bad intel!" Ivan roared back, grabbing a fallen Agent's rifle and laying down cover fire.
 			One Agent's bullet buried itself in Connor's leg. Another in his gut. A third in his chest.
 			They all hurt less than they should've. He ducked and weaved, making his way to the remaining mutants. He tore into them like a cyclone.
+			"Hey, super-cunts!" he barked. "That all you got?!"
 			Then, a shout from Ivan cut through the noise.
 			He turned just in time to see Ivan stumble, clutching his side. Blood seeped through his fingers, and he dropped to his knees.
 			"No!" Connor barked, sprinting across. His costume thickened, as he bull-rushed the last agent, slamming into him and slicing his throat.
@@ -4071,7 +4075,7 @@ VOLUME - Wolves Among Sheep
 			Behind him, Troll grinned. He picked up a massive carnival hammer, and laughed.
 			The plan had gone off without a hitch.
 			"Let's go, big guy!" Goblin barked. "Freedom's just ahead!"
-			"I gonna smash them!" he grinned. "See how them like gettin' poked!"
+			"I gonna smash them!" he grinned. "See how thems like gettin' poked!"
 			They both smirked deviously, only to turn as they heard an impact from behind.
 			"Who the hell are you?"
 			"Look funny! Wearing a costume!"
@@ -4101,7 +4105,7 @@ VOLUME - Wolves Among Sheep
 		SCENE
 			"Jesus... okay, you're a lot stronger than I was expecting. Don't suppose you've got any workout tips?"
 			"Troll strongest there is!" the giant beamed proudly.
-			Connor chuckled, rising. "You've made your point. Feel better now?"
+			Connor chuckled, rising. "Modest, too. You've made your point. Feel better now?"
 			"Lots better!" the blueskin giggled. "Wanna go squash now!"
 			"Sorry..." Connor grimaced. "I'm so sorry."
 			"What Wolf Man say sorry for?"
@@ -4124,7 +4128,7 @@ VOLUME - Wolves Among Sheep
 			Connor looked down at the scowling greenskin, and sighed. He looked around at the chaos - saw people who'd been injured in the rampage, crawling away.
 			"It didn't have to be this way." he growled lowly.
 			"Oh yeah, what would you know?!" Goblin snapped back.
-			"I know I offered a way out." Connor countered, assuming a stance. "Surrender. Last chance."
+			"I know I offered a way out." Connor countered, assuming a stance. "Run away. Last chance."
 			"FUCK YOU!"
 			Goblin crawled through Connor's legs like a scurrying spider. He clambered up, and drove his blade into the Werewolf's back.
 			Connor dislocated his shoulders with sickening crunches, and reached to grab the mutant. Before he could, Goblin had already climbed atop his head, and sent a stab to Connor's eye.
@@ -4796,7 +4800,7 @@ VOLUME - Wolves Among Sheep
 			"Hey! Easy with the bleeding!" Connor yelled across the battlefield. Sparky huffed, and locked his jaws on another soldier's arm, pulling back as much as possible to avoid cutting him. Then, he twisted his head, and a disgusting *SNAP* followed by blood-curdling screams marked the end of that man's contribution to the fight.
 			The remaining soldiers carried on shooting, but Connor was already moving, weaving through the chaos with superhuman speed. He disarmed one man with a brutal twist of his wrist, sending the rifle clattering to the ground, then landed a bone-crunching punch that sent the man sprawling.
 			A hail of bullets ripped through the air, several landing in Connor's back. He reeled from the pain, but it... it hurt less than he'd expected for assault rifle rounds. He swiftly spun around, pressing his back against the MRAP and holding his makeshift door-shield aloft. It made distinctive clanging sounds as bullets slammed into it or ricocheted off.
-			Then, Connor raised the door into the air, and swung it into a soldier's head, making a satisfying *THUNK* noise as the man drifted into a deep sleep. Sparky gripped a soldier by his uniform, and threw him into the air. As he landed, the sound of bones popping out of their joints was overtaken by his cries of pain.
+			"Fucking guns..." he sighed. Then, he raised the door into the air, and swung it into a soldier's head, making a satisfying *THUNK* noise as the man drifted into a deep sleep. Sparky gripped a soldier by his uniform, and threw him into the air. As he landed, the sound of bones popping out of their joints was overtaken by his cries of pain.
 			Another hail of gunfire - this time, from an LMG. The mutants ducked for cover as the high-calibre rounds slammed into their hides.
 			"Fuck..." Connor spat, poking his head out.
 			"We need a way to fight back at range!" Sparky barked. "Any ideas?"
@@ -4845,6 +4849,7 @@ VOLUME - Wolves Among Sheep
 			"Yeah... we... okay, I guess we can't use the armour power for long... drains us..." he said between breaths.
 			"We can figure out more about our powers later! Come on!" Sparky rallied. Connor grinned, and rose.
 			The pair breached the palace gates, and saw a platoon of soldiers, and behind them, a pile of bodies - bodies wearing the insignia of the Republican Guard. The palace had fallen.
+			"Oh great... *more* jackboots." Connor groaned.
 			Instantly, the platoon raised their rifles, preparing to fire.
 			A grin cracked under Connor's mask. A globule morphed from his glove.
 			"SMOKE BOMB!" he shouted, as if emulating a character in a fighting game. He threw the glob down, and...
@@ -6680,7 +6685,7 @@ VOLUME - Wolves Among Sheep
 			The shooter grinned, but not for long - Ivan's return fire made his head pop like a grape.
 			"Connor! Are you okay?" Sparky asked, rushing over.
 			"I'm fine, buddy." Connor smiled, forcing himself to rise. "Looks like that's all of them."
-			"Nice work, tovarishchi." Ivan praised over the radio.
+			"Nice work, tovarishchi." Ivan praised over the radio, taking off his skull-mask.
 			The hail came down heavier, now, as the ruins of the field post fell eerily quiet.
 			"Come on, let's see what they've got." Connor beckoned, as the trio advanced into the site. Upon entering, they saw a host of crates.
 			The two Werewolves sniffed the air, and nodded.
@@ -6715,10 +6720,12 @@ VOLUME - Wolves Among Sheep
 			Connor rushed over, and delivered a stomp to the helmet. And another. And another.
 			At the fourth stomp, the world went pitch black, and he felt his body betray him.
 			From his vantage point, Ivan watched in horror as the electromagnetic pulse crackled through the air, and his comrades convulsed and collapsed.
-			"Chyort!" he gasped, holstering Fyodor and pulling his sawn-off shotgun from his rifle. He charged forward, and delivered both barrels into the Agent's centre mass. The Agent fell backwards, dazed but otherwise unharmed.
+			"Chyort!" he gasped, holstering Fyodor and drawing his sawn-off shotgun. He charged forward, and delivered both barrels into the Agent's centre mass. The Agent fell backwards, dazed but otherwise unharmed.
 			The Werewolves struggled to their feet, beaten but not broken. Their eyes flashed a deep blood-red, and they caught their breath.
+			"Fuck..." Connor spat. "Hey, cyber-cunt! How about you take off that suit and fight like a man?"
+			The Agent grinned, raising his oscillating blade.
 			At that, a convoy of ARVs pulled up at the site. Officers in tactical gear poured out.
-			"Blyat..." Ivan cursed, pulling down his balaclava.
+			"Blyat..." Ivan cursed, pulling his mask down over his face.
 			"ARMED POLICE! DROP YOUR WEAPONS!" their leader roared.
 			The Agent grinned sadistically under his helm, and aimed his grenade launcher at them.
 			"GET DOWN!" Connor screamed, diving right in. He knocked the Agent off his feet, and the bomb detonated merely a few feet away from the group.
@@ -6766,7 +6773,7 @@ VOLUME - Wolves Among Sheep
 			The clambering of the two combatants shook the train's passengers from their boredom.
 			"What's that?" one child asked her mother.
 			"It's... it's probably nothing." she replied, trying to look out the window.
-			Then, an stun-sword cut through the metal ceiling, before tearing a gash into the train's hull as it ripped back upwards, flinging sparks into Connor's eyes. The passengers screamed in shock and fear.
+			Then, a stun-sword cut through the metal ceiling, before tearing a gash into the train's hull as it ripped back upwards, flinging sparks into Connor's eyes. The passengers screamed in shock and fear.
 
 			Connor stumbled backwards, blinded and dazed. He regained his senses to the sound of a signal bell clanging in the air. He turned around just in time to see a metal flag slam right into him, shooting him backwards - right into the Crusader's blade. The vibrating metal cut through his abdomen, impaling him.
 			A normal man would've died. Hell, an abnormal man would've died.
@@ -6780,14 +6787,22 @@ VOLUME - Wolves Among Sheep
 			He gave out a raspy breath, before firing up his EMP.
 			Connor arched backwards, convulsing violently, as passengers screamed in pure terror. The train's brakes slammed on, and Connor flew backwards, hitting the intercarriage doors. The blade, poking through Connor's back, stabbed into the door, before dislodging. The Crusader ripped off his helm, took a breath, sauntered forward, and grabbed the blade, smiling viciously.
 			The train ground to a halt, and the passengers poured out like bees from a burning hive.
-			The Crusader slashed his blade forward, cutting across Connor's chest. He weakly rose his arms, and his bucklers shattered on impact.
+			The Crusader slashed his blade forward, cutting across Connor's chest. He weakly threw up his guard, and his bucklers shattered on impact.
 			His mind ran at a mile a microsecond. He had to do something. Now. His eyes darted around, hoping for some kind of idea.
 			And then, he lit up.
-			"Oh God, please don't kill me!" he screamed, leaping from the train.
-			The Crusader grinned, hopping down. "I'm sorry, traitor? Could you say that again?"
-			"I'll do whatever you say, just please... please don't kill me..." Connor begged, falling to his knees.
-			"Oh, traitor..." the Crusader snarled, raising his blade. "Be thankful I'm only here to kill *you.*"
-			With that, Connor pounced forward, wrapping his arms around the Crusader's waist. He felt the blade rake across his back, electricity and metal cutting into him - but he didn't break. Instead, he threw the Crusader as far as he could.
+			He leapt from the train, and raised his arms to his side.
+			"Hey, McNinja! That codename of yours - you're a big God botherer, I'm guessing?"
+			The Crusader scowled under his helm, and spun his blade in the air. "And you're a fucking traitor."
+			"Oh yeah?" Connor grinned, dodging a sweep. "Last I checked, your lot kidnapped and tortured me - I didn't betray shit. You, on the other hand? Not a lot of 'love thy neighbour' energy, I'll say."
+			"Shut the fuck up." the Crusader spat, striking again. His blade barely caught Connor's guard as he backflipped away.
+			"You know your fellows attacked a church the other day, right? How's that fit in?"
+			"If we did that, then the heretic inside deserved it." he hissed, striking again. This one swept past Connor harmlessly.
+			"Oh? The Catholic church is heretical, now? Damn, I guess your little 'Deus Vult' shtick was just for show, then? Hey, does that mean you picked your name and catchphrase because you thought it sounded cool?"
+			"Shut UP!"
+			"Oh, I'm right, aren't I?" Connor laughed, somersaulting overhead and kicking the Crusader's hamstring. "You're just some LARPer who thought he could play Paladin in real life! Hey, is that why your company is called that?"
+			The Crusader turned - but not fast enough. Connor remembered his Baguazhang training fondly, as he turned the circle over, and over again.
+			"Come on, cyber-cunt! At least *try* and hit me!"
+			"GRAAAGH!" the Crusader roared, launching all his fury into a sweep that cracked the air - and Connor contorted backwards, twisting down. Then, he pounced forward, wrapping his arms around the Crusader's waist. He felt the blade rake across his back, electricity and metal cutting into him - but he didn't break. Instead, he threw the Crusader as far as he could.
 			The Crusader sailed through the air, his blade falling from his hand as he crashed into a metal grate fence. He came to an abrupt halt, smacking into a metallic structure that hummed ominously.
 			As he looked around, his breathing quickened with fear.
 			Connor grinned, picking up the blade and looking on at the electrical substation his assailant laid upon. He gripped the hilt hard, and threw.
@@ -7008,14 +7023,14 @@ VOLUME - Wolves Among Sheep
 			"Calm down." Connor barked.
 			The man lunged at him, putting all his strength into a punch.
 			The Rage was tempting, but Connor forced it back down like a mouthful of vomit.
-			Connor darted to the side. He closed his eyes for a split second, remembering his training.
-			He circled behind the man, reciting a Baguazhang form.
-			The man tried to hit him, but every time he turned, Connor darted, remaining behind him.
-			"Hey, if you're gonna mug me, at least *try* and hit me." he snarked.
+			Connor darted to the side. He closed his eyes for a split second, and grinned.
+			The man tried to hit him again - and he moved just at the last second.
+			"Hey, if you're gonna mug me, at least do it properly." he snarked.
 			"Fuck you!" the man roared, swinging.
 			Connor ducked, and then lightly slapped the man's cheek.
 			"Come on. I'm getting bored now!" he grinned.
 			The man reached into his pockets, revealing a knife. "Fucking warned you." he growled.
+			"There it is. Feel better, now?" Connor smirked.
 			"Stop it! Look, just take the money." Chloe shouted, throwing her bag at the man.
 			The man grinned, and dropped the bag. "Nah. Your boyfriend's pissed me off." he snarled.
 			He turned to face Connor, gripping his knife tightly.
@@ -8091,7 +8106,7 @@ VOLUME - Wolves Among Sheep
 			Before they could take in the sights, however, they felt a thundering charge towards them.
 			"Oh grand." Connor groaned. "Another monster."
 			A nearby door gave way - as did the wall around it. The pair threw up their guards, but were launched back into the metro. As they rose, they saw their attacker, and shuddered.
-			"Fee, fi, fo, fum." it chuckled menacingly. It was huge - at least 8 feet tall - and broad too. Its eyes were black-veined, and it wore a massive version of the standard Super-Agent getup.
+			It was huge - at least 8 feet tall - and broad too. Its eyes were black-veined, and it wore a massive version of the standard Super-Agent getup.
 			"What the fuck are you?" Connor gasped.
 			"Fee, Fi, Fo, Fum. I smell the blood of an Englishman." the creature snarked.
 			"I'm Irish, you fuckin' cunt." Connor spat, readying his blades. "Let's dance, big guy."
@@ -8130,7 +8145,7 @@ VOLUME - Wolves Among Sheep
 			The wolf's jaws snapped around the Giant's throat. Then he twisted.
 			The Giant's head came free with a wet, grinding sound - like a tree limb tearing from its trunk. It hit the floor with a wet thud, rolling to a stop at Connor's feet. The body stood frozen for a long moment, like it hadn't quite realised it was dead, before collapsing with a thunderous impact.
 			Sparky landed beside the corpse, panting, his muzzle painted with black blood. He spat out a chunk of flesh and looked at Connor, his eyes still glowing.
-			"I hate this job," he wheezed. "I really hate this job."
+			"I hate this job." he wheezed. "I really hate this job."
 			Connor laughed - a ragged, desperate sound - and clapped his packmate on the shoulder. "Come on. The lab's just ahead."
 			They left the Giant's body to the bat-creatures, who greedily devoured their well-earned meal.
 			Connor ripped a flashlight from an Agent's corpse, and led the way.
@@ -10388,7 +10403,7 @@ VOLUME - Wolves Among Sheep
 			"Because I heard the way you hissed his name. We share an enemy."
 			He struggled against Connor's iron grip. "Nah... there's no way I'm doing you a fav--"
 			Connor cut him off by lifting him up, and slamming him back down, winding him.
-			"LISTEN TO ME! It'll be in Belson - Rudyard Street. I'm killing him tonight either way - if you wanna miss the party, that's on you."
+			"LISTEN TO ME! It'll be in Belson - Rudyard Street. I'm killing him tonight either way - if you wanna miss the party, that's on you. Detective, I'm trying to do things the 'right way.' I can't keep his victims safe on my own. If you've ever cared about justice - you'll be there."
 			At that, Nina arrived, and immediately drew her gun.
 			"ARMED POLICE! STAY RIGHT THERE!" she barked.
 			Connor spun around, and shoved Naismith right at her - then threw a smoke bomb down at his feet.
@@ -10879,7 +10894,7 @@ VOLUME - Wolves Among Sheep
 			"No! No, please!"
 			Connor hesitated - flashes of Steve's last moments burned in his brain. Then, he pulled the trigger.
 			*Click!* the hammer harmlessly went. Erickson let out a breath of relief - one interrupted by a pistol whip.
-			"Listen very carefully." Connor snarled, his silver eyes cutting into Erickson's shuddering blue. "My name is Connor Barrett. Vince's boy. I am *not* the Werewolf; and I'm still the man who put all of the Jennings crew in the hospital. And I might not have his super-shite, but there's something else of his that I don't have - *A CODE AGAINST KILLING!* If any Skinner comes after my people again... I'll hold you responsible, and I'll make sure that next time, it's loaded. DO I MAKE MYSELF *CLEAR* TO YOU?!"
+			"Listen very carefully." Connor snarled, his silver eyes cutting into Erickson's shuddering blue. "My name is Connor Barrett. Vince's boy. I am *not* the Werewolf; and I'm still the man who put all of the Jennings crew in the hospital. And I might not have his super-shite, but there's something else of his that I don't have - A CODE AGAINST KILLING *SCUM* LIKE YOU! If any Skinner comes after my people again... I'll hold you responsible, and I'll make sure that next time, it's loaded. DO I MAKE MYSELF *CLEAR* TO YOU?!"
 			"YES! OH GOD, YES!"
 			Connor walked away, and ducked into an alleyway just as the cops arrived. The 'gun' melted back into gel, and was absorbed into his hand. He grinned giddily under his bandana.
 
@@ -12394,8 +12409,15 @@ VOLUME - Wolves Among Sheep
 			"ARMED POLICE!" they both shouted, only to put their guns down in horror.
 			The scene that unfolded before them was beyond comprehension. They saw Connor, costumed up and battling a man... no. Not a man. A giant of a man, easily 8 foot tall, and built like an ogre. Every swing of his fists sent shockwaves through the air.
 			Connor moved like water, agile and precise. He ducked under a punch, tearing a hole through the wall behind him. His breath was steady, but there was a bestial cunning in his eyes as he calculated his next move.
+			"Come on, at least *try* and hit me." Connor quipped, slipping beneath another swing.
+			The Giant snarled, swinging again, this time with even greater fury. Connor barely had to move to avoid it.
+			"Temper, temper. Ever considered anger management?"
+			"RAAAAGH!"
+			This hit made contact, and Connor sprawled backwards.
 			Nina stared in horror, as Naismith opened fire on the Giant. The bullets hit his chest, but to no effect.
 			The Giant barely flinched. Naismith cursed under his breath and switched tactics, trying to find a weak spot.
+			The Giant turned, its eyes flashing. Before it could charge, though, a crossbow bolt buried into its clavicle.
+			"Hey, big guy! Word to the unwise - focus on the guy who can *actually* hurt you." Connor called out. He ducked another punch, grinning.
 			"C-c-control, v-vigilante suspect currently engaged in melee with--with..." Nina stammered into the radio.
 			"Repeat, 5-2, what is the situation?"
 			"A-a Giant! There's a fuckin' Giant in here!" Nina shrieked back.
@@ -12403,8 +12425,14 @@ VOLUME - Wolves Among Sheep
 			"Repeat, 5-2. Did you say 'Giant'?" Control asked incredulously.
 			Nina ignored it, and shot the Giant. The bullet glanced off, and buried into a wall. The Giant turned, enraged, and launched a crate at her.
 			Before it could hit, Connor dived in, taking the impact. He stumbled to his feet, dazed.
-			With that, a loud boom filled the warehouse. From above, a figure emerged from the shadows - another soldier, this one dressed in full kevlar and crouching in the rafters like a spider in its web. Ivan. He steadied his rifle, and without hesitation, fired.
-			The bullet flew through the air with deadly precision, and with a thwack, it slammed into the Giant's chest. It punched through the thick muscle and bone as if they were made of paper, sending the Giant stumbling back with a gargled roar of agony.
+			"Oi! Eyes on me, you oversized bastard!" Connor shook his head, trying to clear the dizziness.
+			With that, a loud boom filled the warehouse. From above, a figure emerged from the shadows - another soldier, this one dressed in full kevlar and crouching in the rafters like a spider in its web.
+			Connor spat a little blood onto the floor, and straightened up.
+			"You know, I've met some pretty stupid people in my time." he said, wiping his mouth. "But you're really setting a new standard."
+			The Giant bellowed, and lumbered towards him.
+			"There it is. Come on, then!"
+			Above them, Ivan steadied his rifle, and without hesitation, fired.
+			The bullet flew through the air with deadly precision, and with a thwack, it slammed into the Giant's chest. It punched through the thick muscle and bone as if they were made of paper, sending the Giant stumbling back with a roar of agony.
 			"Khoroshaya devochka, Isabella." he whispered, blowing his rifle a kiss.
 			Connor wasted no time. He charged.
 			With a savage, calculated strike, he delivered a devastating blow to the Giant's knee, causing the massive creature to topple like a felled tree.
@@ -12436,7 +12464,7 @@ VOLUME - Wolves Among Sheep
 			Ivan chuckled. "Don't get me started. Fenrir, Progeny, ODIN, Crusader... anyway, no prizes for guessing what Jotunn is all about. Slight problem - that freak was a prototype. No doubt Paladin will have taken note of its weaknesses and started work on the next batch."
 			"Great. So aside from the mutant spooks, cyber-knights, and psychic assassins... we now have fuckin' giants in the mix."
 			"Giants that they're going to make stronger next time... I'll go back to my people, see what I can find."
-			Connor turned down to Sparky, who was chewing a bone happily.
+			"At least taunting works." Connor shrugged. He turned down to Sparky, who was chewing a bone happily.
 			"Did you ever see anything like that? You know, when you were still in captivity?"
 			He thought for a moment. "No, I don't think so. But that funny word - Jotunn - it rings a bell. I think the Commandant said it one time."
 			Connor stroked his ears. "Thanks, buddy. Anyway, we'd better head out."
@@ -13397,12 +13425,13 @@ VOLUME - Wolves Among Sheep
 			But he was still standing.
 			He grabbed the crowbar before the Skinner could swing again, yanked it from his hands, and drove his knee into the man's gut. He doubled over, gasping, and Connor brought the crowbar down on the back of his head.
 			The man dropped.
-			Connor didn't wait. He stepped over the body and kept moving, his boots echoing in the stairwell. The lift had already descended - Snakebite was on his way down, paralysed and helpless. All Connor had to do was follow.
+			"Ouch..." he groaned, clutching his ribs. "Thanks for the nostalgia, cunt."
+			He stepped over the body and kept moving, his boots echoing in the stairwell. The lift had already descended - Snakebite was on his way down, paralysed and helpless. All Connor had to do was follow.
 			Just keep moving. One step at a time.
 			A Disciple appeared on the landing below, a machete in one hand. He charged up the stairs, screaming.
 			Connor met him halfway.
 			He ducked under the machete swing and drove his fist into the man's chest. The impact was harder this time - he felt it, felt the ribs give slightly under his knuckles. The Disciple gasped, stumbling back, and Connor followed with an uppercut that snapped his head back.
-			That was stronger.
+			"Huh... that's more like it."
 			The man collapsed, and Connor looked down at his hands. They were still shaking, still weak - but there was something there. A flicker of the power he'd lost.
 			The antidote. It was working.
 			He didn't have time to savour it. More footsteps below - a whole squad of them, by the sound of it.
@@ -16134,10 +16163,11 @@ VOLUME - Wolves Among Sheep
 			"Shut up, Santa!" Dave snapped.
 			"Oh, come now. Is this about the coal?"
 			"I said shut up!"
-			"Hey!" Connor barked from the rafters. His voice echoed down, as he melted into the shadows.
+			"Hahahahaha..."
+			A grim laughter echoed down from the rafters.
 			"What?! Who's there?!" Neil shuddered, aiming his gun upwards.
 			Connor dived down a makeshift chimney, and burst out from the firepit. His body erupted in smoke that dissipated quickly - he had a flair for the dramatic, after all.
-			"Santa's little helper." he grinned, raising his fists. He immediately cringed. "Ugh, sorry... that sounded cooler in my head."
+			"Santa's little helper." he grinned, raising his fists - and immediately cringed. "Ugh, sorry... that sounded cooler in my head."
 			"Really?" Sparky snarked from above, his yellow eyes keeping watch.
 			"HOLY SHITBALLS! IT'S THE FUCKIN' WEREWOLF!" Neil gasped, firing. The bullet smacked into Connor's shoulder. He flexed, and it dropped out, clinking on the ground.
 			"Now that wasn't very nice." he growled lowly. "Definite naughty list, eh, big man?"
@@ -16151,16 +16181,15 @@ VOLUME - Wolves Among Sheep
 			The children rose, clapping wildly.
 			"That's right, children! A big round of applause for Mr. Werewolf!" Santa cheered.
 			Connor grinned, then morphed a blade from his wrist. He approached Santa menacingly.
-			"Listen here, Santa." he snarled. "If I get another lump of coal, after all this? *I'm gonna eat Rudolph!*"
+			"Listen here, Santa." he snarled. "If I get another lump of coal, after all this?! *I'm gonna eat Rudolph!*"
 			A bead of sweat ran down Santa's forehead, before both burst into hearty laughter, followed by raucous cheers of the children. Santa took off his red hat, and passed it to Connor.
 			With that, the police rushed in.
 			"ARMED POLICE! DON'T MOVE!" an officer roared.
 			Connor sighed, and looked at him, eyes aflame. "Don't kill the moment." he growled.
 			The officer wisely stood down, and the Werewolf vanished into the night.
 
-			"Okay, it looks all clear now." Chloe said, breathing a sigh of relief.
-			"Thank god for the Werewolf, eh?" Bea grinned.
-			"You're kidding? That monster?" Charlie challenged.
+			"Okay, it looks all clear now." Chloe said, breathing a sigh of relief. "Thank god for the Werewolf, eh?"
+			"You're kidding? That monster?" Charlie growled.
 			"Monster? The fuck are you talking about?!" Amy snapped, scowling.
 			"Saving people tonight doesn't change that he's killed every other night." Charlie snapped back. "He shot me, for crying out loud--"
 			"Alright, alright." Bea said, stepping between the two. "Let's just focus on finding Connor."
@@ -16428,8 +16457,6 @@ VOLUME - Wolves Among Sheep
 			His mask melted away. "Trey, wait. I'm still me."
 			"You... you never told me." he said, aghast.
 			"I'm sorry. I'm telling you now."
-			"Who else knows?"
-			"Amy. Tommy, too. I... I wanted to tell you, but..."
 			"But what? You can't trust me?!"
 			"No! It's just... I know you, Trey. You'll get yourself killed trying to follow me."
 			Trey looked down. "How long have you been like this? Have you always been this way?"
@@ -16449,6 +16476,8 @@ VOLUME - Wolves Among Sheep
 			Connor rubbed his temples. "You... you're right, I'm sorry. Listen, I... I hate the lie. And I wanted to tell you--not like this."
 			"When?" Trey pressed. "When were you gonna tell me?"
 			"Soon. I'm gonna tell everyone soon. Once I've figured out what they're planning, I can... I can be honest again."
+			"Does Amy know?"
+			"Yes. She, um... I accidentally shapeshifted in front of her, because my torturer phoned me. Um... long story."
 			Trey paused, then rose. "Connor..." he began. "Answer honestly. How many people have you killed? Can you... can you even remember?"
 			"I remember every single one." Connor replied grimly. "73. Mostly Super-Agents."
 			"Super-What?"
@@ -16465,6 +16494,13 @@ VOLUME - Wolves Among Sheep
 			"You shot Charlie."
 			"Yeah, I... I kinda enjoyed that."
 			The two locked eyes. Then, they shared a quiet chuckle.
+			"Why'd you shoot him?"
+			"Well, first, it was non-lethal. Slam rounds, I've been calling them." he explained. "And he was with some of those Hellfire Club boys - one of them was burning a £50 note in front of a homeless guy, so I winded 'em all. I didn't realise at the time, but Charlie was among them."
+			"And you don't think Bea should know?"
+			"How would I tell her?"
+			"By being honest!" Trey snapped. "By not hiding all this shit from us!"
+			"Do you really think, with the way she acts around him, that telling her would change her mind about him? Come on! I tell her, and he'll be right in her ear, spinning it."
+			Trey looked away, and sighed.
 			"Trey, I... I wanted to tell you. And I was gonna. I just... I wanted to make sure that the worst of it was over."
 			"That wasn't your choice to make."
 			Connor sat down, unable to reply. Then, he felt his earpiece beep.
@@ -16517,9 +16553,14 @@ VOLUME - Wolves Among Sheep
 			The Jotunn rose, stretching out. It was clad in a powered exoskeleton, holding an oscillating blade.
 			Ivan's sniper rounds slammed into it, barely denting the metal. A large collar plate guarded its neck, offering it surprising mobility.
 			"Chyort! They gave it Crusader armour!" Ivan snarled. "Try to get me a clear shot!"
-			"On it!" Connor spat, as he and Sparky leapt forward.
-			Sparky kicked a small propane tank in the air. Connor grabbed it, and hurled it at their titanic foe. As it hit, Ivan's bullet crashed through, and a fiery shockwave staggered the beast.
+			"On it!" Connor spat, as he looked the Jotunn up and down.
+			"Well, aren't you a big ugly bastard?"
+			The beast turned towards him, its blade humming.
+			"What's the matter? Couldn't find a suit that fit?"
+			The Jotunn spotted it just a second too late - Sparky kicked a small propane tank in the air. Connor grabbed it, and hurled it at their titanic foe. As it hit, Ivan's bullet crashed through, and a fiery shockwave staggered the beast.
 			The Werewolves didn't hesitate. The pair pounced, with Sparky hooking his claws underneath a chest plate, using his strength to pry it loose. Connor meanwhile focused his attention on the monster's sword-arm, aiming his strikes at a small gap by the elbow.
+			"Come on, big fella! What's all that armour for if you can't even protect your elbows?"
+			He hammered another blow into the exposed joint.
 			The Jotunn's free hand quickly darted to his gauntlet, and pressed a button. Then, the three convulsed in unison, clutching their heads in agony.
 			A horrific screaming noise pierced through their earpieces, as they howled. The Jotunn grinned sadistically underneath his helm, and sliced his assailants with his oscillating blade.
 			Ivan crashed down from his ceiling perch, scowling in pain. He stumbled to his feet, desperately fumbling in his ear - trying to reach the hijacked device.
@@ -16534,7 +16575,12 @@ VOLUME - Wolves Among Sheep
 			The Jotunn smirked beneath his helm, as Ivan looked up.
 			"Oh, blyat..." he sighed.
 			He felt the back of a cerametallic gauntlet slam into him, and he sailed through the air, coming to a sudden stop against a brick wall.
-			The Jotunn grabbed hold of Sparky, held him in a bear hug, and squeezed. Sparky's bones began to crack, but that was the least of his worries. Electricity coursed through his veins, as his fur stood to attention and he screamed in agony.
+			The titan stepped towards the fallen sniper, and cracked its knuckles.
+			"Hey! Iron Giant!" Connor spat, throwing a piece of debris at it. "Wanna pick on someone your own size?"
+			The Jotunn turned, and smirked under its helm.
+			"Nice try, kid." it growled lowly. Then it picked up a crate, and launched it.
+			Connor ducked, and went to taunt again - before he realised that no, the giant didn't miss. The crate crashed into the rafters above, which buried him in a pile of metal.
+			The Jotunn stepped forward, moving with frightening speed. It grabbed hold of Sparky, held him in a bear hug, and squeezed. Sparky's bones began to crack, but that was the least of his worries. Electricity coursed through his veins, as his fur stood to attention and he screamed in agony.
 
 		Warehouse Frenzy
 		______________________________
@@ -16578,7 +16624,7 @@ VOLUME - Wolves Among Sheep
 			"Maybe he's entitled to that?! Have you even considered that, just maybe, he enjoys being a human, and would prefer it if everyone saw him as one?" Amy snapped. "Maybe, when he spends time with his best friend, he just wants to be Connor, instead of the Werewolf?!"
 			Trey sighed deeply. "I... I know, but..."
 			"How long have you known Connor?"
-			"4 years." he answered.
+			"4 years."
 			"4 years. And in those 4 years, he's always been...?" she pressed.
 			"Honest. Caring." Trey replied. "...good."
 			"Exactly. 'Good.' Connor is a good man." she began. "So, I don't care that he lied to us, because I know in my heart that when he lied, he was doing it for a good reason. Was it correct? I don't know. But I do know that he wouldn't have done it if he didn't think it was right. He was trying to protect us, and if you can't see that, you don't know him as well as you think you do."
@@ -16625,8 +16671,10 @@ VOLUME - Wolves Among Sheep
 			It fell, and the three inhumans rose.
 			"Fancy seeing you here..." she sputtered.
 			"Its armour can electrify you on contact." Connor said firmly. "We need a different strategy."
+			He glanced at the Jotunn.
+			"Which is unfortunate. I was just starting to enjoy punching the ugly bastard."
 			"Look!" Sparky barked, motioning. "It looks less bright, now."
-			Connor's eyes flashed, and he nodded. "It's low on power. We need some way to finish it off, then make it vulnerable."
+			Connor's eyes flashed, and he nodded at the dimming aura. "It's low on power. We need some way to finish it off, then make it vulnerable."
 			"We can grapple it." Sparky chimed in. "If we're both on it, it should run out faster."
 			Connor raised his fists. "Good idea. Gwen--uh, Whiplash - we'll take the brunt of it. Once it's down, kill it."
 			She looked down at Sparky in shock, but shook her head. "Got it, Werewolf."
@@ -16788,10 +16836,14 @@ VOLUME - Wolves Among Sheep
 			Trey and Amy were shaken from their panic by a thud in the garden. They rushed outside, and saw the Werewolves morph their gliders back into themselves.
 			"Oh my god, you're okay..." Amy gasped, rushing over to them. Trey stood stunned, but shook his head, and joined them. After a quick group hug, he helped them inside.
 
-			"What happened?" Amy asked, setting down a cup of tea. Sparky greedily ate his promised beefsteak, and passed out in his bed.
+			"What happened?" Amy asked, setting down a cup of tea. Sparky greedily ate his promised beefsteak, and laid at their feet.
 			"A cyborg giant beat the shit out of me, and then a psychic dominatrix rescued us, and we crashed round her place in Belson Clock Tower, where I met her mutant owl." Connor shrugged, grinning.
 			"Damn..." Trey gasped. "You... you're not fucking with me, are you?"
 			"No, that pretty much covers it." Connor groaned, stretching. "I'll be fine. Just need a good night's rest."
+			Trey knelt down, and stroked Sparky's ears.
+			"So, um... you can talk, huh?"
+			"Yeah. I'm sorry you can't hear me, but... at least you know I'm a person." Sparky smiled sadly, before licking him.
+			Connor cleared his throat, and translated.
 			Trey hesitated for a little while, before finally speaking.
 			"I had a long chat with Amy earlier. She... she helped me to understand."
 			Connor looked up at him, teary-eyed. Amy nodded softly.
@@ -18047,7 +18099,7 @@ VOLUME - Wolves Among Sheep
 			"Does she like you too?" Vince asked. To most people, Vince was a 43 year old hardened criminal. To those that knew him, he was a schoolboy in a grown man's body.
 			"I mean, I don't know... you're definitely asking the wrong guy." Connor shrugged. "She seems really lovely, and we've had a few moments, but I'm not sure if she's just being friendly. I mean, nothing overtly romantic has happened between us."
 			Vince smiled. "'Overtly?'"
-			"Well, we had a moment the other day. We were doing ceilidh together, and... well, I *think* there was something there."
+			"Well, we had a... a 'moment,' the other day. We were doing ceilidh together, and... well, I *think* there was something there."
 			"Ceilidh?!" Vince grinned. "If she's willing to do ceilidh with you, she's *definitely* interested, lad."
 			Connor chuckled. "You're just as bad as Amy. She keeps pushing me to ask her out, too."
 			"Amy's got a good head on her shoulders." Vince winked. "How's she been doing?"
@@ -18216,7 +18268,7 @@ VOLUME - Wolves Among Sheep
 			Chloe smiled. "Nah, it's okay."
 			She paused for a moment. "To be honest, I'm... I'm kinda nervous about driving. I mean, I've got a daytime driver's license, but..."
 			"But?" Connor asked, encouragingly.
-			"Well, I always worry. I mean, even ignoring the fact I'm short-sighted, I... I get so terrified of having a seizure while on the road. I haven't even had a convulsive one in half a year, but still... if that happened and, God forbid, I crashed into someone..."
+			"Well, I always worry. I mean, even ignoring the fact I'm short-sighted, I... I get so terrified of having a seizure while on the road. I haven't even had a convulsive one in ages, but still... if that happened and, God forbid, I crashed into someone..."
 			"I get that." Connor smiled softly. "Well, it's a good thing you have a mate who likes giving people lifts, eh?"
 			She chuckled. "Yeah. I guess you have some uses."
 			As soon as she said it, she panicked, worrying she'd been insulting. She went to apologise, but was interrupted by a laugh.
@@ -19174,7 +19226,7 @@ VOLUME - Gods Among Men
 			"Fuck, sorry..." Tyson panted, approaching. "You okay?"
 			"I'm fine. Easy on the trigger!" he hissed.
 			Tyson looked down, ashamed. Then he heard something hit the ground, and went pale as a ghost.
-			"BEHIND YOU!"
+			"Boo."
 			Connor's punch to the back sent the gunman crashing into Tyson. Both fell down, and a second strike knocked him out cold.
 			"Where is he?! WHERE IS HE?!" the leader howled.
 			*WHOOSH!*
@@ -19747,7 +19799,7 @@ VOLUME - Gods Among Men
 			Jimmy screamed as they fell down. Claw marks ripped from his balcony down the side of the block. Finally, they came to a halt at the fourth floor. They hung from the wall, Jimmy dangling over the street.
 			"From here, you'll only break your legs! Still wanna try me?!"
 			"Oh god, please!" Jimmy begged. "I--I have a family!"
-			"Then I'll come for them, too - now *TALK!*"
+			"Then I'll send 'em flowers - now *TALK!*"
 			"ALRIGHT, ALRIGHT!" he howled.
 			"Where is Gambit taking the kids?!"
 			"There's a site in Blackmarsh! They converted an old barn!"
@@ -21537,13 +21589,12 @@ VOLUME - Gods Among Men
 			"Do tell?" Morland tilted his head.
 			"See here." Chloe said, showing her presentation. "We've identified a mutated variant of epinephrine, commonly known as adrenaline. But this is different - this is a novel molecular structure, which we've dubbed 'Paradrenaline'."
 			"And what does it do?" Morland asked, intrigued.
-			"Well, it... it amplifies their physical abilities - Paradrenaline binds more effectively to the adrenergic receptors in the body, particularly the alpha-1 and beta-2 receptors, responsible for increasing heart rate, blood flow, and muscle contraction. The result is a massive enhancement of physical capabilities: regenerative healing, increased reflexes, and a dramatic rise in strength. But--" she paused, "There are side effects."
+			"Well, it... it amplifies their physical abilities - Paradrenaline binds more effectively to the adrenergic receptors in the body, particularly the alpha-1 and beta-2 receptors, responsible for increasing heart rate, blood flow, and muscle contraction. The result is a massive enhancement of physical capabilities: regenerative healing, increased reflexes, and a dramatic rise in strength. But..." she paused, "There are side effects."
 			Morland leant forward, his gaze intense. "What kind of side effects?"
-			"Well..." Chloe cleared her throat. "At low doses, subjects begin to experience neurological symptoms, primarily intense migraines and frequent nosebleeds. These occur due to an overstimulation of the sympathetic nervous system, which causes vasodilation in the brain, increasing pressure and causing the blood vessels to rupture."
-			Morland raised an eyebrow but said nothing, so Chloe continued, tapping the screen to show the next slide.
-			"At moderate doses, we start seeing seizures. The neurons in the brain become hyper-excitable due to an imbalance in the sodium and potassium ion channels. It's like a short circuit in the nervous system. The more the subject's body is exposed to Paradrenaline, the more severe the disruption becomes."
-			Morland winced, his lips curling into a slight smile. "And at high doses?"
-			Chloe's voice lowered, growing more serious. "At high doses, the symptoms are catastrophic. Strokes, aneurysms, and cerebral haemorrhages. The vasculature in the brain becomes too fragile, and the heart rate increases to dangerous levels, putting immense strain on the circulatory system."
+			Chloe cleared her throat. "At low-to-moderate doses, subjects begin to experience increased aggression, along with intense migraines and frequent nosebleeds. The physical symptoms appear to be caused by elevated blood pressure, and get worse as dosage rises."
+			Morland raised an eyebrow, and winced, his lips curling into a slight smile. "And at high doses?"
+			Chloe continued, tapping the screen to show the next slide. Her voice lowered, growing more serious.
+			"Strokes, aneurysms, and cerebral haemorrhages. The vasculature in the brain becomes too fragile, and the heart rate increases to dangerous levels, putting immense strain on the circulatory system."
 			Morland watched her intently, considering her words. "But the superhumans, they survive these doses?"
 			"Yes." she nodded. "We believe it's due to their enhanced anatomy. Their bodies seem to compensate for the damage. Their regenerative abilities kick in faster than normal, allowing them to recover from the worst effects. But it's still a temporary fix - they can only withstand so much before the damage becomes incapacitating."
 			"The potential here..." he murmured. "If only we could mitigate these side effects."
@@ -24809,6 +24860,7 @@ VOLUME - Gods Among Men
 			With that, he leapt off the edge of the building, Sparky following closely behind, landing in a fluid roll before springing into action.
 			The old urge whispered, eager for blood.
 			As they entered the facility, a heavy metallic door slammed open ahead of them. Super-Agent sentries, already on high alert, opened fire the moment they spotted the intruders. Bullets slammed into Connor's body, as he dived into cover.
+			"Yeah, keep shooting at me. It'll definitely work eventually, right?" Connor taunted.
 			Sparky's fur rippled as he darted forward, avoiding the barrage. He was covered by a hail of crossbow bolts.
 			These weren't the blunt, dull bolts he used against humans - these were sharp enough to punch through metal.
 			One unlucky Agent found two bolts bury into his eyes - breaking past his skull and into his brain.
@@ -24816,7 +24868,7 @@ VOLUME - Gods Among Men
 			Melee time, now. Connor dashed forwards, his crossbows de-morphing and being replaced with wrist-mounted blades.
 			In a single motion, he grabbed an Agent by the throat, lifting him off the ground as though he weighed nothing.
 			With a quick, fluid thrust, the blade pierced the Agent's armour, sliding through his body like butter. The Agent's eyes widened in shock as it punched through his spine and exited his back, extending out to impale the one behind him as well.
-			At that, Connor grinned under his mask, as his suit bubbled. Then, it burst.
+			He grinned under his mask, as his suit bubbled. Then, it burst.
 			Sparky, now under the cover of smoke, dived in. With a savage snarl, he pounced on one of the Agents, his jaws snapping shut with brutal force around his head. There was a sickening crack as he tore the head clean off, the body collapsing lifelessly to the floor.
 			Without pause, Sparky turned to another, his claws slashing through the air. He mauled the second, raking through his chest with such force that he was thrown across the room. A third charged, but Sparky's teeth sank into his throat, ripping through flesh and muscle with ease.
 			As the pair progressed deeper into the facility, the remaining Agents began to fall back, realising that they were outmatched. They tried to regroup, but Connor and Sparky moved too fast.
@@ -25064,6 +25116,7 @@ VOLUME - Gods Among Men
 			"Looks like they have one tough guy! Come on then!" the Skinners jeered.
 			"Hang on, Tim! That's him!" one shouted. "He's one of their enforcers!"
 			Connor grinned, and effortlessly swiped that one's legs from the ground.
+			"Sorry guys - I don't do autographs."
 			With expert reflexes, he disarmed each assailant. He ended up with two baseball bats in his hands, and used them to knock out each member. One Skinner fell onto a metal bin, covering himself in wastage. The bin lid rolled on the ground and stopped at Connor's feet.
 			Amy joined the fray, slide-tackling one. Connor grinned, gave her a nod, and the two fought like professionals - expertly coordinating their assault. Before long, Trey jumped in too.
 			"Go on, guys! Kick their arses!" Shannon cheered. Chloe and Bea looked at her, bemused.
@@ -25271,7 +25324,7 @@ VOLUME - Gods Among Men
 			"Idiot." he scowled. "If this stuff has so much as a scratch, they'll send a mutant to cut off your cock."
 			"Yeah, right. You really believe in all that shit?"
 			"I've *seen* it." a third goon began. He took a drag on his cigarette, and sighed.
-			"He comes from the shadows - all quiet, like. When you first clap eyes on 'im, he looks human - but then he *changes...*"
+			"He comes from the shadows - all quiet, like. You hear him laugh - God, that awful laugh. He giggles like a demon, and you see two red eyes stare out from the dark. When he comes out, he looks human - but then he *changes...*"
 			"Into what?"
 			"Indeed... into what?"
 			"Shut the fuck up, Carl." Donny snapped. "Quit fuckin' with the boys and start unloading."
@@ -25389,6 +25442,9 @@ VOLUME - Gods Among Men
 			Connor held the two halves of the Agent's head, and threw them to the ground. He dug his hands into the now-open neck-stump, and pulled. In short order, the Agent's body was bisected - a gruesome tear running from neck to groin.
 			The machete fell out of the gaping hole in Connor's belly, and he stepped forward, spitting blood.
 			"I fuckin' hated that guy." the last Agent grinned. "Now *I* get all the glory."
+			"I've killed Jotunns, Crusaders, and scores of you super-cunts - and you think *this* is how I die?" Connor snarked.
+			The Agent lowered his blade, and drew a sidearm. It was a big, bulky thing - and he fired.
+			The grenade detonated inches from Connor's face. He smacked into the ground, dazed.
 			"RAAGH!" Amy roared, jumping onto his back.
 			"No!" Connor gasped, lurching forward.
 			Electricity coursed through the Agent's flesh, and he slammed backwards. Amy smacked out against the wall, and the Agent turned, blade drawn.
@@ -25550,13 +25606,15 @@ VOLUME - Gods Among Men
 			The sun was crawling down the horizon now, as the day came to a close.
 			Over in Riverside, Connor was strewn across the sofa. He had morphed a compression suit around his torso to quicken the healing.
 			"Okay, so..." Amy began, now out of the suit and in her civvies. "What was that cloud thingy? You've never mentioned it before."
-			"Oh, that." Connor chuckled. "I overpressurised the inside of my suit, while liquefying the skin. So, when it burst, it sent particles of gel into the air, like a smoke bomb."
+			"Oh, that." Connor chuckled. "I overpressurised the inside of my suit, while liquefying the skin. So, when it burst, it sent particles of gel into the air, like a smoke bomb. Same concept as my air guns."
 			"Damn..." she grinned. "Could you use it as an actual bomb?"
 			His face turned grim. "I did, once. During the auction. I hardened the skin instead of liquefying it, so instead it launched shards of chitin like a frag grenade."
 			Amy nodded in awe. "I wish I had superpowers."
 			"Trust me, you don't wish you had *these.*" he shook his head. "My suit is literally part of my body, and it latches directly onto my skin when I'm wearing it. So, when I blow it up, it feels like I'm tearing myself apart. That's part of why I wear baggy clothes like hoodies when I'm in my civvies - it's a lot less tactile noise."
 			She gave him a sympathetic look. "You always used to get sensory overload. Must be worse with literal super-senses, eh?"
 			"You bet." he sighed.
+			"That laughter you were doing really made me shudder." she chuckled. "Why do you do that?"
+			"Terror tactics." he shrugged. "I *can* be stealthy if I want to. There's a reason I make sure I'm just loud enough to let them know I'm here - it throws them off their game. I'm trying to get better at taunting, too - hence why I was trash-talking the Agents earlier."
 			"Oh, another question."
 			"You don't let up, do you?"
 			"Fuck off." she grinned. "How come the fight lasted so long? I mean, the way you took them out - why not do that at the start?"
@@ -25615,7 +25673,7 @@ VOLUME - Gods Among Men
 			"Ha, ha." Connor groaned. Amy giggled cheekily.
 			"Enjoy it." she beamed. "It's been a long time coming."
 			"Thanks, Stunlocke." Connor snarked.
-			"Fuck you, Werewolf." she grinned back.
+			"Fuck you, Slamshot." she grinned back.
 
 		Sparky's solo mission/Naismith meets Chloe
 		______________________________
@@ -27820,15 +27878,11 @@ VOLUME - Gods Among Men
 			"Oh, by the way - can we go see Sparky later?" Bea smiled. "I got him some treats earlier - I thought he'd like them."
 			"Aww, yeah of course." Connor beamed. "He's, uh... out, at the minute - I've got a friend walking him."
 
-			The warehouse was a maze of stacked crates filled with cargo - some even legal, believe it or not. Ivan hung upside down from the rafters, his dart rifle resting in his arms. Below, Sparky prowled between the aisles on all fours, while Gwen moved along the shadows of the upper walkway, whip coiled at her hip.
+			The warehouse was a maze of stacked crates filled with cargo - some even legal, believe it or not. Ivan hung upside down from the rafters like a bat, his dart rifle resting in his arms. Below, Sparky prowled between the aisles on all fours, while Gwen moved along the shadows of the upper walkway, whip coiled at her hip.
 			A Skinner rounded a corner, and Sparky turned quickly. He went to strike--
 			*Phit!*
-			The dart landed right in his jugular. He swayed, then crumpled.
-			"Clumsy." Ivan whispered over the radio. "You're supposed to be covert, volchonok."
-			Sparky huffed, and dragged the body behind a crate. "He walked into me."
-			"You have super-senses."
-			"I'm also very tired."
-			"Fair enough."
+			The dart landed right in his jugular, and its payload went straight to the brain. He swayed, then crumpled, before snoring.
+			Sparky huffed, and dragged the body behind a crate. "I had him."
 			Gwen slipped down a ladder, landing softly. She crept past a pair of guards playing cards on an overturned barrel. One looked up - just as a dart buried itself in his neck. The other reached for his radio, before her whip wrapped around his throat. She yanked it, before a strike upside the head made him spin and fall.
 			Sparky dropped from atop a shelf, landing behind two more. He rose up on his hind legs, and drove a paw into the first man's lumbar. As he folded, Sparky swept the legs of the second, then brought his elbow down on the back of his skull. Both went limp.
 			"Ugh. I hate fighting humans. It's hard to go 'non-lethal' on all fours." he groaned.
@@ -27837,7 +27891,7 @@ VOLUME - Gods Among Men
 			Gwen readied her Swingshot, while Ivan's darts took one down right as she moved. She cracked it into the second's temple, while Sparky pounced at the third, and swept the fourth's legs with his tail. Gwen sent the force of his landing right back into his head, and he went still.
 			"Clear." she whispered.
 			"Clear." Sparky echoed.
-			Ivan descended the ladder, slinging his rifle over his shoulder. He surveyed the unconscious bodies.
+			Ivan rappelled down from his perch, slinging his dart gun over his shoulder. He surveyed the unconscious bodies.
 			"How's that for non-lethal?" he chuckled.
 			"That was the quietest mission we've ever had." Gwen noted.
 			Ivan groaned. "Don't say that. You know what happens when we have a quiet one. The next one'll be twice as loud - probably with another cyber-Jotunn, except this one's a Blinker too."
@@ -28168,7 +28222,7 @@ VOLUME - Gods Among Men
 			Connor read through Chloe's notes, impressed with her work. She'd always had a knack for this...
 			There. He found the section on this 'Paradrenaline'. He read through - it seemed this substance could supercharge his powers. When he was having a Paradrenaline rush, he could hit harder, take more, and heal faster.
 			He saw another paragraph:
-			"This 'Paradrenaline' is similar to synthetic neuropeptides we've experimented with in the past, but applied to the adrenal system in a completely new way. If this compound really amplifies the healing process, it could be dangerous in the long term. We need to be cautious with its application, especially considering the potential for neurological breakdown. Prolonged exposure could cause migraines, nasal bleeding, or even seizures..."
+			"This 'Paradrenaline' is similar to synthetic neuropeptides we've experimented with in the past, but applied to the adrenal system in a completely new way. If this compound really amplifies the healing process, it could be dangerous in the long term. We need to be cautious with its application, especially considering the potential for neurological breakdown. Prolonged exposure could cause migraines, nasal bleeding, or even pathological rage..."
 			Connor paused. "The migraines. They must be caused by the Paradrenaline."
 			He smirked, glad to know where that little quirk came from. He considered adding his own note there - that acute pain reduced the symptoms, implying he had a similar endorphin-analogue - but decided against it. That *would* be stupid.
 			He read on - only to hear a door open. He ducked quickly behind a storage closet.
@@ -28530,7 +28584,9 @@ VOLUME - Gods Among Men
 			"*LET. HER. GO.*" he roared, his voice slamming into Banner's chest like a sonic weapon.
 			Chloe thought to herself - if that voice ordered her to jump from that rooftop, she would. She shook her head, glad that it was directed at Banner instead.
 			Banner sneered, clearly rattled but not broken. He straightened, and chuckled darkly. "Hah... nice try."
-			He holstered his weapon with a deliberate slowness, as if dismissing Connor's power. "You think you can intimidate me with your little tricks? Come then, Traitor - show me your wrath! SHOW ME YOUR RAGE!"
+			He holstered his weapon with a deliberate slowness, as if dismissing Connor's power. "You think you can intimidate me with your little tricks?"
+			"*I'm not here to intimidate you. I'm hear to coat my boot with your brain.*" Connor snarled.
+			"Come then, Traitor - show me your wrath! SHOW ME YOUR RAGE!"
 			Connor's eyes glowed a deep, furious red. His muscles tightened, rippling with supernatural strength. With a primal roar, he charged.
 			He threw a punch with such force that the air seemed to crack around it - aided, no doubt, by Gwen's power from above. Banner barely managed to block, but the impact sent him sliding back. Connor pressed the attack, launching another punch, then a devastating uppercut that could take a human's head off. Each swing felt like it could tear through steel, each blow a promise of death.
 			Chloe looked on, horrified and transfixed by the scene. But only one thought was in her mind.
@@ -29020,7 +29076,7 @@ VOLUME - Gods Among Men
 			"What's that?" Trey tilted his head.
 			"Sparky was gonna be smashing up this cache of weapons that the Disciples were keeping. Now he's on bodyguard duty, it falls to me."
 			"Connor..." Amy began. "Maybe take a break? That's a job Stunlocke can do."
-			"No. I need you patrolling. I'll handle the guns  - Slamshot's not shown his face for a while, so I'd better go as him. After that, I'm gonna go to Chloe's labs, see if I can dig up any more intel before the police close it all off."
+			"No. I need you patrolling. I'll handle the guns - Slamshot's not shown his face for a while, so I'd better go as him. After that, I'm gonna go to Chloe's labs, see if I can dig up any more intel before the police close it all off."
 			"Bro..." Trey began. "You must be knackered. You look exhausted."
 			"I'm fine." he shook his head. "I need to keep going. I can relax once the Optimates are gone."
 			His friends exchanged worried glances, but relented. He stood, and headed out.
@@ -29051,11 +29107,9 @@ VOLUME - Gods Among Men
 			"Ever the detective. No comment." Connor replied, causing Naismith to chuckle. He continued.
 			"You're also tough - tough enough that small-calibre bullets shouldn't break your skin. But you're much, much weaker than me - don't go pulling my stunt with the assault rifles any time soon. And you'll be strong, too - be careful of that. I've broken a neck when I only meant to knock someone out before. Be mindful."
 			"Good to know... any other downsides?"
-			"Yes - watch out for migraines. There's a substance called Paradrenaline - it super-charges your powers, but also causes side effects. Fatigue, headaches, nosebleeds, even seizures if you're not careful. You can manage those side effects through acute pain - self-harm. I burn myself with a lighter. I don't know how, but I think there's some endorphin-analogue that counteracts the Paradrenaline."
+			"Yes - watch out for migraines. There's a substance called Paradrenaline - it super-charges your powers, but also causes side effects. Fatigue, headaches, nosebleeds... and Rage. You might start getting violent urges - especially in the heat of battle. Be very careful with those. You can manage those side effects through pain - hurting other people, or yourself. I burn myself with a lighter. I don't know how, but I think there's some endorphin-analogue that counteracts the Paradrenaline."
 			"Got it..." Naismith groaned. "Self destruction was always my strong suit."
-			Connor chuckled grimly. "Another thing. You might start getting violent urges - especially in the heat of battle. Be very careful with those."
-			Naismith nodded.
-			"And you can't get drunk, or smoke anymore. Your body'll process it. So watch out for withdrawals."
+			Connor chuckled grimly. "Another thing. You can't get drunk, or smoke anymore. Your body'll process it. So watch out for withdrawals."
 			"No booze? Bollocks."
 			"Get well soon. When you're back, phone me. I'll meet with you, and we can discuss our next steps."
 			Naismith smiled slightly, and Connor left, escaping the hospital through a maintenance shaft.
@@ -29154,7 +29208,7 @@ VOLUME - Gods Among Men
 			"Connor, if--It's fine, you don't have to--" she stammered.
 			"It's alright! They're just normal humans, they're no threat to me. And, um... I haven't killed any, and I'm not planning on." he said. "I can work and talk, besides - this is important."
 			She let out a chuckle. "You're in the middle of a gunfight, and what, you're more focused on our issues?"
-			"Well, yeah." he said, again audibly shrugging, before another slam-shot  came over the phone.
+			"Well, yeah." he said, again audibly shrugging, before another slam-shot came over the phone.
 			She smiled warmly, endeared. "Listen, Connor... you focus on what you're doing, okay? Meet me at Vitalis at 8 PM - we can go in and have a look around. After that... we'll go back to yours, and chat, yeah?"
 			Connor smiled. "Thank you. I don't deserve that - but thank you. I'll see you at 8--" another gunshot.
 			"OW! I'm *trying* to have a moment here, you *prick!*" he barked, before clearing his throat. "I'll see you at 8! Gagh, fuckin' Disciples..."
@@ -30269,7 +30323,7 @@ VOLUME - Gods Among Men
 			"Yeah - I was trying to find a way to stimulate it to help you heal quicker." she replied.
 			"And did you find anything else?"
 			"I... yes!" Chloe said, realising. "Hang on..."
-			She went through the notes she'd taken through the process. "Here! The endorphin-analogue that counteracts the paradrenaline. Your body kept almost rinsing your head with it - thank god it did, or you'd have had a seizure, or a stroke. In fact, I think this substance is what put you in the healing coma."
+			She went through the notes she'd taken through the process. "Here! The endorphin-analogue that counteracts the paradrenaline. Your body kept almost rinsing your head with it - thank god it did, or you'd have had a stroke. In fact, I think this substance is what put you in the healing coma."
 			She showed him the paperwork. As she explained, her demeanour shifted - more confident, less vulnerable. This was her element.
 			"EEGs showed you were in severe pain - so we tried giving you anaesthetics, but your body just metabolised them instantly. It's all a part of this intracellular communication you seem to have - your body recognises when a substance has foreign origins, and immediately moves to neutralise, expel, or digest it. But..."
 			She turned the page, and pulled out a syringe.
@@ -31808,7 +31862,7 @@ VOLUME - Gods Among Men
 			"Well, if that's how you feel, then we're done here. I'll talk when you're ready to apologise." she said, standing to leave.
 			"You're not leaving! This conversation is not over. Listen, you know exactly why we're worried!"
 			"Can you *STOP* treating me like I'm an idiot?!" Chloe snapped. "I fell for *one* man's manipulations, and you have *no idea* how much I think about that! How often it plays on my mind when all I want to do is be happy with him! So yes, I've thought this through. *I can't help it!*"
-			"*Neither can I!*" William cried out. "Chloe... just, look at yourself! You've changed, ever since meeting him! I've--I've *never* seen you wear your hair like that.  Did he tell you to change it? And that hoodie - it's almost identical to his. Is it a gang thing? Is he trying to get you involved in that, too?"
+			"*Neither can I!*" William cried out. "Chloe... just, look at yourself! You've changed, ever since meeting him! I've--I've *never* seen you wear your hair like that. Did he tell you to change it? And that hoodie - it's almost identical to his. Is it a gang thing? Is he trying to get you involved in that, too?"
 			Chloe laughed - a dry, tired scoff. "You're kidding, right? For the first time since I was a kid, I'm not covering my ears out of shame. For the first time since it happened, I'm not keeping my bangs over my scar. And... and instead of thinking 'Oh great, she's feeling more confident' - *that's* your reaction?! And seriously - my boyfriend gave me a spare hoodie. I'm not a little girl anymore, I don't need a school uniform!"
 			"Chloe..." Catherine began. "I know I've not always shown it, but both of us - your father and I - just want the best for you."
 			"Yeah, the loving mother act is getting a little old, now. Can we switch back to raging narcissist?" Chloe snarked.

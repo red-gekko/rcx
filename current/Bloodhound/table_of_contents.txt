@@ -16,7 +16,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - Oh, the Inhumanity
+	EPISODE - Inhuman Nature
 
 
 	______________________________
@@ -40,7 +40,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - He's a Devil, He's a Hero
+	EPISODE - Guardian Devil
 
 
 	______________________________
@@ -122,11 +122,11 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Public Enemy
+	EPISODE - Public Enemy, Part 1 - False Flags
 
 
 	______________________________
-	EPISODE - Election Day
+	EPISODE - Public Enemy, Part 2 - Election Day
 
 
 	______________________________
@@ -134,15 +134,15 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Tyrants
+	EPISODE - Freedom Fighters, Part 1 - Tyranny
 
 
 	______________________________
-	EPISODE - Breakout
+	EPISODE - Freedom Fighters, Part 2 - Breakout
 
 
 	______________________________
-	EPISODE - Freedom Fighters
+	EPISODE - Freedom Fighters, Part 3 - The Drackhill Spring
 
 
 	______________________________
@@ -162,7 +162,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Fire and Pain
+	EPISODE - Star-Crossed
 
 
 	______________________________

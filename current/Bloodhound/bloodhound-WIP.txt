@@ -1326,7 +1326,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - Oh, the Inhumanity
+	EPISODE - Inhuman Nature
 		______________________________
 		SCENE
 			Dark clouds had covered the skies, now. The sun crawled beneath the horizon, as Connor went out for a jog. He'd been running for hours, pushing harder, faster, waiting for the burn to come. But it didn't. His hearts pounded - not from exhaustion, but from something deeper. Restlessness. Fear.
@@ -5201,7 +5201,7 @@ VOLUME - Wolves Among Sheep
 
 
 	______________________________
-	EPISODE - He's a Devil, He's a Hero
+	EPISODE - Guardian Devil
 		______________________________
 		SCENE
 			As the morning sun rose over the valley, it gave only a sliver of light to the people below - for dark, rainy clouds had gathered, as if in jest.
@@ -5312,7 +5312,7 @@ VOLUME - Wolves Among Sheep
 			"Yes! He smells of it. You're getting better at sniffing things out!" Sparky said proudly.
 			"Well, super-senses have to have *some* advantages."
 			"Wait 'til you sniff Chloe's butt. You'll never be happier." Sparky innocently smiled.
-			"I... I appreciate your flirting tips, but I think I'll stick to human interactions." Connor replied, smirking.
+			"I... I appreciate your flirting tips, but I think I'll stick to human interactions."
 			"I'll let you know when she's in heat if you like!"
 			"Yeah... I don't think humans go into heat."
 			"Oh. You guys are *weird!*"
@@ -5509,9 +5509,7 @@ VOLUME - Wolves Among Sheep
 			"Hm? Oh, you mean what he called me." Nina replied, with only a slight change in her cheerful demeanour. "It's okay... I'm used to it, sir."
 			"It's not." Naismith sighed. "This country... bigots like that make up half the government."
 			"Well..." she shrugged. "At least we have a new lead."
-			"They must have a supply of that drug somewhere..." Naismith stroked his chin. "If we could get a hold of it, we can have it tested."
-
-			"I'll talk to the chief tomorrow morning. You'd better get off."
+			"They must have a supply of that drug somewhere..." Naismith stroked his chin. "If we could get a hold of it, we can have it tested. I'll talk to the chief tomorrow morning. You'd better get off."
 			"Very good, sir." Nina nodded. "See you tomorrow."
 			"Night." Naismith smiled, staring at his computer screen.
 
@@ -19817,7 +19815,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Public Enemy, Part 1: False Flags
+	EPISODE - Public Enemy, Part 1 - False Flags
 		______________________________
 		SCENE
 			Drackhill was, to most, an icon of urban rot. Nothing exemplified it more than the Underhill; that labyrinth of tunnels, storm drains, basements, and smuggling routes that snaked under the city.
@@ -20344,7 +20342,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Public Enemy, Part 2: Election Day
+	EPISODE - Public Enemy, Part 2 - Election Day
 		______________________________
 		SCENE
 			The morning sun was slowly starting to rise, now. It was the early hours, and Naismith groaned as he left his front door. He sat in his car, and took a deep breath.
@@ -21701,7 +21699,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Freedom Fighters, Part 1: Tyranny
+	EPISODE - Freedom Fighters, Part 1 - Tyranny
 		______________________________
 		SCENE
 			It was a warm summer's evening in 1995. Vince Barrett sat on a barstool in the White Hawk pub in Redbridge, sipping a pint of Guinness. He was younger - 23 years old - but looked the part of a rough mobster. His hair was cropped short, and a thick red beard hung from his face.
@@ -22330,7 +22328,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Freedom Fighters, Part 2: Breakout
+	EPISODE - Freedom Fighters, Part 2 - Breakout
 		______________________________
 		SCENE
 			It was your average evening in Belson.
@@ -22977,7 +22975,7 @@ VOLUME - Gods Among Men
 
 
 	______________________________
-	EPISODE - Freedom Fighters, Part 3: The Drackhill Spring
+	EPISODE - Freedom Fighters, Part 3 - The Drackhill Spring
 		______________________________
 		SCENE
 			Chloe's eyes snapped open, as she shot up.

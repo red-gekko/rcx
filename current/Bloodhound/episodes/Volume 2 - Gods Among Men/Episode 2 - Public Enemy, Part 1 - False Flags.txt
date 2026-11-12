@@ -62,13 +62,13 @@ People were dying. People were dying, and he wasn't saving them.
 "Come on... where are you?" he snarled, frantically searching.
 There. Just beneath the platform.
 No time for subtlety.
-Biomass shifted from Connor's flesh into his arms, and thick, hammer-like fists calcified. He brought one gauntlet down onto the platform floor. Then another. Then another.
+Biomass shifted from Connor's flesh into his arms, and thick, hammer-like fists calcified. He brought one gauntlet down onto the platform floor. Then another. Then both.
 Finally, he broke through. Beneath, he could see the compromised ventilation system, as nerve gas poured into it. The canister still had plenty left - enough for everyone in the station, and then some.
 No. Not if he had something to say about it.
 He took a step toward it, and his legs nearly gave out. His vision swam. The gas was affecting him - slower than a human, but it was affecting him.
 Fuck. Fuck.
-He dropped to his knees, then forced himself back up. One step. Another. His body was already working overtime, repairing the damage to his lungs, his nervous system, his eyes. But it wasn't fast enough.
-He reached the canister. His hands shook as he gripped it, and his palms morphed, producing a thick, black tar that spread over the metal like living ink. He forced it into every gap, every seam, every crack.
+He dropped to his knees, then forced himself back up. One step. Another.
+He reached the canister. His hands shook as he gripped it, and he sent a jolt of bioelectricity out. The release slowed, and his gloves morphed, producing a thick, black tar that spread over the metal like living ink.
 Finally, mercifully, the hissing stopped.
 His legs buckled, and he collapsed beside the canister, his eyes dimming.
 Darkness took him, like it did so many others.
@@ -115,8 +115,8 @@ Connor crawled back in through the bathroom door, morphed into his civvies, and 
 Trey shuffled awkwardly. "There, um... there's something going down at the metro station."
 "Oh, shit. What happened?" Connor asked, subdued slightly.
 "No one knows. Cops and firemen have gone in." Amy shrugged. "Anyway, I need to get to work - can you give me a lift?"
-"Yeah, no worries." Connor nodded. "I'll see you guys tonight, yeah?"
-"Yeah, looking forward to it." Chloe said, brushing his arm.
+"Yeah, no worries." Connor nodded. "I'll see you guys tomorrow, yeah?"
+"Yeah, looking forward to it." Chloe smiled, brushing his arm.
 He nodded, before heading to the car.
 
 "So... what happened?" Amy asked, as they both shuffled into their seats.
@@ -394,15 +394,17 @@ He turned off his screen, and--
 Norris shrieked, reaching for a panic button. Connor's hand shot out, and grabbed his wrist.
 "It would be so easy." Connor whispered. "A slight shift, and your arm rips right off. I can *do* that to you."
 "Listen..." Norris spat. "If-if you kill me, then everyone will just believe--"
+*BZZT!*
+Norris yelped, as a jolt of bioelectricity zapped by his jugular.
 "Hush, now."
 Connor pulled out his phone, and unlocked the screen.
 "Who is that?"
 A live camera feed, mounted to a sniper rifle's scope.
 Right in the crosshairs - Mrs. Norris.
 "Wh-why are you showing me this?"
-"I don't hurt innocents." Connor snarled. "So, I want you to see just how desperate I am - I'm threatening her. And I will tell my man to pull the trigger if I have to - so imagine how far I'll go with you to avoid that. I'll do *anything* to avoid playing that card. Anything to *you.*"
+"I don't hurt innocents." Connor snarled. "So, I want you to see just how desperate I am - I'm threatening her. And I will tell my man to pull the trigger if I have to - so imagine how far I'll go with you to avoid that. I'll do *anything* to avoid playing that card. Anything to *you.* So look at her, and know, that I will not hurt her. Know that I'll put you through hell before hurting her. Know that... that I'm serious, Mr. Mayor. That if you don't tell the truth, I will do things that would make the devil shudder."
 He gripped Norris by the throat, and slammed him into the wall.
-"I'm going to hurt you, Mr. Mayor. I'm going to keep hurting you, until you tell the truth. Not easy for a fascist politician, I know - but we can try."
+"I'm going to hurt you. I'm going to keep hurting you, until you tell the truth. Not easy for a fascist politician, I know - but we can try."
 "Gagh! Okay, what do you want from me?"
 "Who's making those videos of me?!"
 "I don't know!"
@@ -445,7 +447,7 @@ He couldn't hear anything. Couldn't see anything.
 Slowly, his head stopped pounding, and his senses returned.
 "Vanguard! Come in, Vanguard!"
 "I'm here." he choked. "Fuck... someone blew up City Hall!"
-"Shit! Spartacus - do you copy?"
+"Blyat! Spartacus - do you copy?"
 "I'm here!" Sparky yapped.
 "Khorosho, volchonok. Get to City Hall and help Vanguard rescue any survivors!"
 Connor spat blood and teeth, before charging into the blaze.

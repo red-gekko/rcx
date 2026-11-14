@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Word Counter — Bloodhound Reader</title>
+  <link rel="stylesheet" href="../webfiles/styles.css">
+  <style>
+    /* Page-specific: the word counter is a form tool, so we reuse the
+       shared form styles and add just a small live readout. */
+    .wc-count {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 14px 18px;
+      background: var(--bg-sunken);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--bh-highlight);
+      border-radius: 6px;
+      margin-top: 4px;
+    }
+    .wc-count .wc-count-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 1.1px;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+    .wc-count .wc-count-value {
+      font-family: var(--font-mono);
+      font-size: 1.6rem;
+      font-weight: 600;
+      color: var(--bh-highlight);
+      letter-spacing: 1px;
+      line-height: 1;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <a class="back-link" href="../index.html">◀ Back to Homepage</a>
+    <h1>Word <span>Counter</span></h1>
+    <p class="subtitle">Paste or type text below to get a live word count.</p>
+
+    <form class="form-grid" onsubmit="return false;">
+      <div class="form-group full-width">
+        <label for="textInput">Text</label>
+        <textarea id="textInput" placeholder="Type or paste text here..." autofocus></textarea>
+      </div>
+
+      <div class="wc-count">
+        <span class="wc-count-label">Word Count</span>
+        <span class="wc-count-value" id="wordCount">0</span>
+      </div>
+    </form>
+  </div>
+
+  <script>
+    const textInput = document.getElementById("textInput");
+    const wordCount = document.getElementById("wordCount");
+
+    textInput.addEventListener("input", () => {
+      const text = textInput.value.trim();
+
+      if (text === "") {
+        wordCount.textContent = 0;
+        return;
+      }
+
+      const words = text.split(/\s+/);
+      wordCount.textContent = words.length;
+    });
+  </script>
+
+</body>
+</html>

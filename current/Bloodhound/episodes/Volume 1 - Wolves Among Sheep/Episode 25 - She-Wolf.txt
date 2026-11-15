@@ -16,6 +16,7 @@ He grabbed a water bottle from the workbench, and took a swig. "You ready to tra
 "Born ready." she grinned, dropping her bag by the wall.
 
 The depot sat at the end of a dead-end road, surrounded by chain-link fence and rusted shipping containers. A single floodlight buzzed overhead, casting everything in a sickly orange glow. Beyond the fence, the city hummed - distant traffic, the occasional siren, the ever-present patter of rain on corrugated metal.
+Above, an Eidolon-pattern CT drone hovered lowly. Its black, cerametallic chassis made it look almost insectoid, and a light on its 'face' ran over the street, before it moved back up into the sky.
 Inside, a dozen Disciples were gathered around a card table, laughing and drinking. Their bikes were parked outside, chrome glinting in the dark. Crates of stolen goods lined the walls - electronics, cigarettes, and a few kilos of cocaine stacked in the corner like an afterthought.
 "Another round, lads!" one of them cheered, slamming his glass down.
 "You're gonna bankrupt us, Terry." another grinned, dealing the cards.
@@ -626,6 +627,16 @@ He had to make a choice.
 He ran into the wreckage. The first car was easy - he ripped the door off, pulled the driver out, set them down on the pavement.
 The second was harder. A child was stuck in the back seat, screaming. He tore the roof back and pulled her free, hands covering her eyes as he handed her to a bystander.
 "Keep her calm. She's going to be fine."
+"ALERT. TERRORIST DETECTED. REMAIN CALM."
+Connor looked up, as a headlight shined down onto him.
+"ENGAGING HOSTILE." the CT drone reported flatly.
+Its machine gun unleashed a hail of lead, as Connor threw his shields up. He cartwheeled away from the wreckage, and shot his grapple at its underside.
+"YOU ARE IN CONTRAVENTION OF LAWFUL ORDERS." it blared.
+Connor's rope went taut, and he flipped over to its top. Then he pressed his palm down flat agianst the head, and felt his electrosensitive cells charge up.
+*BZZT!*
+Its light flickered, but the zap wasn't strong enough to kill it. He growled, and drove his wristblade into its motherboard.
+There. Its engine screamed, and it crashed into the ground.
+He hopped out from its iron carcass, and got back to work hauling shellshocked passengers from the pileup as if nothing happened.
 By the time the sirens arrived, Clara was long gone.
 
 Connor sat on the edge of a roof, and pressed his fingers to his ear.
@@ -635,7 +646,7 @@ Connor sat on the edge of a roof, and pressed his fingers to his ear.
 "Where is she now?"
 "Escaped. She, um... she thinks we're in love, and she thinks there's someone else. She called her 'the one you always save.' I... I think it's Chloe." he said grimly. "It has to be. She's seen me save her. She's fixated on the idea that Chloe is... competition."
 "I'll head to her flat. Keep watch."
-"Do it. Covertly. Don't let Chloe see you. Try not to kill Clara if you can help it, though - she needs our help."
+"Do it. Covertly. Don't let Chloe see you. Try not to kill Clara if you can help it, though - she needs our help. And - watch the skies. I think they've started deploying those CT drones en-masse."
 "What about you?"
 "I'm going to dig into her past. There's something wrong with her. More than just the serum. I need to know what happened to her before I saved her. She mentioned a therapist... I'd better start there."
 "Sounds like a busy night, then." Sparky sighed. "Well, I enjoyed having one night off, at least."

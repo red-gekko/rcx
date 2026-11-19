@@ -5,9 +5,22 @@ EPISODE - Public Enemy, Part 2 - Election Day
 The morning sun was slowly starting to rise, now. It was the early hours, and Naismith groaned as he left his front door. He sat in his car, and took a deep breath.
 "You gonna sit there all morning, or?"
 "Detective." Connor chuckled, leaning forward. "Are we friends now? Or do you just say that every time you get in the car?"
-"Jimmy Boyle showed up in A&E the other night. Broken legs. Says he tripped and fell out of his balcony."
-"Yeah, and if he changes his story, he might trip and fall again."
-"Was it you who killed all those people?"
+"You enjoyed finishing the job with Danes?"
+"I roughed him up - I didn't kill him."
+"Why should I believe that?"
+"Because if I *did* kill him, I'd tell you." Connor shrugged, before pulling out his device.
+The recording played.
+
+"Who paid you?"
+"...thish guy, alright? One of thoshe... black-veined freaksh. He told me if I shpoke to the newsh about what went down at the Hog and Houndsh, and if I... 'embellished' a little, he'd pay me good money."
+"Log in to your bank account. Give me the details of that transaction."
+"I... I can't. I've already shaid to much, if I give thish up, they'll kill me!"
+"YOU THINK I WON'T?!"
+"YEAH, I FUCKIN' DO!"
+
+Naismith leaned back, stroking his chin.
+"Someone else killed Danes."
+"What about the attacks? Was that you?"
 Connor shot him a look - Naismith couldn't help but think he looked hurt.
 "Don't play silly buggers. Was it or wasn't it?"
 "It wasn't." Connor nodded firmly.
@@ -19,7 +32,10 @@ Connor shot him a look - Naismith couldn't help but think he looked hurt.
 "That's the Optimates for you." Connor growled. "But it's more than that."
 "How'd you mean?"
 "I'm getting closer." Connor nodded. "Gambit. The child trafficking. Hughes. Project Jotunn. ODIN. They need to distract me, and turn the public against me, all in one fell swoop."
-Naismith was quiet. Then, after a while, he went to speak - and stopped, as a clunking noise filled the air.
+Naismith was quiet. Then, after a while, he spoke.
+"Oh, by the way - Jimmy Boyle showed up in A&E the other night. Broken legs. Says he tripped and fell out of his balcony."
+"Yeah, and if he changes his story, he might trip and fall again." Connor chuckled. "You in the business of sympathising with Skinners and Gambit thugs?"
+Naismith sighed, and went to retort - and stopped, as a clunking noise filled the air.
 "What was that?" he cocked an eyebrow.
 Connor sniffed, and sighed.
 "Shit..." he groaned, as the street lights went out. Then, the houses.
@@ -27,10 +43,10 @@ Connor sniffed, and sighed.
 His phone buzzed, and he took it.
 "Breaking news." he read. "Mass power outages across the valley. Ah... you wanna see this."
 He played a video, and Connor's eyes flashed.
-"People of Drackhill!" the imposter began. "Forgive me for indulging myself, but some metaphors are just too good. You... you're all *humans. *Mortals.* The only man in this valley with *power...* is *me.*"
+"People of Drackhill!" the imposter began. "Forgive me for indulging myself, but some metaphors are just too good. You... you're all *humans.* *Mortals.* The only man in this valley with *power...* is *me.*"
 "I don't sound like that. Do I?" Connor tilted his head.
 "*I* don't *know.* *You* don't *speak* with so much *gravitas,* do you? *I* think it sounds *stupid* when people *talk* like *that.*" Naismith snarked.
-"Oh, Jesus. Detective, I think we might actually be friends now. That sucks." Connor quipped back. "The speech patterns... they sound artificial."
+"Oh, Jesus. Banter? Detective, I think we might actually be friends now. That sucks." Connor quipped back. "The speech patterns... they sound artificial."
 "Definitely a deepfake, then..." Naismith sighed.
 "I'd better get going." Connor nodded.
 "Wait..." Naismith began hesitantly. "I... I *cannot* believe I'm saying this., but... if you need my help exposing them..."
@@ -143,7 +159,7 @@ Charlie's eyes narrowed. "And how would you know that?"
 Shannon shrugged. "I work with computers."
 "Right." Charlie said slowly."You're the... tech person. At the garage."
 "That's right." Shannon said, meeting his gaze.
-Charlie smiled - not kindly. "It's unusual, isn't it? A... a woman in that kind of role."
+Charlie smiled - not kindly. "It's unusual, isn't it? A... a *woman* in that kind of role."
 "What do you mean by that?"
 "Nothing! It's just... good to see the glass ceiling being shattered." he grinned.
 Chloe grimaced. She swallowed the urge to kick him.
@@ -387,7 +403,7 @@ Connor sent a kick into the ground, and Gwen shifted her hands. The force shot b
 Long enough.
 Connor hoisted it up above his head. Blood and gore dripped down onto him, as he held his foe aloft.
 It was built like a tank, and weighed similarly. And yet, and yet...
-"*RRRAAAAAAAAGH!*" the Werewolf screamed, as he pulled his claws away from each other.
+"*RRRAAAAAAAAGH!*" the Werewolf screamed, fire streaming from his mask as he pulled his claws away from each other.
 Gwen's eyes burned violet, and a nauseating noise filled the room.
 Ripping. Tearing.
 Dying.
@@ -421,7 +437,7 @@ Connor scowled, and rose, turning.
 Dent shot him a filthy look. "Back off, Naismith."
 "Dent, between you and the suspect are dozens of wounded civilians. You want them caught in the crossfire?!"
 "Men! Take aim!"
-Naismith's lip curled, as he drew his sidearm.
+Naismith's lip curled, as he drew his sidearm and aimed it at Dent's head.
 "Sergeant, stand down. Final warning."
 At that, a bubbling noise began. Connor and Sparky's suits rippled in unison, and then--
 *Pop!*
@@ -538,6 +554,12 @@ Connor came into the reception area, and chuckled grimly.
 "I'm gonna go on patrol." Connor nodded.
 "What happened to resting up?" Amy cocked her brow.
 "I'm still good to go. And the city needs me, now more than ever." he shrugged.
+"I'll come with." Sparky groaned, rising.
+"No. You're on bed-rest until that back's healed."
+"Oh, so *you're* allowed to run yourself ragged?" the wolf hit back.
+"Sparky..." Connor sighed. "I need you on your A-game tomorrow."
+"Stop doing that." he pushed. "Stop trying to carry everything. Let me help."
+"...fine."
 
 The room was oppressively cold. The Commandant leaned against his office window, holding a phone to his ear.
 "Good work, Dorsey. I expect the sale to go ahead smoothly tomorrow, yes?"

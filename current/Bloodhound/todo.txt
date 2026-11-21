@@ -9,13 +9,13 @@ need to find a way to justify the transition from dark vigilante war to multiple
 
 
 
-now that there's a captive drone, make sure it gets included with Stunlocke suit - have Shannon repurpose its weapon systems for the suit, and later have it be repurposed as a transport craft for Amy, so she can do sky patrols
+have bea drunkenly try it on with trey and amy, before bursting into tears
 
 
+have connor do the glove-inflate-fire trick during branson interrogation; sparky later copies it
 
 
-
-consider making connor escape his first fight by parkouring away - still injured, but makes it less jarrring when he dominates future fights
+have sparky breaking into the zoo and spending time with the wolves in Getting Closer
 
 
 
@@ -41,6 +41,9 @@ also, have trey get off with a man at least once - maybe change one of the picku
 cute cheeky moment; connor's trimming his beard, and asks chloe what she thinks of his facial hair; she says she likes it when he has a bit of scruff; then later, they're looking in a mirror (or taking a selfie) and he quips that it's like a fairy tale - he's the scruffy outlaw, and she's the beautiful princess.
 
 another moment, maybe with above maybe not; when talking about their respective heritages, connor quips that theyre "like romeo and juliet" to which chloe says "remind me to make sure next time we go to the theatre, we watch that one"
+	a joke: 
+	"how can you possess encyclopaedic knowledge of history, but you don't know how romeo and juliet ends?"
+	he shrugs. "i do not choose the hyperfixation. i merely obey its will"
 
 
 
@@ -51,8 +54,18 @@ another moment, maybe with above maybe not; when talking about their respective 
 
 
 
-
-
+optimates lore: different mook types:
+	super-agent - basic serum user
+	crusader - agent with power armour
+	fenrir - serum-infused canid
+	garm - cyberised fenrir
+	giant/Jotunn - agent with increased stature and strength
+	Titan - giant in power armour
+	Psi-Agent - telepathic super-agent
+	Templar - cyber-psi agent
+	Hound - Junior-type mutant
+	Fiend - Hound in powersuit
+	Transcendant - Moxidar-level mutates
 
 have the mook classes show up more than once though - have drones show up on multiple occaisions; have crusader minibosses as often as giants; have ODIN blinkers appear every so often; have Fenrir dogs accompanying Super-Agents that must be sadly put down
 
@@ -139,6 +152,17 @@ horror plot - they discover what the Optimates are using the kids for; non-ODIN 
 	one brief nice interaction; shannon asks for connor's permission to investigate. he says she doesn't need his approval; and she counters that she works for him, and if he feels her time would be better spent on other leads, that's his call. he says he's never asked that people call him their leader; she points out that everyone in Riverside is there at least in large part out of loyalty to him. he then explains that shannon's habit of pulling on dangling threads is what makes her such a good hacker; more importantly, he wouldn't have her in the team if he didn't trust her judgement, and tells her if she thinks it's worth looking at, she should trust herself as much as he trusts her. she smiles, and gets to work
 	of course, all of this means breakthroughs in brain transplant technology; in other words, a solution to the malignant arc. 
 		Have Mal be captured by the Optimates before meeting riverside; Connor's brain is seized and put in a Tree, while Oxford attempts to interrogate it and implant Manchurian Agent engrams; however Connor is able to resist the programming. Eventually though, Oxford manages to brainwash him completely, and implant his brain in a cybernetic warframe, which attacks Riverside.
+			or, Oxford used a clone in vol 3; they kill the clone but chloe has it put on ice; whenever they get their hands on connor's brain, they can reimplant it
+
+			Maybe, have the Connor-Clone come in vol 4, by him regenerating from his brain - he is able to defeat the others through a mix of cybernetic enhancement and using his face to unnerve them; they are captured alive just before the Demon Invasion begins, specifically because Oxford doesn't want Riverside going to waste; and deep down, he wants to humiliate them by turning them into demon hosts. however, the demon invasion gives chloe enough of a psychic boost to breach into connor's mind, and she's able to break his programming by showing him a child suffering during the invasion; that snaps him out of it, and he rejoins team good guy
+				there's definitely a better solution, but connor reappearing midway through vol 4 as a brainwashed antagonist, only to overcome the programming and help thwart the demon invasion, is a good way to go about it
+				below are suggested solutions
+					maybe connor is brainwashed into thinking the others abandoned him, and when fighting 1v1 Chloe, she eventually manages to make him spare her life, and the brainwashing breaks
+					or the Artanis method - a physical device that must be removed
+					or chloe and connor mind-merge mid-fight, and, like with gwen before, there's a psychic explosion that disables both, but undoes the control
+					or, the control comes from a demon, so they just beat the demon out of him
+
+
 		Mal escapes beforehand and makes reference to a weird laboratory; their origin flashback has them wash up, scare the locals, and be captured by the Optimates; there, a Vacher is shown vivisecting Mal, and extracting a brain from their body - they mention being confused as to how that got in there
 			chloe does DNA analysis of Mal; her conclusion is that they're one of connor's flesh-clones, likely made from a cancerous scrap of his that came off in combat and they failed to secure before being captured; however their serum is unusuable
 
@@ -553,18 +577,7 @@ new gadgets for whiplash/gwen:
 
 
 
-optimates lore: different mook types:
-	super-agent - basic serum user
-	crusader - agent with power armour
-	fenrir - serum-infused canid
-	garm - cyberised fenrir
-	giant/Jotunn - agent with increased stature and strength
-	Titan - giant in power armour
-	Psi-Agent - telepathic super-agent
-	Templar - cyber-psi agent
-	Hound - Junior-type mutant
-	Fiend - Hound in powersuit
-	Transcendant - Moxidar-level mutates
+
 
 
 
@@ -919,11 +932,6 @@ Have the Tunguska event be the arrival of the Moxidar
 
 have siobhan's mum show up in the street
 
-Work on Sparky
-	have him hit puberty/terrible 2s
-	have him breaking into the zoo to see the wolves
-	have connor realise he needs to spend time with his own kind - he books him into daycare
-	finally, missy and anna get a puppy for themselves, and Sparky befriends it
 
 Have a funny scene where the gang hangs out, Chloe yawns, and Connor suggests she "slip into something more comfortable." before providing her with a hoodie and some joggers, then being oblivious when she bursts out laughing
 

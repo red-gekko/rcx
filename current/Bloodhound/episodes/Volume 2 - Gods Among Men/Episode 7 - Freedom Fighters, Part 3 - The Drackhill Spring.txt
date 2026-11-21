@@ -304,8 +304,6 @@ The group sat down in the break room, sipping coffees. Connor, Trey, and Shannon
 Shannon looked at him quizzically. "Shan?"
 "Fuck." he chuckled. "Now *I'm* doing it."
 "There's a workvan outside." Amy nodded. "I stashed your stuff there, before the cops came knocking. All your computers, and that super-suit-thingy."
-"Super-suit?" Shannon tilted her head.
-"Oh, you'll love that." Trey grinned.
 "A mobile HQ... not a bad idea, sis." Connor grinned. "Of course, it'll be great when we move back here."
 "One thing at a time." Trey chuckled. "But yeah - I wouldn't mind driving a superhero hideout."
 "What will you do now?" Amy asked.
@@ -324,7 +322,7 @@ Trey nodded. "Just... be careful, okay?"
 "I will, bro." Connor smiled, embracing him.
 "What's the plan?" Sparky asked.
 "You take the drone depot - pluck the eye outta the sky." Connor nodded. "I'll liberate the SHU - that'll take some heat off of us. After that, we'll link up with Ivan for phase 2."
-"About the drones..." Shannon added, tapping a few keys. "I've found an exploit in their system. If you can get me access to their control tower, I might have a few options for taking them out quietly. Or you can go loud - up to you. I'll monitor police comms, keep you in the loop."
+"About the depot..." Shannon added, tapping a few keys on a laptop wired into the dead drone. "I've found an exploit in their system. If you can get me access to their control tower, I might have a few options for taking them out quietly. Or you can go loud - up to you. I'll monitor police comms, keep you in the loop."
 "Knowing our style of covert operations, it'll be quiet, then really, really loud." Connor grinned.
 Shannon chuckled. "Here's a remote uplink. Just plug it into their system, and we're good to go. Um... you can do that, right?"
 "Yeah, clumsily." he yapped. Connor translated, laughing.

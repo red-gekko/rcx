@@ -2,7 +2,7 @@ VOLUME - Age of Heroes
 EPISODE - The Last Judgement
 ============================================================
 
-The Kestrel finished its rip through the skies, touching down atop the KGB field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
+The Kestrel finished its rip through the skies, touching down atop the Task Force field labs of Karelia. Its wings twisted, spinning the craft in a circle, before its landing legs popped out, and the engines powered down.
 The gang stepped down, out of the passenger section. There, they were greeted by Morozov - flanked by two Jotunns.
 Connor immediately assumed a fighting stance.
 "Connor, wait!" Ivan barked. "They're friendlies."
@@ -15,7 +15,7 @@ Connor hesitated, but nodded. The snowfall began to pick up.
 He turned back to the helipad. The Kestrel's pilot hopped out, and he and Bevan began arranging its refuelling.
 Connor nodded, and the group headed inside, as the snowfall began to pick up.
 
-Chloe made herself comfortable in the laboratories, going over the research the KGB had conducted on the Judge.
+Chloe made herself comfortable in the laboratories, going over the research the Task Force had conducted on the Judge.
 Connor, Trey, and Sparky sat down outside, letting the cold air fill their lungs. Sparky laid down, his head hurting from the travel. Ivan approached.
 "Hell of a craft, isn't she?" he began. "Drackhill to Karelia in just over an hour."
 "Flying in that thing was torture." Trey sighed. "Super-senses don't mesh well with going faster than sound. Not to mention the pigeon-sense."
@@ -26,7 +26,7 @@ Connor, Trey, and Sparky sat down outside, letting the cold air fill their lungs
 "Tovarishch, I swear..." Ivan began, but Connor cut in.
 "Don't call me that. Comrades don't lie to each other like this. Comrades don't keep monsters like the Judge alive."
 "I'm sorry. It wasn't my call." Ivan begged. "I told them this was a bad idea."
-"I went after Murillo because he was using serum. I threatened the FBI because they *thought* about using it. Do I need to start thinking about the KGB?"
+"I went after Murillo because he was using serum. I threatened the FBI because they *thought* about using it. I threatened Bevan just to make it clear Section Zero *couldn't* use it. Do I need to start thinking about the KGB?"
 "We're fighting a war, Connor. We need all the power we can--"
 "I trusted you, Ivan. I trusted you, and you let me down!"
 Ivan looked away, ashamed.
@@ -36,7 +36,7 @@ Connor sighed. "What is this place, exactly?"
 Ivan shook his head.
 "No, volchonok. I promise, we're not doing anything like what happened to you."
 "You promised the Judge was dead, too." Sparky replied, his top lip curling.
-Bevan walked over. "I hope the KGB has learned their lesson."
+Bevan walked over. "I hope the Task Force has learned their lesson."
 "Yes, sir." Ivan nodded. "You can tell your people this won't happen again."
 "Good." Bevan sighed. "Anyway... Chloe has just finished catching up on your research notes. Thank God she's fluent in Russian."
 "Is that why you lot never sent them over?" Connor hissed. "So you could keep this all to yourselves?"
@@ -45,7 +45,7 @@ Bevan walked over. "I hope the KGB has learned their lesson."
 Assembling in the briefing room, the Werewolves, Ivan, Bevan, and a squad of Jotunns took their positions, while Chloe and Morozov stood in front of them.
 "Okay, so, I've finished skimming the reports on the Judge." she began. "I confirmed they're of a similar type of mutant to the Werewolves. They have 15 additional, non-paired chromosomes, which match perfectly onto yours."
 "So why'd he look so different?" asked Ivan.
-"That's the thing... their paired chromosomes." she shuddered. "17 pairs. Humans have 23, wolves have 39, rats have 21. The 17 have no analogue to any known species on Earth. We've only been calling them 'he' out of convenience - I have no idea based on the genetics whether they're male or female. The autopsies done by the KGB didn't look into gametes or genitalia, but... that's not important, anyway."
+"That's the thing... their paired chromosomes." she shuddered. "17 pairs. Humans have 23, wolves have 39, rats have 21. The 17 have no analogue to any known species on Earth. We've only been calling them 'he' out of convenience - I have no idea based on the genetics whether they're male or female. The autopsies done by the Task Force didn't look into gametes or genitalia, but... that's not important, anyway."
 "So... the Judge is an alien?" Trey gasped.
 "I... it's looking that way, yeah." she hesitantly nodded. "Presumably, whatever was done to you three in-utero was done to them, too. I couldn't establish any common markers between the fifteen unpaired and their 17 pairs - implying the 'Werewolf' DNA is as foreign to their species as it is to humans."
 "Great. *Two* different alien species then." Trey groaned.
@@ -200,7 +200,7 @@ Blood sprayed out from both, as they fell backwards, clutching and closing their
 The two charged forward, and slashed. The air stood still for a moment, as both tore past the other. After a second that felt like an hour, a disgusting slipping noise emanated from both.
 The Commandant's hand fell off. As did the Judge's top half.
 
-"Chloe, I must protest." Bevan pressed, rushing after her.
+"Miss Derrington, I must protest." Bevan pressed, rushing after her.
 "No offence, Major, but you'll need two hands for this." she shook her head, zipping up an NBC suit.
 "None taken. But we have the Jotunns!" he begged.
 "There's no NBC suits for them. They won't fit in the Kestrel. And we need them here, in case things go sour, to hold off the Commandant while you evacuate." she replied clinically, boarding the VTOL.
@@ -208,7 +208,8 @@ The Commandant's hand fell off. As did the Judge's top half.
 "Almost." Chloe nodded, strapping herself in. A pair of Jotunns rushed over, carrying barrels which they loaded into the craft.
 "Chloe..." Bevan began.
 "Major, the man I love is out there. As are two of my best friends. And they could all die if I don't do this." she cut in.
-Bevan sighed deeply. "Be careful."
+He smiled softly, before handing her a rifle.
+"Godspeed, Miss Derrington. Come back safe."
 
 The Commandant howled, gripping his arm-stump. His eyes flashed a bright red, the fury cutting through the xeno-endorphins.
 At this, the three Werewolves rose. Catching their breaths, they injected each other with Paradrenaline, and charged to meet the monster.
@@ -227,14 +228,15 @@ That made the next hurt a tiny bit less, as his jaw snapped in two.
 Then another stomp. And another. And another. Before long, Connor's entire lower face was a puddle of red mush and bone fragments. His glowing red eyes stared up, ever defiant.
 The Commandant knelt down, and sighed.
 "Such a waste." he spat, before rising his boot up.
-Blood shot out from Connor's lower face - as his lungs desperately tried to make the noise "Fuck you."
+Blood shot out from Connor's lower face - as his lungs desperately tried to make the noise "Fuck you." His tongue wriggled and writhed in the mess that was once his jaw.
 "What was that?" the Commandant gloated. "I can't hear you."
 And then, a noise boomed from the sky. The Kestrel hovered over the reddened valley.
-The Commandant looked up, and chuckled. "Oh no, not a VTOL! However shall I cope?"
-The doors opened, and Chloe pushed down the barrels. The Commandant punched one before it could hit him, and... he screamed.
+"HEY!" Chloe's voice boomed from the speakers. Then, a hail of bullets poured out of her rifle. The recoil sent her shoulder flying back, but a few hit their mark - the Commandant's back.
+The Commandant looked up unharmed, and chuckled. "Oh no, not a VTOL! However shall I cope?"
+Chloe grinned under her suit, and pushed down the barrels. The Commandant punched one before it could hit him, and... he screamed.
 A horrific yellowish gas filled his lungs, while clear liquid burned into his skin. More barrels rained down.
 Ivan looked on, and grinned. "Umnaya devochka."
-He fired Isabella at the barrels, and the exploding bullets ripped them open, spewing out their contents into the valley.
+He fired Isabella at the barrels while Chloe did the same, and the bullets ripped them open, spewing out their contents into the valley.
 The blood-soaked snowpit became a yellow, misty crater, and the Commandant hacked and spat bile. He stumbled, and fell to his knees.
 His eyes flashed red, he roared, and sprinted off with superhuman speed, uprooting trees as he pushed into the forest.
 "GO! GO! GO!" Chloe barked, as the Kestrel touched down into the valley. She hopped out, as Connor went deathly still.
@@ -293,28 +295,30 @@ Connor woke from his healing coma, launching a globule of blood and bile from hi
 Trey came too. He had morphed a neck-brace, and was still in his costume - minus the mask. Sparky dragged himself over, his mouth still toothless and torn.
 Connor tried to speak, but only made a hissing, rasping noise. He touched his mouth, and... no he didn't. There was no mouth.
 Chloe grabbed a glass, and handed it over. Connor looked at his reflection.
-Calling it a 'face' was incredibly generous. Everything from the nose down had been smashed into an unrecognisable mush. Cracks and bruises adorned the top half of his head. Fresh bone-pulp was forming around the edges of his head, developing into embryonic jawbones.
+Calling it a 'face' was incredibly generous. Everything from the nose down had been smashed into an unrecognisable mush. Cracks and bruises adorned the top half of his head. Fresh bone-pulp was forming around the edges of where his mouth once was, developing into embryonic jawbones.
 He grabbed his packmates' shoulders, and closed his eyes, pressing his mind into them.
 "Where are we?" he thought.
-"Back in that KGB lab." Trey explained. "That 'Commandant' bloke managed to escape, but we're alive at least."
+"Back in that Task Force lab." Trey explained. "That 'Commandant' bloke managed to escape, but we're alive at least."
 "I only just woke up, too." Sparky thought. "That monster hurt our mouths really badly."
 "How are you doing?" Connor asked Trey.
 "I'm fine. Chloe re-set my neck. Still feel like shit, but nowhere near as bad as you guys."
 Connor thought for a moment, and morphed. The black tar poured out of his skin and formed around his 'face,' forming a prosthetic jaw.
 "Nice." Trey grinned. "Don't think she'll be kissing you for a little while, though."
-"That, and I did the acid trick. So realistically, I'd have to wait 12 hours anyway." Connor snarked.
+"That, and I did the acid trick. So realistically, I'd have to wait 12 hours anyway." Connor snarked, slurring heavily.
 Chloe chuckled, and wrapped her arms around him. He smiled warmly, resting his head against hers.
 "That thing was..." she began, lost for words.
-"He could've killed Junior in five minutes flat." Connor grimaced. His words were slurred from the crudeness of his jaw.
+"He could've killed Junior in five minutes flat." Connor grimaced.
 "No kidding. The three of us, *plus* the Judge?" Trey shuddered.
 "I hate him. I wish I could hate him to death!" Sparky barked.
 "I got his hand." Chloe nodded. "I'll take a look as soon as we get back to Drackhill."
 "Did we kill him?" asked Connor.
 Chloe sighed, and squeezed him tightly. "I'm so sorry... I thought the gas would at least incapacitate him. He escaped."
-"Don't be sorry, you did the right thing." Connor said, trying and failing to animate a smile. "You saved our lives. What happened to the Judge?"
+"Don't be sorry, you did the right thing." Connor said, trying and failing to animate a smile. "That was... very brave. You saved our lives."
+"You're not mad I went charging into the field?" she cocked an eyebrow.
+"More thinking we need to work on your aim." Connor quipped. "What happened to the Judge?"
 "They're downstairs." Sparky answered. "Locked up, with more of that stinky gas ready to go if they try anything."
 Connor chuckled, and stood. His whole body ached, but he didn't care.
-"I wanna see them." he said, his words slurred.
+"I wanna see them."
 "Why?" asked Sparky.
 "The Judge wants the Commandant dead, same as us. And they want it for a reason. I wanna know why. And to do that... I'm gonna have to ask them."
 The group headed downwards, into the facility.

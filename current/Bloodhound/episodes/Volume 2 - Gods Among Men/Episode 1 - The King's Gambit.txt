@@ -147,8 +147,9 @@ The drone lost some altitude, and twisted. Connor hit the ground, bending his kn
 "Oh, shit."
 His eyes darted side to side, while his mind moved a mile a minute.
 "Bingo." he grinned, looking at the exposed bonnet of the robbers' van.
-"SELF-DESTRUCT SEQUENCE INITIATED. FIVE. FOUR. THREE."
+"SELF-DESTRUCT SEQUENCE INITIATED."
 Connor's grapple shot out once more, and yanked the battery from the van, before a second rope dragged the drone to the street level.
+"FIVE. FOUR. THREE. TWO."
 He held the battery tightly, and his hand began to glow.
 "AAAAAAAGH!" he screamed, as he delivered its current through his left-hand heart, mercifully bypassing his right. It drove straight into the drone's processor, and sparks began to fly.
 "WARNING. WARN. ING. SYSTEMS OFFLINE. ERROR. ERROR."
@@ -177,8 +178,11 @@ Connor glared at him, then burst into laughter, before turning it into an awkwar
 "You didn't check the news?" Connor tilted his head.
 "I was hungover from the moment I got home on New Year's, up until about an hour ago."
 "Valid." Connor chuckled. "Stopped some bank robbers last night. Nabbed a CT drone, too - you've seen those hovering about?"
-"Yeah, fuckin' pigs. Nice that someone's poking their eyes in the skies." Trey chuckled.
-"You always get the fun jobs..." Sparky whined.
+"Yeah, fuckin' pigs. Nice that someone's poking their eyes in the skies." Trey chuckled. "How'd you get one?"
+"Tried shocking it with my bioelectricity - but that only sent it into self-destruct. I grabbed a car battery, zapped it to make it discharge, and then drove its current into the drone. Fucking thing made my heart give out."
+"...and you're okay?"
+"Heart. Singular." Connor winked. "Annoyingly, my bio-blasts aren't very strong - they're more like severe static shocks than they are an EMP. Shannon's taking the husk apart right now - hopefully we learn something."
+"You always get the fun jobs..." Sparky sighed.
 "Hey, buddy... your job was way more important." Connor countered. "Stopping the shipments of those guns now means we can avoid 10 bank robberies later."
 "Still... I call dibs on the next big one."
 "Deal."
@@ -210,7 +214,7 @@ Her tone shifted slightly. "Yeah, I've been okay. I told you I went round Bea's 
 "See you in a bit!" both boys replied.
 "Hmm..." Trey said, lost in thought.
 "You okay?" Connor asked.
-"Yeah, just... the whole thing with Bea and Charlie. Everything I learn about the guy makes me worry more."
+"Yeah, just... the whole thing with Bea and Charlie. Everything I learn about the guy makes me worry more. The Hellfire Club thing is just the start."
 "I know what you mean. Chloe sounds worried, that's for sure." Connor mused.
 "Wow, you actually picked up on her subtext for a change!" Trey teased. "I heard the way she answered the phone - she was very happy to hear from you."
 "Well, I mean... I get happy when you call me, doesn't mean I'm in love with you."
@@ -252,7 +256,7 @@ Meanwhile, Bea had headed straight for Trey and embraced him. Tea approached.
 Connor nodded and let Sparky out.
 "Hello! Hi Chloe! Hi Bea! Hi, Woman Who Looks And Smells A Bit Like Bea!" Sparky barked, greeting Chloe, Bea, and Tea respectively.
 "Hah, he's a vocal pup isn't he?" Tea beamed. Connor smiled and stroked Sparky's ears. Sparky whined slightly - only Connor picked up on it.
-"You guys go in - I think Sparky might need a wee." he said.
+"Yous can go in - I think Sparky might need a wee." he said.
 "Huh? No, I went at the funny petrol-smelling place--ohhhh." Sparky began, realising Connor wanted to speak with him. "I mean, yes, I need a pee very badly."
 "Okay - door's unlocked, just let yourself in." Bea smiled, and the rest of the group went inside. Once the door closed, Connor squatted down to Sparky's level. Sparky looked sad.
 "Hey, bud..." Connor began, scratching behind Sparky's ears. "I know it's frustrating to you, that no one else can hear you."
@@ -450,9 +454,9 @@ Connor smiled, reaching back to scratch behind Sparky's ear. "Right back at you,
 Connor sat on a park bench overlooking the river, while Sparky was enjoying a new ball-throwing machine. Ivan approached, and sat next to him.
 "Privet, tovarishch." he announced himself with. "Good work last night!"
 "Hah, thanks. Any news on your side?"
-"Our friends in the KGB are happy. We have a new mission as well - wetwork again." Ivan said matter-of-factly.
+"Our friends in the Task Force are happy. We have a new mission as well - wetwork again." Ivan said matter-of-factly.
 "Contract killing?"
-"Da. This one's a favour for the KGB specifically." Ivan replied. He opened his briefcase and handed Connor a photo. It was of a man in army fatigues, addressing a crowd of soldiers.
+"Da. This one's a favour for Leningrad specifically." Ivan replied. He opened his briefcase and handed Connor a photo. It was of a man in army fatigues, addressing a crowd of soldiers.
 "Vadim Zamaldayev. Chechen warlord. He's been responsible for repeated killings of Soviet loyalists - and any ethnic minorities or gay people he can get his hands on." Ivan said, barely masking his disgust.
 "You have history with him?" Connor asked.
 "Da. I was a Commissar in the army when he took Grozny. I was there, during the evacuation. That's where I met Isabella."
@@ -461,10 +465,10 @@ Ivan laughed, before turning more serious. "There's more. Look at this..." he tu
 "Him..." Connor growled.
 "Indeed." Ivan grimly nodded. "Zamaldayev has a direct line to Paladin's leader, and the Optimates' attack dog."
 In the letter, Zamaldayev thanked the Commandant for his provision of Super-Serum to the Chechen Secret Service - and detailed how he used these new super-soldiers to wipe out a village of Kumyk people. His fist clenched.
-"What's the KGB offering in return?" Connor asked. Ivan smirked.
+"What's the Task Force offering in return?" Connor asked. Ivan smirked.
 "They've offered to dig up dirt on Vitalis." Ivan answered. "That's right, they'll find out why your Chloe was put on the case."
 Connor smiled. "Well, I would have killed this piece of shit either way, but if you insist..."
-"One small thing." Ivan added. "We're only supposed to kill his Super-Agents. We need to bring Zamaldayev to Leningrad - I'll handle that part. KGB want to have a few words before they bury him."
+"One small thing." Ivan added. "We're only supposed to kill his Super-Agents. We need to bring Zamaldayev to Leningrad - I'll handle that part. Leningrad wants to have a few words before they bury him."
 Ivan sighed and looked out into the horizon. He removed his sunglasses, revealing his black-veined eyes. The cost of Connor's salvation by serum was more than just physical.
 "Ivan?" Connor asked, concerned.
 "We're so close." he replied. "Soviet loyalists have been moving further and further east from our strongholds in Belarus and Leningrad. Loyalists further east have made gains in Siberia, and Kazakhstan is close to rejoining. Killing Zamaldayev means we can start making motion in the Caucasus, and it means Volgograd can begin supporting us on its own. We take this man... we're one step closer to getting Moscow back. And from that, we can begin to rebuild." he explained wistfully.
@@ -497,7 +501,7 @@ President of Algeria."
 Connor smiled. "Al-Dhib?" he asked.
 "The Wolf." Ivan replied. "Seems your Werewolf nickname is growing on people."
 Connor thought for a moment. "Paladin is stepping up, and we are too. This whole thing could blow up in a bad way. You know... it's probably not a bad idea to bear in mind his offer of sanctuary."
-"Indeed." Ivan nodded. "We'll take down Zamaldayev soon - it'll take a while for the KGB to get us an opening."
+"Indeed." Ivan nodded. "We'll take down Zamaldayev soon - it'll take a while for the Task Force to get us an opening."
 Connor bowed his head. "Anything else? Any new locations to hit?"
 Ivan stroked his beard. "Maybe. I heard rumours of some human trafficking ring - but we don't have the surveillance for that. I'd ask your friend Tommy if he's heard anything. Other than that... how are you for cash?"
 Connor tilted his head.
@@ -522,7 +526,7 @@ Connor sighed, and showed it.
 The door creaked as it opened. Connor stepped into the Horse backroom - Ivan and Sparky followed in behind him. Tommy and Shannon looked up, relieved at the heroes' arrival.
 "That was quick." Tommy nodded.
 "You said it was urgent." Connor shrugged. "Oh, right - you've not met in person until now."
-"Ivan Sokolov, KGB." he saluted. "I'm a big fan of your work, Shannon."
+"Ivan Sokolov, KGB Task Force N." he saluted. "I'm a big fan of your work, Shannon."
 "Oh, thanks." Shannon smiled shyly.
 Ivan saluted deferentially, and turned back. "And Mr. Crane - nice to finally meet properly."
 Tommy waved by his brow, as if doffing an invisible cap. "Likewise, comrade."

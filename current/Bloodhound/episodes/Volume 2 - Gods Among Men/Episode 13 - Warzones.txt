@@ -20,7 +20,7 @@ He pointed to a photograph.
 Connor smiled softly. Ivan took a deep breath, and continued.
 "I've told you a little about my run-in with him."
 "The battle of Grozny?" Connor tilted his head.
-"That's the one. We managed to evacuate most Soviet Loyalists that day, but we lost the SFSR. We had to retreat to the Georgian SSR, and regroup. That's when I joined the KGB."
+"That's the one. We managed to evacuate most Soviet Loyalists that day, but we lost the SFSR. We had to retreat to the Georgian SSR, and regroup. That's when I joined the Task Force."
 "How have things been in Chechnya since then?"
 "There's a Turkic group called the Kumyks who live here - they and ethnic Russians make up the vast majority of non-Chechens here. Zamaldayev has taken to ethnically cleansing them. Currently, he's personally overseeing massacres."
 "Silver lining - he's exposed." Connor growled excitedly.
@@ -107,7 +107,7 @@ Connor knelt down, and went to stroke him, before realising he was using the wro
 Connor thought for a moment, before turning pale again. "I... that hasn't happened before. Sparky, was I--"
 "Just like when I ate that guy ages ago." Sparky nodded. "You've been suppressing the hunger for a long time - but in situations like that, when the fighting is over, you just need to eat."
 "Eat. Eat. Eat." the word echoed through his subconscious. Connor shuddered.
-Ivan cleared his throat. "Anyway, I've just heard back from our pals in the KGB."
+Ivan cleared his throat. "Anyway, I've just heard back from our pals in the Task Force."
 "So soon?" Connor asked.
 "We don't mess around." Ivan grinned. "We found something - the reason why Chloe was put on your case."
 Connor leant in, intent on listening. "It's my fault, isn't it? They put her there to get to me?"
@@ -138,15 +138,16 @@ Gwen leaned forward. "What's the plan?"
 "Follow the shipment. I've traced it to a warehouse near the old industrial canal. You go in, you find out where the goods are going. But don't just hit the first truck you see - if we can follow it to the source, we can take out the whole operation, not just tonight's delivery."
 Amy rose, her gauntlets already humming with charge. Gwen stood too, Bubo flapping his wings.
 "Let's roll." Amy nodded.
-"One more thing." Shannon cut in. "I've got a present for you, Gwen."
+"One more thing." Shannon cut in. "I've got a present for you both. First, Gwen?"
 She handed over a box, which Gwen opened.
 "Ah... this is good." she grinned. It was a smooth ball, drilled down the middle and attached to a length of bungee cord.
 "I call it the 'Swingshot.'" Shannon chuckled. "It was that or 'Tactical Yo-yo.'"
-Then she passed over another box.
-"This bad boy, I call the 'Ka-boomerang!' Um... just 'boomerang' is probably better."
-She demonstrated by holding the folded object, and snapping it open. It was made of blunted damascened steel.
 "Thanks." Gwen smiled. "You're the best armourer I've ever had."
-Shannon chuckled. "Good luck, guys. Stay safe."
+Shannon chuckled. "As for you, Amy - I think it's unfair that the others can fly. So, I made this bad boy for you."
+She walked over, and hauled out Amy's Vanta bike - it had a folded set of metal wings fixed onto it.
+"The Eidolon drone Connor captured after New Years." she began. "I've taken out its weapon systems, and made some improvements to its flight - then grafted it onto the bike. It folds down when not in use, but you can use it for short-range flights. It also shares its battery with your suit, so you should be able to last longer in combat. In other words... it's a hoverbike."
+"Holy... holy shit." Amy gasped, hopping on. The wings snapped out, and she rolled her shoulders. "From now on, you're the team leader. Fuck Connor."
+Shannon giggled. "Good luck, guys. Stay safe."
 
 The rain had returned, as it always did in Drackhill. A mist coated the valley in a slick, grey sheen.
 Amy and Gwen moved through the Belson backstreets, Bubo gliding silently above. The hum of traffic was distant here, muffled by the towering warehouses and shuttered shops.
@@ -164,7 +165,7 @@ Her gauntlet clamped over his mouth, and before he could struggle, a controlled 
 The second guard was patrolling the perimeter fence. He turned at the last moment, eyes widening.
 "Wha--"
 *THUMP!*
-Gwen grinned as the guard's eyes rolled back, and she caught the boomerang on its return.
+Gwen grinned as the guard's eyes rolled back, her Slingshot landing square in his temple. She summoned a dust devil, and it sailed back to her.
 Two down.
 The third guard was near the main entrance. He was bigger than the others, built like a brick wall, with a shaved head that reflected the daylight. He didn't look surprised when Amy stepped out of the shadows.
 "Oi." he grunted. "You're that Stunlocke bird, ain't ya?"
@@ -180,14 +181,14 @@ Amy rushed over, and ripped off his jacket - there. Some kind of skintight bodys
 "Hmm..." Shannon pondered, before typing. "Looks like some kind of protective bodysuit - those seams must be micro-wires that distribute the shocks. Stunlocke, I'll work on upgrading your gauntlets; failing that, I'll find an alternative weapon system. Maybe a PEPS gun... hmm..."
 Amy chuckled, and slapped the man's cheek. She dragged him up, and slammed him against the wall.
 "Where's the shipment?"
-He spat blood at her feet. "You ain't the Werewolf, love. I'm not telling you nuffin'."
+He spat blood at her feet. "You ain't the Werewolf, love. You ain't scary. I'm not telling you nothin'."
 Amy tightened her grip, the electricity humming. "I can keep doing this until your heart gives out. Then, I'll resuscitate you, and do it again. Start. Talking."
 The colour drained from the guard's face. "Okay, okay!" he gasped. "It's at the old depot on Mercer Street! They're moving it tonight, to a lab somewhere! I don't know where!"
 Amy released him, letting him slump to the ground. A strike to the head knocked him out cold.
 "That was... effective." Gwen noted.
 Amy grinned. "Let's move."
 
-The depot on Mercer Street was a rusted, forgotten place - a relic of the old industrial days when Belson had been a hub of manufacturing. Now, it was just another skeleton.
+The depot on Mercer Street was a rusted, forgotten place - a relic of the old industrial days when Belson had been a hub of manufacturing. Now, it was just another skeleton in the rusty boneyard.
 Amy and Gwen crouched on a rooftop, watching as a group of Skinners loaded crates into a truck.
 "That's the shipment." Shannon confirmed over the commline. "Medical supplies, by the look of the labels."
 "How many?" Amy asked.
@@ -199,33 +200,36 @@ Amy started to rise, but Shannon's voice cut in.
 "We find the source." Gwen finished.
 Amy sighed, disappointed a little. "Alright. What about the goons here?"
 "We can't spare the manpower - we need to prioritise." Shannon sighed. "I'm sorry."
-"I'll follow from the air." Gwen began. "Me and Bubo can keep an eye on the truck."
-"I'll tail them on my bike." Amy nodded.
+"We'll follow from the air." Gwen nodded.
 The owl hooted softly, and took off.
-Amy watched as Gwen deployed her paraglider, the wind catching it and lifting her silently into the night sky. The Skinners below didn't look up, while Amy hopped aboard the Vanta.
-"Be careful." Amy whispered.
-Gwen's voice crackled over the commline. "Always."
+Amy watched as Gwen deployed her paraglider, the wind catching it and lifting her silently into the night sky. The Skinners below didn't look up, while Amy hopped onto her bike. It's wings slowly unfolded, as the engine purred excitedly.
+"Here goes nothing..." she whispered, as the rotors charged up and she hooked herself to it.
+*VROOM!*
+She closed her eyes as it rapidly gained altitude - then, cheered gleefully as she sailed over the rooftops.
+"WOOOOO!"
 
-The truck wound its way through the streets of Belson, heading south towards the river. Gwen and Bubo followed from above.
-"They're heading towards the docks." she reported.
-"Can you see me?" Amy asked.
-"Yeah - but they can't. Stick to the alleyways - it's daytime, people might recognise you."
+The truck wound its way through the streets of Belson, heading south towards the river.
+"They're heading towards the docks." Gwen reported. "We're not far."
+"Hey, Jinx!" Amy began. "You *sure* we had to remove the weapon systems?"
+"If you want it to be able to carry a 50kg suit, then yes." Shannon quipped. "You're armed enough. Besides, non-lethal is harder at range - I'm working on that."
 The truck pulled into a large, fenced compound near the water - a depot that was clearly still in use. Several other trucks were parked inside, and workers - some in Skinner leathers, others in plain clothes - moved between them.
 "This is it." Gwen said. "Jinx, you getting this?"
 "Loud and clear." Shannon confirmed. "You girls ready?"
-"Hell yeah." Amy grinned, hopping off her bike. "Whiplash, Blindspot?"
+"Hell yeah." Amy grinned. "Whiplash, Blindspot?"
 "You really like calling him that, don't you?" Gwen chuckled. "Let's roll."
-Amy didn't need to be told twice. She vaulted over the fence, her gauntlets crackling.
+Amy didn't need to be told twice. She unplugged herself, and fell to the ground.
+*SMACK!*
+She cracked the pavement beneath, and landed in a three-point pose, her gauntlets crackling.
 "OI!" she barked. "Knock knock!"
 The Skinners turned, eyes wide. One of them dropped a crate, medical vials spilling across the concrete.
 "It's that Stunlocke bitch!" someone shouted.
 "Get her!"
 Two men rushed her. Amy met them head-on, her Vibroblade extending into a shortsword with a sharp *SHIK.* She parried a crowbar by cutting it in half, spun, and drove her gauntlet into the first man's chest. He flew back, unconscious.
 The second swung a knife at her head. She caught his wrist, twisted, and sent him tumbling with a shock. Then, a third had the back of her blade smack into his face, and he convulsed before his world went black.
-"Three down." she reported. "Gwen, where are you?"
+"Three down." she reported. "Whiplash, where are you?"
 A gust of wind answered her, as Gwen descended from the sky, her bow drawn. An arrow took another Skinner in the shoulder, pinning him to a truck.
 "Four." she said, landing gracefully.
-The remaining Skinners scrambled, as Amy pressed the attack. She caught one by the leg, swinging him into a stack of crates. Another tried to run, before Gwen's boomerang caught him across the temple, sending him sprawling.
+The remaining Skinners scrambled, as Amy pressed the attack. She caught one by the leg, swinging him into a stack of crates. Another tried to run, before Gwen's Swingshot caught him across the temple, sending him sprawling.
 "Five, six." Amy counted, dropping the last man with a punch to the jaw. She raised her blade at the workers.
 "We--we surrender!" one begged.
 "Good choice." Amy grinned, spinning her blade in the air before sheathing it.
@@ -241,7 +245,7 @@ The police arrived in short order - a single van pulled into the lot, and a smal
 "Likewise, Detective." she grinned. "I'll let the Werewolf know you missed him."
 Naismith looked at her, then at Gwen. "You're the archer. Whiplash, right?"
 "That's right."
-Nina stepped forward, her eyes scanning the crates. "Sir, these are the exact medications that were reported stolen - the ones Judi mentioned."
+Nina stepped forward, her eyes scanning the crates. "Sir, these are the exact medications that were reported stolen - the ones Dr. Rosenbaum mentioned."
 "Good work." Naismith nodded. "We'll take it from here."
 
 The private airfield was quiet, most of the time. Aside from the passing of Zeppelins, there was only one plane today - and it just landed.
@@ -270,7 +274,9 @@ Connor sank onto the sofa, Sparky curling up beside him.
 "I'd better call Chloe." he sighed.
 "You got fucked by a tank, and your first thought is her." Amy chuckled, sitting down. "Cute."
 "Yeah." Connor smiled. "I... I really like her."
-Amy leaned back. "Oh, we sorted out those drug thefts, by the way."
+Amy grinned. "Oh, and I can fly now, too. Shannon managed to make the old drone have mechanical intercourse with your bike, and we made it into a flyer. Pretty fuckin' sick, compared to your weird membrane-thing."
+"Rude. And who the fuck said you could mess with my bike?" Connor snarked. "Poor old Ivan - he's the only field operative who can't fly now."
+"Boo hoo. Pretty sure the KGB have planes." Amy laughed. "Oh, we sorted out those drug thefts, by the way."
 "Nice one. That's one less fire." he nodded proudly. "You're damn good, Stunlocke."
 "You're not too bad, Slamshot."
 "Big words from the girl who can't grow back teeth."

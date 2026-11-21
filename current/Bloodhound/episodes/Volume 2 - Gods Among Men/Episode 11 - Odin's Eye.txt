@@ -4,12 +4,12 @@ EPISODE - Odin's Eye
 
 Grozny, Chechen ASSR. 18th of February, 2009.
 Separatist forces led by Islamist warlord Vadim Zamaldayev had captured the city. Recognising their position was untenable, Soviet Loyalists had organised a convoy to escape into Russia proper. But Zamaldayev's forces had spotted them, and mobbed nearby.
-The evacuation would have been doomed - were it not for the 9th Motor Rifle Division's timely arrival.
+The evacuation would have been doomed - were it not for the 9th Motor Rifle Division's timely arrival, backed up by the 7th Airborne troops, or 'VDV.'
 This was going to be the Battle of Grozny.
 
-The Division's commander, Major Iosef Tarkovsky - an older man, with a nervous disposition - was surveying some maps, alongside his aides.
+The group commander, Lieutenant General Iosef Tarkovsky - an older man, with a nervous disposition - was surveying some maps, alongside his aides.
 "[It's a mess out there.]" Tarkovsky noted dryly.
-"[Yes, sir.]" an aide nodded. "[Our current strategy is to have Makharadze and Lebedev reinforce Ahmadov - the de facto leader of the Chechen Loyalist forces. From there, general Trepov will come in from the north, and close in on the insurgents. Once they are put to rout, we will complete the evacuation.]"
+"[Yes, sir.]" an aide nodded. "[Our current strategy is to have Makharadze and Lebedev's groups reinforce Ahmadov - the de facto leader of the Chechen Loyalist forces. From there, general Trepov's VDV will come in from the north, and close in on the insurgents. Once they are put to rout, we will complete the evacuation.]"
 "[Is there any hope of us taking the city?]" Tarkovsky asked wearily.
 "[I'm afraid not, sir. Even if Zamaldayev died here, the city is effectively lost to us. Our only hope is to cross back over the mountains, and pray Moscow hasn't fallen when we get there.]"
 "[So be it.]" Tarkovsky sighed. "[Begin the operation.]"
@@ -23,9 +23,9 @@ A shell, or a missile, or something else - she wasn't quite sure. The explosion 
 She stood there for a moment, unable to think. Her brow furrowed, her pupils constricted, and then...
 She marched over, and grabbed the man's rifle. She tore off her medic patch - not that it had stopped them already. She clicked her shoulder back into place, readied the gun, grabbed a drum magazine, and charged.
 
-Meanwhile, just north of the AO, Trepov's forces were caught by separatists, and were stuck in a bloody battle with them, unable to support the convoy.
+Meanwhile, just north of the AO, Trepov's VDV forces were intercepted by separatists, and were stuck in a bloody battle with them, unable to support the convoy.
 Trepov ducked as a bomb went off near him. He looked around, and sprinted to his armoured car.
-Across the battlefield, Regimental Commissar Ivan Sokolov spotted him running.
+Across the battlefield, Divisional Commissar Ivan Sokolov spotted him running.
 "[TREPOV!]" he roared. "[GET BACK HERE, YOU COWARD!]"
 "[The commander's leaving!]" one soldier shouted.
 "[We're doomed! We have to retreat!]" another cried.
@@ -58,6 +58,8 @@ A Super-Agent. One of the first, in fact.
 *BOOM!*
 The Agent fell to the ground, headless. Through Isabella's scope, Ivan looked in horror.
 "[How the fuck did she not kill him...]" he whispered, aghast. "[What kind of animals are these traitors?]"
+He was shaken from his stupor by a familiar noise above.
+The VDV's gunships strafed the separatists with bullets, before parachutes unfurled like flowers in bloom.
 Finally, the tide of battle turned. The separatist forces turned and ran back to fortified positions in Grozny, while the Soviet troops made it to the mountains. The evacuation had been a success.
 Ivan clambered atop a wrecked vehicle - it wasn't clear if it was Soviet or rebel - and addressed his comrades-in-arms.
 "[Comrades!]" he shouted. "[Today, we gave these traitors a bloody nose. I know - I *know* we have suffered, as well. We have lost too many. Now is the time to rest, and to heal. Tomorrow, we return to Moscow. And from there, we pay these rebel scum back, with interest! Long live the Soviet Union! On with the Red Dawn!]"
@@ -94,14 +96,14 @@ Then, a man approached him.
 "[Commissar Sokolov?]" he asked.
 "[Who's asking?]"
 The man took out a badge. "[Vladimir Morozov, KGB.]"
-The two went to a separate room. There, General Tarkovsky, along with colonels Lebedev and Makharadze, sat.
+The two went to a separate room. There, Tarkovsky, along with colonels Lebedev and Makharadze, sat.
 "[Comrade Sokolov.]" Tarkovsky began.
 "[General.]" Ivan nodded.
 "[We were saddened to learn of the heroic death-in-service of colonel Trepov.]" Lebedev noted sourly.
 "[Perhaps you could enlighten us about the details of his sacrifice, comrade?]" Makharadze added.
 "[Comrades.]" Morozov interrupted. The two colonels flared their eyes, but relented.
 Tarkovsky continued. "[With Moscow's fall, returning home may be... dangerous. Comrade Morozov here has informed me that Tbilisi remains loyal. Therefore, we will march to Georgia instead, and seek reinforcements, before retaking the capital.]"
-Ivan shook his head. "[General, with respect, the 9th cannot hope to take Moscow, even if the entire Transcaucasian Military District was at our side.]"
+Ivan shook his head. "[General, with respect, we cannot hope to take Moscow, even if the entire Transcaucasian Military District was at our side. The 9th and the VDV alone? That's suicide.]"
 "[He's right, Tarkovsky.]" Morozov nodded. "[Get your men to Tbilisi, let them rest, and do what you can here in the Caucasus. As much as I weep for the Motherland... this will be a long, long war.]"
 Tarkovsky looked like he wanted to say something, but instead merely saluted, and left. Makharadze and Lebedev rose and left, without saluting. Lebedev made sure to bump his shoulder against Ivan's as he walked past.
 "[That was some very good shooting, comrade.]" Morozov began.
@@ -112,13 +114,17 @@ Morozov grinned. "[We can't win a conventional war against our own people - you 
 "[Go on?]"
 "[Our enemies appear to be backed by some... cabal. We believe they sponsored Kruglov's rise, and now have taken advantage of his idiocy. And they are also behind the creation of this... super-soldier you took down. Our mission... is to find these conspirators, and kill them all.]"
 "[You want me to become an assassin?]" Ivan tilted his head.
-"[I want you to help me save our country.]" Morozov replied. "[First things first - we will accompany the 9th to Georgia. From there, you will focus on eliminating rebel groups in Abkhazia and Ossetia. Soften them up, and the 9th should be able to roll on into Sukhumi.]"
+"[I want you to help me save our country.]" Morozov replied. "[I have a place for you. Officially, you'll work in Directorate V.]"
+"[Vympel? You want me to join a Spetsnaz force?]"
+"[Oh, not at all. We are beyond Spetsnaz, comrade. According to the KGB's own documents, we do not exist. On paper, you're Vympel - in truth, I am asking you to join Task Force Null.]"
+Ivan stroked his beard. "[What are you planning?]"
+"[First things first - we will accompany the soldiers to Georgia. From there, you will focus on eliminating rebel groups in Abkhazia and Ossetia. Soften them up, and the Motor Rifles and VDV should be able to roll on into Sukhumi.]"
 "[Why me?]"
 "[Two reasons. First, you're clearly a better sniper than you let on - that's a rare talent. Second, you're a Commissar - that is, one of the few people we can count on to be absolutely loyal to the Socialist cause. Now, comrade, I ask you - are you in?]"
-Ivan hesitated. He shook Morozov's hand.
+Ivan hesitated - and then, he shook Morozov's hand.
 "[I'm in, comrade.]"
 
-As the 9th prepared for its slow march to Tbilisi, the Commandant smiled viciously in his office. He was in a Georgia, too - in a former plantation house, with a statue of Robert E. Lee in the driveway, and the Stainless Banner fluttering in the warm breeze.
+As the combined group prepared for its slow march to Tbilisi, the Commandant smiled viciously in his office. He was in a Georgia, too - in a former plantation house, with a statue of Robert E. Lee in the driveway, and the Stainless Banner fluttering in the warm breeze.
 "Sir." an aide entered.
 "I heard about Moscow." the Commandant grinned. "Tell our proxies to expect more operatives in the coming months. How did the field test go?"
 "The Agent in Grozny performed well, sir." the aide began. "We have over 130 confirmed kills to its name. However... it was killed by a sniper."
@@ -519,7 +525,7 @@ Back in Belson, Morland went over some paperwork, as Jones knocked on the door.
 "And?"
 Jones replied by showing a chromosome chart. 42 normal rat chromosomes - and 15 extra.
 "My god..." he gasped. "It worked..."
-Jones looked around shiftily. "The death rate - it's the same as with Fenrir... and with Progeny. I... I think we can say with certainty now, this 'Werewolf' ....is one of the children. I recommend we try and track down the---"
+Jones looked around shiftily. "The death rate - it's the same as with Fenrir... and with Progeny. I... I think we can say with certainty now, this 'Werewolf...' is one of the children. I recommend we try and track down the---"
 "This is strictly confidential." Morland shook his head. "You don't tell anybody. Not your co-workers, not your little intern Ms. Derrington, *nobody.*"
 Jones hesitated, but nodded, and left.
 Morland pulled out his phone.

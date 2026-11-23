@@ -31,6 +31,7 @@ VOLUME - CODEX
 			Now is the time of monsters.
 
 		Foreword
+////
 		______________________________
 		SCENE
 			It is autumn, 2015. The world stands on the brink - undone by events decades in the making.
@@ -158,7 +159,7 @@ VOLUME - CODEX
 			Now is the time of monsters.
 
 		Time of Monsters
-
+\\
 
 ______________________________
 VOLUME - Wolves Among Sheep
@@ -454,7 +455,7 @@ VOLUME - Wolves Among Sheep
 		Enter, Sparky
 		______________________________
 		SCENE
-			Chloe, Amy, and Bea arrived outside the Singing Horse.
+			The rain was beginning to come down heavier now, as Chloe, Amy, and Bea arrived outside the Singing Horse.
 			At the entrance stood a large, bald, tattooed man, in a bouncer's uniform.
 			"Ladies." he nodded, before lighting up upon recognising Amy.
 			"Hey, Pawel!" Amy beamed. "Connor in tonight?"
@@ -562,7 +563,7 @@ VOLUME - Wolves Among Sheep
 			"You are not fine! What the hell happened?"
 			"Nothing."
 			"No! This was because of me, wasn't it?"
-			"This was a bunch of pricks. They would have done that regardless. I'm just glad you got one beforehand. Besides, I think I knocked out one of them anyway." Connor smirked, wincing slightly.
+			"This was a bunch of pricks. They would have done that regardless. I'm just glad you got one beforehand. Besides, I think I got a few anyway." Connor smirked, wincing slightly.
 			"I'm so sorry." Amy began, a single tear coming down her cheek.
 			"Don't be. I've taken worse - as you know."
 			She sighed. "Fuckin' Skinners. Right outside the Horse, too?"
@@ -29044,9 +29045,11 @@ VOLUME - Gods Among Men
 			Chloe thought to herself - if that voice ordered her to jump from that rooftop, she would. She shook her head, glad that it was directed at Kirk instead.
 			Kirk sneered, clearly rattled but not broken. He straightened, and chuckled darkly. "Hah... nice try."
 			He holstered his weapon with a deliberate slowness, as if dismissing Connor's power. "You think you can intimidate me with your little tricks?"
-			"*I'm not here to intimidate you. I'm hear to coat my boot with your brain.*" Connor snarled.
-			"Come then, Traitor - show me your wrath! SHOW ME YOUR RAGE!"
-			Connor's eyes glowed a deep, furious red. His muscles tightened, rippling with supernatural strength. With a primal roar, he charged.
+			"*I'm not here to intimidate you. I'm here to coat my boot with your brain.*" Connor snarled.
+			"Come then, Traitor!" Kirk grinned with glee, drawing his blade. "Show me the gifts we gave you! Show me the POWER! Show me the WRATH! SHOW ME THE *RAGE!*"
+			Connor's eyes glowed a deep, furious red. His muscles tightened, rippling with supernatural strength.
+			"*You gave me my STRENGTH.*" he whispered and screamed. "*The RAGE... is MINE ALONE!*"
+			With a primal roar, he charged.
 			He threw a punch with such force that the air seemed to crack around it - aided, no doubt, by Gwen's power from above. Kirk barely managed to block, but the impact sent him sliding back. Connor pressed the attack, launching another punch, then a devastating uppercut that could take a human's head off. Each swing felt like it could tear through steel, each blow a promise of death.
 			Chloe looked on, horrified and transfixed by the scene. But only one thought was in her mind.
 			In his Rage, Connor didn't bother to hide his voice. Sure, he may have been shouting with a supernatural growl, but still...

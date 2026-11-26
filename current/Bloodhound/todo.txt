@@ -7,6 +7,22 @@ need to find a way to justify the transition from dark vigilante war to multiple
 !!!
 	Main thing? Magic. Lean into Esper stuff loads to make the transition to more fantastical happenings less jarring. Also, foreshadow the Judge and the Werewolves being aliens as much as possible
 
+make certain all scenes and episodes have strong openers. episode ending should slap too
+
+
+
+write a pov scene from naismith attending a connor fight; he gets some good shots in before connor escapes, when the fog of war clears he sees a bunch of criminals he recognises hanging from the rafters by their feet, with a note saying "merry christmas pig-dick, XOXO" - he has this ordered for forensics
+	connor is one of the hangers, and when they pull off  the sack on his head (all of them are headsacked), he says boo and attacks, terrifying the other officers into running away. he corners naismith and nina, and they refuse to be intimidated by him - so he fire-fists in order to make them shield their eyes, before smoke bombing and running away - when they go and look at the crooks, they realise the warrants and naismith muses "merry christmas" incredulously
+	when connor ambushes naismith the following morning, he makes note of the above events; naismith admits that he and his men would've dropped bodies in the ensuing gunfight, but thanks to the intervention of a mutant psychopath, no one died. connor grins, and says that for a supposed ruthless killer, he sure does save a lot of lives.
+
+	later, connor snarks that one of the bullets nearly hit his crotch, and naismith chuckles, before pointing out that he can't just *not* go after him, and it's not like humans are more than an inconvenience to him; connor agrees, but asks that next time, he aim for the chest - naismith laughs and accepts, before remarking sombrely that he and his men would've left bodies trying to get that gang, whereas connor took them down without a drop of blood - connor snarks that there was a couple drops, but he takes the point, and suggests to naismith that next time there's an armed raid coming up, he can tell him about it and he'll handle it
+
+
+cute moment where connor brings a cupcake with him up to chloe's flat in consent, and lights it with his fire breath - she blushes and blows it out, before they start making out
+
+have bevan lighting a smoke in mourning after; connor asks if he needs a hand before apologising, and they talk when connor lights it with a blow
+also, make Bevan ex-royal marine
+
 
 
 have bea drunkenly try it on with trey and amy, before bursting into tears
@@ -191,6 +207,60 @@ potentially for the calderfolk:
 
 
 
+
+add some kind of tech-bracer/gauntlet shannon invents that acts as a communicator, hacking device, scanner, emergency weapon, grappling hook, and coagulator - basically an Omni-Tool mixed with a Hidden Blade. Werewolves use a modified version that cuts out the stuff they can morph. the device is compact enough to be hidden under a sleeve, so all Riversiders wear them
+	modules
+		claw glove - glove addition with retractable claws
+		grappling hook
+		crossbow
+		comm link/radio scanner (can bluetooth to the earpieces)
+		coagulator sprayjet
+		retractable wristblade
+		bomb launcher with multiple options
+			caltrops
+			frags
+			flashbang
+			smoke
+			drug gas
+				hallucinogenic
+				panic
+				enrager
+				depressant
+				sedative
+				emetic (stink bomb)
+				lethal
+				paralytic/neocurare
+			cryogenic
+			acid
+			adhesive foam
+			EMP
+			anti-radio chaff
+			incendiary bombs
+			concussive bomb
+			sticky IEDs (remote detonated or proximity based)
+		flamethrower
+		sonic emmitter
+		laser raygun
+		mini-Pulsar/PEPS
+		Net launcher
+		Retractable buckler
+		Wrist-mounted baton
+		geiger counter
+		rope dart/whip
+		shock knuckles
+		wrist gun
+		drug dart gun
+
+	since the whole thing will be very bulky, using more than 3 extra modules requires a shoulder mount, as well as a back brace to cope with the extra weight effeciently, making it non-covert. More than 6 modules would require a full suite of power armour
+	most of this stuff will go in the utility belt
+	naismith and nina get a pair each - naismiths has retractable batons for his Nightstick persona, while Nina gets wrist mounted air guns for Slamshot II. Both get net launchers, coagulators, and grappling hooks
+
+
+
+
+
+
+
 Notes for the sewer mutants plot:
 	as the squad roster grows, more people stay in the motel. they expand the underground section, eventually breaking into an underhill segment - kicking off the cult arc
 	Later, (in volume 3), while on fireman duty, Connor gets approached by the fire chief and informed of a worrying case. a pair of plumbers went missing while working inside the sewers, then two firemen sent to look for them were attacked and found dead; the fire chief hands over his men's body cam footage, showing them getting swarmed by horrific bat-fish monsters.
@@ -231,7 +301,7 @@ villains of the week - some B-plot ideas to be used on sparser episodes:
 	Nightstick - a wannabe vigilante looking after Brynmore, weilding batons
 		Ooo actually!! Have Nightstick be Naimith's vigilante identity
 		alternatively, have the TO24 spinoff be called "Nightsticks" - the term applies to the squad as a whole
-			deleted most of to24, they're now just the duo
+			deleted most of to24, they're now just the duo - call them The Enforcers when they become superheroes
 			the Nightsticks become a second team, who focus on Drackhill exclusively, use non-lethal methods (moffat snipes with a tranq gun, and they use rubber bullets and eponymous shock batons along with tear gas and flashbangs); they also work closely with Stunlocke II
 				they create a new VPU on Mercy Isle that houses any captive mutants
 					note that all Super-Agents have failsafes implanted that kill them if they are captured
